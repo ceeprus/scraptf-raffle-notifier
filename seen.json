@@ -185,11 +185,6 @@
    "end": null,
    "ended": true
   },
-  "KDHQ91": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -384,6 +379,13 @@
    "end": 1784881562,
    "title": "I'm back for a moment and an announcement",
    "items": 8,
+   "ended": false
+  },
+  "IEZXNT": {
+   "msg": "1529957657530597620",
+   "end": null,
+   "title": "Fast noise",
+   "items": 4,
    "ended": false
   }
  },
