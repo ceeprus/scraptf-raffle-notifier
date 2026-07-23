@@ -486,5 +486,11 @@
    "items": 4,
    "ended": false
   }
+ },
+ "megaraffle": {
+  "num": 1157,
+  "end": 1784851200,
+  "msg": "1529893518389022894",
+  "ended": false
  }
 }
