@@ -230,11 +230,6 @@
    "end": null,
    "ended": true
   },
-  "LGI8JG": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -330,6 +325,20 @@
    "msg": "1529923745190514910",
    "end": 1784918341,
    "title": "Gifted Cosmetics #504",
+   "items": 1,
+   "ended": false
+  },
+  "A5MDUW": {
+   "msg": "1529926321495343235",
+   "end": 1784876282,
+   "title": "my name is Giorno Giovanna and i have a dream",
+   "items": 1,
+   "ended": false
+  },
+  "4YTZWX": {
+   "msg": "1529926328206495790",
+   "end": 1784918941,
+   "title": "Gambling #29",
    "items": 1,
    "ended": false
   }
