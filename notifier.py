@@ -15,6 +15,7 @@ State (seen.json):
 """
 
 import html as html_lib
+import io
 import json
 import os
 import re
@@ -22,6 +23,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+import uuid
 
 RAFFLES_URL = "https://scrap.tf/raffles"
 MEGARAFFLE_URL = "https://scrap.tf/megaraffle"
@@ -36,7 +38,8 @@ TITLE_RE = re.compile(
 )
 TIME_RE = re.compile(r'class="raffle-time-left"[^>]*data-time="(\d+)"')
 ITEM_RE = re.compile(r'class="item hoverable')
-IMAGE_RE = re.compile(r'background-image:url\((https://[^)]+)\)')
+PAIR_RE = re.compile(
+    r'quality(\d+)[^>]*?background-image:url\((https://[^)]+)\)')
 
 IS_COMPONENTS_V2 = 1 << 15  # Discord message flag
 
@@ -50,10 +53,33 @@ COLOR_BIG = 16766720      # gold, big raffles
 COLOR_MEGA = 10181046     # purple, megaraffle
 COLOR_ENDED = 9807270     # gray tombstone
 BIG_RAFFLE_ITEMS = 10
-GALLERY_MAX = 4           # item images shown per raffle (Discord allows 1-10)
+GALLERY_MAX = 4           # mosaic fallback: images shown when strip fails
+
+# Item strip (composed PNG) look
+STRIP_BG = (35, 32, 30)         # scrap.tf-ish dark brown
+STRIP_CELL_BG = (48, 44, 41)
+STRIP_CELL = 72                 # cell pixel size
+STRIP_PAD = 8
+STRIP_PER_ROW = 5
+STRIP_SLOTS = 10                # 2 rows; last slot becomes +N badge if needed
+
+# TF2 item quality colors, keyed by scrap.tf's qualityN class number
+QUALITY_COLORS = {
+    0: (178, 178, 178),   # Normal
+    1: (77, 116, 85),     # Genuine
+    3: (71, 98, 145),     # Vintage
+    5: (134, 80, 172),    # Unusual
+    6: (255, 215, 0),     # Unique
+    7: (112, 176, 74),    # Community
+    9: (112, 176, 74),    # Self-Made
+    11: (207, 106, 50),   # Strange
+    13: (56, 243, 171),   # Haunted
+    14: (170, 0, 0),      # Collector's
+    15: (250, 250, 250),  # Decorated
+}
 
 
-def build_live_message(raffle: dict) -> dict:
+def build_live_message(raffle: dict, strip: bool = False) -> dict:
     url = f"https://scrap.tf/raffles/{raffle['id']}"
     color = COLOR_BIG if raffle["items"] >= BIG_RAFFLE_ITEMS else COLOR_NORMAL
     ends = f" · Ends <t:{raffle['end']}:R>" if raffle["end"] else ""
@@ -62,11 +88,16 @@ def build_live_message(raffle: dict) -> dict:
         "content": f"## [{raffle['title']}]({url})\n"
                    f"\U0001F381 **{raffle['items']} items**{ends}",
     }]
-    if raffle["images"]:
+    if strip:
         inner.append({
-            "type": 12,  # Media Gallery
+            "type": 12,  # Media Gallery holding the composed strip
+            "items": [{"media": {"url": "attachment://items.png"}}],
+        })
+    elif raffle["item_data"]:
+        inner.append({
+            "type": 12,  # Media Gallery, mosaic fallback
             "items": [{"media": {"url": u}}
-                      for u in raffle["images"][:GALLERY_MAX]],
+                      for _, u in raffle["item_data"][:GALLERY_MAX]],
         })
     inner.append({
         "type": 10,
@@ -78,6 +109,68 @@ def build_live_message(raffle: dict) -> dict:
             {"type": 17, "accent_color": color, "components": inner},
         ],
     }
+
+
+def compose_strip(item_data: list, total: int) -> bytes:
+    """Render item icons into one PNG: quality-colored cells, +N badge in the
+    last slot when the raffle holds more than fits. Raises on any failure —
+    caller falls back to the plain mosaic."""
+    from PIL import Image, ImageDraw, ImageFont
+
+    icons = []
+    for quality, url in item_data[:STRIP_SLOTS]:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            img = Image.open(io.BytesIO(r.read())).convert("RGBA")
+        icons.append((quality, img))
+    if not icons:
+        raise ValueError("no item images")
+
+    if total <= len(icons):
+        shown, badge = icons[:total], 0
+    else:
+        shown, badge = icons[:STRIP_SLOTS - 1], total - (STRIP_SLOTS - 1)
+
+    slots = len(shown) + (1 if badge else 0)
+    per_row = min(slots, STRIP_PER_ROW)
+    rows = (slots + STRIP_PER_ROW - 1) // STRIP_PER_ROW
+    cell, pad = STRIP_CELL, STRIP_PAD
+    im = Image.new("RGBA", (pad + (cell + pad) * per_row,
+                            pad + (cell + pad) * rows), STRIP_BG + (255,))
+
+    def cell_at(i):
+        r, c = divmod(i, STRIP_PER_ROW)
+        return (pad + c * (cell + pad), pad + r * (cell + pad))
+
+    for i, (quality, icon) in enumerate(shown):
+        tile = Image.new("RGBA", (cell, cell), STRIP_CELL_BG + (255,))
+        tile.alpha_composite(icon.resize((cell - 8, cell - 8)), (4, 4))
+        d = ImageDraw.Draw(tile)
+        d.rounded_rectangle([0, 0, cell - 1, cell - 1], radius=8, width=2,
+                            outline=QUALITY_COLORS.get(quality, (255, 232, 168)))
+        im.alpha_composite(tile, cell_at(i))
+
+    if badge:
+        tile = Image.new("RGBA", (cell, cell), STRIP_BG + (255,))
+        d = ImageDraw.Draw(tile)
+        font = None
+        for name in ("arialbd.ttf", "DejaVuSans-Bold.ttf"):
+            try:
+                font = ImageFont.truetype(name, 20)
+                break
+            except OSError:
+                continue
+        font = font or ImageFont.load_default()
+        text = f"+{badge}"
+        box = d.textbbox((0, 0), text, font=font)
+        d.text(((cell - (box[2] - box[0])) // 2,
+                (cell - (box[3] - box[1])) // 2 - 2),
+               text, font=font, fill=(255, 255, 255, 255))
+        im.alpha_composite(tile, cell_at(len(shown)))
+
+    out = io.BytesIO()
+    im.convert("RGB").save(out, format="PNG")
+    return out.getvalue()
 
 
 def build_mega_message(num: int, end) -> dict:
@@ -168,7 +261,8 @@ def extract_raffles(page: str) -> list:
             "title": title or "Untitled raffle",
             "end": int(em.group(1)) if em else None,
             "items": len(ITEM_RE.findall(chunk)),
-            "images": [upsize(u) for u in IMAGE_RE.findall(chunk)[:GALLERY_MAX]],
+            "item_data": [(int(q), upsize(u)) for q, u
+                          in PAIR_RE.findall(chunk)[:STRIP_SLOTS]],
         })
     return raffles
 
@@ -228,6 +322,32 @@ def webhook_request(url: str, payload: dict, method: str = "POST") -> dict:
     return json.loads(body) if body else {}
 
 
+def webhook_post_with_file(url: str, payload: dict, filename: str,
+                           filebytes: bytes) -> dict:
+    boundary = f"----raffle{uuid.uuid4().hex}"
+    parts = [
+        f'--{boundary}\r\nContent-Disposition: form-data; '
+        f'name="payload_json"\r\nContent-Type: application/json\r\n\r\n'
+        .encode() + json.dumps(payload).encode("utf-8") + b"\r\n",
+        f'--{boundary}\r\nContent-Disposition: form-data; '
+        f'name="files[0]"; filename="{filename}"\r\n'
+        f'Content-Type: image/png\r\n\r\n'.encode() + filebytes + b"\r\n",
+        f"--{boundary}--\r\n".encode(),
+    ]
+    req = urllib.request.Request(
+        url,
+        data=b"".join(parts),
+        headers={
+            "Content-Type": f"multipart/form-data; boundary={boundary}",
+            "User-Agent": USER_AGENT,
+        },
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        body = resp.read()
+    return json.loads(body) if body else {}
+
+
 def main() -> None:
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "")
     raffles = extract_raffles(fetch_page())
@@ -249,10 +369,18 @@ def main() -> None:
         if first_run:
             entry["ended"] = True  # seed silently, nothing to tombstone
         elif webhook:
+            post_url = webhook + "?with_components=true&wait=true"
             try:
-                msg = webhook_request(
-                    webhook + "?with_components=true&wait=true",
-                    build_live_message(raffle))
+                try:
+                    png = compose_strip(raffle["item_data"], raffle["items"])
+                    msg = webhook_post_with_file(
+                        post_url, build_live_message(raffle, strip=True),
+                        "items.png", png)
+                except Exception as e:
+                    # Strip failed (missing Pillow, CDN hiccup, Discord
+                    # rejecting the upload): degrade to the plain mosaic.
+                    print(f"Strip failed for {rid} ({e}), using mosaic.")
+                    msg = webhook_request(post_url, build_live_message(raffle))
                 entry["msg"] = msg.get("id")
                 posted += 1
                 time.sleep(1)
