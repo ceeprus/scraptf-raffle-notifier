@@ -1,95 +1,469 @@
-[
-"2AI3WN",
-"ENVUDL",
-"Z6DO9L",
-"C6DKXO",
-"K6A3CB",
-"1LNXOQ",
-"GVUYWX",
-"THS87G",
-"T9VBVT",
-"VN49E5",
-"WXVME8",
-"QX7VDT",
-"P51M28",
-"6W14UP",
-"DBN0M1",
-"Z169HI",
-"M75E0B",
-"DE1BSZ",
-"L2LEJL",
-"8Q173C",
-"UKH8UF",
-"3R8SLR",
-"HAH4E6",
-"64896M",
-"IFDTOW",
-"SW95Q9",
-"O6L555",
-"Q7705F",
-"SAD39J",
-"JQOFR0",
-"VBD2ZF",
-"1416D4",
-"7FFWTB",
-"ARS8GY",
-"9ZVL17",
-"HVWBSP",
-"LJP40L",
-"Z002L9",
-"CHYYW7",
-"XHPGAD",
-"86Q3ES",
-"2V9AWJ",
-"DVNOK1",
-"6WQIHG",
-"Q69L2F",
-"VDIMWJ",
-"XZYC50",
-"JI7X37",
-"NRNMZZ",
-"KDHQ91",
-"2DWEBJ",
-"5MZU6A",
-"A020C2",
-"BVMZMC",
-"LGI8JG",
-"ASE819",
-"EQBCK1",
-"JRGAER",
-"7JL4UV",
-"KJLW48",
-"DN6GSU",
-"HSO30V",
-"OG5Z1Y",
-"6D3E8Q",
-"0DX9K9",
-"VBCYRH",
-"CKOU3Z",
-"PHA3OH",
-"QGI007",
-"2VU3UJ",
-"AG112Z",
-"TR1H7Y",
-"U8OM57",
-"MB9YLI",
-"Q9WVSQ",
-"UEGV6A",
-"89U1DA",
-"U9WU9S",
-"P7CCSV",
-"Y7IVEE",
-"J4N75K",
-"MEXH3F",
-"7A15YU",
-"HIZ7LT",
-"778QGD",
-"2TQ16O",
-"6SDE2Z",
-"OL30OC",
-"OUQ35M",
-"UI3J7P",
-"FGMQRU",
-"N6O2OC",
-"W859SC"
-]
+{
+ "raffles": {
+  "2AI3WN": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "ENVUDL": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "Z6DO9L": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "C6DKXO": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "K6A3CB": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "1LNXOQ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "GVUYWX": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "THS87G": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "T9VBVT": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "VN49E5": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "WXVME8": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "QX7VDT": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "P51M28": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "6W14UP": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "DBN0M1": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "Z169HI": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "M75E0B": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "DE1BSZ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "L2LEJL": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "8Q173C": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "UKH8UF": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "3R8SLR": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "HAH4E6": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "64896M": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "IFDTOW": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "SW95Q9": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "O6L555": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "Q7705F": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "SAD39J": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "JQOFR0": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "VBD2ZF": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "1416D4": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "7FFWTB": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "ARS8GY": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "9ZVL17": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "HVWBSP": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "LJP40L": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "Z002L9": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "CHYYW7": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "XHPGAD": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "86Q3ES": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "2V9AWJ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "DVNOK1": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "6WQIHG": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "Q69L2F": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "VDIMWJ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "XZYC50": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "JI7X37": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "NRNMZZ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "KDHQ91": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "2DWEBJ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "5MZU6A": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "A020C2": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "BVMZMC": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "LGI8JG": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "ASE819": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "EQBCK1": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "JRGAER": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "7JL4UV": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "KJLW48": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "DN6GSU": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "HSO30V": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "OG5Z1Y": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "6D3E8Q": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "0DX9K9": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "VBCYRH": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "CKOU3Z": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "PHA3OH": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "QGI007": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "2VU3UJ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "AG112Z": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "TR1H7Y": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "U8OM57": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "MB9YLI": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "Q9WVSQ": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "UEGV6A": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "89U1DA": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "U9WU9S": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "P7CCSV": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "Y7IVEE": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "J4N75K": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "MEXH3F": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "7A15YU": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "HIZ7LT": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "778QGD": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "2TQ16O": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "6SDE2Z": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "OL30OC": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "OUQ35M": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "UI3J7P": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "FGMQRU": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "N6O2OC": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  },
+  "W859SC": {
+   "msg": null,
+   "end": null,
+   "ended": true
+  }
+ }
+}
