@@ -165,16 +165,6 @@
    "end": null,
    "ended": true
   },
-  "VDIMWJ": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "XZYC50": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -397,6 +387,20 @@
    "end": 1784927761,
    "title": "Promise me if you win you will do a tour",
    "items": 1,
+   "ended": false
+  },
+  "YBHHRZ": {
+   "msg": "1529967749282136176",
+   "end": 1784886181,
+   "title": "https://scrap.tf/raffles/",
+   "items": 1,
+   "ended": false
+  },
+  "MK1JRY": {
+   "msg": "1529967755925782720",
+   "end": 1784929261,
+   "title": "Hello! Have a great day!",
+   "items": 3,
    "ended": false
   }
  },
