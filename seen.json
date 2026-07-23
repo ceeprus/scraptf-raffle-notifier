@@ -225,11 +225,6 @@
    "end": null,
    "ended": true
   },
-  "BVMZMC": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -339,6 +334,13 @@
    "msg": "1529926328206495790",
    "end": 1784918941,
    "title": "Gambling #29",
+   "items": 1,
+   "ended": false
+  },
+  "NF0OB5": {
+   "msg": "1529928765700968499",
+   "end": 1784876400,
+   "title": "Bison",
    "items": 1,
    "ended": false
   }
