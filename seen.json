@@ -175,16 +175,6 @@
    "end": null,
    "ended": true
   },
-  "JI7X37": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "NRNMZZ": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -393,6 +383,20 @@
    "end": 1784927162,
    "title": "Free Stock Weapons... but with a twist.",
    "items": 24,
+   "ended": false
+  },
+  "TY5ATA": {
+   "msg": "1529962683032408214",
+   "end": 1784884861,
+   "title": "1 in 100",
+   "items": 1,
+   "ended": false
+  },
+  "759GDH": {
+   "msg": "1529962689076531220",
+   "end": 1784927761,
+   "title": "Promise me if you win you will do a tour",
+   "items": 1,
    "ended": false
   }
  },
