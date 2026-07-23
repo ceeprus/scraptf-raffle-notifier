@@ -196,6 +196,7 @@ def build_ended_message() -> dict:
                 {"type": 10, "content": "**\U0001F3C1 Raffle ended**"},
             ]},
         ],
+        "attachments": [],  # drop the uploaded item strip, if any
     }
 
 
@@ -203,7 +204,8 @@ def build_ended_embed_legacy() -> dict:
     """Fallback for messages posted before the Components V2 switch —
     Discord refuses to add the V2 flag when editing an old message."""
     return {"embeds": [{"title": "\U0001F3C1 Raffle ended",
-                        "color": COLOR_ENDED}]}
+                        "color": COLOR_ENDED}],
+            "attachments": []}
 
 
 # ---------------------------------------------------------------------------
@@ -280,11 +282,20 @@ def load_state() -> dict:
     return data
 
 
-def save_state(state: dict) -> None:
+def save_state(state: dict, on_page=()) -> None:
     now = int(time.time())
+
+    def stale(e, rid):
+        if not e.get("ended"):
+            return False
+        if e.get("end"):
+            return now - e["end"] > PRUNE_AFTER
+        # No end time recorded (entries migrated from the old list format):
+        # prune once the raffle has left the page.
+        return rid not in on_page
+
     state["raffles"] = {
-        rid: e for rid, e in state["raffles"].items()
-        if not (e.get("ended") and e.get("end") and now - e["end"] > PRUNE_AFTER)
+        rid: e for rid, e in state["raffles"].items() if not stale(e, rid)
     }
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=1)
@@ -410,7 +421,11 @@ def main() -> None:
         mega = None
     if mega:
         entry = state.get("megaraffle") or {}
-        if entry.get("num") != mega["num"]:
+        if first_run and not entry:
+            # Seed silently, same as raffles on a fresh state.
+            state["megaraffle"] = {"num": mega["num"], "end": mega["end"],
+                                   "msg": None, "ended": False}
+        elif entry.get("num") != mega["num"]:
             # Number rolled over: previous megaraffle finished.
             if entry.get("msg") and not entry.get("ended"):
                 if webhook:
@@ -444,7 +459,7 @@ def main() -> None:
             entry["ended"] = True
             tombstoned += 1
 
-    save_state(state)
+    save_state(state, on_page={r["id"] for r in raffles})
     if first_run:
         print(f"Seeded {len(raffles)} existing raffles, nothing posted.")
     else:
