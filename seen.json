@@ -235,16 +235,6 @@
    "end": null,
    "ended": true
   },
-  "ASE819": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "EQBCK1": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -327,6 +317,20 @@
    "end": 1784832602,
    "title": "\ud83d\udc9aTake away my noisemakers#7\ud83d\udc9a",
    "items": 46,
+   "ended": true
+  },
+  "IW2M3X": {
+   "msg": "1529923736298324092",
+   "end": 1784875381,
+   "title": "unclaimed stuff",
+   "items": 3,
+   "ended": false
+  },
+  "2YP41H": {
+   "msg": "1529923745190514910",
+   "end": 1784918341,
+   "title": "Gifted Cosmetics #504",
+   "items": 1,
    "ended": false
   }
  },
