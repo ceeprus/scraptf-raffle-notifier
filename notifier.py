@@ -136,7 +136,7 @@ def compose_strip(item_data: list, total: int) -> bytes:
     rows = (slots + STRIP_PER_ROW - 1) // STRIP_PER_ROW
     cell, pad = STRIP_CELL, STRIP_PAD
     im = Image.new("RGBA", (pad + (cell + pad) * per_row,
-                            pad + (cell + pad) * rows), STRIP_BG + (255,))
+                            pad + (cell + pad) * rows), (0, 0, 0, 0))
 
     def cell_at(i):
         r, c = divmod(i, STRIP_PER_ROW)
@@ -151,7 +151,7 @@ def compose_strip(item_data: list, total: int) -> bytes:
         im.alpha_composite(tile, cell_at(i))
 
     if badge:
-        tile = Image.new("RGBA", (cell, cell), STRIP_BG + (255,))
+        tile = Image.new("RGBA", (cell, cell), (0, 0, 0, 0))
         d = ImageDraw.Draw(tile)
         font = None
         for name in ("arialbd.ttf", "DejaVuSans-Bold.ttf"):
@@ -165,11 +165,12 @@ def compose_strip(item_data: list, total: int) -> bytes:
         box = d.textbbox((0, 0), text, font=font)
         d.text(((cell - (box[2] - box[0])) // 2,
                 (cell - (box[3] - box[1])) // 2 - 2),
-               text, font=font, fill=(255, 255, 255, 255))
+               text, font=font, fill=(255, 255, 255, 255),
+               stroke_width=2, stroke_fill=(0, 0, 0, 200))
         im.alpha_composite(tile, cell_at(len(shown)))
 
     out = io.BytesIO()
-    im.convert("RGB").save(out, format="PNG")
+    im.save(out, format="PNG")
     return out.getvalue()
 
 
