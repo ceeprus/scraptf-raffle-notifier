@@ -21,12 +21,25 @@ into a gray `🏁 Raffle ended` tombstone.
 
 ## Scheduling
 
-The workflow has a `*/5` cron, but GitHub delays or skips cron on young/quiet
-repos. For reliable 5-minute polling this repo is triggered externally: a
-[cron-job.org](https://cron-job.org) job POSTs to
+Primary trigger is external: a [cron-job.org](https://cron-job.org) job POSTs
+to
 `https://api.github.com/repos/<owner>/<repo>/actions/workflows/notify.yml/dispatches`
-every 5 minutes with a fine-grained PAT (this repo only, Actions read+write).
-Both triggers can coexist — a concurrency group serializes runs.
+every 5 minutes with a fine-grained PAT (this repo only, Actions read+write) —
+GitHub's own cron delays or skips on young/quiet repos. The workflow keeps a
+`*/30` cron as a light backup; a concurrency group serializes overlapping
+runs.
+
+## Being polite to scrap.tf
+
+- Only robots.txt-allowed public pages are fetched (`/raffles`,
+  `/megaraffle`), about 300 requests/day total — less than a person
+  refreshing the page.
+- The megaraffle page is only fetched when its known end time approaches,
+  not every run.
+- The User-Agent identifies this script and links here, so site admins can
+  identify or contact rather than block.
+- On HTTP 429/5xx the run skips quietly and waits for the next cycle; no
+  retries, no hammering.
 
 ## How it works
 

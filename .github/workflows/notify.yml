@@ -2,7 +2,9 @@ name: raffle-notify
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    # Light backup only — primary 5-minute trigger is an external
+    # cron-job.org job hitting workflow_dispatch.
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:

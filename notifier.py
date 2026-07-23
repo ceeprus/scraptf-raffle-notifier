@@ -27,7 +27,10 @@ import uuid
 
 RAFFLES_URL = "https://scrap.tf/raffles"
 MEGARAFFLE_URL = "https://scrap.tf/megaraffle"
-USER_AGENT = "scraptf-raffle-notifier (personal notification script)"
+USER_AGENT = ("scraptf-raffle-notifier/1.0 "
+              "(+https://github.com/ceeprus/scraptf-raffle-notifier; "
+              "personal raffle notifications)")
+MEGA_FETCH_MARGIN = 600  # only fetch megaraffle page this close to its end
 SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.json")
 PRUNE_AFTER = 7 * 86400  # drop tombstoned entries a week after they end
 
@@ -216,8 +219,15 @@ def build_ended_embed_legacy() -> dict:
 
 def fetch_page(url: str = RAFFLES_URL) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        body = resp.read().decode("utf-8", errors="replace")
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            body = resp.read().decode("utf-8", errors="replace")
+    except urllib.error.HTTPError as e:
+        if e.code == 429 or e.code >= 500:
+            # Site busy or rate limiting: skip this run quietly, retry next.
+            print(f"scrap.tf returned HTTP {e.code}, skipping this run.")
+            sys.exit(0)
+        raise
     if "Just a moment" in body or "cf-chl" in body:
         sys.exit("Blocked by Cloudflare challenge — this IP can't scrape scrap.tf.")
     return body
@@ -413,13 +423,23 @@ def main() -> None:
             entry["ended"] = True
             tombstoned += 1
 
-    # Megaraffle: one rolling raffle on its own page. Never let its failure
-    # break normal raffle notifications.
-    try:
-        mega = extract_megaraffle(fetch_page(MEGARAFFLE_URL))
-    except Exception as e:
-        print(f"Megaraffle check failed: {e}")
-        mega = None
+    # Megaraffle: one rolling raffle on its own page. Its end time is known,
+    # so skip fetching the page entirely until the end draws near — saves a
+    # request per run. Never let its failure break raffle notifications.
+    tracked_mega = state.get("megaraffle")
+    mega_fetch_needed = (
+        not tracked_mega
+        or tracked_mega.get("ended")
+        or not tracked_mega.get("end")
+        or tracked_mega["end"] <= now + MEGA_FETCH_MARGIN
+    )
+    mega = None
+    if mega_fetch_needed:
+        try:
+            time.sleep(1)  # small gap between the two page fetches
+            mega = extract_megaraffle(fetch_page(MEGARAFFLE_URL))
+        except Exception as e:
+            print(f"Megaraffle check failed: {e}")
     if mega:
         entry = state.get("megaraffle") or {}
         if first_run and not entry:
