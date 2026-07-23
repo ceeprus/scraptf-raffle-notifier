@@ -190,11 +190,6 @@
    "end": null,
    "ended": true
   },
-  "2DWEBJ": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -375,6 +370,20 @@
    "end": 1784924341,
    "title": "Untitled raffle",
    "items": 9,
+   "ended": false
+  },
+  "C6DC5L": {
+   "msg": "1529949854585979112",
+   "end": 1784925061,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LFRZOY": {
+   "msg": "1529949864182550568",
+   "end": 1784881562,
+   "title": "I'm back for a moment and an announcement",
+   "items": 8,
    "ended": false
   }
  },
