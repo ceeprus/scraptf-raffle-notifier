@@ -245,16 +245,6 @@
    "end": null,
    "ended": true
   },
-  "JRGAER": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "7JL4UV": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -323,6 +313,20 @@
    "end": 1784916721,
    "title": "New PFP",
    "items": 1,
+   "ended": false
+  },
+  "7O4D1R": {
+   "msg": "1529918750474764348",
+   "end": 1784917501,
+   "title": "Weapon of the Prime Soul #3",
+   "items": 1,
+   "ended": false
+  },
+  "MFDVTN": {
+   "msg": "1529918759739850893",
+   "end": 1784832602,
+   "title": "\ud83d\udc9aTake away my noisemakers#7\ud83d\udc9a",
+   "items": 46,
    "ended": false
   }
  },
