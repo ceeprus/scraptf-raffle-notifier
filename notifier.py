@@ -24,6 +24,7 @@ import urllib.error
 import urllib.request
 
 RAFFLES_URL = "https://scrap.tf/raffles"
+MEGARAFFLE_URL = "https://scrap.tf/megaraffle"
 USER_AGENT = "scraptf-raffle-notifier (personal notification script)"
 SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.json")
 PRUNE_AFTER = 7 * 86400  # drop tombstoned entries a week after they end
@@ -46,6 +47,7 @@ IS_COMPONENTS_V2 = 1 << 15  # Discord message flag
 
 COLOR_NORMAL = 4718336    # green, raffles under BIG_RAFFLE_ITEMS items
 COLOR_BIG = 16766720      # gold, big raffles
+COLOR_MEGA = 10181046     # purple, megaraffle
 COLOR_ENDED = 9807270     # gray tombstone
 BIG_RAFFLE_ITEMS = 10
 GALLERY_MAX = 4           # item images shown per raffle (Discord allows 1-10)
@@ -78,6 +80,21 @@ def build_live_message(raffle: dict) -> dict:
     }
 
 
+def build_mega_message(num: int, end) -> dict:
+    url = "https://scrap.tf/megaraffle"
+    ends = f"\nEnds <t:{end}:R>" if end else ""
+    return {
+        "flags": IS_COMPONENTS_V2,
+        "components": [
+            {"type": 17, "accent_color": COLOR_MEGA, "components": [
+                {"type": 10,
+                 "content": f"## [\U0001F389 Megaraffle #{num}]({url}){ends}\n\n"
+                            f"**[\U0001F449 CLICK HERE]({url})**"},
+            ]},
+        ],
+    }
+
+
 def build_ended_message() -> dict:
     return {
         "flags": IS_COMPONENTS_V2,
@@ -101,13 +118,23 @@ def build_ended_embed_legacy() -> dict:
 # ---------------------------------------------------------------------------
 
 
-def fetch_page() -> str:
-    req = urllib.request.Request(RAFFLES_URL, headers={"User-Agent": USER_AGENT})
+def fetch_page(url: str = RAFFLES_URL) -> str:
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=30) as resp:
         body = resp.read().decode("utf-8", errors="replace")
     if "Just a moment" in body or "cf-chl" in body:
         sys.exit("Blocked by Cloudflare challenge — this IP can't scrape scrap.tf.")
     return body
+
+
+def extract_megaraffle(page: str):
+    """Return {num, end} for the currently running megaraffle, or None."""
+    hist = re.search(r"/megaraffle/history/(\d+)", page)
+    if not hist:
+        return None
+    em = TIME_RE.search(page)
+    return {"num": int(hist.group(1)) + 1,
+            "end": int(em.group(1)) if em else None}
 
 
 def strip_tags(fragment: str) -> str:
@@ -170,6 +197,25 @@ def save_state(state: dict) -> None:
         f.write("\n")
 
 
+def tombstone_message(webhook: str, msg_id: str, label: str) -> None:
+    msg_url = f"{webhook}/messages/{msg_id}"
+    try:
+        webhook_request(msg_url + "?with_components=true",
+                        build_ended_message(), method="PATCH")
+    except urllib.error.HTTPError as e:
+        if e.code == 400:
+            # Pre-V2 message: edit its embed instead.
+            try:
+                webhook_request(msg_url, build_ended_embed_legacy(),
+                                method="PATCH")
+            except urllib.error.HTTPError as e2:
+                if e2.code != 404:
+                    print(f"Tombstone failed for {label}: HTTP {e2.code}")
+        elif e.code != 404:  # 404: deleted by hand, fine
+            print(f"Tombstone failed for {label}: HTTP {e.code}")
+    time.sleep(1)
+
+
 def webhook_request(url: str, payload: dict, method: str = "POST") -> dict:
     req = urllib.request.Request(
         url,
@@ -221,25 +267,52 @@ def main() -> None:
             continue
         if entry.get("end") and entry["end"] <= now:
             if webhook:
-                msg_url = f"{webhook}/messages/{entry['msg']}"
-                try:
-                    webhook_request(msg_url + "?with_components=true",
-                                    build_ended_message(), method="PATCH")
-                except urllib.error.HTTPError as e:
-                    if e.code == 400:
-                        # Pre-V2 message: edit its embed instead.
-                        try:
-                            webhook_request(msg_url, build_ended_embed_legacy(),
-                                            method="PATCH")
-                        except urllib.error.HTTPError as e2:
-                            if e2.code != 404:
-                                print(f"Tombstone failed for {rid}: "
-                                      f"HTTP {e2.code}")
-                    elif e.code != 404:  # 404: deleted by hand, fine
-                        print(f"Tombstone failed for {rid}: HTTP {e.code}")
-                time.sleep(1)
+                tombstone_message(webhook, entry["msg"], rid)
             else:
                 print(f"[dry run] tombstone: {rid}")
+            entry["ended"] = True
+            tombstoned += 1
+
+    # Megaraffle: one rolling raffle on its own page. Never let its failure
+    # break normal raffle notifications.
+    try:
+        mega = extract_megaraffle(fetch_page(MEGARAFFLE_URL))
+    except Exception as e:
+        print(f"Megaraffle check failed: {e}")
+        mega = None
+    if mega:
+        entry = state.get("megaraffle") or {}
+        if entry.get("num") != mega["num"]:
+            # Number rolled over: previous megaraffle finished.
+            if entry.get("msg") and not entry.get("ended"):
+                if webhook:
+                    tombstone_message(webhook, entry["msg"],
+                                      f"megaraffle #{entry.get('num')}")
+                else:
+                    print(f"[dry run] tombstone: megaraffle #{entry.get('num')}")
+                tombstoned += 1
+            new_entry = {"num": mega["num"], "end": mega["end"],
+                         "msg": None, "ended": False}
+            if webhook:
+                try:
+                    msg = webhook_request(
+                        webhook + "?with_components=true&wait=true",
+                        build_mega_message(mega["num"], mega["end"]))
+                    new_entry["msg"] = msg.get("id")
+                    posted += 1
+                    time.sleep(1)
+                except urllib.error.HTTPError as e:
+                    print(f"Post failed for megaraffle: HTTP {e.code}")
+            else:
+                print(f"[dry run] new megaraffle #{mega['num']}")
+            state["megaraffle"] = new_entry
+        elif (not entry.get("ended") and entry.get("msg")
+                and entry.get("end") and entry["end"] <= now):
+            if webhook:
+                tombstone_message(webhook, entry["msg"],
+                                  f"megaraffle #{entry['num']}")
+            else:
+                print(f"[dry run] tombstone: megaraffle #{entry['num']}")
             entry["ended"] = True
             tombstoned += 1
 
