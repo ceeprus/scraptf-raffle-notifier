@@ -145,11 +145,6 @@
    "end": null,
    "ended": true
   },
-  "9ZVL17": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -414,6 +409,20 @@
    "end": 1784875081,
    "title": "7500 Votes Special!!",
    "items": 2,
+   "ended": false
+  },
+  "RGTJYI": {
+   "msg": "1529989146515341313",
+   "end": 1784934000,
+   "title": "Cold as Ice #15",
+   "items": 1,
+   "ended": false
+  },
+  "7501QT": {
+   "msg": "1529989155042627624",
+   "end": 1784934000,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
