@@ -185,11 +185,6 @@
    "end": null,
    "ended": true
   },
-  "6WQIHG": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "Q69L2F": {
    "msg": null,
    "end": null,
@@ -317,6 +312,13 @@
    "end": 1784914921,
    "title": "nose",
    "items": 12,
+   "ended": false
+  },
+  "4I5941": {
+   "msg": "1529913661651685426",
+   "end": 1784916181,
+   "title": "An even worse experiment.",
+   "items": 2,
    "ended": false
   }
  },
