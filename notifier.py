@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Poll scrap.tf/raffles and post new raffle embeds to a Discord webhook.
+"""Poll scrap.tf/raffles and post new raffle messages to a Discord webhook.
 
-Posts a rich embed per new raffle, then edits it into a gray "ended"
-tombstone once the raffle's end time passes. Stdlib only, Python 3.8+.
+Posts a Components V2 message per new raffle (title, live countdown, item
+image gallery, enter link), then edits it into a gray "ended" tombstone once
+the raffle's end time passes. Stdlib only, Python 3.8+.
 
 Env:
   DISCORD_WEBHOOK_URL  Discord webhook to post to. If unset, actions are
@@ -34,38 +35,65 @@ TITLE_RE = re.compile(
 )
 TIME_RE = re.compile(r'class="raffle-time-left"[^>]*data-time="(\d+)"')
 ITEM_RE = re.compile(r'class="item hoverable')
+IMAGE_RE = re.compile(r'background-image:url\((https://[^)]+)\)')
+
+IS_COMPONENTS_V2 = 1 << 15  # Discord message flag
 
 
 # ---------------------------------------------------------------------------
-# EMBED STYLING — EDIT FREELY. Everything below in this section is looks-only.
+# MESSAGE STYLING — EDIT FREELY. Everything in this section is looks-only.
 # ---------------------------------------------------------------------------
 
 COLOR_NORMAL = 4718336    # green, raffles under BIG_RAFFLE_ITEMS items
 COLOR_BIG = 16766720      # gold, big raffles
 COLOR_ENDED = 9807270     # gray tombstone
 BIG_RAFFLE_ITEMS = 10
+GALLERY_MAX = 4           # item images shown per raffle (Discord allows 1-10)
 
 
-def build_embed(raffle: dict) -> dict:
+def build_live_message(raffle: dict) -> dict:
     url = f"https://scrap.tf/raffles/{raffle['id']}"
     color = COLOR_BIG if raffle["items"] >= BIG_RAFFLE_ITEMS else COLOR_NORMAL
     ends = f" · Ends <t:{raffle['end']}:R>" if raffle["end"] else ""
+    inner = [{
+        "type": 10,  # Text Display
+        "content": f"## [{raffle['title']}]({url})\n"
+                   f"\U0001F381 **{raffle['items']} items**{ends}",
+    }]
+    if raffle["images"]:
+        inner.append({
+            "type": 12,  # Media Gallery
+            "items": [{"media": {"url": u}}
+                      for u in raffle["images"][:GALLERY_MAX]],
+        })
+    inner.append({
+        "type": 10,
+        "content": f"**[\U0001F449 CLICK HERE]({url})**",
+    })
     return {
-        "title": raffle["title"],
-        "url": url,
-        "color": color,
-        "description": (
-            f"\U0001F381 **{raffle['items']} items**{ends}\n\n"
-            f"**[\U0001F449 CLICK HERE]({url})**"
-        ),
+        "flags": IS_COMPONENTS_V2,
+        "components": [
+            {"type": 17, "accent_color": color, "components": inner},
+        ],
     }
 
 
-def build_ended_embed(entry: dict) -> dict:
+def build_ended_message() -> dict:
     return {
-        "title": "\U0001F3C1 Raffle ended",
-        "color": COLOR_ENDED,
+        "flags": IS_COMPONENTS_V2,
+        "components": [
+            {"type": 17, "accent_color": COLOR_ENDED, "components": [
+                {"type": 10, "content": "**\U0001F3C1 Raffle ended**"},
+            ]},
+        ],
     }
+
+
+def build_ended_embed_legacy() -> dict:
+    """Fallback for messages posted before the Components V2 switch —
+    Discord refuses to add the V2 flag when editing an old message."""
+    return {"embeds": [{"title": "\U0001F3C1 Raffle ended",
+                        "color": COLOR_ENDED}]}
 
 
 # ---------------------------------------------------------------------------
@@ -87,8 +115,13 @@ def strip_tags(fragment: str) -> str:
     return html_lib.unescape(text).strip()
 
 
+def upsize(url: str) -> str:
+    # List page serves small 96px icons; ask the CDN for a larger render.
+    return re.sub(r"/96fx96f$", "/330x192", url)
+
+
 def extract_raffles(page: str) -> list:
-    """Parse each raffle panel into {id, title, end, items}."""
+    """Parse each raffle panel into {id, title, end, items, images}."""
     raffles = []
     seen_ids = set()
     chunks = page.split('class="panel-raffle ')[1:]
@@ -101,13 +134,14 @@ def extract_raffles(page: str) -> list:
             continue
         seen_ids.add(rid)
         tm = TITLE_RE.search(chunk)
-        title = strip_tags(tm.group(1)) if tm else ""
         em = TIME_RE.search(chunk)
+        title = strip_tags(tm.group(1)) if tm else ""
         raffles.append({
             "id": rid,
             "title": title or "Untitled raffle",
             "end": int(em.group(1)) if em else None,
             "items": len(ITEM_RE.findall(chunk)),
+            "images": [upsize(u) for u in IMAGE_RE.findall(chunk)[:GALLERY_MAX]],
         })
     return raffles
 
@@ -170,8 +204,9 @@ def main() -> None:
             entry["ended"] = True  # seed silently, nothing to tombstone
         elif webhook:
             try:
-                msg = webhook_request(webhook + "?wait=true",
-                                      {"embeds": [build_embed(raffle)]})
+                msg = webhook_request(
+                    webhook + "?with_components=true&wait=true",
+                    build_live_message(raffle))
                 entry["msg"] = msg.get("id")
                 posted += 1
                 time.sleep(1)
@@ -186,12 +221,21 @@ def main() -> None:
             continue
         if entry.get("end") and entry["end"] <= now:
             if webhook:
+                msg_url = f"{webhook}/messages/{entry['msg']}"
                 try:
-                    webhook_request(f"{webhook}/messages/{entry['msg']}",
-                                    {"embeds": [build_ended_embed(entry)]},
-                                    method="PATCH")
+                    webhook_request(msg_url + "?with_components=true",
+                                    build_ended_message(), method="PATCH")
                 except urllib.error.HTTPError as e:
-                    if e.code != 404:  # message deleted by hand: fine, move on
+                    if e.code == 400:
+                        # Pre-V2 message: edit its embed instead.
+                        try:
+                            webhook_request(msg_url, build_ended_embed_legacy(),
+                                            method="PATCH")
+                        except urllib.error.HTTPError as e2:
+                            if e2.code != 404:
+                                print(f"Tombstone failed for {rid}: "
+                                      f"HTTP {e2.code}")
+                    elif e.code != 404:  # 404: deleted by hand, fine
                         print(f"Tombstone failed for {rid}: HTTP {e.code}")
                 time.sleep(1)
             else:
