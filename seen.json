@@ -40,11 +40,6 @@
    "end": null,
    "ended": true
   },
-  "QX7VDT": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -504,6 +499,13 @@
    "msg": "1530115018417377390",
    "end": 1784964001,
    "title": "Question",
+   "items": 1,
+   "ended": false
+  },
+  "TM2HL5": {
+   "msg": "1530120025451532338",
+   "end": 1784965561,
+   "title": "I missed an auction",
    "items": 1,
    "ended": false
   }
