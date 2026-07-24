@@ -80,11 +80,6 @@
    "end": null,
    "ended": true
   },
-  "3R8SLR": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -460,6 +455,13 @@
    "msg": "1530087313798070324",
    "end": 1784957402,
    "title": "Day 12 Of \"Bad\" Weapon",
+   "items": 1,
+   "ended": false
+  },
+  "4BB6EP": {
+   "msg": "1530089821194682388",
+   "end": 1784958182,
+   "title": "I got 4-of-a-kinded twice by Tycho in 2 hours...",
    "items": 1,
    "ended": false
   }
