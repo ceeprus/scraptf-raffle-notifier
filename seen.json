@@ -586,7 +586,7 @@
    "end": 1784933101,
    "title": "1,300 raffles won",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "HVB6H2": {
    "msg": "1530169053342072974",
@@ -964,6 +964,13 @@
    "end": 1785018241,
    "title": "My days have worn away. (Summer 2026 update)",
    "items": 4,
+   "ended": false
+  },
+  "XTXRK8": {
+   "msg": "1530345234356113489",
+   "end": 1785019442,
+   "title": "Hello! Have a great day!",
+   "items": 3,
    "ended": false
   }
  },
