@@ -70,11 +70,6 @@
    "end": null,
    "ended": true
   },
-  "8Q173C": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -464,6 +459,13 @@
    "msg": "1530092408912613481",
    "end": 1784958902,
    "title": "A Place In the Sun",
+   "items": 1,
+   "ended": false
+  },
+  "2HMBNF": {
+   "msg": "1530094855932608572",
+   "end": 1784959200,
+   "title": "Today is Friday",
    "items": 1,
    "ended": false
   }
