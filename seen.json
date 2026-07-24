@@ -45,16 +45,6 @@
    "end": null,
    "ended": true
   },
-  "6W14UP": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "DBN0M1": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -501,6 +491,20 @@
    "end": 1784920681,
    "title": "Raffling Scrap Till I'm Out #980-82 (Super late raffle)",
    "items": 3,
+   "ended": false
+  },
+  "UCBE90": {
+   "msg": "1530115011165290638",
+   "end": 1784964602,
+   "title": "The pass it forward raffle (#6)",
+   "items": 2,
+   "ended": false
+  },
+  "JL17FT": {
+   "msg": "1530115018417377390",
+   "end": 1784964001,
+   "title": "Question",
+   "items": 1,
    "ended": false
   }
  },
