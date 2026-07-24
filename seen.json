@@ -411,7 +411,7 @@
    "end": 1784893501,
    "title": "I won two items today",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "PASGJL": {
    "msg": "1530107542376681492",
@@ -607,6 +607,13 @@
    "end": 1784979061,
    "title": "hi hi hi hi",
    "items": 13,
+   "ended": false
+  },
+  "FSKJXN": {
+   "msg": "1530179151859028089",
+   "end": 1784907362,
+   "title": "Piss giveaway",
+   "items": 1,
    "ended": false
   }
  },
