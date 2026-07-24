@@ -33,14 +33,14 @@
    "end": 1784914141,
    "title": "Daily raffle until TF2 gets a major update #569",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "1T4BLD": {
    "msg": "1529905578220982455",
    "end": 1784914021,
    "title": "i dont need this",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "2BSD8B": {
    "msg": "1529908041460355172",
@@ -803,6 +803,13 @@
    "end": 1784998800,
    "title": "Guys",
    "items": 3,
+   "ended": false
+  },
+  "Y3FSZ2": {
+   "msg": "1530266015609520348",
+   "end": 1785000361,
+   "title": "I reached 60k views on yt",
+   "items": 1,
    "ended": false
   }
  },
