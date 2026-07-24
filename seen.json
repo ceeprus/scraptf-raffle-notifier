@@ -95,11 +95,6 @@
    "end": null,
    "ended": true
   },
-  "SW95Q9": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -455,6 +450,13 @@
    "end": 1784952000,
    "title": "\u266a Asterisk \u266a",
    "items": 1,
+   "ended": false
+  },
+  "GATNPX": {
+   "msg": "1530065894720540756",
+   "end": 1784952901,
+   "title": "i gotta stop playing mvm pt.3",
+   "items": 42,
    "ended": false
   }
  },
