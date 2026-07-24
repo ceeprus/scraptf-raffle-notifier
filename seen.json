@@ -446,7 +446,7 @@
    "end": 1784920681,
    "title": "Raffling Scrap Till I'm Out #980-82 (Super late raffle)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "UCBE90": {
    "msg": "1530115011165290638",
@@ -859,6 +859,20 @@
    "end": 1785005701,
    "title": "my first raffle!",
    "items": 3,
+   "ended": false
+  },
+  "IX09PO": {
+   "msg": "1530293651115081779",
+   "end": 1784963822,
+   "title": "Piss",
+   "items": 1,
+   "ended": false
+  },
+  "7JN7FT": {
+   "msg": "1530293657855328407",
+   "end": 1785006900,
+   "title": "Snowfall Soundtrack #26",
+   "items": 2,
    "ended": false
   }
  },
