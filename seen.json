@@ -180,7 +180,7 @@
    "end": 1784924341,
    "title": "Untitled raffle",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "C6DC5L": {
    "msg": "1529949854585979112",
@@ -488,7 +488,7 @@
    "end": 1784924222,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UP9V8D": {
    "msg": "1530127584501694556",
