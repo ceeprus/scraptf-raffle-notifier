@@ -470,6 +470,13 @@
    "title": "My flight experience",
    "items": 5,
    "ended": false
+  },
+  "L2LEJL": {
+   "msg": "1530104927441915934",
+   "end": 1784893501,
+   "title": "I won two items today",
+   "items": 15,
+   "ended": false
   }
  },
  "megaraffle": {
