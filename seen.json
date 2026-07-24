@@ -1,10 +1,5 @@
 {
  "raffles": {
-  "2AI3WN": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -562,6 +557,13 @@
    "msg": "1530153950492495982",
    "end": 1784973361,
    "title": "Update on Greece",
+   "items": 2,
+   "ended": false
+  },
+  "AKSBCN": {
+   "msg": "1530156492911808513",
+   "end": 1784974202,
+   "title": "\u2728 Grabli304's raffle\u2503Day 145",
    "items": 2,
    "ended": false
   }
