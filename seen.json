@@ -937,6 +937,13 @@
    "title": "This is my first Raffle!!",
    "items": 14,
    "ended": false
+  },
+  "HU40TI": {
+   "msg": "1530325070122189043",
+   "end": null,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
