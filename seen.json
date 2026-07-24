@@ -306,7 +306,7 @@
    "end": 1784935681,
    "title": "Let's make some noise III",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "PKO9GA": {
    "msg": "1529999216154513409",
@@ -977,6 +977,13 @@
    "msg": "1530350244532060343",
    "end": 1785020400,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "LCFR9Z": {
+   "msg": "1530356627465568396",
+   "end": 1785021602,
+   "title": "What are things you want to see in the upcoming MvM update?",
    "items": 1,
    "ended": false
   }
