@@ -96,7 +96,7 @@
    "end": 1784918341,
    "title": "Gifted Cosmetics #504",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A5MDUW": {
    "msg": "1529926321495343235",
@@ -830,6 +830,27 @@
    "msg": "1530278554590384370",
    "end": null,
    "title": "i can 't  breathe",
+   "items": 1,
+   "ended": false
+  },
+  "3JDKFY": {
+   "msg": "1530283595632218244",
+   "end": 1784918882,
+   "title": "lover of goyda",
+   "items": 2,
+   "ended": false
+  },
+  "JA3ZGQ": {
+   "msg": "1530283603466916043",
+   "end": 1785004261,
+   "title": "Bison",
+   "items": 2,
+   "ended": false
+  },
+  "DQBMJW": {
+   "msg": "1530283612220428469",
+   "end": 1784921282,
+   "title": "250 entries raffle jumpscare",
    "items": 1,
    "ended": false
   }
