@@ -5,11 +5,6 @@
    "end": null,
    "ended": true
   },
-  "C6DKXO": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -330,7 +325,7 @@
    "end": 1784887501,
    "title": "\ud83d\udc9a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SAD39J": {
    "msg": "1530011802451050647",
@@ -561,6 +556,13 @@
    "end": 1784973001,
    "title": "The world needs more Reindoonicorns! (#583)",
    "items": 1,
+   "ended": false
+  },
+  "01PE6Z": {
+   "msg": "1530153950492495982",
+   "end": 1784973361,
+   "title": "Update on Greece",
+   "items": 2,
    "ended": false
   }
  },
