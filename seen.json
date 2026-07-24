@@ -15,21 +15,6 @@
    "end": null,
    "ended": true
   },
-  "1LNXOQ": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "GVUYWX": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "THS87G": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -509,6 +494,27 @@
   "MQ9UX9": {
    "msg": "1530125056200675460",
    "end": 1784923561,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GQ87I4": {
+   "msg": "1530127576146776114",
+   "end": 1784924222,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UP9V8D": {
+   "msg": "1530127584501694556",
+   "end": 1784924042,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GH2WIO": {
+   "msg": "1530127593502933042",
+   "end": 1784923861,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
