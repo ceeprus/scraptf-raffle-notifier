@@ -12,7 +12,7 @@
    "end": 1784909941,
    "title": "Raffle Name",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IKK78F": {
    "msg": "1529886877950148815",
@@ -747,6 +747,20 @@
    "end": 1784995200,
    "title": "Weekly  #99",
    "items": 4,
+   "ended": false
+  },
+  "4V960S": {
+   "msg": "1530251414012428389",
+   "end": 1784996221,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WRO53M": {
+   "msg": "1530251421922889851",
+   "end": 1784916841,
+   "title": "BUBUBU",
+   "items": 1,
    "ended": false
   }
  },
