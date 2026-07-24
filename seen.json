@@ -131,7 +131,7 @@
    "end": 1784921341,
    "title": "AH HELL NAH",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5MZU6A": {
    "msg": "1529933853538648127",
@@ -145,7 +145,7 @@
    "end": 1784921400,
    "title": "Equestria Forever",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "BVMZMC": {
    "msg": "1529936320149852331",
@@ -852,7 +852,7 @@
    "end": 1784921282,
    "title": "250 entries raffle jumpscare",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E1VJMB": {
    "msg": "1530288698611204111",
