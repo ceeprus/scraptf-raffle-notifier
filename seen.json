@@ -168,7 +168,7 @@
    "end": 1784876282,
    "title": "my name is Giorno Giovanna and i have a dream",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4YTZWX": {
    "msg": "1529926328206495790",
@@ -182,7 +182,7 @@
    "end": 1784876400,
    "title": "Bison",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OZYDJM": {
    "msg": "1529931278638383307",
@@ -476,6 +476,20 @@
    "end": 1784893501,
    "title": "I won two items today",
    "items": 15,
+   "ended": false
+  },
+  "PASGJL": {
+   "msg": "1530107542376681492",
+   "end": 1784962741,
+   "title": "my name is Giorno Giovanna and i have a dream",
+   "items": 2,
+   "ended": false
+  },
+  "0VA0YX": {
+   "msg": "1530107553084870797",
+   "end": 1784962202,
+   "title": "bones",
+   "items": 7,
    "ended": false
   }
  },
