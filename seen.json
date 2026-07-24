@@ -61,14 +61,14 @@
    "end": 1784916841,
    "title": "Free game & trials! July 23 - 27",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "F88B8J": {
    "msg": "1529916186731479300",
    "end": 1784916721,
    "title": "New PFP",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7O4D1R": {
    "msg": "1529918750474764348",
@@ -761,7 +761,7 @@
    "end": 1784916841,
    "title": "BUBUBU",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "75QR6P": {
    "msg": "1530252108753014995",
