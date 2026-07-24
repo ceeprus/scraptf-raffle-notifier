@@ -972,6 +972,13 @@
    "title": "Hello! Have a great day!",
    "items": 3,
    "ended": false
+  },
+  "ORN900": {
+   "msg": "1530350244532060343",
+   "end": 1785020400,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
