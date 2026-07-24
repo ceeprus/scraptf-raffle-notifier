@@ -30,16 +30,6 @@
    "end": null,
    "ended": true
   },
-  "T9VBVT": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "WXVME8": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -506,6 +496,20 @@
    "msg": "1530120025451532338",
    "end": 1784965561,
    "title": "I missed an auction",
+   "items": 1,
+   "ended": false
+  },
+  "F7SBP6": {
+   "msg": "1530125047342301244",
+   "end": 1784923681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MQ9UX9": {
+   "msg": "1530125056200675460",
+   "end": 1784923561,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
