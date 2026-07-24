@@ -776,6 +776,20 @@
    "title": "some kinda bad thing",
    "items": 1,
    "ended": true
+  },
+  "TPIYNM": {
+   "msg": "1530254661037330542",
+   "end": 1784997661,
+   "title": "Quite a sad raffle",
+   "items": 2,
+   "ended": false
+  },
+  "C6INVS": {
+   "msg": "1530254667701817387",
+   "end": 1784997361,
+   "title": "DEBUT ALBUM BIRTHDAYYY",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
