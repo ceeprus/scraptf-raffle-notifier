@@ -209,7 +209,7 @@
    "end": 1784881562,
    "title": "I'm back for a moment and an announcement",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "IEZXNT": {
    "msg": "1529957657530597620",
@@ -517,6 +517,13 @@
    "end": 1784923861,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "1LNXOQ": {
+   "msg": "1530130153244721156",
+   "end": 1784902741,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1483 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 23,
    "ended": false
   }
  },
