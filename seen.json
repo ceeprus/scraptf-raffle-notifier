@@ -100,11 +100,6 @@
    "end": null,
    "ended": true
   },
-  "O6L555": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -452,6 +447,13 @@
    "msg": "1530058369233195008",
    "end": 1784950861,
    "title": "Waluigi time",
+   "items": 1,
+   "ended": false
+  },
+  "PKLPTZ": {
+   "msg": "1530063365806886923",
+   "end": 1784952000,
+   "title": "\u266a Asterisk \u266a",
    "items": 1,
    "ended": false
   }
