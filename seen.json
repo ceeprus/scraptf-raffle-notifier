@@ -65,11 +65,6 @@
    "end": null,
    "ended": true
   },
-  "L2LEJL": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -467,6 +462,13 @@
    "end": 1784959200,
    "title": "Today is Friday",
    "items": 1,
+   "ended": false
+  },
+  "W64ASO": {
+   "msg": "1530099928146251818",
+   "end": 1784960582,
+   "title": "My flight experience",
+   "items": 5,
    "ended": false
   }
  },
