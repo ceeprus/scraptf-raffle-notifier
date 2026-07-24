@@ -110,7 +110,7 @@
    "end": 1784918941,
    "title": "Gambling #29",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NF0OB5": {
    "msg": "1529928765700968499",
@@ -677,7 +677,7 @@
    "end": 1784918881,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "KL2RSE": {
    "msg": "1530226991037550682",
@@ -838,7 +838,7 @@
    "end": 1784918882,
    "title": "lover of goyda",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "JA3ZGQ": {
    "msg": "1530283603466916043",
