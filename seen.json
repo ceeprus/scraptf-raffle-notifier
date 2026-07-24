@@ -85,11 +85,6 @@
    "end": null,
    "ended": true
   },
-  "HAH4E6": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -458,6 +453,13 @@
    "msg": "1530074717061517412",
    "end": 1784954521,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UYFYFE": {
+   "msg": "1530087313798070324",
+   "end": 1784957402,
+   "title": "Day 12 Of \"Bad\" Weapon",
    "items": 1,
    "ended": false
   }
