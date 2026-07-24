@@ -166,14 +166,14 @@
    "end": 1784923200,
    "title": "A Refined a day keeps the doctor away! #16 (for real this time)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FIHSFF": {
    "msg": "1529941413910024402",
    "end": 1784922962,
    "title": "Algo para la people",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "5TMDO5": {
    "msg": "1529947604908249229",
@@ -894,6 +894,13 @@
    "end": 1785008522,
    "title": "You know what day it is.",
    "items": 9,
+   "ended": false
+  },
+  "GWJI8F": {
+   "msg": "1530303820800852098",
+   "end": 1785009600,
+   "title": "A Refined a day keeps the doctor away! #17",
+   "items": 1,
    "ended": false
   }
  },
