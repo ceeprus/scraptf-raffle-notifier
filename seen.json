@@ -55,16 +55,6 @@
    "end": null,
    "ended": true
   },
-  "M75E0B": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
-  "DE1BSZ": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -497,6 +487,20 @@
    "end": 1784962803,
    "title": "Cool Song You Should Listen To #198",
    "items": 1,
+   "ended": false
+  },
+  "UWIB3V": {
+   "msg": "1530112465600249866",
+   "end": 1784963941,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "32VPA4": {
+   "msg": "1530112472504078397",
+   "end": 1784920681,
+   "title": "Raffling Scrap Till I'm Out #980-82 (Super late raffle)",
+   "items": 3,
    "ended": false
   }
  },
