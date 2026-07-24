@@ -10,11 +10,6 @@
    "end": null,
    "ended": true
   },
-  "K6A3CB": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "37KCNL": {
    "msg": "1529882165649604690",
    "end": 1784908681,
@@ -531,6 +526,20 @@
    "end": 1784968681,
    "title": "MY BIRTHDAY!!!",
    "items": 3,
+   "ended": false
+  },
+  "98WKDA": {
+   "msg": "1530137737334755431",
+   "end": 1784969761,
+   "title": "River of Flame",
+   "items": 10,
+   "ended": false
+  },
+  "OE9XFG": {
+   "msg": "1530137746151178281",
+   "end": 1784969581,
+   "title": "1 year on scrap.tf",
+   "items": 6,
    "ended": false
   }
  },
