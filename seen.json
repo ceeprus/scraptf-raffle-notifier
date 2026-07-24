@@ -440,6 +440,20 @@
    "title": "Reminder to eat n' drink water if ye haven't yet #256",
    "items": 5,
    "ended": false
+  },
+  "BTGN5K": {
+   "msg": "1530058359795879998",
+   "end": 1784950980,
+   "title": "Music Practice",
+   "items": 1,
+   "ended": false
+  },
+  "NAUY1M": {
+   "msg": "1530058369233195008",
+   "end": 1784950861,
+   "title": "Waluigi time",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
