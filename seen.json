@@ -50,11 +50,6 @@
    "end": null,
    "ended": true
   },
-  "P51M28": {
-   "msg": null,
-   "end": null,
-   "ended": true
-  },
   "6W14UP": {
    "msg": null,
    "end": null,
@@ -434,6 +429,13 @@
    "msg": "1530006766686044251",
    "end": 1784887501,
    "title": "\ud83d\udc9a",
+   "items": 1,
+   "ended": false
+  },
+  "SAD39J": {
+   "msg": "1530011802451050647",
+   "end": 1784886602,
+   "title": "noise 406",
    "items": 1,
    "ended": false
   }
