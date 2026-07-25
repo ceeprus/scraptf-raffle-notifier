@@ -768,7 +768,7 @@
    "end": 1784997241,
    "title": "4k raffles entered",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L1JHH7": {
    "msg": "1530252114243092581",
@@ -1426,6 +1426,13 @@
    "end": 1785081600,
    "title": "Scrap.tf Birthdays - 25 July",
    "items": 2,
+   "ended": false
+  },
+  "XWG0Z6": {
+   "msg": "1530614480277606601",
+   "end": 1785082921,
+   "title": "I found my old artworks",
+   "items": 1,
    "ended": false
   }
  },
