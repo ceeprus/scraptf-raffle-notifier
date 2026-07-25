@@ -593,7 +593,7 @@
    "end": 1784977200,
    "title": "Worthless things are thrown away!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MOLQAW": {
    "msg": "1530171596470354051",
@@ -1334,6 +1334,13 @@
    "msg": "1530527705693687838",
    "end": 1785062822,
    "title": "Weapon of the Prime Soul #5",
+   "items": 1,
+   "ended": false
+  },
+  "9MNP6S": {
+   "msg": "1530530285282660392",
+   "end": 1785063061,
+   "title": "Unboxed an unusual just right now",
    "items": 1,
    "ended": false
   }
