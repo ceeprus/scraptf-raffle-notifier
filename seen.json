@@ -376,7 +376,7 @@
    "end": 1784957402,
    "title": "Day 12 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4BB6EP": {
    "msg": "1530089821194682388",
@@ -1146,6 +1146,20 @@
    "end": 1785042722,
    "title": "I don't want this stuff",
    "items": 15,
+   "ended": false
+  },
+  "UAJGK3": {
+   "msg": "1530447219986010305",
+   "end": 1785043802,
+   "title": "Day 46/47 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "5VWMBH": {
+   "msg": "1530447228143927370",
+   "end": 1785043262,
+   "title": "Sun on a stick",
+   "items": 7,
    "ended": false
   }
  },
