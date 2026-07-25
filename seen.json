@@ -621,7 +621,7 @@
    "end": 1784981070,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DH6PVE": {
    "msg": "1530184163725148222",
@@ -1348,6 +1348,13 @@
    "msg": "1530532718989803771",
    "end": 1785063600,
    "title": "Well, who's to say it doesn't work?",
+   "items": 1,
+   "ended": false
+  },
+  "0WNDRC": {
+   "msg": "1530546549216645190",
+   "end": 1785067200,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
