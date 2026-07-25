@@ -418,7 +418,7 @@
    "end": 1784962741,
    "title": "my name is Giorno Giovanna and i have a dream",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0VA0YX": {
    "msg": "1530107553084870797",
@@ -432,7 +432,7 @@
    "end": 1784962803,
    "title": "Cool Song You Should Listen To #198",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UWIB3V": {
    "msg": "1530112465600249866",
