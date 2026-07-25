@@ -1608,13 +1608,27 @@
    "end": 1785021121,
    "title": "Server 2... something",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S7N9PB": {
    "msg": "1530707622830014566",
    "end": 1785105421,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "XS4STG": {
+   "msg": "1530715214394425346",
+   "end": 1785064142,
+   "title": "Good afternoon",
+   "items": 22,
+   "ended": false
+  },
+  "43K8X2": {
+   "msg": "1530715222203957288",
+   "end": 1785107221,
+   "title": "Hello! Have a great day!",
+   "items": 3,
    "ended": false
   }
  },
