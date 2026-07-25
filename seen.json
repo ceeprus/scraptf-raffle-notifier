@@ -439,7 +439,7 @@
    "end": 1784963941,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "32VPA4": {
    "msg": "1530112472504078397",
@@ -460,7 +460,7 @@
    "end": 1784964001,
    "title": "Question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TM2HL5": {
    "msg": "1530120025451532338",
@@ -866,7 +866,7 @@
    "end": 1784963822,
    "title": "Piss",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7JN7FT": {
    "msg": "1530293657855328407",
