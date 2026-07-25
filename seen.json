@@ -1132,7 +1132,7 @@
    "end": 1784998921,
    "title": "I need your opinions.",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "JAENIQ": {
    "msg": "1530442146153234505",
@@ -1447,6 +1447,13 @@
    "end": 1785083641,
    "title": "scritchy scratch",
    "items": 1,
+   "ended": false
+  },
+  "4XKKVR": {
+   "msg": "1530622033078259895",
+   "end": 1785085200,
+   "title": "Daily raffle until TF2 gets a major update #571",
+   "items": 3,
    "ended": false
   }
  },
