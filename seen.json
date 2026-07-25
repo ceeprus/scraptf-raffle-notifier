@@ -782,7 +782,7 @@
    "end": 1784997661,
    "title": "Quite a sad raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "C6INVS": {
    "msg": "1530254667701817387",
@@ -1432,6 +1432,20 @@
    "msg": "1530614480277606601",
    "end": 1785082921,
    "title": "I found my old artworks",
+   "items": 1,
+   "ended": false
+  },
+  "TJYJJP": {
+   "msg": "1530617031366545429",
+   "end": 1785040441,
+   "title": "CHRIS",
+   "items": 5,
+   "ended": false
+  },
+  "9GWRWL": {
+   "msg": "1530617038651916478",
+   "end": 1785083641,
+   "title": "scritchy scratch",
    "items": 1,
    "ended": false
   }
