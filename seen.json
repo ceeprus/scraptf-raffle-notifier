@@ -663,7 +663,7 @@
    "end": 1784986381,
    "title": "mvm is a scam",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8CK4FH": {
    "msg": "1530213232554279052",
@@ -1369,6 +1369,13 @@
    "msg": "1530561644684509184",
    "end": 1785070800,
    "title": "AC/BC: You Shook Me All Night Long (PALEOROCK CLASSIC)",
+   "items": 1,
+   "ended": false
+  },
+  "PRNPZT": {
+   "msg": "1530569193475543153",
+   "end": 1785072514,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
