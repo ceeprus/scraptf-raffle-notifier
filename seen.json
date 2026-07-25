@@ -558,7 +558,7 @@
    "end": 1784973361,
    "title": "Update on Greece",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "AKSBCN": {
    "msg": "1530156492911808513",
@@ -1229,6 +1229,27 @@
    "msg": "1530510089100722226",
    "end": 1785058202,
    "title": "\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+   "items": 1,
+   "ended": false
+  },
+  "YLHNOL": {
+   "msg": "1530515194860670996",
+   "end": 1785059641,
+   "title": "Scrap.tf Birthday - 24 July",
+   "items": 4,
+   "ended": false
+  },
+  "XN5B44": {
+   "msg": "1530515202615808190",
+   "end": 1785059521,
+   "title": "Sneak 100.",
+   "items": 1,
+   "ended": false
+  },
+  "MG3DR1": {
+   "msg": "1530515209595261069",
+   "end": 1785059402,
+   "title": "tfbtih \ud83d\udc94",
    "items": 1,
    "ended": false
   }
