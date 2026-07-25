@@ -565,7 +565,7 @@
    "end": 1784974202,
    "title": "\u2728 Grabli304's raffle\u2503Day 145",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "C310AN": {
    "msg": "1530158986056302703",
@@ -1250,6 +1250,20 @@
    "msg": "1530515209595261069",
    "end": 1785059402,
    "title": "tfbtih \ud83d\udc94",
+   "items": 1,
+   "ended": false
+  },
+  "RE343Z": {
+   "msg": "1530517618526650448",
+   "end": 1785060482,
+   "title": "The world needs more Reindoonicorns! (#584)",
+   "items": 1,
+   "ended": false
+  },
+  "FQNS3D": {
+   "msg": "1530517625052987514",
+   "end": 1785060362,
+   "title": "\u0441\u043a\u0430\u043c \u0438\u0441\u0442\u043e\u0440\u0438\u044f",
    "items": 1,
    "ended": false
   }
