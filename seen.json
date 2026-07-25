@@ -936,7 +936,7 @@
    "end": 1785013621,
    "title": "This is my first Raffle!!",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "HU40TI": {
    "msg": "1530325070122189043",
@@ -1566,6 +1566,13 @@
    "end": 1785034081,
    "title": "So I Felt Like the Biggest Asshole",
    "items": 3,
+   "ended": false
+  },
+  "6W6VFI": {
+   "msg": "1530683719445385249",
+   "end": 1785034800,
+   "title": "Y'know what?",
+   "items": 1,
    "ended": false
   }
  },
