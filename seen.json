@@ -1027,7 +1027,7 @@
    "end": 1784984581,
    "title": "the juckport",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "CNPO5M": {
    "msg": "1530398094938738798",
@@ -1362,6 +1362,13 @@
    "msg": "1530554092399755440",
    "end": 1785069061,
    "title": "music time ! !",
+   "items": 1,
+   "ended": false
+  },
+  "UEMQTB": {
+   "msg": "1530561644684509184",
+   "end": 1785070800,
+   "title": "AC/BC: You Shook Me All Night Long (PALEOROCK CLASSIC)",
    "items": 1,
    "ended": false
   }
