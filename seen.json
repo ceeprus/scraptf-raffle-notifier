@@ -467,7 +467,7 @@
    "end": 1784965561,
    "title": "I missed an auction",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F7SBP6": {
    "msg": "1530125047342301244",
