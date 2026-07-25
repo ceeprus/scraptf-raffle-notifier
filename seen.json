@@ -859,7 +859,7 @@
    "end": 1785005701,
    "title": "my first raffle!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "IX09PO": {
    "msg": "1530293651115081779",
