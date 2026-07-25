@@ -579,7 +579,7 @@
    "end": 1784974801,
    "title": "free shid :0",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "JU03H6": {
    "msg": "1530166542136905781",
@@ -1264,6 +1264,13 @@
    "msg": "1530517625052987514",
    "end": 1785060362,
    "title": "\u0441\u043a\u0430\u043c \u0438\u0441\u0442\u043e\u0440\u0438\u044f",
+   "items": 1,
+   "ended": false
+  },
+  "X1XQ4C": {
+   "msg": "1530520145573711974",
+   "end": 1785060781,
+   "title": "The pass it forward raffle! (#7)",
    "items": 1,
    "ended": false
   }
