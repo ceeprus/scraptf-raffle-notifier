@@ -383,7 +383,7 @@
    "end": 1784958182,
    "title": "I got 4-of-a-kinded twice by Tycho in 2 hours...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YYLI99": {
    "msg": "1530092408912613481",
@@ -1160,6 +1160,13 @@
    "end": 1785043262,
    "title": "Sun on a stick",
    "items": 7,
+   "ended": false
+  },
+  "L06R68": {
+   "msg": "1530450954946744421",
+   "end": 1785044041,
+   "title": "Day 41/42 of Asking for Mystery Raffles",
+   "items": 1,
    "ended": false
   }
  },
