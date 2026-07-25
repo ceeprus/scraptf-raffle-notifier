@@ -740,14 +740,14 @@
    "end": 1784995200,
    "title": "OHHHHHHH! WHO LIVES IN A BUNKER UNDER THE LAKE?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "27PPFH": {
    "msg": "1530245857591431178",
    "end": 1784995200,
    "title": "Weekly  #99",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "4V960S": {
    "msg": "1530251414012428389",
@@ -1419,6 +1419,13 @@
    "end": 1785079800,
    "title": "To all uncraftable item havers...",
    "items": 1,
+   "ended": false
+  },
+  "ME9LNZ": {
+   "msg": "1530605786429133041",
+   "end": 1785081600,
+   "title": "Scrap.tf Birthdays - 25 July",
+   "items": 2,
    "ended": false
   }
  },
