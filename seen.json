@@ -1153,7 +1153,7 @@
    "end": 1785043802,
    "title": "Day 46/47 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5VWMBH": {
    "msg": "1530447228143927370",
@@ -1747,6 +1747,13 @@
    "msg": "1530807037418803391",
    "end": 1785129122,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UE6OZW": {
+   "msg": "1530809595625209978",
+   "end": 1785129961,
+   "title": "who is it",
    "items": 1,
    "ended": false
   }
