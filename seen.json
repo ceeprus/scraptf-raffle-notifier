@@ -1426,7 +1426,7 @@
    "end": 1785081600,
    "title": "Scrap.tf Birthdays - 25 July",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XWG0Z6": {
    "msg": "1530614480277606601",
@@ -1713,7 +1713,7 @@
    "end": 1785081541,
    "title": "Raffling Scrap Till I'm Out #983-4 (Fixed some things)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "W8PXU1": {
    "msg": "1530794510148440074",
@@ -2027,6 +2027,20 @@
    "msg": "1530965583875539146",
    "end": 1785166801,
    "title": "bison",
+   "items": 1,
+   "ended": false
+  },
+  "51D13A": {
+   "msg": "1530968185451315382",
+   "end": 1785167881,
+   "title": "WHY STRANGES GOT SO EXPENSIVE?",
+   "items": 2,
+   "ended": false
+  },
+  "8DMMR2": {
+   "msg": "1530968192611254323",
+   "end": 1785084481,
+   "title": "test",
    "items": 1,
    "ended": false
   }
