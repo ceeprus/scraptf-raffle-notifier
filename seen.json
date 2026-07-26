@@ -1517,14 +1517,14 @@
    "end": 1785091981,
    "title": "Time",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BTLE5O": {
    "msg": "1530649561851367445",
    "end": 1785091862,
    "title": "My opinion about Russian music",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VBUFUT": {
    "msg": "1530657274232569946",
