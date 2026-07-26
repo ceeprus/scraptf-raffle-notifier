@@ -1832,7 +1832,7 @@
    "end": 1785077881,
    "title": "Take my items",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "VWK9CQ": {
    "msg": "1530870012590686298",
@@ -1978,6 +1978,13 @@
    "msg": "1530947970785218814",
    "end": 1785162361,
    "title": "Weird visions.",
+   "items": 3,
+   "ended": false
+  },
+  "3L87EC": {
+   "msg": "1530953083134283988",
+   "end": 1785163561,
+   "title": "My HONEST feelings about scrap users #1 [Mazekest]",
    "items": 3,
    "ended": false
   }
