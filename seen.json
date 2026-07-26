@@ -1174,7 +1174,7 @@
    "end": 1785045600,
    "title": "Today is Saturday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4SBPPX": {
    "msg": "1530458485874233454",
@@ -1188,7 +1188,7 @@
    "end": 1785045781,
    "title": "100k $ raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TP8OJ6": {
    "msg": "1530463492770103317",
@@ -1755,6 +1755,20 @@
    "end": 1785129961,
    "title": "who is it",
    "items": 1,
+   "ended": false
+  },
+  "QPQ1P6": {
+   "msg": "1530818334881218601",
+   "end": 1785132000,
+   "title": "Today is Sunday",
+   "items": 1,
+   "ended": false
+  },
+  "L9UZJW": {
+   "msg": "1530818344209481879",
+   "end": 1785131401,
+   "title": "TF2 IM BACK",
+   "items": 5,
    "ended": false
   }
  },
