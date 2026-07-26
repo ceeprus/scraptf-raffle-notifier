@@ -1412,7 +1412,7 @@
    "end": 1785080341,
    "title": "Free hat from a new player",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R1IMDJ": {
    "msg": "1530600690119086330",
@@ -2007,6 +2007,20 @@
    "end": 1785164881,
    "title": "Acronyms #213 + the future of the Acronyms series",
    "items": 3,
+   "ended": false
+  },
+  "34SHPL": {
+   "msg": "1530963058057285692",
+   "end": 1785166200,
+   "title": "The Favorites of Music #257 & #258",
+   "items": 1,
+   "ended": false
+  },
+  "5MCHO5": {
+   "msg": "1530963065535725791",
+   "end": 1785166200,
+   "title": "My HONEST weird visions of \"bad weapon\"  EVERYday #1486 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 1,
    "ended": false
   }
  },
