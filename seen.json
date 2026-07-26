@@ -1202,7 +1202,7 @@
    "end": 1785053462,
    "title": "the warrior",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FRZC0S": {
    "msg": "1530502532680388691",
@@ -1797,6 +1797,20 @@
    "end": 1785096301,
    "title": "I can smell the insolence.",
    "items": 2,
+   "ended": false
+  },
+  "D49R5S": {
+   "msg": "1530851063924527195",
+   "end": 1785139802,
+   "title": "i dont have my thing",
+   "items": 1,
+   "ended": false
+  },
+  "74CNE1": {
+   "msg": "1530851078348869663",
+   "end": 1785139621,
+   "title": "My first attempt to draw a portrait",
+   "items": 8,
    "ended": false
   }
  },
