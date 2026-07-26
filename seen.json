@@ -1209,7 +1209,7 @@
    "end": 1785056281,
    "title": "Whatever",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "DKAD2N": {
    "msg": "1530507287054123079",
@@ -1818,6 +1818,13 @@
    "end": 1785141122,
    "title": "Any Feedback?",
    "items": 3,
+   "ended": false
+  },
+  "U8WUCK": {
+   "msg": "1530862470934171824",
+   "end": 1785142561,
+   "title": "Probable Delay + survey",
+   "items": 5,
    "ended": false
   }
  },
