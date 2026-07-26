@@ -1665,6 +1665,13 @@
    "title": "Party Rocking",
    "items": 1,
    "ended": false
+  },
+  "TL48PY": {
+   "msg": "1530773026021310587",
+   "end": 1785121081,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
