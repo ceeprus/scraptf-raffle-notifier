@@ -1356,7 +1356,7 @@
    "end": 1785067200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FLM73M": {
    "msg": "1530554092399755440",
@@ -1930,6 +1930,13 @@
    "end": 1785152641,
    "title": "I give up",
    "items": 9,
+   "ended": false
+  },
+  "K7PT03": {
+   "msg": "1530907779093500034",
+   "end": 1785153600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
