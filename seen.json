@@ -1230,7 +1230,7 @@
    "end": 1785058202,
    "title": "\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YLHNOL": {
    "msg": "1530515194860670996",
@@ -1832,6 +1832,13 @@
    "end": 1785077881,
    "title": "Take my items",
    "items": 7,
+   "ended": false
+  },
+  "VWK9CQ": {
+   "msg": "1530870012590686298",
+   "end": 1785144061,
+   "title": "A Year of Har",
+   "items": 5,
    "ended": false
   }
  },
