@@ -1363,7 +1363,7 @@
    "end": 1785069061,
    "title": "music time ! !",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UEMQTB": {
    "msg": "1530561644684509184",
@@ -1923,7 +1923,7 @@
    "end": 1785069242,
    "title": "What's the dumbest named gun you have?",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "HSHRLW": {
    "msg": "1530905196056674445",
