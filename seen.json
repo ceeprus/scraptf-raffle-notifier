@@ -1622,7 +1622,7 @@
    "end": 1785064142,
    "title": "Good afternoon",
    "items": 22,
-   "ended": false
+   "ended": true
   },
   "43K8X2": {
    "msg": "1530715222203957288",
@@ -1894,6 +1894,20 @@
    "msg": "1530892676818538597",
    "end": 1785149941,
    "title": "music time ! !",
+   "items": 1,
+   "ended": false
+  },
+  "084S4C": {
+   "msg": "1530895118326960188",
+   "end": 1785150122,
+   "title": "Daily raffle #316",
+   "items": 1,
+   "ended": false
+  },
+  "F07S3E": {
+   "msg": "1530895124027015180",
+   "end": 1785150000,
+   "title": "I can't believe that worked...",
    "items": 1,
    "ended": false
   }
