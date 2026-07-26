@@ -1062,14 +1062,14 @@
    "end": 1785036902,
    "title": "Caf\u00e9 Crit-A-Coffee #1738",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "LWLRGO": {
    "msg": "1530418213555273939",
    "end": 1785036841,
    "title": "www.roblox.com",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WHX5IX": {
    "msg": "1530420737704202311",
@@ -1684,6 +1684,13 @@
    "msg": "1530775580226748466",
    "end": 1785078121,
    "title": "5k raffles",
+   "items": 1,
+   "ended": false
+  },
+  "4UPTGY": {
+   "msg": "1530780588619862097",
+   "end": 1785122521,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
