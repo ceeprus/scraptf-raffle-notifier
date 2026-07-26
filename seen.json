@@ -1251,7 +1251,7 @@
    "end": 1785059402,
    "title": "tfbtih \ud83d\udc94",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RE343Z": {
    "msg": "1530517618526650448",
@@ -1846,6 +1846,13 @@
    "end": 1785145021,
    "title": "take my gambling failures",
    "items": 3,
+   "ended": false
+  },
+  "VT2F2M": {
+   "msg": "1530874977924939896",
+   "end": 1785062581,
+   "title": "first raffle",
+   "items": 2,
    "ended": false
   }
  },
