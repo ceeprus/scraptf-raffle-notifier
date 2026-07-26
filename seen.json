@@ -1293,7 +1293,7 @@
    "end": 1785062341,
    "title": "\u2728 Grabli304's raffle\u2503Day 146",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "7SMA77": {
    "msg": "1530525189262016532",
@@ -1867,6 +1867,13 @@
    "end": 1785146400,
    "title": "Gifted Big Earner",
    "items": 1,
+   "ended": false
+  },
+  "LPOZJV": {
+   "msg": "1530887573063598164",
+   "end": 1785148501,
+   "title": "\u2728 Grabli304's raffle\u2503Day 147",
+   "items": 2,
    "ended": false
   }
  },
