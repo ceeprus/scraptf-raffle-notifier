@@ -1195,7 +1195,7 @@
    "end": 1785047281,
    "title": "Random Question #34 + Cat pic #3 (What movie ending has left you surprised?)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZCPQKP": {
    "msg": "1530488682971267163",
@@ -1769,6 +1769,13 @@
    "end": 1785131401,
    "title": "TF2 IM BACK",
    "items": 5,
+   "ended": false
+  },
+  "NJ14Q5": {
+   "msg": "1530824692376539407",
+   "end": 1785133501,
+   "title": "Day 14 Of \"Bad\" Weapon",
+   "items": 1,
    "ended": false
   }
  },
