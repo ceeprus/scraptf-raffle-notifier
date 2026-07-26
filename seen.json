@@ -1335,7 +1335,7 @@
    "end": 1785062822,
    "title": "Weapon of the Prime Soul #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9MNP6S": {
    "msg": "1530530285282660392",
@@ -1874,6 +1874,20 @@
    "end": 1785148501,
    "title": "\u2728 Grabli304's raffle\u2503Day 147",
    "items": 2,
+   "ended": false
+  },
+  "OWVNFJ": {
+   "msg": "1530890089016594634",
+   "end": 1785148861,
+   "title": "The world needs more Reindoonicorns! (#585)",
+   "items": 1,
+   "ended": false
+  },
+  "YMUBNT": {
+   "msg": "1530890097648730172",
+   "end": 1785148741,
+   "title": "really noisy raffle",
+   "items": 50,
    "ended": false
   }
  },
