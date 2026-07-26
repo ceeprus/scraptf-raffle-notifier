@@ -1552,7 +1552,7 @@
    "end": 1785096061,
    "title": "Equestria Forever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "IGGTNK": {
    "msg": "1530667391611306055",
@@ -1797,7 +1797,7 @@
    "end": 1785096301,
    "title": "I can smell the insolence.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "D49R5S": {
    "msg": "1530851063924527195",
