@@ -1405,7 +1405,7 @@
    "end": 1785078182,
    "title": "my name is Giorno Giovanna and i have a dream",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7ZJXVQ": {
    "msg": "1530600681692598373",
@@ -1685,7 +1685,7 @@
    "end": 1785078121,
    "title": "5k raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4UPTGY": {
    "msg": "1530780588619862097",
