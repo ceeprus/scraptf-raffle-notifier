@@ -1125,7 +1125,7 @@
    "end": 1785042181,
    "title": "Oh hey",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3TQKMA": {
    "msg": "1530442138964328449",
@@ -1139,7 +1139,7 @@
    "end": 1785042061,
    "title": "Day 13 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IL2Z1R": {
    "msg": "1530444664476536953",
