@@ -1349,7 +1349,7 @@
    "end": 1785063600,
    "title": "Well, who's to say it doesn't work?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0WNDRC": {
    "msg": "1530546549216645190",
@@ -1888,6 +1888,13 @@
    "end": 1785148741,
    "title": "really noisy raffle",
    "items": 50,
+   "ended": false
+  },
+  "IAYOTZ": {
+   "msg": "1530892676818538597",
+   "end": 1785149941,
+   "title": "music time ! !",
+   "items": 1,
    "ended": false
   }
  },
