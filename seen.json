@@ -1728,6 +1728,20 @@
    "title": "Medic Drip for The Medic Mains \u21168   ->",
    "items": 2,
    "ended": false
+  },
+  "QFCLJS": {
+   "msg": "1530802087330447492",
+   "end": 1785128041,
+   "title": "Pick My Custom Title",
+   "items": 10,
+   "ended": false
+  },
+  "11TK8Z": {
+   "msg": "1530802099313578137",
+   "end": 1785127741,
+   "title": "Help Me",
+   "items": 2,
+   "ended": false
   }
  },
  "megaraffle": {
