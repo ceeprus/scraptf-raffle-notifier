@@ -1776,7 +1776,7 @@
    "end": 1785133501,
    "title": "Day 14 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EI5EHN": {
    "msg": "1530828438599106674",
@@ -2483,6 +2483,13 @@
    "end": 1785218400,
    "title": "Today is Monday",
    "items": 1,
+   "ended": false
+  },
+  "YFGLVD": {
+   "msg": "1531185754506657815",
+   "end": 1785219541,
+   "title": "Day 15 Of \"Bad\" Weapon",
+   "items": 2,
    "ended": false
   }
  },
