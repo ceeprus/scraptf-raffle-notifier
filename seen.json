@@ -2365,6 +2365,34 @@
    "title": "Items won from other raffles",
    "items": 8,
    "ended": false
+  },
+  "KT5MFU": {
+   "msg": "1531160609855504495",
+   "end": 1785213602,
+   "title": "half scrapday",
+   "items": 1,
+   "ended": false
+  },
+  "F4HF3H": {
+   "msg": "1531160616599949372",
+   "end": 1785213421,
+   "title": "half Scrapday",
+   "items": 1,
+   "ended": false
+  },
+  "EEJ2XG": {
+   "msg": "1531160625768697926",
+   "end": 1785213241,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "VXHEFQ": {
+   "msg": "1531160632991285438",
+   "end": 1785213181,
+   "title": "Half scrapday",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
