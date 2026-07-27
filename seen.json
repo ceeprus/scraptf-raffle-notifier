@@ -1846,7 +1846,7 @@
    "end": 1785145021,
    "title": "take my gambling failures",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VT2F2M": {
    "msg": "1530874977924939896",
@@ -2538,6 +2538,13 @@
    "msg": "1531229823270260908",
    "end": 1785229802,
    "title": "\ud83d\udcaa\ud83d\ude0e\ud83e\ude9e",
+   "items": 1,
+   "ended": false
+  },
+  "COUY20": {
+   "msg": "1531234857487695903",
+   "end": 1785231061,
+   "title": "The world needs more Reindoonicorns! (#586)",
    "items": 1,
    "ended": false
   }
