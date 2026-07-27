@@ -1825,7 +1825,7 @@
    "end": 1785142561,
    "title": "Probable Delay + survey",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "OGHZO8": {
    "msg": "1530864924383776830",
@@ -2525,6 +2525,13 @@
    "end": 1785227041,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1487 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 27,
+   "ended": false
+  },
+  "EJVB5P": {
+   "msg": "1531224909701845073",
+   "end": 1785229081,
+   "title": "For fire",
+   "items": 1,
    "ended": false
   }
  },
