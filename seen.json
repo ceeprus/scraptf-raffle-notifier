@@ -1860,14 +1860,14 @@
    "end": 1785146161,
    "title": "What's your opinion on euro banknote design?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1KKSKY": {
    "msg": "1530880012943884348",
    "end": 1785146400,
    "title": "Gifted Big Earner",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LPOZJV": {
    "msg": "1530887573063598164",
@@ -2545,6 +2545,13 @@
    "msg": "1531234857487695903",
    "end": 1785231061,
    "title": "The world needs more Reindoonicorns! (#586)",
+   "items": 1,
+   "ended": false
+  },
+  "FJZZTH": {
+   "msg": "1531239974664540244",
+   "end": 1785232800,
+   "title": "Gifted Chargin' Targe #5",
    "items": 1,
    "ended": false
   }
