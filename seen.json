@@ -2672,7 +2672,7 @@
    "end": 1785180061,
    "title": "Noisemaker pardon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XMLNX2": {
    "msg": "1531292812497260606",
@@ -2910,6 +2910,13 @@
    "end": 1785265742,
    "title": "1 year",
    "items": 9,
+   "ended": false
+  },
+  "3BC7L9": {
+   "msg": "1531382051352088757",
+   "end": 1785266100,
+   "title": "Profiles of The Day #130",
+   "items": 2,
    "ended": false
   }
  },
