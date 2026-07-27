@@ -1951,7 +1951,7 @@
    "end": 1785157681,
    "title": "Free... hats?",
    "items": 28,
-   "ended": false
+   "ended": true
   },
   "JQ3CK3": {
    "msg": "1530939132283588620",
@@ -2651,6 +2651,13 @@
    "end": 1785242462,
    "title": "I CHALLENGE YOU TO A DUEL",
    "items": 2,
+   "ended": false
+  },
+  "8HL64U": {
+   "msg": "1531287707194495108",
+   "end": 1785243600,
+   "title": "7/27/1978",
+   "items": 1,
    "ended": false
   }
  },
