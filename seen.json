@@ -2056,7 +2056,7 @@
    "end": 1785168781,
    "title": "One",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PUB2VN": {
    "msg": "1530981909105213664",
@@ -2806,6 +2806,20 @@
    "title": "Noise makers",
    "items": 47,
    "ended": true
+  },
+  "G4I8D2": {
+   "msg": "1531334267244646593",
+   "end": 1785255181,
+   "title": "Today is my partner's birthday",
+   "items": 21,
+   "ended": false
+  },
+  "BQLTMY": {
+   "msg": "1531334274194604193",
+   "end": 1785255061,
+   "title": "i can't think of a title for this raffle 20\u2122",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
