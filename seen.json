@@ -2980,7 +2980,7 @@
    "end": 1785190141,
    "title": "Um raffle \ud83d\udc4d",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CBW5WB": {
    "msg": "1531394675590692864",
@@ -3043,6 +3043,13 @@
    "end": 1785274981,
    "title": "Raffle Log #87",
    "items": 1,
+   "ended": false
+  },
+  "UW1OZT": {
+   "msg": "1531423601666953236",
+   "end": 1785276481,
+   "title": "Motion Picture Soundtrack",
+   "items": 3,
    "ended": false
   }
  },
