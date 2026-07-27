@@ -2203,7 +2203,7 @@
    "end": 1785193200,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q0QL8Z": {
    "msg": "1531080051003625584",
@@ -3057,6 +3057,13 @@
    "end": 1785278581,
    "title": "scotland",
    "items": 10,
+   "ended": false
+  },
+  "FR4211": {
+   "msg": "1531436287511363674",
+   "end": 1785279600,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
