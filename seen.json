@@ -1671,7 +1671,7 @@
    "end": 1785121081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LBA3T8": {
    "msg": "1530775572081541200",
@@ -2301,6 +2301,13 @@
    "end": 1785206581,
    "title": "idk take them",
    "items": 5,
+   "ended": false
+  },
+  "033TD3": {
+   "msg": "1531134279311036618",
+   "end": 1785142381,
+   "title": "I've confiscated this Gameboy!",
+   "items": 1,
    "ended": false
   }
  },
