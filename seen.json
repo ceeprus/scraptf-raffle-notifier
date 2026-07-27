@@ -2518,7 +2518,7 @@
    "end": 1785182642,
    "title": "My Firts Raffie",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L4TNGE": {
    "msg": "1531217291377770517",
@@ -2958,6 +2958,13 @@
    "msg": "1531389633156616394",
    "end": 1785267962,
    "title": "\u601d\u3044\u601d\u3044\u821e\u3063\u305fBumblebee",
+   "items": 1,
+   "ended": false
+  },
+  "9AUPUT": {
+   "msg": "1531392112866885652",
+   "end": 1785268800,
+   "title": "A Refined a day keeps the doctor away! #20",
    "items": 1,
    "ended": false
   }
