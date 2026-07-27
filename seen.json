@@ -2070,14 +2070,14 @@
    "end": 1785171600,
    "title": "Daily raffle until TF2 gets a major update #572",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "KE5DE2": {
    "msg": "1530984431316242447",
    "end": 1785171600,
    "title": "vacation",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FASEMZ": {
    "msg": "1530984439062986752",
