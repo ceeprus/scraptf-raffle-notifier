@@ -1734,7 +1734,7 @@
    "end": 1785128041,
    "title": "Pick My Custom Title",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "11TK8Z": {
    "msg": "1530802099313578137",
@@ -2392,6 +2392,13 @@
    "end": 1785213181,
    "title": "Half scrapday",
    "items": 1,
+   "ended": false
+  },
+  "HGHN35": {
+   "msg": "1531163095488008302",
+   "end": 1785214202,
+   "title": "Untitled raffle",
+   "items": 2,
    "ended": false
   }
  },
