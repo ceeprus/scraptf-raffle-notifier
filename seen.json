@@ -2273,7 +2273,7 @@
    "end": 1785140821,
    "title": "giving away",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "BKZ586": {
    "msg": "1531129169822486628",
@@ -2518,6 +2518,13 @@
    "end": 1785182642,
    "title": "My Firts Raffie",
    "items": 1,
+   "ended": false
+  },
+  "L4TNGE": {
+   "msg": "1531217291377770517",
+   "end": 1785227041,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1487 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 27,
    "ended": false
   }
  },
