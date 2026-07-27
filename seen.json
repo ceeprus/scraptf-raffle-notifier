@@ -2175,7 +2175,7 @@
    "end": 1785187561,
    "title": "Improvements!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QH85JE": {
    "msg": "1531058793385955410",
@@ -3022,6 +3022,13 @@
    "end": 1785272400,
    "title": "checkup #73 | Reminder that the word \"TIP\" disables tipping when making a raffle",
    "items": 1,
+   "ended": false
+  },
+  "G71DHW": {
+   "msg": "1531413620154437703",
+   "end": 1785273602,
+   "title": "Craft stuffs",
+   "items": 5,
    "ended": false
   }
  },
