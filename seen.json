@@ -1895,7 +1895,7 @@
    "end": 1785149941,
    "title": "music time ! !",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "084S4C": {
    "msg": "1530895118326960188",
@@ -1909,7 +1909,7 @@
    "end": 1785150000,
    "title": "I can't believe that worked...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UTH80E": {
    "msg": "1530902681273503865",
