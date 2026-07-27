@@ -1881,7 +1881,7 @@
    "end": 1785148861,
    "title": "The world needs more Reindoonicorns! (#585)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YMUBNT": {
    "msg": "1530890097648730172",
@@ -2552,6 +2552,20 @@
    "msg": "1531239974664540244",
    "end": 1785232800,
    "title": "Gifted Chargin' Targe #5",
+   "items": 1,
+   "ended": false
+  },
+  "0UUZ6D": {
+   "msg": "1531251214661058600",
+   "end": 1785235141,
+   "title": "It's all falling APART",
+   "items": 2,
+   "ended": false
+  },
+  "0KBNRJ": {
+   "msg": "1531251221761888327",
+   "end": 1785234962,
+   "title": "Raffle,but every entry is +1 ml of sulfuric acid in my gastrointestinal tract",
    "items": 1,
    "ended": false
   }
