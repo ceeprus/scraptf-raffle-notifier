@@ -1902,7 +1902,7 @@
    "end": 1785150122,
    "title": "Daily raffle #316",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F07S3E": {
    "msg": "1530895124027015180",
@@ -2588,6 +2588,13 @@
    "end": 1785235321,
    "title": "I love you",
    "items": 7,
+   "ended": false
+  },
+  "UKHGMQ": {
+   "msg": "1531256225805766726",
+   "end": 1785236400,
+   "title": "Sigh...this beagle.",
+   "items": 1,
    "ended": false
   }
  },
