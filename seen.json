@@ -1727,7 +1727,7 @@
    "end": 1785126901,
    "title": "Medic Drip for The Medic Mains \u21168   ->",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QFCLJS": {
    "msg": "1530802087330447492",
@@ -2357,6 +2357,13 @@
    "end": 1785211861,
    "title": "Buy Fih in this moment",
    "items": 1,
+   "ended": false
+  },
+  "PNSK83": {
+   "msg": "1531158061039878174",
+   "end": 1785169621,
+   "title": "Items won from other raffles",
+   "items": 8,
    "ended": false
   }
  },
