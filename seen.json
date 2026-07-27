@@ -2154,7 +2154,7 @@
    "end": 1785186000,
    "title": "checkup #72 |",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "63M6OH": {
    "msg": "1531048623079690330",
@@ -3001,6 +3001,13 @@
    "end": 1785205742,
    "title": "I'm leaving trading",
    "items": 50,
+   "ended": false
+  },
+  "02K9IX": {
+   "msg": "1531406048370626733",
+   "end": 1785271861,
+   "title": "Imagine a DELTARUNE AU",
+   "items": 1,
    "ended": false
   }
  },
