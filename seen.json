@@ -2098,7 +2098,7 @@
    "end": 1785172021,
    "title": "I Drew Ts 11",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ORXQYH": {
    "msg": "1530999519972692009",
@@ -2833,6 +2833,20 @@
    "end": 1785172981,
    "title": "Ham",
    "items": 50,
+   "ended": false
+  },
+  "SUMQ5Q": {
+   "msg": "1531348128471711805",
+   "end": 1785258000,
+   "title": "today is my birthday",
+   "items": 1,
+   "ended": false
+  },
+  "597TCQ": {
+   "msg": "1531348135669141675",
+   "end": 1785258000,
+   "title": "Daily raffle until TF2 gets a major update #573",
+   "items": 3,
    "ended": false
   }
  },
