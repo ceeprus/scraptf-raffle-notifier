@@ -2217,7 +2217,7 @@
    "end": 1785193921,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "P1E2D0": {
    "msg": "1531087665141776537",
