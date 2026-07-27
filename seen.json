@@ -1748,7 +1748,7 @@
    "end": 1785129122,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UE6OZW": {
    "msg": "1530809595625209978",
@@ -2413,6 +2413,27 @@
    "end": 1785214441,
    "title": "Waluigi time",
    "items": 2,
+   "ended": false
+  },
+  "YHIWBW": {
+   "msg": "1531168156943388724",
+   "end": 1785172261,
+   "title": "Raffling Scrap Till I'm Out #985 (Late raffle)",
+   "items": 1,
+   "ended": false
+  },
+  "G19IRF": {
+   "msg": "1531168165160292472",
+   "end": 1785215161,
+   "title": "Day 49 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "16L0R7": {
+   "msg": "1531168171485167672",
+   "end": 1785215042,
+   "title": "UNSTOPABLE NOISE SPREAD",
+   "items": 200,
    "ended": false
   }
  },
