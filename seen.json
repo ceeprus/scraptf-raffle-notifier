@@ -2189,7 +2189,7 @@
    "end": 1785119222,
    "title": "I dont feel so good..",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VJYTJN": {
    "msg": "1531070007902081064",
@@ -2266,6 +2266,13 @@
    "end": 1785204000,
    "title": "Random hat I crafted #267 ( real )",
    "items": 30,
+   "ended": false
+  },
+  "2VGEHW": {
+   "msg": "1531126691903180990",
+   "end": 1785140821,
+   "title": "giving away",
+   "items": 6,
    "ended": false
   }
  },
