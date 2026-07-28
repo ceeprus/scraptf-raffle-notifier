@@ -2756,7 +2756,7 @@
    "end": 1785252781,
    "title": "[\ud83e\udd89] OWL FACTS #25",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1PYHM6": {
    "msg": "1531324183106027670",
@@ -3441,6 +3441,13 @@
    "msg": "1531684041521107094",
    "end": 1785255421,
    "title": "another raffle",
+   "items": 1,
+   "ended": false
+  },
+  "C3LX5Y": {
+   "msg": "1531686570170519592",
+   "end": 1785339000,
+   "title": "The Favorites of Music #259 & #260",
    "items": 1,
    "ended": false
   }
