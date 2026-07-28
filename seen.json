@@ -2259,14 +2259,14 @@
    "end": 1785204000,
    "title": "I finally reached a Hale's own Pain Train!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "S7UVDQ": {
    "msg": "1531121627478364171",
    "end": 1785204000,
    "title": "Random hat I crafted #267 ( real )",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "2VGEHW": {
    "msg": "1531126691903180990",
@@ -3141,6 +3141,13 @@
    "end": 1785289021,
    "title": "Al fin me gradu\u00e9 de la universidad",
    "items": 10,
+   "ended": false
+  },
+  "986W24": {
+   "msg": "1531481561600491592",
+   "end": 1785289742,
+   "title": "Caf\u00e9 Crit-A-Coffee #1741",
+   "items": 13,
    "ended": false
   }
  },
