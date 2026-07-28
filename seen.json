@@ -3015,14 +3015,14 @@
    "end": 1785272401,
    "title": "Someones birthday",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "JQ48OG": {
    "msg": "1531408502386589719",
    "end": 1785272400,
    "title": "checkup #73 | Reminder that the word \"TIP\" disables tipping when making a raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G71DHW": {
    "msg": "1531413620154437703",
@@ -3736,6 +3736,41 @@
    "end": 1785357000,
    "title": "Equestria 4ever",
    "items": 54,
+   "ended": false
+  },
+  "WG43P4": {
+   "msg": "1531768474425102477",
+   "end": 1785315241,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "42JXL4": {
+   "msg": "1531768481178194122",
+   "end": 1785315001,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WGSVKF": {
+   "msg": "1531768491680727202",
+   "end": 1785358141,
+   "title": "Ten Noise One Winner",
+   "items": 10,
+   "ended": false
+  },
+  "XBRIJW": {
+   "msg": "1531768499075026944",
+   "end": 1785314821,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "VKSULN": {
+   "msg": "1531768510017966083",
+   "end": 1785358021,
+   "title": "Untitled raffle",
+   "items": 10,
    "ended": false
   }
  },
