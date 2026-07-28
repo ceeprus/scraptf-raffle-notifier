@@ -2896,7 +2896,7 @@
    "end": 1785263942,
    "title": "a bit of noise never killed anyone #38",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "USR5QI": {
    "msg": "1531377021098397718",
@@ -3589,6 +3589,13 @@
    "end": 1785349201,
    "title": "Pick My Custom Title - Tournament Preface",
    "items": 3,
+   "ended": false
+  },
+  "KX7CPU": {
+   "msg": "1531733179029782649",
+   "end": 1785349742,
+   "title": "Pick My Custom Title - Quarterfinals (1/4)",
+   "items": 1,
    "ended": false
   }
  },
