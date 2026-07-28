@@ -2385,14 +2385,14 @@
    "end": 1785213241,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "VXHEFQ": {
    "msg": "1531160632991285438",
    "end": 1785213181,
    "title": "Half scrapday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HGHN35": {
    "msg": "1531163095488008302",
