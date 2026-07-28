@@ -3029,7 +3029,7 @@
    "end": 1785273602,
    "title": "Craft stuffs",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "ZFH35Q": {
    "msg": "1531418570238722181",
@@ -3819,6 +3819,27 @@
    "msg": "1531770116054716670",
    "end": 1785358561,
    "title": "Daily Brass Beast #522",
+   "items": 1,
+   "ended": false
+  },
+  "LFAFSB": {
+   "msg": "1531773419815698604",
+   "end": 1785294721,
+   "title": "What does the  say?",
+   "items": 1,
+   "ended": false
+  },
+  "BGR1P2": {
+   "msg": "1531773426920984696",
+   "end": 1785316262,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RJBLR3": {
+   "msg": "1531773434584105031",
+   "end": 1785359341,
+   "title": "The pass it forward raffle! (#10)",
    "items": 1,
    "ended": false
   }
