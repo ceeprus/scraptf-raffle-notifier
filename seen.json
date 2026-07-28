@@ -2840,14 +2840,14 @@
    "end": 1785258000,
    "title": "today is my birthday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "597TCQ": {
    "msg": "1531348135669141675",
    "end": 1785258000,
    "title": "Daily raffle until TF2 gets a major update #573",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "1L0OIW": {
    "msg": "1531353169349841077",
@@ -3504,6 +3504,13 @@
    "msg": "1531702947988373576",
    "end": 1785342421,
    "title": "I Drew Ts 12",
+   "items": 1,
+   "ended": false
+  },
+  "WL1FUW": {
+   "msg": "1531708079840690415",
+   "end": 1785344041,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
