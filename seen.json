@@ -2812,14 +2812,14 @@
    "end": 1785255181,
    "title": "Today is my partner's birthday",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "BQLTMY": {
    "msg": "1531334274194604193",
    "end": 1785255061,
    "title": "i can't think of a title for this raffle 20\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SVU9ED": {
    "msg": "1531336773790076978",
@@ -3470,6 +3470,13 @@
    "end": 1785340561,
    "title": "EVERYONE IS A WINNER!",
    "items": 19,
+   "ended": false
+  },
+  "ZARF49": {
+   "msg": "1531696679747584130",
+   "end": 1785341521,
+   "title": "VN devlog #47",
+   "items": 1,
    "ended": false
   }
  },
