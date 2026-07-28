@@ -3884,6 +3884,20 @@
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
+  },
+  "JMF9S6": {
+   "msg": "1531791065089052883",
+   "end": 1785321001,
+   "title": "Random Item",
+   "items": 1,
+   "ended": false
+  },
+  "KVG8XS": {
+   "msg": "1531791074224377987",
+   "end": 1785364201,
+   "title": "interesting number",
+   "items": 2,
+   "ended": false
   }
  },
  "megaraffle": {
