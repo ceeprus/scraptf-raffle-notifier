@@ -2406,7 +2406,7 @@
    "end": 1785214981,
    "title": "kick ass soldier taunt",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S9BWNJ": {
    "msg": "1531165254912970803",
@@ -2434,7 +2434,7 @@
    "end": 1785215042,
    "title": "UNSTOPABLE NOISE SPREAD",
    "items": 200,
-   "ended": false
+   "ended": true
   },
   "0KN74T": {
    "msg": "1531170653497987224",
