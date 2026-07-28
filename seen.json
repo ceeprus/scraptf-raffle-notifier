@@ -3050,7 +3050,7 @@
    "end": 1785276481,
    "title": "Motion Picture Soundtrack",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "THS5LC": {
    "msg": "1531433654109077678",
@@ -3862,6 +3862,20 @@
    "end": 1785277261,
    "title": "rando first raffle",
    "items": 1,
+   "ended": false
+  },
+  "W1GMYF": {
+   "msg": "1531785991612792874",
+   "end": 1785362461,
+   "title": "angry german moustache",
+   "items": 1,
+   "ended": false
+  },
+  "X9QRQC": {
+   "msg": "1531786000626618509",
+   "end": 1785362400,
+   "title": "Untitled raffle",
+   "items": 3,
    "ended": false
   }
  },
