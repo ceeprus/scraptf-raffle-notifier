@@ -3036,7 +3036,7 @@
    "end": 1785275161,
    "title": "80 tours, no Australiums",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "670HRO": {
    "msg": "1531418577087889420",
@@ -3848,6 +3848,13 @@
    "end": 1785360601,
    "title": "with some",
    "items": 2,
+   "ended": false
+  },
+  "DNZ3HW": {
+   "msg": "1531780955524698143",
+   "end": 1785361562,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
