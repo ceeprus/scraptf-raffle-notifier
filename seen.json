@@ -2910,7 +2910,7 @@
    "end": 1785265742,
    "title": "1 year",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "3BC7L9": {
    "msg": "1531382051352088757",
@@ -3232,7 +3232,7 @@
    "end": 1785265741,
    "title": "Moisture is the essence of wetness",
    "items": 29,
-   "ended": false
+   "ended": true
   },
   "XR1KID": {
    "msg": "1531583424567967795",
