@@ -2868,7 +2868,7 @@
    "end": 1785260822,
    "title": "A raffle for every 1k entered (19k edition): Back for the summer",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "R5V0A3": {
    "msg": "1531363234152579162",
@@ -3561,6 +3561,13 @@
    "end": 1785346142,
    "title": "secret raffle in entered message",
    "items": 2,
+   "ended": false
+  },
+  "QAEE3X": {
+   "msg": "1531720546302169234",
+   "end": 1785282121,
+   "title": "Raffling every 2 days #1",
+   "items": 1,
    "ended": false
   }
  },
