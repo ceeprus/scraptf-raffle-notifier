@@ -2903,7 +2903,7 @@
    "end": 1785265202,
    "title": "Paint A Bird",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "R4N359": {
    "msg": "1531379564423413970",
@@ -3596,6 +3596,13 @@
    "end": 1785349742,
    "title": "Pick My Custom Title - Quarterfinals (1/4)",
    "items": 1,
+   "ended": false
+  },
+  "TAHASM": {
+   "msg": "1531738256545419286",
+   "end": 1785351481,
+   "title": "Noice noise",
+   "items": 27,
    "ended": false
   }
  },
