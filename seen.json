@@ -2735,7 +2735,7 @@
    "end": 1785250921,
    "title": "pyro",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "R12X4N": {
    "msg": "1531316624408449245",
@@ -3295,7 +3295,7 @@
    "end": 1785251101,
    "title": "Mar Wore Paints",
    "items": 25,
-   "ended": false
+   "ended": true
   },
   "DRNM3N": {
    "msg": "1531590958964015106",
