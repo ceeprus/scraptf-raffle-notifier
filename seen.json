@@ -2679,7 +2679,7 @@
    "end": 1785244741,
    "title": "rookie mistake :p",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "Y2W1Y7": {
    "msg": "1531297772555472917",
@@ -3399,6 +3399,13 @@
    "msg": "1531650120880361705",
    "end": 1785330000,
    "title": "Top Gear Tuesday: Undercover Americans",
+   "items": 1,
+   "ended": false
+  },
+  "CU4VF0": {
+   "msg": "1531652602788446320",
+   "end": 1785331021,
+   "title": "[\ud83e\udd89] OWL FACTS #26",
    "items": 1,
    "ended": false
   }
