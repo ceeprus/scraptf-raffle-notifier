@@ -2770,7 +2770,7 @@
    "end": 1785253921,
    "title": "Acronyms #214: End of the HamsterGabe Era",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "D4G0OU": {
    "msg": "1531329205994913792",
@@ -3456,6 +3456,13 @@
    "end": 1785339661,
    "title": "Daily raffle #318",
    "items": 1,
+   "ended": false
+  },
+  "9OQFAE": {
+   "msg": "1531691582712189038",
+   "end": 1785297121,
+   "title": "uninstall twitter asap",
+   "items": 9,
    "ended": false
   }
  },
