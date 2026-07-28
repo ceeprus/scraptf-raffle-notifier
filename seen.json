@@ -2280,21 +2280,21 @@
    "end": 1785205981,
    "title": "Pokemon Of The Day #15: Piplup",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TO5W9I": {
    "msg": "1531129176533504092",
    "end": 1785205921,
    "title": "Hale's Own Trials: Fire Axe: Day 12",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AS64RP": {
    "msg": "1531129183508365443",
    "end": 1785205860,
    "title": "No Alternative",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "05CDU6": {
    "msg": "1531131688749629660",
@@ -2728,7 +2728,7 @@
    "end": 1785205921,
    "title": "So many war paints",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "AUCBG1": {
    "msg": "1531316617298841691",
