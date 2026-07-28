@@ -2483,7 +2483,7 @@
    "end": 1785218400,
    "title": "Today is Monday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YFGLVD": {
    "msg": "1531185754506657815",
