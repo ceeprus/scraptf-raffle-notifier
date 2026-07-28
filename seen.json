@@ -3358,7 +3358,7 @@
    "end": 1785253262,
    "title": "First raffle",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "6ZGBJO": {
    "msg": "1531630008907468830",
@@ -3448,6 +3448,13 @@
    "msg": "1531686570170519592",
    "end": 1785339000,
    "title": "The Favorites of Music #259 & #260",
+   "items": 1,
+   "ended": false
+  },
+  "TW6MW2": {
+   "msg": "1531689095879721012",
+   "end": 1785339661,
+   "title": "Daily raffle #318",
    "items": 1,
    "ended": false
   }
