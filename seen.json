@@ -2644,7 +2644,7 @@
    "end": 1785242762,
    "title": "Hope",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "VHDQ5A": {
    "msg": "1531282690689470606",
@@ -3385,6 +3385,13 @@
    "msg": "1531634992247996476",
    "end": 1785326400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "EUWRXM": {
+   "msg": "1531644571425964072",
+   "end": 1785328802,
+   "title": "MeeM",
    "items": 1,
    "ended": false
   }
