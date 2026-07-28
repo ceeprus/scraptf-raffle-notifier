@@ -3057,7 +3057,7 @@
    "end": 1785278581,
    "title": "scotland",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "FR4211": {
    "msg": "1531436287511363674",
@@ -3897,6 +3897,55 @@
    "end": 1785364201,
    "title": "interesting number",
    "items": 2,
+   "ended": false
+  },
+  "98LSOK": {
+   "msg": "1531794824066240662",
+   "end": 1785364862,
+   "title": "\u0423 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c \u0432\u043e\u043f\u0440\u043e\u0441\ud83e\udd14",
+   "items": 1,
+   "ended": false
+  },
+  "W2S3RL": {
+   "msg": "1531794830689173595",
+   "end": 1785321662,
+   "title": "Random Raffle 2",
+   "items": 1,
+   "ended": false
+  },
+  "NW48MX": {
+   "msg": "1531794838213754932",
+   "end": 1785364741,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "H8V2SK": {
+   "msg": "1531794845616570508",
+   "end": 1785321481,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1ER9HM": {
+   "msg": "1531794852268998816",
+   "end": 1785364502,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8V449X": {
+   "msg": "1531794863819985017",
+   "end": 1785364381,
+   "title": "Untitled raffle",
+   "items": 4,
+   "ended": false
+  },
+  "Q0K6KL": {
+   "msg": "1531794871222796318",
+   "end": 1785364321,
+   "title": "first raffle",
+   "items": 5,
    "ended": false
   }
  },
