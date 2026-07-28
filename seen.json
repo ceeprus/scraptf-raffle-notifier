@@ -2399,7 +2399,7 @@
    "end": 1785214202,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5JMH9Y": {
    "msg": "1531165247522607297",
@@ -3168,6 +3168,13 @@
    "msg": "1531514193579348204",
    "end": 1785297600,
    "title": "\u266a Harajuku Iyahoi \u266a",
+   "items": 1,
+   "ended": false
+  },
+  "RIBIEE": {
+   "msg": "1531524266212851823",
+   "end": 1785256922,
+   "title": "Raffling Scrap Till I'm Out #986 (Tired)",
    "items": 1,
    "ended": false
   }
