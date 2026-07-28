@@ -2994,7 +2994,7 @@
    "end": 1785270841,
    "title": "Equestria Forever",
    "items": 51,
-   "ended": false
+   "ended": true
   },
   "182D2W": {
    "msg": "1531399707899854968",
@@ -3253,7 +3253,7 @@
    "end": 1785270841,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JK3AYK": {
    "msg": "1531583447162687582",
@@ -3267,7 +3267,7 @@
    "end": 1785270661,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GTUN55": {
    "msg": "1531585877502066709",
@@ -3729,6 +3729,13 @@
    "end": 1785284161,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "JFY76T": {
+   "msg": "1531762060025794873",
+   "end": 1785357000,
+   "title": "Equestria 4ever",
+   "items": 54,
    "ended": false
   }
  },
