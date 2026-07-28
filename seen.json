@@ -2938,7 +2938,7 @@
    "end": 1785267661,
    "title": "The pass it forward raffle! (#9)",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "RGYY09": {
    "msg": "1531387114023817326",
@@ -3624,6 +3624,13 @@
    "end": 1785352500,
    "title": "Snowfall Soundtrack #28",
    "items": 2,
+   "ended": false
+  },
+  "O68CW5": {
+   "msg": "1531749512513589319",
+   "end": 1785353521,
+   "title": "Time to do a thing",
+   "items": 1,
    "ended": false
   }
  },
