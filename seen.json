@@ -2686,7 +2686,7 @@
    "end": 1785246541,
    "title": "Bigu Helmetu",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OAYR7N": {
    "msg": "1531297781900382279",
@@ -2700,7 +2700,7 @@
    "end": 1785246362,
    "title": "Question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZGAUVP": {
    "msg": "1531297801177403502",
