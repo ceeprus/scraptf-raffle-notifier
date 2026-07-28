@@ -3533,7 +3533,7 @@
    "end": 1785262501,
    "title": "I got a refined from an auction and dont need a lot of it.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "CGLOCD": {
    "msg": "1531713051504676875",
