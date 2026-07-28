@@ -2455,7 +2455,7 @@
    "end": 1785215642,
    "title": "Day 44 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GTIBER": {
    "msg": "1531173162551869460",
@@ -3175,6 +3175,13 @@
    "msg": "1531524266212851823",
    "end": 1785256922,
    "title": "Raffling Scrap Till I'm Out #986 (Tired)",
+   "items": 1,
+   "ended": false
+  },
+  "6BV8NT": {
+   "msg": "1531530539373432862",
+   "end": 1785301622,
+   "title": "YOUR LIFE IS...",
    "items": 1,
    "ended": false
   }
