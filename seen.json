@@ -2546,7 +2546,7 @@
    "end": 1785231061,
    "title": "The world needs more Reindoonicorns! (#586)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FJZZTH": {
    "msg": "1531239974664540244",
@@ -3301,6 +3301,13 @@
    "msg": "1531590958964015106",
    "end": 1785315842,
    "title": "Waluigi time",
+   "items": 1,
+   "ended": false
+  },
+  "0MHX5R": {
+   "msg": "1531595976614084729",
+   "end": 1785317042,
+   "title": "My HONEST feelings about scrap users #4 [justanormal.... ]",
    "items": 1,
    "ended": false
   }
