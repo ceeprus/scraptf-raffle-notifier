@@ -2602,7 +2602,7 @@
    "end": 1785236581,
    "title": "Daily Brass Beast #521",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AP0CUO": {
    "msg": "1531261241090117783",
@@ -3316,6 +3316,20 @@
    "end": 1785319381,
    "title": "abobys",
    "items": 1,
+   "ended": false
+  },
+  "INJZ4Q": {
+   "msg": "1531618596067872778",
+   "end": 1785322800,
+   "title": "Oh boy! When she finds out...",
+   "items": 1,
+   "ended": false
+  },
+  "LPJ94F": {
+   "msg": "1531618618175913984",
+   "end": 1785322741,
+   "title": "stuff i dont need",
+   "items": 8,
    "ended": false
   }
  },
