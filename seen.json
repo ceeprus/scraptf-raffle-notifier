@@ -3477,7 +3477,7 @@
    "end": 1785341521,
    "title": "VN devlog #47",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4RM6W8": {
    "msg": "1531700464784244767",
@@ -4758,6 +4758,20 @@
    "end": 1785427200,
    "title": "Scrap Cookbook - Baked Potato Chips",
    "items": 2,
+   "ended": false
+  },
+  "LJFJMH": {
+   "msg": "1532059049225621686",
+   "end": 1785384602,
+   "title": "The ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) bind",
+   "items": 15,
+   "ended": false
+  },
+  "I1K9PM": {
+   "msg": "1532059057203183626",
+   "end": 1785427741,
+   "title": "Scrap.tf Birthdays - 29 July",
+   "items": 1,
    "ended": false
   }
  },
