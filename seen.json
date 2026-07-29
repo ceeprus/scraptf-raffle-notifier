@@ -4023,14 +4023,14 @@
    "end": 1785302881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RTR6AR": {
    "msg": "1531807381011431475",
    "end": 1785302761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RKIQDC": {
    "msg": "1531813759385862235",
@@ -4296,6 +4296,13 @@
    "end": 1785384482,
    "title": "Backpack  Bane",
    "items": 5,
+   "ended": false
+  },
+  "9YY0TY": {
+   "msg": "1531896793896321074",
+   "end": 1785389221,
+   "title": "Trading is unstable!!!",
+   "items": 178,
    "ended": false
   }
  },
