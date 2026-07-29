@@ -3841,7 +3841,7 @@
    "end": 1785359341,
    "title": "The pass it forward raffle! (#10)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QQSF5X": {
    "msg": "1531778431661113359",
@@ -5052,6 +5052,13 @@
    "end": 1785443041,
    "title": "Raffle number 14!",
    "items": 3,
+   "ended": false
+  },
+  "4JXZK2": {
+   "msg": "1532133288465137886",
+   "end": 1785445200,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
