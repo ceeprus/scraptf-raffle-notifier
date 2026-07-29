@@ -3547,7 +3547,7 @@
    "end": 1785346020,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZBLP5Q": {
    "msg": "1531718032517365984",
@@ -3561,7 +3561,7 @@
    "end": 1785346142,
    "title": "secret raffle in entered message",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QAEE3X": {
    "msg": "1531720546302169234",
