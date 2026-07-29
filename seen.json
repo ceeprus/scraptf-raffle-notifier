@@ -3106,7 +3106,7 @@
    "end": 1785286800,
    "title": "Reminder to eat n' drink water if ye haven't yet #259",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "XKBZKZ": {
    "msg": "1531467619679473917",
@@ -3120,7 +3120,7 @@
    "end": 1785286561,
    "title": "im bored",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "44E4ST": {
    "msg": "1531472633735155742",
