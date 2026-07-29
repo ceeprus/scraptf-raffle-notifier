@@ -4857,6 +4857,13 @@
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
+  },
+  "GZMVFM": {
+   "msg": "1532076631584145480",
+   "end": 1785432002,
+   "title": "First raffle!",
+   "items": 4,
+   "ended": false
   }
  },
  "megaraffle": {
