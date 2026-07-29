@@ -3736,7 +3736,7 @@
    "end": 1785357000,
    "title": "Equestria 4ever",
    "items": 54,
-   "ended": false
+   "ended": true
   },
   "WG43P4": {
    "msg": "1531768474425102477",
@@ -5045,6 +5045,13 @@
    "end": 1785377342,
    "title": "noisemaker",
    "items": 1,
+   "ended": false
+  },
+  "BY1TQ4": {
+   "msg": "1532123263495569589",
+   "end": 1785443041,
+   "title": "Raffle number 14!",
+   "items": 3,
    "ended": false
   }
  },
