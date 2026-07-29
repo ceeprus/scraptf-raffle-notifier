@@ -3260,7 +3260,7 @@
    "end": 1785313981,
    "title": "The world needs more Reindoonicorns! (#587)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B15870": {
    "msg": "1531583452946763817",
@@ -4401,6 +4401,27 @@
    "end": 1785398641,
    "title": "Daily Hat #69",
    "items": 1,
+   "ended": false
+  },
+  "9E58XE": {
+   "msg": "1531943253803532298",
+   "end": 1785400441,
+   "title": "Untitled raffle",
+   "items": 10,
+   "ended": false
+  },
+  "FP9G12": {
+   "msg": "1531943262825349150",
+   "end": 1785400202,
+   "title": "Untitled raffle",
+   "items": 10,
+   "ended": false
+  },
+  "V31L70": {
+   "msg": "1531943270265917440",
+   "end": 1785400021,
+   "title": "Untitled raffle",
+   "items": 10,
    "ended": false
   }
  },
