@@ -3673,7 +3673,7 @@
    "end": 1785355200,
    "title": "A Refined a day keeps the doctor away! #21",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ML7QCC": {
    "msg": "1531754532852338708",
@@ -3687,7 +3687,7 @@
    "end": 1785355082,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "DFQ5G7": {
    "msg": "1531754546282369174",
@@ -4988,6 +4988,20 @@
    "msg": "1532110638636073031",
    "end": 1785440161,
    "title": "Pick My Custom Title - Quarterfinals (2/4)",
+   "items": 1,
+   "ended": false
+  },
+  "J5PHMM": {
+   "msg": "1532115735206297801",
+   "end": 1785356642,
+   "title": "Sordid Stan",
+   "items": 2,
+   "ended": false
+  },
+  "8LCPCR": {
+   "msg": "1532115742462578759",
+   "end": 1785397682,
+   "title": "Fanumstein Rizzberg",
    "items": 1,
    "ended": false
   }
