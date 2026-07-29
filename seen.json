@@ -3757,7 +3757,7 @@
    "end": 1785358141,
    "title": "Ten Noise One Winner",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "XBRIJW": {
    "msg": "1531768499075026944",
@@ -3771,7 +3771,7 @@
    "end": 1785358021,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "RTKGG6": {
    "msg": "1531770078561833141",
