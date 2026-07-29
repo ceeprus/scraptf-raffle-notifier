@@ -3435,7 +3435,7 @@
    "end": 1785337922,
    "title": "The Spycrab Has Bad News\ud83e\udd80\ud83d\ude22",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JO40X7": {
    "msg": "1531684041521107094",
@@ -4513,7 +4513,7 @@
    "end": 1785337981,
    "title": "More",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GA832L": {
    "msg": "1531984815438696659",
