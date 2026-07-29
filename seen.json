@@ -3890,7 +3890,7 @@
    "end": 1785321001,
    "title": "Random Item",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KVG8XS": {
    "msg": "1531791074224377987",
@@ -4477,6 +4477,13 @@
    "msg": "1531964762903023736",
    "end": 1785405181,
    "title": "I'll be 100",
+   "items": 2,
+   "ended": false
+  },
+  "P8EYGF": {
+   "msg": "1531972275287490622",
+   "end": 1785406922,
+   "title": "\u2728 Grabli304's raffle\u2503Day 150",
    "items": 2,
    "ended": false
   }
