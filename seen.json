@@ -4591,6 +4591,13 @@
    "title": "Summer Holiday",
    "items": 3,
    "ended": false
+  },
+  "WOISYE": {
+   "msg": "1532008676863250612",
+   "end": 1785415802,
+   "title": "Question",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
