@@ -3918,7 +3918,7 @@
    "end": 1785364741,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H8V2SK": {
    "msg": "1531794845616570508",
@@ -5073,6 +5073,20 @@
    "end": 1785448921,
    "title": "Equestria Forever",
    "items": 52,
+   "ended": false
+  },
+  "H7MP1R": {
+   "msg": "1532155927925362789",
+   "end": 1785451141,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1489 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 29,
+   "ended": false
+  },
+  "86L23G": {
+   "msg": "1532155936527876287",
+   "end": 1785450782,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
