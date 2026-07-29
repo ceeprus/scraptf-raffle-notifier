@@ -3610,7 +3610,7 @@
    "end": 1785352681,
    "title": "Raffling a  every time I win a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YS1O0K": {
    "msg": "1531744451800727583",
@@ -4961,6 +4961,20 @@
    "end": 1785438061,
    "title": "Untitled raffle",
    "items": 3,
+   "ended": false
+  },
+  "VXOCEF": {
+   "msg": "1532105623947448361",
+   "end": 1785438900,
+   "title": "Snowfall Soundtrack #29",
+   "items": 2,
+   "ended": false
+  },
+  "YY996A": {
+   "msg": "1532105631475961941",
+   "end": 1785366421,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
