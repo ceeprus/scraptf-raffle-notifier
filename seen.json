@@ -3589,7 +3589,7 @@
    "end": 1785349201,
    "title": "Pick My Custom Title - Tournament Preface",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "KX7CPU": {
    "msg": "1531733179029782649",
@@ -4779,7 +4779,7 @@
    "end": 1785349081,
    "title": "Getting down to it #45",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7P4DD3": {
    "msg": "1532064065499824158",
