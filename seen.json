@@ -4073,6 +4073,48 @@
    "title": "My first raffle",
    "items": 4,
    "ended": false
+  },
+  "MEQ0B8": {
+   "msg": "1531816175141523517",
+   "end": 1785369901,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TUYZGK": {
+   "msg": "1531816181785165905",
+   "end": 1785369841,
+   "title": "Raffles",
+   "items": 7,
+   "ended": false
+  },
+  "897P1H": {
+   "msg": "1531816187292549391",
+   "end": 1785369602,
+   "title": "Multiple",
+   "items": 1,
+   "ended": false
+  },
+  "UUPKWN": {
+   "msg": "1531816192782762015",
+   "end": 1785369481,
+   "title": "Ten",
+   "items": 1,
+   "ended": false
+  },
+  "W7RN6L": {
+   "msg": "1531816198638014614",
+   "end": 1785369481,
+   "title": "Noise",
+   "items": 1,
+   "ended": false
+  },
+  "CHY6CK": {
+   "msg": "1531816204723949688",
+   "end": 1785369361,
+   "title": "Huh",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
