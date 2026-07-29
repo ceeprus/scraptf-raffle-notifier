@@ -4506,7 +4506,7 @@
    "end": 1785338341,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RWYAUL": {
    "msg": "1531984808408911953",
@@ -4737,6 +4737,13 @@
    "end": 1785380400,
    "title": "Finally...",
    "items": 2,
+   "ended": false
+  },
+  "X11JMD": {
+   "msg": "1532045254088458431",
+   "end": 1785424261,
+   "title": "5  at once",
+   "items": 1,
    "ended": false
   }
  },
