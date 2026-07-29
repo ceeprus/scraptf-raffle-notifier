@@ -3729,7 +3729,7 @@
    "end": 1785284161,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JFY76T": {
    "msg": "1531762060025794873",
@@ -4113,6 +4113,13 @@
    "msg": "1531816204723949688",
    "end": 1785369361,
    "title": "Huh",
+   "items": 1,
+   "ended": false
+  },
+  "M041P1": {
+   "msg": "1531818701572018350",
+   "end": 1785370021,
+   "title": "I am going to  you, then I will  what remains",
    "items": 1,
    "ended": false
   }
