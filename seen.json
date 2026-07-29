@@ -3617,14 +3617,14 @@
    "end": 1785352502,
    "title": "hello",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CDBTNP": {
    "msg": "1531744458507419698",
    "end": 1785352500,
    "title": "Snowfall Soundtrack #28",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "O68CW5": {
    "msg": "1531749512513589319",
