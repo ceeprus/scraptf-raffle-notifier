@@ -3414,7 +3414,7 @@
    "end": 1785333302,
    "title": "My HONEST feelings about scrap users #5 [Mouse Man.... ]",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1BE3A7": {
    "msg": "1531670273122635869",
@@ -4652,6 +4652,13 @@
    "msg": "1532021287164182599",
    "end": 1785418561,
    "title": "free",
+   "items": 1,
+   "ended": false
+  },
+  "NF8BBP": {
+   "msg": "1532023778559787078",
+   "end": 1785419341,
+   "title": "\u0421\u0442\u043e\u0438\u0442 \u043b\u0438 \u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u043c\u0432\u043c \u0435\u0441\u043b\u0438 \u044f \u0441\u043c\u043e\u0433\u0443 \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e 3 \u0431\u0438\u043b\u0435\u0442\u0430?",
    "items": 1,
    "ended": false
   }
