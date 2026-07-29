@@ -3218,7 +3218,7 @@
    "end": 1785307501,
    "title": "Fire Breather?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6QO34O": {
    "msg": "1531562021022335086",
@@ -4331,6 +4331,20 @@
    "end": 1785349441,
    "title": "Raffling Scrap Till I'm Out #987 (Late raffle)",
    "items": 1,
+   "ended": false
+  },
+  "ROOD89": {
+   "msg": "1531915606507388969",
+   "end": 1785393541,
+   "title": "Day 17 Of \"Bad\" Weapon",
+   "items": 1,
+   "ended": false
+  },
+  "KG876L": {
+   "msg": "1531915615357636669",
+   "end": 1785393121,
+   "title": "Random Question #35 + Foto de mi gata #4 (What's your Favorite Animal)",
+   "items": 2,
    "ended": false
   }
  },
