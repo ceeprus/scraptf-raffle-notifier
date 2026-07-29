@@ -3988,14 +3988,14 @@
    "end": 1785366000,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FF2W86": {
    "msg": "1531799841779486861",
    "end": 1785365822,
    "title": "#2 random",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "NATYY6": {
    "msg": "1531804833386991827",
@@ -5086,6 +5086,13 @@
    "msg": "1532155936527876287",
    "end": 1785450782,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "VCZJ8T": {
+   "msg": "1532161051272020019",
+   "end": 1785452400,
+   "title": "A  a day",
    "items": 1,
    "ended": false
   }
