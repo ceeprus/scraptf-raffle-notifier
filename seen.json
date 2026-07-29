@@ -3197,7 +3197,7 @@
    "end": 1785304800,
    "title": "Today is Tuesday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8SW1OQ": {
    "msg": "1531544395440980022",
@@ -4303,6 +4303,13 @@
    "end": 1785389221,
    "title": "Trading is unstable!!!",
    "items": 178,
+   "ended": false
+  },
+  "MUHFSX": {
+   "msg": "1531904381073625259",
+   "end": 1785391200,
+   "title": "Today is Wednesday",
+   "items": 1,
    "ended": false
   }
  },
