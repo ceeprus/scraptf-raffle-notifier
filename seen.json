@@ -3603,7 +3603,7 @@
    "end": 1785351481,
    "title": "Noice noise",
    "items": 27,
-   "ended": false
+   "ended": true
   },
   "889ZVX": {
    "msg": "1531744444926394570",
@@ -4359,7 +4359,7 @@
    "end": 1785351600,
    "title": "It is",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "MNNR53": {
    "msg": "1531928141248069693",
@@ -4611,21 +4611,21 @@
    "end": 1785351600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EDQXV9": {
    "msg": "1532011210923446453",
    "end": 1785351600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N8WEKN": {
    "msg": "1532011217236004945",
    "end": 1785351600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B0UCRD": {
    "msg": "1532011223305158687",
