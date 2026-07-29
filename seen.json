@@ -3274,7 +3274,7 @@
    "end": 1785314881,
    "title": "How do I complete contracts?",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "XA53L8": {
    "msg": "1531585884020019230",
@@ -3750,7 +3750,7 @@
    "end": 1785315001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WGSVKF": {
    "msg": "1531768491680727202",
@@ -3764,7 +3764,7 @@
    "end": 1785314821,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VKSULN": {
    "msg": "1531768510017966083",
