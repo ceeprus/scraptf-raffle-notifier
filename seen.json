@@ -4247,7 +4247,7 @@
    "end": 1785337201,
    "title": "so many fox loafs",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "6Q5I18": {
    "msg": "1531862763482386473",
@@ -4716,6 +4716,13 @@
    "end": 1785421981,
    "title": "...",
    "items": 4,
+   "ended": false
+  },
+  "BQP3AW": {
+   "msg": "1532040252469018766",
+   "end": 1785423242,
+   "title": "year on a scrap :)",
+   "items": 3,
    "ended": false
   }
  },
