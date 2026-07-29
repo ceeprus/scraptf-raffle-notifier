@@ -3211,7 +3211,7 @@
    "end": 1785305941,
    "title": "Day 16 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AUN4Z3": {
    "msg": "1531554460420276226",
@@ -4226,14 +4226,14 @@
    "end": 1785305762,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7TDCEF": {
    "msg": "1531848924636381314",
    "end": 1785305581,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WMEU5X": {
    "msg": "1531851489763524820",
@@ -4309,6 +4309,13 @@
    "msg": "1531904381073625259",
    "end": 1785391200,
    "title": "Today is Wednesday",
+   "items": 1,
+   "ended": false
+  },
+  "FCWUEM": {
+   "msg": "1531909307866677389",
+   "end": 1785391321,
+   "title": "Numbers are not welcomed here",
    "items": 1,
    "ended": false
   }
