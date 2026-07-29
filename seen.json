@@ -3904,7 +3904,7 @@
    "end": 1785364862,
    "title": "\u0423 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c \u0432\u043e\u043f\u0440\u043e\u0441\ud83e\udd14",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W2S3RL": {
    "msg": "1531794830689173595",
@@ -3981,7 +3981,7 @@
    "end": 1785364981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EZCPAR": {
    "msg": "1531799834024214639",
