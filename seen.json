@@ -3512,7 +3512,7 @@
    "end": 1785344041,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "965X8K": {
    "msg": "1531710496590397580",
@@ -4793,6 +4793,13 @@
    "end": 1785428641,
    "title": "Untitled raffle",
    "items": 5,
+   "ended": false
+  },
+  "BDFY7B": {
+   "msg": "1532069078250950696",
+   "end": 1785430382,
+   "title": "Weapon of the Prime Soul #9",
+   "items": 1,
    "ended": false
   }
  },
