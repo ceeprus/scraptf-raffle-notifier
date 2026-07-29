@@ -3715,7 +3715,7 @@
    "end": 1785312242,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ERJAKV": {
    "msg": "1531759542868639807",
@@ -4380,6 +4380,20 @@
    "end": 1785396842,
    "title": "Stay quiet...",
    "items": 3,
+   "ended": false
+  },
+  "IHCXHH": {
+   "msg": "1531935709798072362",
+   "end": 1785398521,
+   "title": "Daily Black Boxes #152",
+   "items": 10,
+   "ended": false
+  },
+  "W5SB3K": {
+   "msg": "1531935717268262912",
+   "end": 1785398101,
+   "title": "Daily Brass Beast #523",
+   "items": 1,
    "ended": false
   }
  },
