@@ -3470,7 +3470,7 @@
    "end": 1785340561,
    "title": "EVERYONE IS A WINNER!",
    "items": 19,
-   "ended": false
+   "ended": true
   },
   "ZARF49": {
    "msg": "1531696679747584130",
@@ -4750,6 +4750,13 @@
    "msg": "1532052810710126814",
    "end": 1785426361,
    "title": "Hey T\u00fa!",
+   "items": 2,
+   "ended": false
+  },
+  "1FPXZJ": {
+   "msg": "1532055373110968441",
+   "end": 1785427200,
+   "title": "Scrap Cookbook - Baked Potato Chips",
    "items": 2,
    "ended": false
   }
