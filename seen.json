@@ -3148,7 +3148,7 @@
    "end": 1785289742,
    "title": "Caf\u00e9 Crit-A-Coffee #1741",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "3C3RE2": {
    "msg": "1531494100019314751",
@@ -4191,6 +4191,27 @@
    "end": 1785374581,
    "title": "\u271d\ufe0fguh!#TeamSandvich#TeamBanana",
    "items": 4,
+   "ended": false
+  },
+  "2ZBKLT": {
+   "msg": "1531841343121391707",
+   "end": 1785375781,
+   "title": "Megaraffle?",
+   "items": 1,
+   "ended": false
+  },
+  "8QEIQ4": {
+   "msg": "1531841350692114572",
+   "end": 1785375721,
+   "title": "Yeah (oh) Tick tock Heavy like a Brinks truck",
+   "items": 100,
+   "ended": false
+  },
+  "ZNE8QS": {
+   "msg": "1531841357453463773",
+   "end": 1785375541,
+   "title": "good evening everybody",
+   "items": 16,
    "ended": false
   }
  },
