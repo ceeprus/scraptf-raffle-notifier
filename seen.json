@@ -4975,7 +4975,7 @@
    "end": 1785439022,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4Z0SF0": {
    "msg": "1532110638636073031",
@@ -5968,6 +5968,34 @@
    "msg": "1532465491774410756",
    "end": 1785524461,
    "title": "Sip Secret",
+   "items": 1,
+   "ended": false
+  },
+  "QMCDN5": {
+   "msg": "1532468016875311157",
+   "end": 1785525300,
+   "title": "Profiles of The Day #131",
+   "items": 2,
+   "ended": false
+  },
+  "9AR7C6": {
+   "msg": "1532468024651550880",
+   "end": 1785460441,
+   "title": "Why  scared of",
+   "items": 1,
+   "ended": false
+  },
+  "B2DS56": {
+   "msg": "1532468032016744478",
+   "end": 1785524881,
+   "title": "\u041a\u0442\u043e \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0435\u0442 \u0442\u043e\u0442 \u043b\u043e\u0445",
+   "items": 1,
+   "ended": false
+  },
+  "4WY72E": {
+   "msg": "1532468040598552739",
+   "end": 1785524821,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
