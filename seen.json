@@ -4464,21 +4464,21 @@
    "end": 1785405301,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HNG5RU": {
    "msg": "1531964756917751848",
    "end": 1785405241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WETSDG": {
    "msg": "1531964762903023736",
    "end": 1785405181,
    "title": "I'll be 100",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "P8EYGF": {
    "msg": "1531972275287490622",
@@ -5373,6 +5373,13 @@
    "msg": "1532323307129540662",
    "end": 1785490321,
    "title": "Clinging to Promises",
+   "items": 1,
+   "ended": false
+  },
+  "HVVALA": {
+   "msg": "1532325775192363081",
+   "end": 1785419281,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
