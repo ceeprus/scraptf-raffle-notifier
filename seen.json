@@ -5206,14 +5206,14 @@
    "end": 1785429241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6W07YA": {
    "msg": "1532245241615351900",
    "end": 1785429061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "26BNIJ": {
    "msg": "1532245250146308178",
@@ -5765,6 +5765,20 @@
    "msg": "1532423914112679946",
    "end": 1785471601,
    "title": "Well, there is a  here.",
+   "items": 1,
+   "ended": false
+  },
+  "JJP581": {
+   "msg": "1532426457089966112",
+   "end": 1785472261,
+   "title": "Yo",
+   "items": 1,
+   "ended": false
+  },
+  "C0SW1H": {
+   "msg": "1532426464476008589",
+   "end": 1785515041,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
