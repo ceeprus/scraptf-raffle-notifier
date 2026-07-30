@@ -5325,7 +5325,7 @@
    "end": 1785445681,
    "title": "2",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "Z222BT": {
    "msg": "1532318237914562645",
@@ -6226,6 +6226,20 @@
   "HT8ADV": {
    "msg": "1532493287662026783",
    "end": 1785466381,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "H0B3LK": {
+   "msg": "1532495662849986630",
+   "end": 1785532202,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "T3BSTQ": {
+   "msg": "1532495669657468938",
+   "end": 1785466861,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
