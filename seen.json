@@ -5235,6 +5235,13 @@
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
+  },
+  "HWBOT0": {
+   "msg": "1532261630077964388",
+   "end": 1785411302,
+   "title": "I'm not playing TF2 right now, so I'll just give these items away for free.",
+   "items": 3,
+   "ended": false
   }
  },
  "megaraffle": {
