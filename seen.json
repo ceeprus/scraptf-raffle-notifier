@@ -77,13 +77,6 @@
    "items": 1,
    "ended": true
   },
-  "MFDVTN": {
-   "msg": "1529918759739850893",
-   "end": 1784832602,
-   "title": "\ud83d\udc9aTake away my noisemakers#7\ud83d\udc9a",
-   "items": 46,
-   "ended": true
-  },
   "IW2M3X": {
    "msg": "1529923736298324092",
    "end": 1784875381,
@@ -4940,7 +4933,7 @@
    "end": 1785437402,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "APWZHS": {
    "msg": "1532103097260970330",
