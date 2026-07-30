@@ -4842,7 +4842,7 @@
    "end": 1785431581,
    "title": "Another fav artist died",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D0YLEQ": {
    "msg": "1532074146454835231",
@@ -5821,6 +5821,13 @@
    "msg": "1532434034112593931",
    "end": 1785433981,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AQ8FYM": {
+   "msg": "1532436533808861275",
+   "end": 1785517861,
+   "title": "Daily Brass Beast #523",
    "items": 1,
    "ended": false
   }
