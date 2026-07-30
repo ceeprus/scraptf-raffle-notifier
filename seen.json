@@ -4863,7 +4863,7 @@
    "end": 1785432002,
    "title": "First raffle!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "N4JIBH": {
    "msg": "1532086687512006736",
@@ -5829,6 +5829,27 @@
    "end": 1785517861,
    "title": "Daily Brass Beast #523",
    "items": 1,
+   "ended": false
+  },
+  "7W37UP": {
+   "msg": "1532438482528764086",
+   "end": 1785518462,
+   "title": "long live medic mains",
+   "items": 4,
+   "ended": false
+  },
+  "VAIQNF": {
+   "msg": "1532438489088655450",
+   "end": 1785475201,
+   "title": "Untitled raffle",
+   "items": 4,
+   "ended": false
+  },
+  "959J57": {
+   "msg": "1532438496558583929",
+   "end": 1785475081,
+   "title": "Untitled raffle",
+   "items": 4,
    "ended": false
   }
  },
