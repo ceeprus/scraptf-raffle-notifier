@@ -5241,7 +5241,7 @@
    "end": 1785411302,
    "title": "I'm not playing TF2 right now, so I'll just give these items away for free.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NMHHGA": {
    "msg": "1532266745262243841",
@@ -5458,6 +5458,20 @@
    "end": 1785496501,
    "title": "Untitled raffle",
    "items": 2,
+   "ended": false
+  },
+  "7JS3AR": {
+   "msg": "1532350932396806324",
+   "end": 1785497401,
+   "title": "Second raffle I guess",
+   "items": 1,
+   "ended": false
+  },
+  "T0L6P5": {
+   "msg": "1532350940248670218",
+   "end": 1785497102,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
