@@ -5627,6 +5627,13 @@
    "title": "take some guns",
    "items": 3,
    "ended": false
+  },
+  "VS390M": {
+   "msg": "1532407599771680859",
+   "end": 1785467401,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
