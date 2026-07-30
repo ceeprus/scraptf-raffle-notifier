@@ -4240,7 +4240,7 @@
    "end": 1785378602,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U3DIQF": {
    "msg": "1531860198006980681",
@@ -5136,6 +5136,13 @@
    "end": 1785420962,
    "title": "Purple",
    "items": 6,
+   "ended": false
+  },
+  "775SK8": {
+   "msg": "1532213858133999616",
+   "end": 1785464761,
+   "title": "Caf\u00e9 Crit-A-Coffee #1743",
+   "items": 13,
    "ended": false
   }
  },
