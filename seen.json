@@ -4870,7 +4870,7 @@
    "end": 1785434641,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J1RH1H": {
    "msg": "1532086693690081320",
@@ -5884,6 +5884,27 @@
    "msg": "1532446579393560666",
    "end": 1785520441,
    "title": "stupid raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SXZE1Q": {
+   "msg": "1532449101411651625",
+   "end": 1785521041,
+   "title": "uncool raffle",
+   "items": 1,
+   "ended": false
+  },
+  "343SUZ": {
+   "msg": "1532449109632618597",
+   "end": 1785520682,
+   "title": "hey can someone help me (spy)",
+   "items": 1,
+   "ended": false
+  },
+  "6BOWR8": {
+   "msg": "1532449115722481804",
+   "end": 1785437761,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
