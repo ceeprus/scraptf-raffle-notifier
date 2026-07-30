@@ -4128,14 +4128,14 @@
    "end": 1785371102,
    "title": "Someones gotta teleport this thing",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "0X3WWX": {
    "msg": "1531821259619569844",
    "end": 1785371041,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UXXW9E": {
    "msg": "1531823751585468567",
@@ -5093,6 +5093,13 @@
    "msg": "1532161051272020019",
    "end": 1785452400,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "ETBI2W": {
+   "msg": "1532182319363002478",
+   "end": 1785392581,
+   "title": "Don't want this bs",
    "items": 1,
    "ended": false
   }
