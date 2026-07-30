@@ -4807,7 +4807,7 @@
    "end": 1785430982,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LYGAF2": {
    "msg": "1532071611572944898",
@@ -4856,7 +4856,7 @@
    "end": 1785431101,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GZMVFM": {
    "msg": "1532076631584145480",
@@ -5808,6 +5808,20 @@
    "end": 1785450842,
    "title": "Untitled raffle",
    "items": 2,
+   "ended": false
+  },
+  "RGV7BT": {
+   "msg": "1532434025652682825",
+   "end": 1785517200,
+   "title": "Daily raffle until TF2 gets a major update #576",
+   "items": 3,
+   "ended": false
+  },
+  "WT6OMH": {
+   "msg": "1532434034112593931",
+   "end": 1785433981,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
