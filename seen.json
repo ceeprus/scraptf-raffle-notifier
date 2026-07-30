@@ -5437,14 +5437,14 @@
    "end": 1785452941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DHWZOF": {
    "msg": "1532345956287123457",
    "end": 1785452762,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "60QYH0": {
    "msg": "1532348415948886120",
@@ -6277,6 +6277,41 @@
    "end": 1785535681,
    "title": "Epilogue",
    "items": 3,
+   "ended": false
+  },
+  "TK02LG": {
+   "msg": "1532525893526880397",
+   "end": 1785495841,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "LLEPDW": {
+   "msg": "1532525900631904436",
+   "end": 1785495661,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "XKU2T0": {
+   "msg": "1532525906269175903",
+   "end": 1785538800,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "V5DZ6V": {
+   "msg": "1532525913303154899",
+   "end": 1785538682,
+   "title": "but raccoon noises instead",
+   "items": 1,
+   "ended": false
+  },
+  "SUPU3D": {
+   "msg": "1532525919883886773",
+   "end": 1785538622,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
