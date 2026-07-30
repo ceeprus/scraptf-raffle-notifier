@@ -5080,7 +5080,7 @@
    "end": 1785450782,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VCZJ8T": {
    "msg": "1532161051272020019",
@@ -5801,7 +5801,7 @@
    "end": 1785450842,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RGV7BT": {
    "msg": "1532434025652682825",
