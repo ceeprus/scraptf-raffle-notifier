@@ -4310,7 +4310,7 @@
    "end": 1785391200,
    "title": "Today is Wednesday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FCWUEM": {
    "msg": "1531909307866677389",
@@ -5241,6 +5241,13 @@
    "end": 1785411302,
    "title": "I'm not playing TF2 right now, so I'll just give these items away for free.",
    "items": 3,
+   "ended": false
+  },
+  "NMHHGA": {
+   "msg": "1532266745262243841",
+   "end": 1785477242,
+   "title": "Daily Hat #70",
+   "items": 1,
    "ended": false
   }
  },
