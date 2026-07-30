@@ -4982,7 +4982,7 @@
    "end": 1785440161,
    "title": "Pick My Custom Title - Quarterfinals (2/4)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J5PHMM": {
    "msg": "1532115735206297801",
@@ -6011,6 +6011,41 @@
    "end": 1785525721,
    "title": "keeps walking on, followed by",
    "items": 1,
+   "ended": false
+  },
+  "XNCLTE": {
+   "msg": "1532473008789389352",
+   "end": 1785526501,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "ZBRAWA": {
+   "msg": "1532473016863428739",
+   "end": 1785526441,
+   "title": "[\ud83e\udd89] OWL FACTS #27",
+   "items": 1,
+   "ended": false
+  },
+  "OL9KC0": {
+   "msg": "1532473028120678541",
+   "end": 1785526382,
+   "title": "i gotta stop playing mvm pt.5",
+   "items": 36,
+   "ended": false
+  },
+  "B881A3": {
+   "msg": "1532473037474103476",
+   "end": 1785454322,
+   "title": "why show removed comments",
+   "items": 1,
+   "ended": false
+  },
+  "DGCF9E": {
+   "msg": "1532473045061472449",
+   "end": 1785526141,
+   "title": "Untitled raffle",
+   "items": 3,
    "ended": false
   }
  },
