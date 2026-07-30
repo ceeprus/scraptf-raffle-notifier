@@ -4730,7 +4730,7 @@
    "end": 1785423961,
    "title": "?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "6KAT3I": {
    "msg": "1532042710041493676",
@@ -5619,6 +5619,13 @@
    "end": 1785430261,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "G7A1PQ": {
+   "msg": "1532405068467277864",
+   "end": 1785510002,
+   "title": "take some guns",
+   "items": 3,
    "ended": false
   }
  },
