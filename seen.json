@@ -4485,7 +4485,7 @@
    "end": 1785406922,
    "title": "\u2728 Grabli304's raffle\u2503Day 150",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "S3MOMY": {
    "msg": "1531977268908396744",
@@ -5409,6 +5409,13 @@
    "end": 1785492242,
    "title": "COOOOOOOOOOOOOOOOOOOOL",
    "items": 1,
+   "ended": false
+  },
+  "TJSTJY": {
+   "msg": "1532333319726043196",
+   "end": 1785493142,
+   "title": "Grabli304's raffle\u2503Day 151",
+   "items": 2,
    "ended": false
   }
  },
