@@ -4744,7 +4744,7 @@
    "end": 1785424261,
    "title": "5  at once",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V2M5SV": {
    "msg": "1532052810710126814",
@@ -5437,7 +5437,7 @@
    "end": 1785424321,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QWC0YT": {
    "msg": "1532345948271935508",
