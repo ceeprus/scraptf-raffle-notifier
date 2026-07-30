@@ -5822,7 +5822,7 @@
    "end": 1785433981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AQ8FYM": {
    "msg": "1532436533808861275",
@@ -5877,6 +5877,13 @@
    "msg": "1532444076547244083",
    "end": 1785476041,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "APQ5LL": {
+   "msg": "1532446579393560666",
+   "end": 1785520441,
+   "title": "stupid raffle",
    "items": 1,
    "ended": false
   }
