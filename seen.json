@@ -4758,7 +4758,7 @@
    "end": 1785427200,
    "title": "Scrap Cookbook - Baked Potato Chips",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LJFJMH": {
    "msg": "1532059049225621686",
@@ -5709,6 +5709,48 @@
    "msg": "1532415161082708072",
    "end": 1785512521,
    "title": "#7",
+   "items": 1,
+   "ended": false
+  },
+  "VJO5GF": {
+   "msg": "1532417744216129840",
+   "end": 1785513600,
+   "title": "Scrap Cookbook - Pizza Cake",
+   "items": 4,
+   "ended": false
+  },
+  "DS9IGC": {
+   "msg": "1532417750939729940",
+   "end": 1785513541,
+   "title": "I Drew Ts 13",
+   "items": 1,
+   "ended": false
+  },
+  "I58N8U": {
+   "msg": "1532417757499490381",
+   "end": 1785513541,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Z4FQMO": {
+   "msg": "1532417766198345788",
+   "end": 1785513421,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MC02N0": {
+   "msg": "1532417772536074240",
+   "end": 1785513121,
+   "title": "I've heared there's a",
+   "items": 1,
+   "ended": false
+  },
+  "8L55DZ": {
+   "msg": "1532417779553272050",
+   "end": 1785469861,
+   "title": "So cool!",
    "items": 1,
    "ended": false
   }
