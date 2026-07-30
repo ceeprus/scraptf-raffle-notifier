@@ -5003,7 +5003,7 @@
    "end": 1785397682,
    "title": "Fanumstein Rizzberg",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6UJAPR": {
    "msg": "1532118174751920159",
@@ -5289,6 +5289,13 @@
    "msg": "1532286800318697665",
    "end": 1785438721,
    "title": "Raffling Scrap Till I'm Out #988 (Super late raffle)",
+   "items": 1,
+   "ended": false
+  },
+  "MJG37B": {
+   "msg": "1532294347209445449",
+   "end": 1785483902,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
