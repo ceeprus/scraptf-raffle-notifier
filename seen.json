@@ -5017,7 +5017,7 @@
    "end": 1785441600,
    "title": "A Refined a day keeps the doctor away! #22",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BXOY7M": {
    "msg": "1532120719981412403",
@@ -6088,6 +6088,20 @@
    "end": 1785526621,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "2XK8MK": {
+   "msg": "1532478107875934471",
+   "end": 1785484141,
+   "title": "Protein Shake",
+   "items": 3,
+   "ended": false
+  },
+  "M9BM0F": {
+   "msg": "1532478116596023346",
+   "end": 1785527281,
+   "title": "animapocalypse",
+   "items": 3,
    "ended": false
   }
  },
