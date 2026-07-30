@@ -4429,14 +4429,14 @@
    "end": 1785400801,
    "title": "Free",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "46Y76C": {
    "msg": "1531945808935780462",
    "end": 1785400562,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "YS9U8R": {
    "msg": "1531952140455641211",
@@ -5296,6 +5296,13 @@
    "msg": "1532294347209445449",
    "end": 1785483902,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4QWWE0": {
+   "msg": "1532306931107102840",
+   "end": 1785443941,
+   "title": "Tipping every raffle that has  in it's name",
    "items": 1,
    "ended": false
   }
