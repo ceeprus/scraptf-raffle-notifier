@@ -4793,7 +4793,7 @@
    "end": 1785428641,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "BDFY7B": {
    "msg": "1532069078250950696",
@@ -5758,6 +5758,13 @@
    "msg": "1532421472566640842",
    "end": 1785513662,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HRYML9": {
+   "msg": "1532423914112679946",
+   "end": 1785471601,
+   "title": "Well, there is a  here.",
    "items": 1,
    "ended": false
   }
