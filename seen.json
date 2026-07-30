@@ -4387,7 +4387,7 @@
    "end": 1785398521,
    "title": "Daily Black Boxes #152",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "W5SB3K": {
    "msg": "1531935717268262912",
@@ -4401,7 +4401,7 @@
    "end": 1785398641,
    "title": "Daily Hat #69",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9E58XE": {
    "msg": "1531943253803532298",
@@ -5017,7 +5017,7 @@
    "end": 1785398462,
    "title": "Fanumstein Rizzberg",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1S225T": {
    "msg": "1532118189662666972",
