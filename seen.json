@@ -4667,7 +4667,7 @@
    "end": 1785420421,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B7TK9P": {
    "msg": "1532030129134637086",
@@ -4695,14 +4695,14 @@
    "end": 1785420601,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2CNX2O": {
    "msg": "1532030162206720104",
    "end": 1785420482,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B5EXV4": {
    "msg": "1532032674619985931",
@@ -5584,6 +5584,20 @@
    "end": 1785506101,
    "title": "I participated in 1000 raffies :-)",
    "items": 3,
+   "ended": false
+  },
+  "DYS3DK": {
+   "msg": "1532389966402031646",
+   "end": 1785463081,
+   "title": "just raffle",
+   "items": 1,
+   "ended": false
+  },
+  "PSW62M": {
+   "msg": "1532389972630310912",
+   "end": 1785506281,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
