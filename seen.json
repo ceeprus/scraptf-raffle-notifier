@@ -5297,7 +5297,7 @@
    "end": 1785443941,
    "title": "Tipping every raffle that has  in it's name",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7HV11A": {
    "msg": "1532312063857397840",
@@ -6151,6 +6151,41 @@
    "end": 1785529141,
    "title": "Scrappiversary!",
    "items": 8,
+   "ended": false
+  },
+  "I7487K": {
+   "msg": "1532488107289608204",
+   "end": 1785530161,
+   "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 \u2764\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "F93JSJ": {
+   "msg": "1532488113421684736",
+   "end": 1785529982,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NMJ6Z7": {
+   "msg": "1532488119113486538",
+   "end": 1785529921,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "14SD93": {
+   "msg": "1532488126885396511",
+   "end": 1785529801,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SPF47U": {
+   "msg": "1532488133575311400",
+   "end": 1785529801,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
