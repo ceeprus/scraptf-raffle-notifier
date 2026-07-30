@@ -4751,7 +4751,7 @@
    "end": 1785426361,
    "title": "Hey T\u00fa!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "1FPXZJ": {
    "msg": "1532055373110968441",
@@ -5681,6 +5681,34 @@
    "msg": "1532412645657809058",
    "end": 1785511800,
    "title": "The Favorites of Music #261 & #262",
+   "items": 1,
+   "ended": false
+  },
+  "MIED24": {
+   "msg": "1532415143462440970",
+   "end": 1785512941,
+   "title": "Untitled raffle",
+   "items": 9,
+   "ended": false
+  },
+  "RUB0O7": {
+   "msg": "1532415149695172618",
+   "end": 1785469621,
+   "title": "ANOTHER?!",
+   "items": 1,
+   "ended": false
+  },
+  "RK1PT6": {
+   "msg": "1532415155672191146",
+   "end": 1785512581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WWC8E9": {
+   "msg": "1532415161082708072",
+   "end": 1785512521,
+   "title": "#7",
    "items": 1,
    "ended": false
   }
