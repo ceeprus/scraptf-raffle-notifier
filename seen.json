@@ -5052,7 +5052,7 @@
    "end": 1785445200,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LYXF0T": {
    "msg": "1532140829550838011",
@@ -5304,7 +5304,7 @@
    "end": 1785445262,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4JCW8C": {
    "msg": "1532315756346474597",
@@ -6192,6 +6192,41 @@
    "msg": "1532490645598634034",
    "end": 1785530401,
    "title": "My most serious raffle",
+   "items": 1,
+   "ended": false
+  },
+  "F3HOPA": {
+   "msg": "1532493259509858467",
+   "end": 1785531602,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "PTOATP": {
+   "msg": "1532493266006577273",
+   "end": 1785531600,
+   "title": "checkup #76 | Dispenser on the enemy's intel base",
+   "items": 1,
+   "ended": false
+  },
+  "30V79J": {
+   "msg": "1532493274667814942",
+   "end": 1785531421,
+   "title": "Scrap.tf Birthdays - 30 July",
+   "items": 2,
+   "ended": false
+  },
+  "T8JDTD": {
+   "msg": "1532493281865240887",
+   "end": 1785466502,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HT8ADV": {
+   "msg": "1532493287662026783",
+   "end": 1785466381,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
