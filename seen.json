@@ -4576,7 +4576,7 @@
    "end": 1785414661,
    "title": "Good day",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "4TT74G": {
    "msg": "1532006199883730994",
@@ -4590,7 +4590,7 @@
    "end": 1785414841,
    "title": "Summer Holiday",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "WOISYE": {
    "msg": "1532008676863250612",
@@ -5506,6 +5506,20 @@
    "msg": "1532363502486946033",
    "end": 1785500461,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "D2HJUM": {
+   "msg": "1532366048739725323",
+   "end": 1785501061,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XSV3Q4": {
+   "msg": "1532366056746778715",
+   "end": 1785501002,
+   "title": "Ripped in half by",
    "items": 1,
    "ended": false
   }
