@@ -4352,7 +4352,7 @@
    "end": 1785394021,
    "title": "normal rafle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "FW0LAS": {
    "msg": "1531920595304972358",
@@ -5261,6 +5261,13 @@
    "msg": "1532271686378979389",
    "end": 1785478201,
    "title": "Mails here!",
+   "items": 1,
+   "ended": false
+  },
+  "KQWC3E": {
+   "msg": "1532279251808550942",
+   "end": 1785480061,
+   "title": "Day 18 Of \"Bad\" Weapon",
    "items": 1,
    "ended": false
   }
