@@ -4646,14 +4646,14 @@
    "end": 1785418681,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OEV3B3": {
    "msg": "1532021287164182599",
    "end": 1785418561,
    "title": "free",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NF8BBP": {
    "msg": "1532023778559787078",
@@ -5563,6 +5563,13 @@
    "end": 1785503281,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "WMMXQG": {
+   "msg": "1532382417237573632",
+   "end": 1785504601,
+   "title": "Joining in to celebrate",
+   "items": 4,
    "ended": false
   }
  },
