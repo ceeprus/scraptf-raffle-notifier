@@ -140,13 +140,6 @@
    "items": 1,
    "ended": true
   },
-  "LFRZOY": {
-   "msg": "1529949864182550568",
-   "end": 1784881562,
-   "title": "I'm back for a moment and an announcement",
-   "items": 8,
-   "ended": true
-  },
   "IEZXNT": {
    "msg": "1529957657530597620",
    "end": null,
@@ -6655,6 +6648,20 @@
    "end": 1785571141,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "FF531I": {
+   "msg": "1532666844907835472",
+   "end": 1785572522,
+   "title": "ALL 40 SMISSMAS NOISEMAKERS",
+   "items": 40,
+   "ended": false
+  },
+  "8CV9WA": {
+   "msg": "1532666852516302888",
+   "end": 1785507541,
+   "title": "hi hi",
+   "items": 3,
    "ended": false
   }
  },
