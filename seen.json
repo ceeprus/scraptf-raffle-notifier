@@ -5850,21 +5850,21 @@
    "end": 1785531602,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PTOATP": {
    "msg": "1532493266006577273",
    "end": 1785531600,
    "title": "checkup #76 | Dispenser on the enemy's intel base",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "30V79J": {
    "msg": "1532493274667814942",
    "end": 1785531421,
    "title": "Scrap.tf Birthdays - 30 July",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "T8JDTD": {
    "msg": "1532493281865240887",
