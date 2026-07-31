@@ -5892,7 +5892,7 @@
    "end": 1785532382,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K8DQ8X": {
    "msg": "1532503268885008588",
@@ -6977,6 +6977,20 @@
    "end": 1785617581,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "HC84I0": {
+   "msg": "1532859296847757354",
+   "end": 1785618541,
+   "title": "Pokemon Of The Day #17: Golbat",
+   "items": 2,
+   "ended": false
+  },
+  "LZAGLM": {
+   "msg": "1532859304686911682",
+   "end": 1785618541,
+   "title": "RIFA PRA VOCES!",
+   "items": 8,
    "ended": false
   }
  },
