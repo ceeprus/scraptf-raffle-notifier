@@ -5388,7 +5388,7 @@
    "end": 1785499321,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JFOTOZ": {
    "msg": "1532358474183217182",
@@ -6753,6 +6753,20 @@
    "end": 1785583981,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "Y71WX8": {
+   "msg": "1532720869388976209",
+   "end": 1785585600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "IK7IR3": {
+   "msg": "1532720876926271608",
+   "end": 1785542101,
+   "title": "Untitled raffle",
+   "items": 4,
    "ended": false
   }
  },
