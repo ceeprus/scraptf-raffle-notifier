@@ -126,13 +126,6 @@
    "items": 1,
    "ended": true
   },
-  "5MZU6A": {
-   "msg": "1529933853538648127",
-   "end": 1784865600,
-   "title": "It's my birthday!",
-   "items": 8,
-   "ended": true
-  },
   "3EPMFG": {
    "msg": "1529936311786410089",
    "end": 1784921400,
@@ -5164,7 +5157,7 @@
    "end": 1785470400,
    "title": "\u266a Juicy Beats \u266a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TE2UOP": {
    "msg": "1532237736155680949",
