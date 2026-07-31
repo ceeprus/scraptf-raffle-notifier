@@ -140,13 +140,6 @@
    "items": 50,
    "ended": true
   },
-  "BVMZMC": {
-   "msg": "1529936320149852331",
-   "end": 1784863741,
-   "title": "my name is sonic, cause i am faster than sound, i keep on jumping around",
-   "items": 3,
-   "ended": true
-  },
   "EPQSPD": {
    "msg": "1529941403138920722",
    "end": 1784923200,
@@ -5633,14 +5626,14 @@
    "end": 1785468482,
    "title": "has a knife",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3QAC0G": {
    "msg": "1532410184864108615",
    "end": 1785468361,
    "title": "The  sleeps tonight",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0U9M6B": {
    "msg": "1532412624577499277",
