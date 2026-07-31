@@ -210,13 +210,6 @@
    "items": 10,
    "ended": true
   },
-  "4QTRAK": {
-   "msg": "1529994228094996592",
-   "end": 1784891881,
-   "title": "Hello, i'm still MISERABLE",
-   "items": 4,
-   "ended": true
-  },
   "3TZU4S": {
    "msg": "1529996697063657602",
    "end": 1784935861,
@@ -6235,7 +6228,7 @@
    "end": 1785496562,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "36OA5T": {
    "msg": "1532528413666185216",
