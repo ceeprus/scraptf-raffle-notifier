@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "D8BQ7V": {
-   "msg": "1529994221371789442",
-   "end": 1784935142,
-   "title": "stock items",
-   "items": 10,
-   "ended": true
-  },
   "3TZU4S": {
    "msg": "1529996697063657602",
    "end": 1784935861,
@@ -5906,7 +5899,7 @@
    "end": 1785539701,
    "title": "Raffling a  every time I win a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L7F25Z": {
    "msg": "1532528419957379082",
@@ -6983,6 +6976,13 @@
    "msg": "1532888264447627325",
    "end": 1785624961,
    "title": "\ud83c\ude34",
+   "items": 1,
+   "ended": false
+  },
+  "XAS691": {
+   "msg": "1532890794485219408",
+   "end": 1785543062,
+   "title": "QTE! Tipping the next public raffle.",
    "items": 1,
    "ended": false
   }
