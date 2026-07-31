@@ -77,13 +77,6 @@
    "items": 1,
    "ended": true
   },
-  "IW2M3X": {
-   "msg": "1529923736298324092",
-   "end": 1784875381,
-   "title": "unclaimed stuff",
-   "items": 3,
-   "ended": true
-  },
   "2YP41H": {
    "msg": "1529923745190514910",
    "end": 1784918341,
@@ -5234,7 +5227,7 @@
    "end": 1785480061,
    "title": "Day 18 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JBB35C": {
    "msg": "1532281831704100895",
