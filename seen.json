@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "XTIBDS": {
-   "msg": "1529886871591587901",
-   "end": 1784909941,
-   "title": "Raffle Name",
-   "items": 1,
-   "ended": true
-  },
   "M86OYG": {
    "msg": "1529894732702945383",
    "end": 1784911802,
@@ -6928,6 +6921,27 @@
    "end": 1785600061,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "USVJ8D": {
+   "msg": "1532785124058464327",
+   "end": 1785600781,
+   "title": "and  Bowling Edition",
+   "items": 1,
+   "ended": false
+  },
+  "06DQUB": {
+   "msg": "1532785132275237085",
+   "end": 1785600781,
+   "title": "What even is stock?",
+   "items": 1,
+   "ended": false
+  },
+  "DVMSS4": {
+   "msg": "1532785142891020429",
+   "end": 1785600721,
+   "title": "Amassment",
+   "items": 20,
    "ended": false
   }
  },
