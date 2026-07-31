@@ -5913,14 +5913,14 @@
    "end": 1785539281,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "A0UC5B": {
    "msg": "1532528426467069953",
    "end": 1785539162,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "1X7GNU": {
    "msg": "1532533423019655320",
@@ -6962,6 +6962,27 @@
    "msg": "1532885809290543235",
    "end": 1785624600,
    "title": "Recovery",
+   "items": 1,
+   "ended": false
+  },
+  "XSVEVV": {
+   "msg": "1532888249826279666",
+   "end": 1785546181,
+   "title": "Take a chance!",
+   "items": 1,
+   "ended": false
+  },
+  "6TBWER": {
+   "msg": "1532888256755011704",
+   "end": 1785625200,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "5Y8VSN": {
+   "msg": "1532888264447627325",
+   "end": 1785624961,
+   "title": "\ud83c\ude34",
    "items": 1,
    "ended": false
   }
