@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "OH78NX": {
-   "msg": "1529960216765136997",
-   "end": 1784927162,
-   "title": "Free Stock Weapons... but with a twist.",
-   "items": 24,
-   "ended": true
-  },
   "759GDH": {
    "msg": "1529962689076531220",
    "end": 1784927761,
@@ -5885,7 +5878,7 @@
    "end": 1785532202,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T3BSTQ": {
    "msg": "1532495669657468938",
