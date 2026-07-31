@@ -5661,7 +5661,7 @@
    "end": 1785517861,
    "title": "Daily Brass Beast #523",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7W37UP": {
    "msg": "1532438482528764086",
@@ -6991,6 +6991,27 @@
    "end": 1785603421,
    "title": "Untitled raffle",
    "items": 10,
+   "ended": false
+  },
+  "5KIWT8": {
+   "msg": "1532798904716755064",
+   "end": 1785603962,
+   "title": "Pillar",
+   "items": 20,
+   "ended": false
+  },
+  "FJQUJT": {
+   "msg": "1532798912073568286",
+   "end": 1785603901,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CRQEQP": {
+   "msg": "1532798918985908284",
+   "end": 1785538982,
+   "title": "Aguante Argentina  /// Algunos Refinados para ustedes",
+   "items": 3,
    "ended": false
   }
  },
