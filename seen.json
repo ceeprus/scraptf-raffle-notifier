@@ -5402,7 +5402,7 @@
    "end": 1785500461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D2HJUM": {
    "msg": "1532366048739725323",
@@ -6780,6 +6780,20 @@
    "msg": "1532723413746188408",
    "end": 1785585961,
    "title": "Daily raffle #321",
+   "items": 1,
+   "ended": false
+  },
+  "K5E98T": {
+   "msg": "1532725912792203358",
+   "end": 1785586921,
+   "title": "MARTEEEEEEEN  SIIIIIIIIIIIIIIIIIIIIIIP",
+   "items": 1,
+   "ended": false
+  },
+  "5MR0LQ": {
+   "msg": "1532725920455069726",
+   "end": 1785586861,
+   "title": "LEOOON  *sipppp*  LEOOON",
    "items": 1,
    "ended": false
   }
