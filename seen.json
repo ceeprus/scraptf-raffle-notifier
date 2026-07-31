@@ -161,13 +161,6 @@
    "items": 1,
    "ended": true
   },
-  "YBHHRZ": {
-   "msg": "1529967749282136176",
-   "end": 1784886181,
-   "title": "https://scrap.tf/raffles/",
-   "items": 1,
-   "ended": true
-  },
   "MK1JRY": {
    "msg": "1529967755925782720",
    "end": 1784929261,
@@ -5276,7 +5269,7 @@
    "end": 1785490921,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TIV7UC": {
    "msg": "1532323285461766154",
