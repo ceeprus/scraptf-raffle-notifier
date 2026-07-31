@@ -1,19 +1,5 @@
 {
  "raffles": {
-  "EPQSPD": {
-   "msg": "1529941403138920722",
-   "end": 1784923200,
-   "title": "A Refined a day keeps the doctor away! #16 (for real this time)",
-   "items": 1,
-   "ended": true
-  },
-  "FIHSFF": {
-   "msg": "1529941413910024402",
-   "end": 1784922962,
-   "title": "Algo para la people",
-   "items": 3,
-   "ended": true
-  },
   "5TMDO5": {
    "msg": "1529947604908249229",
    "end": 1784924341,
@@ -5836,14 +5822,14 @@
    "end": 1785528000,
    "title": "A Refined a day keeps the doctor away! #23",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1FJ9UF": {
    "msg": "1532480656666529892",
    "end": 1785527881,
    "title": "I Hope You Find Your Way Home",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2Z39XU": {
    "msg": "1532485678166839376",
@@ -6410,7 +6396,7 @@
    "end": 1785528002,
    "title": "poll for fun (or is it)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UDVTXO": {
    "msg": "1532661801206943805",
