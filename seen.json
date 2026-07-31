@@ -5892,7 +5892,7 @@
    "end": 1785478981,
    "title": "Starchion PEAKpost #9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "896BFI": {
    "msg": "1532454127936737300",
@@ -6606,6 +6606,13 @@
    "end": 1785564901,
    "title": "coollion",
    "items": 3,
+   "ended": false
+  },
+  "B2GHAP": {
+   "msg": "1532636665439588413",
+   "end": 1785565382,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
