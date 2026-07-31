@@ -6816,7 +6816,7 @@
    "end": 1785508622,
    "title": "Giving away the first tf2 weapon I got",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RJUBQU": {
    "msg": "1532735987392712725",
@@ -6864,6 +6864,13 @@
    "msg": "1532749952013434901",
    "end": 1785591962,
    "title": "Ta-da!",
+   "items": 1,
+   "ended": false
+  },
+  "F3HLYL": {
+   "msg": "1532759914672427040",
+   "end": 1785551582,
+   "title": "pssst come here",
    "items": 1,
    "ended": false
   }
