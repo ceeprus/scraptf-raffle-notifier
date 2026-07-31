@@ -238,13 +238,6 @@
    "items": 4,
    "ended": true
   },
-  "32VPA4": {
-   "msg": "1530112472504078397",
-   "end": 1784920681,
-   "title": "Raffling Scrap Till I'm Out #980-82 (Super late raffle)",
-   "items": 3,
-   "ended": true
-  },
   "UCBE90": {
    "msg": "1530115011165290638",
    "end": 1784964602,
@@ -6977,6 +6970,27 @@
    "end": 1785610021,
    "title": "Food for thought (I'm outta food)",
    "items": 2,
+   "ended": false
+  },
+  "NGYXL1": {
+   "msg": "1532830366304567450",
+   "end": 1785611881,
+   "title": "Pick My Custom Title - Quarterfinals (3/4)",
+   "items": 1,
+   "ended": false
+  },
+  "OOZFOF": {
+   "msg": "1532830372453421249",
+   "end": 1785611641,
+   "title": "Today I have ONE , and ZERO",
+   "items": 1,
+   "ended": false
+  },
+  "9P3RN6": {
+   "msg": "1532830378652471398",
+   "end": 1785611522,
+   "title": "Raffling a  every time I win a  #73",
+   "items": 1,
    "ended": false
   }
  },
