@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "MK1JRY": {
-   "msg": "1529967755925782720",
-   "end": 1784929261,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "7PF41W": {
    "msg": "1529972776264269844",
    "end": 1784930341,
@@ -6410,14 +6403,14 @@
    "end": 1785534241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AS809F": {
    "msg": "1532686944490754088",
    "end": 1785534061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "138QOQ": {
    "msg": "1532689529675321476",
