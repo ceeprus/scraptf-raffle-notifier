@@ -5787,21 +5787,21 @@
    "end": 1785526741,
    "title": "Rant + QnA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WGCDH0": {
    "msg": "1532475578626609193",
    "end": 1785526622,
    "title": "Equestria 4ever",
    "items": 54,
-   "ended": false
+   "ended": true
   },
   "C0WSA5": {
    "msg": "1532475585169719338",
    "end": 1785526621,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2XK8MK": {
    "msg": "1532478107875934471",
@@ -6969,6 +6969,20 @@
    "msg": "1532830378652471398",
    "end": 1785611522,
    "title": "Raffling a  every time I win a  #73",
+   "items": 1,
+   "ended": false
+  },
+  "L52UYX": {
+   "msg": "1532835432545386530",
+   "end": 1785613141,
+   "title": "Equestria Forever",
+   "items": 53,
+   "ended": false
+  },
+  "DFVKT4": {
+   "msg": "1532835441907077291",
+   "end": 1785612722,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
