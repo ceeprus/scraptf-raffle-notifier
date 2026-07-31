@@ -147,13 +147,6 @@
    "items": 3,
    "ended": true
   },
-  "LGI8JG": {
-   "msg": "1529938992311697438",
-   "end": 1784862241,
-   "title": "What If...",
-   "items": 1,
-   "ended": true
-  },
   "EPQSPD": {
    "msg": "1529941403138920722",
    "end": 1784923200,
@@ -5143,7 +5136,7 @@
    "end": 1785467100,
    "title": "Limit Break",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UJYG5T": {
    "msg": "1532226412835115039",
@@ -6242,7 +6235,7 @@
    "end": 1785466861,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "722F4K": {
    "msg": "1532498180418175137",
