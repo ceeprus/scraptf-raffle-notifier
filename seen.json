@@ -5409,7 +5409,7 @@
    "end": 1785501061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XSV3Q4": {
    "msg": "1532366056746778715",
@@ -6794,6 +6794,13 @@
    "msg": "1532725920455069726",
    "end": 1785586861,
    "title": "LEOOON  *sipppp*  LEOOON",
+   "items": 1,
+   "ended": false
+  },
+  "A40HB6": {
+   "msg": "1532728470336049323",
+   "end": 1785587341,
+   "title": "vs.",
    "items": 1,
    "ended": false
   }
