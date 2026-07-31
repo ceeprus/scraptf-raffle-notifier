@@ -231,27 +231,6 @@
    "items": 1,
    "ended": true
   },
-  "GQ87I4": {
-   "msg": "1530127576146776114",
-   "end": 1784924222,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "UP9V8D": {
-   "msg": "1530127584501694556",
-   "end": 1784924042,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GH2WIO": {
-   "msg": "1530127593502933042",
-   "end": 1784923861,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "T954SI": {
    "msg": "1530133857964265472",
    "end": 1784968681,
@@ -6976,6 +6955,13 @@
    "msg": "1532841699657646144",
    "end": 1785614400,
    "title": "A Refined a day keeps the doctor away! #24",
+   "items": 1,
+   "ended": false
+  },
+  "1QQ258": {
+   "msg": "1532844585070624961",
+   "end": 1785615061,
+   "title": "gives  to  who then shares with",
    "items": 1,
    "ended": false
   }
