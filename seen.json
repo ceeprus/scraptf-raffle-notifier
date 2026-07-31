@@ -5206,7 +5206,7 @@
    "end": 1785473161,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HWBOT0": {
    "msg": "1532261630077964388",
@@ -6487,6 +6487,13 @@
    "end": 1785558422,
    "title": "We definitely need more medic main! \u211653",
    "items": 6,
+   "ended": false
+  },
+  "5Z55GV": {
+   "msg": "1532611445961789490",
+   "end": 1785559381,
+   "title": "My first raffle",
+   "items": 1,
    "ended": false
   }
  },
