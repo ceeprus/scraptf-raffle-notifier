@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "3TZU4S": {
-   "msg": "1529996697063657602",
-   "end": 1784935861,
-   "title": "Be kind #4",
-   "items": 5,
-   "ended": true
-  },
   "PKO9GA": {
    "msg": "1529999216154513409",
    "end": 1784936402,
@@ -5913,7 +5906,7 @@
    "end": 1785540842,
    "title": "The Pain Train has no brakes",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "6SIU66": {
    "msg": "1532533429818622073",
