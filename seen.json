@@ -5892,7 +5892,7 @@
    "end": 1785533942,
    "title": "take them all",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "MQXQP5": {
    "msg": "1532503275855937728",
@@ -6382,7 +6382,7 @@
    "end": 1785533881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1SHWAO": {
    "msg": "1532684432882925570",
