@@ -5808,14 +5808,14 @@
    "end": 1785528241,
    "title": "Peace for my people, team fortress 2 community",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XKVSBS": {
    "msg": "1532480642036797440",
    "end": 1785528122,
    "title": "Degreaseing my inventory",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UHTA02": {
    "msg": "1532480649133428867",
@@ -6977,6 +6977,20 @@
    "end": 1785613381,
    "title": "Grooviest Tracks #797",
    "items": 4,
+   "ended": false
+  },
+  "UG9RJW": {
+   "msg": "1532841693085306921",
+   "end": 1785614402,
+   "title": "Read up",
+   "items": 4,
+   "ended": false
+  },
+  "1W8ELV": {
+   "msg": "1532841699657646144",
+   "end": 1785614400,
+   "title": "A Refined a day keeps the doctor away! #24",
+   "items": 1,
    "ended": false
   }
  },
