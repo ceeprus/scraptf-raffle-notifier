@@ -238,13 +238,6 @@
    "items": 3,
    "ended": true
   },
-  "JU03H6": {
-   "msg": "1530166542136905781",
-   "end": 1784933101,
-   "title": "1,300 raffles won",
-   "items": 3,
-   "ended": true
-  },
   "HVB6H2": {
    "msg": "1530169053342072974",
    "end": 1784977200,
@@ -6970,6 +6963,13 @@
    "end": 1785623400,
    "title": "checkup #77 | this fella is drinking some very healthy juice ->",
    "items": 1,
+   "ended": false
+  },
+  "LP8C11": {
+   "msg": "1532881973289156850",
+   "end": 1785623761,
+   "title": "\u0423 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c \u0438\u0434\u0435\u044f \u043d\u0430 \u0441\u0447\u0451\u0442 \u0438\u0433\u0440\u044b\ud83d\udcaf",
+   "items": 3,
    "ended": false
   }
  },
