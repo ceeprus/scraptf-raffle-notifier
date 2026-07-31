@@ -5283,21 +5283,21 @@
    "end": 1785490801,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KVZ7GK": {
    "msg": "1532323292822769734",
    "end": 1785490681,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0D9QTF": {
    "msg": "1532323298975678606",
    "end": 1785490561,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X3UY5B": {
    "msg": "1532323307129540662",
@@ -6667,6 +6667,27 @@
   "XDWV0Y": {
    "msg": "1532679366859948162",
    "end": 1785575941,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "K18V24": {
+   "msg": "1532684419264024767",
+   "end": 1785577201,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "F7RIT4": {
+   "msg": "1532684426088026113",
+   "end": 1785533881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1SHWAO": {
+   "msg": "1532684432882925570",
+   "end": 1785533642,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
