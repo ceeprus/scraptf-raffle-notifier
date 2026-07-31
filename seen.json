@@ -5815,14 +5815,14 @@
    "end": 1785475201,
    "title": "Untitled raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "959J57": {
    "msg": "1532438496558583929",
    "end": 1785475081,
    "title": "Untitled raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "11GQCT": {
    "msg": "1532441531540176898",
@@ -6527,6 +6527,41 @@
   "LW5V07": {
    "msg": "1532616468556939469",
    "end": 1785560403,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "OSRDJN": {
+   "msg": "1532618978894282883",
+   "end": 1785561361,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LYOMO9": {
+   "msg": "1532618985336602647",
+   "end": 1785561242,
+   "title": "Noise Maker",
+   "items": 2,
+   "ended": false
+  },
+  "BDUJDD": {
+   "msg": "1532618992328376440",
+   "end": 1785561181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FR2I1U": {
+   "msg": "1532618998188085449",
+   "end": 1785561122,
+   "title": "Day 51-54 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "HBB3RT": {
+   "msg": "1532619004173226126",
+   "end": 1785561002,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
