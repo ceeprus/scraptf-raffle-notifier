@@ -5234,7 +5234,7 @@
    "end": 1785478201,
    "title": "Mails here!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KQWC3E": {
    "msg": "1532279251808550942",
@@ -6585,6 +6585,13 @@
    "end": 1785563941,
    "title": "Untitled raffle",
    "items": 3,
+   "ended": false
+  },
+  "QDKUGN": {
+   "msg": "1532631559729971301",
+   "end": 1785520861,
+   "title": "What are they drinking?",
+   "items": 1,
    "ended": false
   }
  },
