@@ -308,13 +308,6 @@
    "items": 5,
    "ended": true
   },
-  "L2LEJL": {
-   "msg": "1530104927441915934",
-   "end": 1784893501,
-   "title": "I won two items today",
-   "items": 15,
-   "ended": true
-  },
   "PASGJL": {
    "msg": "1530107542376681492",
    "end": 1784962741,
@@ -6751,6 +6744,13 @@
   "B8OVQB": {
    "msg": "1532713375690395749",
    "end": 1785583741,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WMOG3N": {
+   "msg": "1532715876174925944",
+   "end": 1785583981,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
