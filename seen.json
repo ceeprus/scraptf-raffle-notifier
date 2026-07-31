@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "4I5941": {
-   "msg": "1529913661651685426",
-   "end": 1784916181,
-   "title": "An even worse experiment.",
-   "items": 2,
-   "ended": true
-  },
   "W661JW": {
    "msg": "1529916178418372654",
    "end": 1784916841,
@@ -5696,7 +5689,7 @@
    "end": 1785521041,
    "title": "uncool raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "343SUZ": {
    "msg": "1532449109632618597",
