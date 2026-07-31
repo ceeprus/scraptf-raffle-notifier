@@ -1,19 +1,5 @@
 {
  "raffles": {
-  "W661JW": {
-   "msg": "1529916178418372654",
-   "end": 1784916841,
-   "title": "Free game & trials! July 23 - 27",
-   "items": 2,
-   "ended": true
-  },
-  "F88B8J": {
-   "msg": "1529916186731479300",
-   "end": 1784916721,
-   "title": "New PFP",
-   "items": 1,
-   "ended": true
-  },
   "7O4D1R": {
    "msg": "1529918750474764348",
    "end": 1784917501,
@@ -557,13 +543,6 @@
    "msg": "1530251414012428389",
    "end": 1784996221,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WRO53M": {
-   "msg": "1530251421922889851",
-   "end": 1784916841,
-   "title": "BUBUBU",
    "items": 1,
    "ended": true
   },
