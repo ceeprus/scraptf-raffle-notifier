@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "7O4D1R": {
-   "msg": "1529918750474764348",
-   "end": 1784917501,
-   "title": "Weapon of the Prime Soul #3",
-   "items": 1,
-   "ended": true
-  },
   "2YP41H": {
    "msg": "1529923745190514910",
    "end": 1784918341,
@@ -5689,7 +5682,7 @@
    "end": 1785522301,
    "title": "(still!) Tipping all  raffles!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "7ZVH2I": {
    "msg": "1532454121666379917",
