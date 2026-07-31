@@ -5458,7 +5458,7 @@
    "end": 1785503281,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WMMXQG": {
    "msg": "1532382417237573632",
@@ -6550,7 +6550,7 @@
    "end": 1785503161,
    "title": "HAPPY FRIDAY!!!!!",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "I51UUF": {
    "msg": "1532649179644563549",
