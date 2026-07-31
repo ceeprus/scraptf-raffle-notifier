@@ -490,13 +490,6 @@
    "items": 2,
    "ended": true
   },
-  "8CK4FH": {
-   "msg": "1530213232554279052",
-   "end": 1784915522,
-   "title": "I'm gay\u2014okay, just kidding",
-   "items": 3,
-   "ended": true
-  },
   "BLKCGQ": {
    "msg": "1530226977385087186",
    "end": 1784918881,
@@ -5696,7 +5689,7 @@
    "end": 1785520441,
    "title": "stupid raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SXZE1Q": {
    "msg": "1532449101411651625",
@@ -7019,6 +7012,13 @@
    "end": 1785605821,
    "title": "the list of people i miss on this site",
    "items": 6,
+   "ended": false
+  },
+  "X7VD7I": {
+   "msg": "1532808950330687628",
+   "end": 1785606241,
+   "title": "Who will win the next raffle challenge?",
+   "items": 1,
    "ended": false
   }
  },
