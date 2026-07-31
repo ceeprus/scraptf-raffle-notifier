@@ -6200,14 +6200,14 @@
    "end": 1785495841,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "LLEPDW": {
    "msg": "1532525900631904436",
    "end": 1785495661,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "XKU2T0": {
    "msg": "1532525906269175903",
@@ -6724,6 +6724,13 @@
    "msg": "1532700795747958883",
    "end": 1785580501,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "20XLC4": {
+   "msg": "1532705788693581837",
+   "end": 1785582000,
+   "title": "Outdone!",
    "items": 1,
    "ended": false
   }
