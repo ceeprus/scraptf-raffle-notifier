@@ -5738,14 +5738,14 @@
    "end": 1785524881,
    "title": "\u041a\u0442\u043e \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0435\u0442 \u0442\u043e\u0442 \u043b\u043e\u0445",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4WY72E": {
    "msg": "1532468040598552739",
    "end": 1785524821,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "26PWN4": {
    "msg": "1532470555184201811",
@@ -6410,7 +6410,7 @@
    "end": 1785524941,
    "title": "Thanks brain",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "X2SDIY": {
    "msg": "1532649198967853168",
