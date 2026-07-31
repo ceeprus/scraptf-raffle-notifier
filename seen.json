@@ -1,19 +1,5 @@
 {
  "raffles": {
-  "8ACOP7": {
-   "msg": "1529933840934768700",
-   "end": 1784921341,
-   "title": "AH HELL NAH",
-   "items": 1,
-   "ended": true
-  },
-  "3EPMFG": {
-   "msg": "1529936311786410089",
-   "end": 1784921400,
-   "title": "Equestria Forever",
-   "items": 50,
-   "ended": true
-  },
   "EPQSPD": {
    "msg": "1529941403138920722",
    "end": 1784923200,
@@ -572,13 +558,6 @@
    "end": 1785004261,
    "title": "Bison",
    "items": 2,
-   "ended": true
-  },
-  "DQBMJW": {
-   "msg": "1530283612220428469",
-   "end": 1784921282,
-   "title": "250 entries raffle jumpscare",
-   "items": 1,
    "ended": true
   },
   "E1VJMB": {
@@ -5780,7 +5759,7 @@
    "end": 1785526141,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "3ZDQTH": {
    "msg": "1532475529750515874",
