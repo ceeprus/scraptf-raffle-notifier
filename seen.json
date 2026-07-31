@@ -1,24 +1,10 @@
 {
  "raffles": {
-  "37KCNL": {
-   "msg": "1529882165649604690",
-   "end": 1784908681,
-   "title": "Don't bark for me.",
-   "items": 1,
-   "ended": true
-  },
   "XTIBDS": {
    "msg": "1529886871591587901",
    "end": 1784909941,
    "title": "Raffle Name",
    "items": 1,
-   "ended": true
-  },
-  "IKK78F": {
-   "msg": "1529886877950148815",
-   "end": 1784908800,
-   "title": "Scrap.tf Birthdays - 23 July",
-   "items": 4,
    "ended": true
   },
   "M86OYG": {
@@ -5584,28 +5570,28 @@
    "end": 1785513600,
    "title": "Scrap Cookbook - Pizza Cake",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "DS9IGC": {
    "msg": "1532417750939729940",
    "end": 1785513541,
    "title": "I Drew Ts 13",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I58N8U": {
    "msg": "1532417757499490381",
    "end": 1785513541,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z4FQMO": {
    "msg": "1532417766198345788",
    "end": 1785513421,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MC02N0": {
    "msg": "1532417772536074240",
@@ -6899,6 +6885,34 @@
    "msg": "1532775003479736362",
    "end": 1785598202,
    "title": "[\ud83e\udd89] OWL FACTS #28",
+   "items": 1,
+   "ended": false
+  },
+  "7GXI27": {
+   "msg": "1532780118370685130",
+   "end": 1785600000,
+   "title": "Scrap.tf Birthdays - 31 July",
+   "items": 3,
+   "ended": false
+  },
+  "QR9X4G": {
+   "msg": "1532780126616420502",
+   "end": 1785600000,
+   "title": "Weekly  #100",
+   "items": 4,
+   "ended": false
+  },
+  "MK1HPL": {
+   "msg": "1532780133218259048",
+   "end": 1785599701,
+   "title": "Daily Brass Beast #524",
+   "items": 1,
+   "ended": false
+  },
+  "XUWUQM": {
+   "msg": "1532780140743098480",
+   "end": 1785599581,
+   "title": "Describe yourself!",
    "items": 1,
    "ended": false
   }
