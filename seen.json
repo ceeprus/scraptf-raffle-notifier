@@ -5493,7 +5493,7 @@
    "end": 1785506281,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8RXJ8L": {
    "msg": "1532392545953386677",
@@ -6865,6 +6865,13 @@
    "end": 1785591002,
    "title": "[ANNOUNCEMENT] The Scrap.TF Hunger Games IS BACK REBOOT",
    "items": 2,
+   "ended": false
+  },
+  "2SCU79": {
+   "msg": "1532749952013434901",
+   "end": 1785591962,
+   "title": "Ta-da!",
+   "items": 1,
    "ended": false
   }
  },
