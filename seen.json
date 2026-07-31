@@ -5773,14 +5773,14 @@
    "end": 1785526981,
    "title": "Untitled raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "TP7U0H": {
    "msg": "1532475547924434995",
    "end": 1785526921,
    "title": "Send me Music Raffle",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "KHDZ4U": {
    "msg": "1532475562331865139",
