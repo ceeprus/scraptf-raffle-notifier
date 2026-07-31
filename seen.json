@@ -399,13 +399,6 @@
    "items": 1,
    "ended": true
   },
-  "1LNXOQ": {
-   "msg": "1530130153244721156",
-   "end": 1784902741,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1483 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 23,
-   "ended": true
-  },
   "T954SI": {
    "msg": "1530133857964265472",
    "end": 1784968681,
@@ -6620,7 +6613,7 @@
    "end": 1785507541,
    "title": "hi hi",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "R7MR9M": {
    "msg": "1532671824725414010",
