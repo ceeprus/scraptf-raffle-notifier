@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "2BSD8B": {
-   "msg": "1529908041460355172",
-   "end": 1784914921,
-   "title": "nose",
-   "items": 12,
-   "ended": true
-  },
   "4I5941": {
    "msg": "1529913661651685426",
    "end": 1784916181,
@@ -7019,6 +7012,13 @@
    "end": 1785604964,
    "title": "EVERYONE",
    "items": 1,
+   "ended": false
+  },
+  "DQULT5": {
+   "msg": "1532806478778339528",
+   "end": 1785605821,
+   "title": "the list of people i miss on this site",
+   "items": 6,
    "ended": false
   }
  },
