@@ -5885,7 +5885,7 @@
    "end": 1785535875,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KUKFGZ": {
    "msg": "1532512061777772738",
@@ -6969,6 +6969,13 @@
    "msg": "1532861814755561483",
    "end": 1785619081,
    "title": "MOM GET THE CAMERA",
+   "items": 1,
+   "ended": false
+  },
+  "B9ONX5": {
+   "msg": "1532874411038736516",
+   "end": 1785622022,
+   "title": "=",
    "items": 1,
    "ended": false
   }
