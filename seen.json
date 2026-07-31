@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "OZYDJM": {
-   "msg": "1529931278638383307",
-   "end": 1784920441,
-   "title": "wildlife",
-   "items": 6,
-   "ended": true
-  },
   "8ACOP7": {
    "msg": "1529933840934768700",
    "end": 1784921341,
@@ -5724,7 +5717,7 @@
    "end": 1785525300,
    "title": "Profiles of The Day #131",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "9AR7C6": {
    "msg": "1532468024651550880",
