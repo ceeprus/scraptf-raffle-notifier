@@ -14,13 +14,6 @@
    "items": 5,
    "ended": true
   },
-  "4UNH4Z": {
-   "msg": "1529996704340901949",
-   "end": 1784935681,
-   "title": "Let's make some noise III",
-   "items": 2,
-   "ended": true
-  },
   "PKO9GA": {
    "msg": "1529999216154513409",
    "end": 1784936402,
@@ -5927,7 +5920,7 @@
    "end": 1785540422,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LQ966F": {
    "msg": "1532535925295550646",
@@ -6984,6 +6977,13 @@
    "end": 1785543062,
    "title": "QTE! Tipping the next public raffle.",
    "items": 1,
+   "ended": false
+  },
+  "ONFUI4": {
+   "msg": "1532893359872544929",
+   "end": 1785626401,
+   "title": "Fabricators I don't need",
+   "items": 3,
    "ended": false
   }
  },
