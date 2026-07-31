@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "C6DC5L": {
-   "msg": "1529949854585979112",
-   "end": 1784925061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "IEZXNT": {
    "msg": "1529957657530597620",
    "end": null,
@@ -5822,14 +5815,14 @@
    "end": 1785529982,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NMJ6Z7": {
    "msg": "1532488119113486538",
    "end": 1785529921,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "14SD93": {
    "msg": "1532488126885396511",
@@ -6970,6 +6963,20 @@
    "end": 1785615661,
    "title": "Hey you!",
    "items": 2,
+   "ended": false
+  },
+  "X5C6XX": {
+   "msg": "1532849218061078701",
+   "end": 1785572881,
+   "title": "Getting Down To It #52",
+   "items": 1,
+   "ended": false
+  },
+  "GH4HUO": {
+   "msg": "1532849226457940302",
+   "end": 1785572641,
+   "title": "Rate the Loadout",
+   "items": 1,
    "ended": false
   }
  },
