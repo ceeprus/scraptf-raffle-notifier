@@ -5430,7 +5430,7 @@
    "end": 1785503102,
    "title": "\u2600\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MB0D11": {
    "msg": "1532374887547670608",
@@ -5444,7 +5444,7 @@
    "end": 1785502981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K7WEVF": {
    "msg": "1532374899186733330",
@@ -6823,6 +6823,20 @@
    "end": 1785508622,
    "title": "Giving away the first tf2 weapon I got",
    "items": 1,
+   "ended": false
+  },
+  "RJUBQU": {
+   "msg": "1532735987392712725",
+   "end": 1785589262,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2QMCN4": {
+   "msg": "1532735994967625848",
+   "end": 1785589200,
+   "title": "Austria's Strange Square Tank Engines - BB\u00d6 DT 1 \"Dorftrottel\"",
+   "items": 2,
    "ended": false
   }
  },
