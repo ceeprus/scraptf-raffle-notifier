@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "RVJ030": {
-   "msg": "1529975302191841482",
-   "end": 1784931000,
-   "title": "checkup #69 | Villager Town",
-   "items": 1,
-   "ended": true
-  },
   "EK3LQM": {
    "msg": "1529984113631563807",
    "end": 1784932682,
@@ -5899,7 +5892,7 @@
    "end": 1785535681,
    "title": "Epilogue",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TK02LG": {
    "msg": "1532525893526880397",
