@@ -490,13 +490,6 @@
    "items": 13,
    "ended": true
   },
-  "FSKJXN": {
-   "msg": "1530179151859028089",
-   "end": 1784907362,
-   "title": "Piss giveaway",
-   "items": 1,
-   "ended": true
-  },
   "LUVFP1": {
    "msg": "1530184155198132387",
    "end": 1784981070,
@@ -5535,14 +5528,14 @@
    "end": 1785512341,
    "title": "Unlocking new levels i never thought possible",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "RIW6EG": {
    "msg": "1532412632512987307",
    "end": 1785512341,
    "title": "I have a question",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VUED8U": {
    "msg": "1532412638972088320",
@@ -6900,6 +6893,13 @@
    "end": 1785597541,
    "title": "Pile",
    "items": 20,
+   "ended": false
+  },
+  "NZFFMM": {
+   "msg": "1532775003479736362",
+   "end": 1785598202,
+   "title": "[\ud83e\udd89] OWL FACTS #28",
+   "items": 1,
    "ended": false
   }
  },
