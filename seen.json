@@ -6004,7 +6004,7 @@
    "end": 1785484021,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9VJHAW": {
    "msg": "1532475540454375474",
@@ -6046,7 +6046,7 @@
    "end": 1785484141,
    "title": "Protein Shake",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "M9BM0F": {
    "msg": "1532478116596023346",
@@ -6627,6 +6627,20 @@
    "end": 1785568861,
    "title": "\ud835\udc12 \ud835\udc00 \ud835\udc0b \ud835\udc0c \ud835\udc0e \ud835\udc0d \ud835\udc08 \ud835\udc00",
    "items": 2,
+   "ended": false
+  },
+  "D0ICI5": {
+   "msg": "1532656721711857735",
+   "end": 1785570421,
+   "title": "Starchion's wisdom #2",
+   "items": 1,
+   "ended": false
+  },
+  "J7ZPO1": {
+   "msg": "1532656728863408138",
+   "end": 1785498002,
+   "title": "trash",
+   "items": 4,
    "ended": false
   }
  },
