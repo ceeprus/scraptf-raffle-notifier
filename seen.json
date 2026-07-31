@@ -5514,7 +5514,7 @@
    "end": 1785511742,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B6LQ4S": {
    "msg": "1532410178530709535",
@@ -5556,7 +5556,7 @@
    "end": 1785511800,
    "title": "The Favorites of Music #261 & #262",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MIED24": {
    "msg": "1532415143462440970",
@@ -6354,14 +6354,14 @@
    "end": 1785511741,
    "title": "Getting Down To It #51",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UR2ZUK": {
    "msg": "1532592531588644986",
    "end": 1785511621,
    "title": "Getting Down To It #50",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IWJS1P": {
    "msg": "1532600058271367188",
@@ -6886,6 +6886,20 @@
    "end": 1785596822,
    "title": "Weekly i take a nose in exchange for a noise. #5",
    "items": 1,
+   "ended": false
+  },
+  "TOBP0H": {
+   "msg": "1532772552181678122",
+   "end": 1785598021,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "HM6X7O": {
+   "msg": "1532772560435937310",
+   "end": 1785597541,
+   "title": "Pile",
+   "items": 20,
    "ended": false
   }
  },
