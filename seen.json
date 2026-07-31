@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "5TMDO5": {
-   "msg": "1529947604908249229",
-   "end": 1784924341,
-   "title": "Untitled raffle",
-   "items": 9,
-   "ended": true
-  },
   "C6DC5L": {
    "msg": "1529949854585979112",
    "end": 1784925061,
@@ -5815,7 +5808,7 @@
    "end": 1785529141,
    "title": "Scrappiversary!",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "I7487K": {
    "msg": "1532488107289608204",
