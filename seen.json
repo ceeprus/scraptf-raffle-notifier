@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "4YTZWX": {
-   "msg": "1529926328206495790",
-   "end": 1784918941,
-   "title": "Gambling #29",
-   "items": 1,
-   "ended": true
-  },
   "OZYDJM": {
    "msg": "1529931278638383307",
    "end": 1784920441,
@@ -455,13 +448,6 @@
    "items": 2,
    "ended": true
   },
-  "BLKCGQ": {
-   "msg": "1530226977385087186",
-   "end": 1784918881,
-   "title": "Untitled raffle",
-   "items": 10,
-   "ended": true
-  },
   "GLKYB4": {
    "msg": "1530229452452401242",
    "end": 1784991601,
@@ -594,13 +580,6 @@
    "title": "i can 't  breathe",
    "items": 1,
    "ended": false
-  },
-  "3JDKFY": {
-   "msg": "1530283595632218244",
-   "end": 1784918882,
-   "title": "lover of goyda",
-   "items": 2,
-   "ended": true
   },
   "JA3ZGQ": {
    "msg": "1530283603466916043",
@@ -6998,6 +6977,13 @@
    "end": 1785608882,
    "title": "hi    \ud83d\udc4b\ud83d\ude2e",
    "items": 4,
+   "ended": false
+  },
+  "NMT88R": {
+   "msg": "1532822763784376571",
+   "end": 1785610021,
+   "title": "Food for thought (I'm outta food)",
+   "items": 2,
    "ended": false
   }
  },
