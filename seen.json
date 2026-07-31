@@ -7,20 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "RGTJYI": {
-   "msg": "1529989146515341313",
-   "end": 1784934000,
-   "title": "Cold as Ice #15",
-   "items": 1,
-   "ended": true
-  },
-  "7501QT": {
-   "msg": "1529989155042627624",
-   "end": 1784934000,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "D8BQ7V": {
    "msg": "1529994221371789442",
    "end": 1784935142,
@@ -5892,21 +5878,21 @@
    "end": 1785538800,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V5DZ6V": {
    "msg": "1532525913303154899",
    "end": 1785538682,
    "title": "but raccoon noises instead",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SUPU3D": {
    "msg": "1532525919883886773",
    "end": 1785538622,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NLS4AT": {
    "msg": "1532528407231860979",
@@ -6970,6 +6956,13 @@
    "end": 1785623761,
    "title": "\u0423 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c \u0438\u0434\u0435\u044f \u043d\u0430 \u0441\u0447\u0451\u0442 \u0438\u0433\u0440\u044b\ud83d\udcaf",
    "items": 3,
+   "ended": false
+  },
+  "1CA1I4": {
+   "msg": "1532885809290543235",
+   "end": 1785624600,
+   "title": "Recovery",
+   "items": 1,
    "ended": false
   }
  },
