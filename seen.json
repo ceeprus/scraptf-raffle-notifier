@@ -616,13 +616,6 @@
    "items": 1,
    "ended": true
   },
-  "L1JHH7": {
-   "msg": "1530252114243092581",
-   "end": 1784911141,
-   "title": "some kinda bad thing",
-   "items": 1,
-   "ended": true
-  },
   "TPIYNM": {
    "msg": "1530254661037330542",
    "end": 1784997661,
@@ -5633,14 +5626,14 @@
    "end": 1785516001,
    "title": "roaring noises",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CA0N7L": {
    "msg": "1532429010397827253",
    "end": 1785515881,
    "title": "Raffling every 2 days #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FZQPZL": {
    "msg": "1532429017968410744",
