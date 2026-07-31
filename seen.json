@@ -420,13 +420,6 @@
    "items": 6,
    "ended": true
   },
-  "K6A3CB": {
-   "msg": "1530141400711041064",
-   "end": 1784905262,
-   "title": "Metal",
-   "items": 1,
-   "ended": true
-  },
   "Q6S6L7": {
    "msg": "1530146406411796550",
    "end": 1784971502,
@@ -5514,7 +5507,7 @@
    "end": 1785510002,
    "title": "take some guns",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VS390M": {
    "msg": "1532407599771680859",
@@ -6879,6 +6872,20 @@
    "end": 1785595501,
    "title": "Oisu",
    "items": 1,
+   "ended": false
+  },
+  "RHI6XE": {
+   "msg": "1532765021619359866",
+   "end": 1785595921,
+   "title": "and",
+   "items": 1,
+   "ended": false
+  },
+  "KXVRE2": {
+   "msg": "1532765031064797386",
+   "end": 1785595741,
+   "title": "Trance & Trash\u3002",
+   "items": 80,
    "ended": false
   }
  },
