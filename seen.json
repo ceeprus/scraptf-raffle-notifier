@@ -5808,7 +5808,7 @@
    "end": 1785530161,
    "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 \u2764\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F93JSJ": {
    "msg": "1532488113421684736",
@@ -5843,7 +5843,7 @@
    "end": 1785530401,
    "title": "My most serious raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F3HOPA": {
    "msg": "1532493259509858467",
