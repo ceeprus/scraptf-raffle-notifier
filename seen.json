@@ -5311,7 +5311,7 @@
    "end": 1785492002,
    "title": "BACK  TO  BACK  TO  BACK",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6CZFJN": {
    "msg": "1532328340814565426",
@@ -6703,6 +6703,13 @@
    "msg": "1532686944490754088",
    "end": 1785534061,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "138QOQ": {
+   "msg": "1532689529675321476",
+   "end": 1785578400,
+   "title": "Gifted Market Gardener",
    "items": 1,
    "ended": false
   }
