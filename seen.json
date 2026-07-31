@@ -5227,7 +5227,7 @@
    "end": 1785477600,
    "title": "Today is Thursday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XUKTUF": {
    "msg": "1532271686378979389",
@@ -6578,6 +6578,13 @@
    "end": 1785562381,
    "title": "A Pinwheel Farewell",
    "items": 1,
+   "ended": false
+  },
+  "VR8M9N": {
+   "msg": "1532629123762098197",
+   "end": 1785563941,
+   "title": "Untitled raffle",
+   "items": 3,
    "ended": false
   }
  },
