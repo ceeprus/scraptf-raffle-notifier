@@ -1,12 +1,5 @@
 {
  "raffles": {
-  "2YP41H": {
-   "msg": "1529923745190514910",
-   "end": 1784918341,
-   "title": "Gifted Cosmetics #504",
-   "items": 1,
-   "ended": true
-  },
   "4YTZWX": {
    "msg": "1529926328206495790",
    "end": 1784918941,
@@ -6991,6 +6984,20 @@
    "end": 1785608641,
    "title": "Gibe some songs b0ss",
    "items": 1,
+   "ended": false
+  },
+  "IPA2MN": {
+   "msg": "1532820302159937647",
+   "end": 1785565921,
+   "title": "Random skins",
+   "items": 50,
+   "ended": false
+  },
+  "6HW5OI": {
+   "msg": "1532820309747433553",
+   "end": 1785608882,
+   "title": "hi    \ud83d\udc4b\ud83d\ude2e",
+   "items": 4,
    "ended": false
   }
  },
