@@ -6193,14 +6193,14 @@
    "end": 1785586921,
    "title": "MARTEEEEEEEN  SIIIIIIIIIIIIIIIIIIIIIIP",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5MR0LQ": {
    "msg": "1532725920455069726",
    "end": 1785586861,
    "title": "LEOOON  *sipppp*  LEOOON",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A40HB6": {
    "msg": "1532728470336049323",
@@ -7145,6 +7145,13 @@
    "end": 1785672302,
    "title": "Untitled raffle",
    "items": 4,
+   "ended": false
+  },
+  "HVBKX4": {
+   "msg": "1533088275407966209",
+   "end": 1785673441,
+   "title": "totally inconspicuous raffle, nothin' to see here",
+   "items": 11,
    "ended": false
   }
  },
