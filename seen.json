@@ -511,13 +511,6 @@
    "items": 1,
    "ended": true
   },
-  "9WLVDC": {
-   "msg": "1530571761366863983",
-   "end": 1785001202,
-   "title": "Mais uma rafflezinha pra nois XD",
-   "items": 6,
-   "ended": true
-  },
   "MQP4ME": {
    "msg": "1530580541936500857",
    "end": 1785074941,
@@ -6340,7 +6333,7 @@
    "end": 1785605821,
    "title": "the list of people i miss on this site",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "X7VD7I": {
    "msg": "1532808950330687628",
@@ -7117,6 +7110,27 @@
    "end": 1785690000,
    "title": "Daily raffle until TF2 gets a major update #578",
    "items": 3,
+   "ended": false
+  },
+  "LSYAPJ": {
+   "msg": "1533167621703340142",
+   "end": 1785692162,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HYE5FW": {
+   "msg": "1533167629160812573",
+   "end": 1785691861,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "X67GE9": {
+   "msg": "1533167657505919137",
+   "end": 1785691682,
+   "title": "Scrap.tf Birthdays - 1 August",
+   "items": 4,
    "ended": false
   }
  },
