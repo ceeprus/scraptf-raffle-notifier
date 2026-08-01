@@ -6263,7 +6263,7 @@
    "end": 1785595741,
    "title": "Trance & Trash\u3002",
    "items": 80,
-   "ended": false
+   "ended": true
   },
   "EBK9ZF": {
    "msg": "1532767463777898791",
@@ -7172,6 +7172,13 @@
    "msg": "1533117277900247140",
    "end": 1785679921,
    "title": "Scrappy",
+   "items": 1,
+   "ended": false
+  },
+  "0MQYIR": {
+   "msg": "1533124828695891978",
+   "end": 1785681661,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1492 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 1,
    "ended": false
   }
