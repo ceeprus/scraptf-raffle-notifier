@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "GATNPX": {
-   "msg": "1530065894720540756",
-   "end": 1784952901,
-   "title": "i gotta stop playing mvm pt.3",
-   "items": 42,
-   "ended": true
-  },
   "E36GBV": {
    "msg": "1530074717061517412",
    "end": 1784954521,
@@ -6011,7 +6004,7 @@
    "end": 1785557461,
    "title": "Hale's Own Trials: Persian Persuader: Day 1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VCEN8F": {
    "msg": "1532608911645999194",
