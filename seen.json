@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "E36GBV": {
-   "msg": "1530074717061517412",
-   "end": 1784954521,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "UYFYFE": {
    "msg": "1530087313798070324",
    "end": 1784957402,
@@ -6025,7 +6018,7 @@
    "end": 1785559381,
    "title": "My first raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X8TSAU": {
    "msg": "1532614025714733196",
