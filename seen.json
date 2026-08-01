@@ -6389,7 +6389,7 @@
    "end": 1785617581,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HC84I0": {
    "msg": "1532859296847757354",
@@ -7137,6 +7137,48 @@
    "msg": "1533214155773972770",
    "end": 1785703081,
    "title": "Pick My Custom Title - Quarterfinals (4/4)",
+   "items": 1,
+   "ended": false
+  },
+  "A9CN6G": {
+   "msg": "1533216640555159624",
+   "end": 1785704041,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "714JT1": {
+   "msg": "1533216647144411289",
+   "end": 1785703862,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "X7PT2A": {
+   "msg": "1533216653280673926",
+   "end": 1785703802,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GRJRJG": {
+   "msg": "1533216659496632502",
+   "end": 1785703681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CL9YRB": {
+   "msg": "1533216666392203397",
+   "end": 1785703501,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BKFZYD": {
+   "msg": "1533216672683524127",
+   "end": 1785703501,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
