@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "B4WESL": {
-   "msg": "1530231992157736980",
-   "end": 1784991782,
-   "title": "Daily raffle #314",
-   "items": 1,
-   "ended": true
-  },
   "9Q2JLL": {
    "msg": "1530236992212828272",
    "end": 1784993400,
@@ -6753,7 +6746,7 @@
    "end": 1785596462,
    "title": "Getting Down To It #54",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G4SGWH": {
    "msg": "1532947378653626419",
