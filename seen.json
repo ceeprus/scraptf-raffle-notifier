@@ -14,13 +14,6 @@
    "items": 1,
    "ended": false
   },
-  "GWJI8F": {
-   "msg": "1530303820800852098",
-   "end": 1785009600,
-   "title": "A Refined a day keeps the doctor away! #17",
-   "items": 1,
-   "ended": true
-  },
   "KVV07X": {
    "msg": "1530315051070787644",
    "end": 1785011641,
@@ -6361,14 +6354,14 @@
    "end": 1785614402,
    "title": "Read up",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "1W8ELV": {
    "msg": "1532841699657646144",
    "end": 1785614400,
    "title": "A Refined a day keeps the doctor away! #24",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1QQ258": {
    "msg": "1532844585070624961",
@@ -7137,6 +7130,13 @@
    "msg": "1533200311047557241",
    "end": 1785700082,
    "title": "My overall vacation trip experience",
+   "items": 1,
+   "ended": false
+  },
+  "66O8WK": {
+   "msg": "1533202899843289259",
+   "end": 1785700800,
+   "title": "A Refined a day keeps the doctor away! #25",
    "items": 1,
    "ended": false
   }
