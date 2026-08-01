@@ -6347,7 +6347,7 @@
    "end": 1785608882,
    "title": "hi    \ud83d\udc4b\ud83d\ude2e",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "NMT88R": {
    "msg": "1532822763784376571",
@@ -7137,6 +7137,20 @@
    "msg": "1533177662820978879",
    "end": 1785611522,
    "title": "QTE! Tipping the next public raffle.",
+   "items": 1,
+   "ended": false
+  },
+  "N674Q4": {
+   "msg": "1533180242745884773",
+   "end": 1785695101,
+   "title": "Daily Brass Beast #525",
+   "items": 1,
+   "ended": false
+  },
+  "5E4KGU": {
+   "msg": "1533180253474787480",
+   "end": 1785609122,
+   "title": "can",
    "items": 1,
    "ended": false
   }
