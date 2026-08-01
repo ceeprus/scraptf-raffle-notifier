@@ -14,13 +14,6 @@
    "items": 2,
    "ended": true
   },
-  "0VA0YX": {
-   "msg": "1530107553084870797",
-   "end": 1784962202,
-   "title": "bones",
-   "items": 7,
-   "ended": true
-  },
   "ZP6PO6": {
    "msg": "1530109955577872395",
    "end": 1784962803,
@@ -6109,7 +6102,7 @@
    "end": 1785566941,
    "title": "Day 19 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BET9DR": {
    "msg": "1532646690555691069",
