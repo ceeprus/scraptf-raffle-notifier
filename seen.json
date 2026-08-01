@@ -14,13 +14,6 @@
    "items": 1,
    "ended": false
   },
-  "JA3ZGQ": {
-   "msg": "1530283603466916043",
-   "end": 1785004261,
-   "title": "Bison",
-   "items": 2,
-   "ended": true
-  },
   "E1VJMB": {
    "msg": "1530288698611204111",
    "end": 1785005701,
@@ -7152,7 +7145,7 @@
    "end": 1785609122,
    "title": "can",
    "items": 1,
-   "ended": false
+   "ended": true
   }
  },
  "megaraffle": {
