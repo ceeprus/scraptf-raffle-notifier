@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "AKSBCN": {
-   "msg": "1530156492911808513",
-   "end": 1784974202,
-   "title": "\u2728 Grabli304's raffle\u2503Day 145",
-   "items": 2,
-   "ended": true
-  },
   "C310AN": {
    "msg": "1530158986056302703",
    "end": 1784974921,
@@ -6165,7 +6158,7 @@
    "end": 1785579002,
    "title": "Grabli304's raffle\u2503Day 152",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "R4OWVP": {
    "msg": "1532697049110286336",
@@ -7054,7 +7047,7 @@
    "end": 1785578941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XACD94": {
    "msg": "1533042988643778671",
