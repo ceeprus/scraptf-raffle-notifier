@@ -6123,7 +6123,7 @@
    "end": 1785572522,
    "title": "ALL 40 SMISSMAS NOISEMAKERS",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "8CV9WA": {
    "msg": "1532666852516302888",
@@ -6739,7 +6739,7 @@
    "end": 1785572641,
    "title": "Rate the Loadout",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BNUDFA": {
    "msg": "1532856793565368521",
