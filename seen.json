@@ -6263,14 +6263,14 @@
    "end": 1785599701,
    "title": "Daily Brass Beast #524",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XUWUQM": {
    "msg": "1532780140743098480",
    "end": 1785599581,
    "title": "Describe yourself!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AZDYF7": {
    "msg": "1532782555798175785",
@@ -7144,6 +7144,13 @@
    "msg": "1533134930744316074",
    "end": 1785684600,
    "title": "The Favorites of Music #263 & #264",
+   "items": 1,
+   "ended": false
+  },
+  "49JTZE": {
+   "msg": "1533141138146332754",
+   "end": 1785685809,
+   "title": "and  have a longer message for you today",
    "items": 1,
    "ended": false
   }
