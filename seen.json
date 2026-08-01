@@ -7146,6 +7146,13 @@
    "title": "can",
    "items": 1,
    "ended": true
+  },
+  "RA70HZ": {
+   "msg": "1533182693750079588",
+   "end": 1785695582,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
