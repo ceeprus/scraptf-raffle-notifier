@@ -574,13 +574,6 @@
    "items": 1,
    "ended": true
   },
-  "2U8M4U": {
-   "msg": "1530702168171221002",
-   "end": 1785021121,
-   "title": "Server 2... something",
-   "items": 1,
-   "ended": true
-  },
   "S7N9PB": {
    "msg": "1530707622830014566",
    "end": 1785105421,
@@ -6767,7 +6760,7 @@
    "end": 1785625921,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M7AGEW": {
    "msg": "1533074534008225853",
