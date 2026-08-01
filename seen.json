@@ -6102,7 +6102,7 @@
    "end": 1785568201,
    "title": "Boot",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MYRJRO": {
    "msg": "1532649191275499562",
@@ -6116,7 +6116,7 @@
    "end": 1785568081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZHTL1G": {
    "msg": "1532651760135438358",
