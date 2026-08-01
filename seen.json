@@ -7047,14 +7047,14 @@
    "end": 1785580681,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0A4WYZ": {
    "msg": "1533048058965655613",
    "end": 1785580561,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2S1XCQ": {
    "msg": "1533051928924127323",
@@ -7082,6 +7082,13 @@
    "end": 1785622861,
    "title": "Untitled raffle",
    "items": 2,
+   "ended": false
+  },
+  "KWO85N": {
+   "msg": "1533061894221463614",
+   "end": 1785666901,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
