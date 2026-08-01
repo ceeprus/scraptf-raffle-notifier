@@ -280,13 +280,6 @@
    "items": 1,
    "ended": true
   },
-  "3TQKMA": {
-   "msg": "1530442138964328449",
-   "end": 1784998921,
-   "title": "I need your opinions.",
-   "items": 10,
-   "ended": true
-  },
   "JAENIQ": {
    "msg": "1530442146153234505",
    "end": 1785042061,
@@ -6326,7 +6319,7 @@
    "end": 1785603901,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CRQEQP": {
    "msg": "1532798918985908284",
@@ -7130,6 +7123,13 @@
    "msg": "1533156243781324812",
    "end": 1785689341,
    "title": "choose Your super power !",
+   "items": 3,
+   "ended": false
+  },
+  "BP7MFM": {
+   "msg": "1533158774334820472",
+   "end": 1785690000,
+   "title": "Daily raffle until TF2 gets a major update #578",
    "items": 3,
    "ended": false
   }
