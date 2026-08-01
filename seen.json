@@ -5962,7 +5962,7 @@
    "end": 1785543121,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "I3DW2I": {
    "msg": "1532567351659335731",
@@ -6963,7 +6963,7 @@
    "end": 1785543062,
    "title": "QTE! Tipping the next public raffle.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ONFUI4": {
    "msg": "1532893359872544929",
