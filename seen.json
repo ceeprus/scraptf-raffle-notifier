@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "LCFR9Z": {
-   "msg": "1530356627465568396",
-   "end": 1785021602,
-   "title": "What are things you want to see in the upcoming MvM update?",
-   "items": 1,
-   "ended": true
-  },
   "X6J5UX": {
    "msg": "1530361601264451656",
    "end": 1785023221,
@@ -6389,7 +6382,7 @@
    "end": 1785626401,
    "title": "Fabricators I don't need",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "V4Z50G": {
    "msg": "1532898334887379035",
