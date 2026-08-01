@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "ORN900": {
-   "msg": "1530350244532060343",
-   "end": 1785020400,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "LCFR9Z": {
    "msg": "1530356627465568396",
    "end": 1785021602,
@@ -6382,14 +6375,14 @@
    "end": 1785625200,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5Y8VSN": {
    "msg": "1532888264447627325",
    "end": 1785624961,
    "title": "\ud83c\ude34",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XAS691": {
    "msg": "1532890794485219408",
@@ -7152,6 +7145,13 @@
    "end": 1785709561,
    "title": "Another normal raffle",
    "items": 1,
+   "ended": false
+  },
+  "UJXPCT": {
+   "msg": "1533248225065177168",
+   "end": 1785711422,
+   "title": "My Ex-wife Still Misses Me...",
+   "items": 6,
    "ended": false
   }
  },
