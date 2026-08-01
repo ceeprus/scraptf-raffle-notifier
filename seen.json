@@ -7,20 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "6HS7FD": {
-   "msg": "1530245850608041984",
-   "end": 1784995200,
-   "title": "OHHHHHHH! WHO LIVES IN A BUNKER UNDER THE LAKE?",
-   "items": 3,
-   "ended": true
-  },
-  "27PPFH": {
-   "msg": "1530245857591431178",
-   "end": 1784995200,
-   "title": "Weekly  #99",
-   "items": 4,
-   "ended": true
-  },
   "4V960S": {
    "msg": "1530251414012428389",
    "end": 1784996221,
@@ -6249,14 +6235,14 @@
    "end": 1785600000,
    "title": "Scrap.tf Birthdays - 31 July",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "QR9X4G": {
    "msg": "1532780126616420502",
    "end": 1785600000,
    "title": "Weekly  #100",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "MK1HPL": {
    "msg": "1532780133218259048",
