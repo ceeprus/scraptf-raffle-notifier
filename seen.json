@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "75QR6P": {
-   "msg": "1530252108753014995",
-   "end": 1784997241,
-   "title": "4k raffles entered",
-   "items": 1,
-   "ended": true
-  },
   "TPIYNM": {
    "msg": "1530254661037330542",
    "end": 1784997661,
@@ -7151,6 +7144,13 @@
    "msg": "1533146236972957696",
    "end": 1785687001,
    "title": "My 3D modeling experience #1",
+   "items": 1,
+   "ended": false
+  },
+  "2IS3CG": {
+   "msg": "1533151210557800508",
+   "end": 1785688081,
+   "title": "Daily tips for not dying",
    "items": 1,
    "ended": false
   }
