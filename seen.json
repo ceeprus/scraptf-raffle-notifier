@@ -6347,7 +6347,7 @@
    "end": 1785613141,
    "title": "Equestria Forever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "DFVKT4": {
    "msg": "1532835441907077291",
@@ -7131,6 +7131,13 @@
    "end": 1785696842,
    "title": "oooooh banana",
    "items": 1,
+   "ended": false
+  },
+  "46ILKX": {
+   "msg": "1533197794028949668",
+   "end": 1785699421,
+   "title": "Equestria 4ever",
+   "items": 53,
    "ended": false
   }
  },
