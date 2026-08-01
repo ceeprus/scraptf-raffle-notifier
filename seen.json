@@ -6739,14 +6739,14 @@
    "end": 1785625742,
    "title": "marten_sip:",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OS6B8T": {
    "msg": "1533069473278333098",
    "end": 1785625681,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IF79QD": {
    "msg": "1533069478307430431",
@@ -7152,6 +7152,13 @@
    "end": 1785711422,
    "title": "My Ex-wife Still Misses Me...",
    "items": 6,
+   "ended": false
+  },
+  "PF76WE": {
+   "msg": "1533250659850256394",
+   "end": 1785712081,
+   "title": "Go ahead. Try to scrap em!",
+   "items": 12,
    "ended": false
   }
  },
