@@ -6018,7 +6018,7 @@
    "end": 1785558422,
    "title": "We definitely need more medic main! \u211653",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "5Z55GV": {
    "msg": "1532611445961789490",
@@ -6606,14 +6606,14 @@
    "end": 1785558601,
    "title": "Make some  for ! #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HDX1T0": {
    "msg": "1532787647939088536",
    "end": 1785558481,
    "title": "Make some  for ! #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V0QKDM": {
    "msg": "1532787654800969788",
@@ -7025,6 +7025,13 @@
    "msg": "1532947378653626419",
    "end": 1785596281,
    "title": "Getting Down To It #53",
+   "items": 1,
+   "ended": false
+  },
+  "QT63ZO": {
+   "msg": "1532968842383327303",
+   "end": 1785644821,
+   "title": "Raffle dollar noise maker",
    "items": 1,
    "ended": false
   }
