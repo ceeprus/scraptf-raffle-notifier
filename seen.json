@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "FJPCQC": {
-   "msg": "1530342699616702626",
-   "end": 1785018241,
-   "title": "My days have worn away. (Summer 2026 update)",
-   "items": 4,
-   "ended": true
-  },
   "XTXRK8": {
    "msg": "1530345234356113489",
    "end": 1785019442,
@@ -6767,7 +6760,7 @@
    "end": 1785622861,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "KWO85N": {
    "msg": "1533061894221463614",
