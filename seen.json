@@ -6732,7 +6732,7 @@
    "end": 1785572881,
    "title": "Getting Down To It #52",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GH4HUO": {
    "msg": "1532849226457940302",
@@ -7018,6 +7018,27 @@
    "msg": "1533026664077066350",
    "end": 1785658261,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1KA80G": {
+   "msg": "1533029239429922816",
+   "end": 1785659042,
+   "title": "#2",
+   "items": 1,
+   "ended": false
+  },
+  "S472MI": {
+   "msg": "1533029246908497920",
+   "end": 1785658981,
+   "title": "raffle win ratio",
+   "items": 1,
+   "ended": false
+  },
+  "O8T0VH": {
+   "msg": "1533029253757534250",
+   "end": 1785658862,
+   "title": "#1",
    "items": 1,
    "ended": false
   }
