@@ -14,13 +14,6 @@
    "items": 1,
    "ended": false
   },
-  "7JN7FT": {
-   "msg": "1530293657855328407",
-   "end": 1785006900,
-   "title": "Snowfall Soundtrack #26",
-   "items": 2,
-   "ended": true
-  },
   "185UP1": {
    "msg": "1530298688940019879",
    "end": 1785008102,
@@ -6354,14 +6347,14 @@
    "end": 1785611641,
    "title": "Today I have ONE , and ZERO",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9P3RN6": {
    "msg": "1532830378652471398",
    "end": 1785611522,
    "title": "Raffling a  every time I win a  #73",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L52UYX": {
    "msg": "1532835432545386530",
@@ -7124,7 +7117,7 @@
    "end": 1785611522,
    "title": "QTE! Tipping the next public raffle.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N674Q4": {
    "msg": "1533180242745884773",
