@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "HVB6H2": {
-   "msg": "1530169053342072974",
-   "end": 1784977200,
-   "title": "Worthless things are thrown away!",
-   "items": 1,
-   "ended": true
-  },
   "MOLQAW": {
    "msg": "1530171596470354051",
    "end": 1784978041,
@@ -6165,7 +6158,7 @@
    "end": 1785582000,
    "title": "Outdone!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KUGIXL": {
    "msg": "1532709971635077271",
