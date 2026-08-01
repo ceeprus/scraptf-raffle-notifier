@@ -7,20 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "8D2WJ8": {
-   "msg": "1530259662094733513",
-   "end": 1784998800,
-   "title": "Daily raffle until TF2 gets a major update #570",
-   "items": 3,
-   "ended": true
-  },
-  "5W1B1B": {
-   "msg": "1530259668801425529",
-   "end": 1784998800,
-   "title": "Guys",
-   "items": 3,
-   "ended": true
-  },
   "Y3FSZ2": {
    "msg": "1530266015609520348",
    "end": 1785000361,
@@ -6312,21 +6298,21 @@
    "end": 1785603600,
    "title": "Daily raffle until TF2 gets a major update #577",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NMWTZI": {
    "msg": "1532796375010508984",
    "end": 1785603600,
    "title": "Guys",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NME1OA": {
    "msg": "1532796383042469968",
    "end": 1785603421,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "5KIWT8": {
    "msg": "1532798904716755064",
