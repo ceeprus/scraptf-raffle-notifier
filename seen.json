@@ -14,13 +14,6 @@
    "items": 1,
    "ended": true
   },
-  "DH6PVE": {
-   "msg": "1530184163725148222",
-   "end": 1784980800,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "BL1LPT": {
    "msg": "1530190534528991363",
    "end": 1784981821,
@@ -6186,7 +6179,7 @@
    "end": 1785585600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IK7IR3": {
    "msg": "1532720876926271608",
