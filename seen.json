@@ -6277,21 +6277,21 @@
    "end": 1785600781,
    "title": "and  Bowling Edition",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "06DQUB": {
    "msg": "1532785132275237085",
    "end": 1785600781,
    "title": "What even is stock?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DVMSS4": {
    "msg": "1532785142891020429",
    "end": 1785600721,
    "title": "Amassment",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "4P9WMH": {
    "msg": "1532787642142429395",
@@ -7144,6 +7144,20 @@
    "msg": "1533143653243949166",
    "end": 1785686281,
    "title": "hat",
+   "items": 1,
+   "ended": false
+  },
+  "TX65P0": {
+   "msg": "1533146230345961692",
+   "end": 1785687122,
+   "title": "#5",
+   "items": 1,
+   "ended": false
+  },
+  "47XVEA": {
+   "msg": "1533146236972957696",
+   "end": 1785687001,
+   "title": "My 3D modeling experience #1",
    "items": 1,
    "ended": false
   }
