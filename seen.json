@@ -6102,7 +6102,7 @@
    "end": 1785564901,
    "title": "coollion",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "B2GHAP": {
    "msg": "1532636665439588413",
@@ -7019,6 +7019,20 @@
    "end": 1785649741,
    "title": "Day 55 of Asking for a Follow Button",
    "items": 1,
+   "ended": false
+  },
+  "Q8W2Q9": {
+   "msg": "1532995199779868752",
+   "end": 1785651002,
+   "title": "Day 49 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "ZF7HVL": {
+   "msg": "1532995208604811316",
+   "end": null,
+   "title": "[UNSTABLE!!!] Lil noizers",
+   "items": 12,
    "ended": false
   }
  },
