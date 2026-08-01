@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "PKLPTZ": {
-   "msg": "1530063365806886923",
-   "end": 1784952000,
-   "title": "\u266a Asterisk \u266a",
-   "items": 1,
-   "ended": true
-  },
   "GATNPX": {
    "msg": "1530065894720540756",
    "end": 1784952901,
@@ -6011,7 +6004,7 @@
    "end": 1785556800,
    "title": "\u266a Night Flight \u266a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6ABIDL": {
    "msg": "1532602608496283708",
