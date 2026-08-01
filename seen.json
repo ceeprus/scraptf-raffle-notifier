@@ -14,20 +14,6 @@
    "items": 1,
    "ended": false
   },
-  "185UP1": {
-   "msg": "1530298688940019879",
-   "end": 1785008102,
-   "title": "Equestria 4ever",
-   "items": 50,
-   "ended": true
-  },
-  "CK1G83": {
-   "msg": "1530298695789183148",
-   "end": 1785007861,
-   "title": "Make some noise",
-   "items": 1,
-   "ended": true
-  },
   "4OWFYU": {
    "msg": "1530301197209305359",
    "end": 1785008522,
@@ -6368,7 +6354,7 @@
    "end": 1785612722,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WHG7KE": {
    "msg": "1532839155409748140",
