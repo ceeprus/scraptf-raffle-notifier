@@ -14,13 +14,6 @@
    "items": 1,
    "ended": false
   },
-  "4OWFYU": {
-   "msg": "1530301197209305359",
-   "end": 1785008522,
-   "title": "You know what day it is.",
-   "items": 9,
-   "ended": true
-  },
   "GWJI8F": {
    "msg": "1530303820800852098",
    "end": 1785009600,
@@ -6361,7 +6354,7 @@
    "end": 1785613381,
    "title": "Grooviest Tracks #797",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "UG9RJW": {
    "msg": "1532841693085306921",
