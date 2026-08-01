@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "01PE6Z": {
-   "msg": "1530153950492495982",
-   "end": 1784973361,
-   "title": "Update on Greece",
-   "items": 2,
-   "ended": true
-  },
   "AKSBCN": {
    "msg": "1530156492911808513",
    "end": 1784974202,
@@ -6165,7 +6158,7 @@
    "end": 1785578400,
    "title": "Gifted Market Gardener",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WKHRAT": {
    "msg": "1532691957862633543",
@@ -7082,6 +7075,20 @@
    "end": 1785580561,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "2S1XCQ": {
+   "msg": "1533051928924127323",
+   "end": 1785664501,
+   "title": "30 Days till my birthday....",
+   "items": 1,
+   "ended": false
+  },
+  "B7OXQQ": {
+   "msg": "1533051937186910418",
+   "end": 1785664141,
+   "title": "coollion Grabli304's raffle\u2503Day 153",
+   "items": 2,
    "ended": false
   }
  },
