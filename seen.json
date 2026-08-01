@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "W64ASO": {
-   "msg": "1530099928146251818",
-   "end": 1784960582,
-   "title": "My flight experience",
-   "items": 5,
-   "ended": true
-  },
   "PASGJL": {
    "msg": "1530107542376681492",
    "end": 1784962741,
@@ -6109,7 +6102,7 @@
    "end": 1785565382,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PTADD3": {
    "msg": "1532644210023337996",
