@@ -301,13 +301,6 @@
    "items": 1,
    "ended": true
   },
-  "O1J4QO": {
-   "msg": "1530522699439411210",
-   "end": 1785018422,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "QMLKKQ": {
    "msg": "1530522707240685658",
    "end": 1785061141,
@@ -347,13 +340,6 @@
    "msg": "1530525212112846941",
    "end": 1785061922,
    "title": "I live in a house with a tin roof and",
-   "items": 1,
-   "ended": true
-  },
-  "ACVQGY": {
-   "msg": "1530525218622148669",
-   "end": 1785018602,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -6396,7 +6382,7 @@
    "end": 1785623400,
    "title": "checkup #77 | this fella is drinking some very healthy juice ->",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LP8C11": {
    "msg": "1532881973289156850",
@@ -7186,6 +7172,13 @@
    "msg": "1533238081954775202",
    "end": 1785708541,
    "title": "\ud83d\udd02 Preparing your trade",
+   "items": 1,
+   "ended": false
+  },
+  "BE7IX9": {
+   "msg": "1533240624621555802",
+   "end": 1785709561,
+   "title": "Another normal raffle",
    "items": 1,
    "ended": false
   }
