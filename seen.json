@@ -6851,7 +6851,7 @@
    "end": 1785550922,
    "title": "Made it myself",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FX7N8V": {
    "msg": "1532846713675448662",
@@ -7019,6 +7019,20 @@
    "end": 1785636602,
    "title": "I'm ruined.",
    "items": 21,
+   "ended": false
+  },
+  "BFEJBR": {
+   "msg": "1532937291570352339",
+   "end": 1785637021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AFSDE4": {
+   "msg": "1532937298012803222",
+   "end": 1785636841,
+   "title": "It's quiet tonight...",
+   "items": 1,
    "ended": false
   }
  },
