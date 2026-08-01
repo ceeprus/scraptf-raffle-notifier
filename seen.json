@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "VM5959": {
-   "msg": "1530200541467119819",
-   "end": 1784984400,
-   "title": "Bugatti's High-Speed Railcars",
-   "items": 2,
-   "ended": true
-  },
   "N5BXHB": {
    "msg": "1530203089615847486",
    "end": 1784984941,
@@ -6235,7 +6228,7 @@
    "end": 1785589200,
    "title": "Austria's Strange Square Tank Engines - BB\u00d6 DT 1 \"Dorftrottel\"",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5BIOUI": {
    "msg": "1532738518101790720",
