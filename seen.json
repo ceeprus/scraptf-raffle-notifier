@@ -7,20 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "9Q2JLL": {
-   "msg": "1530236992212828272",
-   "end": 1784993400,
-   "title": "The Favorites of Music #255 & #256",
-   "items": 1,
-   "ended": true
-  },
-  "H06G4F": {
-   "msg": "1530236998881771611",
-   "end": 1784993162,
-   "title": "Hmmm?",
-   "items": 1,
-   "ended": true
-  },
   "F8FM58": {
    "msg": "1530242042637324419",
    "end": 1784994181,
@@ -6249,7 +6235,7 @@
    "end": 1785598021,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "HM6X7O": {
    "msg": "1532772560435937310",
@@ -6263,7 +6249,7 @@
    "end": 1785598202,
    "title": "[\ud83e\udd89] OWL FACTS #28",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7GXI27": {
    "msg": "1532780118370685130",
@@ -7159,6 +7145,13 @@
    "end": 1785639902,
    "title": "I freakin' hate myself.",
    "items": 3,
+   "ended": false
+  },
+  "AGNACB": {
+   "msg": "1533134930744316074",
+   "end": 1785684600,
+   "title": "The Favorites of Music #263 & #264",
+   "items": 1,
    "ended": false
   }
  },
