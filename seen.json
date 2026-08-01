@@ -301,13 +301,6 @@
    "items": 1,
    "ended": true
   },
-  "4SBPPX": {
-   "msg": "1530458485874233454",
-   "end": 1785002882,
-   "title": "You guys are so kind! I love you all!",
-   "items": 3,
-   "ended": true
-  },
   "55J00U": {
    "msg": "1530458492907945996",
    "end": 1785045781,
@@ -7130,6 +7123,13 @@
    "msg": "1533170108971749446",
    "end": 1785692521,
    "title": "\ud83d\udd25 \u2764\ufe0f\u200d\ud83d\udd25\ud83d\udd25",
+   "items": 1,
+   "ended": false
+  },
+  "AJJ0DB": {
+   "msg": "1533175146507141212",
+   "end": 1785693600,
+   "title": "JAK JA KURWA KOCHAM DISCO POLO #173",
    "items": 1,
    "ended": false
   }
