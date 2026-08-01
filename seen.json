@@ -14,13 +14,6 @@
    "items": 1,
    "ended": false
   },
-  "FU0THL": {
-   "msg": "1530322599559827546",
-   "end": 1785013621,
-   "title": "This is my first Raffle!!",
-   "items": 14,
-   "ended": true
-  },
   "HU40TI": {
    "msg": "1530325070122189043",
    "end": null,
@@ -6396,14 +6389,14 @@
    "end": 1785618541,
    "title": "Pokemon Of The Day #17: Golbat",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LZAGLM": {
    "msg": "1532859304686911682",
    "end": 1785618541,
    "title": "RIFA PRA VOCES!",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "FVFRHY": {
    "msg": "1532861814755561483",
