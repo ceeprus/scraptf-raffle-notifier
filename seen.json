@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "Q6S6L7": {
-   "msg": "1530146406411796550",
-   "end": 1784971502,
-   "title": "Daily Brass Beast #518",
-   "items": 1,
-   "ended": true
-  },
   "8UMA3Q": {
    "msg": "1530151441195602072",
    "end": 1784973001,
@@ -7074,6 +7067,13 @@
    "msg": "1533040492890292254",
    "end": 1785578941,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XACD94": {
+   "msg": "1533042988643778671",
+   "end": 1785662101,
+   "title": "The world needs more Reindoonicorns! (#588)",
    "items": 1,
    "ended": false
   }
