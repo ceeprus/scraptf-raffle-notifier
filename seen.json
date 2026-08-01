@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "8UMA3Q": {
-   "msg": "1530151441195602072",
-   "end": 1784973001,
-   "title": "The world needs more Reindoonicorns! (#583)",
-   "items": 1,
-   "ended": true
-  },
   "01PE6Z": {
    "msg": "1530153950492495982",
    "end": 1784973361,
@@ -6151,7 +6144,7 @@
    "end": 1785577561,
    "title": "guys pls tips write reason in message",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "06U1DL": {
    "msg": "1532686938090377317",
