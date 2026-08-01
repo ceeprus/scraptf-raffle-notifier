@@ -6179,7 +6179,7 @@
    "end": 1785583741,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WMOG3N": {
    "msg": "1532715876174925944",
@@ -7124,6 +7124,13 @@
    "end": 1785625921,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "M7AGEW": {
+   "msg": "1533074534008225853",
+   "end": 1785669781,
+   "title": "The pass it forward raffle! (#12)",
+   "items": 2,
    "ended": false
   }
  },
