@@ -6242,7 +6242,7 @@
    "end": 1785591002,
    "title": "[ANNOUNCEMENT] The Scrap.TF Hunger Games IS BACK REBOOT",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "2SCU79": {
    "msg": "1532749952013434901",
@@ -7152,6 +7152,13 @@
    "end": 1785675600,
    "title": "TF2 with Realistic Damage (SFM)",
    "items": 2,
+   "ended": false
+  },
+  "UH52V8": {
+   "msg": "1533104731831013517",
+   "end": 1785677101,
+   "title": "Day 9 of the Japan trip",
+   "items": 1,
    "ended": false
   }
  },
