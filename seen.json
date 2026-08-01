@@ -6522,7 +6522,7 @@
    "end": 1785551582,
    "title": "pssst come here",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M7U648": {
    "msg": "1532762466013020251",
@@ -7033,6 +7033,13 @@
    "end": 1785636841,
    "title": "It's quiet tonight...",
    "items": 1,
+   "ended": false
+  },
+  "PBG8WU": {
+   "msg": "1532939805166403635",
+   "end": 1785594121,
+   "title": "Untitled raffle",
+   "items": 3,
    "ended": false
   }
  },
