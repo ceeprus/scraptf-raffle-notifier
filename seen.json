@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "2HMBNF": {
-   "msg": "1530094855932608572",
-   "end": 1784959200,
-   "title": "Today is Friday",
-   "items": 1,
-   "ended": true
-  },
   "W64ASO": {
    "msg": "1530099928146251818",
    "end": 1784960582,
@@ -6088,7 +6081,7 @@
    "end": 1785563941,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "QDKUGN": {
    "msg": "1532631559729971301",
