@@ -308,13 +308,6 @@
    "items": 3,
    "ended": true
   },
-  "5E12BE": {
-   "msg": "1530381774478377091",
-   "end": 1784984581,
-   "title": "the juckport",
-   "items": 5,
-   "ended": true
-  },
   "CNPO5M": {
    "msg": "1530398094938738798",
    "end": 1785031501,
@@ -6221,7 +6214,7 @@
    "end": 1785589262,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2QMCN4": {
    "msg": "1532735994967625848",
