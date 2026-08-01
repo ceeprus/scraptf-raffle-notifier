@@ -14,13 +14,6 @@
    "items": 2,
    "ended": true
   },
-  "C6INVS": {
-   "msg": "1530254667701817387",
-   "end": 1784997361,
-   "title": "DEBUT ALBUM BIRTHDAYYY",
-   "items": 1,
-   "ended": true
-  },
   "8D2WJ8": {
    "msg": "1530259662094733513",
    "end": 1784998800,
@@ -6305,7 +6298,7 @@
    "end": 1785602341,
    "title": "Help me!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "1UAYBV": {
    "msg": "1532791383281238128",
