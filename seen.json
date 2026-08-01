@@ -14,13 +14,6 @@
    "items": 10,
    "ended": true
   },
-  "OE9XFG": {
-   "msg": "1530137746151178281",
-   "end": 1784969581,
-   "title": "1 year on scrap.tf",
-   "items": 6,
-   "ended": true
-  },
   "Q6S6L7": {
    "msg": "1530146406411796550",
    "end": 1784971502,
@@ -7046,6 +7039,20 @@
    "msg": "1533031714249510994",
    "end": 1785659461,
    "title": "#3",
+   "items": 1,
+   "ended": false
+  },
+  "823L6Q": {
+   "msg": "1533035438124568679",
+   "end": 1785660242,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "CAKS6F": {
+   "msg": "1533035444629929994",
+   "end": 1785660061,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
