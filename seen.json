@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "C310AN": {
-   "msg": "1530158986056302703",
-   "end": 1784974921,
-   "title": "BONE (BONEVILLE) PFP SPOTTED SOMEWHERE!!",
-   "items": 1,
-   "ended": true
-  },
   "HVB6H2": {
    "msg": "1530169053342072974",
    "end": 1784977200,
@@ -6158,7 +6151,7 @@
    "end": 1785579661,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RZA05A": {
    "msg": "1532700795747958883",
