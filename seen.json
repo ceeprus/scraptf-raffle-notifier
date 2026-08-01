@@ -7,13 +7,6 @@
    "items": 4,
    "ended": false
   },
-  "LUVFP1": {
-   "msg": "1530184155198132387",
-   "end": 1784981070,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "BL1LPT": {
    "msg": "1530190534528991363",
    "end": 1784981821,
@@ -7130,6 +7123,27 @@
    "msg": "1533078279056134338",
    "end": 1785670381,
    "title": "FUR Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NOQOK9": {
+   "msg": "1533083268268949665",
+   "end": 1785672000,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "71CFYL": {
+   "msg": "1533083274291970150",
+   "end": 1785671941,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "BV10US": {
+   "msg": "1533083280742547548",
+   "end": 1785671821,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
