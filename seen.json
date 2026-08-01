@@ -6263,14 +6263,14 @@
    "end": 1785600121,
    "title": "ft.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YQP3KZ": {
    "msg": "1532782562647347240",
    "end": 1785600061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "USVJ8D": {
    "msg": "1532785124058464327",
@@ -7137,6 +7137,13 @@
    "msg": "1533141138146332754",
    "end": 1785685809,
    "title": "and  have a longer message for you today",
+   "items": 1,
+   "ended": false
+  },
+  "DDLER6": {
+   "msg": "1533143653243949166",
+   "end": 1785686281,
+   "title": "hat",
    "items": 1,
    "ended": false
   }
