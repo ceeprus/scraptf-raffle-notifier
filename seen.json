@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "ME9LNZ": {
-   "msg": "1530605786429133041",
-   "end": 1785081600,
-   "title": "Scrap.tf Birthdays - 25 July",
-   "items": 2,
-   "ended": true
-  },
   "XWG0Z6": {
    "msg": "1530614480277606601",
    "end": 1785082921,
@@ -257,13 +250,6 @@
    "end": 1785124800,
    "title": "\u266a Hitohira No Hanabira \u266a",
    "items": 1,
-   "ended": true
-  },
-  "IAS7S2": {
-   "msg": "1530788139742920715",
-   "end": 1785081541,
-   "title": "Raffling Scrap Till I'm Out #983-4 (Fixed some things)",
-   "items": 2,
    "ended": true
   },
   "HYRYRH": {
@@ -6473,7 +6459,7 @@
    "end": 1785686281,
    "title": "hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TX65P0": {
    "msg": "1533146230345961692",
@@ -7131,7 +7117,7 @@
    "end": 1785686281,
    "title": "le hat",
    "items": 1,
-   "ended": false
+   "ended": true
   }
  },
  "megaraffle": {
