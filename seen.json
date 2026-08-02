@@ -28,13 +28,6 @@
    "items": 1,
    "ended": true
   },
-  "FOHA86": {
-   "msg": "1530691289002152018",
-   "end": 1785101462,
-   "title": "MY FIANCEE OPENED ANOTHER UNUSUAL BACK TO BACK",
-   "items": 1,
-   "ended": true
-  },
   "TFRDQZ": {
    "msg": "1530695010515947620",
    "end": 1785102781,
@@ -6515,14 +6508,14 @@
    "end": 1785706441,
    "title": "Random hat I crafted #270( real )",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "YYBROX": {
    "msg": "1533228013137952851",
    "end": 1785706261,
    "title": "Normal Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EEJCII": {
    "msg": "1533233106566254623",
@@ -7138,6 +7131,13 @@
    "end": 1785790561,
    "title": "Equestria Forever",
    "items": 55,
+   "ended": false
+  },
+  "4YUW91": {
+   "msg": "1533589115717681223",
+   "end": 1785792481,
+   "title": "very nice person",
+   "items": 148,
    "ended": false
   }
  },
