@@ -6473,7 +6473,7 @@
    "end": 1785679262,
    "title": "With a little love..",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "AWCR49": {
    "msg": "1533117270744895699",
@@ -7144,6 +7144,20 @@
    "msg": "1533470841415925870",
    "end": 1785763861,
    "title": "#8",
+   "items": 1,
+   "ended": false
+  },
+  "3Y1U0C": {
+   "msg": "1533475874467221708",
+   "end": 1785765600,
+   "title": "Untitled raffle",
+   "items": 6,
+   "ended": false
+  },
+  "VEV5R0": {
+   "msg": "1533475882226810890",
+   "end": 1785765361,
+   "title": "My first raffle",
    "items": 1,
    "ended": false
   }
