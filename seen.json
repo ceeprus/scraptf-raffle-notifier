@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "UEMQTB": {
-   "msg": "1530561644684509184",
-   "end": 1785070800,
-   "title": "AC/BC: You Shook Me All Night Long (PALEOROCK CLASSIC)",
-   "items": 1,
-   "ended": true
-  },
   "PRNPZT": {
    "msg": "1530569193475543153",
    "end": 1785072514,
@@ -6466,7 +6459,7 @@
    "end": 1785675600,
    "title": "TF2 with Realistic Damage (SFM)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UH52V8": {
    "msg": "1533104731831013517",
