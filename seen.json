@@ -6319,14 +6319,14 @@
    "end": 1785654901,
    "title": "Day 20 Of \"Bad\" Weapon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "3WGLUN": {
    "msg": "1533010293515354182",
    "end": 1785654841,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "V4VW95": {
    "msg": "1533010300578693179",
@@ -7130,6 +7130,13 @@
    "msg": "1533370139645579416",
    "end": 1785740221,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "88AN05": {
+   "msg": "1533372689987928185",
+   "end": 1785740941,
+   "title": "Day 21 Of \"Bad\" Weapon",
    "items": 1,
    "ended": false
   }
