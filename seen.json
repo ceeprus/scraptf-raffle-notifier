@@ -6417,7 +6417,7 @@
    "end": 1785670621,
    "title": "i'm washed",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "O1OJFB": {
    "msg": "1533078279056134338",
@@ -7096,6 +7096,13 @@
    "end": 1785755761,
    "title": "Welcome myself back to scrap.tf/ Zatoishi raffled: 0 (+1.5)",
    "items": 3,
+   "ended": false
+  },
+  "1BGALE": {
+   "msg": "1533439382441427066",
+   "end": 1785756722,
+   "title": "2fort or doublecross? (meme vid)",
+   "items": 7,
    "ended": false
   }
  },
