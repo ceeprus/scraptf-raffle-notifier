@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "CNPO5M": {
-   "msg": "1530398094938738798",
-   "end": 1785031501,
-   "title": "Garbage for one unlucky winner",
-   "items": 60,
-   "ended": true
-  },
   "4CM4TT": {
    "msg": "1530405638864244847",
    "end": 1785033661,
@@ -6396,7 +6389,7 @@
    "end": 1785636061,
    "title": "Make some noise",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0VWJBW": {
    "msg": "1532934819707617380",
