@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "80KR7R": {
-   "msg": "1530593143844638811",
-   "end": 1785078182,
-   "title": "my name is Giorno Giovanna and i have a dream",
-   "items": 1,
-   "ended": true
-  },
   "7ZJXVQ": {
    "msg": "1530600681692598373",
    "end": 1785080341,
@@ -256,13 +249,6 @@
    "msg": "1530775572081541200",
    "end": 1785121561,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "86RVU7": {
-   "msg": "1530775580226748466",
-   "end": 1785078121,
-   "title": "5k raffles",
    "items": 1,
    "ended": true
   },
@@ -7151,6 +7137,13 @@
    "msg": "1533488437233975416",
    "end": 1785768362,
    "title": "Daily Brass Beast #526",
+   "items": 1,
+   "ended": false
+  },
+  "J3JR7I": {
+   "msg": "1533490966449623184",
+   "end": 1785686281,
+   "title": "le hat",
    "items": 1,
    "ended": false
   }
