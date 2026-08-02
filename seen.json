@@ -532,13 +532,6 @@
    "items": 2,
    "ended": true
   },
-  "8DMMR2": {
-   "msg": "1530968192611254323",
-   "end": 1785084481,
-   "title": "test",
-   "items": 1,
-   "ended": true
-  },
   "5EGEE7": {
    "msg": "1530973126463062178",
    "end": 1785169202,
@@ -6473,7 +6466,7 @@
    "end": 1785689341,
    "title": "choose Your super power !",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BP7MFM": {
    "msg": "1533158774334820472",
@@ -7117,6 +7110,13 @@
    "end": 1785773881,
    "title": "a bit of noise never killed anyone #41",
    "items": 2,
+   "ended": false
+  },
+  "VYJ6B1": {
+   "msg": "1533517191725711452",
+   "end": 1785689882,
+   "title": "you have 10 minutes",
+   "items": 3,
    "ended": false
   }
  },
