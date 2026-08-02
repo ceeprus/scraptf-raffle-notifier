@@ -6823,7 +6823,7 @@
    "end": 1785639902,
    "title": "I freakin' hate myself.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "AGNACB": {
    "msg": "1533134930744316074",
@@ -7159,6 +7159,13 @@
    "end": 1785723000,
    "title": "Returning",
    "items": 1,
+   "ended": false
+  },
+  "7CVTES": {
+   "msg": "1533309759011426414",
+   "end": 1785726182,
+   "title": "Untitled raffle",
+   "items": 2,
    "ended": false
   }
  },
