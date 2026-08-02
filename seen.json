@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "P5BGQ5": {
-   "msg": "1530698838418129066",
-   "end": 1785103800,
-   "title": "checkup #71 | The sound of progress",
-   "items": 1,
-   "ended": true
-  },
   "S7N9PB": {
    "msg": "1530707622830014566",
    "end": 1785105421,
@@ -6522,7 +6515,7 @@
    "end": 1785708541,
    "title": "\ud83d\udd02 Preparing your trade",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BE7IX9": {
    "msg": "1533240624621555802",
