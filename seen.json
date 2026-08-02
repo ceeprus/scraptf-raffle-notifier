@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "0WNDRC": {
-   "msg": "1530546549216645190",
-   "end": 1785067200,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "FLM73M": {
    "msg": "1530554092399755440",
    "end": 1785069061,
@@ -6431,21 +6424,21 @@
    "end": 1785672000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "71CFYL": {
    "msg": "1533083274291970150",
    "end": 1785671941,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "BV10US": {
    "msg": "1533083280742547548",
    "end": 1785671821,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6JSN2Y": {
    "msg": "1533085843194118176",
@@ -7103,6 +7096,13 @@
    "end": 1785756722,
    "title": "2fort or doublecross? (meme vid)",
    "items": 7,
+   "ended": false
+  },
+  "WS69NM": {
+   "msg": "1533444525517963395",
+   "end": 1785757621,
+   "title": "one day",
+   "items": 1,
    "ended": false
   }
  },
