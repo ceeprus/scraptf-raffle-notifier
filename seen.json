@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "FRZC0S": {
-   "msg": "1530502532680388691",
-   "end": 1785056281,
-   "title": "Whatever",
-   "items": 6,
-   "ended": true
-  },
   "DKAD2N": {
    "msg": "1530507287054123079",
    "end": 1785057481,
@@ -7138,6 +7131,27 @@
    "end": 1785745141,
    "title": "Birthday Raffle",
    "items": 1,
+   "ended": false
+  },
+  "QZVUFP": {
+   "msg": "1533399189554204682",
+   "end": 1785747600,
+   "title": "#6",
+   "items": 1,
+   "ended": false
+  },
+  "IBCZ7E": {
+   "msg": "1533399196072415353",
+   "end": 1785747600,
+   "title": "#7",
+   "items": 1,
+   "ended": false
+  },
+  "W8OH7B": {
+   "msg": "1533399202170798092",
+   "end": 1785747361,
+   "title": "Won my first raffle love this community",
+   "items": 3,
    "ended": false
   }
  },
