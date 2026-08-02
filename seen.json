@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "TH9OWA": {
-   "msg": "1530637147407913010",
-   "end": 1785088802,
-   "title": "What raffles from me do you want to see",
-   "items": 1,
-   "ended": true
-  },
-  "CMECQO": {
-   "msg": "1530637153560825877",
-   "end": 1785088800,
-   "title": "JAK JA KURWA KOCHAM DISCO POLO #172",
-   "items": 1,
-   "ended": true
-  },
   "DK88EL": {
    "msg": "1530647226789920961",
    "end": 1785090962,
@@ -6466,7 +6452,7 @@
    "end": 1785693600,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #173",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "435GWL": {
    "msg": "1533177662820978879",
@@ -6956,7 +6942,7 @@
    "end": 1785693600,
    "title": "Happy Day!",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "0YC14T": {
    "msg": "1533446956695949423",
@@ -7095,6 +7081,13 @@
    "msg": "1533522457275924560",
    "end": 1785776400,
    "title": "#10",
+   "items": 1,
+   "ended": false
+  },
+  "5A9DVN": {
+   "msg": "1533535092016812294",
+   "end": 1785695341,
+   "title": "wanted to try this feature",
    "items": 1,
    "ended": false
   }
