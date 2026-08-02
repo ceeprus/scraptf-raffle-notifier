@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "ZCPQKP": {
-   "msg": "1530488682971267163",
-   "end": 1785053462,
-   "title": "the warrior",
-   "items": 1,
-   "ended": true
-  },
   "FRZC0S": {
    "msg": "1530502532680388691",
    "end": 1785056281,
@@ -6354,7 +6347,7 @@
    "end": 1785658261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1KA80G": {
    "msg": "1533029239429922816",
