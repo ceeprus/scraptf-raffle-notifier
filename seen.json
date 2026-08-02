@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "QR7T62": {
-   "msg": "1530667384010965025",
-   "end": 1785096061,
-   "title": "Equestria Forever",
-   "items": 53,
-   "ended": true
-  },
-  "IGGTNK": {
-   "msg": "1530667391611306055",
-   "end": 1785096000,
-   "title": "A Refined a day keeps the doctor away! #18",
-   "items": 1,
-   "ended": true
-  },
   "D4FNBP": {
    "msg": "1530691281607458886",
    "end": 1785101822,
@@ -6473,7 +6459,7 @@
    "end": 1785700800,
    "title": "A Refined a day keeps the doctor away! #25",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SUOYML": {
    "msg": "1533214148509306950",
