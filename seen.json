@@ -6466,14 +6466,14 @@
    "end": 1785679921,
    "title": "Untitled raffle",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "M9J80R": {
    "msg": "1533117277900247140",
    "end": 1785679921,
    "title": "Scrappy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0MQYIR": {
    "msg": "1533124828695891978",
