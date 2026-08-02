@@ -28,13 +28,6 @@
    "items": 1,
    "ended": true
   },
-  "R1IMDJ": {
-   "msg": "1530600690119086330",
-   "end": 1785079800,
-   "title": "To all uncraftable item havers...",
-   "items": 1,
-   "ended": true
-  },
   "ME9LNZ": {
    "msg": "1530605786429133041",
    "end": 1785081600,
@@ -6473,7 +6466,7 @@
    "end": 1785684600,
    "title": "The Favorites of Music #263 & #264",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "49JTZE": {
    "msg": "1533141138146332754",
