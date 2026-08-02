@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "YLHNOL": {
-   "msg": "1530515194860670996",
-   "end": 1785059641,
-   "title": "Scrap.tf Birthday - 24 July",
-   "items": 4,
-   "ended": true
-  },
-  "XN5B44": {
-   "msg": "1530515202615808190",
-   "end": 1785059521,
-   "title": "Sneak 100.",
-   "items": 1,
-   "ended": true
-  },
   "RE343Z": {
    "msg": "1530517618526650448",
    "end": 1785060482,
@@ -6417,7 +6403,7 @@
    "end": 1785664501,
    "title": "30 Days till my birthday....",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B7OXQQ": {
    "msg": "1533051937186910418",
