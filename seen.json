@@ -6389,14 +6389,14 @@
    "end": 1785660242,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "CAKS6F": {
    "msg": "1533035444629929994",
    "end": 1785660061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VPT6C5": {
    "msg": "1533037984507756564",
@@ -6816,7 +6816,7 @@
    "end": 1785660181,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "F9Q303": {
    "msg": "1533214155773972770",
