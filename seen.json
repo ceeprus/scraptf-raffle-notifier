@@ -203,13 +203,6 @@
    "items": 1,
    "ended": true
   },
-  "PGQMUL": {
-   "msg": "1530848538492141688",
-   "end": 1785096301,
-   "title": "I can smell the insolence.",
-   "items": 2,
-   "ended": true
-  },
   "D49R5S": {
    "msg": "1530851063924527195",
    "end": 1785139802,
@@ -7102,6 +7095,13 @@
    "msg": "1533561436419395795",
    "end": 1785786121,
    "title": "3 months on scrap.tf",
+   "items": 1,
+   "ended": false
+  },
+  "RISQR8": {
+   "msg": "1533566463703650445",
+   "end": 1785787200,
+   "title": "A Refined a day keeps the doctor away! #26",
    "items": 1,
    "ended": false
   }
