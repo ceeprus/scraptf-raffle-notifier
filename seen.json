@@ -6466,7 +6466,7 @@
    "end": 1785695101,
    "title": "Daily Brass Beast #525",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5E4KGU": {
    "msg": "1533180253474787480",
@@ -7088,6 +7088,13 @@
    "msg": "1533535092016812294",
    "end": 1785695341,
    "title": "wanted to try this feature",
+   "items": 1,
+   "ended": false
+  },
+  "P5YB8C": {
+   "msg": "1533541298492145905",
+   "end": 1785696422,
+   "title": "(-_-)",
    "items": 1,
    "ended": false
   }
