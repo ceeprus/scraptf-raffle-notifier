@@ -6473,7 +6473,7 @@
    "end": 1785687001,
    "title": "My 3D modeling experience #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2IS3CG": {
    "msg": "1533151210557800508",
@@ -7118,6 +7118,13 @@
    "title": "le hat",
    "items": 1,
    "ended": true
+  },
+  "WHXOHN": {
+   "msg": "1533507334389633228",
+   "end": 1785772800,
+   "title": "Scrap.tf Birthdays - 2 August",
+   "items": 4,
+   "ended": false
   }
  },
  "megaraffle": {
