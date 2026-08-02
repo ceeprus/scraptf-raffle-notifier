@@ -6361,7 +6361,7 @@
    "end": 1785644821,
    "title": "Raffle dollar noise maker",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SVZYVH": {
    "msg": "1532973838307164272",
@@ -7166,6 +7166,20 @@
    "end": 1785730142,
    "title": "\ud835\udce2 \ud835\udcd0 \ud835\udcdb \ud835\udcdc \ud835\udcde \ud835\udcdd \ud835\udcd8 \ud835\udcd0",
    "items": 2,
+   "ended": false
+  },
+  "R3EB2U": {
+   "msg": "1533331235848323213",
+   "end": 1785731401,
+   "title": "Untitled raffle",
+   "items": 17,
+   "ended": false
+  },
+  "0DVB3D": {
+   "msg": "1533331252025757937",
+   "end": 1785731162,
+   "title": "Winning at a percentage",
+   "items": 5,
    "ended": false
   }
  },
