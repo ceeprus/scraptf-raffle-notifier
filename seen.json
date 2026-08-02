@@ -6410,7 +6410,7 @@
    "end": 1785636841,
    "title": "It's quiet tonight...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PBG8WU": {
    "msg": "1532939805166403635",
@@ -7172,6 +7172,13 @@
    "msg": "1533290931472695437",
    "end": 1785721322,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1ZTSI0": {
+   "msg": "1533297212195344534",
+   "end": 1785723000,
+   "title": "Returning",
    "items": 1,
    "ended": false
   }
