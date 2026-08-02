@@ -6473,14 +6473,14 @@
    "end": 1785704041,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "714JT1": {
    "msg": "1533216647144411289",
    "end": 1785703862,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X7PT2A": {
    "msg": "1533216653280673926",
@@ -7110,6 +7110,27 @@
    "end": 1785788102,
    "title": "normal raffle",
    "items": 2,
+   "ended": false
+  },
+  "LH4POJ": {
+   "msg": "1533579014277562509",
+   "end": 1785790261,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "K7YUS7": {
+   "msg": "1533579020518822134",
+   "end": 1785790141,
+   "title": "#31 Weekly dose of Polish songs",
+   "items": 1,
+   "ended": false
+  },
+  "VGDKJI": {
+   "msg": "1533579027187630220",
+   "end": 1785790081,
+   "title": "Hello",
+   "items": 1,
    "ended": false
   }
  },
