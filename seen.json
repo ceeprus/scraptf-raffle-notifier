@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "04XQHJ": {
-   "msg": "1530527705693687838",
-   "end": 1785062822,
-   "title": "Weapon of the Prime Soul #5",
-   "items": 1,
-   "ended": true
-  },
   "9MNP6S": {
    "msg": "1530530285282660392",
    "end": 1785063061,
@@ -6389,7 +6382,7 @@
    "end": 1785667562,
    "title": "Montly Raffle Wins (July)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LT11O5": {
    "msg": "1533064425399910560",
