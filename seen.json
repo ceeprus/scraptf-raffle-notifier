@@ -6403,7 +6403,7 @@
    "end": 1785628802,
    "title": "Day 8 of the Japan trip + Instagram RIP (part 1)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QXTY17": {
    "msg": "1532916047462662154",
@@ -7149,9 +7149,9 @@
   }
  },
  "megaraffle": {
-  "num": 1160,
-  "end": 1785628800,
-  "msg": "1532176211621707808",
+  "num": 1161,
+  "end": 1785888000,
+  "msg": "1533263365810557039",
   "ended": false
  }
 }
