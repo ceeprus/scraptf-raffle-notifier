@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "WEC7Z8": {
-   "msg": "1530629594238156921",
-   "end": 1785087062,
-   "title": "I think that's my Scrappy today",
-   "items": 18,
-   "ended": true
-  },
   "YO80XN": {
    "msg": "1530634638798884874",
    "end": 1785088081,
@@ -6459,7 +6452,7 @@
    "end": 1785691861,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X67GE9": {
    "msg": "1533167657505919137",
