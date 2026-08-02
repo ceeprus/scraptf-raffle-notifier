@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "U0RNC5": {
-   "msg": "1530429550692139019",
-   "end": 1785038941,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "FVFHFZ": {
    "msg": "1530434578613927966",
    "end": 1785040381,
@@ -7159,6 +7152,13 @@
    "end": 1785728341,
    "title": "Untitled raffle",
    "items": 45,
+   "ended": false
+  },
+  "QUY0AR": {
+   "msg": "1533326137697112296",
+   "end": 1785729600,
+   "title": "been a while, yeah?",
+   "items": 44,
    "ended": false
   }
  },
