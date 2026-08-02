@@ -28,13 +28,6 @@
    "items": 18,
    "ended": true
   },
-  "FD1MOH": {
-   "msg": "1530629602735820863",
-   "end": 1785086821,
-   "title": "Scrap Cookbook - 14th Marinara Sauce Variation",
-   "items": 2,
-   "ended": true
-  },
   "YO80XN": {
    "msg": "1530634638798884874",
    "end": 1785088081,
@@ -6473,7 +6466,7 @@
    "end": 1785691682,
    "title": "Scrap.tf Birthdays - 1 August",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "G2W9KG": {
    "msg": "1533170108971749446",
