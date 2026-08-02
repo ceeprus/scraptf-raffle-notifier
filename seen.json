@@ -6473,7 +6473,7 @@
    "end": 1785688081,
    "title": "Daily tips for not dying",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AHFOKC": {
    "msg": "1533156243781324812",
@@ -7117,6 +7117,13 @@
    "end": 1785772800,
    "title": "Scrap.tf Birthdays - 2 August",
    "items": 4,
+   "ended": false
+  },
+  "6RXRA0": {
+   "msg": "1533512408100900965",
+   "end": 1785773881,
+   "title": "a bit of noise never killed anyone #41",
+   "items": 2,
    "ended": false
   }
  },
