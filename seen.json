@@ -35,13 +35,6 @@
    "items": 1,
    "ended": true
   },
-  "MG3DR1": {
-   "msg": "1530515209595261069",
-   "end": 1785059402,
-   "title": "tfbtih \ud83d\udc94",
-   "items": 1,
-   "ended": true
-  },
   "RE343Z": {
    "msg": "1530517618526650448",
    "end": 1785060482,
@@ -6431,7 +6424,7 @@
    "end": 1785664141,
    "title": "coollion Grabli304's raffle\u2503Day 153",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "GC2OVY": {
    "msg": "1533056865552826400",
