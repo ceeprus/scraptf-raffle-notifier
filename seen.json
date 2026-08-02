@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "4XKKVR": {
-   "msg": "1530622033078259895",
-   "end": 1785085200,
-   "title": "Daily raffle until TF2 gets a major update #571",
-   "items": 3,
-   "ended": true
-  },
   "4J3I43": {
    "msg": "1530627065500663973",
    "end": 1785086341,
@@ -6473,7 +6466,7 @@
    "end": 1785690000,
    "title": "Daily raffle until TF2 gets a major update #578",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "LSYAPJ": {
    "msg": "1533167621703340142",
@@ -7116,6 +7109,13 @@
    "msg": "1533517191725711452",
    "end": 1785689882,
    "title": "you have 10 minutes",
+   "items": 3,
+   "ended": true
+  },
+  "BHRY84": {
+   "msg": "1533520017990357014",
+   "end": 1785732662,
+   "title": "Tr4d1ng",
    "items": 3,
    "ended": false
   }
