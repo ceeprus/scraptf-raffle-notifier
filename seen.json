@@ -28,20 +28,6 @@
    "items": 1,
    "ended": true
   },
-  "XJU3Z4": {
-   "msg": "1530424597772501043",
-   "end": 1785037802,
-   "title": "Weekly i take a nose in exchange for a noise. #4",
-   "items": 1,
-   "ended": true
-  },
-  "1DRXZ0": {
-   "msg": "1530424604575928511",
-   "end": 1785037562,
-   "title": "Waluigi time",
-   "items": 1,
-   "ended": true
-  },
   "FLA4OR": {
    "msg": "1530427028883505152",
    "end": 1785038400,
@@ -7061,7 +7047,7 @@
    "end": 1785642541,
    "title": "Well ,hello world!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HSU3FN": {
    "msg": "1533264476298805359",
@@ -7166,6 +7152,27 @@
    "end": 1785684722,
    "title": "Raffling Scrap Till I'm Out #991 (Tired)",
    "items": 1,
+   "ended": false
+  },
+  "00B01V": {
+   "msg": "1533321110886813836",
+   "end": 1785646021,
+   "title": "hello",
+   "items": 50,
+   "ended": false
+  },
+  "M4G3Q2": {
+   "msg": "1533321118906191903",
+   "end": 1785656461,
+   "title": "here some stuff i dont need",
+   "items": 4,
+   "ended": false
+  },
+  "22EAHT": {
+   "msg": "1533321126640484544",
+   "end": 1785728341,
+   "title": "Untitled raffle",
+   "items": 45,
    "ended": false
   }
  },
