@@ -511,13 +511,6 @@
    "items": 4,
    "ended": true
   },
-  "XEW5QV": {
-   "msg": "1530902692225089747",
-   "end": 1785069242,
-   "title": "What's the dumbest named gun you have?",
-   "items": 7,
-   "ended": true
-  },
   "HSHRLW": {
    "msg": "1530905196056674445",
    "end": 1785152641,
@@ -6452,7 +6445,7 @@
    "end": 1785674102,
    "title": "Daily raffle #322",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SD7GJA": {
    "msg": "1533090815327469790",
