@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "43K8X2": {
-   "msg": "1530715222203957288",
-   "end": 1785107221,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "XQ3UG4": {
    "msg": "1530734116432121958",
    "end": 1785111421,
@@ -6515,7 +6508,7 @@
    "end": 1785712081,
    "title": "Go ahead. Try to scrap em!",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "R1RRO9": {
    "msg": "1533261937088135318",
@@ -7116,6 +7109,13 @@
    "msg": "1533604181443870771",
    "end": 1785796200,
    "title": "checkup #79 | no idea what to write here",
+   "items": 1,
+   "ended": false
+  },
+  "WXUQBG": {
+   "msg": "1533613028627578890",
+   "end": 1785798000,
+   "title": "A  a day",
    "items": 1,
    "ended": false
   }
