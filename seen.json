@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "6PAFYJ": {
-   "msg": "1531018436845768836",
-   "end": 1785179700,
-   "title": "Profiles of The Day #129",
-   "items": 2,
-   "ended": true
-  },
   "HKB911": {
    "msg": "1531023468815056937",
    "end": 1785180600,
@@ -6522,7 +6515,7 @@
    "end": 1785784502,
    "title": "Hmmm",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MIZNQD": {
    "msg": "1533558881182155063",
