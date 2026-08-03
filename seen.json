@@ -6508,14 +6508,14 @@
    "end": 1785782401,
    "title": "\u20b9\u20b9\u20b9\u20b9\u20b9\u20b9\u20b9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IWPCUR": {
    "msg": "1533546349214175232",
    "end": 1785782221,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "I0RXJO": {
    "msg": "1533546355728056482",
@@ -7088,6 +7088,13 @@
    "msg": "1533905046713139411",
    "end": 1785782942,
    "title": "just scrap",
+   "items": 1,
+   "ended": false
+  },
+  "LDKX8L": {
+   "msg": "1533907508182257854",
+   "end": 1785868621,
+   "title": "Fact of the day!",
    "items": 1,
    "ended": false
   }
