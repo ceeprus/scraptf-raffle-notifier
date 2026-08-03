@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "084S4C": {
-   "msg": "1530895118326960188",
-   "end": 1785150122,
-   "title": "Daily raffle #316",
-   "items": 1,
-   "ended": true
-  },
   "UTH80E": {
    "msg": "1530902681273503865",
    "end": 1785152221,
@@ -6522,14 +6515,14 @@
    "end": 1785755101,
    "title": "That was...weirdly slow.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "69ID1L": {
    "msg": "1533430574574862546",
    "end": 1785754861,
    "title": "I'm bored",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "YLFO90": {
    "msg": "1533430581684080842",
