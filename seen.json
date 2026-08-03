@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "51D13A": {
-   "msg": "1530968185451315382",
-   "end": 1785167881,
-   "title": "WHY STRANGES GOT SO EXPENSIVE?",
-   "items": 2,
-   "ended": true
-  },
   "5EGEE7": {
    "msg": "1530973126463062178",
    "end": 1785169202,
@@ -6543,7 +6536,7 @@
    "end": 1785772800,
    "title": "Scrap.tf Birthdays - 2 August",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "6RXRA0": {
    "msg": "1533512408100900965",
