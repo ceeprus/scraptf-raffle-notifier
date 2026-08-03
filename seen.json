@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "XOTABG": {
-   "msg": "1531031009041186877",
-   "end": 1785182400,
-   "title": "A Refined a day keeps the doctor away! #19",
-   "items": 1,
-   "ended": true
-  },
   "HQLZV9": {
    "msg": "1531043682210545786",
    "end": 1785185702,
@@ -6515,7 +6508,7 @@
    "end": 1785787200,
    "title": "A Refined a day keeps the doctor away! #26",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9N5O37": {
    "msg": "1533571489276887161",
@@ -7082,6 +7075,13 @@
    "end": 1785829081,
    "title": "Question",
    "items": 5,
+   "ended": false
+  },
+  "W1BUS5": {
+   "msg": "1533927684906942504",
+   "end": 1785873600,
+   "title": "A Refined a day keeps the doctor away! #27",
+   "items": 1,
    "ended": false
   }
  },
