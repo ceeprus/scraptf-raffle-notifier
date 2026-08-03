@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "JQ3CK3": {
-   "msg": "1530939132283588620",
-   "end": 1785160800,
-   "title": "Untitled raffle",
-   "items": 6,
-   "ended": true
-  },
   "IYQZL5": {
    "msg": "1530947959368319159",
    "end": 1785162421,
@@ -6592,14 +6585,14 @@
    "end": 1785765600,
    "title": "Untitled raffle",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "VEV5R0": {
    "msg": "1533475882226810890",
    "end": 1785765361,
    "title": "My first raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O8WXQC": {
    "msg": "1533483406518911017",
