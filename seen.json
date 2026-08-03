@@ -6536,7 +6536,7 @@
    "end": 1785757621,
    "title": "one day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z0OGES": {
    "msg": "1533446949074636994",
@@ -7103,6 +7103,13 @@
    "end": 1785841200,
    "title": "FRAUD!!!",
    "items": 1,
+   "ended": false
+  },
+  "JY2D30": {
+   "msg": "1533804324050698260",
+   "end": 1785843841,
+   "title": "Grabli304's raffle\u2503Day 155",
+   "items": 2,
    "ended": false
   }
  },
