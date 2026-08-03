@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "LBA3T8": {
-   "msg": "1530775572081541200",
-   "end": 1785121561,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "4UPTGY": {
    "msg": "1530780588619862097",
    "end": 1785122521,
@@ -6550,14 +6543,14 @@
    "end": 1785726482,
    "title": "Getting Down To It #56",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q5NPMF": {
    "msg": "1533312317666627625",
    "end": 1785726361,
    "title": "Getting Down To It #55",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G3OOP8": {
    "msg": "1533318590126620822",
