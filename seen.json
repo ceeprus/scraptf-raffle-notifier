@@ -679,13 +679,6 @@
    "items": 1,
    "ended": true
   },
-  "UKG6CU": {
-   "msg": "1531336780958273577",
-   "end": 1785172981,
-   "title": "Ham",
-   "items": 50,
-   "ended": true
-  },
   "SUMQ5Q": {
    "msg": "1531348128471711805",
    "end": 1785258000,
@@ -7068,6 +7061,20 @@
    "end": 1785863581,
    "title": "Answer the poll",
    "items": 1,
+   "ended": false
+  },
+  "Y2OZ6U": {
+   "msg": "1533888566843805828",
+   "end": 1785820921,
+   "title": "My first raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P1B216": {
+   "msg": "1533888574221717595",
+   "end": 1785864002,
+   "title": "Daily raffle until TF2 gets a major update #580",
+   "items": 3,
    "ended": false
   }
  },
