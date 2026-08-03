@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "MZOMH1": {
-   "msg": "1530984423892324464",
-   "end": 1785171600,
-   "title": "Daily raffle until TF2 gets a major update #572",
-   "items": 3,
-   "ended": true
-  },
-  "KE5DE2": {
-   "msg": "1530984431316242447",
-   "end": 1785171600,
-   "title": "vacation",
-   "items": 1,
-   "ended": true
-  },
   "MD3JTA": {
    "msg": "1530986962708725932",
    "end": 1785172021,
@@ -6529,7 +6515,7 @@
    "end": 1785776400,
    "title": "#10",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5A9DVN": {
    "msg": "1533535092016812294",
