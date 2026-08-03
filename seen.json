@@ -35,13 +35,6 @@
    "items": 26,
    "ended": true
   },
-  "CWURVT": {
-   "msg": "1530958057876754624",
-   "end": 1785164881,
-   "title": "Acronyms #213 + the future of the Acronyms series",
-   "items": 3,
-   "ended": true
-  },
   "34SHPL": {
    "msg": "1530963058057285692",
    "end": 1785166200,
@@ -292,13 +285,6 @@
    "end": 1785206581,
    "title": "idk take them",
    "items": 5,
-   "ended": true
-  },
-  "2Y2TYF": {
-   "msg": "1531136728792826026",
-   "end": 1785164881,
-   "title": "Why not",
-   "items": 11,
    "ended": true
   },
   "APY6BI": {
@@ -7110,6 +7096,20 @@
    "end": 1785853800,
    "title": "#14",
    "items": 1,
+   "ended": false
+  },
+  "QH3DOY": {
+   "msg": "1533854628804825129",
+   "end": 1785856081,
+   "title": "Wowzers",
+   "items": 1,
+   "ended": false
+  },
+  "Y7IEN8": {
+   "msg": "1533854636811882506",
+   "end": 1785855601,
+   "title": "All Class Hat Addiction",
+   "items": 3,
    "ended": false
   }
  },
