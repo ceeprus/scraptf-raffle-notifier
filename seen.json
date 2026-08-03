@@ -6522,14 +6522,14 @@
    "end": 1785799141,
    "title": "Tour 294-295-296-297-298-299-300!",
    "items": 46,
-   "ended": false
+   "ended": true
   },
   "NDDPDJ": {
    "msg": "1533617089309577298",
    "end": 1785799081,
    "title": "ehhhhhhhhhhhhhhhhhhhhhhhhh",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "E7APLH": {
    "msg": "1533620614651187342",
@@ -7095,6 +7095,34 @@
    "msg": "1533975424067964928",
    "end": 1785884400,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "GD5PJC": {
+   "msg": "1533977942059913437",
+   "end": 1785885361,
+   "title": "Getting Down To It #60",
+   "items": 1,
+   "ended": false
+  },
+  "UFLVGD": {
+   "msg": "1533977948544172194",
+   "end": 1785885361,
+   "title": "I'M OLD!",
+   "items": 1,
+   "ended": false
+  },
+  "IVI0NN": {
+   "msg": "1533977955238416464",
+   "end": 1785885121,
+   "title": "Getting Down To It #59",
+   "items": 1,
+   "ended": false
+  },
+  "LKX087": {
+   "msg": "1533977961638789232",
+   "end": 1785884882,
+   "title": "Getting Down To It #58",
    "items": 1,
    "ended": false
   }
