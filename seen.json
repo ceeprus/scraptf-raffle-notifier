@@ -21,24 +21,10 @@
    "items": 1,
    "ended": false
   },
-  "IAYOTZ": {
-   "msg": "1530892676818538597",
-   "end": 1785149941,
-   "title": "music time ! !",
-   "items": 1,
-   "ended": true
-  },
   "084S4C": {
    "msg": "1530895118326960188",
    "end": 1785150122,
    "title": "Daily raffle #316",
-   "items": 1,
-   "ended": true
-  },
-  "F07S3E": {
-   "msg": "1530895124027015180",
-   "end": 1785150000,
-   "title": "I can't believe that worked...",
    "items": 1,
    "ended": true
   },
@@ -6550,7 +6536,7 @@
    "end": 1785754741,
    "title": "Take These Too!",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "HHIGIZ": {
    "msg": "1533436902194155561",
