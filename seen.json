@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "AKLIZ7": {
-   "msg": "1531075016609759282",
-   "end": 1785193200,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "9KNWWZ": {
    "msg": "1531080059983757322",
    "end": 1785193921,
@@ -6522,7 +6515,7 @@
    "end": 1785798000,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ADNGFY": {
    "msg": "1533617075631689880",
