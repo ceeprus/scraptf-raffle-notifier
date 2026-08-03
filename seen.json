@@ -35,20 +35,6 @@
    "items": 1,
    "ended": true
   },
-  "FASEMZ": {
-   "msg": "1530984439062986752",
-   "end": 1785171181,
-   "title": "Weapon of the Prime Soul #6",
-   "items": 1,
-   "ended": true
-  },
-  "VJ25FO": {
-   "msg": "1530984446575120535",
-   "end": 1785171181,
-   "title": "The pass it forward raffle! (#8)",
-   "items": 4,
-   "ended": true
-  },
   "MD3JTA": {
    "msg": "1530986962708725932",
    "end": 1785172021,
@@ -7081,6 +7067,13 @@
    "msg": "1533876010343334029",
    "end": 1785860701,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NWCMJ2": {
+   "msg": "1533881015557161166",
+   "end": 1785861961,
+   "title": "How i make gradients. | NotDailyRaffle #11",
    "items": 1,
    "ended": false
   }
