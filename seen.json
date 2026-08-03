@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "HQLZV9": {
-   "msg": "1531043682210545786",
-   "end": 1785185702,
-   "title": "[\ud83e\udd89] OWL FACTS #24",
-   "items": 1,
-   "ended": true
-  },
   "NNE3RG": {
    "msg": "1531046114516537496",
    "end": 1785186000,
@@ -6515,7 +6508,7 @@
    "end": 1785790261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K7YUS7": {
    "msg": "1533579020518822134",
@@ -7089,6 +7082,13 @@
    "end": 1785875012,
    "title": "Untitled raffle",
    "items": 3,
+   "ended": false
+  },
+  "MEF6NE": {
+   "msg": "1533941408958775380",
+   "end": 1785833282,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
