@@ -6578,14 +6578,14 @@
    "end": 1785731401,
    "title": "Untitled raffle",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "0DVB3D": {
    "msg": "1533331252025757937",
    "end": 1785731162,
    "title": "Winning at a percentage",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "BZKQ7O": {
    "msg": "1533358875103723560",
@@ -7138,6 +7138,13 @@
    "end": 1785815941,
    "title": "Day 55-56",
    "items": 1,
+   "ended": false
+  },
+  "BQEWAM": {
+   "msg": "1533693609897885868",
+   "end": 1785817321,
+   "title": "Happy 14 years of scrap.tf!",
+   "items": 50,
    "ended": false
   }
  },
