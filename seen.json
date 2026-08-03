@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "P1E2D0": {
-   "msg": "1531087665141776537",
-   "end": 1785196202,
-   "title": "8000 VOTES SPECIAL!!!",
-   "items": 8,
-   "ended": true
-  },
   "I5TA29": {
    "msg": "1531090126384533696",
    "end": 1785196861,
@@ -7138,6 +7131,13 @@
    "end": 1785886382,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "W3LN33": {
+   "msg": "1533985480511586418",
+   "end": 1785887281,
+   "title": "Mad Dog Monday #262",
+   "items": 2,
    "ended": false
   }
  },
