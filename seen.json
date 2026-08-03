@@ -6571,7 +6571,7 @@
    "end": 1785728341,
    "title": "Untitled raffle",
    "items": 45,
-   "ended": false
+   "ended": true
   },
   "QUY0AR": {
    "msg": "1533326137697112296",
@@ -7117,6 +7117,13 @@
    "end": 1785813601,
    "title": "Your daily nutrion",
    "items": 54,
+   "ended": false
+  },
+  "GN9NTL": {
+   "msg": "1533680997034496161",
+   "end": 1785814562,
+   "title": "i gotta stop playing mvm pt.7",
+   "items": 28,
    "ended": false
   }
  },
