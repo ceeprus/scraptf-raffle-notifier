@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "K7PT03": {
-   "msg": "1530907779093500034",
-   "end": 1785153600,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "AEK97V": {
    "msg": "1530924019665076316",
    "end": 1785157200,
@@ -6550,7 +6543,7 @@
    "end": 1785758400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KXKFQG": {
    "msg": "1533452015865434132",
