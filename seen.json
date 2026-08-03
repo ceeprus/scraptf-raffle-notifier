@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "XPGQR1": {
-   "msg": "1530788132260155513",
-   "end": 1785124800,
-   "title": "\u266a Hitohira No Hanabira \u266a",
-   "items": 1,
-   "ended": true
-  },
   "HYRYRH": {
    "msg": "1530796982589849716",
    "end": 1785126901,
@@ -6571,7 +6564,7 @@
    "end": 1785729600,
    "title": "been a while, yeah?",
    "items": 44,
-   "ended": false
+   "ended": true
   },
   "FF8J7F": {
    "msg": "1533328667076460784",
@@ -7124,6 +7117,13 @@
    "end": 1785814922,
    "title": "Caf\u00e9 Crit-A-Coffee #1747",
    "items": 14,
+   "ended": false
+  },
+  "RN7DNJ": {
+   "msg": "1533686086856081458",
+   "end": 1785815762,
+   "title": "Troubled Thoughts",
+   "items": 1,
    "ended": false
   }
  },
