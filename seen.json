@@ -6550,7 +6550,7 @@
    "end": 1785721322,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1ZTSI0": {
    "msg": "1533297212195344534",
@@ -7138,6 +7138,13 @@
    "end": 1785805921,
    "title": "sniper, huh?",
    "items": 1,
+   "ended": false
+  },
+  "763Z5J": {
+   "msg": "1533652051207393370",
+   "end": 1785807542,
+   "title": "Pick My Custom Title - Semifinals (1/2)",
+   "items": 5,
    "ended": false
   }
  },
