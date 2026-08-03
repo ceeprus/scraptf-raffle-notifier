@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "QFCLJS": {
-   "msg": "1530802087330447492",
-   "end": 1785128041,
-   "title": "Pick My Custom Title",
-   "items": 10,
-   "ended": true
-  },
   "Q5LT5A": {
    "msg": "1530807037418803391",
    "end": 1785129122,
@@ -6858,7 +6851,7 @@
    "end": 1785732662,
    "title": "Tr4d1ng",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "RZXN3U": {
    "msg": "1533522448170094602",
