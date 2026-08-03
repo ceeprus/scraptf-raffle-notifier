@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "MD3JTA": {
-   "msg": "1530986962708725932",
-   "end": 1785172021,
-   "title": "I Drew Ts 11",
-   "items": 1,
-   "ended": true
-  },
   "ORXQYH": {
    "msg": "1530999519972692009",
    "end": 1785174841,
@@ -6508,7 +6501,7 @@
    "end": 1785776942,
    "title": "A really weird",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "1C9A1X": {
    "msg": "1533522457275924560",
