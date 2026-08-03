@@ -6529,14 +6529,14 @@
    "end": 1785752102,
    "title": "Weapon of the Prime Soul #10-13",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "QXKWD6": {
    "msg": "1533420477270331503",
    "end": 1785752042,
    "title": "Fresh noizers",
    "items": 66,
-   "ended": false
+   "ended": true
   },
   "QRFJOZ": {
    "msg": "1533422998336311458",
@@ -7130,6 +7130,13 @@
    "msg": "1533777876216971278",
    "end": 1785837301,
    "title": "Daily raffle #324",
+   "items": 1,
+   "ended": false
+  },
+  "B80TMI": {
+   "msg": "1533780370149867581",
+   "end": 1785753721,
+   "title": "just scrap",
    "items": 1,
    "ended": false
   }
