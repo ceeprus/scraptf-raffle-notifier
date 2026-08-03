@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "PHHC5Q": {
-   "msg": "1531015906111787049",
-   "end": 1785178802,
-   "title": "The growing raffle",
-   "items": 1,
-   "ended": true
-  },
-  "DO6Z6Y": {
-   "msg": "1531015915536257177",
-   "end": 1785178800,
-   "title": "#30 Weekly dose of Polish songs",
-   "items": 1,
-   "ended": true
-  },
   "6PAFYJ": {
    "msg": "1531018436845768836",
    "end": 1785179700,
@@ -7096,6 +7082,13 @@
    "end": 1785868621,
    "title": "Fact of the day!",
    "items": 1,
+   "ended": false
+  },
+  "XYXOEX": {
+   "msg": "1533912590453833748",
+   "end": 1785869402,
+   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #1",
+   "items": 3,
    "ended": false
   }
  },
