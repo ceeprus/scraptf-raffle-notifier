@@ -490,13 +490,6 @@
    "items": 1,
    "ended": true
   },
-  "V0XNOS": {
-   "msg": "1531292801218908311",
-   "end": 1785180061,
-   "title": "Noisemaker pardon",
-   "items": 1,
-   "ended": true
-  },
   "XMLNX2": {
    "msg": "1531292812497260606",
    "end": 1785244741,
@@ -6522,7 +6515,7 @@
    "end": 1785784981,
    "title": "Im back\ud83e\udd81",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q38871": {
    "msg": "1533561436419395795",
