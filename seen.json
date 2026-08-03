@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "10FJ0X": {
-   "msg": "1531051194070601730",
-   "end": 1785187561,
-   "title": "Improvements!",
-   "items": 1,
-   "ended": true
-  },
   "VJYTJN": {
    "msg": "1531070007902081064",
    "end": 1785191761,
@@ -6515,7 +6508,7 @@
    "end": 1785792481,
    "title": "very nice person",
    "items": 148,
-   "ended": false
+   "ended": true
   },
   "116ANR": {
    "msg": "1533596653171249212",
