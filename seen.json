@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "4UPTGY": {
-   "msg": "1530780588619862097",
-   "end": 1785122521,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "3JKRYH": {
    "msg": "1530783127637852222",
    "end": 1785123781,
@@ -7117,6 +7110,13 @@
    "end": 1785808201,
    "title": "and  ate a bit of this message...",
    "items": 1,
+   "ended": false
+  },
+  "Q6Z7IV": {
+   "msg": "1533677187935502460",
+   "end": 1785813601,
+   "title": "Your daily nutrion",
+   "items": 54,
    "ended": false
   }
  },
