@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "CT20IR": {
-   "msg": "1530743081522171914",
-   "end": 1785114000,
-   "title": "100 EPITAPHS",
-   "items": 1,
-   "ended": true
-  },
-  "W5XYVI": {
-   "msg": "1530743089336160267",
-   "end": 1785114000,
-   "title": "Reminder to eat n' drink water if ye haven't yet #257",
-   "items": 5,
-   "ended": true
-  },
   "FMSNOX": {
    "msg": "1530766772817367205",
    "end": 1785119642,
@@ -6536,7 +6522,7 @@
    "end": 1785718800,
    "title": "Reminder to eat n' drink water if ye haven't yet #262",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "Z1H5GK": {
    "msg": "1533290906512523394",
