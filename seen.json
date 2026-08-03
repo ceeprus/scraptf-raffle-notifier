@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "EI5EHN": {
-   "msg": "1530828438599106674",
-   "end": 1785134041,
-   "title": "Day 43 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "3BJWU1": {
-   "msg": "1530828448090816633",
-   "end": 1785133921,
-   "title": "Day 48 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
   "D49R5S": {
    "msg": "1530851063924527195",
    "end": 1785139802,
@@ -6543,7 +6529,7 @@
    "end": 1785738661,
    "title": "Weekly Noisemaker Raffle #1... or well... Until I run out of noise makers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8DNRT0": {
    "msg": "1533370133677084682",
@@ -7110,6 +7096,13 @@
    "end": 1785822181,
    "title": "Daily Hat #72",
    "items": 1,
+   "ended": false
+  },
+  "AVBXND": {
+   "msg": "1533724988987670659",
+   "end": 1785824701,
+   "title": "Crate addiction \"pay-offs\"",
+   "items": 50,
    "ended": false
   }
  },
