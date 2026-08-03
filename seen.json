@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "U8WUCK": {
-   "msg": "1530862470934171824",
-   "end": 1785142561,
-   "title": "Probable Delay + survey",
-   "items": 5,
-   "ended": true
-  },
   "VWK9CQ": {
    "msg": "1530870012590686298",
    "end": 1785144061,
@@ -6536,21 +6529,21 @@
    "end": 1785747600,
    "title": "#6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IBCZ7E": {
    "msg": "1533399196072415353",
    "end": 1785747600,
    "title": "#7",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W8OH7B": {
    "msg": "1533399202170798092",
    "end": 1785747361,
    "title": "Won my first raffle love this community",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "M8FVR0": {
    "msg": "1533415440204697785",
@@ -7124,6 +7117,13 @@
    "end": 1785832501,
    "title": "well uhhhh hungy headcrab",
    "items": 6,
+   "ended": false
+  },
+  "WW9XVQ": {
+   "msg": "1533761593723326514",
+   "end": 1785833581,
+   "title": "Cleaning",
+   "items": 200,
    "ended": false
   }
  },
