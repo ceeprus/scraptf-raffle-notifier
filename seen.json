@@ -6571,7 +6571,7 @@
    "end": 1785730142,
    "title": "\ud835\udce2 \ud835\udcd0 \ud835\udcdb \ud835\udcdc \ud835\udcde \ud835\udcdd \ud835\udcd8 \ud835\udcd0",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "R3EB2U": {
    "msg": "1533331235848323213",
@@ -7123,6 +7123,20 @@
    "msg": "1533686086856081458",
    "end": 1785815762,
    "title": "Troubled Thoughts",
+   "items": 1,
+   "ended": false
+  },
+  "EU63PY": {
+   "msg": "1533688529429991514",
+   "end": 1785816422,
+   "title": "Day 50-51 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "EG2OYV": {
+   "msg": "1533688536467771435",
+   "end": 1785815941,
+   "title": "Day 55-56",
    "items": 1,
    "ended": false
   }
