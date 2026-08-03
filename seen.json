@@ -6550,7 +6550,7 @@
    "end": 1785745141,
    "title": "Birthday Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QZVUFP": {
    "msg": "1533399189554204682",
@@ -7131,6 +7131,13 @@
    "end": 1785829561,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "WRT6YI": {
+   "msg": "1533751578782339173",
+   "end": 1785831061,
+   "title": "((Somewhat)) Saying Goodbye to Team Fortress 2 ((For real this time)) (((Part 1)))",
+   "items": 200,
    "ended": false
   }
  },
