@@ -287,13 +287,6 @@
    "items": 2,
    "ended": true
   },
-  "YHIWBW": {
-   "msg": "1531168156943388724",
-   "end": 1785172261,
-   "title": "Raffling Scrap Till I'm Out #985 (Late raffle)",
-   "items": 1,
-   "ended": true
-  },
   "G19IRF": {
    "msg": "1531168165160292472",
    "end": 1785215161,
@@ -7068,6 +7061,13 @@
    "end": 1785862981,
    "title": "I didn't sleep last night",
    "items": 4,
+   "ended": false
+  },
+  "HUT727": {
+   "msg": "1533886103394979951",
+   "end": 1785863581,
+   "title": "Answer the poll",
+   "items": 1,
    "ended": false
   }
  },
