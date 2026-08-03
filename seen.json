@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "IYQZL5": {
-   "msg": "1530947959368319159",
-   "end": 1785162421,
-   "title": "Past me why",
-   "items": 1,
-   "ended": true
-  },
-  "7Y0MBV": {
-   "msg": "1530947970785218814",
-   "end": 1785162361,
-   "title": "Weird visions.",
-   "items": 3,
-   "ended": true
-  },
   "3L87EC": {
    "msg": "1530953083134283988",
    "end": 1785163561,
@@ -6599,7 +6585,7 @@
    "end": 1785767161,
    "title": "Marvelous Sunday",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "25Q7AY": {
    "msg": "1533488437233975416",
