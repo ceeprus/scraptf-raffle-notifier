@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "5EGEE7": {
-   "msg": "1530973126463062178",
-   "end": 1785169202,
-   "title": "My HONEST feelings about scrap users #2 [Cinny]",
-   "items": 1,
-   "ended": true
-  },
   "MZOMH1": {
    "msg": "1530984423892324464",
    "end": 1785171600,
@@ -6529,7 +6522,7 @@
    "end": 1785773881,
    "title": "a bit of noise never killed anyone #41",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "VYJ6B1": {
    "msg": "1533517191725711452",
