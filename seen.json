@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "HKB911": {
-   "msg": "1531023468815056937",
-   "end": 1785180600,
-   "title": "Equestria 4ever",
-   "items": 52,
-   "ended": true
-  },
   "XOTABG": {
    "msg": "1531031009041186877",
    "end": 1785182400,
@@ -7082,6 +7075,13 @@
    "end": 1785871141,
    "title": "first raffle",
    "items": 1,
+   "ended": false
+  },
+  "CV6W6G": {
+   "msg": "1533920129661014046",
+   "end": 1785871682,
+   "title": "Giving away items cuz i feel bad :(",
+   "items": 4,
    "ended": false
   }
  },
