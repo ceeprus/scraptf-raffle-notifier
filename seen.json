@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "GTIBER": {
-   "msg": "1531173162551869460",
-   "end": 1785216481,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "G3E4G6": {
    "msg": "1531175726248890468",
    "end": 1785216961,
@@ -7012,6 +7005,13 @@
    "end": 1785902882,
    "title": "CN#263",
    "items": 1,
+   "ended": false
+  },
+  "U95JHZ": {
+   "msg": "1534071121136058598",
+   "end": 1785907381,
+   "title": "Mega expensive raffle!",
+   "items": 115,
    "ended": false
   }
  },
