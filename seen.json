@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "EJVB5P": {
-   "msg": "1531224909701845073",
-   "end": 1785229081,
-   "title": "For fire",
-   "items": 1,
-   "ended": true
-  },
   "0JZ5OO": {
    "msg": "1531229823270260908",
    "end": 1785229802,
@@ -7032,6 +7025,13 @@
    "msg": "1534116399423950969",
    "end": 1785918301,
    "title": "The world needs more Reindoonicorns! (#590)",
+   "items": 1,
+   "ended": false
+  },
+  "NEDB0F": {
+   "msg": "1534123978959093821",
+   "end": 1785919742,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
