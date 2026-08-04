@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "9XBHYS": {
-   "msg": "1531450008333848756",
-   "end": 1785282421,
-   "title": "Mad Dog Monday #261",
-   "items": 2,
-   "ended": true
-  },
   "TZFSAP": {
    "msg": "1531455044883447878",
    "end": 1785283321,
@@ -6270,7 +6263,7 @@
    "end": 1785887281,
    "title": "Mad Dog Monday #262",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "GAMNQ8": {
    "msg": "1533990511591948338",
