@@ -42,13 +42,6 @@
    "items": 1,
    "ended": true
   },
-  "8XZKNM": {
-   "msg": "1531372019877150881",
-   "end": 1785263942,
-   "title": "a bit of noise never killed anyone #38",
-   "items": 2,
-   "ended": true
-  },
   "USR5QI": {
    "msg": "1531377021098397718",
    "end": 1785265202,
@@ -6312,7 +6305,7 @@
    "end": 1785868621,
    "title": "Fact of the day!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XYXOEX": {
    "msg": "1533912590453833748",
