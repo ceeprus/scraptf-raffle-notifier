@@ -259,13 +259,6 @@
    "items": 1,
    "ended": true
   },
-  "B15870": {
-   "msg": "1531583452946763817",
-   "end": 1785270661,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "GTUN55": {
    "msg": "1531585877502066709",
    "end": 1785314881,
@@ -6872,6 +6865,13 @@
    "end": 1785959762,
    "title": "Come in",
    "items": 1,
+   "ended": false
+  },
+  "RDHXGO": {
+   "msg": "1534297639963726024",
+   "end": 1785961201,
+   "title": "Equestria Forever",
+   "items": 54,
    "ended": false
   }
  },
