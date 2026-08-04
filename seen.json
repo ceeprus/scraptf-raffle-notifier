@@ -6305,7 +6305,7 @@
    "end": 1785861961,
    "title": "How i make gradients. | NotDailyRaffle #11",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SQWP5O": {
    "msg": "1533883555707617330",
@@ -6914,6 +6914,20 @@
    "end": 1785946802,
    "title": "Make some noise",
    "items": 5,
+   "ended": false
+  },
+  "UU0OCE": {
+   "msg": "1534242186063904838",
+   "end": 1785904922,
+   "title": "What's your average raffles-to-wins ratio?",
+   "items": 7,
+   "ended": false
+  },
+  "154IN7": {
+   "msg": "1534242193424781473",
+   "end": 1785948001,
+   "title": "For The Trolldier Players",
+   "items": 1,
    "ended": false
   }
  },
