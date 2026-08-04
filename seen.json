@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "2OY3A9": {
-   "msg": "1531180729134743562",
-   "end": 1785218400,
-   "title": "Today is Monday",
-   "items": 1,
-   "ended": true
-  },
   "YFGLVD": {
    "msg": "1531185754506657815",
    "end": 1785219541,
@@ -7019,6 +7012,13 @@
    "end": 1785908761,
    "title": "Day 52 of Asking for Mystery Raffles",
    "items": 1,
+   "ended": false
+  },
+  "EJET5Y": {
+   "msg": "1534078713908428920",
+   "end": 1785909421,
+   "title": "Pick My Custom Title - Semifinals (2/2)",
+   "items": 10,
    "ended": false
   }
  },
