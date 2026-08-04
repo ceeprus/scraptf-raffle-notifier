@@ -588,13 +588,6 @@
    "items": 3,
    "ended": true
   },
-  "4C5NEA": {
-   "msg": "1531713044747518084",
-   "end": 1785262501,
-   "title": "I got a refined from an auction and dont need a lot of it.",
-   "items": 2,
-   "ended": true
-  },
   "CGLOCD": {
    "msg": "1531713051504676875",
    "end": 1785345001,
@@ -6305,7 +6298,7 @@
    "end": 1785867301,
    "title": "and 's final message.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BP2N9T": {
    "msg": "1533905039217655860",
