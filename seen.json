@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "8HL64U": {
-   "msg": "1531287707194495108",
-   "end": 1785243600,
-   "title": "7/27/1978",
-   "items": 1,
-   "ended": true
-  },
   "I0UDJ0": {
    "msg": "1531290227618877604",
    "end": 1785244501,
@@ -6389,7 +6382,7 @@
    "end": 1785848400,
    "title": "8 for 1 Sunday but Monday",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "EZYWY6": {
    "msg": "1533838275863904456",
