@@ -6725,7 +6725,7 @@
    "end": 1785830461,
    "title": "Two Conscientious Objectors",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "C7HXN1": {
    "msg": "1533935228459159785",
@@ -7019,6 +7019,27 @@
    "end": 1785915541,
    "title": "Crate addiction big wins",
    "items": 9,
+   "ended": false
+  },
+  "QLGYBM": {
+   "msg": "1534110063310929940",
+   "end": 1785873602,
+   "title": "Goog",
+   "items": 1,
+   "ended": false
+  },
+  "UGJMNQ": {
+   "msg": "1534110070340583578",
+   "end": 1785844621,
+   "title": "Begging for tips",
+   "items": 1,
+   "ended": false
+  },
+  "EP0Z3X": {
+   "msg": "1534110076841754684",
+   "end": 1785916621,
+   "title": "i miss my wife",
+   "items": 1,
    "ended": false
   }
  },
