@@ -406,13 +406,6 @@
    "items": 1,
    "ended": true
   },
-  "Z8YS13": {
-   "msg": "1531394658520010942",
-   "end": 1785226381,
-   "title": "scrappy",
-   "items": 1,
-   "ended": true
-  },
   "CBW5WB": {
    "msg": "1531394675590692864",
    "end": 1785269282,
@@ -6403,7 +6396,7 @@
    "end": 1785831061,
    "title": "((Somewhat)) Saying Goodbye to Team Fortress 2 ((For real this time)) (((Part 1)))",
    "items": 200,
-   "ended": false
+   "ended": true
   },
   "NRNIWJ": {
    "msg": "1533756645719674962",
@@ -7033,6 +7026,13 @@
    "end": 1785916621,
    "title": "i miss my wife",
    "items": 1,
+   "ended": false
+  },
+  "O3Z8MZ": {
+   "msg": "1534112583702024294",
+   "end": 1785917641,
+   "title": "Just another Non-Craftable",
+   "items": 6,
    "ended": false
   }
  },
