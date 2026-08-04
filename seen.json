@@ -21,13 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "C5GXZJ": {
-   "msg": "1531119160355193003",
-   "end": 1785203642,
-   "title": "\u201c: (\u201c",
-   "items": 2,
-   "ended": true
-  },
   "JGT6IA": {
    "msg": "1531121618083123261",
    "end": 1785204000,
@@ -7152,6 +7145,20 @@
    "end": 1785850861,
    "title": "My favorite sleep sounds!",
    "items": 3,
+   "ended": false
+  },
+  "63DPBK": {
+   "msg": "1534016934897778760",
+   "end": 1785894901,
+   "title": "Pok\u00e9Journey #1 - LeafGreen completed with two shinies",
+   "items": 3,
+   "ended": false
+  },
+  "ILGX7R": {
+   "msg": "1534016946201296908",
+   "end": 1785894781,
+   "title": "Twisting the strangle grip Won't give no mercy!",
+   "items": 9,
    "ended": false
   }
  },
