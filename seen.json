@@ -6473,7 +6473,7 @@
    "end": 1785813601,
    "title": "Your daily nutrion",
    "items": 54,
-   "ended": false
+   "ended": true
   },
   "GN9NTL": {
    "msg": "1533680997034496161",
@@ -7110,6 +7110,13 @@
    "end": 1785898981,
    "title": "First ever raffle!",
    "items": 9,
+   "ended": false
+  },
+  "2ASNBJ": {
+   "msg": "1534038353429794886",
+   "end": 1785899701,
+   "title": "My first Creating a raffle :)",
+   "items": 2,
    "ended": false
   }
  },
