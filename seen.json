@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "G3E4G6": {
-   "msg": "1531175726248890468",
-   "end": 1785216961,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "2OY3A9": {
    "msg": "1531180729134743562",
    "end": 1785218400,
@@ -7012,6 +7005,13 @@
    "end": 1785907381,
    "title": "Mega expensive raffle!",
    "items": 115,
+   "ended": false
+  },
+  "ONEFMS": {
+   "msg": "1534073570391621792",
+   "end": 1785907621,
+   "title": "Day 57 of Asking for a Follow Button",
+   "items": 1,
    "ended": false
   }
  },
