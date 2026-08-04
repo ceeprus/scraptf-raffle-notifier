@@ -6704,7 +6704,7 @@
    "end": 1785855062,
    "title": "Raffling Scrap Till I'm Out #993 (Tired)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DEFP4Z": {
    "msg": "1534035811266199692",
@@ -6991,6 +6991,13 @@
    "end": 1785938461,
    "title": "Mundane Lifestyle.",
    "items": 2,
+   "ended": false
+  },
+  "5AHZER": {
+   "msg": "1534213204044152842",
+   "end": 1785941041,
+   "title": "barabulka",
+   "items": 1,
    "ended": false
   }
  },
