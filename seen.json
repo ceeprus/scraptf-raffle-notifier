@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "0JZ5OO": {
-   "msg": "1531229823270260908",
-   "end": 1785229802,
-   "title": "\ud83d\udcaa\ud83d\ude0e\ud83e\ude9e",
-   "items": 1,
-   "ended": true
-  },
   "COUY20": {
    "msg": "1531234857487695903",
    "end": 1785231061,
@@ -6403,7 +6396,7 @@
    "end": 1785834481,
    "title": "the first taunt",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "YHEKNE": {
    "msg": "1533767883912515644",
