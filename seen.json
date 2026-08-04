@@ -21,20 +21,6 @@
    "items": 1,
    "ended": false
   },
-  "DF62W8": {
-   "msg": "1531150524814987355",
-   "end": 1785211200,
-   "title": "\u266a Invader Invader \u266a",
-   "items": 1,
-   "ended": true
-  },
-  "K0UDZF": {
-   "msg": "1531150535397212230",
-   "end": 1785211142,
-   "title": "Caf\u00e9 Crit-A-Coffee #1740",
-   "items": 10,
-   "ended": true
-  },
   "P3KA23": {
    "msg": "1531153065070035045",
    "end": 1785211861,
@@ -6459,7 +6445,7 @@
    "end": 1785815762,
    "title": "Troubled Thoughts",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EU63PY": {
    "msg": "1533688529429991514",
@@ -6473,7 +6459,7 @@
    "end": 1785815941,
    "title": "Day 55-56",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BQEWAM": {
    "msg": "1533693609897885868",
@@ -7096,6 +7082,13 @@
    "end": 1785901500,
    "title": "Cautionary Tale",
    "items": 1,
+   "ended": false
+  },
+  "SK4NCC": {
+   "msg": "1534048472033136690",
+   "end": 1785902400,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1495 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 4,
    "ended": false
   }
  },
