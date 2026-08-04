@@ -6389,7 +6389,7 @@
    "end": 1785822542,
    "title": "Daily Black Boxes #154",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "O3OP17": {
    "msg": "1533714961573085326",
@@ -7011,6 +7011,13 @@
    "msg": "1534073570391621792",
    "end": 1785907621,
    "title": "Day 57 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "0JT930": {
+   "msg": "1534076082251108522",
+   "end": 1785908761,
+   "title": "Day 52 of Asking for Mystery Raffles",
    "items": 1,
    "ended": false
   }
