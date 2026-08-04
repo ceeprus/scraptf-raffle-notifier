@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "2T0N24": {
-   "msg": "1531331724255166706",
-   "end": 1785254400,
-   "title": "Weekly  #70",
-   "items": 1,
-   "ended": true
-  },
-  "5WMQUC": {
-   "msg": "1531331732656361636",
-   "end": 1785254400,
-   "title": "Scrap.tf Birthdays - 27 July",
-   "items": 1,
-   "ended": true
-  },
   "G4I8D2": {
    "msg": "1531334267244646593",
    "end": 1785255181,
@@ -6312,21 +6298,21 @@
    "end": 1785859200,
    "title": "Weekly  #71",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0KAUY6": {
    "msg": "1533868480917409807",
    "end": 1785859200,
    "title": "Scrap Cookbook - Opinions",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TTON5V": {
    "msg": "1533868488354168853",
    "end": 1785859200,
    "title": "Scrap.tf Birthdays - 3 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "RT2G55": {
    "msg": "1533873464379707512",
