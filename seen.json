@@ -224,20 +224,6 @@
    "items": 5,
    "ended": true
   },
-  "XR1KID": {
-   "msg": "1531583424567967795",
-   "end": 1785271081,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JMDU5D": {
-   "msg": "1531583430524145716",
-   "end": 1785270962,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "JK3AYK": {
    "msg": "1531583447162687582",
    "end": 1785313981,
@@ -6858,6 +6844,20 @@
    "end": 1785961201,
    "title": "Equestria Forever",
    "items": 54,
+   "ended": false
+  },
+  "OW90F6": {
+   "msg": "1534300069212459130",
+   "end": 1785961862,
+   "title": "You thought this was just a scrap #190",
+   "items": 1,
+   "ended": false
+  },
+  "L84SW7": {
+   "msg": "1534300076065689672",
+   "end": 1785961681,
+   "title": "yeah join this raffle",
+   "items": 2,
    "ended": false
   }
  },
