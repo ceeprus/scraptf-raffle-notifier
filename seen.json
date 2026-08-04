@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "9AUPUT": {
-   "msg": "1531392112866885652",
-   "end": 1785268800,
-   "title": "A Refined a day keeps the doctor away! #20",
-   "items": 1,
-   "ended": true
-  },
   "CBW5WB": {
    "msg": "1531394675590692864",
    "end": 1785269282,
@@ -6277,7 +6270,7 @@
    "end": 1785873600,
    "title": "A Refined a day keeps the doctor away! #27",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RXAFW4": {
    "msg": "1533930157981564961",
@@ -6585,7 +6578,7 @@
    "end": 1785873602,
    "title": "Goog",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UGJMNQ": {
    "msg": "1534110070340583578",
