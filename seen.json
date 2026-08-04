@@ -42,13 +42,6 @@
    "items": 1,
    "ended": true
   },
-  "ZGAUVP": {
-   "msg": "1531297801177403502",
-   "end": 1785246002,
-   "title": "good morning everybody",
-   "items": 11,
-   "ended": true
-  },
   "WB7TWP": {
    "msg": "1531305341973827626",
    "end": 1785247921,
@@ -7005,6 +6998,20 @@
    "end": 1785936061,
    "title": "Raffle Log #91",
    "items": 8,
+   "ended": false
+  },
+  "RF0OG3": {
+   "msg": "1534194391491678299",
+   "end": 1785936781,
+   "title": "Cake Day!",
+   "items": 1,
+   "ended": false
+  },
+  "CROVVO": {
+   "msg": "1534194399561515249",
+   "end": 1785936601,
+   "title": "#17",
+   "items": 1,
    "ended": false
   }
  },
