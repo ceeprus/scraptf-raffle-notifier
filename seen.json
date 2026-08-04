@@ -6235,7 +6235,7 @@
    "end": 1785877802,
    "title": "Too much",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "Q4FOC3": {
    "msg": "1533946527528128615",
@@ -6844,6 +6844,20 @@
    "end": 1785962881,
    "title": "Graveyard Raffle (#1)",
    "items": 7,
+   "ended": false
+  },
+  "91YAV1": {
+   "msg": "1534307612936634379",
+   "end": 1785963721,
+   "title": "checkup #81 | Casual",
+   "items": 1,
+   "ended": false
+  },
+  "ZSC68I": {
+   "msg": "1534307622889718013",
+   "end": 1785963482,
+   "title": "11k raffles entered",
+   "items": 1,
    "ended": false
   }
  },
