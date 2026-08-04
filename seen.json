@@ -6410,7 +6410,7 @@
    "end": 1785835801,
    "title": "epic man funeral",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IWNZ2C": {
    "msg": "1533777869707415672",
@@ -7040,6 +7040,13 @@
    "end": 1785921301,
    "title": "I just raffled some bulllshiiiiit....",
    "items": 124,
+   "ended": false
+  },
+  "5PLBJW": {
+   "msg": "1534131500205998160",
+   "end": 1785921781,
+   "title": "MvM update",
+   "items": 1,
    "ended": false
   }
  },
