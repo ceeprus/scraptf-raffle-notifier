@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "R5V0A3": {
-   "msg": "1531363234152579162",
-   "end": 1785261902,
-   "title": "You thought this was just a scrap #189",
-   "items": 1,
-   "ended": true
-  },
   "JMNBKD": {
    "msg": "1531366949794091038",
    "end": 1785262561,
@@ -453,13 +446,6 @@
    "end": 1785325021,
    "title": "Daily Black Boxes #151",
    "items": 10,
-   "ended": true
-  },
-  "OTYEL0": {
-   "msg": "1531634985180594187",
-   "end": 1785261661,
-   "title": "Bruh , i  like this ringing this is my first raffle ;) :) :)  :) :)  !         I am happy",
-   "items": 1,
    "ended": true
   },
   "HTMS48": {
@@ -6921,6 +6907,13 @@
    "end": 1785950642,
    "title": "meow",
    "items": 1,
+   "ended": false
+  },
+  "IH3R97": {
+   "msg": "1534261036809715793",
+   "end": 1785952861,
+   "title": "Do you also miss the old days?",
+   "items": 8,
    "ended": false
   }
  },
