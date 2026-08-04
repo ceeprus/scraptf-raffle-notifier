@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "ZFH35Q": {
-   "msg": "1531418570238722181",
-   "end": 1785275161,
-   "title": "80 tours, no Australiums",
-   "items": 5,
-   "ended": true
-  },
   "UW1OZT": {
    "msg": "1531423601666953236",
    "end": 1785276481,
@@ -6872,6 +6865,13 @@
    "end": 1785900241,
    "title": "Hate on Legendary Alien",
    "items": 1,
+   "ended": false
+  },
+  "FTBC3U": {
+   "msg": "1534317705551806605",
+   "end": 1785901201,
+   "title": "Appreciate RedBaron",
+   "items": 4,
    "ended": false
   }
  },
