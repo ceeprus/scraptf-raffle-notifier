@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "DK3SDX": {
-   "msg": "1531408495859990658",
-   "end": 1785272401,
-   "title": "Someones birthday",
-   "items": 3,
-   "ended": true
-  },
-  "JQ48OG": {
-   "msg": "1531408502386589719",
-   "end": 1785272400,
-   "title": "checkup #73 | Reminder that the word \"TIP\" disables tipping when making a raffle",
-   "items": 1,
-   "ended": true
-  },
   "G71DHW": {
    "msg": "1531413620154437703",
    "end": 1785273602,
@@ -6844,6 +6830,20 @@
    "end": 1785961681,
    "title": "yeah join this raffle",
    "items": 2,
+   "ended": false
+  },
+  "7WP1DD": {
+   "msg": "1534305234719866981",
+   "end": 1785898502,
+   "title": "Hey guys! It's me, a new flower-y!",
+   "items": 6,
+   "ended": false
+  },
+  "WTG83B": {
+   "msg": "1534305243112673444",
+   "end": 1785962881,
+   "title": "Graveyard Raffle (#1)",
+   "items": 7,
    "ended": false
   }
  },
