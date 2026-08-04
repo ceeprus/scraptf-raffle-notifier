@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "UKHGMQ": {
-   "msg": "1531256225805766726",
-   "end": 1785236400,
-   "title": "Sigh...this beagle.",
-   "items": 1,
-   "ended": true
-  },
   "6085EZ": {
    "msg": "1531258764337086474",
    "end": 1785236581,
@@ -6403,7 +6396,7 @@
    "end": 1785841200,
    "title": "FRAUD!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JY2D30": {
    "msg": "1533804324050698260",
