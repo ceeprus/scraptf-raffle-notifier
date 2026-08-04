@@ -567,13 +567,6 @@
    "items": 1,
    "ended": true
   },
-  "JO40X7": {
-   "msg": "1531684041521107094",
-   "end": 1785255421,
-   "title": "another raffle",
-   "items": 1,
-   "ended": true
-  },
   "C3LX5Y": {
    "msg": "1531686570170519592",
    "end": 1785339000,
@@ -6312,7 +6305,7 @@
    "end": 1785860281,
    "title": "I won my second raffle",
    "items": 47,
-   "ended": false
+   "ended": true
   },
   "1QXP0R": {
    "msg": "1533876010343334029",
