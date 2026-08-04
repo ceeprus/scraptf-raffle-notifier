@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "RAYT8J": {
-   "msg": "1531372011920691211",
-   "end": 1785264062,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "USR5QI": {
    "msg": "1531377021098397718",
    "end": 1785265202,
@@ -6907,6 +6900,13 @@
    "end": 1785954362,
    "title": "Item unclaimed, returned to raffler",
    "items": 1,
+   "ended": false
+  },
+  "OFMDAN": {
+   "msg": "1534271130540703906",
+   "end": 1785955021,
+   "title": "Daily raffle until TF2 gets a major update #581",
+   "items": 3,
    "ended": false
   }
  },
