@@ -6620,7 +6620,7 @@
    "end": 1785867902,
    "title": "Medic is sniper!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RB4J6G": {
    "msg": "1534087411909525646",
@@ -6900,6 +6900,13 @@
    "end": 1785952861,
    "title": "Do you also miss the old days?",
    "items": 8,
+   "ended": false
+  },
+  "06I682": {
+   "msg": "1534266091864457248",
+   "end": 1785953521,
+   "title": "Daily Brass Beast #528",
+   "items": 1,
    "ended": false
   }
  },
