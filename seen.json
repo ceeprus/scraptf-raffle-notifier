@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "IPGVT2": {
-   "msg": "1531271314113826916",
-   "end": 1785240000,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "421BWK": {
    "msg": "1531280153802575893",
    "end": 1785241922,
@@ -6389,7 +6382,7 @@
    "end": 1785844800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8KYP8V": {
    "msg": "1533814424064753724",
@@ -6921,7 +6914,7 @@
    "end": 1785844621,
    "title": "Begging for tips",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EP0Z3X": {
    "msg": "1534110076841754684",
