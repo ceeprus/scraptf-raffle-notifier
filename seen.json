@@ -6242,14 +6242,14 @@
    "end": 1785885361,
    "title": "Getting Down To It #60",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UFLVGD": {
    "msg": "1533977948544172194",
    "end": 1785885361,
    "title": "I'M OLD!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IVI0NN": {
    "msg": "1533977955238416464",
@@ -6865,7 +6865,7 @@
    "end": 1785885361,
    "title": "Hi guys ;]",
    "items": 1,
-   "ended": false
+   "ended": true
   }
  },
  "megaraffle": {
