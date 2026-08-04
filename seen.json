@@ -6284,7 +6284,7 @@
    "end": 1785871141,
    "title": "first raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CV6W6G": {
    "msg": "1533920129661014046",
@@ -6886,7 +6886,7 @@
    "end": 1785871141,
    "title": "just scrap",
    "items": 1,
-   "ended": false
+   "ended": true
   }
  },
  "megaraffle": {
