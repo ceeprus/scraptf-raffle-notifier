@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "FR4211": {
-   "msg": "1531436287511363674",
-   "end": 1785279600,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "VXU9TJ": {
    "msg": "1531443790668234866",
    "end": 1785281401,
@@ -6242,7 +6235,7 @@
    "end": 1785884400,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GD5PJC": {
    "msg": "1533977942059913437",
