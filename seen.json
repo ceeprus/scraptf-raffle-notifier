@@ -28,20 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "Y2W1Y7": {
-   "msg": "1531297772555472917",
-   "end": 1785246541,
-   "title": "Bigu Helmetu",
-   "items": 1,
-   "ended": true
-  },
-  "EH6BJJ": {
-   "msg": "1531297789106065640",
-   "end": 1785246362,
-   "title": "Question",
-   "items": 1,
-   "ended": true
-  },
   "WB7TWP": {
    "msg": "1531305341973827626",
    "end": 1785247921,
@@ -7012,6 +6998,13 @@
    "end": 1785936601,
    "title": "#17",
    "items": 1,
+   "ended": false
+  },
+  "GS1WUJ": {
+   "msg": "1534196762385059982",
+   "end": 1785893881,
+   "title": "100 entered raffles and havent won once.",
+   "items": 39,
    "ended": false
   }
  },
