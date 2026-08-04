@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "XMLNX2": {
-   "msg": "1531292812497260606",
-   "end": 1785244741,
-   "title": "rookie mistake :p",
-   "items": 6,
-   "ended": true
-  },
   "Y2W1Y7": {
    "msg": "1531297772555472917",
    "end": 1785246541,
@@ -6991,7 +6984,7 @@
    "end": 1785849601,
    "title": "GAAZ",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FE1XYI": {
    "msg": "1534185548468588665",
