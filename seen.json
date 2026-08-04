@@ -392,13 +392,6 @@
    "items": 4,
    "ended": true
   },
-  "RGYY09": {
-   "msg": "1531387114023817326",
-   "end": 1785224282,
-   "title": "Y'all should enter cuz eyelander.",
-   "items": 1,
-   "ended": true
-  },
   "OSOE7A": {
    "msg": "1531389626244137143",
    "end": 1785268021,
@@ -6718,7 +6711,7 @@
    "end": 1785829081,
    "title": "Question",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "W1BUS5": {
    "msg": "1533927684906942504",
