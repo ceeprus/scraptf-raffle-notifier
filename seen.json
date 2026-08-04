@@ -6256,7 +6256,7 @@
    "end": 1785885121,
    "title": "Getting Down To It #59",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LKX087": {
    "msg": "1533977961638789232",
@@ -6857,6 +6857,13 @@
    "msg": "1534336544226152538",
    "end": 1785970800,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "UDUV8J": {
+   "msg": "1534339057885249536",
+   "end": 1785885361,
+   "title": "Hi guys ;]",
    "items": 1,
    "ended": false
   }
