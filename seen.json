@@ -28,13 +28,6 @@
    "items": 6,
    "ended": false
   },
-  "FJZZTH": {
-   "msg": "1531239974664540244",
-   "end": 1785232800,
-   "title": "Gifted Chargin' Targe #5",
-   "items": 1,
-   "ended": true
-  },
   "0UUZ6D": {
    "msg": "1531251214661058600",
    "end": 1785235141,
@@ -6410,7 +6403,7 @@
    "end": 1785837600,
    "title": "Gifted Soda Popper",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2FL2O9": {
    "msg": "1533777876216971278",
