@@ -35,13 +35,6 @@
    "items": 3,
    "ended": true
   },
-  "R12X4N": {
-   "msg": "1531316624408449245",
-   "end": 1785250802,
-   "title": "We're on Broadway",
-   "items": 1,
-   "ended": true
-  },
   "P0SHAN": {
    "msg": "1531319196150009928",
    "end": null,
@@ -6347,7 +6340,7 @@
    "end": 1785855601,
    "title": "All Class Hat Addiction",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "XKIIFC": {
    "msg": "1533860900170104933",
