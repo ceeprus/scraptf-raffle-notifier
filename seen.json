@@ -6452,7 +6452,7 @@
    "end": 1785814562,
    "title": "i gotta stop playing mvm pt.7",
    "items": 28,
-   "ended": false
+   "ended": true
   },
   "1FEPZX": {
    "msg": "1533683508248055808",
@@ -7089,6 +7089,13 @@
    "end": 1785899701,
    "title": "My first Creating a raffle :)",
    "items": 2,
+   "ended": false
+  },
+  "5VJ7M7": {
+   "msg": "1534043388247146537",
+   "end": 1785900962,
+   "title": "Caf\u00e9 Crit-A-Coffee #1748",
+   "items": 10,
    "ended": false
   }
  },
