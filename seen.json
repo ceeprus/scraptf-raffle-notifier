@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "98LSOK": {
-   "msg": "1531794824066240662",
-   "end": 1785364862,
-   "title": "\u0423 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c \u0432\u043e\u043f\u0440\u043e\u0441\ud83e\udd14",
-   "items": 1,
-   "ended": true
-  },
   "8YNTBE": {
    "msg": "1531797315730407424",
    "end": 1785365341,
@@ -61,13 +54,6 @@
    "end": 1785365161,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #\u221e \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 28,
-   "ended": true
-  },
-  "10ZKFJ": {
-   "msg": "1531797338761465976",
-   "end": 1785364981,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "EZCPAR": {
@@ -6711,7 +6697,7 @@
    "end": 1785969661,
    "title": "How fast?",
    "items": 1,
-   "ended": false
+   "ended": true
   }
  },
  "megaraffle": {
