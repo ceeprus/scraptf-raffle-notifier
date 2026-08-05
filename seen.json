@@ -5997,7 +5997,7 @@
    "end": 1785959581,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #1.5",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "2CH787": {
    "msg": "1534291245105545357",
@@ -6760,6 +6760,27 @@
    "end": 1786043402,
    "title": "Moving On :D",
    "items": 3,
+   "ended": false
+  },
+  "1IFREX": {
+   "msg": "1534651114224353502",
+   "end": 1785966721,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3FGSAX": {
+   "msg": "1534651126765322291",
+   "end": 1786045741,
+   "title": "Tour 301-302-303",
+   "items": 15,
+   "ended": false
+  },
+  "3LYGD0": {
+   "msg": "1534651133103177739",
+   "end": 1786002302,
+   "title": "Getting Down To It #61",
+   "items": 1,
    "ended": false
   }
  },
