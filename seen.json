@@ -707,13 +707,6 @@
    "items": 6,
    "ended": true
   },
-  "NATYY6": {
-   "msg": "1531804833386991827",
-   "end": 1785302461,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "6JHR6W": {
    "msg": "1531804841075015812",
    "end": 1785366961,
@@ -6249,7 +6242,7 @@
    "end": 1785907381,
    "title": "Mega expensive raffle!",
    "items": 115,
-   "ended": false
+   "ended": true
   },
   "ONEFMS": {
    "msg": "1534073570391621792",
@@ -6802,6 +6795,13 @@
    "end": 1785988800,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1496 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 5,
+   "ended": false
+  },
+  "H5YB2D": {
+   "msg": "1534432148675629076",
+   "end": 1785993301,
+   "title": "today is my scrappiversary",
+   "items": 4,
    "ended": false
   }
  },
