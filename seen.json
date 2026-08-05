@@ -42,13 +42,6 @@
    "items": 3,
    "ended": true
   },
-  "8Z5XHQ": {
-   "msg": "1531730691891396861",
-   "end": 1785349201,
-   "title": "Pick My Custom Title - Tournament Preface",
-   "items": 3,
-   "ended": true
-  },
   "KX7CPU": {
    "msg": "1531733179029782649",
    "end": 1785349742,
@@ -984,13 +977,6 @@
    "msg": "1532059057203183626",
    "end": 1785427741,
    "title": "Scrap.tf Birthdays - 29 July",
-   "items": 1,
-   "ended": true
-  },
-  "U1UA29": {
-   "msg": "1532061570245460128",
-   "end": 1785349081,
-   "title": "Getting down to it #45",
    "items": 1,
    "ended": true
   },
@@ -6823,6 +6809,13 @@
    "end": 1786039261,
    "title": "\u0425\u043e\u0447\u0443 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0432\u043e\u0434",
    "items": 1,
+   "ended": false
+  },
+  "NF7HHP": {
+   "msg": "1534627245321355434",
+   "end": 1786040101,
+   "title": "Pick My Custom Title - Finale",
+   "items": 3,
    "ended": false
   }
  },
