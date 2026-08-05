@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "GTUN55": {
-   "msg": "1531585877502066709",
-   "end": 1785314881,
-   "title": "How do I complete contracts?",
-   "items": 4,
-   "ended": true
-  },
   "KLHJXA": {
    "msg": "1531588421850632282",
    "end": 1785315600,
@@ -378,25 +371,11 @@
    "items": 1,
    "ended": true
   },
-  "42JXL4": {
-   "msg": "1531768481178194122",
-   "end": 1785315001,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "WGSVKF": {
    "msg": "1531768491680727202",
    "end": 1785358141,
    "title": "Ten Noise One Winner",
    "items": 10,
-   "ended": true
-  },
-  "XBRIJW": {
-   "msg": "1531768499075026944",
-   "end": 1785314821,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "VKSULN": {
@@ -6186,7 +6165,7 @@
    "end": 1785919742,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BC3QUL": {
    "msg": "1534128330654351481",
