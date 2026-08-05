@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "PDHQP4": {
-   "msg": "1531650120880361705",
-   "end": 1785330000,
-   "title": "Top Gear Tuesday: Undercover Americans",
-   "items": 1,
-   "ended": true
-  },
   "CU4VF0": {
    "msg": "1531652602788446320",
    "end": 1785331021,
@@ -6116,14 +6109,14 @@
    "end": 1785934801,
    "title": "Random Appearence",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CCNA2V": {
    "msg": "1534185555401904252",
    "end": 1785934800,
    "title": "Top Gear Tuesday: Hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IV7GDT": {
    "msg": "1534191917804294358",
