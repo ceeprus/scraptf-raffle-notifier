@@ -6249,7 +6249,7 @@
    "end": 1785898981,
    "title": "First ever raffle!",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "2ASNBJ": {
    "msg": "1534038353429794886",
@@ -6809,6 +6809,13 @@
    "end": 1785941402,
    "title": "Raffling Scrap Till I'm Out #994 (Bleh)",
    "items": 1,
+   "ended": false
+  },
+  "ZPI8X5": {
+   "msg": "1534396920498229429",
+   "end": 1785985081,
+   "title": "((Somewhat)) Saying Goodbye to Team Fortress 2 ((For real this time)) (((Part 2)))",
+   "items": 152,
    "ended": false
   }
  },
