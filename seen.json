@@ -6515,7 +6515,7 @@
    "end": 1785951421,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P446P8": {
    "msg": "1534526558612492358",
@@ -6809,6 +6809,13 @@
    "end": 1786035600,
    "title": "Reduce",
    "items": 4,
+   "ended": false
+  },
+  "NXB6NK": {
+   "msg": "1534617149015064828",
+   "end": 1785953041,
+   "title": "Untitled raffle",
+   "items": 7,
    "ended": false
   }
  },
