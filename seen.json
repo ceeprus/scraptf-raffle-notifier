@@ -6263,7 +6263,7 @@
    "end": 1785901500,
    "title": "Cautionary Tale",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SK4NCC": {
    "msg": "1534048472033136690",
@@ -6816,6 +6816,13 @@
    "end": 1785985501,
    "title": "Untitled raffle",
    "items": 20,
+   "ended": false
+  },
+  "ZQPMZW": {
+   "msg": "1534407010190233684",
+   "end": 1785987900,
+   "title": "Lost Things",
+   "items": 1,
    "ended": false
   }
  },
