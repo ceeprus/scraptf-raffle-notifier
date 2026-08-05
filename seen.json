@@ -6095,7 +6095,7 @@
    "end": 1785948001,
    "title": "For The Trolldier Players",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "85PJ2O": {
    "msg": "1534247227407597668",
@@ -6823,6 +6823,13 @@
    "end": 1785961081,
    "title": "Been a while since I last made a raffle.",
    "items": 4,
+   "ended": false
+  },
+  "PA9L6B": {
+   "msg": "1534602088263319632",
+   "end": 1786033800,
+   "title": "It came to me in a dream",
+   "items": 3,
    "ended": false
   }
  },
