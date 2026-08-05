@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "965X8K": {
-   "msg": "1531710496590397580",
-   "end": 1785344400,
-   "title": "nobody",
-   "items": 1,
-   "ended": true
-  },
-  "WOH4JZ": {
-   "msg": "1531710504404516914",
-   "end": 1785344400,
-   "title": "Daily raffle until TF2 gets a major update #574",
-   "items": 3,
-   "ended": true
-  },
   "CGLOCD": {
    "msg": "1531713051504676875",
    "end": 1785345001,
@@ -6102,7 +6088,7 @@
    "end": 1785949200,
    "title": "sum bullshit",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DZDJT2": {
    "msg": "1534249773618430013",
@@ -6830,6 +6816,13 @@
    "end": 1785962221,
    "title": "Hello, how are you?",
    "items": 11,
+   "ended": false
+  },
+  "0QCIEB": {
+   "msg": "1534607185005514772",
+   "end": 1786034881,
+   "title": "I am bad with titles #139",
+   "items": 1,
    "ended": false
   }
  },
