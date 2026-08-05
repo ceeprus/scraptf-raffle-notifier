@@ -6747,6 +6747,20 @@
    "title": "Well, there is a raffle here.",
    "items": 12,
    "ended": true
+  },
+  "RYP987": {
+   "msg": "1534478789000691752",
+   "end": 1786004641,
+   "title": "Let's go",
+   "items": 1,
+   "ended": false
+  },
+  "V34XU3": {
+   "msg": "1534478795166187521",
+   "end": 1785921721,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
   }
  },
  "megaraffle": {
