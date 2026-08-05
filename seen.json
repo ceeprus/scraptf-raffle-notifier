@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "TW6MW2": {
-   "msg": "1531689095879721012",
-   "end": 1785339661,
-   "title": "Daily raffle #318",
-   "items": 1,
-   "ended": true
-  },
   "EKZFME": {
    "msg": "1531694133461258360",
    "end": 1785340561,
@@ -6822,6 +6815,13 @@
    "msg": "1534585701805326537",
    "end": 1786030200,
    "title": "The Favorites of Music #267 & #268",
+   "items": 1,
+   "ended": false
+  },
+  "73N73D": {
+   "msg": "1534588205364547739",
+   "end": 1786030562,
+   "title": "My HONEST feelings about scrap users #7 [10 users, 9 actually i lied to you haha]",
    "items": 1,
    "ended": false
   }
