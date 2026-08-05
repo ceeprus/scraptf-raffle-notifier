@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "CGLOCD": {
-   "msg": "1531713051504676875",
-   "end": 1785345001,
-   "title": "Raffle number 13!",
-   "items": 3,
-   "ended": true
-  },
   "LZ29VY": {
    "msg": "1531715575162736761",
    "end": 1785346020,
@@ -6081,7 +6074,7 @@
    "end": 1785949561,
    "title": "my name is Giorno Giovanna and i have a dream",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WXHA1G": {
    "msg": "1534247234609221722",
@@ -6823,6 +6816,20 @@
    "end": 1786034881,
    "title": "I am bad with titles #139",
    "items": 1,
+   "ended": false
+  },
+  "5EVTMM": {
+   "msg": "1534609619224363119",
+   "end": 1786035600,
+   "title": "Daily raffle until TF2 gets a major update #582",
+   "items": 3,
+   "ended": false
+  },
+  "2WXBDH": {
+   "msg": "1534609628405563516",
+   "end": 1786035600,
+   "title": "Reduce",
+   "items": 4,
    "ended": false
   }
  },
