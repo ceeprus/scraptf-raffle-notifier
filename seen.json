@@ -574,13 +574,6 @@
    "items": 1,
    "ended": true
   },
-  "LFAFSB": {
-   "msg": "1531773419815698604",
-   "end": 1785294721,
-   "title": "What does the  say?",
-   "items": 1,
-   "ended": true
-  },
   "BGR1P2": {
    "msg": "1531773426920984696",
    "end": 1785316262,
@@ -6256,7 +6249,7 @@
    "end": 1785899701,
    "title": "My first Creating a raffle :)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5VJ7M7": {
    "msg": "1534043388247146537",
@@ -6816,6 +6809,13 @@
    "end": 1785985081,
    "title": "((Somewhat)) Saying Goodbye to Team Fortress 2 ((For real this time)) (((Part 2)))",
    "items": 152,
+   "ended": false
+  },
+  "9S7OPQ": {
+   "msg": "1534399497831055502",
+   "end": 1785985501,
+   "title": "Untitled raffle",
+   "items": 20,
    "ended": false
   }
  },
