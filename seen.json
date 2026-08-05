@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "HTMS48": {
-   "msg": "1531634992247996476",
-   "end": 1785326400,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "EUWRXM": {
    "msg": "1531644571425964072",
    "end": 1785328802,
@@ -6116,7 +6109,7 @@
    "end": 1785931200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DMZ9CV": {
    "msg": "1534173000637743208",
@@ -6696,6 +6689,27 @@
    "msg": "1534526558612492358",
    "end": 1786015922,
    "title": "All Class Hat #3",
+   "items": 1,
+   "ended": false
+  },
+  "DOKDLN": {
+   "msg": "1534531662287995035",
+   "end": 1786017600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "L34S4N": {
+   "msg": "1534531669388689482",
+   "end": 1785938282,
+   "title": "Just Shield",
+   "items": 1,
+   "ended": false
+  },
+  "23WTDD": {
+   "msg": "1534531676418478263",
+   "end": 1786017241,
+   "title": "Daily Brass Beast #529",
    "items": 1,
    "ended": false
   }
