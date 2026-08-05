@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "09OZ9K": {
-   "msg": "1531477714916085871",
-   "end": 1785289021,
-   "title": "Al fin me gradu\u00e9 de la universidad",
-   "items": 10,
-   "ended": true
-  },
   "986W24": {
    "msg": "1531481561600491592",
    "end": 1785289742,
@@ -6564,7 +6557,7 @@
    "end": 1785893881,
    "title": "100 entered raffles and havent won once.",
    "items": 39,
-   "ended": false
+   "ended": true
   },
   "SIUT1E": {
    "msg": "1534201940655865886",
