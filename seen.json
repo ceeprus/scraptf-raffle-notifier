@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "DLH6TN": {
-   "msg": "1531754526497833082",
-   "end": 1785355200,
-   "title": "A Refined a day keeps the doctor away! #21",
-   "items": 1,
-   "ended": true
-  },
-  "7EHN0A": {
-   "msg": "1531754540217667674",
-   "end": 1785355082,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "ERJAKV": {
    "msg": "1531759542868639807",
    "end": 1785356642,
@@ -6004,14 +5990,14 @@
    "end": 1785960000,
    "title": "A Refined a day keeps the doctor away! #28",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "008I1H": {
    "msg": "1534291251585618034",
    "end": 1785959762,
    "title": "Come in",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RDHXGO": {
    "msg": "1534297639963726024",
