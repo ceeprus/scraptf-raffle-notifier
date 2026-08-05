@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "TZFSAP": {
-   "msg": "1531455044883447878",
-   "end": 1785283321,
-   "title": "furnace of moneeeee guys!!!~",
-   "items": 1,
-   "ended": true
-  },
   "PP1WSY": {
    "msg": "1531465111909175326",
    "end": 1785286021,
@@ -6270,7 +6263,7 @@
    "end": 1785888121,
    "title": "To the Frying Pan again !!!!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "413H29": {
    "msg": "1534004332108841050",
