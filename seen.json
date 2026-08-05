@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "WGSVKF": {
-   "msg": "1531768491680727202",
-   "end": 1785358141,
-   "title": "Ten Noise One Winner",
-   "items": 10,
-   "ended": true
-  },
-  "VKSULN": {
-   "msg": "1531768510017966083",
-   "end": 1785358021,
-   "title": "Untitled raffle",
-   "items": 10,
-   "ended": true
-  },
   "RTKGG6": {
    "msg": "1531770078561833141",
    "end": 1785359102,
@@ -6011,7 +5997,7 @@
    "end": 1785962881,
    "title": "Graveyard Raffle (#1)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "91YAV1": {
    "msg": "1534307612936634379",
