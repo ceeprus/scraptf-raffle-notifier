@@ -6256,7 +6256,7 @@
    "end": 1785900962,
    "title": "Caf\u00e9 Crit-A-Coffee #1748",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "ANOCN3": {
    "msg": "1534045916124807208",
@@ -6732,7 +6732,7 @@
    "end": 1785901201,
    "title": "Appreciate RedBaron",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "GVOLJP": {
    "msg": "1534327791980384307",
