@@ -42,13 +42,6 @@
    "items": 1,
    "ended": true
   },
-  "X9QRQC": {
-   "msg": "1531786000626618509",
-   "end": 1785362400,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "NC1QEE": {
    "msg": "1531788529296740364",
    "end": 1785363602,
@@ -6731,6 +6724,13 @@
    "msg": "1534680113096953876",
    "end": 1786052341,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #2",
+   "items": 3,
+   "ended": false
+  },
+  "UFO4W1": {
+   "msg": "1534682664756318458",
+   "end": 1786053302,
+   "title": "FREE steam game: Moonlighter",
    "items": 3,
    "ended": false
   }
