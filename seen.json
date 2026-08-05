@@ -441,13 +441,6 @@
    "items": 1,
    "ended": true
   },
-  "JMF9S6": {
-   "msg": "1531791065089052883",
-   "end": 1785321001,
-   "title": "Random Item",
-   "items": 1,
-   "ended": true
-  },
   "KVG8XS": {
    "msg": "1531791074224377987",
    "end": 1785364201,
@@ -6172,7 +6165,7 @@
    "end": 1785925741,
    "title": "Grabli304's raffle\u2503Day 156",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5O5B6V": {
    "msg": "1534156615975047319",
