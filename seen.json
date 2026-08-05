@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "6QO34O": {
-   "msg": "1531562021022335086",
-   "end": 1785309002,
-   "title": "26th aussie",
-   "items": 5,
-   "ended": true
-  },
   "JK3AYK": {
    "msg": "1531583447162687582",
    "end": 1785313981,
@@ -6193,7 +6186,7 @@
    "end": 1785913742,
    "title": "Day 23 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TEIVI3": {
    "msg": "1534105008080162867",
@@ -6760,6 +6753,27 @@
    "end": 1785998761,
    "title": "Random Question #36 + Cat Pic #5 (Serverblight)",
    "items": 1,
+   "ended": false
+  },
+  "2GONIW": {
+   "msg": "1534458630487805953",
+   "end": 1785935161,
+   "title": "Hey, sorry to keep ladies and gentleman waiting!",
+   "items": 6,
+   "ended": false
+  },
+  "0U8HU1": {
+   "msg": "1534458642227658763",
+   "end": 1785956400,
+   "title": "It is",
+   "items": 10,
+   "ended": false
+  },
+  "7RWE8M": {
+   "msg": "1534458655921934416",
+   "end": 1785999481,
+   "title": "Day 24 Of \"Bad\" Weapon",
+   "items": 2,
    "ended": false
   }
  },
