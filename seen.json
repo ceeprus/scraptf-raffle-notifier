@@ -861,13 +861,6 @@
    "items": 1,
    "ended": true
   },
-  "6J4EU5": {
-   "msg": "1531826260567916696",
-   "end": 1785300061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "TJ0FYD": {
    "msg": "1531831276502384723",
    "end": 1785373262,
@@ -6529,7 +6522,7 @@
    "end": 1785904922,
    "title": "What's your average raffles-to-wins ratio?",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "154IN7": {
    "msg": "1534242193424781473",
