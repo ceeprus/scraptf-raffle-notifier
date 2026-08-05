@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "5PXWEP": {
-   "msg": "1531723153049649354",
-   "end": 1785347821,
-   "title": "my name is Giorno Giovanna and i have a dream",
-   "items": 1,
-   "ended": true
-  },
   "55KMJP": {
    "msg": "1531730684295647404",
    "end": 1785349501,
@@ -6081,7 +6074,7 @@
    "end": 1785952861,
    "title": "Do you also miss the old days?",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "06I682": {
    "msg": "1534266091864457248",
@@ -6816,6 +6809,13 @@
    "end": 1785953041,
    "title": "Untitled raffle",
    "items": 7,
+   "ended": false
+  },
+  "XST5G3": {
+   "msg": "1534622274726924348",
+   "end": 1786038781,
+   "title": "redraw my old draw",
+   "items": 1,
    "ended": false
   }
  },
