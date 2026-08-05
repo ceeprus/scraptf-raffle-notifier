@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "KVG8XS": {
-   "msg": "1531791074224377987",
-   "end": 1785364201,
-   "title": "interesting number",
-   "items": 2,
-   "ended": true
-  },
   "98LSOK": {
    "msg": "1531794824066240662",
    "end": 1785364862,
@@ -6725,6 +6718,20 @@
    "end": 1786053841,
    "title": "Be kind #5",
    "items": 5,
+   "ended": false
+  },
+  "PAOE21": {
+   "msg": "1534690164343836804",
+   "end": 1786055042,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4K0LW8": {
+   "msg": "1534690170614583306",
+   "end": 1786054681,
+   "title": "Birfhday!!",
+   "items": 1,
    "ended": false
   }
  },
