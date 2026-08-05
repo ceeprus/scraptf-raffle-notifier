@@ -6683,7 +6683,7 @@
    "end": 1785898502,
    "title": "Hey guys! It's me, a new flower-y!",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "WTG83B": {
    "msg": "1534305243112673444",
@@ -6802,6 +6802,13 @@
    "end": 1785983941,
    "title": "Graveyard Raffle (#2)",
    "items": 7,
+   "ended": false
+  },
+  "E0IMVQ": {
+   "msg": "1534394399340101833",
+   "end": 1785941402,
+   "title": "Raffling Scrap Till I'm Out #994 (Bleh)",
+   "items": 1,
    "ended": false
   }
  },
