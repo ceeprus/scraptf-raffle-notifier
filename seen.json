@@ -6263,7 +6263,7 @@
    "end": 1785902882,
    "title": "CN#263",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U95JHZ": {
    "msg": "1534071121136058598",
@@ -6816,6 +6816,13 @@
    "end": 1785988022,
    "title": "Caf\u00e9 Crit-A-Coffee #1749",
    "items": 10,
+   "ended": false
+  },
+  "JX8N2K": {
+   "msg": "1534413316749918240",
+   "end": 1785988800,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1496 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 5,
    "ended": false
   }
  },
