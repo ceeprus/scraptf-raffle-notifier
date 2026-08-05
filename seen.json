@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "4RM6W8": {
-   "msg": "1531700464784244767",
-   "end": 1785341941,
-   "title": "Weapon of the Prime Soul #8",
-   "items": 1,
-   "ended": true
-  },
   "CHOUKC": {
    "msg": "1531702940220260353",
    "end": 1785342482,
@@ -6102,7 +6095,7 @@
    "end": 1785946802,
    "title": "Make some noise",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "UU0OCE": {
    "msg": "1534242186063904838",
@@ -6823,6 +6816,20 @@
    "end": 1786032000,
    "title": "Scrap.tf Birthdays - 5 August",
    "items": 3,
+   "ended": false
+  },
+  "K8G0L9": {
+   "msg": "1534597045053165729",
+   "end": 1786032841,
+   "title": "Mi primer video de Tf2",
+   "items": 1,
+   "ended": false
+  },
+  "R85G4X": {
+   "msg": "1534597052909096990",
+   "end": 1786032781,
+   "title": "Your Fate.",
+   "items": 1,
    "ended": false
   }
  },
