@@ -770,13 +770,6 @@
    "items": 1,
    "ended": true
   },
-  "XKB8WA": {
-   "msg": "1531998644893646888",
-   "end": 1785348602,
-   "title": "Steak Dinner",
-   "items": 3,
-   "ended": true
-  },
   "ZC7AZS": {
    "msg": "1532001165720551494",
    "end": 1785413702,
@@ -6815,6 +6808,20 @@
    "msg": "1534622274726924348",
    "end": 1786038781,
    "title": "redraw my old draw",
+   "items": 1,
+   "ended": false
+  },
+  "NUQ7M6": {
+   "msg": "1534624750427570443",
+   "end": 1786039741,
+   "title": "Free game! #59 - Moonlighter",
+   "items": 2,
+   "ended": false
+  },
+  "WISG46": {
+   "msg": "1534624757528399912",
+   "end": 1786039261,
+   "title": "\u0425\u043e\u0447\u0443 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0432\u043e\u0434",
    "items": 1,
    "ended": false
   }
