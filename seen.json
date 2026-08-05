@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "0MHX5R": {
-   "msg": "1531595976614084729",
-   "end": 1785317042,
-   "title": "My HONEST feelings about scrap users #4 [justanormal.... ]",
-   "items": 1,
-   "ended": true
-  },
   "K4JU66": {
    "msg": "1531606070144008263",
    "end": 1785319381,
@@ -6158,7 +6151,7 @@
    "end": 1785921781,
    "title": "MvM update",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SR95SH": {
    "msg": "1534133956641820756",
@@ -6704,7 +6697,7 @@
    "end": 1785921721,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   }
  },
  "megaraffle": {
