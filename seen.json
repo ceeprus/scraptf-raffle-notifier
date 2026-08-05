@@ -721,20 +721,6 @@
    "items": 14,
    "ended": true
   },
-  "NG9312": {
-   "msg": "1531807374380372029",
-   "end": 1785302881,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "RTR6AR": {
-   "msg": "1531807381011431475",
-   "end": 1785302761,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "RKIQDC": {
    "msg": "1531813759385862235",
    "end": 1785304434,
@@ -6249,7 +6235,7 @@
    "end": 1785907621,
    "title": "Day 57 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0JT930": {
    "msg": "1534076082251108522",
