@@ -6053,7 +6053,7 @@
    "end": 1785955021,
    "title": "Daily raffle until TF2 gets a major update #581",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "UQLXPI": {
    "msg": "1534273639560646657",
@@ -6809,6 +6809,20 @@
    "end": 1786040761,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "N3K0OP": {
+   "msg": "1534632294600671262",
+   "end": 1786041601,
+   "title": "hi",
+   "items": 1,
+   "ended": false
+  },
+  "63DXOG": {
+   "msg": "1534632302125121677",
+   "end": 1785956461,
+   "title": "Untitled raffle",
+   "items": 10,
    "ended": false
   }
  },
