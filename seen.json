@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "6VTRSY": {
-   "msg": "1531467612729512148",
-   "end": 1785286800,
-   "title": "Reminder to eat n' drink water if ye haven't yet #259",
-   "items": 5,
-   "ended": true
-  },
-  "9GUA8X": {
-   "msg": "1531467633046585445",
-   "end": 1785286561,
-   "title": "im bored",
-   "items": 50,
-   "ended": true
-  },
   "09OZ9K": {
    "msg": "1531477714916085871",
    "end": 1785289021,
@@ -6249,14 +6235,14 @@
    "end": 1785891600,
    "title": "Reminder to eat n' drink water if ye haven't yet #263",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "AZ4WJZ": {
    "msg": "1534004338974785768",
    "end": 1785891422,
    "title": "I miss making raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "231Z0R": {
    "msg": "1534011878219714662",
