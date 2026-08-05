@@ -6004,7 +6004,7 @@
    "end": 1785961201,
    "title": "Equestria Forever",
    "items": 54,
-   "ended": false
+   "ended": true
   },
   "OW90F6": {
    "msg": "1534300069212459130",
@@ -6634,7 +6634,7 @@
    "end": 1785961081,
    "title": "Been a while since I last made a raffle.",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "PA9L6B": {
    "msg": "1534602088263319632",
