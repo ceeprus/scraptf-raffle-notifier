@@ -6144,7 +6144,7 @@
    "end": 1785938461,
    "title": "Mundane Lifestyle.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5AHZER": {
    "msg": "1534213204044152842",
@@ -6669,7 +6669,7 @@
    "end": 1785938282,
    "title": "Just Shield",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "23WTDD": {
    "msg": "1534531676418478263",
