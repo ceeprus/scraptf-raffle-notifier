@@ -6186,7 +6186,7 @@
    "end": 1785911042,
    "title": "168 keys art commission for soy bing",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "KSSQXR": {
    "msg": "1534089912981393578",
@@ -6731,6 +6731,13 @@
    "msg": "1534442222659960862",
    "end": 1785995701,
    "title": "Daily Hat #74",
+   "items": 1,
+   "ended": false
+  },
+  "CNVJ4M": {
+   "msg": "1534447267925197002",
+   "end": 1785996902,
+   "title": "Mr.Lonely's raffle #1",
    "items": 1,
    "ended": false
   }
