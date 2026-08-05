@@ -469,13 +469,6 @@
    "items": 1,
    "ended": true
   },
-  "H8V2SK": {
-   "msg": "1531794845616570508",
-   "end": 1785321481,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "1ER9HM": {
    "msg": "1531794852268998816",
    "end": 1785364502,
@@ -6158,7 +6151,7 @@
    "end": 1785926221,
    "title": "I just raffled a Mystery art commission for my wife",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U5WN4B": {
    "msg": "1534149108292390972",
