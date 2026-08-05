@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "AUN4Z3": {
-   "msg": "1531554460420276226",
-   "end": 1785307501,
-   "title": "Fire Breather?",
-   "items": 1,
-   "ended": true
-  },
   "6QO34O": {
    "msg": "1531562021022335086",
    "end": 1785309002,
@@ -6739,6 +6732,20 @@
    "end": 1785996902,
    "title": "Mr.Lonely's raffle #1",
    "items": 1,
+   "ended": false
+  },
+  "GE8UT5": {
+   "msg": "1534452314197463160",
+   "end": 1785998701,
+   "title": "Most underrated band in my opinion",
+   "items": 6,
+   "ended": false
+  },
+  "J7K23G": {
+   "msg": "1534452322766159992",
+   "end": 1785998401,
+   "title": "Waluigi time Deluxe edition",
+   "items": 5,
    "ended": false
   }
  },
