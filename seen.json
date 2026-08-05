@@ -6116,14 +6116,14 @@
    "end": 1785936302,
    "title": "#16",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FJQDYG": {
    "msg": "1534191927707046130",
    "end": 1785936061,
    "title": "Raffle Log #91",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "RF0OG3": {
    "msg": "1534194391491678299",
@@ -6739,12 +6739,19 @@
    "end": 1785936181,
    "title": "just save it",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KFYSH1": {
    "msg": "1534550463058546901",
    "end": 1786021802,
    "title": "Comment smth on my profile",
+   "items": 1,
+   "ended": false
+  },
+  "MNHFLJ": {
+   "msg": "1534552939946049536",
+   "end": 1786022221,
+   "title": "Call me sometimes (911)",
    "items": 1,
    "ended": false
   }
