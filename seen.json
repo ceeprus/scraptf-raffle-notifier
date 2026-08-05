@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "EZCPAR": {
-   "msg": "1531799834024214639",
-   "end": 1785366000,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "FF2W86": {
-   "msg": "1531799841779486861",
-   "end": 1785365822,
-   "title": "#2 random",
-   "items": 6,
-   "ended": true
-  },
   "6JHR6W": {
    "msg": "1531804841075015812",
    "end": 1785366961,
@@ -5899,7 +5885,7 @@
    "end": 1785970800,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UDUV8J": {
    "msg": "1534339057885249536",
@@ -6677,6 +6663,20 @@
    "title": "How fast?",
    "items": 1,
    "ended": true
+  },
+  "9X1VOQ": {
+   "msg": "1534697761641992192",
+   "end": 1786013762,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MQIKLQ": {
+   "msg": "1534697769464500325",
+   "end": 1786056721,
+   "title": "Graveyard Raffle (#3)",
+   "items": 7,
+   "ended": false
   }
  },
  "megaraffle": {
