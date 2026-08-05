@@ -56,34 +56,6 @@
    "items": 1,
    "ended": true
   },
-  "1FHPH0": {
-   "msg": "1531770096161390635",
-   "end": 1785358802,
-   "title": "FOX?",
-   "items": 1,
-   "ended": true
-  },
-  "E7O6NF": {
-   "msg": "1531770102939127950",
-   "end": 1785358800,
-   "title": "A quick guide to getting a medic gf  (110% real and working)",
-   "items": 20,
-   "ended": true
-  },
-  "1WQSNA": {
-   "msg": "1531770109037908189",
-   "end": 1785358800,
-   "title": "checkup #74 | Banana Bay",
-   "items": 1,
-   "ended": true
-  },
-  "0OBEGK": {
-   "msg": "1531770116054716670",
-   "end": 1785358561,
-   "title": "Daily Brass Beast #522",
-   "items": 1,
-   "ended": true
-  },
   "RJBLR3": {
    "msg": "1531773434584105031",
    "end": 1785359341,
@@ -6011,7 +5983,7 @@
    "end": 1785963482,
    "title": "11k raffles entered",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W3O6DY": {
    "msg": "1534310163207422112",
