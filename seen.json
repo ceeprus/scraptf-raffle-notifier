@@ -371,13 +371,6 @@
    "items": 1,
    "ended": true
   },
-  "ML7QCC": {
-   "msg": "1531754532852338708",
-   "end": 1785311882,
-   "title": "Getting down to it #idk+2",
-   "items": 1,
-   "ended": true
-  },
   "7EHN0A": {
    "msg": "1531754540217667674",
    "end": 1785355082,
@@ -6200,7 +6193,7 @@
    "end": 1785916621,
    "title": "i miss my wife",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O3Z8MZ": {
    "msg": "1534112583702024294",
