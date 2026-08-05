@@ -42,20 +42,6 @@
    "items": 2,
    "ended": true
   },
-  "6ZGBJO": {
-   "msg": "1531630008907468830",
-   "end": 1785325141,
-   "title": "Daily Hat #68",
-   "items": 1,
-   "ended": true
-  },
-  "YGF65N": {
-   "msg": "1531630016666800220",
-   "end": 1785325021,
-   "title": "Daily Black Boxes #151",
-   "items": 10,
-   "ended": true
-  },
   "HTMS48": {
    "msg": "1531634992247996476",
    "end": 1785326400,
@@ -6703,6 +6689,20 @@
    "msg": "1534524103728304170",
    "end": 1786015202,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "16YTOB": {
+   "msg": "1534526552480415927",
+   "end": 1785951421,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P446P8": {
+   "msg": "1534526558612492358",
+   "end": 1786015922,
+   "title": "All Class Hat #3",
    "items": 1,
    "ended": false
   }
