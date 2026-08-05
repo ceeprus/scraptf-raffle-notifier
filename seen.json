@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "PY6RIA": {
-   "msg": "1531680937165979648",
-   "end": 1785337922,
-   "title": "The Spycrab Has Bad News\ud83e\udd80\ud83d\ude22",
-   "items": 1,
-   "ended": true
-  },
   "C3LX5Y": {
    "msg": "1531686570170519592",
    "end": 1785339000,
@@ -851,13 +844,6 @@
    "msg": "1531984802251804672",
    "end": 1785338341,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "RWYAUL": {
-   "msg": "1531984808408911953",
-   "end": 1785337981,
-   "title": "More",
    "items": 1,
    "ended": true
   },
@@ -6816,6 +6802,20 @@
    "end": 1785943981,
    "title": "\u0447\u0443\u0432\u0430\u043a \u044f \u0445\u043e\u0447\u0443 \u0447\u0442\u043e\u0431\u044b \u0442\u044b \u044d\u0442\u043e \u0437\u0430\u0431\u0440\u0430\u043b",
    "items": 1,
+   "ended": false
+  },
+  "4G17PW": {
+   "msg": "1534580690446712843",
+   "end": 1785986041,
+   "title": "Noize",
+   "items": 1,
+   "ended": false
+  },
+  "B5E4V3": {
+   "msg": "1534580699451883530",
+   "end": 1786029181,
+   "title": "\u0414\u0440\u0430\u0441\u0442\u0435",
+   "items": 7,
    "ended": false
   }
  },
