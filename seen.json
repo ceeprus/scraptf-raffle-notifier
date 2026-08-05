@@ -413,13 +413,6 @@
    "items": 1,
    "ended": true
   },
-  "BGR1P2": {
-   "msg": "1531773426920984696",
-   "end": 1785316262,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "RJBLR3": {
    "msg": "1531773434584105031",
    "end": 1785359341,
@@ -6158,7 +6151,7 @@
    "end": 1785921301,
    "title": "I just raffled some bulllshiiiiit....",
    "items": 124,
-   "ended": false
+   "ended": true
   },
   "5PLBJW": {
    "msg": "1534131500205998160",
