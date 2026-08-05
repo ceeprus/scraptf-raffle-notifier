@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "MGZZIU": {
-   "msg": "1531544389464096859",
-   "end": 1785304800,
-   "title": "Today is Tuesday",
-   "items": 1,
-   "ended": true
-  },
   "WJJQA4": {
    "msg": "1531549466577080351",
    "end": 1785305941,
@@ -6200,7 +6193,7 @@
    "end": 1785909421,
    "title": "Pick My Custom Title - Semifinals (2/2)",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "KWGN92": {
    "msg": "1534087405114622056",
