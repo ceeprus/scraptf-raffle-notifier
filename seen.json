@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "TAHASM": {
-   "msg": "1531738256545419286",
-   "end": 1785351481,
-   "title": "Noice noise",
-   "items": 27,
-   "ended": true
-  },
   "889ZVX": {
    "msg": "1531744444926394570",
    "end": 1785352681,
@@ -560,13 +553,6 @@
    "items": 4,
    "ended": true
   },
-  "FW0LAS": {
-   "msg": "1531920595304972358",
-   "end": 1785351600,
-   "title": "It is",
-   "items": 10,
-   "ended": true
-  },
   "MNNR53": {
    "msg": "1531928141248069693",
    "end": 1785396361,
@@ -787,27 +773,6 @@
   "3UPJNH": {
    "msg": "1532011195094274109",
    "end": 1785373442,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NP7MGA": {
-   "msg": "1532011203348529263",
-   "end": 1785351600,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "EDQXV9": {
-   "msg": "1532011210923446453",
-   "end": 1785351600,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "N8WEKN": {
-   "msg": "1532011217236004945",
-   "end": 1785351600,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -6354,7 +6319,7 @@
    "end": 1785956400,
    "title": "It is",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "7RWE8M": {
    "msg": "1534458655921934416",
