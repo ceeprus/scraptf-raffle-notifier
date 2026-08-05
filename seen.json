@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "BOB0AA": {
-   "msg": "1531662783215833250",
-   "end": 1785333302,
-   "title": "My HONEST feelings about scrap users #5 [Mouse Man.... ]",
-   "items": 1,
-   "ended": true
-  },
   "Q7IMBZ": {
    "msg": "1531674024193822750",
    "end": 1785335702,
@@ -6760,6 +6753,20 @@
    "end": 1786022701,
    "title": "I'm Sandvich",
    "items": 3,
+   "ended": false
+  },
+  "LMI71B": {
+   "msg": "1534560527445921822",
+   "end": 1786024141,
+   "title": "Little Birthday Raffle",
+   "items": 4,
+   "ended": false
+  },
+  "PAIMDD": {
+   "msg": "1534560535440392242",
+   "end": 1786024082,
+   "title": "I won a very expensive item here today...",
+   "items": 40,
    "ended": false
   }
  },
