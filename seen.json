@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "JFY76T": {
-   "msg": "1531762060025794873",
-   "end": 1785357000,
-   "title": "Equestria 4ever",
-   "items": 54,
-   "ended": true
-  },
   "WGSVKF": {
    "msg": "1531768491680727202",
    "end": 1785358141,
@@ -6004,7 +5997,7 @@
    "end": 1785961681,
    "title": "yeah join this raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "7WP1DD": {
    "msg": "1534305234719866981",
