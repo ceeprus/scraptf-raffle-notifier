@@ -35,24 +35,10 @@
    "items": 28,
    "ended": false
   },
-  "J2EAN3": {
-   "msg": "1531540572429357127",
-   "end": 1785304322,
-   "title": "Day 50 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
   "MGZZIU": {
    "msg": "1531544389464096859",
    "end": 1785304800,
    "title": "Today is Tuesday",
-   "items": 1,
-   "ended": true
-  },
-  "8SW1OQ": {
-   "msg": "1531544395440980022",
-   "end": 1785304442,
-   "title": "Day 45 of Asking for Mystery Raffles",
    "items": 1,
    "ended": true
   },
@@ -719,41 +705,6 @@
    "end": 1785368041,
    "title": "como etan muchacho a ustede los veo muy bien ;)",
    "items": 14,
-   "ended": true
-  },
-  "RKIQDC": {
-   "msg": "1531813759385862235",
-   "end": 1785304434,
-   "title": "VS",
-   "items": 1,
-   "ended": true
-  },
-  "C3Y0A6": {
-   "msg": "1531813767308906627",
-   "end": 1785304431,
-   "title": "Foxloaf is both gosh darn it",
-   "items": 1,
-   "ended": true
-  },
-  "12GA2S": {
-   "msg": "1531813775831994458",
-   "end": 1785304428,
-   "title": "It's a fox",
-   "items": 1,
-   "ended": true
-  },
-  "CIU3FB": {
-   "msg": "1531813783599841502",
-   "end": 1785304424,
-   "title": "It's a loaf!",
-   "items": 1,
-   "ended": true
-  },
-  "GFZ7RL": {
-   "msg": "1531813790704992508",
-   "end": 1785304261,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "20HM99": {
@@ -6795,6 +6746,13 @@
    "end": 1785993961,
    "title": "Untitled raffle",
    "items": 5,
+   "ended": false
+  },
+  "71DIY4": {
+   "msg": "1534439691083059221",
+   "end": 1785995221,
+   "title": "Public raffle go brrr",
+   "items": 2,
    "ended": false
   }
  },
