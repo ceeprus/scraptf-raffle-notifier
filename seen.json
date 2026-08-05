@@ -42,13 +42,6 @@
    "items": 1,
    "ended": true
   },
-  "NW48MX": {
-   "msg": "1531794838213754932",
-   "end": 1785364741,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "8YNTBE": {
    "msg": "1531797315730407424",
    "end": 1785365341,
@@ -6710,6 +6703,13 @@
    "msg": "1534690170614583306",
    "end": 1786054681,
    "title": "Birfhday!!",
+   "items": 1,
+   "ended": false
+  },
+  "VXX0R4": {
+   "msg": "1534692633492983901",
+   "end": 1785969661,
+   "title": "How fast?",
    "items": 1,
    "ended": false
   }
