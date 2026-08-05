@@ -6768,6 +6768,20 @@
    "title": "I won a very expensive item here today...",
    "items": 40,
    "ended": false
+  },
+  "20NLSJ": {
+   "msg": "1534563016358498518",
+   "end": 1786024801,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "WROBV5": {
+   "msg": "1534563023417643099",
+   "end": 1786024621,
+   "title": "yo check these musics out",
+   "items": 7,
+   "ended": false
   }
  },
  "megaraffle": {
