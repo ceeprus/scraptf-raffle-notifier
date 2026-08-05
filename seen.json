@@ -35,27 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "RTKGG6": {
-   "msg": "1531770078561833141",
-   "end": 1785359102,
-   "title": "HOUND",
-   "items": 1,
-   "ended": true
-  },
-  "X8SDMC": {
-   "msg": "1531770084798894340",
-   "end": 1785359041,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "V8TDG2": {
-   "msg": "1531770090553475296",
-   "end": 1785358981,
-   "title": "Yo.",
-   "items": 1,
-   "ended": true
-  },
   "RJBLR3": {
    "msg": "1531773434584105031",
    "end": 1785359341,
@@ -5976,7 +5955,7 @@
    "end": 1785963721,
    "title": "checkup #81 | Casual",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZSC68I": {
    "msg": "1534307622889718013",
@@ -6752,6 +6731,13 @@
    "msg": "1534666198707339475",
    "end": 1786049522,
    "title": "JaMM still on vaction",
+   "items": 1,
+   "ended": false
+  },
+  "IPVDLJ": {
+   "msg": "1534668699557040230",
+   "end": 1786050000,
+   "title": "checkup #82 | Toxicity",
    "items": 1,
    "ended": false
   }
