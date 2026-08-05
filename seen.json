@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "Q7IMBZ": {
-   "msg": "1531674024193822750",
-   "end": 1785335702,
-   "title": "Scrap Cookbook - Ant Log",
-   "items": 2,
-   "ended": true
-  },
   "PY6RIA": {
    "msg": "1531680937165979648",
    "end": 1785337922,
@@ -6788,6 +6781,13 @@
    "end": 1785982021,
    "title": "Seeing so many quitting tf2 raffles, wish them well!",
    "items": 2,
+   "ended": false
+  },
+  "LN1GMJ": {
+   "msg": "1534570577598087269",
+   "end": 1786026422,
+   "title": "Bau! Bau!",
+   "items": 18,
    "ended": false
   }
  },
