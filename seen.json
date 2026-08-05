@@ -5990,7 +5990,7 @@
    "end": 1785961862,
    "title": "You thought this was just a scrap #190",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L84SW7": {
    "msg": "1534300076065689672",
@@ -6774,6 +6774,13 @@
    "end": 1786046753,
    "title": "food",
    "items": 1,
+   "ended": false
+  },
+  "ZH37QK": {
+   "msg": "1534661165358256332",
+   "end": 1786048081,
+   "title": "Equestria 4ever",
+   "items": 53,
    "ended": false
   }
  },
