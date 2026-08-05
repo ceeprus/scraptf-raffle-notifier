@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "KX7CPU": {
-   "msg": "1531733179029782649",
-   "end": 1785349742,
-   "title": "Pick My Custom Title - Quarterfinals (1/4)",
-   "items": 1,
-   "ended": true
-  },
   "TAHASM": {
    "msg": "1531738256545419286",
    "end": 1785351481,
@@ -6053,7 +6046,7 @@
    "end": 1785954362,
    "title": "Item unclaimed, returned to raffler",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OFMDAN": {
    "msg": "1534271130540703906",
@@ -6802,6 +6795,20 @@
    "end": 1786040101,
    "title": "Pick My Custom Title - Finale",
    "items": 3,
+   "ended": false
+  },
+  "7MOVVI": {
+   "msg": "1534629775656751245",
+   "end": 1786041001,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "JFPTQ7": {
+   "msg": "1534629781855797359",
+   "end": 1786040761,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
