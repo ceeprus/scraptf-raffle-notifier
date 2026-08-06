@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "WOISYE": {
-   "msg": "1532008676863250612",
-   "end": 1785415802,
-   "title": "Question",
-   "items": 1,
-   "ended": true
-  },
   "B0UCRD": {
    "msg": "1532011223305158687",
    "end": 1785416400,
@@ -6417,7 +6410,7 @@
    "end": 1786020361,
    "title": "Drink it with some buddies",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0Y2W5G": {
    "msg": "1534895208263712990",
