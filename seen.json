@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "1SUAV1": {
-   "msg": "1532148392862548113",
-   "end": 1785448921,
-   "title": "Equestria Forever",
-   "items": 52,
-   "ended": true
-  },
   "H7MP1R": {
    "msg": "1532155927925362789",
    "end": 1785451141,
@@ -5605,21 +5598,21 @@
    "end": 1786053841,
    "title": "Be kind #5",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "PAOE21": {
    "msg": "1534690164343836804",
    "end": 1786055042,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4K0LW8": {
    "msg": "1534690170614583306",
    "end": 1786054681,
    "title": "Birfhday!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VXX0R4": {
    "msg": "1534692633492983901",
