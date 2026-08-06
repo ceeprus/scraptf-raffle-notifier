@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "6CYLXH": {
-   "msg": "1532021281002623188",
-   "end": 1785418681,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "OEV3B3": {
-   "msg": "1532021287164182599",
-   "end": 1785418561,
-   "title": "free",
-   "items": 1,
-   "ended": true
-  },
   "NF8BBP": {
    "msg": "1532023778559787078",
    "end": 1785419341,
@@ -6438,6 +6424,13 @@
    "end": 1786043282,
    "title": "Noise Maker",
    "items": 2,
+   "ended": false
+  },
+  "E0BVT2": {
+   "msg": "1534919177809297458",
+   "end": 1786109461,
+   "title": "pure bisons",
+   "items": 107,
    "ended": false
   }
  },
