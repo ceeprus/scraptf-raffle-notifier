@@ -35,33 +35,12 @@
    "items": 28,
    "ended": false
   },
-  "1FPXZJ": {
-   "msg": "1532055373110968441",
-   "end": 1785427200,
-   "title": "Scrap Cookbook - Baked Potato Chips",
-   "items": 2,
-   "ended": true
-  },
-  "I1K9PM": {
-   "msg": "1532059057203183626",
-   "end": 1785427741,
-   "title": "Scrap.tf Birthdays - 29 July",
-   "items": 1,
-   "ended": true
-  },
   "7P4DD3": {
    "msg": "1532064065499824158",
    "end": null,
    "title": "Untitled raffle",
    "items": 14,
    "ended": false
-  },
-  "1GJE4D": {
-   "msg": "1532064072819015981",
-   "end": 1785428641,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
   },
   "BDFY7B": {
    "msg": "1532069078250950696",
@@ -392,13 +371,6 @@
    "items": 4,
    "ended": true
   },
-  "0PWAIP": {
-   "msg": "1532242743999598632",
-   "end": 1785428401,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "Q5DT4O": {
    "msg": "1532245235067781131",
    "end": 1785429241,
@@ -409,13 +381,6 @@
   "6W07YA": {
    "msg": "1532245241615351900",
    "end": 1785429061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "26BNIJ": {
-   "msg": "1532245250146308178",
-   "end": 1785428761,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -5703,21 +5668,21 @@
    "end": 1786032000,
    "title": "Scrap.tf Birthdays - 5 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "K8G0L9": {
    "msg": "1534597045053165729",
    "end": 1786032841,
    "title": "Mi primer video de Tf2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R85G4X": {
    "msg": "1534597052909096990",
    "end": 1786032781,
    "title": "Your Fate.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "87HXY8": {
    "msg": "1534598601269842121",
@@ -6375,6 +6340,20 @@
    "end": 1786114261,
    "title": "#9",
    "items": 1,
+   "ended": false
+  },
+  "GJPWR5": {
+   "msg": "1534961476198989935",
+   "end": 1786040701,
+   "title": "Let's go",
+   "items": 24,
+   "ended": false
+  },
+  "KR6363": {
+   "msg": "1534961483543347280",
+   "end": 1786118400,
+   "title": "Scrap.tf Birthdays - 6 August",
+   "items": 3,
    "ended": false
   }
  },
