@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "4TT74G": {
-   "msg": "1532006199883730994",
-   "end": 1785415021,
-   "title": "Joining in to celebrate \u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
-   "items": 3,
-   "ended": true
-  },
   "WOISYE": {
    "msg": "1532008676863250612",
    "end": 1785415802,
@@ -5661,7 +5654,7 @@
    "end": 1786019881,
    "title": "Daily raffle #326",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QONHPR": {
    "msg": "1534547950561394850",
