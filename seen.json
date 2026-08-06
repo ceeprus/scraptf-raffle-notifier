@@ -5633,7 +5633,7 @@
    "end": 1786014000,
    "title": "How come they can ignore gravity?! It's not fair!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "159HV3": {
    "msg": "1534521517826769020",
@@ -6172,7 +6172,7 @@
    "end": 1786013762,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MQIKLQ": {
    "msg": "1534697769464500325",
@@ -6424,6 +6424,27 @@
    "end": 1786056061,
    "title": "A few refs, just a few :)",
    "items": 5,
+   "ended": false
+  },
+  "PB0UOU": {
+   "msg": "1534878959093809185",
+   "end": 1786100400,
+   "title": "I wish someone would greet me like that.",
+   "items": 1,
+   "ended": false
+  },
+  "QCTUAU": {
+   "msg": "1534878966563999815",
+   "end": 1786100341,
+   "title": "Daily raffle #327",
+   "items": 1,
+   "ended": false
+  },
+  "KAPUG1": {
+   "msg": "1534878972855451801",
+   "end": 1786100042,
+   "title": "Grabli304's raffle\u2503Day 157",
+   "items": 2,
    "ended": false
   }
  },
