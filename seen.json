@@ -42,13 +42,6 @@
    "items": 10,
    "ended": true
   },
-  "W5SB3K": {
-   "msg": "1531935717268262912",
-   "end": 1785398101,
-   "title": "Daily Brass Beast #523",
-   "items": 1,
-   "ended": true
-  },
   "N0TJOZ": {
    "msg": "1531938238342631555",
    "end": 1785398641,
@@ -6200,7 +6193,7 @@
    "end": 1786002841,
    "title": "Getting Down To It #62",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RMOQPX": {
    "msg": "1534656188107587668",
@@ -6466,6 +6459,13 @@
    "end": 1786003441,
    "title": "just scrap x2 , just reclaimed metal",
    "items": 3,
+   "ended": false
+  },
+  "3P7XV1": {
+   "msg": "1534832271603925032",
+   "end": 1786006381,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
