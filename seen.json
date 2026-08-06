@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "H7MP1R": {
-   "msg": "1532155927925362789",
-   "end": 1785451141,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1489 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 29,
-   "ended": true
-  },
-  "86L23G": {
-   "msg": "1532155936527876287",
-   "end": 1785450782,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "VCZJ8T": {
-   "msg": "1532161051272020019",
-   "end": 1785452400,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "1CJOAC": {
    "msg": "1532193670793527306",
    "end": 1785459961,
@@ -649,13 +628,6 @@
    "end": 1785472502,
    "title": "Yo",
    "items": 1,
-   "ended": true
-  },
-  "13V23K": {
-   "msg": "1532429027577565288",
-   "end": 1785450842,
-   "title": "Untitled raffle",
-   "items": 2,
    "ended": true
   },
   "RGV7BT": {
@@ -5633,7 +5605,7 @@
    "end": 1786056721,
    "title": "Graveyard Raffle (#3)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "9ITNN0": {
    "msg": "1534714001378775220",
@@ -5864,7 +5836,7 @@
    "end": 1786055582,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NHSA4S": {
    "msg": "1534876359942471733",
@@ -5878,7 +5850,7 @@
    "end": 1786056061,
    "title": "A few refs, just a few :)",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "PB0UOU": {
    "msg": "1534878959093809185",
@@ -6123,7 +6095,7 @@
    "end": 1786055882,
    "title": "meow :3",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "Q5U1H8": {
    "msg": "1535007299691745495",
@@ -6179,6 +6151,13 @@
    "end": 1786132800,
    "title": "A Refined a day keeps the doctor away! #30: The day before the \u00dcbergeddon..",
    "items": 3,
+   "ended": false
+  },
+  "Z0DK7Y": {
+   "msg": "1535060190007922690",
+   "end": 1786143121,
+   "title": "Free Golden Frying pan!!!! #2 (also help me power scale)",
+   "items": 1,
    "ended": false
   }
  },
