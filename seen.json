@@ -5647,7 +5647,7 @@
    "end": 1786015441,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "USMNZO": {
    "msg": "1534524103728304170",
@@ -6438,6 +6438,13 @@
    "end": 1786100042,
    "title": "Grabli304's raffle\u2503Day 157",
    "items": 2,
+   "ended": false
+  },
+  "HDWKP3": {
+   "msg": "1534885133293715609",
+   "end": 1786101602,
+   "title": "chch exposure",
+   "items": 1,
    "ended": false
   }
  },
