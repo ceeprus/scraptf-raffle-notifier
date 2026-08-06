@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "B0UCRD": {
-   "msg": "1532011223305158687",
-   "end": 1785416400,
-   "title": "(GMOD) 2fart War",
-   "items": 2,
-   "ended": true
-  },
   "6CYLXH": {
    "msg": "1532021281002623188",
    "end": 1785418681,
@@ -5654,21 +5647,21 @@
    "end": 1786021201,
    "title": "announcement raffle next week",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X12SMC": {
    "msg": "1534547958463467621",
    "end": 1786021200,
    "title": "Guess what",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y6VMYI": {
    "msg": "1534547965082075226",
    "end": 1786021200,
    "title": "Organic Chemistry and Other Horrors (Well There's Your Problem Animated)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S18D8I": {
    "msg": "1534547971780116511",
