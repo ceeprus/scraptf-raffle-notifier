@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "RCIWBB": {
-   "msg": "1531918080861671464",
-   "end": 1785394021,
-   "title": "normal rafle",
-   "items": 4,
-   "ended": true
-  },
   "MNNR53": {
    "msg": "1531928141248069693",
    "end": 1785396361,
@@ -5703,7 +5696,7 @@
    "end": 1785998761,
    "title": "Random Question #36 + Cat Pic #5 (Serverblight)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2GONIW": {
    "msg": "1534458630487805953",
