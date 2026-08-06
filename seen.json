@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "9YY0TY": {
-   "msg": "1531896793896321074",
-   "end": 1785389221,
-   "title": "Trading is unstable!!!",
-   "items": 178,
-   "ended": true
-  },
   "MUHFSX": {
    "msg": "1531904381073625259",
    "end": 1785391200,
@@ -5710,7 +5703,7 @@
    "end": 1785993961,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "71DIY4": {
    "msg": "1534439691083059221",
