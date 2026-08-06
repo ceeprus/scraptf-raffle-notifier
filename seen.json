@@ -602,13 +602,6 @@
    "items": 1,
    "ended": true
   },
-  "HWBOT0": {
-   "msg": "1532261630077964388",
-   "end": 1785411302,
-   "title": "I'm not playing TF2 right now, so I'll just give these items away for free.",
-   "items": 3,
-   "ended": true
-  },
   "NMHHGA": {
    "msg": "1532266745262243841",
    "end": 1785477242,
@@ -5661,7 +5654,7 @@
    "end": 1786015922,
    "title": "All Class Hat #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DOKDLN": {
    "msg": "1534531662287995035",
