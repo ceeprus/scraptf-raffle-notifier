@@ -5661,7 +5661,7 @@
    "end": 1786017782,
    "title": "Noise sup",
    "items": 164,
-   "ended": false
+   "ended": true
   },
   "MK7E91": {
    "msg": "1534540356543058073",
@@ -6444,6 +6444,13 @@
    "msg": "1534892705912459264",
    "end": 1786020361,
    "title": "Drink it with some buddies",
+   "items": 1,
+   "ended": false
+  },
+  "0Y2W5G": {
+   "msg": "1534895208263712990",
+   "end": 1786104000,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
