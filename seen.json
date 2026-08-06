@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "IHCXHH": {
-   "msg": "1531935709798072362",
-   "end": 1785398521,
-   "title": "Daily Black Boxes #152",
-   "items": 10,
-   "ended": true
-  },
-  "N0TJOZ": {
-   "msg": "1531938238342631555",
-   "end": 1785398641,
-   "title": "Daily Hat #69",
-   "items": 1,
-   "ended": true
-  },
   "9E58XE": {
    "msg": "1531943253803532298",
    "end": 1785400441,
@@ -515,13 +501,6 @@
    "msg": "1532118174751920159",
    "end": 1785441901,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "8CY68G": {
-   "msg": "1532118181152296980",
-   "end": 1785398462,
-   "title": "Fanumstein Rizzberg",
    "items": 1,
    "ended": true
   },
@@ -6459,13 +6438,20 @@
    "end": 1786003441,
    "title": "just scrap x2 , just reclaimed metal",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "3P7XV1": {
    "msg": "1534832271603925032",
    "end": 1786006381,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "6S6KA7": {
+   "msg": "1534834797191364619",
+   "end": 1786089661,
+   "title": "Day 25 Of \"Bad\" Weapon",
+   "items": 3,
    "ended": false
   }
  },
