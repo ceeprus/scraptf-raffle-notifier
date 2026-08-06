@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "NF8BBP": {
-   "msg": "1532023778559787078",
-   "end": 1785419341,
-   "title": "\u0421\u0442\u043e\u0438\u0442 \u043b\u0438 \u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u043c\u0432\u043c \u0435\u0441\u043b\u0438 \u044f \u0441\u043c\u043e\u0433\u0443 \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e 3 \u0431\u0438\u043b\u0435\u0442\u0430?",
-   "items": 1,
-   "ended": true
-  },
   "KRWMT2": {
    "msg": "1532027590741590047",
    "end": 1785420421,
@@ -655,13 +648,6 @@
    "msg": "1532323307129540662",
    "end": 1785490321,
    "title": "Clinging to Promises",
-   "items": 1,
-   "ended": true
-  },
-  "HVVALA": {
-   "msg": "1532325775192363081",
-   "end": 1785419281,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5682,14 +5668,14 @@
    "end": 1786024141,
    "title": "Little Birthday Raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "PAIMDD": {
    "msg": "1534560535440392242",
    "end": 1786024082,
    "title": "I won a very expensive item here today...",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "20NLSJ": {
    "msg": "1534563016358498518",
@@ -6431,6 +6417,13 @@
    "end": 1786109461,
    "title": "pure bisons",
    "items": 107,
+   "ended": false
+  },
+  "CM3ENI": {
+   "msg": "1534921663026823280",
+   "end": 1786066981,
+   "title": "wooow 1 year for thi account",
+   "items": 3,
    "ended": false
   }
  },
