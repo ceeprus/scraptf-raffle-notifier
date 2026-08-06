@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "ROOD89": {
-   "msg": "1531915606507388969",
-   "end": 1785393541,
-   "title": "Day 17 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "RCIWBB": {
    "msg": "1531918080861671464",
    "end": 1785394021,
@@ -5703,7 +5696,7 @@
    "end": 1785998401,
    "title": "Waluigi time Deluxe edition",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "FQY3ZW": {
    "msg": "1534454825322807327",
@@ -6486,6 +6479,13 @@
    "msg": "1534808427522555998",
    "end": 1786039981,
    "title": "Free Golden Frying pan!!!!",
+   "items": 1,
+   "ended": false
+  },
+  "MM8IK8": {
+   "msg": "1534813444530901114",
+   "end": 1786084741,
+   "title": "I have a good news",
    "items": 1,
    "ended": false
   }
