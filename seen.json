@@ -721,13 +721,6 @@
    "items": 3,
    "ended": true
   },
-  "R054K9": {
-   "msg": "1532120732799336612",
-   "end": 1785377342,
-   "title": "noisemaker",
-   "items": 1,
-   "ended": true
-  },
   "BY1TQ4": {
    "msg": "1532123263495569589",
    "end": 1785443041,
@@ -6109,7 +6102,7 @@
    "end": 1785982021,
    "title": "Seeing so many quitting tf2 raffles, wish them well!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LN1GMJ": {
    "msg": "1534570577598087269",
