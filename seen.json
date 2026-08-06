@@ -42,76 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "BDFY7B": {
-   "msg": "1532069078250950696",
-   "end": 1785430382,
-   "title": "Weapon of the Prime Soul #9",
-   "items": 1,
-   "ended": true
-  },
-  "R7D95I": {
-   "msg": "1532071603448582335",
-   "end": 1785430982,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "LYGAF2": {
-   "msg": "1532071611572944898",
-   "end": 1785430800,
-   "title": "its over",
-   "items": 1,
-   "ended": true
-  },
-  "QMVRU3": {
-   "msg": "1532071618980085870",
-   "end": 1785430800,
-   "title": "Daily raffle until TF2 gets a major update #575",
-   "items": 10,
-   "ended": true
-  },
-  "LMGEKL": {
-   "msg": "1532071624986071290",
-   "end": 1785430621,
-   "title": "Poor man!",
-   "items": 1,
-   "ended": true
-  },
-  "PHOZG1": {
-   "msg": "1532071631973908664",
-   "end": 1785430501,
-   "title": "How to get a free hat tutoria secret method 2027",
-   "items": 1,
-   "ended": true
-  },
-  "TLMOH1": {
-   "msg": "1532074140377289044",
-   "end": 1785431581,
-   "title": "Another fav artist died",
-   "items": 1,
-   "ended": true
-  },
-  "D0YLEQ": {
-   "msg": "1532074146454835231",
-   "end": 1785431341,
-   "title": "Gracias por el d\u00eda de hoy y por ser mi amigo Wiipe",
-   "items": 1,
-   "ended": true
-  },
-  "O758S8": {
-   "msg": "1532074153505456359",
-   "end": 1785431101,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GZMVFM": {
-   "msg": "1532076631584145480",
-   "end": 1785432002,
-   "title": "First raffle!",
-   "items": 4,
-   "ended": true
-  },
   "N4JIBH": {
    "msg": "1532086687512006736",
    "end": 1785434641,
@@ -369,27 +299,6 @@
    "end": 1785470041,
    "title": "Trying to surprise my girlfriend for her birthday \u2013 any help appreciated",
    "items": 4,
-   "ended": true
-  },
-  "Q5DT4O": {
-   "msg": "1532245235067781131",
-   "end": 1785429241,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "6W07YA": {
-   "msg": "1532245241615351900",
-   "end": 1785429061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "6AEVYJ": {
-   "msg": "1532247808935985232",
-   "end": 1785429422,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "3VWN1N": {
@@ -753,13 +662,6 @@
    "msg": "1532400068483612904",
    "end": 1785444122,
    "title": "LEON\u2757",
-   "items": 1,
-   "ended": true
-  },
-  "AFW2L6": {
-   "msg": "1532402625385988296",
-   "end": 1785430261,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5696,7 +5598,7 @@
    "end": 1786033800,
    "title": "It came to me in a dream",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BDPDLV": {
    "msg": "1534604596574687273",
@@ -5710,21 +5612,21 @@
    "end": 1786034881,
    "title": "I am bad with titles #139",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5EVTMM": {
    "msg": "1534609619224363119",
    "end": 1786035600,
    "title": "Daily raffle until TF2 gets a major update #582",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "2WXBDH": {
    "msg": "1534609628405563516",
    "end": 1786035600,
    "title": "Reduce",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "NXB6NK": {
    "msg": "1534617149015064828",
@@ -6053,7 +5955,7 @@
    "end": 1786036322,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ASN8ZM": {
    "msg": "1534800848021098630",
@@ -6354,6 +6256,34 @@
    "end": 1786118400,
    "title": "Scrap.tf Birthdays - 6 August",
    "items": 3,
+   "ended": false
+  },
+  "QI34Y7": {
+   "msg": "1534976862432919664",
+   "end": 1786122000,
+   "title": "Daily raffle until TF2 gets a major update #583",
+   "items": 3,
+   "ended": false
+  },
+  "F4VS1P": {
+   "msg": "1534976869286416494",
+   "end": 1786122000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WQV5G8": {
+   "msg": "1534976877587071046",
+   "end": 1786038541,
+   "title": "pukikaki",
+   "items": 4,
+   "ended": false
+  },
+  "9WS9ZK": {
+   "msg": "1534976883748372510",
+   "end": 1786038481,
+   "title": "Raffle",
+   "items": 1,
    "ended": false
   }
  },
