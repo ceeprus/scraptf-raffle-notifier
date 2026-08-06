@@ -42,27 +42,6 @@
    "items": 1,
    "ended": true
   },
-  "V7KKFF": {
-   "msg": "1531964751167361155",
-   "end": 1785405301,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "HNG5RU": {
-   "msg": "1531964756917751848",
-   "end": 1785405241,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WETSDG": {
-   "msg": "1531964762903023736",
-   "end": 1785405181,
-   "title": "I'll be 100",
-   "items": 2,
-   "ended": true
-  },
   "P8EYGF": {
    "msg": "1531972275287490622",
    "end": 1785406922,
@@ -5640,7 +5619,7 @@
    "end": 1786010041,
    "title": "#18",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KW6UI7": {
    "msg": "1534500132387684443",
