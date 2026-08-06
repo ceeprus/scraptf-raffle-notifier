@@ -5717,7 +5717,7 @@
    "end": 1785983941,
    "title": "Graveyard Raffle (#2)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "E0IMVQ": {
    "msg": "1534394399340101833",
@@ -6500,6 +6500,13 @@
    "msg": "1534748011199070229",
    "end": 1786003802,
    "title": "Bison",
+   "items": 2,
+   "ended": false
+  },
+  "PS7XH1": {
+   "msg": "1534753035212034229",
+   "end": 1786070341,
+   "title": "playing tf2 again",
    "items": 2,
    "ended": false
   }
