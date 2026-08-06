@@ -280,20 +280,6 @@
    "items": 1,
    "ended": true
   },
-  "QWC0YT": {
-   "msg": "1532345948271935508",
-   "end": 1785452941,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "DHWZOF": {
-   "msg": "1532345956287123457",
-   "end": 1785452762,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "60QYH0": {
    "msg": "1532348415948886120",
    "end": 1785496501,
@@ -753,13 +739,6 @@
    "msg": "1532461698466713670",
    "end": 1785523981,
    "title": "How to win the game, a guide",
-   "items": 1,
-   "ended": true
-  },
-  "7SJR0K": {
-   "msg": "1532465469749989396",
-   "end": 1785452641,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -6157,6 +6136,48 @@
    "msg": "1535060190007922690",
    "end": 1786143121,
    "title": "Free Golden Frying pan!!!! #2 (also help me power scale)",
+   "items": 1,
+   "ended": false
+  },
+  "RU6378": {
+   "msg": "1535067697749041184",
+   "end": 1786101661,
+   "title": "Hello",
+   "items": 5,
+   "ended": false
+  },
+  "97AYXX": {
+   "msg": "1535067704992595988",
+   "end": 1786144381,
+   "title": "Hale's Own Trials: Persian Persuader: Day 4",
+   "items": 1,
+   "ended": false
+  },
+  "NHJX6I": {
+   "msg": "1535067713448190015",
+   "end": 1786144202,
+   "title": "Doubter.",
+   "items": 1,
+   "ended": false
+  },
+  "PL0Q8I": {
+   "msg": "1535067726178156634",
+   "end": 1786143901,
+   "title": "Graveyard Raffle (#5)",
+   "items": 7,
+   "ended": false
+  },
+  "PAPL58": {
+   "msg": "1535067732607762474",
+   "end": 1786143600,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "LG7Y3M": {
+   "msg": "1535067739692208159",
+   "end": 1786143542,
+   "title": "Mark I made a Steak",
    "items": 1,
    "ended": false
   }
