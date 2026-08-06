@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "8J3B7O": {
-   "msg": "1531964745056256043",
-   "end": 1785405421,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "P8EYGF": {
    "msg": "1531972275287490622",
    "end": 1785406922,
@@ -5633,7 +5626,7 @@
    "end": 1786010400,
    "title": "Gifted Buffalo Steak Sandvich #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AE6RWO": {
    "msg": "1534506419171229858",
@@ -6402,6 +6395,20 @@
    "msg": "1534861256685654127",
    "end": 1786016402,
    "title": "Sin Eater",
+   "items": 1,
+   "ended": false
+  },
+  "CEUWYW": {
+   "msg": "1534863850602762352",
+   "end": 1786096561,
+   "title": "Hale's Own Trials: Persian Persuader: Day 3",
+   "items": 1,
+   "ended": false
+  },
+  "LXO23Z": {
+   "msg": "1534863857489678466",
+   "end": 1786052941,
+   "title": "Ref 4 Ref",
    "items": 1,
    "ended": false
   }
