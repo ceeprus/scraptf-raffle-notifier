@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "9E58XE": {
-   "msg": "1531943253803532298",
-   "end": 1785400441,
-   "title": "Untitled raffle",
-   "items": 10,
-   "ended": true
-  },
   "GGA0CI": {
    "msg": "1531945799196344380",
    "end": 1785400801,
@@ -6417,7 +6410,7 @@
    "end": 1786005302,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JF967T": {
    "msg": "1534829815117647953",
