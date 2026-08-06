@@ -5710,7 +5710,7 @@
    "end": 1785995221,
    "title": "Public raffle go brrr",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TAVXA4": {
    "msg": "1534442222659960862",
@@ -6501,6 +6501,13 @@
    "end": 1786036322,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "ASN8ZM": {
+   "msg": "1534800848021098630",
+   "end": 1786081561,
+   "title": "huh?",
+   "items": 11,
    "ended": false
   }
  },
