@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "ENVCID": {
-   "msg": "1531875317659205682",
-   "end": 1785384000,
-   "title": "\u266a Jumping Popcorn  \u266a",
-   "items": 1,
-   "ended": true
-  },
   "NS7EGX": {
    "msg": "1531877862116692082",
    "end": 1785384722,
@@ -5731,7 +5724,7 @@
    "end": 1785988800,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1496 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "H5YB2D": {
    "msg": "1534432148675629076",
