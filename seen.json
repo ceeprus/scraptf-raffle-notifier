@@ -490,13 +490,6 @@
    "items": 1,
    "ended": true
   },
-  "1W5UXC": {
-   "msg": "1532099316272074894",
-   "end": 1785394441,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "CJVAEB": {
    "msg": "1532099324639445133",
    "end": 1785437581,
@@ -5689,7 +5682,7 @@
    "end": 1785999122,
    "title": "8500 VOTES SPECIAL!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UPS5Z5": {
    "msg": "1534454839281713305",
