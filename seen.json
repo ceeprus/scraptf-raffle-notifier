@@ -42,97 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "N4JIBH": {
-   "msg": "1532086687512006736",
-   "end": 1785434641,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "J1RH1H": {
-   "msg": "1532086693690081320",
-   "end": 1785434401,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "X8Z6FM": {
-   "msg": "1532086700711481446",
-   "end": 1785434281,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1IQ0NE": {
-   "msg": "1532086708525469726",
-   "end": 1785434221,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "E9YWKK": {
-   "msg": "1532089227414736986",
-   "end": 1785435242,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "EZBE9N": {
-   "msg": "1532089233676697784",
-   "end": 1785434941,
-   "title": "Daily raffle #319",
-   "items": 1,
-   "ended": true
-  },
-  "JK6QMW": {
-   "msg": "1532094239557816400",
-   "end": 1785436081,
-   "title": "and another",
-   "items": 1,
-   "ended": true
-  },
-  "CJVAEB": {
-   "msg": "1532099324639445133",
-   "end": 1785437581,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "BVXWL9": {
-   "msg": "1532099333443555531",
-   "end": 1785437402,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "424IXB": {
-   "msg": "1532103103468277861",
-   "end": 1785438122,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "740W7G": {
-   "msg": "1532103110141673683",
-   "end": 1785438061,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "VXOCEF": {
-   "msg": "1532105623947448361",
-   "end": 1785438900,
-   "title": "Snowfall Soundtrack #29",
-   "items": 2,
-   "ended": true
-  },
-  "V03HF8": {
-   "msg": "1532108152277827816",
-   "end": 1785439022,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "4Z0SF0": {
    "msg": "1532110638636073031",
    "end": 1785440161,
@@ -348,13 +257,6 @@
    "end": 1785481381,
    "title": "Celebrating 21st Anniversary of Bison!!",
    "items": 21,
-   "ended": true
-  },
-  "QX7I8L": {
-   "msg": "1532286800318697665",
-   "end": 1785438721,
-   "title": "Raffling Scrap Till I'm Out #988 (Super late raffle)",
-   "items": 1,
    "ended": true
   },
   "MJG37B": {
@@ -861,13 +763,6 @@
    "items": 3,
    "ended": true
   },
-  "WT6OMH": {
-   "msg": "1532434034112593931",
-   "end": 1785433981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "AQ8FYM": {
    "msg": "1532436533808861275",
    "end": 1785517861,
@@ -942,13 +837,6 @@
    "msg": "1532449109632618597",
    "end": 1785520682,
    "title": "hey can someone help me (spy)",
-   "items": 1,
-   "ended": true
-  },
-  "6BOWR8": {
-   "msg": "1532449115722481804",
-   "end": 1785437761,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5640,49 +5528,49 @@
    "end": 1786038781,
    "title": "redraw my old draw",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NUQ7M6": {
    "msg": "1534624750427570443",
    "end": 1786039741,
    "title": "Free game! #59 - Moonlighter",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "WISG46": {
    "msg": "1534624757528399912",
    "end": 1786039261,
    "title": "\u0425\u043e\u0447\u0443 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0432\u043e\u0434",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NF7HHP": {
    "msg": "1534627245321355434",
    "end": 1786040101,
    "title": "Pick My Custom Title - Finale",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7MOVVI": {
    "msg": "1534629775656751245",
    "end": 1786041001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JFPTQ7": {
    "msg": "1534629781855797359",
    "end": 1786040761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N3K0OP": {
    "msg": "1534632294600671262",
    "end": 1786041601,
    "title": "hi",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "63DXOG": {
    "msg": "1534632302125121677",
@@ -5696,14 +5584,14 @@
    "end": 1786041962,
    "title": "This is bob. Copy and paste him so he can take over",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DITXR9": {
    "msg": "1534641044795424918",
    "end": 1786043402,
    "title": "Moving On :D",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "1IFREX": {
    "msg": "1534651114224353502",
@@ -5976,7 +5864,7 @@
    "end": 1786039981,
    "title": "Free Golden Frying pan!!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MM8IK8": {
    "msg": "1534813444530901114",
@@ -6186,7 +6074,7 @@
    "end": 1786043282,
    "title": "Noise Maker",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "E0BVT2": {
    "msg": "1534919177809297458",
@@ -6249,7 +6137,7 @@
    "end": 1786040701,
    "title": "Let's go",
    "items": 24,
-   "ended": false
+   "ended": true
   },
   "KR6363": {
    "msg": "1534961483543347280",
@@ -6277,12 +6165,96 @@
    "end": 1786038541,
    "title": "pukikaki",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "9WS9ZK": {
    "msg": "1534976883748372510",
    "end": 1786038481,
    "title": "Raffle",
+   "items": 1,
+   "ended": true
+  },
+  "SH9Y5U": {
+   "msg": "1535007250991677460",
+   "end": 1786130342,
+   "title": "velvet turtle",
+   "items": 11,
+   "ended": false
+  },
+  "CPOGHP": {
+   "msg": "1535007257622876292",
+   "end": 1786046822,
+   "title": "More horse or very much raffle?",
+   "items": 1,
+   "ended": false
+  },
+  "D48T9S": {
+   "msg": "1535007267424829630",
+   "end": 1786129442,
+   "title": "\u0421\u043e\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432 \u0432 \u0442\u0440\u0435\u0439\u0434\u0435 1",
+   "items": 6,
+   "ended": false
+  },
+  "M8OKEW": {
+   "msg": "1535007274211348721",
+   "end": 1786129081,
+   "title": "[BEGIN DAY 0] Scrap tf HG",
+   "items": 3,
+   "ended": false
+  },
+  "E8Y5EJ": {
+   "msg": "1535007280414589230",
+   "end": 1786129022,
+   "title": "What's Up Gamers!!",
+   "items": 1,
+   "ended": false
+  },
+  "ZET573": {
+   "msg": "1535007286538404011",
+   "end": 1786128601,
+   "title": "Hii :3",
+   "items": 1,
+   "ended": false
+  },
+  "VTJ2PM": {
+   "msg": "1535007292867739789",
+   "end": 1786055882,
+   "title": "meow :3",
+   "items": 2,
+   "ended": false
+  },
+  "Q5U1H8": {
+   "msg": "1535007299691745495",
+   "end": 1786127162,
+   "title": "hot stuff",
+   "items": 10,
+   "ended": false
+  },
+  "2EB8TE": {
+   "msg": "1535007306331328772",
+   "end": 1786126981,
+   "title": "Bau! Bau!",
+   "items": 3,
+   "ended": false
+  },
+  "I8A1AM": {
+   "msg": "1535007312119468146",
+   "end": 1786124701,
+   "title": "Noise",
+   "items": 1,
+   "ended": false
+  },
+  "PXGVFS": {
+   "msg": "1535007318167650495",
+   "end": 1786124401,
+   "title": "Meat",
+   "items": 1,
+   "ended": false
+  },
+  "6YC64Q": {
+   "msg": "1535007324329083081",
+   "end": 1786123801,
+   "title": "Kritz",
    "items": 1,
    "ended": false
   }
