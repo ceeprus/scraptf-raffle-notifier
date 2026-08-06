@@ -6186,7 +6186,7 @@
    "end": 1786002302,
    "title": "Getting Down To It #61",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IOQOGE": {
    "msg": "1534653654609694872",
@@ -6452,6 +6452,27 @@
    "end": 1786086962,
    "title": "Daily Hat #75",
    "items": 1,
+   "ended": false
+  },
+  "1CQ0N4": {
+   "msg": "1534829802824138782",
+   "end": 1786088461,
+   "title": "Noisy slopsy",
+   "items": 114,
+   "ended": false
+  },
+  "S28QR9": {
+   "msg": "1534829809182703777",
+   "end": 1786005302,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "JF967T": {
+   "msg": "1534829815117647953",
+   "end": 1786003441,
+   "title": "just scrap x2 , just reclaimed metal",
+   "items": 3,
    "ended": false
   }
  },
