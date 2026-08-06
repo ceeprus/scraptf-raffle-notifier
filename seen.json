@@ -497,13 +497,6 @@
    "items": 1,
    "ended": true
   },
-  "TH4XV2": {
-   "msg": "1532096798829711631",
-   "end": 1785393721,
-   "title": "OH GOD, SO MANY !!",
-   "items": 1,
-   "ended": true
-  },
   "1W5UXC": {
    "msg": "1532099316272074894",
    "end": 1785394441,
@@ -5689,7 +5682,7 @@
    "end": 1785998701,
    "title": "Most underrated band in my opinion",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "J7K23G": {
    "msg": "1534452322766159992",
