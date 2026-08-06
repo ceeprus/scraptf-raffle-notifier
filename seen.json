@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "MEQ0B8": {
-   "msg": "1531816175141523517",
-   "end": 1785369901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "TUYZGK": {
-   "msg": "1531816181785165905",
-   "end": 1785369841,
-   "title": "Raffles",
-   "items": 7,
-   "ended": true
-  },
   "M041P1": {
    "msg": "1531818701572018350",
    "end": 1785370021,
@@ -6606,6 +6592,13 @@
    "end": 1786056721,
    "title": "Graveyard Raffle (#3)",
    "items": 7,
+   "ended": false
+  },
+  "9ITNN0": {
+   "msg": "1534714001378775220",
+   "end": 1786017121,
+   "title": "First raffle",
+   "items": 3,
    "ended": false
   }
  },
