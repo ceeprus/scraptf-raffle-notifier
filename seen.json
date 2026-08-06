@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "JER026": {
-   "msg": "1531836352256016496",
-   "end": 1785374581,
-   "title": "Untitled raffle",
-   "items": 8,
-   "ended": true
-  },
-  "LOG6WW": {
-   "msg": "1531836361534083185",
-   "end": 1785374581,
-   "title": "\u271d\ufe0fguh!#TeamSandvich#TeamBanana",
-   "items": 4,
-   "ended": true
-  },
   "2ZBKLT": {
    "msg": "1531841343121391707",
    "end": 1785375781,
@@ -5773,7 +5759,7 @@
    "end": 1785979501,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BY4NIV": {
    "msg": "1534391909307515064",
