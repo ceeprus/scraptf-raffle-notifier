@@ -35,20 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "1VJK18": {
-   "msg": "1531996135357550694",
-   "end": 1785412861,
-   "title": "Foxloaf",
-   "items": 4,
-   "ended": true
-  },
-  "L9EVZN": {
-   "msg": "1531996145293721740",
-   "end": 1785412800,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "ZC7AZS": {
    "msg": "1532001165720551494",
    "end": 1785413702,
@@ -5654,7 +5640,7 @@
    "end": 1786017600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L34S4N": {
    "msg": "1534531669388689482",
