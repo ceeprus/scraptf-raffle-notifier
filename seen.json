@@ -5668,7 +5668,7 @@
    "end": 1786018921,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "9UU2D0": {
    "msg": "1534542932298829834",
@@ -6444,6 +6444,13 @@
    "msg": "1534895208263712990",
    "end": 1786104000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "KCBDDO": {
+   "msg": "1534900234893918338",
+   "end": 1786105322,
+   "title": "#19",
    "items": 1,
    "ended": false
   }
