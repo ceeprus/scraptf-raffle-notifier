@@ -42,24 +42,10 @@
    "items": 14,
    "ended": false
   },
-  "4Z0SF0": {
-   "msg": "1532110638636073031",
-   "end": 1785440161,
-   "title": "Pick My Custom Title - Quarterfinals (2/4)",
-   "items": 1,
-   "ended": true
-  },
   "6UJAPR": {
    "msg": "1532118174751920159",
    "end": 1785441901,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1S225T": {
-   "msg": "1532118189662666972",
-   "end": 1785441600,
-   "title": "A Refined a day keeps the doctor away! #22",
    "items": 1,
    "ended": true
   },
@@ -5605,7 +5591,7 @@
    "end": 1786045741,
    "title": "Tour 301-302-303",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "3LYGD0": {
    "msg": "1534651133103177739",
@@ -5619,7 +5605,7 @@
    "end": 1786046400,
    "title": "A Refined a day keeps the doctor away! #29",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9R6PVN": {
    "msg": "1534653661572239380",
@@ -6256,6 +6242,20 @@
    "end": 1786123801,
    "title": "Kritz",
    "items": 1,
+   "ended": false
+  },
+  "LYA09P": {
+   "msg": "1535014829738295416",
+   "end": 1786131541,
+   "title": "Need your help, guys!\ud83c\udfb6",
+   "items": 5,
+   "ended": false
+  },
+  "FPFDSY": {
+   "msg": "1535014837090783285",
+   "end": 1786131001,
+   "title": "Graveyard Raffle (#4)",
+   "items": 7,
    "ended": false
   }
  },
