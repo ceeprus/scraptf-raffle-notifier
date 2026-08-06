@@ -42,13 +42,6 @@
    "items": 7,
    "ended": true
   },
-  "ASHHOE": {
-   "msg": "1531930724096151562",
-   "end": 1785396842,
-   "title": "Stay quiet...",
-   "items": 3,
-   "ended": true
-  },
   "IHCXHH": {
    "msg": "1531935709798072362",
    "end": 1785398521,
@@ -5710,7 +5703,7 @@
    "end": 1786001581,
    "title": "A great failure.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "BDZQTE": {
    "msg": "1534468662671573002",
