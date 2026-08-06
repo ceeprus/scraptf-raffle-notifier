@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "V2M5SV": {
-   "msg": "1532052810710126814",
-   "end": 1785426361,
-   "title": "Hey T\u00fa!",
-   "items": 2,
-   "ended": true
-  },
   "1FPXZJ": {
    "msg": "1532055373110968441",
    "end": 1785427200,
@@ -5696,7 +5689,7 @@
    "end": 1786030562,
    "title": "My HONEST feelings about scrap users #7 [10 users, 9 actually i lied to you haha]",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9M001R": {
    "msg": "1534593246624481363",
