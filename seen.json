@@ -5668,7 +5668,7 @@
    "end": 1786017241,
    "title": "Daily Brass Beast #529",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QD882G": {
    "msg": "1534535398020091955",
@@ -6158,7 +6158,7 @@
    "end": 1786017121,
    "title": "First raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TKWLXV": {
    "msg": "1534726603668455544",
@@ -6451,6 +6451,13 @@
    "msg": "1534890207176949971",
    "end": 1786102441,
    "title": "hi im grabli11",
+   "items": 1,
+   "ended": false
+  },
+  "AJLN8Y": {
+   "msg": "1534892705912459264",
+   "end": 1786020361,
+   "title": "Drink it with some buddies",
    "items": 1,
    "ended": false
   }
