@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "1LZ9FG": {
-   "msg": "1531987358055010335",
-   "end": 1785411002,
-   "title": "+  +",
-   "items": 2,
-   "ended": true
-  },
   "IW5DX7": {
    "msg": "1531993576215679177",
    "end": 1785411842,
@@ -5640,7 +5633,7 @@
    "end": 1786015561,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8H5DMF": {
    "msg": "1534524097843822743",
@@ -6445,6 +6438,20 @@
    "end": 1786101602,
    "title": "chch exposure",
    "items": 1,
+   "ended": false
+  },
+  "1HNI18": {
+   "msg": "1534886469716541441",
+   "end": 1786102141,
+   "title": "I won these from a raffle, but I can't keep them.",
+   "items": 2,
+   "ended": false
+  },
+  "AQCXD7": {
+   "msg": "1534886476490473552",
+   "end": 1786101782,
+   "title": "I'm Dave",
+   "items": 6,
    "ended": false
   }
  },
