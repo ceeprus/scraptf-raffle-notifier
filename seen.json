@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "MUHFSX": {
-   "msg": "1531904381073625259",
-   "end": 1785391200,
-   "title": "Today is Wednesday",
-   "items": 1,
-   "ended": true
-  },
   "FCWUEM": {
    "msg": "1531909307866677389",
    "end": 1785391321,
@@ -6508,6 +6501,13 @@
    "end": 1786081561,
    "title": "huh?",
    "items": 11,
+   "ended": false
+  },
+  "XNSRPA": {
+   "msg": "1534803455766691940",
+   "end": 1786081802,
+   "title": "gentleman thursday",
+   "items": 1,
    "ended": false
   }
  },
