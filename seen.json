@@ -42,41 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "6UJAPR": {
-   "msg": "1532118174751920159",
-   "end": 1785441901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BXOY7M": {
-   "msg": "1532120719981412403",
-   "end": 1785442561,
-   "title": "A quick guide to Grabli304's raffle a day keeps Rizzberg's Full Course Meal away (110% real and working)",
-   "items": 1,
-   "ended": true
-  },
-  "ZOD1HN": {
-   "msg": "1532120726285455420",
-   "end": 1785442381,
-   "title": "The  is over!",
-   "items": 3,
-   "ended": true
-  },
-  "BY1TQ4": {
-   "msg": "1532123263495569589",
-   "end": 1785443041,
-   "title": "Raffle number 14!",
-   "items": 3,
-   "ended": true
-  },
-  "4JXZK2": {
-   "msg": "1532133288465137886",
-   "end": 1785445200,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "LYXF0T": {
    "msg": "1532140829550838011",
    "end": 1785447000,
@@ -248,20 +213,6 @@
   "MJG37B": {
    "msg": "1532294347209445449",
    "end": 1785483902,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "4QWWE0": {
-   "msg": "1532306931107102840",
-   "end": 1785443941,
-   "title": "Tipping every raffle that has  in it's name",
-   "items": 1,
-   "ended": true
-  },
-  "7HV11A": {
-   "msg": "1532312063857397840",
-   "end": 1785445262,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -543,13 +494,6 @@
    "msg": "1532392545953386677",
    "end": 1785507061,
    "title": "Daily raffle #320",
-   "items": 1,
-   "ended": true
-  },
-  "7A8RHH": {
-   "msg": "1532400068483612904",
-   "end": 1785444122,
-   "title": "LEON\u2757",
    "items": 1,
    "ended": true
   },
@@ -5626,14 +5570,14 @@
    "end": 1786046753,
    "title": "food",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZH37QK": {
    "msg": "1534661165358256332",
    "end": 1786048081,
    "title": "Equestria 4ever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "FJPEJU": {
    "msg": "1534666191916761090",
@@ -5647,14 +5591,14 @@
    "end": 1786049522,
    "title": "JaMM still on vaction",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IPVDLJ": {
    "msg": "1534668699557040230",
    "end": 1786050000,
    "title": "checkup #82 | Toxicity",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OM7ZBQ": {
    "msg": "1534677583680241715",
@@ -6172,7 +6116,7 @@
    "end": 1786046822,
    "title": "More horse or very much raffle?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D48T9S": {
    "msg": "1535007267424829630",
@@ -6256,6 +6200,13 @@
    "end": 1786131001,
    "title": "Graveyard Raffle (#4)",
    "items": 7,
+   "ended": false
+  },
+  "Z23UHE": {
+   "msg": "1535029939319865484",
+   "end": 1786132800,
+   "title": "A Refined a day keeps the doctor away! #30: The day before the \u00dcbergeddon..",
+   "items": 3,
    "ended": false
   }
  },
