@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "X11JMD": {
-   "msg": "1532045254088458431",
-   "end": 1785424261,
-   "title": "5  at once",
-   "items": 1,
-   "ended": true
-  },
   "V2M5SV": {
    "msg": "1532052810710126814",
    "end": 1785426361,
@@ -627,13 +620,6 @@
    "msg": "1532343417592479784",
    "end": 1785495600,
    "title": "So that's why he tries to act human!",
-   "items": 1,
-   "ended": true
-  },
-  "7DCHTB": {
-   "msg": "1532345941644939455",
-   "end": 1785424321,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5682,7 +5668,7 @@
    "end": 1786029181,
    "title": "\u0414\u0440\u0430\u0441\u0442\u0435",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "S0SLGU": {
    "msg": "1534583165493186731",
