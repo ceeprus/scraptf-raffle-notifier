@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "VGNUXE": {
-   "msg": "1531865242060066956",
-   "end": 1785381121,
-   "title": "Raffle Log #88",
-   "items": 1,
-   "ended": true
-  },
   "IES17L": {
    "msg": "1531870297089904732",
    "end": 1785382861,
@@ -6123,7 +6116,7 @@
    "end": 1785986041,
    "title": "Noize",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B5E4V3": {
    "msg": "1534580699451883530",
