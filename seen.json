@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "TJ0FYD": {
-   "msg": "1531831276502384723",
-   "end": 1785373262,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "JER026": {
    "msg": "1531836352256016496",
    "end": 1785374581,
@@ -392,25 +385,11 @@
    "items": 1,
    "ended": true
   },
-  "3UPJNH": {
-   "msg": "1532011195094274109",
-   "end": 1785373442,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "B0UCRD": {
    "msg": "1532011223305158687",
    "end": 1785416400,
    "title": "(GMOD) 2fart War",
    "items": 2,
-   "ended": true
-  },
-  "0R10QD": {
-   "msg": "1532013729389088943",
-   "end": 1785373502,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "6CYLXH": {
@@ -5780,7 +5759,7 @@
    "end": 1785978241,
    "title": "Hale's Own Trials: Persian Persuader: Day 2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CEV9BK": {
    "msg": "1534368014458163361",
