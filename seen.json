@@ -5675,7 +5675,7 @@
    "end": 1786027561,
    "title": "they call me the sauce packet",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "ZLFH65": {
    "msg": "1534578106877087876",
@@ -6382,6 +6382,13 @@
    "end": 1786113121,
    "title": "Lunch",
    "items": 2,
+   "ended": false
+  },
+  "N6LQ8A": {
+   "msg": "1534936794574094478",
+   "end": 1786113901,
+   "title": "Scrappy lol",
+   "items": 10,
    "ended": false
   }
  },
