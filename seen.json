@@ -427,13 +427,6 @@
    "items": 3,
    "ended": true
   },
-  "6KAT3I": {
-   "msg": "1532042710041493676",
-   "end": 1785380400,
-   "title": "Finally...",
-   "items": 2,
-   "ended": true
-  },
   "X11JMD": {
    "msg": "1532045254088458431",
    "end": 1785424261,
@@ -5731,7 +5724,7 @@
    "end": 1785985081,
    "title": "((Somewhat)) Saying Goodbye to Team Fortress 2 ((For real this time)) (((Part 2)))",
    "items": 152,
-   "ended": false
+   "ended": true
   },
   "9S7OPQ": {
    "msg": "1534399497831055502",
