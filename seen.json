@@ -5675,7 +5675,7 @@
    "end": 1786021802,
    "title": "Comment smth on my profile",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MNHFLJ": {
    "msg": "1534552939946049536",
@@ -6416,6 +6416,20 @@
    "msg": "1534900234893918338",
    "end": 1786105322,
    "title": "#19",
+   "items": 1,
+   "ended": false
+  },
+  "9754US": {
+   "msg": "1534911614539792475",
+   "end": 1786107841,
+   "title": "Daily Brass Beast #530",
+   "items": 1,
+   "ended": false
+  },
+  "KLV76H": {
+   "msg": "1534911620898226339",
+   "end": 1786107600,
+   "title": "Loe efoort raffhls",
    "items": 1,
    "ended": false
   }
