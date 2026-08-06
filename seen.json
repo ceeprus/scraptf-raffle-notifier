@@ -35,13 +35,6 @@
    "items": 28,
    "ended": false
   },
-  "IES17L": {
-   "msg": "1531870297089904732",
-   "end": 1785382861,
-   "title": "Free stuff",
-   "items": 2,
-   "ended": true
-  },
   "ENVCID": {
    "msg": "1531875317659205682",
    "end": 1785384000,
@@ -5724,7 +5717,7 @@
    "end": 1785987900,
    "title": "Lost Things",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CWTLA1": {
    "msg": "1534410918002298900",
@@ -6500,6 +6493,13 @@
    "msg": "1534766855292583996",
    "end": 1786072981,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LPLO1H": {
+   "msg": "1534769381131812934",
+   "end": 1786073761,
+   "title": "Second Thoughts",
    "items": 1,
    "ended": false
   }
