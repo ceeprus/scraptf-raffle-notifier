@@ -42,24 +42,10 @@
    "items": 14,
    "ended": false
   },
-  "APQ5LL": {
-   "msg": "1532446579393560666",
-   "end": 1785520441,
-   "title": "stupid raffle",
-   "items": 1,
-   "ended": true
-  },
   "SXZE1Q": {
    "msg": "1532449101411651625",
    "end": 1785521041,
    "title": "uncool raffle",
-   "items": 1,
-   "ended": true
-  },
-  "343SUZ": {
-   "msg": "1532449109632618597",
-   "end": 1785520682,
-   "title": "hey can someone help me (spy)",
    "items": 1,
    "ended": true
   },
@@ -635,13 +621,6 @@
    "end": 1785563941,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": true
-  },
-  "QDKUGN": {
-   "msg": "1532631559729971301",
-   "end": 1785520861,
-   "title": "What are they drinking?",
-   "items": 1,
    "ended": true
   },
   "B5OJGU": {
@@ -5304,7 +5283,7 @@
    "end": 1786124701,
    "title": "Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PXGVFS": {
    "msg": "1535007318167650495",
@@ -6067,6 +6046,13 @@
    "end": 1786210202,
    "title": "Guys",
    "items": 3,
+   "ended": false
+  },
+  "D1VPQ7": {
+   "msg": "1535347049967521923",
+   "end": 1786211281,
+   "title": "30th anniversary quakecon",
+   "items": 30,
    "ended": false
   }
  },
