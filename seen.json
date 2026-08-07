@@ -42,55 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "UM65CD": {
-   "msg": "1532465478067290223",
-   "end": 1785524582,
-   "title": "Do the good stuff for the community",
-   "items": 1,
-   "ended": true
-  },
-  "B0ZPX9": {
-   "msg": "1532465485093011648",
-   "end": 1785524521,
-   "title": "X",
-   "items": 2,
-   "ended": true
-  },
-  "QMCDN5": {
-   "msg": "1532468016875311157",
-   "end": 1785525300,
-   "title": "Profiles of The Day #131",
-   "items": 2,
-   "ended": true
-  },
-  "B2DS56": {
-   "msg": "1532468032016744478",
-   "end": 1785524881,
-   "title": "\u041a\u0442\u043e \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0435\u0442 \u0442\u043e\u0442 \u043b\u043e\u0445",
-   "items": 1,
-   "ended": true
-  },
-  "4WY72E": {
-   "msg": "1532468040598552739",
-   "end": 1785524821,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "26PWN4": {
-   "msg": "1532470555184201811",
-   "end": 1785525781,
-   "title": "Starchion's wisdom",
-   "items": 1,
-   "ended": true
-  },
-  "MI9LYZ": {
-   "msg": "1532470564080320565",
-   "end": 1785525721,
-   "title": "keeps walking on, followed by",
-   "items": 1,
-   "ended": true
-  },
   "XNCLTE": {
    "msg": "1532473008789389352",
    "end": 1785526501,
@@ -110,13 +61,6 @@
    "end": 1785526382,
    "title": "i gotta stop playing mvm pt.5",
    "items": 36,
-   "ended": true
-  },
-  "DGCF9E": {
-   "msg": "1532473045061472449",
-   "end": 1785526141,
-   "title": "Untitled raffle",
-   "items": 3,
    "ended": true
   },
   "9VJHAW": {
@@ -614,13 +558,6 @@
    "end": 1785568201,
    "title": "Boot",
    "items": 1,
-   "ended": true
-  },
-  "MYRJRO": {
-   "msg": "1532649191275499562",
-   "end": 1785524941,
-   "title": "Thanks brain",
-   "items": 3,
    "ended": true
   },
   "X2SDIY": {
@@ -5178,7 +5115,7 @@
    "end": 1786130342,
    "title": "velvet turtle",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "CPOGHP": {
    "msg": "1535007257622876292",
@@ -5192,7 +5129,7 @@
    "end": 1786129442,
    "title": "\u0421\u043e\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432 \u0432 \u0442\u0440\u0435\u0439\u0434\u0435 1",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "M8OKEW": {
    "msg": "1535007274211348721",
@@ -5269,7 +5206,7 @@
    "end": 1786131001,
    "title": "Graveyard Raffle (#4)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "Z23UHE": {
    "msg": "1535029939319865484",
@@ -5549,7 +5486,7 @@
    "end": 1786129861,
    "title": "I got bored, so here\u2019s a gift\u2014a little hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B8T7WM": {
    "msg": "1535188472195981425",
@@ -6024,6 +5961,34 @@
    "msg": "1535357232735195237",
    "end": 1786170600,
    "title": "[DAY 1] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "GQ8XNL": {
+   "msg": "1535369652807409754",
+   "end": 1786216622,
+   "title": "Free game! #60 - Breathedge",
+   "items": 2,
+   "ended": false
+  },
+  "LJPSYO": {
+   "msg": "1535369660067749981",
+   "end": 1786133101,
+   "title": "Salt's surplus stuff",
+   "items": 7,
+   "ended": false
+  },
+  "CIXEYW": {
+   "msg": "1535369669144482003",
+   "end": 1786215841,
+   "title": "gotta love free stuff",
+   "items": 30,
+   "ended": false
+  },
+  "VO94FN": {
+   "msg": "1535369675050057829",
+   "end": 1786215722,
+   "title": "solemn vow",
    "items": 1,
    "ended": false
   }
