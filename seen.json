@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "M9BM0F": {
-   "msg": "1532478116596023346",
-   "end": 1785527281,
-   "title": "animapocalypse",
-   "items": 3,
-   "ended": true
-  },
   "P4PS9L": {
    "msg": "1532480633589465172",
    "end": 1785528241,
@@ -61,20 +54,6 @@
    "end": 1785528122,
    "title": "Degreaseing my inventory",
    "items": 2,
-   "ended": true
-  },
-  "UHTA02": {
-   "msg": "1532480649133428867",
-   "end": 1785528000,
-   "title": "A Refined a day keeps the doctor away! #23",
-   "items": 1,
-   "ended": true
-  },
-  "1FJ9UF": {
-   "msg": "1532480656666529892",
-   "end": 1785527881,
-   "title": "I Hope You Find Your Way Home",
-   "items": 1,
    "ended": true
   },
   "2Z39XU": {
@@ -522,13 +501,6 @@
    "msg": "1532656721711857735",
    "end": 1785570421,
    "title": "Starchion's wisdom #2",
-   "items": 1,
-   "ended": true
-  },
-  "OWM88Z": {
-   "msg": "1532661793892339844",
-   "end": 1785528002,
-   "title": "poll for fun (or is it)",
    "items": 1,
    "ended": true
   },
@@ -5157,7 +5129,7 @@
    "end": 1786132800,
    "title": "A Refined a day keeps the doctor away! #30: The day before the \u00dcbergeddon..",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "Z0DK7Y": {
    "msg": "1535060190007922690",
@@ -5954,6 +5926,13 @@
    "msg": "1535373222545985539",
    "end": 1786217341,
    "title": "Fuck.",
+   "items": 1,
+   "ended": false
+  },
+  "SFAJY4": {
+   "msg": "1535377248486555758",
+   "end": 1786218061,
+   "title": "Who's the best quintuplet?",
    "items": 1,
    "ended": false
   }
