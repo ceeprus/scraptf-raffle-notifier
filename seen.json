@@ -826,13 +826,6 @@
    "items": 36,
    "ended": true
   },
-  "B881A3": {
-   "msg": "1532473037474103476",
-   "end": 1785454322,
-   "title": "why show removed comments",
-   "items": 1,
-   "ended": true
-  },
   "DGCF9E": {
    "msg": "1532473045061472449",
    "end": 1785526141,
@@ -6179,6 +6172,13 @@
    "end": 1786143542,
    "title": "Mark I made a Steak",
    "items": 1,
+   "ended": false
+  },
+  "CEKCYE": {
+   "msg": "1535075264416186409",
+   "end": 1786145942,
+   "title": "warpaints",
+   "items": 44,
    "ended": false
   }
  },
