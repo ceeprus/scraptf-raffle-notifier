@@ -5367,7 +5367,7 @@
    "end": 1786109461,
    "title": "pure bisons",
    "items": 107,
-   "ended": false
+   "ended": true
   },
   "CM3ENI": {
    "msg": "1534921663026823280",
@@ -6115,6 +6115,20 @@
    "msg": "1535279108529979477",
    "end": 1786194000,
    "title": "The Award Winning Assassin",
+   "items": 1,
+   "ended": false
+  },
+  "K2UMR9": {
+   "msg": "1535282947735949456",
+   "end": 1786196161,
+   "title": "What's the point of bein' rich when you wake up alone?",
+   "items": 1,
+   "ended": false
+  },
+  "IW7GTG": {
+   "msg": "1535282954614472724",
+   "end": 1786195561,
+   "title": "slugma posting",
    "items": 1,
    "ended": false
   }
