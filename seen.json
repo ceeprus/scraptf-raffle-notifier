@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "7ZR9IA": {
-   "msg": "1532315763489378364",
-   "end": 1785489001,
-   "title": "Raffle number 15!",
-   "items": 3,
-   "ended": true
-  },
-  "Z222BT": {
-   "msg": "1532318237914562645",
-   "end": 1785489181,
-   "title": "Here comes the",
-   "items": 1,
-   "ended": true
-  },
   "A37A2M": {
    "msg": "1532323278457274429",
    "end": 1785490921,
@@ -5458,7 +5444,7 @@
    "end": 1786093922,
    "title": "Bau! Bau!",
    "items": 16,
-   "ended": false
+   "ended": true
   },
   "SJD0P8": {
    "msg": "1534861256685654127",
