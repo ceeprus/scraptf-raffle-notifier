@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "K8DQ8X": {
-   "msg": "1532503268885008588",
-   "end": 1785533942,
-   "title": "take them all",
-   "items": 50,
-   "ended": true
-  },
   "JSWR3N": {
    "msg": "1532512054844457071",
    "end": 1785535875,
@@ -427,46 +420,11 @@
    "items": 1,
    "ended": true
   },
-  "F7RIT4": {
-   "msg": "1532684426088026113",
-   "end": 1785533881,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1SHWAO": {
-   "msg": "1532684432882925570",
-   "end": 1785533642,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GF4QHU": {
-   "msg": "1532686925813518356",
-   "end": 1785534421,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "TD2KWL": {
    "msg": "1532686932251770992",
    "end": 1785577561,
    "title": "guys pls tips write reason in message",
    "items": 3,
-   "ended": true
-  },
-  "06U1DL": {
-   "msg": "1532686938090377317",
-   "end": 1785534241,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "AS809F": {
-   "msg": "1532686944490754088",
-   "end": 1785534061,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "138QOQ": {
@@ -5877,6 +5835,13 @@
    "msg": "1535399613409005660",
    "end": 1786222800,
    "title": "it my burfday :)",
+   "items": 2,
+   "ended": false
+  },
+  "QJYAK3": {
+   "msg": "1535407445084602379",
+   "end": 1786182241,
+   "title": "I'm bad at spy",
    "items": 2,
    "ended": false
   }
