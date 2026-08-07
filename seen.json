@@ -42,62 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "XNCLTE": {
-   "msg": "1532473008789389352",
-   "end": 1785526501,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "ZBRAWA": {
-   "msg": "1532473016863428739",
-   "end": 1785526441,
-   "title": "[\ud83e\udd89] OWL FACTS #27",
-   "items": 1,
-   "ended": true
-  },
-  "OL9KC0": {
-   "msg": "1532473028120678541",
-   "end": 1785526382,
-   "title": "i gotta stop playing mvm pt.5",
-   "items": 36,
-   "ended": true
-  },
-  "9VJHAW": {
-   "msg": "1532475540454375474",
-   "end": 1785526981,
-   "title": "Untitled raffle",
-   "items": 4,
-   "ended": true
-  },
-  "TP7U0H": {
-   "msg": "1532475547924434995",
-   "end": 1785526921,
-   "title": "Send me Music Raffle",
-   "items": 9,
-   "ended": true
-  },
-  "KHDZ4U": {
-   "msg": "1532475562331865139",
-   "end": 1785526741,
-   "title": "Rant + QnA",
-   "items": 1,
-   "ended": true
-  },
-  "WGCDH0": {
-   "msg": "1532475578626609193",
-   "end": 1785526622,
-   "title": "Equestria 4ever",
-   "items": 54,
-   "ended": true
-  },
-  "C0WSA5": {
-   "msg": "1532475585169719338",
-   "end": 1785526621,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "M9BM0F": {
    "msg": "1532478116596023346",
    "end": 1785527281,
@@ -5199,7 +5143,7 @@
    "end": 1786131541,
    "title": "Need your help, guys!\ud83c\udfb6",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "FPFDSY": {
    "msg": "1535014837090783285",
@@ -5989,6 +5933,27 @@
    "msg": "1535369675050057829",
    "end": 1786215722,
    "title": "solemn vow",
+   "items": 1,
+   "ended": false
+  },
+  "KD06DV": {
+   "msg": "1535373209627787348",
+   "end": 1786217839,
+   "title": "Equestria 4ever",
+   "items": 53,
+   "ended": false
+  },
+  "FS67GP": {
+   "msg": "1535373216766238861",
+   "end": 1786217462,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "7RTHLZ": {
+   "msg": "1535373222545985539",
+   "end": 1786217341,
+   "title": "Fuck.",
    "items": 1,
    "ended": false
   }
