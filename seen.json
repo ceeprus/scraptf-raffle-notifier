@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "OGS2EX": {
-   "msg": "1532363502486946033",
-   "end": 1785500461,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "D2HJUM": {
-   "msg": "1532366048739725323",
-   "end": 1785501061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "XSV3Q4": {
-   "msg": "1532366056746778715",
-   "end": 1785501002,
-   "title": "Ripped in half by",
-   "items": 1,
-   "ended": true
-  },
   "OD76IJ": {
    "msg": "1532368605730177096",
    "end": 1785501421,
@@ -5409,7 +5388,7 @@
    "end": 1786105322,
    "title": "#19",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9754US": {
    "msg": "1534911614539792475",
@@ -6116,6 +6095,13 @@
    "end": 1786190400,
    "title": "Untitled raffle",
    "items": 6,
+   "ended": false
+  },
+  "X9DGFU": {
+   "msg": "1535264010432151622",
+   "end": 1786191781,
+   "title": "Fanumstein Rizzberg???",
+   "items": 1,
    "ended": false
   }
  },
