@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "60QYH0": {
-   "msg": "1532348415948886120",
-   "end": 1785496501,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
   "7JS3AR": {
    "msg": "1532350932396806324",
    "end": 1785497401,
@@ -651,13 +644,6 @@
    "items": 3,
    "ended": true
   },
-  "TK02LG": {
-   "msg": "1532525893526880397",
-   "end": 1785495841,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
   "XKU2T0": {
    "msg": "1532525906269175903",
    "end": 1785538800,
@@ -675,13 +661,6 @@
   "SUPU3D": {
    "msg": "1532525919883886773",
    "end": 1785538622,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NLS4AT": {
-   "msg": "1532528407231860979",
-   "end": 1785496562,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -5430,7 +5409,7 @@
    "end": 1786101602,
    "title": "chch exposure",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1HNI18": {
    "msg": "1534886469716541441",
@@ -6116,6 +6095,48 @@
    "end": 1786185721,
    "title": "My first raffle! :)",
    "items": 3,
+   "ended": false
+  },
+  "L81VSQ": {
+   "msg": "1535246307978125314",
+   "end": 1786187401,
+   "title": "#23",
+   "items": 1,
+   "ended": false
+  },
+  "PRRLDQ": {
+   "msg": "1535246315674406953",
+   "end": 1786102621,
+   "title": "Untitled raffle",
+   "items": 14,
+   "ended": false
+  },
+  "ZK901H": {
+   "msg": "1535246321445769297",
+   "end": 1786186981,
+   "title": "#22",
+   "items": 1,
+   "ended": false
+  },
+  "SPSXQC": {
+   "msg": "1535246327322120303",
+   "end": 1786186802,
+   "title": "Tyler The Finn",
+   "items": 1,
+   "ended": false
+  },
+  "U7G9AE": {
+   "msg": "1535246333538082828",
+   "end": 1786186800,
+   "title": "The sky had a baby!!",
+   "items": 1,
+   "ended": false
+  },
+  "C2PDK6": {
+   "msg": "1535246340744020053",
+   "end": 1786186741,
+   "title": "#21",
+   "items": 1,
    "ended": false
   }
  },
