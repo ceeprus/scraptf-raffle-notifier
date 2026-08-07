@@ -42,31 +42,10 @@
    "items": 14,
    "ended": false
   },
-  "NIPEP1": {
-   "msg": "1532355970636972262",
-   "end": 1785498722,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "UZPKHF": {
-   "msg": "1532355977356251267",
-   "end": 1785498361,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "513VNW": {
    "msg": "1532358467585576960",
    "end": 1785499321,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JFOTOZ": {
-   "msg": "1532358474183217182",
-   "end": 1785499200,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": true
   },
@@ -1013,13 +992,6 @@
    "end": 1785570421,
    "title": "Starchion's wisdom #2",
    "items": 1,
-   "ended": true
-  },
-  "J7ZPO1": {
-   "msg": "1532656728863408138",
-   "end": 1785498002,
-   "title": "trash",
-   "items": 4,
    "ended": true
   },
   "OWM88Z": {
@@ -5416,14 +5388,14 @@
    "end": 1786102621,
    "title": "Struggles of an Introvert - schizo rambling",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "DKKI16": {
    "msg": "1534890207176949971",
    "end": 1786102441,
    "title": "hi im grabli11",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AJLN8Y": {
    "msg": "1534892705912459264",
@@ -5437,7 +5409,7 @@
    "end": 1786104000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KCBDDO": {
    "msg": "1534900234893918338",
@@ -6095,7 +6067,7 @@
    "end": 1786102621,
    "title": "Untitled raffle",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "ZK901H": {
    "msg": "1535246321445769297",
@@ -6123,6 +6095,20 @@
    "end": 1786186741,
    "title": "#21",
    "items": 1,
+   "ended": false
+  },
+  "1TKL78": {
+   "msg": "1535256480981196903",
+   "end": 1786189501,
+   "title": "Have you ever seen me on 2 Fort?",
+   "items": 3,
+   "ended": false
+  },
+  "REEL0T": {
+   "msg": "1535256490397671518",
+   "end": 1786188841,
+   "title": "Untitled raffle",
+   "items": 6,
    "ended": false
   }
  },
