@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "SXZE1Q": {
-   "msg": "1532449101411651625",
-   "end": 1785521041,
-   "title": "uncool raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0K6N5N": {
-   "msg": "1532454114334609460",
-   "end": 1785522301,
-   "title": "(still!) Tipping all  raffles!",
-   "items": 5,
-   "ended": true
-  },
   "07RV2R": {
    "msg": "1532459196585345226",
    "end": 1785523381,
@@ -5269,14 +5255,14 @@
    "end": 1786127162,
    "title": "hot stuff",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "2EB8TE": {
    "msg": "1535007306331328772",
    "end": 1786126981,
    "title": "Bau! Bau!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "I8A1AM": {
    "msg": "1535007312119468146",
