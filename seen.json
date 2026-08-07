@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "KQWC3E": {
-   "msg": "1532279251808550942",
-   "end": 1785480061,
-   "title": "Day 18 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "JBB35C": {
    "msg": "1532281831704100895",
    "end": 1785480962,
@@ -5444,7 +5437,7 @@
    "end": 1786084741,
    "title": "I have a good news",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IC8OJV": {
    "msg": "1534824731008700520",
@@ -6066,6 +6059,41 @@
    "msg": "1535173371422310404",
    "end": 1786168981,
    "title": "Daily Kit Fabricator #1",
+   "items": 1,
+   "ended": false
+  },
+  "3HB12W": {
+   "msg": "1535177103878656031",
+   "end": 1786171141,
+   "title": "Day 1 of asking for Slugma Chain emoticon",
+   "items": 150,
+   "ended": false
+  },
+  "AUDWTM": {
+   "msg": "1535177109880709145",
+   "end": 1786170841,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "RTOJQV": {
+   "msg": "1535177115715117077",
+   "end": 1786170721,
+   "title": "Day 53-54 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "TSO2RT": {
+   "msg": "1535177122560217098",
+   "end": 1786091402,
+   "title": "raffle leftovers",
+   "items": 10,
+   "ended": false
+  },
+  "AVZXS2": {
+   "msg": "1535177128415461406",
+   "end": 1786170542,
+   "title": "Day 58-59 of Asking for a Follow Button",
    "items": 1,
    "ended": false
   }
