@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "XKU2T0": {
-   "msg": "1532525906269175903",
-   "end": 1785538800,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "V5DZ6V": {
-   "msg": "1532525913303154899",
-   "end": 1785538682,
-   "title": "but raccoon noises instead",
-   "items": 1,
-   "ended": true
-  },
-  "SUPU3D": {
-   "msg": "1532525919883886773",
-   "end": 1785538622,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "36OA5T": {
    "msg": "1532528413666185216",
    "end": 1785539701,
@@ -4968,7 +4947,7 @@
    "end": 1786143121,
    "title": "Free Golden Frying pan!!!! #2 (also help me power scale)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RU6378": {
    "msg": "1535067697749041184",
@@ -5003,14 +4982,14 @@
    "end": 1786143600,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LG7Y3M": {
    "msg": "1535067739692208159",
    "end": 1786143542,
    "title": "Mark I made a Steak",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CEKCYE": {
    "msg": "1535075264416186409",
@@ -5836,6 +5815,13 @@
    "end": 1786227901,
    "title": "Graveyard Raffle (#7)",
    "items": 7,
+   "ended": false
+  },
+  "SR9BVM": {
+   "msg": "1535422553055563907",
+   "end": 1786229282,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
