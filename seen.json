@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "07RV2R": {
-   "msg": "1532459196585345226",
-   "end": 1785523381,
-   "title": "Can't believe we still sipping from the same cup",
-   "items": 3,
-   "ended": true
-  },
-  "HJJ33U": {
-   "msg": "1532461698466713670",
-   "end": 1785523981,
-   "title": "How to win the game, a guide",
-   "items": 1,
-   "ended": true
-  },
   "UM65CD": {
    "msg": "1532465478067290223",
    "end": 1785524582,
@@ -68,13 +54,6 @@
    "end": 1785524521,
    "title": "X",
    "items": 2,
-   "ended": true
-  },
-  "72B0NY": {
-   "msg": "1532465491774410756",
-   "end": 1785524461,
-   "title": "Sip Secret",
-   "items": 1,
    "ended": true
   },
   "QMCDN5": {
@@ -5220,21 +5199,21 @@
    "end": 1786129081,
    "title": "[BEGIN DAY 0] Scrap tf HG",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "E8Y5EJ": {
    "msg": "1535007280414589230",
    "end": 1786129022,
    "title": "What's Up Gamers!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZET573": {
    "msg": "1535007286538404011",
    "end": 1786128601,
    "title": "Hii :3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VTJ2PM": {
    "msg": "1535007292867739789",
@@ -5556,7 +5535,7 @@
    "end": 1786128541,
    "title": "I'm still alive",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "2Y1OP4": {
    "msg": "1535180954971152509",
