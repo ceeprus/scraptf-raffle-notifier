@@ -5451,7 +5451,7 @@
    "end": 1786092481,
    "title": "Daily Black Box(es) #155",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U194HW": {
    "msg": "1534853717482799235",
@@ -5920,7 +5920,7 @@
    "end": 1786091641,
    "title": "Free Warpaints",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "VOWXXF": {
    "msg": "1535120598315958322",
@@ -6123,6 +6123,41 @@
    "end": 1786174501,
    "title": "The marsupial appears",
    "items": 1,
+   "ended": false
+  },
+  "NWPRFJ": {
+   "msg": "1535211150826799208",
+   "end": 1786179361,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FGOQL7": {
+   "msg": "1535211157839679539",
+   "end": 1786179241,
+   "title": "Crafted hat",
+   "items": 1,
+   "ended": false
+  },
+  "8I39MK": {
+   "msg": "1535211163975950358",
+   "end": 1786179182,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "I3QS4X": {
+   "msg": "1535211170275926106",
+   "end": 1786179062,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MN1JTO": {
+   "msg": "1535211179205459979",
+   "end": 1786177502,
+   "title": "Bau! Bau!",
+   "items": 18,
    "ended": false
   }
  },
