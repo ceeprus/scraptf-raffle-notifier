@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "3VWN1N": {
-   "msg": "1532250256379609113",
-   "end": 1785473161,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "NMHHGA": {
    "msg": "1532266745262243841",
    "end": 1785477242,
@@ -452,13 +445,6 @@
    "msg": "1532429010397827253",
    "end": 1785515881,
    "title": "Raffling every 2 days #2",
-   "items": 1,
-   "ended": true
-  },
-  "FZQPZL": {
-   "msg": "1532429017968410744",
-   "end": 1785472502,
-   "title": "Yo",
    "items": 1,
    "ended": true
   },
@@ -6095,6 +6081,13 @@
    "end": 1786161600,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1498 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 7,
+   "ended": false
+  },
+  "Y5RWYB": {
+   "msg": "1535150752123723796",
+   "end": 1786121521,
+   "title": "Amazing.",
+   "items": 1,
    "ended": false
   }
  },
