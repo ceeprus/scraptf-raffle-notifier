@@ -49,20 +49,6 @@
    "items": 2,
    "ended": true
   },
-  "7QKW62": {
-   "msg": "1532193679895298179",
-   "end": 1785459600,
-   "title": "Reminder to eat n' drink water if ye haven't yet #261",
-   "items": 5,
-   "ended": true
-  },
-  "M3O8PS": {
-   "msg": "1532193686794801293",
-   "end": 1785459421,
-   "title": "Musicccccc",
-   "items": 2,
-   "ended": true
-  },
   "O0ZHDZ": {
    "msg": "1532198761067974687",
    "end": 1785461041,
@@ -5584,14 +5570,14 @@
    "end": 1786063621,
    "title": "team fortress 2",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "EUC1XB": {
    "msg": "1534730403557015623",
    "end": 1786064400,
    "title": "Reminder to eat n' drink water if ye haven't yet #265",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "DW19EF": {
    "msg": "1534743056648245349",
@@ -6186,6 +6172,20 @@
    "end": 1786148821,
    "title": "Win a Raffle, Make a Raffle! #3",
    "items": 1,
+   "ended": false
+  },
+  "XOZXWP": {
+   "msg": "1535090351226880031",
+   "end": 1786149602,
+   "title": "Graveyard Raffle (#6)",
+   "items": 7,
+   "ended": false
+  },
+  "0NOXKX": {
+   "msg": "1535090370310967446",
+   "end": 1786149542,
+   "title": "A Couple of Dupes",
+   "items": 65,
    "ended": false
   }
  },
