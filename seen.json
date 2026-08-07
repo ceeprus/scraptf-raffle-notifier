@@ -42,39 +42,11 @@
    "items": 14,
    "ended": false
   },
-  "36OA5T": {
-   "msg": "1532528413666185216",
-   "end": 1785539701,
-   "title": "Raffling a  every time I win a",
-   "items": 1,
-   "ended": true
-  },
-  "L7F25Z": {
-   "msg": "1532528419957379082",
-   "end": 1785539281,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "A0UC5B": {
-   "msg": "1532528426467069953",
-   "end": 1785539162,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
   "1X7GNU": {
    "msg": "1532533423019655320",
    "end": 1785540842,
    "title": "The Pain Train has no brakes",
    "items": 7,
-   "ended": true
-  },
-  "6SIU66": {
-   "msg": "1532533429818622073",
-   "end": 1785540422,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "LQ966F": {
@@ -427,13 +399,6 @@
    "items": 1,
    "ended": true
   },
-  "KUGIXL": {
-   "msg": "1532709971635077271",
-   "end": 1785540122,
-   "title": "free",
-   "items": 1,
-   "ended": true
-  },
   "MBT8EG": {
    "msg": "1532713363505676409",
    "end": 1785583921,
@@ -768,13 +733,6 @@
    "end": 1785603901,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "CRQEQP": {
-   "msg": "1532798918985908284",
-   "end": 1785538982,
-   "title": "Aguante Argentina  /// Algunos Refinados para ustedes",
-   "items": 3,
    "ended": true
   },
   "WQLKRX": {
@@ -4961,21 +4919,21 @@
    "end": 1786144381,
    "title": "Hale's Own Trials: Persian Persuader: Day 4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NHJX6I": {
    "msg": "1535067713448190015",
    "end": 1786144202,
    "title": "Doubter.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PL0Q8I": {
    "msg": "1535067726178156634",
    "end": 1786143901,
    "title": "Graveyard Raffle (#5)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "PAPL58": {
    "msg": "1535067732607762474",
@@ -5821,6 +5779,13 @@
    "msg": "1535422553055563907",
    "end": 1786229282,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "JY9WHH": {
+   "msg": "1535430097992155246",
+   "end": 1786230000,
+   "title": "A  a day",
    "items": 1,
    "ended": false
   }
