@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "RVSYVH": {
-   "msg": "1532410172255768677",
-   "end": 1785511742,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "0U9M6B": {
    "msg": "1532412624577499277",
    "end": 1785512341,
@@ -67,13 +60,6 @@
    "msg": "1532412638972088320",
    "end": 1785511861,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "ZQ8B9P": {
-   "msg": "1532412645657809058",
-   "end": 1785511800,
-   "title": "The Favorites of Music #261 & #262",
    "items": 1,
    "ended": true
   },
@@ -662,27 +648,6 @@
    "msg": "1532590002524000336",
    "end": 1785554554,
    "title": "i have nothing to say",
-   "items": 1,
-   "ended": true
-  },
-  "L0BYE9": {
-   "msg": "1532590009750782062",
-   "end": 1785511262,
-   "title": "Getting Down To It #49",
-   "items": 1,
-   "ended": true
-  },
-  "E82S0D": {
-   "msg": "1532592524730961981",
-   "end": 1785511741,
-   "title": "Getting Down To It #51",
-   "items": 1,
-   "ended": true
-  },
-  "UR2ZUK": {
-   "msg": "1532592531588644986",
-   "end": 1785511621,
-   "title": "Getting Down To It #50",
    "items": 1,
    "ended": true
   },
@@ -6129,6 +6094,13 @@
    "msg": "1535297883480268862",
    "end": 1786156200,
    "title": "[DAY 0.5] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "SXR7UJ": {
+   "msg": "1535309284739383357",
+   "end": 1786201441,
+   "title": "Raffling a  every time I win a  #74",
    "items": 1,
    "ended": false
   }
