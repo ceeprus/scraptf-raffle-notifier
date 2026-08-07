@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "NMHHGA": {
-   "msg": "1532266745262243841",
-   "end": 1785477242,
-   "title": "Daily Hat #70",
-   "items": 1,
-   "ended": true
-  },
-  "HDEJMS": {
-   "msg": "1532269176008347742",
-   "end": 1785477600,
-   "title": "Today is Thursday",
-   "items": 1,
-   "ended": true
-  },
   "XUKTUF": {
    "msg": "1532271686378979389",
    "end": 1785478201,
@@ -474,13 +460,6 @@
    "end": 1785519482,
    "title": "My HONEST feelings about scrap users #6",
    "items": 2,
-   "ended": true
-  },
-  "S572IN": {
-   "msg": "1532444076547244083",
-   "end": 1785476041,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "APQ5LL": {
@@ -5458,14 +5437,14 @@
    "end": 1786081561,
    "title": "huh?",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "XNSRPA": {
    "msg": "1534803455766691940",
    "end": 1786081802,
    "title": "gentleman thursday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WWM3NF": {
    "msg": "1534808427522555998",
@@ -6067,6 +6046,20 @@
    "end": 1786165922,
    "title": "Wow my last raffle was 6 years ago",
    "items": 2,
+   "ended": false
+  },
+  "AMWSPJ": {
+   "msg": "1535165848438833193",
+   "end": 1786167122,
+   "title": "Daily Black Boxes #156",
+   "items": 2,
+   "ended": false
+  },
+  "QNWYVX": {
+   "msg": "1535165855615160350",
+   "end": 1786167002,
+   "title": "Daily Hat #76",
+   "items": 1,
    "ended": false
   }
  },
