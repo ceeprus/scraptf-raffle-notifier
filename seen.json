@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "C0SW1H": {
-   "msg": "1532426464476008589",
-   "end": 1785515041,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "O2EG9D": {
    "msg": "1532429001165901845",
    "end": 1785516001,
@@ -6039,6 +6032,34 @@
    "end": 1786203781,
    "title": "W Fanumstein Rizzberg",
    "items": 2,
+   "ended": false
+  },
+  "63O4U8": {
+   "msg": "1535324369943797791",
+   "end": 1786205102,
+   "title": "Give me songs!!!",
+   "items": 1,
+   "ended": false
+  },
+  "07LXWQ": {
+   "msg": "1535324378127007776",
+   "end": 1786204802,
+   "title": "Fly birdie, fly! Oh yeah and beer",
+   "items": 7,
+   "ended": false
+  },
+  "DRZPKE": {
+   "msg": "1535324385945321504",
+   "end": 1786204800,
+   "title": "Weekly  #101",
+   "items": 4,
+   "ended": false
+  },
+  "TSV54J": {
+   "msg": "1535324392920449027",
+   "end": null,
+   "title": "Random Weapon #1",
+   "items": 1,
    "ended": false
   }
  },
