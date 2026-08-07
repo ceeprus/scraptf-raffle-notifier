@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "AQ8FYM": {
-   "msg": "1532436533808861275",
-   "end": 1785517861,
-   "title": "Daily Brass Beast #523",
-   "items": 1,
-   "ended": true
-  },
-  "7W37UP": {
-   "msg": "1532438482528764086",
-   "end": 1785518462,
-   "title": "long live medic mains",
-   "items": 4,
-   "ended": true
-  },
   "YZWTO7": {
    "msg": "1532444069094232247",
    "end": 1785519482,
@@ -5339,7 +5325,7 @@
    "end": 1786123801,
    "title": "Kritz",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LYA09P": {
    "msg": "1535014829738295416",
@@ -6031,6 +6017,48 @@
    "msg": "1535324392920449027",
    "end": null,
    "title": "Random Weapon #1",
+   "items": 1,
+   "ended": false
+  },
+  "1S31G8": {
+   "msg": "1535339468146610298",
+   "end": 1786209481,
+   "title": "Stuff I don't need",
+   "items": 29,
+   "ended": false
+  },
+  "PWVTI0": {
+   "msg": "1535339476845600770",
+   "end": 1786209061,
+   "title": "a bit of noise never killed anyone #42",
+   "items": 2,
+   "ended": false
+  },
+  "ANEWAR": {
+   "msg": "1535339483690442792",
+   "end": 1786208881,
+   "title": "birthdayposting",
+   "items": 3,
+   "ended": false
+  },
+  "41ZIBC": {
+   "msg": "1535339489373724672",
+   "end": 1786208881,
+   "title": "Road to Raffle # 1,169,420",
+   "items": 1,
+   "ended": false
+  },
+  "6NFW5I": {
+   "msg": "1535339502086918235",
+   "end": 1786208400,
+   "title": "Daily raffle until TF2 gets a major update #584",
+   "items": 3,
+   "ended": false
+  },
+  "1S43B7": {
+   "msg": "1535339508223049728",
+   "end": 1786208282,
+   "title": "Scrap.tf Birthdays - 7 August",
    "items": 1,
    "ended": false
   }
