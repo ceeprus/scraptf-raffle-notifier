@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "JBB35C": {
-   "msg": "1532281831704100895",
-   "end": 1785480962,
-   "title": "Daily Black Boxes #153",
-   "items": 10,
-   "ended": true
-  },
   "3GSYQA": {
    "msg": "1532284275683102814",
    "end": 1785481381,
@@ -6095,6 +6088,20 @@
    "end": 1786170542,
    "title": "Day 58-59 of Asking for a Follow Button",
    "items": 1,
+   "ended": false
+  },
+  "MEQ8NH": {
+   "msg": "1535180948327370753",
+   "end": 1786128541,
+   "title": "I'm still alive",
+   "items": 5,
+   "ended": false
+  },
+  "2Y1OP4": {
+   "msg": "1535180954971152509",
+   "end": 1786171682,
+   "title": "adhd raffle",
+   "items": 3,
    "ended": false
   }
  },
