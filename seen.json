@@ -364,25 +364,11 @@
    "items": 4,
    "ended": true
   },
-  "P3KWCA": {
-   "msg": "1532387556283387986",
-   "end": 1785462961,
-   "title": "forgotten",
-   "items": 1,
-   "ended": true
-  },
   "Y3D0ZY": {
    "msg": "1532387574864285807",
    "end": 1785506101,
    "title": "I participated in 1000 raffies :-)",
    "items": 3,
-   "ended": true
-  },
-  "DYS3DK": {
-   "msg": "1532389966402031646",
-   "end": 1785463081,
-   "title": "just raffle",
-   "items": 1,
    "ended": true
   },
   "PSW62M": {
@@ -5885,7 +5871,7 @@
    "end": 1786066981,
    "title": "wooow 1 year for thi account",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7PH381": {
    "msg": "1534934243510059132",
@@ -6165,6 +6151,13 @@
    "end": 1786151522,
    "title": "opened some more spooky boxes",
    "items": 22,
+   "ended": false
+  },
+  "WGL435": {
+   "msg": "1535105440545898637",
+   "end": 1786153862,
+   "title": "One guy made radle where he ask help to find music name in  It's Play Time [Saxxy 2015 Extended Winner] 4:16 time mark",
+   "items": 1,
    "ended": false
   }
  },
