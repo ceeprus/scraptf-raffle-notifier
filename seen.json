@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "3GSYQA": {
-   "msg": "1532284275683102814",
-   "end": 1785481381,
-   "title": "Celebrating 21st Anniversary of Bison!!",
-   "items": 21,
-   "ended": true
-  },
   "MJG37B": {
    "msg": "1532294347209445449",
    "end": 1785483902,
@@ -5437,7 +5430,7 @@
    "end": 1786086962,
    "title": "Daily Hat #75",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1CQ0N4": {
    "msg": "1534829802824138782",
@@ -6102,6 +6095,34 @@
    "end": 1786171682,
    "title": "adhd raffle",
    "items": 3,
+   "ended": false
+  },
+  "SCAX5R": {
+   "msg": "1535188466126823476",
+   "end": 1786129861,
+   "title": "I got bored, so here\u2019s a gift\u2014a little hat.",
+   "items": 1,
+   "ended": false
+  },
+  "B8T7WM": {
+   "msg": "1535188472195981425",
+   "end": 1786172941,
+   "title": "Hii :3     This is my second raffle, wow",
+   "items": 1,
+   "ended": false
+  },
+  "NG7QBP": {
+   "msg": "1535188478814322729",
+   "end": 1786172762,
+   "title": "Poemas mios y una sugerencia de musica #2",
+   "items": 7,
+   "ended": false
+  },
+  "T8UP9K": {
+   "msg": "1535188486213210133",
+   "end": 1786172281,
+   "title": "Hi, I'm PEPERONI684, and this is my first lottery.",
+   "items": 8,
    "ended": false
   }
  },
