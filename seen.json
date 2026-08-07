@@ -469,34 +469,6 @@
    "items": 4,
    "ended": true
   },
-  "VAIQNF": {
-   "msg": "1532438489088655450",
-   "end": 1785475201,
-   "title": "Untitled raffle",
-   "items": 4,
-   "ended": true
-  },
-  "959J57": {
-   "msg": "1532438496558583929",
-   "end": 1785475081,
-   "title": "Untitled raffle",
-   "items": 4,
-   "ended": true
-  },
-  "11GQCT": {
-   "msg": "1532441531540176898",
-   "end": 1785475501,
-   "title": "Untitled raffle",
-   "items": 4,
-   "ended": true
-  },
-  "EYWCPF": {
-   "msg": "1532441547096981514",
-   "end": 1785475382,
-   "title": "Untitled raffle",
-   "items": 4,
-   "ended": true
-  },
   "YZWTO7": {
    "msg": "1532444069094232247",
    "end": 1785519482,
@@ -5465,14 +5437,14 @@
    "end": 1786078921,
    "title": "Quitting TF2",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "Q4JDB1": {
    "msg": "1534790803757469818",
    "end": 1786078862,
    "title": "Bau! Bau!",
    "items": 16,
-   "ended": false
+   "ended": true
   },
   "UH84NR": {
    "msg": "1534793326417416192",
@@ -6088,6 +6060,13 @@
    "end": 1786121521,
    "title": "Amazing.",
    "items": 1,
+   "ended": false
+  },
+  "GVD98K": {
+   "msg": "1535157529322070028",
+   "end": 1786165922,
+   "title": "Wow my last raffle was 6 years ago",
+   "items": 2,
    "ended": false
   }
  },
