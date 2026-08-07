@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "SF03FJ": {
-   "msg": "1532235171628191907",
-   "end": 1785469321,
-   "title": "Mega Cosmetic Raffle. (Few unusual taunts)",
-   "items": 200,
-   "ended": true
-  },
   "N18WNU": {
    "msg": "1532237727330729994",
    "end": 1785470400,
@@ -901,13 +894,6 @@
    "end": 1785533942,
    "title": "take them all",
    "items": 50,
-   "ended": true
-  },
-  "MQXQP5": {
-   "msg": "1532503275855937728",
-   "end": 1785468841,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "JSWR3N": {
@@ -5507,7 +5493,7 @@
    "end": 1786073761,
    "title": "Second Thoughts",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "10WJY3": {
    "msg": "1534771888662773780",
@@ -6123,6 +6109,20 @@
    "end": 1786158302,
    "title": "medi gun",
    "items": 1,
+   "ended": false
+  },
+  "HNBVT3": {
+   "msg": "1535131214485266474",
+   "end": 1786159921,
+   "title": "just some stuff i need to get rid of",
+   "items": 10,
+   "ended": false
+  },
+  "WMSD4F": {
+   "msg": "1535131222823673857",
+   "end": 1786159681,
+   "title": "1000 public raffles joined, won 5.",
+   "items": 3,
    "ended": false
   }
  },
