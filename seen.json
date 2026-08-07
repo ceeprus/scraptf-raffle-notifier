@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "RGV7BT": {
-   "msg": "1532434025652682825",
-   "end": 1785517200,
-   "title": "Daily raffle until TF2 gets a major update #576",
-   "items": 3,
-   "ended": true
-  },
   "AQ8FYM": {
    "msg": "1532436533808861275",
    "end": 1785517861,
@@ -5241,14 +5234,14 @@
    "end": 1786122000,
    "title": "Daily raffle until TF2 gets a major update #583",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "F4VS1P": {
    "msg": "1534976869286416494",
    "end": 1786122000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WQV5G8": {
    "msg": "1534976877587071046",
@@ -5542,7 +5535,7 @@
    "end": 1786121521,
    "title": "Amazing.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GVD98K": {
    "msg": "1535157529322070028",
