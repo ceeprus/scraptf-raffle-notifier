@@ -1106,13 +1106,6 @@
    "items": 1,
    "ended": true
   },
-  "NO7IBA": {
-   "msg": "1532731044586062015",
-   "end": 1785508622,
-   "title": "Giving away the first tf2 weapon I got",
-   "items": 1,
-   "ended": true
-  },
   "RJUBQU": {
    "msg": "1532735987392712725",
    "end": 1785589262,
@@ -5346,21 +5339,21 @@
    "end": 1786113242,
    "title": "#8",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MMLIL5": {
    "msg": "1534934250661482667",
    "end": 1786113121,
    "title": "Lunch",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "N6LQ8A": {
    "msg": "1534936794574094478",
    "end": 1786113901,
    "title": "Scrappy lol",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "F1SVG7": {
    "msg": "1534939385940934839",
@@ -5647,7 +5640,7 @@
    "end": 1786113061,
    "title": "Raffling Scrap Till I'm Out #995-6 (Computer problems)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0MPBPX": {
    "msg": "1535128057428451481",
@@ -6136,6 +6129,13 @@
    "msg": "1535294205491159151",
    "end": 1786197661,
    "title": "unclaimed",
+   "items": 1,
+   "ended": false
+  },
+  "OJDO9V": {
+   "msg": "1535297883480268862",
+   "end": 1786156200,
+   "title": "[DAY 0.5] Scrap tf HG",
    "items": 1,
    "ended": false
   }
