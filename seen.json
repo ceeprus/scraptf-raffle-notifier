@@ -42,41 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "P4PS9L": {
-   "msg": "1532480633589465172",
-   "end": 1785528241,
-   "title": "Peace for my people, team fortress 2 community",
-   "items": 1,
-   "ended": true
-  },
-  "XKVSBS": {
-   "msg": "1532480642036797440",
-   "end": 1785528122,
-   "title": "Degreaseing my inventory",
-   "items": 2,
-   "ended": true
-  },
-  "2Z39XU": {
-   "msg": "1532485678166839376",
-   "end": 1785529681,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NN5IP8": {
-   "msg": "1532485684684918856",
-   "end": 1785529622,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "TRSX28": {
-   "msg": "1532485695434657964",
-   "end": 1785529141,
-   "title": "Scrappiversary!",
-   "items": 8,
-   "ended": true
-  },
   "I7487K": {
    "msg": "1532488107289608204",
    "end": 1785530161,
@@ -94,20 +59,6 @@
   "NMJ6Z7": {
    "msg": "1532488119113486538",
    "end": 1785529921,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "14SD93": {
-   "msg": "1532488126885396511",
-   "end": 1785529801,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "SPF47U": {
-   "msg": "1532488133575311400",
-   "end": 1785529801,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -5892,7 +5843,7 @@
    "end": 1786133101,
    "title": "Salt's surplus stuff",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "CIXEYW": {
    "msg": "1535369669144482003",
@@ -5934,6 +5885,27 @@
    "end": 1786218061,
    "title": "Who's the best quintuplet?",
    "items": 1,
+   "ended": false
+  },
+  "KXTQH9": {
+   "msg": "1535384809264644168",
+   "end": 1786137602,
+   "title": "yo meow again",
+   "items": 1,
+   "ended": false
+  },
+  "VP93Q5": {
+   "msg": "1535384815107317832",
+   "end": 1786137181,
+   "title": "meow :3",
+   "items": 1,
+   "ended": false
+  },
+  "B6UTBA": {
+   "msg": "1535384822053339218",
+   "end": 1786219200,
+   "title": "A Refined a day keeps the doctor away! #31: THE \u00dcBERGEDDON!",
+   "items": 8,
    "ended": false
   }
  },
