@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "8RXJ8L": {
-   "msg": "1532392545953386677",
-   "end": 1785507061,
-   "title": "Daily raffle #320",
-   "items": 1,
-   "ended": true
-  },
   "G7A1PQ": {
    "msg": "1532405068467277864",
    "end": 1785510002,
@@ -915,13 +908,6 @@
    "end": 1785572522,
    "title": "ALL 40 SMISSMAS NOISEMAKERS",
    "items": 40,
-   "ended": true
-  },
-  "8CV9WA": {
-   "msg": "1532666852516302888",
-   "end": 1785507541,
-   "title": "hi hi",
-   "items": 3,
    "ended": true
   },
   "R7MR9M": {
@@ -6108,6 +6094,48 @@
    "msg": "1535282954614472724",
    "end": 1786195561,
    "title": "slugma posting",
+   "items": 1,
+   "ended": false
+  },
+  "MNW3B2": {
+   "msg": "1535294170271457341",
+   "end": 1786199101,
+   "title": "it will be free for everyone (bonkie boy)",
+   "items": 1,
+   "ended": false
+  },
+  "BYIOMJ": {
+   "msg": "1535294178114674718",
+   "end": 1786198081,
+   "title": "scout",
+   "items": 5,
+   "ended": false
+  },
+  "QHIOI0": {
+   "msg": "1535294185794437270",
+   "end": 1786198022,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "GMPH0E": {
+   "msg": "1535294192551460874",
+   "end": 1786197962,
+   "title": "roblox told me im 19 years old",
+   "items": 1,
+   "ended": false
+  },
+  "8VMBXY": {
+   "msg": "1535294198935330817",
+   "end": 1786197781,
+   "title": "Daily raffle #238",
+   "items": 1,
+   "ended": false
+  },
+  "Y594D3": {
+   "msg": "1535294205491159151",
+   "end": 1786197661,
+   "title": "unclaimed",
    "items": 1,
    "ended": false
   }
