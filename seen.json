@@ -42,34 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "1X7GNU": {
-   "msg": "1532533423019655320",
-   "end": 1785540842,
-   "title": "The Pain Train has no brakes",
-   "items": 7,
-   "ended": true
-  },
-  "LQ966F": {
-   "msg": "1532535925295550646",
-   "end": 1785541441,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "FMLOE7": {
-   "msg": "1532535931083554879",
-   "end": 1785541201,
-   "title": "Funny skeleton",
-   "items": 1,
-   "ended": true
-  },
-  "VAFRP4": {
-   "msg": "1532537978163822692",
-   "end": 1785541981,
-   "title": "guess we're doing",
-   "items": 1,
-   "ended": true
-  },
   "YRUY5R": {
    "msg": "1532540996477259876",
    "end": 1785542761,
@@ -432,13 +404,6 @@
    "end": 1785585600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": true
-  },
-  "IK7IR3": {
-   "msg": "1532720876926271608",
-   "end": 1785542101,
-   "title": "Untitled raffle",
-   "items": 4,
    "ended": true
   },
   "A1GRAN": {
@@ -4954,7 +4919,7 @@
    "end": 1786145942,
    "title": "warpaints",
    "items": 44,
-   "ended": false
+   "ended": true
   },
   "DUKA8R": {
    "msg": "1535082767744901160",
@@ -5787,6 +5752,13 @@
    "end": 1786230000,
    "title": "A  a day",
    "items": 1,
+   "ended": false
+  },
+  "2GQQUA": {
+   "msg": "1535436308346970153",
+   "end": 1786233121,
+   "title": "Hello! Have a great day!",
+   "items": 3,
    "ended": false
   }
  },
