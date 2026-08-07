@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "YZWTO7": {
-   "msg": "1532444069094232247",
-   "end": 1785519482,
-   "title": "My HONEST feelings about scrap users #6",
-   "items": 2,
-   "ended": true
-  },
   "APQ5LL": {
    "msg": "1532446579393560666",
    "end": 1785520441,
@@ -5318,7 +5311,7 @@
    "end": 1786124401,
    "title": "Meat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6YC64Q": {
    "msg": "1535007324329083081",
@@ -6060,6 +6053,20 @@
    "end": 1786208282,
    "title": "Scrap.tf Birthdays - 7 August",
    "items": 1,
+   "ended": false
+  },
+  "JP1K94": {
+   "msg": "1535342008493678752",
+   "end": 1786210381,
+   "title": "Ahh piss",
+   "items": 1,
+   "ended": false
+  },
+  "WBXXR6": {
+   "msg": "1535342017859813378",
+   "end": 1786210202,
+   "title": "Guys",
+   "items": 3,
    "ended": false
   }
  },
