@@ -42,34 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "CALA53": {
-   "msg": "1532374868362793222",
-   "end": 1785503102,
-   "title": "\u2600\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "1EKRHJ": {
-   "msg": "1532374893658902680",
-   "end": 1785502981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "SMJ9CY": {
-   "msg": "1532377465497059520",
-   "end": 1785503281,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WMMXQG": {
-   "msg": "1532382417237573632",
-   "end": 1785504601,
-   "title": "Joining in to celebrate",
-   "items": 4,
-   "ended": true
-  },
   "Y3D0ZY": {
    "msg": "1532387574864285807",
    "end": 1785506101,
@@ -908,13 +880,6 @@
    "end": 1785566941,
    "title": "Day 19 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": true
-  },
-  "BET9DR": {
-   "msg": "1532646690555691069",
-   "end": 1785503161,
-   "title": "HAPPY FRIDAY!!!!!",
-   "items": 20,
    "ended": true
   },
   "I51UUF": {
@@ -5381,7 +5346,7 @@
    "end": 1786107841,
    "title": "Daily Brass Beast #530",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KLV76H": {
    "msg": "1534911620898226339",
@@ -6102,6 +6067,55 @@
    "end": 1786192021,
    "title": "Hii :3     This is my third raffle, wow",
    "items": 2,
+   "ended": false
+  },
+  "A42678": {
+   "msg": "1535279068784758885",
+   "end": 1786195141,
+   "title": "hi lol",
+   "items": 1,
+   "ended": false
+  },
+  "AZ3JM2": {
+   "msg": "1535279076170932296",
+   "end": 1786194901,
+   "title": "Fanumstein Rizzberg",
+   "items": 1,
+   "ended": false
+  },
+  "639WTL": {
+   "msg": "1535279083481727006",
+   "end": 1786194809,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "P64CSJ": {
+   "msg": "1535279089651421274",
+   "end": 1786194542,
+   "title": "Logitech MouseMan Serial raffle",
+   "items": 1,
+   "ended": false
+  },
+  "A54UKE": {
+   "msg": "1535279095800397979",
+   "end": 1786194242,
+   "title": "Ref",
+   "items": 1,
+   "ended": false
+  },
+  "55U4AV": {
+   "msg": "1535279102028939406",
+   "end": 1786194001,
+   "title": "Fanumstein Rizzberg raffle",
+   "items": 1,
+   "ended": false
+  },
+  "66789B": {
+   "msg": "1535279108529979477",
+   "end": 1786194000,
+   "title": "The Award Winning Assassin",
+   "items": 1,
    "ended": false
   }
  },
