@@ -42,55 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "I7487K": {
-   "msg": "1532488107289608204",
-   "end": 1785530161,
-   "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 \u2764\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "F93JSJ": {
-   "msg": "1532488113421684736",
-   "end": 1785529982,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NMJ6Z7": {
-   "msg": "1532488119113486538",
-   "end": 1785529921,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "XRSAXH": {
-   "msg": "1532490645598634034",
-   "end": 1785530401,
-   "title": "My most serious raffle",
-   "items": 1,
-   "ended": true
-  },
-  "F3HOPA": {
-   "msg": "1532493259509858467",
-   "end": 1785531602,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "PTOATP": {
-   "msg": "1532493266006577273",
-   "end": 1785531600,
-   "title": "checkup #76 | Dispenser on the enemy's intel base",
-   "items": 1,
-   "ended": true
-  },
-  "30V79J": {
-   "msg": "1532493274667814942",
-   "end": 1785531421,
-   "title": "Scrap.tf Birthdays - 30 July",
-   "items": 2,
-   "ended": true
-  },
   "H0B3LK": {
    "msg": "1532495662849986630",
    "end": 1785532202,
@@ -5906,6 +5857,13 @@
    "end": 1786219200,
    "title": "A Refined a day keeps the doctor away! #31: THE \u00dcBERGEDDON!",
    "items": 8,
+   "ended": false
+  },
+  "DQSOJ7": {
+   "msg": "1535392364338610267",
+   "end": 1786221061,
+   "title": "Daily Brass Beast #531",
+   "items": 1,
    "ended": false
   }
  },
