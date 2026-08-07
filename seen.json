@@ -49,13 +49,6 @@
    "items": 3,
    "ended": true
   },
-  "2Q3H6H": {
-   "msg": "1532459203782774955",
-   "end": 1785523261,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "HJJ33U": {
    "msg": "1532461698466713670",
    "end": 1785523981,
@@ -6039,6 +6032,20 @@
    "end": 1786211281,
    "title": "30th anniversary quakecon",
    "items": 30,
+   "ended": false
+  },
+  "8S6ZXD": {
+   "msg": "1535357226666037381",
+   "end": 1786170782,
+   "title": "Random Stuff",
+   "items": 13,
+   "ended": false
+  },
+  "X1978F": {
+   "msg": "1535357232735195237",
+   "end": 1786170600,
+   "title": "[DAY 1] Scrap tf HG",
+   "items": 1,
    "ended": false
   }
  },
