@@ -42,34 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "9KA5M7": {
-   "msg": "1532225117717790871",
-   "end": 1785467100,
-   "title": "Limit Break",
-   "items": 1,
-   "ended": true
-  },
-  "UJYG5T": {
-   "msg": "1532226412835115039",
-   "end": 1785467942,
-   "title": "Getting down to it #48",
-   "items": 1,
-   "ended": true
-  },
-  "ES1JF5": {
-   "msg": "1532226419046748312",
-   "end": 1785467762,
-   "title": "Getting down to it #47",
-   "items": 1,
-   "ended": true
-  },
-  "50IS7I": {
-   "msg": "1532226425732464731",
-   "end": 1785467461,
-   "title": "Getting down to it #46",
-   "items": 1,
-   "ended": true
-  },
   "SF03FJ": {
    "msg": "1532235171628191907",
    "end": 1785469321,
@@ -385,31 +357,10 @@
    "items": 3,
    "ended": true
   },
-  "VS390M": {
-   "msg": "1532407599771680859",
-   "end": 1785467401,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "RVSYVH": {
    "msg": "1532410172255768677",
    "end": 1785511742,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "B6LQ4S": {
-   "msg": "1532410178530709535",
-   "end": 1785468482,
-   "title": "has a knife",
-   "items": 1,
-   "ended": true
-  },
-  "3QAC0G": {
-   "msg": "1532410184864108615",
-   "end": 1785468361,
-   "title": "The  sleeps tonight",
    "items": 1,
    "ended": true
   },
@@ -5549,7 +5500,7 @@
    "end": 1786072981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LPLO1H": {
    "msg": "1534769381131812934",
@@ -6151,6 +6102,27 @@
    "end": 1786113061,
    "title": "Raffling Scrap Till I'm Out #995-6 (Computer problems)",
    "items": 2,
+   "ended": false
+  },
+  "0MPBPX": {
+   "msg": "1535128057428451481",
+   "end": 1786159500,
+   "title": "Bring To Heel",
+   "items": 1,
+   "ended": false
+  },
+  "XUA08N": {
+   "msg": "1535128064399384681",
+   "end": 1786159021,
+   "title": "Caf\u00e9 Crit-A-Coffee #1751",
+   "items": 10,
+   "ended": false
+  },
+  "0B3JHH": {
+   "msg": "1535128070808141905",
+   "end": 1786158302,
+   "title": "medi gun",
+   "items": 1,
    "ended": false
   }
  },
