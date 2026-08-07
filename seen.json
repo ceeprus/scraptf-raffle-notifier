@@ -42,46 +42,11 @@
    "items": 14,
    "ended": false
   },
-  "0U9M6B": {
-   "msg": "1532412624577499277",
-   "end": 1785512341,
-   "title": "Unlocking new levels i never thought possible",
-   "items": 9,
-   "ended": true
-  },
-  "RIW6EG": {
-   "msg": "1532412632512987307",
-   "end": 1785512341,
-   "title": "I have a question",
-   "items": 3,
-   "ended": true
-  },
-  "VUED8U": {
-   "msg": "1532412638972088320",
-   "end": 1785511861,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "MIED24": {
    "msg": "1532415143462440970",
    "end": 1785512941,
    "title": "Untitled raffle",
    "items": 9,
-   "ended": true
-  },
-  "RK1PT6": {
-   "msg": "1532415155672191146",
-   "end": 1785512581,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WWC8E9": {
-   "msg": "1532415161082708072",
-   "end": 1785512521,
-   "title": "#7",
-   "items": 1,
    "ended": true
   },
   "VJO5GF": {
@@ -6101,6 +6066,13 @@
    "msg": "1535309284739383357",
    "end": 1786201441,
    "title": "Raffling a  every time I win a  #74",
+   "items": 1,
+   "ended": false
+  },
+  "VR1B0S": {
+   "msg": "1535312868415901698",
+   "end": 1786203000,
+   "title": "The Favorites of Music #269 & #270 + Poll",
    "items": 1,
    "ended": false
   }
