@@ -434,20 +434,6 @@
    "items": 1,
    "ended": true
   },
-  "HRYML9": {
-   "msg": "1532423914112679946",
-   "end": 1785471601,
-   "title": "Well, there is a  here.",
-   "items": 1,
-   "ended": true
-  },
-  "JJP581": {
-   "msg": "1532426457089966112",
-   "end": 1785472261,
-   "title": "Yo",
-   "items": 1,
-   "ended": true
-  },
   "C0SW1H": {
    "msg": "1532426464476008589",
    "end": 1785515041,
@@ -5486,7 +5472,7 @@
    "end": 1786077000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EVYQPJ": {
    "msg": "1534790793980547162",
@@ -6095,6 +6081,20 @@
    "end": 1786159681,
    "title": "1000 public raffles joined, won 5.",
    "items": 3,
+   "ended": false
+  },
+  "4P3Y0Q": {
+   "msg": "1535143197427368007",
+   "end": 1786161901,
+   "title": "YOU HAVE ENTERED",
+   "items": 2,
+   "ended": false
+  },
+  "ALC8DG": {
+   "msg": "1535143206981865563",
+   "end": 1786161600,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1498 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 7,
    "ended": false
   }
  },
