@@ -714,13 +714,6 @@
    "items": 1,
    "ended": true
   },
-  "896BFI": {
-   "msg": "1532454127936737300",
-   "end": 1785457141,
-   "title": "do you hate spy",
-   "items": 1,
-   "ended": true
-  },
   "07RV2R": {
    "msg": "1532459196585345226",
    "end": 1785523381,
@@ -6179,6 +6172,13 @@
    "end": 1786145942,
    "title": "warpaints",
    "items": 44,
+   "ended": false
+  },
+  "DUKA8R": {
+   "msg": "1535082767744901160",
+   "end": 1786147682,
+   "title": "Equestria Forever",
+   "items": 53,
    "ended": false
   }
  },
