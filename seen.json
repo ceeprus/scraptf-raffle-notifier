@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "OD76IJ": {
-   "msg": "1532368605730177096",
-   "end": 1785501421,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "CALA53": {
    "msg": "1532374868362793222",
    "end": 1785503102,
@@ -60,13 +53,6 @@
    "msg": "1532374893658902680",
    "end": 1785502981,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "K7WEVF": {
-   "msg": "1532374899186733330",
-   "end": 1785502800,
-   "title": "7/30/2000",
    "items": 1,
    "ended": true
   },
@@ -5402,7 +5388,7 @@
    "end": 1786107600,
    "title": "Loe efoort raffhls",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "27GAP5": {
    "msg": "1534914138445316106",
@@ -6102,6 +6088,20 @@
    "end": 1786191781,
    "title": "Fanumstein Rizzberg???",
    "items": 1,
+   "ended": false
+  },
+  "1NA3NS": {
+   "msg": "1535271561559539783",
+   "end": 1786192862,
+   "title": "Bau! Bau!",
+   "items": 18,
+   "ended": false
+  },
+  "RK606X": {
+   "msg": "1535271569750761583",
+   "end": 1786192021,
+   "title": "Hii :3     This is my third raffle, wow",
+   "items": 2,
    "ended": false
   }
  },
