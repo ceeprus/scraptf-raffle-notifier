@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "N18WNU": {
-   "msg": "1532237727330729994",
-   "end": 1785470400,
-   "title": "\u266a Juicy Beats \u266a",
-   "items": 1,
-   "ended": true
-  },
-  "TE2UOP": {
-   "msg": "1532237736155680949",
-   "end": 1785470041,
-   "title": "Trying to surprise my girlfriend for her birthday \u2013 any help appreciated",
-   "items": 4,
-   "ended": true
-  },
   "3VWN1N": {
    "msg": "1532250256379609113",
    "end": 1785473161,
@@ -392,13 +378,6 @@
    "items": 9,
    "ended": true
   },
-  "RUB0O7": {
-   "msg": "1532415149695172618",
-   "end": 1785469621,
-   "title": "ANOTHER?!",
-   "items": 1,
-   "ended": true
-  },
   "RK1PT6": {
    "msg": "1532415155672191146",
    "end": 1785512581,
@@ -445,13 +424,6 @@
    "msg": "1532417772536074240",
    "end": 1785513121,
    "title": "I've heared there's a",
-   "items": 1,
-   "ended": true
-  },
-  "8L55DZ": {
-   "msg": "1532417779553272050",
-   "end": 1785469861,
-   "title": "So cool!",
    "items": 1,
    "ended": true
   },
@@ -5500,14 +5472,14 @@
    "end": 1786074601,
    "title": "Caf\u00e9 Crit-A-Coffee #1750",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "DRRM50": {
    "msg": "1534774425197481994",
    "end": 1786075200,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1497 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "AIWAZY": {
    "msg": "1534781945865830512",
