@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "MJG37B": {
-   "msg": "1532294347209445449",
-   "end": 1785483902,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "7ZR9IA": {
    "msg": "1532315763489378364",
    "end": 1785489001,
@@ -567,13 +560,6 @@
    "items": 3,
    "ended": true
   },
-  "3ZDQTH": {
-   "msg": "1532475529750515874",
-   "end": 1785484021,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "9VJHAW": {
    "msg": "1532475540454375474",
    "end": 1785526981,
@@ -607,13 +593,6 @@
    "end": 1785526621,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "2XK8MK": {
-   "msg": "1532478107875934471",
-   "end": 1785484141,
-   "title": "Protein Shake",
-   "items": 3,
    "ended": true
   },
   "M9BM0F": {
@@ -5437,7 +5416,7 @@
    "end": 1786088461,
    "title": "Noisy slopsy",
    "items": 114,
-   "ended": false
+   "ended": true
   },
   "S28QR9": {
    "msg": "1534829809182703777",
@@ -6123,6 +6102,27 @@
    "end": 1786172281,
    "title": "Hi, I'm PEPERONI684, and this is my first lottery.",
    "items": 8,
+   "ended": false
+  },
+  "3CTLQ0": {
+   "msg": "1535196037332078612",
+   "end": 1786175402,
+   "title": "Day 26 Of \"Bad\" Weapon",
+   "items": 1,
+   "ended": false
+  },
+  "EA206I": {
+   "msg": "1535196043971665961",
+   "end": 1786174561,
+   "title": "I won a raffle so here's one",
+   "items": 2,
+   "ended": false
+  },
+  "PQBE2Q": {
+   "msg": "1535196050602594425",
+   "end": 1786174501,
+   "title": "The marsupial appears",
+   "items": 1,
    "ended": false
   }
  },
