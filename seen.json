@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "H0B3LK": {
-   "msg": "1532495662849986630",
-   "end": 1785532202,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "722F4K": {
-   "msg": "1532498180418175137",
-   "end": 1785532382,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "K8DQ8X": {
    "msg": "1532503268885008588",
    "end": 1785533942,
@@ -5843,14 +5829,14 @@
    "end": 1786137602,
    "title": "yo meow again",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VP93Q5": {
    "msg": "1535384815107317832",
    "end": 1786137181,
    "title": "meow :3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B6UTBA": {
    "msg": "1535384822053339218",
@@ -5864,6 +5850,34 @@
    "end": 1786221061,
    "title": "Daily Brass Beast #531",
    "items": 1,
+   "ended": false
+  },
+  "MS4UY1": {
+   "msg": "1535399593561432125",
+   "end": 1786223401,
+   "title": "Sentimental Value + Help me Powerscale",
+   "items": 3,
+   "ended": false
+  },
+  "TMKWPJ": {
+   "msg": "1535399601635467315",
+   "end": 1786179602,
+   "title": "!uaB !uaB",
+   "items": 2,
+   "ended": false
+  },
+  "HV4B3P": {
+   "msg": "1535399607566209064",
+   "end": 1786222800,
+   "title": "checkup #83 | a",
+   "items": 1,
+   "ended": false
+  },
+  "2X7I5N": {
+   "msg": "1535399613409005660",
+   "end": 1786222800,
+   "title": "it my burfday :)",
+   "items": 2,
    "ended": false
   }
  },
