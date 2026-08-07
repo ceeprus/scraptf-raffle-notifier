@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "513VNW": {
-   "msg": "1532358467585576960",
-   "end": 1785499321,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "OGS2EX": {
    "msg": "1532363502486946033",
    "end": 1785500461,
@@ -6107,6 +6100,20 @@
   "REEL0T": {
    "msg": "1535256490397671518",
    "end": 1786188841,
+   "title": "Untitled raffle",
+   "items": 6,
+   "ended": false
+  },
+  "4G7D3A": {
+   "msg": "1535257718175178812",
+   "end": 1786190400,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "KLIQQM": {
+   "msg": "1535257726685290566",
+   "end": 1786190400,
    "title": "Untitled raffle",
    "items": 6,
    "ended": false
