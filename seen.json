@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "66PYHN": {
-   "msg": "1532340864041484329",
-   "end": 1785494761,
-   "title": "Yo",
-   "items": 1,
-   "ended": true
-  },
-  "E21I7S": {
-   "msg": "1532343417592479784",
-   "end": 1785495600,
-   "title": "So that's why he tries to act human!",
-   "items": 1,
-   "ended": true
-  },
   "60QYH0": {
    "msg": "1532348415948886120",
    "end": 1785496501,
@@ -668,13 +654,6 @@
   "TK02LG": {
    "msg": "1532525893526880397",
    "end": 1785495841,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "LLEPDW": {
-   "msg": "1532525900631904436",
-   "end": 1785495661,
    "title": "Untitled raffle",
    "items": 5,
    "ended": true
@@ -5416,7 +5395,7 @@
    "end": 1786099741,
    "title": "recomend me sites for trading and buying",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PZ3FLB": {
    "msg": "1534876368397930538",
@@ -5430,21 +5409,21 @@
    "end": 1786100400,
    "title": "I wish someone would greet me like that.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QCTUAU": {
    "msg": "1534878966563999815",
    "end": 1786100341,
    "title": "Daily raffle #327",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KAPUG1": {
    "msg": "1534878972855451801",
    "end": 1786100042,
    "title": "Grabli304's raffle\u2503Day 157",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "HDWKP3": {
    "msg": "1534885133293715609",
@@ -6109,7 +6088,7 @@
    "end": 1786098661,
    "title": "Free weapons",
    "items": 116,
-   "ended": false
+   "ended": true
   },
   "SEY0GX": {
    "msg": "1535233790098538516",
@@ -6123,6 +6102,20 @@
    "end": 1786184401,
    "title": "I'm still The marsupial asking for Free Grabli304 Chain emoticon",
    "items": 6,
+   "ended": false
+  },
+  "ZCHELZ": {
+   "msg": "1535241376722059315",
+   "end": 1786186022,
+   "title": "#20",
+   "items": 1,
+   "ended": false
+  },
+  "D5B9T8": {
+   "msg": "1535241384854949908",
+   "end": 1786185721,
+   "title": "My first raffle! :)",
+   "items": 3,
    "ended": false
   }
  },
