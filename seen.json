@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "G7A1PQ": {
-   "msg": "1532405068467277864",
-   "end": 1785510002,
-   "title": "take some guns",
-   "items": 3,
-   "ended": true
-  },
   "RVSYVH": {
    "msg": "1532410172255768677",
    "end": 1785511742,
@@ -5360,21 +5353,21 @@
    "end": 1786114561,
    "title": "i can't think of a title for this raffle 21\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YXX4MH": {
    "msg": "1534939392404226061",
    "end": 1786114382,
    "title": "#10",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DNCC3C": {
    "msg": "1534939398578245652",
    "end": 1786114261,
    "title": "#9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GJPWR5": {
    "msg": "1534961476198989935",
