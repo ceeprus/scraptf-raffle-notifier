@@ -931,30 +931,9 @@
    "items": 2,
    "ended": true
   },
-  "T8JDTD": {
-   "msg": "1532493281865240887",
-   "end": 1785466502,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "HT8ADV": {
-   "msg": "1532493287662026783",
-   "end": 1785466381,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "H0B3LK": {
    "msg": "1532495662849986630",
    "end": 1785532202,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "T3BSTQ": {
-   "msg": "1532495669657468938",
-   "end": 1785466861,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -5556,14 +5535,14 @@
    "end": 1786070341,
    "title": "playing tf2 again",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "MIKP3L": {
    "msg": "1534755564360437780",
    "end": 1786070701,
    "title": "You thought this was just a scrap #191",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L1OEUS": {
    "msg": "1534766855292583996",
@@ -6158,6 +6137,20 @@
    "end": 1786155001,
    "title": "Special Delivery",
    "items": 6,
+   "ended": false
+  },
+  "RY3ULP": {
+   "msg": "1535120591839952907",
+   "end": 1786091641,
+   "title": "Free Warpaints",
+   "items": 50,
+   "ended": false
+  },
+  "VOWXXF": {
+   "msg": "1535120598315958322",
+   "end": 1786113061,
+   "title": "Raffling Scrap Till I'm Out #995-6 (Computer problems)",
+   "items": 2,
    "ended": false
   }
  },
