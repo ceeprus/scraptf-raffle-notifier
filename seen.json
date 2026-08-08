@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "YRUY5R": {
-   "msg": "1532540996477259876",
-   "end": 1785542761,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1490 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 30,
-   "ended": true
-  },
-  "JIOPFJ": {
-   "msg": "1532543472953856031",
-   "end": 1785543121,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
   "67M9W1": {
    "msg": "1532567358621614090",
    "end": 1785548941,
@@ -907,13 +893,6 @@
    "msg": "1532888264447627325",
    "end": 1785624961,
    "title": "\ud83c\ude34",
-   "items": 1,
-   "ended": true
-  },
-  "XAS691": {
-   "msg": "1532890794485219408",
-   "end": 1785543062,
-   "title": "QTE! Tipping the next public raffle.",
    "items": 1,
    "ended": true
   },
@@ -4905,14 +4884,14 @@
    "end": 1786147682,
    "title": "Equestria Forever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "1QPH08": {
    "msg": "1535084095271469076",
    "end": 1786148821,
    "title": "Win a Raffle, Make a Raffle! #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XOZXWP": {
    "msg": "1535090351226880031",
