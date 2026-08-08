@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "UG9RJW": {
-   "msg": "1532841693085306921",
-   "end": 1785614402,
-   "title": "Read up",
-   "items": 4,
-   "ended": true
-  },
-  "1W8ELV": {
-   "msg": "1532841699657646144",
-   "end": 1785614400,
-   "title": "A Refined a day keeps the doctor away! #24",
-   "items": 1,
-   "ended": true
-  },
   "1QQ258": {
    "msg": "1532844585070624961",
    "end": 1785615061,
@@ -4828,7 +4814,7 @@
    "end": 1786219200,
    "title": "A Refined a day keeps the doctor away! #31: THE \u00dcBERGEDDON!",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "DQSOJ7": {
    "msg": "1535392364338610267",
@@ -5689,6 +5675,27 @@
    "end": 1786303562,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "UCZGMM": {
+   "msg": "1535739634632622120",
+   "end": 1786305301,
+   "title": "The World needs more rein-wait a minute...kindness!",
+   "items": 10,
+   "ended": false
+  },
+  "29FKP5": {
+   "msg": "1535739641406300271",
+   "end": 1786305181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4RI2QB": {
+   "msg": "1535739648930746429",
+   "end": 1786305061,
+   "title": "Graveyard Raffle (#8)",
+   "items": 7,
    "ended": false
   }
  },
