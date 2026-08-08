@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "NMT88R": {
-   "msg": "1532822763784376571",
-   "end": 1785610021,
-   "title": "Food for thought (I'm outta food)",
-   "items": 2,
-   "ended": true
-  },
   "NGYXL1": {
    "msg": "1532830366304567450",
    "end": 1785611881,
@@ -753,13 +746,6 @@
    "msg": "1533180242745884773",
    "end": 1785695101,
    "title": "Daily Brass Beast #525",
-   "items": 1,
-   "ended": true
-  },
-  "5E4KGU": {
-   "msg": "1533180253474787480",
-   "end": 1785609122,
-   "title": "can",
    "items": 1,
    "ended": true
   },
@@ -5423,7 +5409,7 @@
    "end": 1786215061,
    "title": "meow... TWO!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KST5Z3": {
    "msg": "1535669646668206203",
@@ -5668,6 +5654,41 @@
    "end": 1786255562,
    "title": "[Fallen Tributes/Night 5] Scrap tf HG",
    "items": 1,
+   "ended": false
+  },
+  "WCK4VY": {
+   "msg": "1535724530482413669",
+   "end": 1786301041,
+   "title": "emoji raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WYR183": {
+   "msg": "1535724538783080491",
+   "end": 1786300622,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KN8U5N": {
+   "msg": "1535724547398181048",
+   "end": 1786300441,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TJ8YZU": {
+   "msg": "1535724556273061918",
+   "end": 1786257181,
+   "title": "Stealing a raffle a day",
+   "items": 1,
+   "ended": false
+  },
+  "E6I8I0": {
+   "msg": "1535724567077593098",
+   "end": 1786300082,
+   "title": "Free",
+   "items": 6,
    "ended": false
   }
  },
