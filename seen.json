@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "DQULT5": {
-   "msg": "1532806478778339528",
-   "end": 1785605821,
-   "title": "the list of people i miss on this site",
-   "items": 6,
-   "ended": true
-  },
-  "X7VD7I": {
-   "msg": "1532808950330687628",
-   "end": 1785606241,
-   "title": "Who will win the next raffle challenge?",
-   "items": 1,
-   "ended": true
-  },
   "5BA8G4": {
    "msg": "1532817833438875708",
    "end": 1785608641,
@@ -4821,7 +4807,7 @@
    "end": 1786210381,
    "title": "Ahh piss",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WBXXR6": {
    "msg": "1535342017859813378",
@@ -4835,7 +4821,7 @@
    "end": 1786211281,
    "title": "30th anniversary quakecon",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "8S6ZXD": {
    "msg": "1535357226666037381",
@@ -5605,6 +5591,69 @@
    "end": 1786294800,
    "title": "Daily raffle until TF2 gets a major update #585",
    "items": 3,
+   "ended": false
+  },
+  "3ZE2T5": {
+   "msg": "1535707810082455662",
+   "end": 1786232941,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NUIOEG": {
+   "msg": "1535707816113737858",
+   "end": 1786212902,
+   "title": "just scrap?, Noisemaker?!",
+   "items": 1,
+   "ended": false
+  },
+  "52AQ2Q": {
+   "msg": "1535707822065586328",
+   "end": 1786225442,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ROQJGE": {
+   "msg": "1535707828516429854",
+   "end": 1786225142,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "811B9N": {
+   "msg": "1535707835076448387",
+   "end": 1786232282,
+   "title": "!",
+   "items": 5,
+   "ended": false
+  },
+  "9T0UR1": {
+   "msg": "1535707841757970525",
+   "end": 1786224901,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "30RU06": {
+   "msg": "1535707848305016956",
+   "end": 1786296841,
+   "title": "Hello. It's me.",
+   "items": 7,
+   "ended": false
+  },
+  "N6AALH": {
+   "msg": "1535707855469023242",
+   "end": 1786296661,
+   "title": "sum crap to say",
+   "items": 5,
+   "ended": false
+  },
+  "ROKPXJ": {
+   "msg": "1535707860619763894",
+   "end": 1786253461,
+   "title": "Sandvich and me are going to beat your a**!",
+   "items": 1,
    "ended": false
   }
  },
