@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "240OTO": {
-   "msg": "1532590002524000336",
-   "end": 1785554554,
-   "title": "i have nothing to say",
-   "items": 1,
-   "ended": true
-  },
   "IWJS1P": {
    "msg": "1532600058271367188",
    "end": 1785556800,
@@ -4877,14 +4870,14 @@
    "end": 1786159500,
    "title": "Bring To Heel",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XUA08N": {
    "msg": "1535128064399384681",
    "end": 1786159021,
    "title": "Caf\u00e9 Crit-A-Coffee #1751",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "0B3JHH": {
    "msg": "1535128070808141905",
@@ -4905,7 +4898,7 @@
    "end": 1786159681,
    "title": "1000 public raffles joined, won 5.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "4P3Y0Q": {
    "msg": "1535143197427368007",
@@ -5689,6 +5682,13 @@
    "end": 1786201200,
    "title": "[Fallen Tributes/Night 1] Scrap tf HG",
    "items": 1,
+   "ended": false
+  },
+  "KK9ZA0": {
+   "msg": "1535490441007599647",
+   "end": 1786244941,
+   "title": "THIS, is a bucket.",
+   "items": 32,
    "ended": false
   }
  },
