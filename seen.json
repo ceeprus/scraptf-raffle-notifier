@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "2SCU79": {
-   "msg": "1532749952013434901",
-   "end": 1785591962,
-   "title": "Ta-da!",
-   "items": 1,
-   "ended": true
-  },
   "M7U648": {
    "msg": "1532762466013020251",
    "end": 1785595501,
@@ -4877,7 +4870,7 @@
    "end": 1786196161,
    "title": "What's the point of bein' rich when you wake up alone?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IW7GTG": {
    "msg": "1535282954614472724",
@@ -5633,6 +5626,13 @@
    "end": 1786280400,
    "title": "When you see a lore video for a franchise you know nothing about",
    "items": 2,
+   "ended": false
+  },
+  "XCWLVV": {
+   "msg": "1535649030603022557",
+   "end": 1786283281,
+   "title": "Bau! Bau!",
+   "items": 3,
    "ended": false
   }
  },
