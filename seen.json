@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "20XLC4": {
-   "msg": "1532705788693581837",
-   "end": 1785582000,
-   "title": "Outdone!",
-   "items": 1,
-   "ended": true
-  },
   "MBT8EG": {
    "msg": "1532713363505676409",
    "end": 1785583921,
@@ -4877,21 +4870,21 @@
    "end": 1786186802,
    "title": "Tyler The Finn",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U7G9AE": {
    "msg": "1535246333538082828",
    "end": 1786186800,
    "title": "The sky had a baby!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C2PDK6": {
    "msg": "1535246340744020053",
    "end": 1786186741,
    "title": "#21",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1TKL78": {
    "msg": "1535256480981196903",
