@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "XDWV0Y": {
-   "msg": "1532679366859948162",
-   "end": 1785575941,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "K18V24": {
    "msg": "1532684419264024767",
    "end": 1785577201,
@@ -5633,6 +5626,34 @@
    "end": 1786264261,
    "title": "Day 27 Of \"Bad\" Weapon",
    "items": 1,
+   "ended": false
+  },
+  "SGZKI6": {
+   "msg": "1535581037583802419",
+   "end": 1786267564,
+   "title": "Tries",
+   "items": 1,
+   "ended": false
+  },
+  "CS1VWI": {
+   "msg": "1535581045250854932",
+   "end": 1786266962,
+   "title": "Daily Brass Beast #532",
+   "items": 1,
+   "ended": false
+  },
+  "B822EX": {
+   "msg": "1535581053593325568",
+   "end": 1786266842,
+   "title": "First Raffle*",
+   "items": 10,
+   "ended": false
+  },
+  "2IHAFG": {
+   "msg": "1535581061743124592",
+   "end": 1786266781,
+   "title": "slug fun facts.",
+   "items": 6,
    "ended": false
   }
  },
