@@ -4891,7 +4891,7 @@
    "end": 1786158302,
    "title": "medi gun",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HNBVT3": {
    "msg": "1535131214485266474",
@@ -5681,6 +5681,13 @@
    "msg": "1535475358806048941",
    "end": 1786241701,
    "title": "searching for pocket medic",
+   "items": 1,
+   "ended": false
+  },
+  "FBH1W3": {
+   "msg": "1535483953656373360",
+   "end": 1786201200,
+   "title": "[Fallen Tributes/Night 1] Scrap tf HG",
    "items": 1,
    "ended": false
   }
