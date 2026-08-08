@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "FF531I": {
-   "msg": "1532666844907835472",
-   "end": 1785572522,
-   "title": "ALL 40 SMISSMAS NOISEMAKERS",
-   "items": 40,
-   "ended": true
-  },
   "R7MR9M": {
    "msg": "1532671824725414010",
    "end": 1785574141,
@@ -523,20 +516,6 @@
    "end": 1785615661,
    "title": "Hey you!",
    "items": 2,
-   "ended": true
-  },
-  "X5C6XX": {
-   "msg": "1532849218061078701",
-   "end": 1785572881,
-   "title": "Getting Down To It #52",
-   "items": 1,
-   "ended": true
-  },
-  "GH4HUO": {
-   "msg": "1532849226457940302",
-   "end": 1785572641,
-   "title": "Rate the Loadout",
-   "items": 1,
    "ended": true
   },
   "BNUDFA": {
@@ -4884,7 +4863,7 @@
    "end": 1786177502,
    "title": "Bau! Bau!",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "KVVE5R": {
    "msg": "1535232785785163806",
@@ -5639,6 +5618,13 @@
    "msg": "1535558451785371739",
    "end": 1786260901,
    "title": "Oatmeal",
+   "items": 1,
+   "ended": false
+  },
+  "8RGOHO": {
+   "msg": "1535565514112372776",
+   "end": 1786262400,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
