@@ -469,20 +469,6 @@
    "items": 13,
    "ended": true
   },
-  "X40GRZ": {
-   "msg": "1532947372320100353",
-   "end": 1785596462,
-   "title": "Getting Down To It #54",
-   "items": 1,
-   "ended": true
-  },
-  "G4SGWH": {
-   "msg": "1532947378653626419",
-   "end": 1785596281,
-   "title": "Getting Down To It #53",
-   "items": 1,
-   "ended": true
-  },
   "QT63ZO": {
    "msg": "1532968842383327303",
    "end": 1785644821,
@@ -5220,7 +5206,7 @@
    "end": 1786201200,
    "title": "[Fallen Tributes/Night 1] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KK9ZA0": {
    "msg": "1535490441007599647",
