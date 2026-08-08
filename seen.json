@@ -42,41 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "WTLEJP": {
-   "msg": "1532791377635708968",
-   "end": 1785602341,
-   "title": "Help me!",
-   "items": 10,
-   "ended": true
-  },
-  "GY0F6C": {
-   "msg": "1532793875234685030",
-   "end": 1785602761,
-   "title": "Proceed.",
-   "items": 7,
-   "ended": true
-  },
-  "76702G": {
-   "msg": "1532796367997767731",
-   "end": 1785603600,
-   "title": "Daily raffle until TF2 gets a major update #577",
-   "items": 3,
-   "ended": true
-  },
-  "NMWTZI": {
-   "msg": "1532796375010508984",
-   "end": 1785603600,
-   "title": "Guys",
-   "items": 3,
-   "ended": true
-  },
-  "NME1OA": {
-   "msg": "1532796383042469968",
-   "end": 1785603421,
-   "title": "Untitled raffle",
-   "items": 10,
-   "ended": true
-  },
   "5KIWT8": {
    "msg": "1532798904716755064",
    "end": 1785603962,
@@ -4877,14 +4842,14 @@
    "end": 1786208400,
    "title": "Daily raffle until TF2 gets a major update #584",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "1S43B7": {
    "msg": "1535339508223049728",
    "end": 1786208282,
    "title": "Scrap.tf Birthdays - 7 August",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JP1K94": {
    "msg": "1535342008493678752",
@@ -5150,7 +5115,7 @@
    "end": 1786208101,
    "title": "bottle :3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GMJP1O": {
    "msg": "1535513157114798151",
@@ -5584,6 +5549,27 @@
    "end": 1786292581,
    "title": "i have a dumb question",
    "items": 1,
+   "ended": false
+  },
+  "FNPY5K": {
+   "msg": "1535694171405426790",
+   "end": 1786293902,
+   "title": "Non-Craftaballs Part 2",
+   "items": 10,
+   "ended": false
+  },
+  "MYOYI9": {
+   "msg": "1535694178653053031",
+   "end": 1786293781,
+   "title": "Daily raffle #239",
+   "items": 1,
+   "ended": false
+  },
+  "910C2Q": {
+   "msg": "1535694185133379654",
+   "end": 1786293061,
+   "title": "bzzzzz",
+   "items": 2,
    "ended": false
   }
  },
