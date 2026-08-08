@@ -336,13 +336,6 @@
    "items": 1,
    "ended": true
   },
-  "Y47USI": {
-   "msg": "1533037991491014666",
-   "end": 1785618000,
-   "title": "Rate the Loadout",
-   "items": 2,
-   "ended": true
-  },
   "I806G5": {
    "msg": "1533040486384795760",
    "end": 1785661982,
@@ -4821,14 +4814,14 @@
    "end": 1786222800,
    "title": "checkup #83 | a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2X7I5N": {
    "msg": "1535399613409005660",
    "end": 1786222800,
    "title": "it my burfday :)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QJYAK3": {
    "msg": "1535407445084602379",
@@ -5465,7 +5458,7 @@
    "end": 1786222802,
    "title": "I have 34 tips",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B5J884": {
    "msg": "1535701902254149724",
@@ -5752,6 +5745,41 @@
    "end": 1786307341,
    "title": "summoning the Germans (or German speakers)",
    "items": 6,
+   "ended": false
+  },
+  "A8K90L": {
+   "msg": "1535754739336347740",
+   "end": 1786308901,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P2B2TQ": {
+   "msg": "1535754746449760268",
+   "end": 1786308901,
+   "title": "Free Games Part 141 \u2022 Breathedge",
+   "items": 1,
+   "ended": false
+  },
+  "RF88F8": {
+   "msg": "1535754753852579960",
+   "end": 1786308721,
+   "title": "Free Games Part 140 \u2022 Moonlighter",
+   "items": 1,
+   "ended": false
+  },
+  "INKOOB": {
+   "msg": "1535754760601346208",
+   "end": 1786243861,
+   "title": "This is a filler",
+   "items": 1,
+   "ended": false
+  },
+  "V7MSXU": {
+   "msg": "1535754767253643345",
+   "end": 1786308541,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
