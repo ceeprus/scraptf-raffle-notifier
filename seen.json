@@ -42,44 +42,9 @@
    "items": 14,
    "ended": false
   },
-  "5Z55GV": {
-   "msg": "1532611445961789490",
-   "end": 1785559381,
-   "title": "My first raffle",
-   "items": 1,
-   "ended": true
-  },
-  "X8TSAU": {
-   "msg": "1532614025714733196",
-   "end": 1785560282,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "OP7LJ1": {
-   "msg": "1532614031930687538",
-   "end": 1785560041,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JW6FYA": {
-   "msg": "1532614037865762879",
-   "end": 1785559981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "GVFHW2": {
    "msg": "1532616462529728645",
    "end": 1785560641,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "LW5V07": {
-   "msg": "1532616468556939469",
-   "end": 1785560403,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -516,13 +481,6 @@
    "end": 1785602341,
    "title": "Help me!",
    "items": 10,
-   "ended": true
-  },
-  "1UAYBV": {
-   "msg": "1532791383281238128",
-   "end": 1785558842,
-   "title": "Make some  for ! #3",
-   "items": 1,
    "ended": true
   },
   "GY0F6C": {
@@ -5674,6 +5632,27 @@
    "msg": "1535505558294241330",
    "end": 1786249322,
    "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "4L8XIN": {
+   "msg": "1535513142229073974",
+   "end": 1786251421,
+   "title": "Day 2 of asking for Slugma Chain emoticon",
+   "items": 3,
+   "ended": false
+  },
+  "2G7E8N": {
+   "msg": "1535513150848499743",
+   "end": 1786208101,
+   "title": "bottle :3",
+   "items": 1,
+   "ended": false
+  },
+  "GMJP1O": {
+   "msg": "1535513157114798151",
+   "end": 1786249741,
+   "title": "Bau! Bau!",
    "items": 2,
    "ended": false
   }
