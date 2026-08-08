@@ -42,48 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "AZDYF7": {
-   "msg": "1532782555798175785",
-   "end": 1785600121,
-   "title": "ft.",
-   "items": 1,
-   "ended": true
-  },
-  "YQP3KZ": {
-   "msg": "1532782562647347240",
-   "end": 1785600061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "USVJ8D": {
-   "msg": "1532785124058464327",
-   "end": 1785600781,
-   "title": "and  Bowling Edition",
-   "items": 1,
-   "ended": true
-  },
-  "06DQUB": {
-   "msg": "1532785132275237085",
-   "end": 1785600781,
-   "title": "What even is stock?",
-   "items": 1,
-   "ended": true
-  },
-  "DVMSS4": {
-   "msg": "1532785142891020429",
-   "end": 1785600721,
-   "title": "Amassment",
-   "items": 20,
-   "ended": true
-  },
-  "V0QKDM": {
-   "msg": "1532787654800969788",
-   "end": 1785601322,
-   "title": "Giving away random hats",
-   "items": 7,
-   "ended": true
-  },
   "WTLEJP": {
    "msg": "1532791377635708968",
    "end": 1785602341,
@@ -4863,7 +4821,7 @@
    "end": 1786205102,
    "title": "Give me songs!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "07LXWQ": {
    "msg": "1535324378127007776",
@@ -5605,6 +5563,20 @@
    "end": 1786289702,
    "title": "I love mvm",
    "items": 1,
+   "ended": false
+  },
+  "A53EP8": {
+   "msg": "1535684523801448500",
+   "end": 1786291200,
+   "title": "\ud83d\udc18",
+   "items": 1,
+   "ended": false
+  },
+  "OCXT60": {
+   "msg": "1535684530634227762",
+   "end": 1786291200,
+   "title": "Scrap.tf Birthdays - 8 August",
+   "items": 3,
    "ended": false
   }
  },
