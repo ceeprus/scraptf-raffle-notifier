@@ -483,13 +483,6 @@
    "items": 1,
    "ended": true
   },
-  "PBG8WU": {
-   "msg": "1532939805166403635",
-   "end": 1785594121,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "H3GB7R": {
    "msg": "1532942358360883230",
    "end": 1785638041,
@@ -4884,28 +4877,28 @@
    "end": 1786199101,
    "title": "it will be free for everyone (bonkie boy)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BYIOMJ": {
    "msg": "1535294178114674718",
    "end": 1786198081,
    "title": "scout",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "QHIOI0": {
    "msg": "1535294185794437270",
    "end": 1786198022,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "GMPH0E": {
    "msg": "1535294192551460874",
    "end": 1786197962,
    "title": "roblox told me im 19 years old",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8VMBXY": {
    "msg": "1535294198935330817",
@@ -5633,6 +5626,27 @@
    "end": 1786283281,
    "title": "Bau! Bau!",
    "items": 3,
+   "ended": false
+  },
+  "ET92R6": {
+   "msg": "1535656562167644210",
+   "end": 1786285322,
+   "title": "I don't like this hair.",
+   "items": 1,
+   "ended": false
+  },
+  "QFYGGX": {
+   "msg": "1535656569398894614",
+   "end": 1786285142,
+   "title": "DELETED ACCOUNT FILE",
+   "items": 5,
+   "ended": false
+  },
+  "CGIAFS": {
+   "msg": "1535656577351290880",
+   "end": 1786285082,
+   "title": "Blackimus has finally dropped a new episode of The Scratched Universe!!",
+   "items": 7,
    "ended": false
   }
  },
