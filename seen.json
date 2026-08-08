@@ -42,34 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "67M9W1": {
-   "msg": "1532567358621614090",
-   "end": 1785548941,
-   "title": "Off to the sleepies",
-   "items": 5,
-   "ended": true
-  },
-  "WWW3EK": {
-   "msg": "1532567364909142046",
-   "end": 1785548821,
-   "title": "Raffle Log #89",
-   "items": 1,
-   "ended": true
-  },
-  "VG9X8C": {
-   "msg": "1532567371435216987",
-   "end": 1785548521,
-   "title": "Project: \"Cuh-Rit\" restoring a soldier statue",
-   "items": 2,
-   "ended": true
-  },
-  "IU8QEI": {
-   "msg": "1532569864257015929",
-   "end": 1785549421,
-   "title": "Raffle Log #90",
-   "items": 1,
-   "ended": true
-  },
   "XRKMOK": {
    "msg": "1532572415182503966",
    "end": 1785550202,
@@ -438,13 +410,6 @@
    "msg": "1532738518101790720",
    "end": 1785590041,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "HM5NI1": {
-   "msg": "1532743506567757844",
-   "end": 1785547922,
-   "title": "Raffling Scrap Till I'm Out #989 (Super late raffle V2)",
    "items": 1,
    "ended": true
   },
@@ -4905,7 +4870,7 @@
    "end": 1786153862,
    "title": "One guy made radle where he ask help to find music name in  It's Play Time [Saxxy 2015 Extended Winner] 4:16 time mark",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZWHNNG": {
    "msg": "1535112956298137600",
