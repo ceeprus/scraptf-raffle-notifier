@@ -4821,14 +4821,14 @@
    "end": 1786215841,
    "title": "gotta love free stuff",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "VO94FN": {
    "msg": "1535369675050057829",
    "end": 1786215722,
    "title": "solemn vow",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KD06DV": {
    "msg": "1535373209627787348",
@@ -5688,6 +5688,20 @@
    "msg": "1535724567077593098",
    "end": 1786300082,
    "title": "Free",
+   "items": 6,
+   "ended": false
+  },
+  "59KB2I": {
+   "msg": "1535726048543645846",
+   "end": 1786302001,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1FYDII": {
+   "msg": "1535726058152661032",
+   "end": 1786301761,
+   "title": "Bau! Bau!",
    "items": 6,
    "ended": false
   }
