@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "B9ONX5": {
-   "msg": "1532874411038736516",
-   "end": 1785622022,
-   "title": "=",
-   "items": 1,
-   "ended": true
-  },
   "ECOJMA": {
    "msg": "1532879402910744656",
    "end": 1785623400,
@@ -333,13 +326,6 @@
    "msg": "1533051937186910418",
    "end": 1785664141,
    "title": "coollion Grabli304's raffle\u2503Day 153",
-   "items": 2,
-   "ended": true
-  },
-  "GC2OVY": {
-   "msg": "1533056865552826400",
-   "end": 1785622201,
-   "title": "Untitled raffle",
    "items": 2,
    "ended": true
   },
@@ -5808,6 +5794,13 @@
    "end": 1786312142,
    "title": "My first collector\u2019s weapon",
    "items": 26,
+   "ended": false
+  },
+  "3AB88Q": {
+   "msg": "1535774408239489075",
+   "end": 1786313042,
+   "title": "Freddy Fivebear Is 12",
+   "items": 3,
    "ended": false
   }
  },
