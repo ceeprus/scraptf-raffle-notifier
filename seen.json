@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "D0ICI5": {
-   "msg": "1532656721711857735",
-   "end": 1785570421,
-   "title": "Starchion's wisdom #2",
-   "items": 1,
-   "ended": true
-  },
-  "UDVTXO": {
-   "msg": "1532661801206943805",
-   "end": 1785571141,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "FF531I": {
    "msg": "1532666844907835472",
    "end": 1785572522,
@@ -4849,7 +4835,7 @@
    "end": 1786175402,
    "title": "Day 26 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EA206I": {
    "msg": "1535196043971665961",
@@ -5626,6 +5612,34 @@
    "end": 1786260301,
    "title": "#freegrabli304",
    "items": 3,
+   "ended": false
+  },
+  "GVLRYK": {
+   "msg": "1535558432705482804",
+   "end": 1786261262,
+   "title": "Flavor Slop Opinion Slop",
+   "items": 1,
+   "ended": false
+  },
+  "UXY7FY": {
+   "msg": "1535558439252791306",
+   "end": 1786261201,
+   "title": "#13",
+   "items": 1,
+   "ended": false
+  },
+  "0T2OZ2": {
+   "msg": "1535558446030520350",
+   "end": 1786261021,
+   "title": "#12",
+   "items": 1,
+   "ended": false
+  },
+  "TD33SK": {
+   "msg": "1535558451785371739",
+   "end": 1786260901,
+   "title": "Oatmeal",
+   "items": 1,
    "ended": false
   }
  },
