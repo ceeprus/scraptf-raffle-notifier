@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "K18V24": {
-   "msg": "1532684419264024767",
-   "end": 1785577201,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "TD2KWL": {
-   "msg": "1532686932251770992",
-   "end": 1785577561,
-   "title": "guys pls tips write reason in message",
-   "items": 3,
-   "ended": true
-  },
-  "138QOQ": {
-   "msg": "1532689529675321476",
-   "end": 1785578400,
-   "title": "Gifted Market Gardener",
-   "items": 1,
-   "ended": true
-  },
   "WKHRAT": {
    "msg": "1532691957862633543",
    "end": 1785579002,
@@ -5367,7 +5346,7 @@
    "end": 1786182241,
    "title": "I'm bad at spy",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "K52I98": {
    "msg": "1535414976028876891",
@@ -5654,6 +5633,41 @@
    "end": 1786266781,
    "title": "slug fun facts.",
    "items": 6,
+   "ended": false
+  },
+  "709N3O": {
+   "msg": "1535588663537307669",
+   "end": 1786269361,
+   "title": "Art from a joke",
+   "items": 2,
+   "ended": false
+  },
+  "9OVZWX": {
+   "msg": "1535588670915092520",
+   "end": 1786269241,
+   "title": "Osmosis",
+   "items": 1,
+   "ended": false
+  },
+  "9BC9RQ": {
+   "msg": "1535588679203164282",
+   "end": 1786204201,
+   "title": "1st raffle",
+   "items": 3,
+   "ended": false
+  },
+  "WZ01CN": {
+   "msg": "1535588686672953485",
+   "end": 1786268341,
+   "title": "heya guys",
+   "items": 5,
+   "ended": false
+  },
+  "HDNCCD": {
+   "msg": "1535588693258149958",
+   "end": 1786203002,
+   "title": "Head",
+   "items": 3,
    "ended": false
   }
  },
