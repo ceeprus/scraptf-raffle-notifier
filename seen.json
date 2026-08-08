@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "L52UYX": {
-   "msg": "1532835432545386530",
-   "end": 1785613141,
-   "title": "Equestria Forever",
-   "items": 53,
-   "ended": true
-  },
-  "DFVKT4": {
-   "msg": "1532835441907077291",
-   "end": 1785612722,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WHG7KE": {
-   "msg": "1532839155409748140",
-   "end": 1785613381,
-   "title": "Grooviest Tracks #797",
-   "items": 4,
-   "ended": true
-  },
   "UG9RJW": {
    "msg": "1532841693085306921",
    "end": 1785614402,
@@ -4807,14 +4786,14 @@
    "end": 1786217839,
    "title": "Equestria 4ever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "FS67GP": {
    "msg": "1535373216766238861",
    "end": 1786217462,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7RTHLZ": {
    "msg": "1535373222545985539",
@@ -4828,7 +4807,7 @@
    "end": 1786218061,
    "title": "Who's the best quintuplet?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KXTQH9": {
    "msg": "1535384809264644168",
@@ -5689,6 +5668,27 @@
    "end": 1786259101,
    "title": "Untitled raffle",
    "items": 5,
+   "ended": false
+  },
+  "S2ELM1": {
+   "msg": "1535737048802267209",
+   "end": 1786221001,
+   "title": "my first raffle and a small raffle...",
+   "items": 2,
+   "ended": false
+  },
+  "0OCQJZ": {
+   "msg": "1535737055844507689",
+   "end": 1786260600,
+   "title": "[DAY 2] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "7JNIZ1": {
+   "msg": "1535737063100653729",
+   "end": 1786303562,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
