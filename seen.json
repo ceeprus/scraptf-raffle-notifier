@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "7GXI27": {
-   "msg": "1532780118370685130",
-   "end": 1785600000,
-   "title": "Scrap.tf Birthdays - 31 July",
-   "items": 3,
-   "ended": true
-  },
-  "QR9X4G": {
-   "msg": "1532780126616420502",
-   "end": 1785600000,
-   "title": "Weekly  #100",
-   "items": 4,
-   "ended": true
-  },
-  "MK1HPL": {
-   "msg": "1532780133218259048",
-   "end": 1785599701,
-   "title": "Daily Brass Beast #524",
-   "items": 1,
-   "ended": true
-  },
   "AZDYF7": {
    "msg": "1532782555798175785",
    "end": 1785600121,
@@ -4891,14 +4870,14 @@
    "end": 1786204802,
    "title": "Fly birdie, fly! Oh yeah and beer",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "DRZPKE": {
    "msg": "1535324385945321504",
    "end": 1786204800,
    "title": "Weekly  #101",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "TSV54J": {
    "msg": "1535324392920449027",
