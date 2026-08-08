@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "6TBWER": {
-   "msg": "1532888256755011704",
-   "end": 1785625200,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "5Y8VSN": {
-   "msg": "1532888264447627325",
-   "end": 1785624961,
-   "title": "\ud83c\ude34",
-   "items": 1,
-   "ended": true
-  },
   "ONFUI4": {
    "msg": "1532893359872544929",
    "end": 1785626401,
@@ -4772,7 +4758,7 @@
    "end": 1786230000,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2GQQUA": {
    "msg": "1535436308346970153",
