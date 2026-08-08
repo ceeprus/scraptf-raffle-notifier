@@ -4856,14 +4856,14 @@
    "end": 1786174561,
    "title": "I won a raffle so here's one",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "PQBE2Q": {
    "msg": "1535196050602594425",
    "end": 1786174501,
    "title": "The marsupial appears",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NWPRFJ": {
    "msg": "1535211150826799208",
@@ -5612,6 +5612,20 @@
    "end": 1786258561,
    "title": "Day 60 of Asking for a Follow Button",
    "items": 1,
+   "ended": false
+  },
+  "7PCAGC": {
+   "msg": "1535553410374443030",
+   "end": 1786260421,
+   "title": "#11",
+   "items": 1,
+   "ended": false
+  },
+  "5588RW": {
+   "msg": "1535553418452803604",
+   "end": 1786260301,
+   "title": "#freegrabli304",
+   "items": 3,
    "ended": false
   }
  },
