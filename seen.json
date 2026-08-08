@@ -308,20 +308,6 @@
    "items": 1,
    "ended": true
   },
-  "YVKN8F": {
-   "msg": "1533069467360301167",
-   "end": 1785625742,
-   "title": "marten_sip:",
-   "items": 1,
-   "ended": true
-  },
-  "OS6B8T": {
-   "msg": "1533069473278333098",
-   "end": 1785625681,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "IF79QD": {
    "msg": "1533069478307430431",
    "end": 1785668400,
@@ -333,13 +319,6 @@
    "msg": "1533073184805355563",
    "end": 1785669421,
    "title": "Just a talk i guess #6",
-   "items": 1,
-   "ended": true
-  },
-  "SG9Y4D": {
-   "msg": "1533073191990464623",
-   "end": 1785625921,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5339,7 +5318,7 @@
    "end": 1786231021,
    "title": "to slug or not to slug",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GYB57S": {
    "msg": "1535701875213734059",
@@ -5773,6 +5752,20 @@
    "end": 1786314901,
    "title": "All gone! 1250 purrers!",
    "items": 2,
+   "ended": false
+  },
+  "VMC7Y0": {
+   "msg": "1535789597047390238",
+   "end": 1786317061,
+   "title": "My Birthday Curse...... Might be happening again",
+   "items": 1,
+   "ended": false
+  },
+  "LT93CL": {
+   "msg": "1535789605733797889",
+   "end": 1786316641,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
