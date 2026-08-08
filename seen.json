@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "Y71WX8": {
-   "msg": "1532720869388976209",
-   "end": 1785585600,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "A1GRAN": {
    "msg": "1532723406770929675",
    "end": 1785586081,
@@ -4877,14 +4870,14 @@
    "end": 1786190400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KLIQQM": {
    "msg": "1535257726685290566",
    "end": 1786190400,
    "title": "Untitled raffle",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "X9DGFU": {
    "msg": "1535264010432151622",
