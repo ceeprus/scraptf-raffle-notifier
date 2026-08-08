@@ -42,34 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "INP7KX": {
-   "msg": "1532731029457076224",
-   "end": 1785588182,
-   "title": "\u3164\u3164\ud83c\udf38\u3164\u3164",
-   "items": 10,
-   "ended": true
-  },
-  "0Y6H5S": {
-   "msg": "1532731037015343104",
-   "end": 1785587941,
-   "title": "Daily Hat #71",
-   "items": 1,
-   "ended": true
-  },
-  "RJUBQU": {
-   "msg": "1532735987392712725",
-   "end": 1785589262,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "2QMCN4": {
-   "msg": "1532735994967625848",
-   "end": 1785589200,
-   "title": "Austria's Strange Square Tank Engines - BB\u00d6 DT 1 \"Dorftrottel\"",
-   "items": 2,
-   "ended": true
-  },
   "5BIOUI": {
    "msg": "1532738518101790720",
    "end": 1785590041,
@@ -4856,7 +4828,7 @@
    "end": 1786192862,
    "title": "Bau! Bau!",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "RK606X": {
    "msg": "1535271569750761583",
@@ -4905,14 +4877,14 @@
    "end": 1786194001,
    "title": "Fanumstein Rizzberg raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "66789B": {
    "msg": "1535279108529979477",
    "end": 1786194000,
    "title": "The Award Winning Assassin",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K2UMR9": {
    "msg": "1535282947735949456",
@@ -5262,7 +5234,7 @@
    "end": 1786193341,
    "title": "Notice",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VUDGYG": {
    "msg": "1535460258573713428",
@@ -5639,6 +5611,13 @@
    "msg": "1535625849179603075",
    "end": 1786276800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "YL7XXS": {
+   "msg": "1535633928273006672",
+   "end": 1786279801,
+   "title": "Starchion`s Art #20 [Joji CHLOE BURBANK - chibi version]",
    "items": 1,
    "ended": false
   }
