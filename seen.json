@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "VR8M9N": {
-   "msg": "1532629123762098197",
-   "end": 1785563941,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "B5OJGU": {
    "msg": "1532634067705528330",
    "end": 1785565201,
@@ -5619,6 +5612,13 @@
    "end": 1786252204,
    "title": "Untitled raffle",
    "items": 5,
+   "ended": false
+  },
+  "LVOWVP": {
+   "msg": "1535528251106263120",
+   "end": 1786255202,
+   "title": "Slugma Chain raffle",
+   "items": 1,
    "ended": false
   }
  },
