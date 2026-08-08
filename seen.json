@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "LP8C11": {
-   "msg": "1532881973289156850",
-   "end": 1785623761,
-   "title": "\u0423 \u043c\u0435\u043d\u044f \u0435\u0441\u0442\u044c \u0438\u0434\u0435\u044f \u043d\u0430 \u0441\u0447\u0451\u0442 \u0438\u0433\u0440\u044b\ud83d\udcaf",
-   "items": 3,
-   "ended": true
-  },
-  "1CA1I4": {
-   "msg": "1532885809290543235",
-   "end": 1785624600,
-   "title": "Recovery",
-   "items": 1,
-   "ended": true
-  },
   "6TBWER": {
    "msg": "1532888256755011704",
    "end": 1785625200,
@@ -333,13 +319,6 @@
    "msg": "1533064418458468454",
    "end": 1785667562,
    "title": "Montly Raffle Wins (July)",
-   "items": 1,
-   "ended": true
-  },
-  "LT11O5": {
-   "msg": "1533064425399910560",
-   "end": 1785624302,
-   "title": "free",
    "items": 1,
    "ended": true
   },
@@ -4786,7 +4765,7 @@
    "end": 1786229282,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JY9WHH": {
    "msg": "1535430097992155246",
@@ -5122,7 +5101,7 @@
    "end": 1786229341,
    "title": "garage giveaway vol.2",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "KTK0H3": {
    "msg": "1535603008304316466",
@@ -5794,6 +5773,20 @@
    "end": 1786313401,
    "title": "Power Scale #4",
    "items": 3,
+   "ended": false
+  },
+  "I9GVP9": {
+   "msg": "1535783346079272981",
+   "end": 1786251061,
+   "title": "Hello There :D",
+   "items": 2,
+   "ended": false
+  },
+  "PPWUEN": {
+   "msg": "1535783352773124250",
+   "end": 1786314901,
+   "title": "All gone! 1250 purrers!",
+   "items": 2,
    "ended": false
   }
  },
