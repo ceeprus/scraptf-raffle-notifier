@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "M7U648": {
-   "msg": "1532762466013020251",
-   "end": 1785595501,
-   "title": "Oisu",
-   "items": 1,
-   "ended": true
-  },
-  "RHI6XE": {
-   "msg": "1532765021619359866",
-   "end": 1785595921,
-   "title": "and",
-   "items": 1,
-   "ended": true
-  },
-  "KXVRE2": {
-   "msg": "1532765031064797386",
-   "end": 1785595741,
-   "title": "Trance & Trash\u3002",
-   "items": 80,
-   "ended": true
-  },
   "EBK9ZF": {
    "msg": "1532767463777898791",
    "end": 1785596822,
@@ -5647,6 +5626,20 @@
    "end": 1786285082,
    "title": "Blackimus has finally dropped a new episode of The Scratched Universe!!",
    "items": 7,
+   "ended": false
+  },
+  "HDM82P": {
+   "msg": "1535662909571600395",
+   "end": 1786287361,
+   "title": "I didnt beat Minecraft since 2016 i believe. Should i do it?",
+   "items": 1,
+   "ended": false
+  },
+  "66FV57": {
+   "msg": "1535662916345528421",
+   "end": 1786215061,
+   "title": "meow... TWO!!",
+   "items": 1,
    "ended": false
   }
  },
