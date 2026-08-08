@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "WKHRAT": {
-   "msg": "1532691957862633543",
-   "end": 1785579002,
-   "title": "Grabli304's raffle\u2503Day 152",
-   "items": 2,
-   "ended": true
-  },
-  "R4OWVP": {
-   "msg": "1532697049110286336",
-   "end": 1785579661,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "RZA05A": {
    "msg": "1532700795747958883",
    "end": 1785580501,
@@ -816,13 +802,6 @@
    "msg": "1533040486384795760",
    "end": 1785661982,
    "title": "Your Favorite Mods and HUD",
-   "items": 1,
-   "ended": true
-  },
-  "Q5XERW": {
-   "msg": "1533040492890292254",
-   "end": 1785578941,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -4835,28 +4814,28 @@
    "end": 1786183861,
    "title": "tours 22th  .still no good drop",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "A3KHN3": {
    "msg": "1535232791212589098",
    "end": 1786183681,
    "title": "Grabli304's raffle\u2503Day 159",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "31XSUT": {
    "msg": "1535232797374152765",
    "end": 1786183561,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "A9NB0E": {
    "msg": "1535232802495135789",
    "end": 1786183442,
    "title": "I'm bored :|",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "1CVL8S": {
    "msg": "1535232809348636703",
@@ -4870,14 +4849,14 @@
    "end": 1786184641,
    "title": "Gimme your sandwich",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DOU8Q3": {
    "msg": "1535233797228859422",
    "end": 1786184401,
    "title": "I'm still The marsupial asking for Free Grabli304 Chain emoticon",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "ZCHELZ": {
    "msg": "1535241376722059315",
@@ -5668,6 +5647,27 @@
    "end": 1786203002,
    "title": "Head",
    "items": 3,
+   "ended": false
+  },
+  "K2E12Z": {
+   "msg": "1535596153457086504",
+   "end": null,
+   "title": "\"Lemonade\"",
+   "items": 1,
+   "ended": false
+  },
+  "KJVJHR": {
+   "msg": "1535596161258360842",
+   "end": 1786270561,
+   "title": "Sleep-deprived Saturday",
+   "items": 1,
+   "ended": false
+  },
+  "3J4T2H": {
+   "msg": "1535596167121997874",
+   "end": 1786269781,
+   "title": "Forgotten Diamonds #1",
+   "items": 1,
    "ended": false
   }
  },
