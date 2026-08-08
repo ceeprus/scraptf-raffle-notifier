@@ -63,13 +63,6 @@
    "items": 1,
    "ended": true
   },
-  "XUWUQM": {
-   "msg": "1532780140743098480",
-   "end": 1785599581,
-   "title": "Describe yourself!",
-   "items": 1,
-   "ended": true
-  },
   "AZDYF7": {
    "msg": "1532782555798175785",
    "end": 1785600121,
@@ -4877,14 +4870,14 @@
    "end": 1786204261,
    "title": "TODAY IS MY SCRAPPYVERSARY!!!",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "G9MNFI": {
    "msg": "1535316872939962409",
    "end": 1786203781,
    "title": "W Fanumstein Rizzberg",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "63O4U8": {
    "msg": "1535324369943797791",
@@ -5416,7 +5409,7 @@
    "end": 1786204201,
    "title": "1st raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "WZ01CN": {
    "msg": "1535588686672953485",
@@ -5626,6 +5619,13 @@
    "end": 1786288981,
    "title": "Update: IT STILL SUCKS",
    "items": 4,
+   "ended": false
+  },
+  "YNOUZQ": {
+   "msg": "1535677459616243873",
+   "end": 1786289702,
+   "title": "I love mvm",
+   "items": 1,
    "ended": false
   }
  },
