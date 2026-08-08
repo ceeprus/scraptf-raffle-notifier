@@ -42,34 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "A1GRAN": {
-   "msg": "1532723406770929675",
-   "end": 1785586081,
-   "title": "is still going on",
-   "items": 1,
-   "ended": true
-  },
-  "W21SSZ": {
-   "msg": "1532723413746188408",
-   "end": 1785585961,
-   "title": "Daily raffle #321",
-   "items": 1,
-   "ended": true
-  },
-  "K5E98T": {
-   "msg": "1532725912792203358",
-   "end": 1785586921,
-   "title": "MARTEEEEEEEN  SIIIIIIIIIIIIIIIIIIIIIIP",
-   "items": 1,
-   "ended": true
-  },
-  "5MR0LQ": {
-   "msg": "1532725920455069726",
-   "end": 1785586861,
-   "title": "LEOOON  *sipppp*  LEOOON",
-   "items": 1,
-   "ended": true
-  },
   "A40HB6": {
    "msg": "1532728470336049323",
    "end": 1785587341,
@@ -4884,7 +4856,7 @@
    "end": 1786191781,
    "title": "Fanumstein Rizzberg???",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1NA3NS": {
    "msg": "1535271561559539783",
@@ -4898,7 +4870,7 @@
    "end": 1786192021,
    "title": "Hii :3     This is my third raffle, wow",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "A42678": {
    "msg": "1535279068784758885",
@@ -5661,6 +5633,20 @@
    "end": 1786275121,
    "title": "STOLEN PLUSHIE CONTRACT",
    "items": 4,
+   "ended": false
+  },
+  "DASZ7H": {
+   "msg": "1535625842645012581",
+   "end": 1786277581,
+   "title": "\ud83d\udcb2\ud83c\udd70\ud83d\udc62\u24c2\ud83d\ude00\ud83e\udd44\ud83d\udd74\ud83c\udd70",
+   "items": 2,
+   "ended": false
+  },
+  "0NNB8E": {
+   "msg": "1535625849179603075",
+   "end": 1786276800,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
