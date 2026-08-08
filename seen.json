@@ -49,27 +49,6 @@
    "items": 30,
    "ended": true
   },
-  "Y451LR": {
-   "msg": "1532541003813093486",
-   "end": 1785542400,
-   "title": "Tower Throw Down",
-   "items": 1,
-   "ended": true
-  },
-  "CTIZ5B": {
-   "msg": "1532541014726676560",
-   "end": 1785542341,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "HYJOSS": {
-   "msg": "1532541025560563782",
-   "end": 1785542281,
-   "title": "shares  with",
-   "items": 1,
-   "ended": true
-  },
   "JIOPFJ": {
    "msg": "1532543472953856031",
    "end": 1785543121,
@@ -5763,9 +5742,9 @@
   }
  },
  "megaraffle": {
-  "num": 1162,
-  "end": 1786147200,
-  "msg": "1534350530892267560",
+  "num": 1163,
+  "end": 1786406400,
+  "msg": "1535437681574674464",
   "ended": false
  }
 }
