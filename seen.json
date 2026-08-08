@@ -5598,7 +5598,7 @@
    "end": 1786212902,
    "title": "just scrap?, Noisemaker?!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "52AQ2Q": {
    "msg": "1535707822065586328",
@@ -5661,6 +5661,27 @@
    "end": 1786297921,
    "title": "Heavy weapons raffle",
    "items": 3,
+   "ended": false
+  },
+  "UJTWQ9": {
+   "msg": "1535715111657021550",
+   "end": 1786256521,
+   "title": "It's my scrappy today?",
+   "items": 1,
+   "ended": false
+  },
+  "HE6FER": {
+   "msg": "1535715119672205313",
+   "end": 1786256041,
+   "title": "Ten feet twenty the  Man!",
+   "items": 1,
+   "ended": false
+  },
+  "J6Y6AR": {
+   "msg": "1535715126831874222",
+   "end": 1786255562,
+   "title": "[Fallen Tributes/Night 5] Scrap tf HG",
+   "items": 1,
    "ended": false
   }
  },
