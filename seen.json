@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "IWJS1P": {
-   "msg": "1532600058271367188",
-   "end": 1785556800,
-   "title": "\u266a Night Flight \u266a",
-   "items": 1,
-   "ended": true
-  },
   "6ABIDL": {
    "msg": "1532602608496283708",
    "end": 1785557461,
@@ -4891,7 +4884,7 @@
    "end": 1786159921,
    "title": "just some stuff i need to get rid of",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "WMSD4F": {
    "msg": "1535131222823673857",
@@ -4912,7 +4905,7 @@
    "end": 1786161600,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1498 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "Y5RWYB": {
    "msg": "1535150752123723796",
@@ -5689,6 +5682,20 @@
    "end": 1786244941,
    "title": "THIS, is a bucket.",
    "items": 32,
+   "ended": false
+  },
+  "TUVUFV": {
+   "msg": "1535498065329393664",
+   "end": 1786247462,
+   "title": "Caf\u00e9 Crit-A-Coffee #1752",
+   "items": 10,
+   "ended": false
+  },
+  "V7YBSJ": {
+   "msg": "1535498071864250418",
+   "end": 1786247100,
+   "title": "Touch Up",
+   "items": 1,
    "ended": false
   }
  },
