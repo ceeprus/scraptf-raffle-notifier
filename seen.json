@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "6ABIDL": {
-   "msg": "1532602608496283708",
-   "end": 1785557461,
-   "title": "Hale's Own Trials: Persian Persuader: Day 1",
-   "items": 1,
-   "ended": true
-  },
-  "J6Y2QX": {
-   "msg": "1532608919090892810",
-   "end": 1785558422,
-   "title": "We definitely need more medic main! \u211653",
-   "items": 6,
-   "ended": true
-  },
   "5Z55GV": {
    "msg": "1532611445961789490",
    "end": 1785559381,
@@ -516,20 +502,6 @@
    "end": 1785600721,
    "title": "Amassment",
    "items": 20,
-   "ended": true
-  },
-  "4P9WMH": {
-   "msg": "1532787642142429395",
-   "end": 1785558601,
-   "title": "Make some  for ! #2",
-   "items": 1,
-   "ended": true
-  },
-  "HDX1T0": {
-   "msg": "1532787647939088536",
-   "end": 1785558481,
-   "title": "Make some  for ! #1",
-   "items": 1,
    "ended": true
   },
   "V0QKDM": {
@@ -4898,7 +4870,7 @@
    "end": 1786161901,
    "title": "YOU HAVE ENTERED",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "ALC8DG": {
    "msg": "1535143206981865563",
@@ -5696,6 +5668,13 @@
    "end": 1786247100,
    "title": "Touch Up",
    "items": 1,
+   "ended": false
+  },
+  "Y9A9IB": {
+   "msg": "1535505558294241330",
+   "end": 1786249322,
+   "title": "Waluigi time",
+   "items": 2,
    "ended": false
   }
  },
