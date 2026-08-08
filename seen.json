@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "FX7N8V": {
-   "msg": "1532846713675448662",
-   "end": 1785615661,
-   "title": "Hey you!",
-   "items": 2,
-   "ended": true
-  },
   "BNUDFA": {
    "msg": "1532856793565368521",
    "end": 1785617581,
@@ -5654,7 +5647,7 @@
    "end": 1786221001,
    "title": "my first raffle and a small raffle...",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0OCQJZ": {
    "msg": "1535737055844507689",
@@ -5715,6 +5708,27 @@
   "DA0HGO": {
    "msg": "1535744055747682374",
    "end": 1786306141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "I7FQ3N": {
+   "msg": "1535747146450468924",
+   "end": 1786306861,
+   "title": "Something is coming...",
+   "items": 1,
+   "ended": false
+  },
+  "3TWGVE": {
+   "msg": "1535747152544792738",
+   "end": 1786263602,
+   "title": "BOOOOM",
+   "items": 1,
+   "ended": false
+  },
+  "395G20": {
+   "msg": "1535747158257569893",
+   "end": 1786306681,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
