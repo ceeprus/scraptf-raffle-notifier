@@ -483,13 +483,6 @@
    "items": 1,
    "ended": true
   },
-  "IPA2MN": {
-   "msg": "1532820302159937647",
-   "end": 1785565921,
-   "title": "Random skins",
-   "items": 50,
-   "ended": true
-  },
   "6HW5OI": {
    "msg": "1532820309747433553",
    "end": 1785608882,
@@ -4814,14 +4807,14 @@
    "end": 1786170841,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RTOJQV": {
    "msg": "1535177115715117077",
    "end": 1786170721,
    "title": "Day 53-54 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TSO2RT": {
    "msg": "1535177122560217098",
@@ -5325,7 +5318,7 @@
    "end": 1786170782,
    "title": "Random Stuff",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "X1978F": {
    "msg": "1535357232735195237",
@@ -5612,6 +5605,13 @@
    "end": 1786255682,
    "title": "raffle",
    "items": 4,
+   "ended": false
+  },
+  "UM6SQB": {
+   "msg": "1535537174253142098",
+   "end": 1786257002,
+   "title": "Slugma Emote",
+   "items": 1,
    "ended": false
   }
  },
