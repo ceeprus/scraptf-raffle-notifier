@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "NGYXL1": {
-   "msg": "1532830366304567450",
-   "end": 1785611881,
-   "title": "Pick My Custom Title - Quarterfinals (3/4)",
-   "items": 1,
-   "ended": true
-  },
-  "OOZFOF": {
-   "msg": "1532830372453421249",
-   "end": 1785611641,
-   "title": "Today I have ONE , and ZERO",
-   "items": 1,
-   "ended": true
-  },
-  "9P3RN6": {
-   "msg": "1532830378652471398",
-   "end": 1785611522,
-   "title": "Raffling a  every time I win a  #73",
-   "items": 1,
-   "ended": true
-  },
   "L52UYX": {
    "msg": "1532835432545386530",
    "end": 1785613141,
@@ -732,13 +711,6 @@
    "msg": "1533175146507141212",
    "end": 1785693600,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #173",
-   "items": 1,
-   "ended": true
-  },
-  "435GWL": {
-   "msg": "1533177662820978879",
-   "end": 1785611522,
-   "title": "QTE! Tipping the next public raffle.",
    "items": 1,
    "ended": true
   },
@@ -4807,7 +4779,7 @@
    "end": 1786216622,
    "title": "Free game! #60 - Breathedge",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LJPSYO": {
    "msg": "1535369660067749981",
@@ -4849,7 +4821,7 @@
    "end": 1786217341,
    "title": "Fuck.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SFAJY4": {
    "msg": "1535377248486555758",
@@ -5703,6 +5675,20 @@
    "end": 1786301761,
    "title": "Bau! Bau!",
    "items": 6,
+   "ended": false
+  },
+  "23H3DZ": {
+   "msg": "1535732049921703946",
+   "end": 1786303261,
+   "title": "just scrap",
+   "items": 1,
+   "ended": false
+  },
+  "L9X2OH": {
+   "msg": "1535732059115487262",
+   "end": 1786259101,
+   "title": "Untitled raffle",
+   "items": 5,
    "ended": false
   }
  },
