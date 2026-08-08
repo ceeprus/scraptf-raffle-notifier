@@ -630,13 +630,6 @@
    "items": 1,
    "ended": true
   },
-  "18EY97": {
-   "msg": "1533112293536174191",
-   "end": 1785606902,
-   "title": "dont panic",
-   "items": 3,
-   "ended": true
-  },
   "TIKJPG": {
    "msg": "1533114793714516078",
    "end": 1785679262,
@@ -5654,6 +5647,20 @@
    "end": 1786253461,
    "title": "Sandvich and me are going to beat your a**!",
    "items": 1,
+   "ended": false
+  },
+  "ML5U7Q": {
+   "msg": "1535709429851496508",
+   "end": 1786298402,
+   "title": "JAK JA KURWA KOCHAM DISCO POLO #174",
+   "items": 1,
+   "ended": false
+  },
+  "SH1AYI": {
+   "msg": "1535709436746801243",
+   "end": 1786297921,
+   "title": "Heavy weapons raffle",
+   "items": 3,
    "ended": false
   }
  },
