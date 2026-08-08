@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "V4Z50G": {
-   "msg": "1532898334887379035",
-   "end": 1785627722,
-   "title": "Random hat I crafted #268 ( real )",
-   "items": 15,
-   "ended": true
-  },
   "6UAYYN": {
    "msg": "1532903357239398451",
    "end": 1785629281,
@@ -5353,7 +5346,7 @@
    "end": 1786232941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NUIOEG": {
    "msg": "1535707816113737858",
@@ -5381,7 +5374,7 @@
    "end": 1786232282,
    "title": "!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "9T0UR1": {
    "msg": "1535707841757970525",
