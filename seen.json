@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "MBT8EG": {
-   "msg": "1532713363505676409",
-   "end": 1785583921,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "TG7IU7": {
-   "msg": "1532713369117655143",
-   "end": 1785583861,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WMOG3N": {
-   "msg": "1532715876174925944",
-   "end": 1785583981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "Y71WX8": {
    "msg": "1532720869388976209",
    "end": 1785585600,
@@ -4884,14 +4863,14 @@
    "end": 1786189501,
    "title": "Have you ever seen me on 2 Fort?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "REEL0T": {
    "msg": "1535256490397671518",
    "end": 1786188841,
    "title": "Untitled raffle",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "4G7D3A": {
    "msg": "1535257718175178812",
@@ -5675,6 +5654,20 @@
    "end": 1786273021,
    "title": "Daily Kit Fabricator #2",
    "items": 1,
+   "ended": false
+  },
+  "TI94L4": {
+   "msg": "1535617092982931506",
+   "end": 1786276081,
+   "title": "Why everybody is talking about slugs?",
+   "items": 1,
+   "ended": false
+  },
+  "O77HZP": {
+   "msg": "1535617100591407205",
+   "end": 1786275121,
+   "title": "STOLEN PLUSHIE CONTRACT",
+   "items": 4,
    "ended": false
   }
  },
