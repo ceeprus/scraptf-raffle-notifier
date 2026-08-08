@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "XRKMOK": {
-   "msg": "1532572415182503966",
-   "end": 1785550202,
-   "title": "Caf\u00e9 Crit-A-Coffee #1744",
-   "items": 13,
-   "ended": true
-  },
   "240OTO": {
    "msg": "1532590002524000336",
    "end": 1785554554,
@@ -746,13 +739,6 @@
    "msg": "1532844585070624961",
    "end": 1785615061,
    "title": "gives  to  who then shares with",
-   "items": 1,
-   "ended": true
-  },
-  "Z6TZKM": {
-   "msg": "1532846699591241933",
-   "end": 1785550922,
-   "title": "Made it myself",
    "items": 1,
    "ended": true
   },
@@ -4877,7 +4863,7 @@
    "end": 1786155001,
    "title": "Special Delivery",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "RY3ULP": {
    "msg": "1535120591839952907",
@@ -5388,7 +5374,7 @@
    "end": 1786156200,
    "title": "[DAY 0.5] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SXR7UJ": {
    "msg": "1535309284739383357",
@@ -5689,6 +5675,20 @@
    "end": 1786237200,
    "title": "Reminder to eat n' drink water if ye haven't yet #266",
    "items": 5,
+   "ended": false
+  },
+  "N14D2S": {
+   "msg": "1535475351180939335",
+   "end": 1786242542,
+   "title": "opened some EVEN more spooky boxes",
+   "items": 30,
+   "ended": false
+  },
+  "Q6RRZF": {
+   "msg": "1535475358806048941",
+   "end": 1786241701,
+   "title": "searching for pocket medic",
+   "items": 1,
    "ended": false
   }
  },
