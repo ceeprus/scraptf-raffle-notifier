@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "PTADD3": {
-   "msg": "1532644210023337996",
-   "end": 1785566941,
-   "title": "Day 19 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "I51UUF": {
    "msg": "1532649179644563549",
    "end": 1785568201,
@@ -4800,7 +4793,7 @@
    "end": 1786171141,
    "title": "Day 1 of asking for Slugma Chain emoticon",
    "items": 150,
-   "ended": false
+   "ended": true
   },
   "AUDWTM": {
    "msg": "1535177109880709145",
@@ -4842,7 +4835,7 @@
    "end": 1786171682,
    "title": "adhd raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "SCAX5R": {
    "msg": "1535188466126823476",
@@ -4870,7 +4863,7 @@
    "end": 1786172281,
    "title": "Hi, I'm PEPERONI684, and this is my first lottery.",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "3CTLQ0": {
    "msg": "1535196037332078612",
@@ -5611,6 +5604,13 @@
    "msg": "1535537174253142098",
    "end": 1786257002,
    "title": "Slugma Emote",
+   "items": 1,
+   "ended": false
+  },
+  "6JMDQ2": {
+   "msg": "1535543344464134248",
+   "end": 1786257362,
+   "title": "heh,,,, slugma,,, more like,,,,emote,,,,",
    "items": 1,
    "ended": false
   }
