@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "R7MR9M": {
-   "msg": "1532671824725414010",
-   "end": 1785574141,
-   "title": "treasure ahead",
-   "items": 20,
-   "ended": true
-  },
   "XDWV0Y": {
    "msg": "1532679366859948162",
    "end": 1785575941,
@@ -4835,28 +4828,28 @@
    "end": 1786179361,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FGOQL7": {
    "msg": "1535211157839679539",
    "end": 1786179241,
    "title": "Crafted hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8I39MK": {
    "msg": "1535211163975950358",
    "end": 1786179182,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I3QS4X": {
    "msg": "1535211170275926106",
    "end": 1786179062,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MN1JTO": {
    "msg": "1535211179205459979",
@@ -5360,7 +5353,7 @@
    "end": 1786179602,
    "title": "!uaB !uaB",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "HV4B3P": {
    "msg": "1535399607566209064",
@@ -5625,6 +5618,20 @@
    "msg": "1535565514112372776",
    "end": 1786262400,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "EFK99C": {
+   "msg": "1535573553271808060",
+   "end": 1786222502,
+   "title": "Rocket jumper",
+   "items": 1,
+   "ended": false
+  },
+  "2OX37L": {
+   "msg": "1535573560796516423",
+   "end": 1786264261,
+   "title": "Day 27 Of \"Bad\" Weapon",
    "items": 1,
    "ended": false
   }
