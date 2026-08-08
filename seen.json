@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "QZOD7A": {
-   "msg": "1532624022603305073",
-   "end": 1785562381,
-   "title": "A Pinwheel Farewell",
-   "items": 1,
-   "ended": true
-  },
   "VR8M9N": {
    "msg": "1532629123762098197",
    "end": 1785563941,
@@ -4807,7 +4800,7 @@
    "end": 1786167122,
    "title": "Daily Black Boxes #156",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QNWYVX": {
    "msg": "1535165855615160350",
