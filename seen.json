@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "5BIOUI": {
-   "msg": "1532738518101790720",
-   "end": 1785590041,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "MKX4EI": {
    "msg": "1532743513563988173",
    "end": 1785591002,
@@ -4842,35 +4835,35 @@
    "end": 1786195141,
    "title": "hi lol",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AZ3JM2": {
    "msg": "1535279076170932296",
    "end": 1786194901,
    "title": "Fanumstein Rizzberg",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "639WTL": {
    "msg": "1535279083481727006",
    "end": 1786194809,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "P64CSJ": {
    "msg": "1535279089651421274",
    "end": 1786194542,
    "title": "Logitech MouseMan Serial raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A54UKE": {
    "msg": "1535279095800397979",
    "end": 1786194242,
    "title": "Ref",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "55U4AV": {
    "msg": "1535279102028939406",
@@ -4898,7 +4891,7 @@
    "end": 1786195561,
    "title": "slugma posting",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MNW3B2": {
    "msg": "1535294170271457341",
@@ -5619,6 +5612,34 @@
    "end": 1786279801,
    "title": "Starchion`s Art #20 [Joji CHLOE BURBANK - chibi version]",
    "items": 1,
+   "ended": false
+  },
+  "M0K6QA": {
+   "msg": "1535640449681850539",
+   "end": 1786281361,
+   "title": "Free games",
+   "items": 2,
+   "ended": false
+  },
+  "X4D8VD": {
+   "msg": "1535640456317116506",
+   "end": 1786280581,
+   "title": "Slugma",
+   "items": 3,
+   "ended": false
+  },
+  "D3QXCM": {
+   "msg": "1535640462810030231",
+   "end": 1786280522,
+   "title": "New outfit.",
+   "items": 1,
+   "ended": false
+  },
+  "PVI6PK": {
+   "msg": "1535640470242197605",
+   "end": 1786280400,
+   "title": "When you see a lore video for a franchise you know nothing about",
+   "items": 2,
    "ended": false
   }
  },
