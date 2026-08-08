@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "HC84I0": {
-   "msg": "1532859296847757354",
-   "end": 1785618541,
-   "title": "Pokemon Of The Day #17: Golbat",
-   "items": 2,
-   "ended": true
-  },
-  "LZAGLM": {
-   "msg": "1532859304686911682",
-   "end": 1785618541,
-   "title": "RIFA PRA VOCES!",
-   "items": 8,
-   "ended": true
-  },
-  "FVFRHY": {
-   "msg": "1532861814755561483",
-   "end": 1785619081,
-   "title": "MOM GET THE CAMERA",
-   "items": 1,
-   "ended": true
-  },
   "B9ONX5": {
    "msg": "1532874411038736516",
    "end": 1785622022,
@@ -325,13 +304,6 @@
   "CAKS6F": {
    "msg": "1533035444629929994",
    "end": 1785660061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "VPT6C5": {
-   "msg": "1533037984507756564",
-   "end": 1785618181,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -4800,7 +4772,7 @@
    "end": 1786223401,
    "title": "Sentimental Value + Help me Powerscale",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TMKWPJ": {
    "msg": "1535399601635467315",
@@ -5779,6 +5751,48 @@
    "msg": "1535754767253643345",
    "end": 1786308541,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0K0CGP": {
+   "msg": "1535760387000107198",
+   "end": 1786310161,
+   "title": "help find",
+   "items": 6,
+   "ended": false
+  },
+  "WK0K2Q": {
+   "msg": "1535760393438363688",
+   "end": 1786309921,
+   "title": "Sigma chain emote #1",
+   "items": 2,
+   "ended": false
+  },
+  "JQATG7": {
+   "msg": "1535760400849707128",
+   "end": 1786309861,
+   "title": "One Time",
+   "items": 22,
+   "ended": false
+  },
+  "V3YGDD": {
+   "msg": "1535760408588058714",
+   "end": 1786309861,
+   "title": "Solo Winners POV",
+   "items": 50,
+   "ended": false
+  },
+  "CRXIRH": {
+   "msg": "1535760415076909097",
+   "end": 1786309741,
+   "title": "We (Yes, WE) need a Slugma chain emote NOW! P.2",
+   "items": 6,
+   "ended": false
+  },
+  "NSGCUP": {
+   "msg": "1535760421573763102",
+   "end": 1786309200,
+   "title": "checkup #84 | Defenses",
    "items": 1,
    "ended": false
   }
