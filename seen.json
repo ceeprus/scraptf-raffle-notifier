@@ -42,41 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "5KIWT8": {
-   "msg": "1532798904716755064",
-   "end": 1785603962,
-   "title": "Pillar",
-   "items": 20,
-   "ended": true
-  },
-  "FJQUJT": {
-   "msg": "1532798912073568286",
-   "end": 1785603901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WQLKRX": {
-   "msg": "1532803936220872815",
-   "end": 1785605007,
-   "title": "i never told this before",
-   "items": 1,
-   "ended": true
-  },
-  "LVUMEF": {
-   "msg": "1532803945016066069",
-   "end": 1785604981,
-   "title": "a bit of noise never killed anyone #40",
-   "items": 5,
-   "ended": true
-  },
-  "G0PL6C": {
-   "msg": "1532803953882959974",
-   "end": 1785604964,
-   "title": "EVERYONE",
-   "items": 1,
-   "ended": true
-  },
   "DQULT5": {
    "msg": "1532806478778339528",
    "end": 1785605821,
@@ -4814,28 +4779,28 @@
    "end": 1786209481,
    "title": "Stuff I don't need",
    "items": 29,
-   "ended": false
+   "ended": true
   },
   "PWVTI0": {
    "msg": "1535339476845600770",
    "end": 1786209061,
    "title": "a bit of noise never killed anyone #42",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "ANEWAR": {
    "msg": "1535339483690442792",
    "end": 1786208881,
    "title": "birthdayposting",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "41ZIBC": {
    "msg": "1535339489373724672",
    "end": 1786208881,
    "title": "Road to Raffle # 1,169,420",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6NFW5I": {
    "msg": "1535339502086918235",
@@ -4863,7 +4828,7 @@
    "end": 1786210202,
    "title": "Guys",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "D1VPQ7": {
    "msg": "1535347049967521923",
@@ -5570,6 +5535,76 @@
    "end": 1786293061,
    "title": "bzzzzz",
    "items": 2,
+   "ended": false
+  },
+  "A2K2D2": {
+   "msg": "1535701839725465610",
+   "end": 1786253402,
+   "title": "Sandvich and me are going to beat your a**!",
+   "items": 1,
+   "ended": false
+  },
+  "63K7LL": {
+   "msg": "1535701846348267681",
+   "end": 1786253221,
+   "title": "Sandvich and me are going to beat your a**!",
+   "items": 1,
+   "ended": false
+  },
+  "4MOF9H": {
+   "msg": "1535701854376427673",
+   "end": 1786296361,
+   "title": "30th anniversary quakecon",
+   "items": 48,
+   "ended": false
+  },
+  "MTA1I9": {
+   "msg": "1535701861129003081",
+   "end": 1786296002,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AUCGGK": {
+   "msg": "1535701867584037034",
+   "end": 1786231021,
+   "title": "to slug or not to slug",
+   "items": 1,
+   "ended": false
+  },
+  "GYB57S": {
+   "msg": "1535701875213734059",
+   "end": 1786295581,
+   "title": "posting with Sandvich",
+   "items": 1,
+   "ended": false
+  },
+  "ABIAF8": {
+   "msg": "1535701881190617161",
+   "end": 1786295402,
+   "title": "Free hat.",
+   "items": 1,
+   "ended": false
+  },
+  "KIOLL4": {
+   "msg": "1535701888647823492",
+   "end": 1786294862,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1499 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 8,
+   "ended": false
+  },
+  "69JCN7": {
+   "msg": "1535701894591414303",
+   "end": 1786222802,
+   "title": "I have 34 tips",
+   "items": 1,
+   "ended": false
+  },
+  "B5J884": {
+   "msg": "1535701902254149724",
+   "end": 1786294800,
+   "title": "Daily raffle until TF2 gets a major update #585",
+   "items": 3,
    "ended": false
   }
  },
