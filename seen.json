@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "B5OJGU": {
-   "msg": "1532634067705528330",
-   "end": 1785565201,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "IRAJ46": {
-   "msg": "1532634073586077787",
-   "end": 1785564901,
-   "title": "coollion",
-   "items": 3,
-   "ended": true
-  },
-  "B2GHAP": {
-   "msg": "1532636665439588413",
-   "end": 1785565382,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "PTADD3": {
    "msg": "1532644210023337996",
    "end": 1785566941,
@@ -4807,21 +4786,21 @@
    "end": 1786169461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0MDVMN": {
    "msg": "1535173365759873105",
    "end": 1786168981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9RURTC": {
    "msg": "1535173371422310404",
    "end": 1786168981,
    "title": "Daily Kit Fabricator #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3HB12W": {
    "msg": "1535177103878656031",
@@ -4856,7 +4835,7 @@
    "end": 1786170542,
    "title": "Day 58-59 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MEQ8NH": {
    "msg": "1535180948327370753",
@@ -5353,7 +5332,7 @@
    "end": 1786170600,
    "title": "[DAY 1] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GQ8XNL": {
    "msg": "1535369652807409754",
@@ -5619,6 +5598,20 @@
    "end": 1786255202,
    "title": "Slugma Chain raffle",
    "items": 1,
+   "ended": false
+  },
+  "NMCA0B": {
+   "msg": "1535535748395171891",
+   "end": 1786255921,
+   "title": "Slugma",
+   "items": 2,
+   "ended": false
+  },
+  "ZC5NV9": {
+   "msg": "1535535755378696223",
+   "end": 1786255682,
+   "title": "raffle",
+   "items": 4,
    "ended": false
   }
  },
