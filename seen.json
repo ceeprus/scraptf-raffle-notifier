@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "I51UUF": {
-   "msg": "1532649179644563549",
-   "end": 1785568201,
-   "title": "Boot",
-   "items": 1,
-   "ended": true
-  },
-  "X2SDIY": {
-   "msg": "1532649198967853168",
-   "end": 1785568081,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "ZHTL1G": {
-   "msg": "1532651760135438358",
-   "end": 1785568861,
-   "title": "\ud835\udc12 \ud835\udc00 \ud835\udc0b \ud835\udc0c \ud835\udc0e \ud835\udc0d \ud835\udc08 \ud835\udc00",
-   "items": 2,
-   "ended": true
-  },
   "D0ICI5": {
    "msg": "1532656721711857735",
    "end": 1785570421,
@@ -4849,14 +4828,14 @@
    "end": 1786172941,
    "title": "Hii :3     This is my second raffle, wow",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NG7QBP": {
    "msg": "1535188478814322729",
    "end": 1786172762,
    "title": "Poemas mios y una sugerencia de musica #2",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "T8UP9K": {
    "msg": "1535188486213210133",
@@ -5611,6 +5590,27 @@
    "msg": "1535543344464134248",
    "end": 1786257362,
    "title": "heh,,,, slugma,,, more like,,,,emote,,,,",
+   "items": 1,
+   "ended": false
+  },
+  "BMU9OS": {
+   "msg": "1535550884128362537",
+   "end": 1786259162,
+   "title": "Slugma Chain Chain Raffle #1",
+   "items": 1,
+   "ended": false
+  },
+  "VOYWK4": {
+   "msg": "1535550891787165706",
+   "end": 1786258802,
+   "title": "Day 55 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "39DUIO": {
+   "msg": "1535550898359771199",
+   "end": 1786258561,
+   "title": "Day 60 of Asking for a Follow Button",
    "items": 1,
    "ended": false
   }
