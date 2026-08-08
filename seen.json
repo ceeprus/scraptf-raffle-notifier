@@ -4898,14 +4898,14 @@
    "end": 1786149602,
    "title": "Graveyard Raffle (#6)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "0NOXKX": {
    "msg": "1535090370310967446",
    "end": 1786149542,
    "title": "A Couple of Dupes",
    "items": 65,
-   "ended": false
+   "ended": true
   },
   "6XEA7W": {
    "msg": "1535097846540279859",
@@ -5717,6 +5717,13 @@
    "end": 1786233121,
    "title": "Hello! Have a great day!",
    "items": 3,
+   "ended": false
+  },
+  "PALBC9": {
+   "msg": "1535452750509506570",
+   "end": 1786193341,
+   "title": "Notice",
+   "items": 1,
    "ended": false
   }
  },
