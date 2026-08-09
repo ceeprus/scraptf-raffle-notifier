@@ -49,41 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "2OAFKM": {
-   "msg": "1533010286372716624",
-   "end": 1785654901,
-   "title": "Day 20 Of \"Bad\" Weapon",
-   "items": 3,
-   "ended": true
-  },
-  "3WGLUN": {
-   "msg": "1533010293515354182",
-   "end": 1785654841,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "V4VW95": {
-   "msg": "1533010300578693179",
-   "end": 1785654602,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "8O3LSE": {
-   "msg": "1533010306853507073",
-   "end": 1785654482,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "DUTHDJ": {
-   "msg": "1533010313002356787",
-   "end": 1785654482,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
   "2LUBY8": {
    "msg": "1533016598510698599",
    "end": 1785655981,
@@ -4744,7 +4709,7 @@
    "end": 1786259162,
    "title": "Slugma Chain Chain Raffle #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VOYWK4": {
    "msg": "1535550891787165706",
@@ -4765,14 +4730,14 @@
    "end": 1786260421,
    "title": "#11",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5588RW": {
    "msg": "1535553418452803604",
    "end": 1786260301,
    "title": "#freegrabli304",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GVLRYK": {
    "msg": "1535558432705482804",
@@ -5360,7 +5325,7 @@
    "end": 1786259101,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "S2ELM1": {
    "msg": "1535737048802267209",
@@ -5374,7 +5339,7 @@
    "end": 1786260600,
    "title": "[DAY 2] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7JNIZ1": {
    "msg": "1535737063100653729",
@@ -5884,6 +5849,20 @@
    "msg": "1535905727942500353",
    "end": 1786344242,
    "title": "Slugma Chain raffle #2 + Art",
+   "items": 1,
+   "ended": false
+  },
+  "1MREWL": {
+   "msg": "1535913228847284245",
+   "end": 1786345861,
+   "title": "WON MY SECOND RAFFLE",
+   "items": 1,
+   "ended": false
+  },
+  "Y5JA8S": {
+   "msg": "1535913234245361747",
+   "end": 1786344841,
+   "title": "ma supports slugma chainers",
    "items": 1,
    "ended": false
   }
