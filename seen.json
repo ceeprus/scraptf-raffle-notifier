@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "2LUBY8": {
-   "msg": "1533016598510698599",
-   "end": 1785655981,
-   "title": "[UNSTABLE!!!] Lil noizers 2",
-   "items": 158,
-   "ended": true
-  },
   "H9TQCQ": {
    "msg": "1533026664077066350",
    "end": 1785658261,
@@ -621,13 +614,6 @@
    "end": 1785684722,
    "title": "Raffling Scrap Till I'm Out #991 (Tired)",
    "items": 1,
-   "ended": true
-  },
-  "M4G3Q2": {
-   "msg": "1533321118906191903",
-   "end": 1785656461,
-   "title": "here some stuff i dont need",
-   "items": 4,
    "ended": true
   },
   "22EAHT": {
@@ -4744,28 +4730,28 @@
    "end": 1786261262,
    "title": "Flavor Slop Opinion Slop",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UXY7FY": {
    "msg": "1535558439252791306",
    "end": 1786261201,
    "title": "#13",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0T2OZ2": {
    "msg": "1535558446030520350",
    "end": 1786261021,
    "title": "#12",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TD33SK": {
    "msg": "1535558451785371739",
    "end": 1786260901,
    "title": "Oatmeal",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8RGOHO": {
    "msg": "1535565514112372776",
@@ -5863,6 +5849,34 @@
    "msg": "1535913234245361747",
    "end": 1786344841,
    "title": "ma supports slugma chainers",
+   "items": 1,
+   "ended": false
+  },
+  "UM5HL6": {
+   "msg": "1535916968303919144",
+   "end": 1786304522,
+   "title": "fabricators",
+   "items": 50,
+   "ended": false
+  },
+  "YYTD32": {
+   "msg": "1535916975329517579",
+   "end": 1786347121,
+   "title": "more slug fun facts.",
+   "items": 4,
+   "ended": false
+  },
+  "YH5DF0": {
+   "msg": "1535916981843263619",
+   "end": 1786347000,
+   "title": "Day 61 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "T731RC": {
+   "msg": "1535916987732070431",
+   "end": 1786347000,
+   "title": "Day 56 of Asking for Mystery Raffles",
    "items": 1,
    "ended": false
   }
