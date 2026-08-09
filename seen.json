@@ -4702,21 +4702,21 @@
    "end": 1786253161,
    "title": "slugma chain emoticon raffle #1",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "R093GT": {
    "msg": "1535520664969154560",
    "end": 1786252741,
    "title": "We (Yes, WE) need a Slugma chain emote NOW!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "C4KBO1": {
    "msg": "1535520674872041474",
    "end": 1786252204,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "LVOWVP": {
    "msg": "1535528251106263120",
@@ -5150,14 +5150,14 @@
    "end": 1786253402,
    "title": "Sandvich and me are going to beat your a**!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "63K7LL": {
    "msg": "1535701846348267681",
    "end": 1786253221,
    "title": "Sandvich and me are going to beat your a**!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4MOF9H": {
    "msg": "1535701854376427673",
@@ -5807,6 +5807,27 @@
    "msg": "1535875543445020733",
    "end": 1786337341,
    "title": "We are the Slugma Chain Emoji-lings! Please feed us! #2",
+   "items": 1,
+   "ended": false
+  },
+  "ZDSUGP": {
+   "msg": "1535883036376432670",
+   "end": 1786339381,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "P8VOKU": {
+   "msg": "1535883043905212436",
+   "end": 1786339261,
+   "title": "Slugma Bau! Bau!",
+   "items": 10,
+   "ended": false
+  },
+  "49GV3H": {
+   "msg": "1535883051723133008",
+   "end": 1786339081,
+   "title": "Make some noise",
    "items": 1,
    "ended": false
   }
