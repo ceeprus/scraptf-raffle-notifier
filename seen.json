@@ -5017,7 +5017,7 @@
    "end": 1786307341,
    "title": "summoning the Germans (or German speakers)",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "A8K90L": {
    "msg": "1535754739336347740",
@@ -5892,6 +5892,13 @@
    "end": 1786392000,
    "title": "Do you like noise?",
    "items": 24,
+   "ended": false
+  },
+  "BTYNJ5": {
+   "msg": "1536109534429454346",
+   "end": 1786393622,
+   "title": "Bau! Bau!",
+   "items": 5,
    "ended": false
   }
  },
