@@ -56,13 +56,6 @@
    "items": 1,
    "ended": true
   },
-  "C3NLE4": {
-   "msg": "1533031714249510994",
-   "end": 1785659461,
-   "title": "#3",
-   "items": 1,
-   "ended": true
-  },
   "823L6Q": {
    "msg": "1533035438124568679",
    "end": 1785660242,
@@ -4737,7 +4730,7 @@
    "end": 1786264261,
    "title": "Day 27 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SGZKI6": {
    "msg": "1535581037583802419",
