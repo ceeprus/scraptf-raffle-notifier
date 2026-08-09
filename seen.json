@@ -378,13 +378,6 @@
    "items": 1,
    "ended": true
   },
-  "G3OOP8": {
-   "msg": "1533318590126620822",
-   "end": 1785684722,
-   "title": "Raffling Scrap Till I'm Out #991 (Tired)",
-   "items": 1,
-   "ended": true
-  },
   "22EAHT": {
    "msg": "1533321126640484544",
    "end": 1785728341,
@@ -5885,6 +5878,13 @@
    "end": 1786303261,
    "title": "The first Raffle I'd ever host",
    "items": 12,
+   "ended": false
+  },
+  "E2DACN": {
+   "msg": "1536035072866787410",
+   "end": 1786375800,
+   "title": "MK Poll #2 + The Favorites of Music #271 & #272",
+   "items": 1,
    "ended": false
   }
  },
