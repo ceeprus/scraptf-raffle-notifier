@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "AJJ0DB": {
-   "msg": "1533175146507141212",
-   "end": 1785693600,
-   "title": "JAK JA KURWA KOCHAM DISCO POLO #173",
-   "items": 1,
-   "ended": true
-  },
   "N674Q4": {
    "msg": "1533180242745884773",
    "end": 1785695101,
@@ -481,13 +474,6 @@
    "end": 1785757621,
    "title": "one day",
    "items": 1,
-   "ended": true
-  },
-  "Z0OGES": {
-   "msg": "1533446949074636994",
-   "end": 1785693600,
-   "title": "Happy Day!",
-   "items": 7,
    "ended": true
   },
   "0YC14T": {
@@ -4884,7 +4870,7 @@
    "end": 1786298402,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #174",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SH1AYI": {
    "msg": "1535709436746801243",
@@ -5745,7 +5731,7 @@
    "end": 1786298221,
    "title": "Loadout for Scout mains",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "9EHC47": {
    "msg": "1536017600428122194",
