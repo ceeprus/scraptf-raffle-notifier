@@ -49,34 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "VH9M05": {
-   "msg": "1533078273175851090",
-   "end": 1785670621,
-   "title": "i'm washed",
-   "items": 2,
-   "ended": true
-  },
-  "NOQOK9": {
-   "msg": "1533083268268949665",
-   "end": 1785672000,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
-  "71CFYL": {
-   "msg": "1533083274291970150",
-   "end": 1785671941,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "BV10US": {
-   "msg": "1533083280742547548",
-   "end": 1785671821,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "6JSN2Y": {
    "msg": "1533085843194118176",
    "end": 1785672302,
@@ -4765,7 +4737,7 @@
    "end": 1786276081,
    "title": "Why everybody is talking about slugs?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O77HZP": {
    "msg": "1535617100591407205",
@@ -4786,7 +4758,7 @@
    "end": 1786276800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YL7XXS": {
    "msg": "1535633928273006672",
@@ -5857,6 +5829,13 @@
    "end": 1786359542,
    "title": "music time ! !",
    "items": 1,
+   "ended": false
+  },
+  "UFVUVU": {
+   "msg": "1535981232096026715",
+   "end": 1786318442,
+   "title": "Just finished Half Life 2 and all the episodes",
+   "items": 3,
    "ended": false
   }
  },
