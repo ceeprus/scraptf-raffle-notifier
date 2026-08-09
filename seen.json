@@ -56,20 +56,6 @@
    "items": 1,
    "ended": true
   },
-  "HYE5FW": {
-   "msg": "1533167629160812573",
-   "end": 1785691861,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "X67GE9": {
-   "msg": "1533167657505919137",
-   "end": 1785691682,
-   "title": "Scrap.tf Birthdays - 1 August",
-   "items": 4,
-   "ended": true
-  },
   "G2W9KG": {
    "msg": "1533170108971749446",
    "end": 1785692521,
@@ -4793,14 +4779,14 @@
    "end": 1786296361,
    "title": "30th anniversary quakecon",
    "items": 48,
-   "ended": false
+   "ended": true
   },
   "MTA1I9": {
    "msg": "1535701861129003081",
    "end": 1786296002,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AUCGGK": {
    "msg": "1535701867584037034",
@@ -4814,14 +4800,14 @@
    "end": 1786295581,
    "title": "posting with Sandvich",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ABIAF8": {
    "msg": "1535701881190617161",
    "end": 1786295402,
    "title": "Free hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KIOLL4": {
    "msg": "1535701888647823492",
@@ -5871,7 +5857,7 @@
    "end": 1786296241,
    "title": "1% Bau! Bau!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WCSSGZ": {
    "msg": "1536049143464857739",
@@ -5885,6 +5871,48 @@
    "end": 1786297861,
    "title": "4% Bau! Bau!",
    "items": 4,
+   "ended": false
+  },
+  "5I0OF7": {
+   "msg": "1536064226999803974",
+   "end": 1786382761,
+   "title": "\u30d7\u30ec\u30a4",
+   "items": 1,
+   "ended": false
+  },
+  "LJ1W6A": {
+   "msg": "1536064234197229569",
+   "end": 1786382521,
+   "title": "Birthday Raffle!",
+   "items": 17,
+   "ended": false
+  },
+  "J9FVI2": {
+   "msg": "1536064241558224958",
+   "end": 1786299602,
+   "title": "10% Bau! Bau!",
+   "items": 10,
+   "ended": false
+  },
+  "R4UGL3": {
+   "msg": "1536064247920988191",
+   "end": 1786381621,
+   "title": "popa",
+   "items": 8,
+   "ended": false
+  },
+  "ZF3LCD": {
+   "msg": "1536064256041296005",
+   "end": 1786381200,
+   "title": "Daily raffle until TF2 gets a major update #586",
+   "items": 3,
+   "ended": false
+  },
+  "DQEGOS": {
+   "msg": "1536064264094220339",
+   "end": 1786338000,
+   "title": "[Fallen Tributes/Night 3] Scrap tf HG",
+   "items": 1,
    "ended": false
   }
  },
