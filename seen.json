@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "AHFOKC": {
-   "msg": "1533156243781324812",
-   "end": 1785689341,
-   "title": "choose Your super power !",
-   "items": 3,
-   "ended": true
-  },
-  "BP7MFM": {
-   "msg": "1533158774334820472",
-   "end": 1785690000,
-   "title": "Daily raffle until TF2 gets a major update #578",
-   "items": 3,
-   "ended": true
-  },
   "LSYAPJ": {
    "msg": "1533167621703340142",
    "end": 1785692162,
@@ -635,13 +621,6 @@
    "end": 1785773881,
    "title": "a bit of noise never killed anyone #41",
    "items": 2,
-   "ended": true
-  },
-  "VYJ6B1": {
-   "msg": "1533517191725711452",
-   "end": 1785689882,
-   "title": "you have 10 minutes",
-   "items": 3,
    "ended": true
   },
   "BHRY84": {
@@ -4779,21 +4758,21 @@
    "end": 1786293902,
    "title": "Non-Craftaballs Part 2",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "MYOYI9": {
    "msg": "1535694178653053031",
    "end": 1786293781,
    "title": "Daily raffle #239",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "910C2Q": {
    "msg": "1535694185133379654",
    "end": 1786293061,
    "title": "bzzzzz",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "A2K2D2": {
    "msg": "1535701839725465610",
@@ -4863,7 +4842,7 @@
    "end": 1786294800,
    "title": "Daily raffle until TF2 gets a major update #585",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "3ZE2T5": {
    "msg": "1535707810082455662",
@@ -5864,7 +5843,7 @@
    "end": 1786293482,
    "title": "Loadout for Soldier mains",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "2TCPH5": {
    "msg": "1536047329075794063",
@@ -5899,6 +5878,13 @@
    "end": 1786378981,
    "title": "Oooh, banana",
    "items": 6,
+   "ended": false
+  },
+  "23CLCY": {
+   "msg": "1536056703311937567",
+   "end": 1786297861,
+   "title": "4% Bau! Bau!",
+   "items": 4,
    "ended": false
   }
  },
