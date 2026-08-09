@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "4MO4RV": {
-   "msg": "1533238081954775202",
-   "end": 1785708541,
-   "title": "\ud83d\udd02 Preparing your trade",
-   "items": 1,
-   "ended": true
-  },
   "BE7IX9": {
    "msg": "1533240624621555802",
    "end": 1785709561,
@@ -5038,14 +5031,14 @@
    "end": 1786313042,
    "title": "Freddy Fivebear Is 12",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "37AEZM": {
    "msg": "1535777341752606761",
    "end": 1786313401,
    "title": "Power Scale #4",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "I9GVP9": {
    "msg": "1535783346079272981",
