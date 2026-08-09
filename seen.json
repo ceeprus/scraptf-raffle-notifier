@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "0MQYIR": {
-   "msg": "1533124828695891978",
-   "end": 1785681661,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1492 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 1,
-   "ended": true
-  },
   "AGNACB": {
    "msg": "1533134930744316074",
    "end": 1785684600,
@@ -4772,7 +4765,7 @@
    "end": 1786287361,
    "title": "I didnt beat Minecraft since 2016 i believe. Should i do it?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "66FV57": {
    "msg": "1535662916345528421",
@@ -5871,6 +5864,27 @@
    "end": 1786372201,
    "title": "My Milk Raffle",
    "items": 9,
+   "ended": false
+  },
+  "K1FQPL": {
+   "msg": "1536026177100320838",
+   "end": 1786330262,
+   "title": "Prendo el velador (POM) cortocircuito",
+   "items": 1,
+   "ended": false
+  },
+  "J6LYLP": {
+   "msg": "1536026183161090049",
+   "end": 1786329962,
+   "title": "76k-77k entered",
+   "items": 1,
+   "ended": false
+  },
+  "P7YPKU": {
+   "msg": "1536026189339172945",
+   "end": 1786372981,
+   "title": "We must have more...",
+   "items": 1,
    "ended": false
   }
  },
