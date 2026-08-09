@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "46ILKX": {
-   "msg": "1533197794028949668",
-   "end": 1785699421,
-   "title": "Equestria 4ever",
-   "items": 53,
-   "ended": true
-  },
-  "K063DJ": {
-   "msg": "1533200311047557241",
-   "end": 1785700082,
-   "title": "My overall vacation trip experience",
-   "items": 1,
-   "ended": true
-  },
   "66O8WK": {
    "msg": "1533202899843289259",
    "end": 1785700800,
@@ -4954,14 +4940,14 @@
    "end": 1786305181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4RI2QB": {
    "msg": "1535739648930746429",
    "end": 1786305061,
    "title": "Graveyard Raffle (#8)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "J57TDP": {
    "msg": "1535744034050678875",
@@ -5465,7 +5451,7 @@
    "end": 1786304522,
    "title": "fabricators",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "YYTD32": {
    "msg": "1535916975329517579",
@@ -5892,6 +5878,20 @@
    "end": 1786318021,
    "title": "who wants to hold paws with me? :3",
    "items": 34,
+   "ended": false
+  },
+  "0LNMTO": {
+   "msg": "1536100363684544602",
+   "end": 1786308061,
+   "title": "\u0445\u0437",
+   "items": 2,
+   "ended": false
+  },
+  "EWIRSP": {
+   "msg": "1536100370332520609",
+   "end": 1786390441,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
