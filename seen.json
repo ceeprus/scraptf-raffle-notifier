@@ -4737,7 +4737,7 @@
    "end": 1786257362,
    "title": "heh,,,, slugma,,, more like,,,,emote,,,,",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BMU9OS": {
    "msg": "1535550884128362537",
@@ -5325,7 +5325,7 @@
    "end": 1786257181,
    "title": "Stealing a raffle a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E6I8I0": {
    "msg": "1535724567077593098",
@@ -5850,6 +5850,20 @@
    "end": 1786342502,
    "title": "broke birthday raffle",
    "items": 13,
+   "ended": false
+  },
+  "ULON5Q": {
+   "msg": "1535900344989524028",
+   "end": 1786343401,
+   "title": "27th aussie",
+   "items": 2,
+   "ended": false
+  },
+  "A4V2GM": {
+   "msg": "1535900351385829376",
+   "end": 1786343342,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
