@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "QXTY17": {
-   "msg": "1532916047462662154",
-   "end": 1785632162,
-   "title": "for your grease removal needs!",
-   "items": 1,
-   "ended": true
-  },
   "ILBJAF": {
    "msg": "1532929741470826507",
    "end": 1785635041,
@@ -347,20 +340,6 @@
    "msg": "1533090808494948412",
    "end": 1785674102,
    "title": "Daily raffle #322",
-   "items": 1,
-   "ended": true
-  },
-  "SD7GJA": {
-   "msg": "1533090815327469790",
-   "end": 1785630841,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "O3BE49": {
-   "msg": "1533093344165626017",
-   "end": 1785631082,
-   "title": "Raffling Scrap Till I'm Out #990 (Super late raffle V3)",
    "items": 1,
    "ended": true
   },
@@ -4730,7 +4709,7 @@
    "end": 1786237200,
    "title": "Reminder to eat n' drink water if ye haven't yet #266",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "N14D2S": {
    "msg": "1535475351180939335",
@@ -5773,6 +5752,41 @@
    "end": 1786319941,
    "title": "Untitled raffle",
    "items": 60,
+   "ended": false
+  },
+  "SVEMSK": {
+   "msg": "1535815115931254895",
+   "end": 1786280041,
+   "title": "Untitled raffle",
+   "items": 44,
+   "ended": false
+  },
+  "DI2LJ2": {
+   "msg": "1535815123204055050",
+   "end": 1786323061,
+   "title": "I'M BACK!",
+   "items": 1,
+   "ended": false
+  },
+  "GWWFOQ": {
+   "msg": "1535815132616204449",
+   "end": 1786279681,
+   "title": "Untitled raffle",
+   "items": 24,
+   "ended": false
+  },
+  "2RAVI3": {
+   "msg": "1535815139511762975",
+   "end": 1786322281,
+   "title": "Haven't created a raffle in a while",
+   "items": 1,
+   "ended": false
+  },
+  "WWR0T8": {
+   "msg": "1535815148248375356",
+   "end": 1786321981,
+   "title": "Graveyard Raffle (#9)",
+   "items": 7,
    "ended": false
   }
  },
