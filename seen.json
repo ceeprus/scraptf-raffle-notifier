@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "2IS3CG": {
-   "msg": "1533151210557800508",
-   "end": 1785688081,
-   "title": "Daily tips for not dying",
-   "items": 1,
-   "ended": true
-  },
   "AHFOKC": {
    "msg": "1533156243781324812",
    "end": 1785689341,
@@ -5892,6 +5885,20 @@
    "end": 1786377600,
    "title": "Scrap.tf Birthdays - 9 August",
    "items": 5,
+   "ended": false
+  },
+  "YKSN5L": {
+   "msg": "1536049134577123450",
+   "end": 1786296241,
+   "title": "1% Bau! Bau!",
+   "items": 1,
+   "ended": false
+  },
+  "WCSSGZ": {
+   "msg": "1536049143464857739",
+   "end": 1786378981,
+   "title": "Oooh, banana",
+   "items": 6,
    "ended": false
   }
  },
