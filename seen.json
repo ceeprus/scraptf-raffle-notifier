@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "M5QOQ4": {
-   "msg": "1533090808494948412",
-   "end": 1785674102,
-   "title": "Daily raffle #322",
-   "items": 1,
-   "ended": true
-  },
-  "ZW4210": {
-   "msg": "1533099669767589949",
-   "end": 1785675600,
-   "title": "TF2 with Realistic Damage (SFM)",
-   "items": 2,
-   "ended": true
-  },
   "UH52V8": {
    "msg": "1533104731831013517",
    "end": 1785677101,
@@ -4751,7 +4737,7 @@
    "end": 1786279801,
    "title": "Starchion`s Art #20 [Joji CHLOE BURBANK - chibi version]",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M0K6QA": {
    "msg": "1535640449681850539",
@@ -4779,7 +4765,7 @@
    "end": 1786280400,
    "title": "When you see a lore video for a franchise you know nothing about",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XCWLVV": {
    "msg": "1535649030603022557",
@@ -5430,7 +5416,7 @@
    "end": 1786280041,
    "title": "Untitled raffle",
    "items": 44,
-   "ended": false
+   "ended": true
   },
   "DI2LJ2": {
    "msg": "1535815123204055050",
@@ -5444,7 +5430,7 @@
    "end": 1786279681,
    "title": "Untitled raffle",
    "items": 24,
-   "ended": false
+   "ended": true
   },
   "2RAVI3": {
    "msg": "1535815139511762975",
@@ -5842,6 +5828,20 @@
    "msg": "1535988749857591441",
    "end": 1786363200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "Z8MM6X": {
+   "msg": "1535996315484557516",
+   "end": 1786365841,
+   "title": "(Not) A Devil",
+   "items": 1,
+   "ended": false
+  },
+  "6QHV2A": {
+   "msg": "1535996322295971860",
+   "end": 1786365001,
+   "title": "Free Yeti",
    "items": 1,
    "ended": false
   }
