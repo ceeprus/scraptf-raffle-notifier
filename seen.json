@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "AGNACB": {
-   "msg": "1533134930744316074",
-   "end": 1785684600,
-   "title": "The Favorites of Music #263 & #264",
-   "items": 1,
-   "ended": true
-  },
   "49JTZE": {
    "msg": "1533141138146332754",
    "end": 1785685809,
@@ -4779,14 +4772,14 @@
    "end": 1786287961,
    "title": "First Unusual :DD",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "4PVA33": {
    "msg": "1535669657598566420",
    "end": 1786287661,
    "title": "EVERYONE IS A WINNER! Pt.2",
    "items": 24,
-   "ended": false
+   "ended": true
   },
   "F7LDLU": {
    "msg": "1535669666255478876",
@@ -4800,7 +4793,7 @@
    "end": 1786288981,
    "title": "Update: IT STILL SUCKS",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "YNOUZQ": {
    "msg": "1535677459616243873",
@@ -5479,7 +5472,7 @@
    "end": 1786288922,
    "title": "Raffling Scrap Till I'm Out #997-8 (Make up raffle)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "PQ62QQ": {
    "msg": "1535852855456702565",
@@ -5885,6 +5878,13 @@
    "end": 1786372981,
    "title": "We must have more...",
    "items": 1,
+   "ended": false
+  },
+  "ST4VKF": {
+   "msg": "1536034026987720784",
+   "end": 1786303261,
+   "title": "The first Raffle I'd ever host",
+   "items": 12,
    "ended": false
   }
  },
