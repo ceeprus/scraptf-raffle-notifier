@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "6JSN2Y": {
-   "msg": "1533085843194118176",
-   "end": 1785672302,
-   "title": "Untitled raffle",
-   "items": 4,
-   "ended": true
-  },
-  "HVBKX4": {
-   "msg": "1533088275407966209",
-   "end": 1785673441,
-   "title": "totally inconspicuous raffle, nothin' to see here",
-   "items": 11,
-   "ended": true
-  },
   "M5QOQ4": {
    "msg": "1533090808494948412",
    "end": 1785674102,
@@ -4751,7 +4737,7 @@
    "end": 1786277581,
    "title": "\ud83d\udcb2\ud83c\udd70\ud83d\udc62\u24c2\ud83d\ude00\ud83e\udd44\ud83d\udd74\ud83c\udd70",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0NNB8E": {
    "msg": "1535625849179603075",
@@ -5836,6 +5822,27 @@
    "end": 1786318442,
    "title": "Just finished Half Life 2 and all the episodes",
    "items": 3,
+   "ended": false
+  },
+  "GKR5MZ": {
+   "msg": "1535988736360185876",
+   "end": 1786364402,
+   "title": "Weekly Noisemaker Raffle #2... or well... Until I run out of noise makers",
+   "items": 1,
+   "ended": false
+  },
+  "28MN7E": {
+   "msg": "1535988742756634725",
+   "end": 1786363921,
+   "title": "Hmmmm...",
+   "items": 1,
+   "ended": false
+  },
+  "5LDG3J": {
+   "msg": "1535988749857591441",
+   "end": 1786363200,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
