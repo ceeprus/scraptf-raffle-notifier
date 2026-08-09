@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "UJXPCT": {
-   "msg": "1533248225065177168",
-   "end": 1785711422,
-   "title": "My Ex-wife Still Misses Me...",
-   "items": 6,
-   "ended": true
-  },
   "PF76WE": {
    "msg": "1533250659850256394",
    "end": 1785712081,
@@ -5045,7 +5038,7 @@
    "end": 1786314901,
    "title": "All gone! 1250 purrers!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "VMC7Y0": {
    "msg": "1535789597047390238",
@@ -5857,6 +5850,13 @@
    "end": 1786397941,
    "title": "Daily Brass Beast #534",
    "items": 1,
+   "ended": false
+  },
+  "FKB8QL": {
+   "msg": "1536146399266218055",
+   "end": 1786401541,
+   "title": "Slugmaxx",
+   "items": 2,
    "ended": false
   }
  },
