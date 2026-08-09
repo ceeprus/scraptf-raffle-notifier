@@ -56,13 +56,6 @@
    "items": 2,
    "ended": true
   },
-  "O1OJFB": {
-   "msg": "1533078279056134338",
-   "end": 1785670381,
-   "title": "FUR Raffle",
-   "items": 1,
-   "ended": true
-  },
   "NOQOK9": {
    "msg": "1533083268268949665",
    "end": 1785672000,
@@ -4779,7 +4772,7 @@
    "end": 1786275121,
    "title": "STOLEN PLUSHIE CONTRACT",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "DASZ7H": {
    "msg": "1535625842645012581",
