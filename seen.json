@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "Q8W2Q9": {
-   "msg": "1532995199779868752",
-   "end": 1785651002,
-   "title": "Day 49 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
   "ZF7HVL": {
    "msg": "1532995208604811316",
    "end": null,
@@ -4723,21 +4716,21 @@
    "end": 1786255921,
    "title": "Slugma",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "ZC5NV9": {
    "msg": "1535535755378696223",
    "end": 1786255682,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "UM6SQB": {
    "msg": "1535537174253142098",
    "end": 1786257002,
    "title": "Slugma Emote",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6JMDQ2": {
    "msg": "1535543344464134248",
@@ -5290,21 +5283,21 @@
    "end": 1786256521,
    "title": "It's my scrappy today?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HE6FER": {
    "msg": "1535715119672205313",
    "end": 1786256041,
    "title": "Ten feet twenty the  Man!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J6Y6AR": {
    "msg": "1535715126831874222",
    "end": 1786255562,
    "title": "[Fallen Tributes/Night 5] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WCK4VY": {
    "msg": "1535724530482413669",
@@ -5850,6 +5843,13 @@
    "end": 1786340821,
    "title": "She Is Saving The Day!!",
    "items": 1,
+   "ended": false
+  },
+  "V0AUK1": {
+   "msg": "1535898151502749728",
+   "end": 1786342502,
+   "title": "broke birthday raffle",
+   "items": 13,
    "ended": false
   }
  },
