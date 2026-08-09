@@ -4765,7 +4765,7 @@
    "end": 1786283281,
    "title": "Bau! Bau!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "ET92R6": {
    "msg": "1535656562167644210",
@@ -5458,7 +5458,7 @@
    "end": 1786284000,
    "title": "[Fallen Tributes/Night 2] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MDLVNV": {
    "msg": "1535830232643145819",
@@ -5871,6 +5871,13 @@
    "end": 1786368662,
    "title": "Hello! Have a great day!",
    "items": 3,
+   "ended": false
+  },
+  "Q0HZNV": {
+   "msg": "1536011404291608606",
+   "end": 1786298221,
+   "title": "Loadout for Scout mains",
+   "items": 7,
    "ended": false
   }
  },
