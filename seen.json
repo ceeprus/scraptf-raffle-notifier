@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "EEJCII": {
-   "msg": "1533233106566254623",
-   "end": 1785707400,
-   "title": "checkup #78 | rafle",
-   "items": 1,
-   "ended": true
-  },
-  "DVRTDX": {
-   "msg": "1533235554810986716",
-   "end": 1785707881,
-   "title": "Thrifty Bits",
-   "items": 6,
-   "ended": true
-  },
   "4MO4RV": {
    "msg": "1533238081954775202",
    "end": 1785708541,
@@ -5045,7 +5031,7 @@
    "end": 1786312142,
    "title": "My first collector\u2019s weapon",
    "items": 26,
-   "ended": false
+   "ended": true
   },
   "3AB88Q": {
    "msg": "1535774408239489075",
@@ -5863,6 +5849,27 @@
    "msg": "1536124652512870431",
    "end": 1786395600,
    "title": "checkup #85 | Pok\u00e9mon",
+   "items": 1,
+   "ended": false
+  },
+  "2NL6GY": {
+   "msg": "1536132230215110676",
+   "end": 1786398841,
+   "title": "Equestria 4ever",
+   "items": 48,
+   "ended": false
+  },
+  "11NHNX": {
+   "msg": "1536132239375597678",
+   "end": 1786398301,
+   "title": "Power Scale #5",
+   "items": 14,
+   "ended": false
+  },
+  "459GOD": {
+   "msg": "1536132246795321426",
+   "end": 1786397941,
+   "title": "Daily Brass Beast #534",
    "items": 1,
    "ended": false
   }
