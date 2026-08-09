@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "0S9YQZ": {
-   "msg": "1533073184805355563",
-   "end": 1785669421,
-   "title": "Just a talk i guess #6",
-   "items": 1,
-   "ended": true
-  },
-  "M7AGEW": {
-   "msg": "1533074534008225853",
-   "end": 1785669781,
-   "title": "The pass it forward raffle! (#12)",
-   "items": 2,
-   "ended": true
-  },
   "VH9M05": {
    "msg": "1533078273175851090",
    "end": 1785670621,
@@ -4758,7 +4744,7 @@
    "end": 1786273741,
    "title": "I am bad with titles #140",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5SH1HY": {
    "msg": "1535610446956990464",
@@ -5849,6 +5835,34 @@
    "msg": "1535965838082056193",
    "end": 1786358101,
    "title": "Daily Kit Fabricator #3",
+   "items": 1,
+   "ended": false
+  },
+  "CKIBVE": {
+   "msg": "1535973637759172669",
+   "end": 1786359782,
+   "title": "200 tips given out",
+   "items": 15,
+   "ended": false
+  },
+  "PUZHL8": {
+   "msg": "1535973645351129190",
+   "end": 1786294921,
+   "title": "Birthday raffle",
+   "items": 12,
+   "ended": false
+  },
+  "NDENWA": {
+   "msg": "1535973652141703250",
+   "end": 1786359600,
+   "title": "Cloud cloud go away, come again another day!",
+   "items": 1,
+   "ended": false
+  },
+  "8MH6OB": {
+   "msg": "1535973660035252246",
+   "end": 1786359542,
+   "title": "music time ! !",
    "items": 1,
    "ended": false
   }
