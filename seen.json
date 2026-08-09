@@ -49,55 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "F9Q303": {
-   "msg": "1533214155773972770",
-   "end": 1785703081,
-   "title": "Pick My Custom Title - Quarterfinals (4/4)",
-   "items": 1,
-   "ended": true
-  },
-  "A9CN6G": {
-   "msg": "1533216640555159624",
-   "end": 1785704041,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "714JT1": {
-   "msg": "1533216647144411289",
-   "end": 1785703862,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "X7PT2A": {
-   "msg": "1533216653280673926",
-   "end": 1785703802,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GRJRJG": {
-   "msg": "1533216659496632502",
-   "end": 1785703681,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "CL9YRB": {
-   "msg": "1533216666392203397",
-   "end": 1785703501,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BKFZYD": {
-   "msg": "1533216672683524127",
-   "end": 1785703501,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "FUU8NU": {
    "msg": "1533228004845813792",
    "end": 1785706441,
@@ -4996,21 +4947,21 @@
    "end": 1786308301,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R266SE": {
    "msg": "1535753491891490898",
    "end": 1786308061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GPSI8P": {
    "msg": "1535753498392657922",
    "end": 1786307881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "91EJFQ": {
    "msg": "1535753504952553563",
@@ -5024,21 +4975,21 @@
    "end": 1786308901,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P2B2TQ": {
    "msg": "1535754746449760268",
    "end": 1786308901,
    "title": "Free Games Part 141 \u2022 Breathedge",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RF88F8": {
    "msg": "1535754753852579960",
    "end": 1786308721,
    "title": "Free Games Part 140 \u2022 Moonlighter",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "INKOOB": {
    "msg": "1535754760601346208",
@@ -5052,7 +5003,7 @@
    "end": 1786308541,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0K0CGP": {
    "msg": "1535760387000107198",
@@ -5094,7 +5045,7 @@
    "end": 1786309200,
    "title": "checkup #84 | Defenses",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D5L1Y1": {
    "msg": "1535762233555165395",
@@ -5493,7 +5444,7 @@
    "end": 1786308181,
    "title": "Slugma",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3016XB": {
    "msg": "1535935916403720212",
@@ -5507,7 +5458,7 @@
    "end": 1786307581,
    "title": "Tail",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J4961N": {
    "msg": "1535935932384149504",
@@ -5878,7 +5829,7 @@
    "end": 1786308061,
    "title": "\u0445\u0437",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "EWIRSP": {
    "msg": "1536100370332520609",
@@ -5899,6 +5850,13 @@
    "end": 1786393622,
    "title": "Bau! Bau!",
    "items": 5,
+   "ended": false
+  },
+  "BSMMOD": {
+   "msg": "1536116888394793022",
+   "end": 1786394762,
+   "title": "zzzzz",
+   "items": 2,
    "ended": false
   }
  },
