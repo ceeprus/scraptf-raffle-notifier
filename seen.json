@@ -42,20 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "SVZYVH": {
-   "msg": "1532973838307164272",
-   "end": 1785646021,
-   "title": "i gotta stop playing mvm pt.6",
-   "items": 28,
-   "ended": true
-  },
-  "NYFEQT": {
-   "msg": "1532973844212482052",
-   "end": 1785645902,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "533OB8": {
    "msg": "1532990151280693398",
    "end": 1785649741,
@@ -684,13 +670,6 @@
    "end": 1785684722,
    "title": "Raffling Scrap Till I'm Out #991 (Tired)",
    "items": 1,
-   "ended": true
-  },
-  "00B01V": {
-   "msg": "1533321110886813836",
-   "end": 1785646021,
-   "title": "hello",
-   "items": 50,
    "ended": true
   },
   "M4G3Q2": {
@@ -4702,7 +4681,7 @@
    "end": 1786251421,
    "title": "Day 2 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "2G7E8N": {
    "msg": "1535513150848499743",
@@ -5626,7 +5605,7 @@
    "end": 1786251061,
    "title": "Hello There :D",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "PPWUEN": {
    "msg": "1535783352773124250",
@@ -5815,6 +5794,20 @@
    "end": 1786334942,
    "title": "Life",
    "items": 3,
+   "ended": false
+  },
+  "MKC394": {
+   "msg": "1535875536709226506",
+   "end": 1786337521,
+   "title": "Day 3 of asking for Slugma Chain emoticon",
+   "items": 40,
+   "ended": false
+  },
+  "1VKHUZ": {
+   "msg": "1535875543445020733",
+   "end": 1786337341,
+   "title": "We are the Slugma Chain Emoji-lings! Please feed us! #2",
+   "items": 1,
    "ended": false
   }
  },
