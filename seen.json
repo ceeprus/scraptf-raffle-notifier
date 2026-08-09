@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "PAL9OY": {
-   "msg": "1533031707794604074",
-   "end": 1785659701,
-   "title": "#4",
-   "items": 1,
-   "ended": true
-  },
-  "823L6Q": {
-   "msg": "1533035438124568679",
-   "end": 1785660242,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
-  "CAKS6F": {
-   "msg": "1533035444629929994",
-   "end": 1785660061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "I806G5": {
    "msg": "1533040486384795760",
    "end": 1785661982,
@@ -362,13 +341,6 @@
    "end": 1785700800,
    "title": "A Refined a day keeps the doctor away! #25",
    "items": 1,
-   "ended": true
-  },
-  "SUOYML": {
-   "msg": "1533214148509306950",
-   "end": 1785660181,
-   "title": "Untitled raffle",
-   "items": 2,
    "ended": true
   },
   "F9Q303": {
@@ -5857,6 +5829,34 @@
    "end": 1786348862,
    "title": "\u2728\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday \u2728\ufe0f#1500\u2728\ufe0f \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728\ufe0f",
    "items": 9,
+   "ended": false
+  },
+  "TEQFEU": {
+   "msg": "1535935909055168533",
+   "end": 1786308181,
+   "title": "Slugma",
+   "items": 1,
+   "ended": false
+  },
+  "3016XB": {
+   "msg": "1535935916403720212",
+   "end": 1786351142,
+   "title": "Day 28 Of \"Bad\" Weapon",
+   "items": 1,
+   "ended": false
+  },
+  "61TIVP": {
+   "msg": "1535935923081183305",
+   "end": 1786307581,
+   "title": "Tail",
+   "items": 1,
+   "ended": false
+  },
+  "J4961N": {
+   "msg": "1535935932384149504",
+   "end": 1786350361,
+   "title": "15th Raffle",
+   "items": 1,
    "ended": false
   }
  },
