@@ -49,34 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "H9TQCQ": {
-   "msg": "1533026664077066350",
-   "end": 1785658261,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1KA80G": {
-   "msg": "1533029239429922816",
-   "end": 1785659042,
-   "title": "#2",
-   "items": 1,
-   "ended": true
-  },
-  "S472MI": {
-   "msg": "1533029246908497920",
-   "end": 1785658981,
-   "title": "raffle win ratio",
-   "items": 1,
-   "ended": true
-  },
-  "O8T0VH": {
-   "msg": "1533029253757534250",
-   "end": 1785658862,
-   "title": "#1",
-   "items": 1,
-   "ended": true
-  },
   "PAL9OY": {
    "msg": "1533031707794604074",
    "end": 1785659701,
@@ -670,13 +642,6 @@
    "end": 1785738661,
    "title": "Weekly Noisemaker Raffle #1... or well... Until I run out of noise makers",
    "items": 1,
-   "ended": true
-  },
-  "8DNRT0": {
-   "msg": "1533370133677084682",
-   "end": 1785657781,
-   "title": "last one for now",
-   "items": 32,
    "ended": true
   },
   "SBMIQO": {
@@ -5395,7 +5360,7 @@
    "end": 1786263602,
    "title": "BOOOOM",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "395G20": {
    "msg": "1535747158257569893",
@@ -5878,6 +5843,27 @@
    "end": 1786347000,
    "title": "Day 56 of Asking for Mystery Raffles",
    "items": 1,
+   "ended": false
+  },
+  "YZNES8": {
+   "msg": "1535928339477307443",
+   "end": 1786350242,
+   "title": "Unboxing failure part 2.",
+   "items": 11,
+   "ended": false
+  },
+  "N6SCNL": {
+   "msg": "1535928351351513219",
+   "end": 1786350062,
+   "title": "Unboxing failure.",
+   "items": 17,
+   "ended": false
+  },
+  "F38O6N": {
+   "msg": "1535928361094742077",
+   "end": 1786348862,
+   "title": "\u2728\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday \u2728\ufe0f#1500\u2728\ufe0f \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728\ufe0f",
+   "items": 9,
    "ended": false
   }
  },
