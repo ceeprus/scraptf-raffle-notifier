@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "I806G5": {
-   "msg": "1533040486384795760",
-   "end": 1785661982,
-   "title": "Your Favorite Mods and HUD",
-   "items": 1,
-   "ended": true
-  },
-  "XACD94": {
-   "msg": "1533042988643778671",
-   "end": 1785662101,
-   "title": "The world needs more Reindoonicorns! (#588)",
-   "items": 1,
-   "ended": true
-  },
   "2S1XCQ": {
    "msg": "1533051928924127323",
    "end": 1785664501,
@@ -4709,28 +4695,28 @@
    "end": 1786267564,
    "title": "Tries",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CS1VWI": {
    "msg": "1535581045250854932",
    "end": 1786266962,
    "title": "Daily Brass Beast #532",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B822EX": {
    "msg": "1535581053593325568",
    "end": 1786266842,
    "title": "First Raffle*",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "2IHAFG": {
    "msg": "1535581061743124592",
    "end": 1786266781,
    "title": "slug fun facts.",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "709N3O": {
    "msg": "1535588663537307669",
@@ -5856,6 +5842,13 @@
    "msg": "1535935932384149504",
    "end": 1786350361,
    "title": "15th Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XLELDG": {
+   "msg": "1535943335968251954",
+   "end": 1786352882,
+   "title": "Daily Brass Beast #533",
    "items": 1,
    "ended": false
   }
