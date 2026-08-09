@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "PF76WE": {
-   "msg": "1533250659850256394",
-   "end": 1785712081,
-   "title": "Go ahead. Try to scrap em!",
-   "items": 12,
-   "ended": true
-  },
   "HSU3FN": {
    "msg": "1533264476298805359",
    "end": 1785714722,
@@ -5045,14 +5038,14 @@
    "end": 1786317061,
    "title": "My Birthday Curse...... Might be happening again",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LT93CL": {
    "msg": "1535789605733797889",
    "end": 1786316641,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MZH75A": {
    "msg": "1535800057755082813",
@@ -5773,7 +5766,7 @@
    "end": 1786318021,
    "title": "who wants to hold paws with me? :3",
    "items": 34,
-   "ended": false
+   "ended": true
   },
   "0LNMTO": {
    "msg": "1536100363684544602",
@@ -5815,7 +5808,7 @@
    "end": 1786317482,
    "title": "A question about a certain Magic the Gathering deck",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HWXQAL": {
    "msg": "1536124645525291009",
@@ -5864,6 +5857,13 @@
    "end": 1786402142,
    "title": "found",
    "items": 4,
+   "ended": false
+  },
+  "BXZ5MG": {
+   "msg": "1536154132715675698",
+   "end": 1786402800,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
