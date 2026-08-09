@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "2S1XCQ": {
-   "msg": "1533051928924127323",
-   "end": 1785664501,
-   "title": "30 Days till my birthday....",
-   "items": 1,
-   "ended": true
-  },
-  "B7OXQQ": {
-   "msg": "1533051937186910418",
-   "end": 1785664141,
-   "title": "coollion Grabli304's raffle\u2503Day 153",
-   "items": 2,
-   "ended": true
-  },
   "KWO85N": {
    "msg": "1533061894221463614",
    "end": 1785666901,
@@ -4723,14 +4709,14 @@
    "end": 1786269361,
    "title": "Art from a joke",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "9OVZWX": {
    "msg": "1535588670915092520",
    "end": 1786269241,
    "title": "Osmosis",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9BC9RQ": {
    "msg": "1535588679203164282",
@@ -4744,7 +4730,7 @@
    "end": 1786268341,
    "title": "heya guys",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "HDNCCD": {
    "msg": "1535588693258149958",
@@ -5849,6 +5835,13 @@
    "msg": "1535943335968251954",
    "end": 1786352882,
    "title": "Daily Brass Beast #533",
+   "items": 1,
+   "ended": false
+  },
+  "EMDH3T": {
+   "msg": "1535951007849386035",
+   "end": 1786356000,
+   "title": "Gifted Boston Basher",
    "items": 1,
    "ended": false
   }
