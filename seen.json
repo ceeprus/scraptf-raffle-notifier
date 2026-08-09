@@ -4947,35 +4947,35 @@
    "end": 1786306561,
    "title": "Equestria Forever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "MUGUDI": {
    "msg": "1535744041222672535",
    "end": 1786306502,
    "title": "Hii :3     This is my fourth raffle, wow",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CNFA90": {
    "msg": "1535744048927608903",
    "end": 1786306441,
    "title": "take thing",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "DA0HGO": {
    "msg": "1535744055747682374",
    "end": 1786306141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I7FQ3N": {
    "msg": "1535747146450468924",
    "end": 1786306861,
    "title": "Something is coming...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3TWGVE": {
    "msg": "1535747152544792738",
@@ -4989,7 +4989,7 @@
    "end": 1786306681,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V1EU2L": {
    "msg": "1535753485763616831",
@@ -5885,6 +5885,13 @@
    "end": 1786390441,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "SSPQKP": {
+   "msg": "1536107135853662331",
+   "end": 1786392000,
+   "title": "Do you like noise?",
+   "items": 24,
    "ended": false
   }
  },
