@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "TIKJPG": {
-   "msg": "1533114793714516078",
-   "end": 1785679262,
-   "title": "With a little love..",
-   "items": 3,
-   "ended": true
-  },
-  "AWCR49": {
-   "msg": "1533117270744895699",
-   "end": 1785679921,
-   "title": "Untitled raffle",
-   "items": 7,
-   "ended": true
-  },
-  "M9J80R": {
-   "msg": "1533117277900247140",
-   "end": 1785679921,
-   "title": "Scrappy",
-   "items": 1,
-   "ended": true
-  },
   "0MQYIR": {
    "msg": "1533124828695891978",
    "end": 1785681661,
@@ -4772,21 +4751,21 @@
    "end": 1786285322,
    "title": "I don't like this hair.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QFYGGX": {
    "msg": "1535656569398894614",
    "end": 1786285142,
    "title": "DELETED ACCOUNT FILE",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "CGIAFS": {
    "msg": "1535656577351290880",
    "end": 1786285082,
    "title": "Blackimus has finally dropped a new episode of The Scratched Universe!!",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "HDM82P": {
    "msg": "1535662909571600395",
@@ -5878,6 +5857,13 @@
    "end": 1786298221,
    "title": "Loadout for Scout mains",
    "items": 7,
+   "ended": false
+  },
+  "9EHC47": {
+   "msg": "1536017600428122194",
+   "end": 1786370941,
+   "title": "Righteous Brian",
+   "items": 1,
    "ended": false
   }
  },
