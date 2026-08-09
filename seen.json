@@ -56,13 +56,6 @@
    "items": 5,
    "ended": true
   },
-  "YYBROX": {
-   "msg": "1533228013137952851",
-   "end": 1785706261,
-   "title": "Normal Raffle",
-   "items": 1,
-   "ended": true
-  },
   "EEJCII": {
    "msg": "1533233106566254623",
    "end": 1785707400,
@@ -5010,35 +5003,35 @@
    "end": 1786310161,
    "title": "help find",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "WK0K2Q": {
    "msg": "1535760393438363688",
    "end": 1786309921,
    "title": "Sigma chain emote #1",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "JQATG7": {
    "msg": "1535760400849707128",
    "end": 1786309861,
    "title": "One Time",
    "items": 22,
-   "ended": false
+   "ended": true
   },
   "V3YGDD": {
    "msg": "1535760408588058714",
    "end": 1786309861,
    "title": "Solo Winners POV",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "CRXIRH": {
    "msg": "1535760415076909097",
    "end": 1786309741,
    "title": "We (Yes, WE) need a Slugma chain emote NOW! P.2",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "NSGCUP": {
    "msg": "1535760421573763102",
@@ -5052,7 +5045,7 @@
    "end": 1786310522,
    "title": "hi",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "2Q2I43": {
    "msg": "1535767871936921613",
@@ -5857,6 +5850,27 @@
    "end": 1786394762,
    "title": "zzzzz",
    "items": 2,
+   "ended": false
+  },
+  "6AHUCU": {
+   "msg": "1536124637229096961",
+   "end": 1786317482,
+   "title": "A question about a certain Magic the Gathering deck",
+   "items": 1,
+   "ended": false
+  },
+  "HWXQAL": {
+   "msg": "1536124645525291009",
+   "end": 1786352522,
+   "title": "Hi lol",
+   "items": 20,
+   "ended": false
+  },
+  "7AJ1IC": {
+   "msg": "1536124652512870431",
+   "end": 1786395600,
+   "title": "checkup #85 | Pok\u00e9mon",
+   "items": 1,
    "ended": false
   }
  },
