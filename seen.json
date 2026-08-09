@@ -42,27 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "0VWJBW": {
-   "msg": "1532934819707617380",
-   "end": 1785636602,
-   "title": "I'm ruined.",
-   "items": 21,
-   "ended": true
-  },
-  "BFEJBR": {
-   "msg": "1532937291570352339",
-   "end": 1785637021,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "AFSDE4": {
-   "msg": "1532937298012803222",
-   "end": 1785636841,
-   "title": "It's quiet tonight...",
-   "items": 1,
-   "ended": true
-  },
   "H3GB7R": {
    "msg": "1532942358360883230",
    "end": 1785638041,
@@ -4702,14 +4681,14 @@
    "end": 1786242542,
    "title": "opened some EVEN more spooky boxes",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "Q6RRZF": {
    "msg": "1535475358806048941",
    "end": 1786241701,
    "title": "searching for pocket medic",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FBH1W3": {
    "msg": "1535483953656373360",
