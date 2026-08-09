@@ -4702,7 +4702,7 @@
    "end": 1786237441,
    "title": "one question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "15YMN5": {
    "msg": "1535460266433839195",
@@ -5787,6 +5787,20 @@
    "end": 1786321981,
    "title": "Graveyard Raffle (#9)",
    "items": 7,
+   "ended": false
+  },
+  "LZSUX2": {
+   "msg": "1535822636087771136",
+   "end": 1786281302,
+   "title": "LOADOUT FOR MAIN SPIES  (a single extra weapon)",
+   "items": 8,
+   "ended": false
+  },
+  "10LOTS": {
+   "msg": "1535822645248000010",
+   "end": 1786323600,
+   "title": "Reminder to eat n' drink water if ye haven't yet #267",
+   "items": 5,
    "ended": false
   }
  },
