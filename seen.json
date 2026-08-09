@@ -5276,7 +5276,7 @@
    "end": 1786253461,
    "title": "Sandvich and me are going to beat your a**!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ML5U7Q": {
    "msg": "1535709429851496508",
@@ -5829,6 +5829,20 @@
    "end": 1786339081,
    "title": "Make some noise",
    "items": 1,
+   "ended": false
+  },
+  "KSJO9G": {
+   "msg": "1535885701298520134",
+   "end": 1786340341,
+   "title": "Peanut Butter Jelly Time!",
+   "items": 1,
+   "ended": false
+  },
+  "I0X3LS": {
+   "msg": "1535885708190027866",
+   "end": 1786339981,
+   "title": "#SlugmaSweep",
+   "items": 3,
    "ended": false
   }
  },
