@@ -56,13 +56,6 @@
    "items": 1,
    "ended": true
   },
-  "F23F4V": {
-   "msg": "1532903371328065626",
-   "end": 1785628802,
-   "title": "Day 8 of the Japan trip + Instagram RIP (part 1)",
-   "items": 2,
-   "ended": true
-  },
   "QXTY17": {
    "msg": "1532916047462662154",
    "end": 1785632162,
@@ -4730,7 +4723,7 @@
    "end": 1786233121,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "PALBC9": {
    "msg": "1535452750509506570",
@@ -5751,6 +5744,27 @@
    "msg": "1535789605733797889",
    "end": 1786316641,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "MZH75A": {
+   "msg": "1535800057755082813",
+   "end": 1786319641,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "B3VXQQ": {
+   "msg": "1535800065384251493",
+   "end": 1786319581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "72II83": {
+   "msg": "1535800070794903634",
+   "end": 1786319282,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
