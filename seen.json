@@ -4772,7 +4772,7 @@
    "end": 1786271042,
    "title": "coollion Grabli304's raffle\u2503Day 160",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "M16GE6": {
    "msg": "1535610440648757248",
@@ -5843,6 +5843,20 @@
    "end": 1786356000,
    "title": "Gifted Boston Basher",
    "items": 1,
+   "ended": false
+  },
+  "VET8RZ": {
+   "msg": "1535958538512375820",
+   "end": 1786314600,
+   "title": "[DAY 3] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "Q3HKUA": {
+   "msg": "1535958545462202378",
+   "end": 1786357441,
+   "title": "Grabli304's raffle\u2503Day 161",
+   "items": 2,
    "ended": false
   }
  },
