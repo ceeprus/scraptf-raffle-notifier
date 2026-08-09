@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "533OB8": {
-   "msg": "1532990151280693398",
-   "end": 1785649741,
-   "title": "Day 55 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
   "Q8W2Q9": {
    "msg": "1532995199779868752",
    "end": 1785651002,
@@ -4723,7 +4716,7 @@
    "end": 1786255202,
    "title": "Slugma Chain raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NMCA0B": {
    "msg": "1535535748395171891",
@@ -5843,6 +5836,20 @@
    "end": 1786339981,
    "title": "#SlugmaSweep",
    "items": 3,
+   "ended": false
+  },
+  "CNTIZ3": {
+   "msg": "1535890610857185290",
+   "end": 1786341181,
+   "title": "#24",
+   "items": 1,
+   "ended": false
+  },
+  "QKN5G2": {
+   "msg": "1535890617337385071",
+   "end": 1786340821,
+   "title": "She Is Saving The Day!!",
+   "items": 1,
    "ended": false
   }
  },
