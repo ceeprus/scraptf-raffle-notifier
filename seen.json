@@ -588,13 +588,6 @@
    "items": 12,
    "ended": true
   },
-  "R1RRO9": {
-   "msg": "1533261937088135318",
-   "end": 1785642541,
-   "title": "Well ,hello world!",
-   "items": 1,
-   "ended": true
-  },
   "HSU3FN": {
    "msg": "1533264476298805359",
    "end": 1785714722,
@@ -4695,14 +4688,14 @@
    "end": 1786247462,
    "title": "Caf\u00e9 Crit-A-Coffee #1752",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "V7YBSJ": {
    "msg": "1535498071864250418",
    "end": 1786247100,
    "title": "Touch Up",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y9A9IB": {
    "msg": "1535505558294241330",
