@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "HSU3FN": {
-   "msg": "1533264476298805359",
-   "end": 1785714722,
-   "title": "Your new Friend.",
-   "items": 4,
-   "ended": true
-  },
   "JN92M2": {
    "msg": "1533269484544987367",
    "end": 1785716461,
@@ -5052,21 +5045,21 @@
    "end": 1786319641,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B3VXQQ": {
    "msg": "1535800065384251493",
    "end": 1786319581,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "72II83": {
    "msg": "1535800070794903634",
    "end": 1786319282,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y2MYKM": {
    "msg": "1535807542096171079",
@@ -5486,7 +5479,7 @@
    "end": 1786318442,
    "title": "Just finished Half Life 2 and all the episodes",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GKR5MZ": {
    "msg": "1535988736360185876",
@@ -5863,6 +5856,13 @@
    "msg": "1536154132715675698",
    "end": 1786402800,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "D13A57": {
+   "msg": "1536161790340112415",
+   "end": 1786405381,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
