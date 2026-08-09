@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "49JTZE": {
-   "msg": "1533141138146332754",
-   "end": 1785685809,
-   "title": "and  have a longer message for you today",
-   "items": 1,
-   "ended": true
-  },
-  "DDLER6": {
-   "msg": "1533143653243949166",
-   "end": 1785686281,
-   "title": "hat",
-   "items": 1,
-   "ended": true
-  },
   "TX65P0": {
    "msg": "1533146230345961692",
    "end": 1785687122,
@@ -655,13 +641,6 @@
    "msg": "1533488437233975416",
    "end": 1785768362,
    "title": "Daily Brass Beast #526",
-   "items": 1,
-   "ended": true
-  },
-  "J3JR7I": {
-   "msg": "1533490966449623184",
-   "end": 1785686281,
-   "title": "le hat",
    "items": 1,
    "ended": true
   },
@@ -4793,21 +4772,21 @@
    "end": 1786289702,
    "title": "I love mvm",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A53EP8": {
    "msg": "1535684523801448500",
    "end": 1786291200,
    "title": "\ud83d\udc18",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OCXT60": {
    "msg": "1535684530634227762",
    "end": 1786291200,
    "title": "Scrap.tf Birthdays - 8 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BO5J6B": {
    "msg": "1535686759587905706",
@@ -5885,6 +5864,27 @@
    "end": 1786375800,
    "title": "MK Poll #2 + The Favorites of Music #271 & #272",
    "items": 1,
+   "ended": false
+  },
+  "BSNKW6": {
+   "msg": "1536041616157057185",
+   "end": 1786297802,
+   "title": "Raffle",
+   "items": 5,
+   "ended": false
+  },
+  "OVDJFW": {
+   "msg": "1536041622762950719",
+   "end": 1786376762,
+   "title": "Breaking scrap.tf rules",
+   "items": 1,
+   "ended": false
+  },
+  "YZS6EX": {
+   "msg": "1536041628714803211",
+   "end": 1786293482,
+   "title": "Loadout for Soldier mains",
+   "items": 6,
    "ended": false
   }
  },
