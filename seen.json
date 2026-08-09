@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "H3GB7R": {
-   "msg": "1532942358360883230",
-   "end": 1785638041,
-   "title": "Caf\u00e9 Crit-A-Coffee #1745",
-   "items": 13,
-   "ended": true
-  },
   "QT63ZO": {
    "msg": "1532968842383327303",
    "end": 1785644821,
@@ -5570,7 +5563,7 @@
    "end": 1786243861,
    "title": "This is a filler",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V7MSXU": {
    "msg": "1535754767253643345",
@@ -5787,6 +5780,20 @@
    "end": 1786325341,
    "title": "raffle",
    "items": 4,
+   "ended": false
+  },
+  "WTUJQJ": {
+   "msg": "1535845320490090506",
+   "end": 1786330081,
+   "title": "I Drew Ts 14",
+   "items": 1,
+   "ended": false
+  },
+  "MMZAMG": {
+   "msg": "1535845327934857277",
+   "end": 1786329600,
+   "title": "Swordpoint Diplomacy",
+   "items": 1,
    "ended": false
   }
  },
