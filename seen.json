@@ -4912,7 +4912,7 @@
    "end": 1786303261,
    "title": "just scrap",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L9X2OH": {
    "msg": "1535732059115487262",
@@ -4940,7 +4940,7 @@
    "end": 1786303562,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UCZGMM": {
    "msg": "1535739634632622120",
@@ -5731,7 +5731,7 @@
    "end": 1786303261,
    "title": "The first Raffle I'd ever host",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "E2DACN": {
    "msg": "1536035072866787410",
@@ -5885,6 +5885,13 @@
    "end": 1786388400,
    "title": "#32 Weekly dose of Polish songs",
    "items": 1,
+   "ended": false
+  },
+  "PPS7YG": {
+   "msg": "1536094433332830218",
+   "end": 1786318021,
+   "title": "who wants to hold paws with me? :3",
+   "items": 34,
    "ended": false
   }
  },
