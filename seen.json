@@ -343,13 +343,6 @@
    "items": 1,
    "ended": true
   },
-  "5UWBF9": {
-   "msg": "1533129853623074988",
-   "end": 1785639902,
-   "title": "I freakin' hate myself.",
-   "items": 3,
-   "ended": true
-  },
   "AGNACB": {
    "msg": "1533134930744316074",
    "end": 1785684600,
@@ -4695,7 +4688,7 @@
    "end": 1786244941,
    "title": "THIS, is a bucket.",
    "items": 32,
-   "ended": false
+   "ended": true
   },
   "TUVUFV": {
    "msg": "1535498065329393664",
@@ -5794,6 +5787,20 @@
    "end": 1786329600,
    "title": "Swordpoint Diplomacy",
    "items": 1,
+   "ended": false
+  },
+  "5XHLCL": {
+   "msg": "1535848111040237610",
+   "end": 1786330861,
+   "title": "Caf\u00e9 Crit-A-Coffee #1753",
+   "items": 10,
+   "ended": false
+  },
+  "YJOWK6": {
+   "msg": "1535848117415583775",
+   "end": 1786330861,
+   "title": "Untitled raffle",
+   "items": 2,
    "ended": false
   }
  },
