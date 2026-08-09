@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "66O8WK": {
-   "msg": "1533202899843289259",
-   "end": 1785700800,
-   "title": "A Refined a day keeps the doctor away! #25",
-   "items": 1,
-   "ended": true
-  },
   "F9Q303": {
    "msg": "1533214155773972770",
    "end": 1785703081,
@@ -4933,7 +4926,7 @@
    "end": 1786305301,
    "title": "The World needs more rein-wait a minute...kindness!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "29FKP5": {
    "msg": "1535739641406300271",
