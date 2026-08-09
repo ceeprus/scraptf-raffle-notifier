@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "LSYAPJ": {
-   "msg": "1533167621703340142",
-   "end": 1785692162,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "G2W9KG": {
-   "msg": "1533170108971749446",
-   "end": 1785692521,
-   "title": "\ud83d\udd25 \u2764\ufe0f\u200d\ud83d\udd25\ud83d\udd25",
-   "items": 1,
-   "ended": true
-  },
   "AJJ0DB": {
    "msg": "1533175146507141212",
    "end": 1785693600,
@@ -4877,14 +4863,14 @@
    "end": 1786296841,
    "title": "Hello. It's me.",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "N6AALH": {
    "msg": "1535707855469023242",
    "end": 1786296661,
    "title": "sum crap to say",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "ROKPXJ": {
    "msg": "1535707860619763894",
@@ -4905,7 +4891,7 @@
    "end": 1786297921,
    "title": "Heavy weapons raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "UJTWQ9": {
    "msg": "1535715111657021550",
@@ -5815,7 +5801,7 @@
    "end": 1786297802,
    "title": "Raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "OVDJFW": {
    "msg": "1536041622762950719",
@@ -5871,7 +5857,7 @@
    "end": 1786297861,
    "title": "4% Bau! Bau!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "5I0OF7": {
    "msg": "1536064226999803974",
