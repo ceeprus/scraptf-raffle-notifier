@@ -42,13 +42,6 @@
    "items": 14,
    "ended": false
   },
-  "QT63ZO": {
-   "msg": "1532968842383327303",
-   "end": 1785644821,
-   "title": "Raffle dollar noise maker",
-   "items": 1,
-   "ended": true
-  },
   "SVZYVH": {
    "msg": "1532973838307164272",
    "end": 1785646021,
@@ -4702,7 +4695,7 @@
    "end": 1786249322,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "4L8XIN": {
    "msg": "1535513142229073974",
@@ -4723,7 +4716,7 @@
    "end": 1786249741,
    "title": "Bau! Bau!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "ZQR9MI": {
    "msg": "1535520655649280030",
@@ -5815,6 +5808,13 @@
    "end": 1786331341,
    "title": "Jl4oCZcyB0aGlzIHN0cmFuZ2UgbWlzY29uY2VwdGlvbiB0aGF0IGlmIHlvdSB3YW50IHRvIGtpbGwg c29tZW9uZSB0aGVuIHlvdeKAmXJlIGVpdGhlciBzaWNrIGluIHRoZSBoZWFkIG9yIHlvdSBoYXZLIG FuZ2VyIG1hbmFnZW1lbnQgaXNzdWVzLiBCdXQsIGl040CZcyB2ZXJ5IGFwcGFyZW50IHRoYXQgSSBK",
    "items": 9,
+   "ended": false
+  },
+  "4QBUXW": {
+   "msg": "1535867945257795695",
+   "end": 1786334942,
+   "title": "Life",
+   "items": 3,
    "ended": false
   }
  },
