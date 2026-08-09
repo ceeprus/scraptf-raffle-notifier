@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "KWO85N": {
-   "msg": "1533061894221463614",
-   "end": 1785666901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "MYOJLQ": {
-   "msg": "1533064418458468454",
-   "end": 1785667562,
-   "title": "Montly Raffle Wins (July)",
-   "items": 1,
-   "ended": true
-  },
   "IF79QD": {
    "msg": "1533069478307430431",
    "end": 1785668400,
@@ -4800,7 +4786,7 @@
    "end": 1786273021,
    "title": "Daily Kit Fabricator #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TI94L4": {
    "msg": "1535617092982931506",
@@ -5857,6 +5843,20 @@
    "end": 1786357441,
    "title": "Grabli304's raffle\u2503Day 161",
    "items": 2,
+   "ended": false
+  },
+  "EIEW1I": {
+   "msg": "1535965831241011301",
+   "end": 1786358581,
+   "title": "Strachion's daily Bau! Bau!",
+   "items": 1,
+   "ended": false
+  },
+  "729DWQ": {
+   "msg": "1535965838082056193",
+   "end": 1786358101,
+   "title": "Daily Kit Fabricator #3",
+   "items": 1,
    "ended": false
   }
  },
