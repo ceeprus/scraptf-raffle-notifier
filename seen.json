@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "UH52V8": {
-   "msg": "1533104731831013517",
-   "end": 1785677101,
-   "title": "Day 9 of the Japan trip",
-   "items": 1,
-   "ended": true
-  },
   "TIKJPG": {
    "msg": "1533114793714516078",
    "end": 1785679262,
@@ -4744,21 +4737,21 @@
    "end": 1786281361,
    "title": "Free games",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "X4D8VD": {
    "msg": "1535640456317116506",
    "end": 1786280581,
    "title": "Slugma",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "D3QXCM": {
    "msg": "1535640462810030231",
    "end": 1786280522,
    "title": "New outfit.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PVI6PK": {
    "msg": "1535640470242197605",
@@ -5451,7 +5444,7 @@
    "end": 1786281302,
    "title": "LOADOUT FOR MAIN SPIES  (a single extra weapon)",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "10LOTS": {
    "msg": "1535822645248000010",
@@ -5842,6 +5835,34 @@
    "msg": "1535996322295971860",
    "end": 1786365001,
    "title": "Free Yeti",
+   "items": 1,
+   "ended": false
+  },
+  "NV9KDT": {
+   "msg": "1536003826086055957",
+   "end": 1786367162,
+   "title": "Raffle for my Birthday :3",
+   "items": 1,
+   "ended": false
+  },
+  "Q782FZ": {
+   "msg": "1536003832855797821",
+   "end": 1786366982,
+   "title": "today",
+   "items": 1,
+   "ended": false
+  },
+  "KCB4C9": {
+   "msg": "1536003839155511337",
+   "end": 1786366862,
+   "title": "Completed my first MvM tour, take these ugly hats.",
+   "items": 2,
+   "ended": false
+  },
+  "U41TJO": {
+   "msg": "1536003844956487750",
+   "end": 1786366800,
+   "title": "Low effort raffle",
    "items": 1,
    "ended": false
   }
