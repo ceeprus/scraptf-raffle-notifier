@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "RA70HZ": {
-   "msg": "1533182693750079588",
-   "end": 1785695582,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "00OAIX": {
-   "msg": "1533187806829084833",
-   "end": 1785696842,
-   "title": "oooooh banana",
-   "items": 1,
-   "ended": true
-  },
   "46ILKX": {
    "msg": "1533197794028949668",
    "end": 1785699421,
@@ -585,13 +571,6 @@
    "msg": "1533522457275924560",
    "end": 1785776400,
    "title": "#10",
-   "items": 1,
-   "ended": true
-  },
-  "P5YB8C": {
-   "msg": "1533541298492145905",
-   "end": 1785696422,
-   "title": "(-_-)",
    "items": 1,
    "ended": true
   },
@@ -4884,21 +4863,21 @@
    "end": 1786301041,
    "title": "emoji raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WYR183": {
    "msg": "1535724538783080491",
    "end": 1786300622,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KN8U5N": {
    "msg": "1535724547398181048",
    "end": 1786300441,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TJ8YZU": {
    "msg": "1535724556273061918",
@@ -4919,14 +4898,14 @@
    "end": 1786302001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1FYDII": {
    "msg": "1535726058152661032",
    "end": 1786301761,
    "title": "Bau! Bau!",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "23H3DZ": {
    "msg": "1535732049921703946",
@@ -5877,6 +5856,27 @@
    "msg": "1536078708610179104",
    "end": 1786384621,
    "title": "slugma chain raffle #2",
+   "items": 3,
+   "ended": false
+  },
+  "TA4RMA": {
+   "msg": "1536086914770407545",
+   "end": 1786387861,
+   "title": "Hey guys I just wanted to say",
+   "items": 4,
+   "ended": false
+  },
+  "I0RQME": {
+   "msg": "1536086921888145510",
+   "end": 1786386961,
+   "title": "So I opened a few crates last night...",
+   "items": 3,
+   "ended": false
+  },
+  "HLIWIU": {
+   "msg": "1536086929060134942",
+   "end": 1786386421,
+   "title": "Untitled raffle",
    "items": 3,
    "ended": false
   }
