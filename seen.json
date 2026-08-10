@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "O8WXQC": {
-   "msg": "1533483406518911017",
-   "end": 1785767161,
-   "title": "Marvelous Sunday",
-   "items": 2,
-   "ended": true
-  },
   "25Q7AY": {
    "msg": "1533488437233975416",
    "end": 1785768362,
@@ -5199,7 +5192,7 @@
    "end": 1786372201,
    "title": "My Milk Raffle",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "K1FQPL": {
    "msg": "1536026177100320838",
@@ -5969,6 +5962,20 @@
    "end": 1786455061,
    "title": "i can't think of a title for this raffle 22\u2122",
    "items": 1,
+   "ended": false
+  },
+  "D5S9LS": {
+   "msg": "1536381350452666418",
+   "end": 1786458482,
+   "title": "Quitting announcement (+ statistics!)",
+   "items": 12,
+   "ended": false
+  },
+  "LTJ6DR": {
+   "msg": "1536381360929898546",
+   "end": 1786414861,
+   "title": "MvM Shenanigans",
+   "items": 7,
    "ended": false
   }
  },
