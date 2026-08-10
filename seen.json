@@ -49,34 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "Z1H5GK": {
-   "msg": "1533290906512523394",
-   "end": 1785721682,
-   "title": "Win A Raffle, Make a Raffle Reboot #2",
-   "items": 1,
-   "ended": true
-  },
-  "NL88DL": {
-   "msg": "1533290917400805428",
-   "end": 1785721621,
-   "title": "Music?",
-   "items": 3,
-   "ended": true
-  },
-  "NY0DYD": {
-   "msg": "1533290924551962824",
-   "end": 1785721561,
-   "title": "Win a Raffle, Make a Raffle - THE F[FIFTY PERCENT OFF!] REBOOT",
-   "items": 1,
-   "ended": true
-  },
-  "PPAE1Z": {
-   "msg": "1533290931472695437",
-   "end": 1785721322,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "1ZTSI0": {
    "msg": "1533297212195344534",
    "end": 1785723000,
@@ -5115,7 +5087,7 @@
    "end": 1786326361,
    "title": "I JUST GOT MY FIRST AUSTRALIUM",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "ZDS4O6": {
    "msg": "1535830240167731270",
@@ -5913,6 +5885,20 @@
    "end": 1786366800,
    "title": "[DAY 4] Scrap tf HG",
    "items": 1,
+   "ended": false
+  },
+  "MM38I9": {
+   "msg": "1536189680305971210",
+   "end": 1786412221,
+   "title": "Stuff and things",
+   "items": 70,
+   "ended": false
+  },
+  "H6W6YF": {
+   "msg": "1536189688136597667",
+   "end": 1786368721,
+   "title": "Shhhh",
+   "items": 4,
    "ended": false
   }
  },
