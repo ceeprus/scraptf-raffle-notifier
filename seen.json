@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "RZXN3U": {
-   "msg": "1533522448170094602",
-   "end": 1785776942,
-   "title": "A really weird",
-   "items": 4,
-   "ended": true
-  },
   "FWW5U0": {
    "msg": "1533546339957342248",
    "end": 1785782401,
@@ -5276,7 +5269,7 @@
    "end": 1786382521,
    "title": "Birthday Raffle!",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "J9FVI2": {
    "msg": "1536064241558224958",
@@ -5290,7 +5283,7 @@
    "end": 1786381621,
    "title": "popa",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "ZF3LCD": {
    "msg": "1536064256041296005",
@@ -5899,7 +5892,7 @@
    "end": 1786382461,
    "title": "Who enters this raffle will get some ref, i guess",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "P2HFWP": {
    "msg": "1536366240807911435",
@@ -6067,6 +6060,48 @@
    "end": 1786465741,
    "title": "Simple Slugma Raffle",
    "items": 4,
+   "ended": false
+  },
+  "43RPG2": {
+   "msg": "1536424476080873523",
+   "end": 1786468261,
+   "title": "it seems like the SLUG WARS have BEGUN >:C",
+   "items": 5,
+   "ended": false
+  },
+  "WBU0B9": {
+   "msg": "1536424483508723865",
+   "end": 1786468081,
+   "title": "Bau! Bau!",
+   "items": 18,
+   "ended": false
+  },
+  "ZDL9TD": {
+   "msg": "1536424489355837511",
+   "end": 1786468022,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "X5QI27": {
+   "msg": "1536424496305799238",
+   "end": 1786467962,
+   "title": "another raffle because these are fun",
+   "items": 5,
+   "ended": false
+  },
+  "751S56": {
+   "msg": "1536424502072713227",
+   "end": 1786467600,
+   "title": "Daily raffle until TF2 gets a major update #587",
+   "items": 3,
+   "ended": false
+  },
+  "7IBDTH": {
+   "msg": "1536424508154454127",
+   "end": 1786467541,
+   "title": "Only bread deserves to live \ud83e\uddc2",
+   "items": 1,
    "ended": false
   }
  },
