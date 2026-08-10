@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "XHFFO0": {
-   "msg": "1533391624342605954",
-   "end": 1785745380,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "QZVUFP": {
    "msg": "1533399189554204682",
    "end": 1785747600,
@@ -5185,7 +5178,7 @@
    "end": 1786350242,
    "title": "Unboxing failure part 2.",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "N6SCNL": {
    "msg": "1535928351351513219",
@@ -5227,7 +5220,7 @@
    "end": 1786350361,
    "title": "15th Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XLELDG": {
    "msg": "1535943335968251954",
@@ -6011,6 +6004,13 @@
    "end": 1786435082,
    "title": "Noise Maker raffle",
    "items": 2,
+   "ended": false
+  },
+  "83PZ9V": {
+   "msg": "1536290746292904028",
+   "end": 1786436701,
+   "title": "Hi,I'm a new scamer",
+   "items": 3,
    "ended": false
   }
  },
