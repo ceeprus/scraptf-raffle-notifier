@@ -63,13 +63,6 @@
    "items": 3,
    "ended": true
   },
-  "YLFO90": {
-   "msg": "1533430581684080842",
-   "end": 1785754741,
-   "title": "Take These Too!",
-   "items": 18,
-   "ended": true
-  },
   "HHIGIZ": {
    "msg": "1533436902194155561",
    "end": 1785755761,
@@ -571,13 +564,6 @@
    "msg": "1533777876216971278",
    "end": 1785837301,
    "title": "Daily raffle #324",
-   "items": 1,
-   "ended": true
-  },
-  "B80TMI": {
-   "msg": "1533780370149867581",
-   "end": 1785753721,
-   "title": "just scrap",
    "items": 1,
    "ended": true
   },
@@ -5192,14 +5178,14 @@
    "end": 1786358581,
    "title": "Strachion's daily Bau! Bau!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "729DWQ": {
    "msg": "1535965838082056193",
    "end": 1786358101,
    "title": "Daily Kit Fabricator #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CKIBVE": {
    "msg": "1535973637759172669",
