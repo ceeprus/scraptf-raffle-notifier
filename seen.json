@@ -56,13 +56,6 @@
    "items": 4,
    "ended": true
   },
-  "1C9A1X": {
-   "msg": "1533522457275924560",
-   "end": 1785776400,
-   "title": "#10",
-   "items": 1,
-   "ended": true
-  },
   "FWW5U0": {
    "msg": "1533546339957342248",
    "end": 1785782401,
@@ -5304,7 +5297,7 @@
    "end": 1786381200,
    "title": "Daily raffle until TF2 gets a major update #586",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "DQEGOS": {
    "msg": "1536064264094220339",
@@ -6011,7 +6004,7 @@
    "end": 1786381081,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "W7P6CY": {
    "msg": "1536411530047004713",
@@ -6025,6 +6018,55 @@
    "end": 1786465261,
    "title": "Between the Glorps and the Slugmas, I do not feel particularly strong either way.",
    "items": 2,
+   "ended": false
+  },
+  "YGE34B": {
+   "msg": "1536419130482237610",
+   "end": 1786467361,
+   "title": "BIRD ALERT",
+   "items": 5,
+   "ended": false
+  },
+  "6SW1PH": {
+   "msg": "1536419143207751781",
+   "end": 1786466821,
+   "title": "I need some recommendations",
+   "items": 3,
+   "ended": false
+  },
+  "2CYMCB": {
+   "msg": "1536419149310464063",
+   "end": 1786466701,
+   "title": "HAPPY 810NICLE DAY",
+   "items": 4,
+   "ended": false
+  },
+  "XC0VND": {
+   "msg": "1536419156617068674",
+   "end": 1786466162,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AHFOZC": {
+   "msg": "1536419164791504999",
+   "end": 1786422781,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "J81K6Q": {
+   "msg": "1536419172605628416",
+   "end": 1786465741,
+   "title": "#STOPSLUGMANTORS",
+   "items": 20,
+   "ended": false
+  },
+  "5U1KQD": {
+   "msg": "1536419180390387724",
+   "end": 1786465741,
+   "title": "Simple Slugma Raffle",
+   "items": 4,
    "ended": false
   }
  },
