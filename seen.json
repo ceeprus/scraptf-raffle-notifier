@@ -5262,7 +5262,7 @@
    "end": 1786382761,
    "title": "\u30d7\u30ec\u30a4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LJ1W6A": {
    "msg": "1536064234197229569",
@@ -5661,7 +5661,7 @@
    "end": 1786382821,
    "title": "sans tf2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D8P2OO": {
    "msg": "1536260539955806208",
@@ -6101,6 +6101,13 @@
    "msg": "1536424508154454127",
    "end": 1786467541,
    "title": "Only bread deserves to live \ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "77VIDJ": {
+   "msg": "1536426656749854771",
+   "end": 1786469400,
+   "title": "#SlugmaSweep",
    "items": 1,
    "ended": false
   }
