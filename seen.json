@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "FYZU7Q": {
-   "msg": "1533470831789740244",
-   "end": 1785764042,
-   "title": "#9",
-   "items": 1,
-   "ended": true
-  },
-  "3Y1U0C": {
-   "msg": "1533475874467221708",
-   "end": 1785765600,
-   "title": "Untitled raffle",
-   "items": 6,
-   "ended": true
-  },
-  "VEV5R0": {
-   "msg": "1533475882226810890",
-   "end": 1785765361,
-   "title": "My first raffle",
-   "items": 1,
-   "ended": true
-  },
   "O8WXQC": {
    "msg": "1533483406518911017",
    "end": 1785767161,
@@ -5199,7 +5178,7 @@
    "end": 1786368662,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "Q0HZNV": {
    "msg": "1536011404291608606",
@@ -5605,7 +5584,7 @@
    "end": 1786368721,
    "title": "Shhhh",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "9NX2O6": {
    "msg": "1536192623335706724",
@@ -5773,7 +5752,7 @@
    "end": 1786369262,
    "title": "Raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "CNCKJB": {
    "msg": "1536283229496287312",
@@ -5983,6 +5962,13 @@
    "end": 1786453200,
    "title": "8 for 1 Sunday but Monday",
    "items": 8,
+   "ended": false
+  },
+  "991643": {
+   "msg": "1536373997741015140",
+   "end": 1786455061,
+   "title": "i can't think of a title for this raffle 22\u2122",
+   "items": 1,
    "ended": false
   }
  },
