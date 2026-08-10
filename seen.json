@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "FF8J7F": {
-   "msg": "1533328667076460784",
-   "end": 1785730142,
-   "title": "\ud835\udce2 \ud835\udcd0 \ud835\udcdb \ud835\udcdc \ud835\udcde \ud835\udcdd \ud835\udcd8 \ud835\udcd0",
-   "items": 2,
-   "ended": true
-  },
-  "R3EB2U": {
-   "msg": "1533331235848323213",
-   "end": 1785731401,
-   "title": "Untitled raffle",
-   "items": 17,
-   "ended": true
-  },
-  "0DVB3D": {
-   "msg": "1533331252025757937",
-   "end": 1785731162,
-   "title": "Winning at a percentage",
-   "items": 5,
-   "ended": true
-  },
   "BZKQ7O": {
    "msg": "1533358875103723560",
    "end": 1785737882,
@@ -5101,7 +5080,7 @@
    "end": 1786334942,
    "title": "Life",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "MKC394": {
    "msg": "1535875536709226506",
@@ -5773,7 +5752,7 @@
    "end": 1786335421,
    "title": "who wants to hold paws with me AGAIN",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "MTE7DC": {
    "msg": "1536169929584283729",
@@ -5906,6 +5885,20 @@
    "end": 1786419482,
    "title": "After 10 years, I went back to playing TF2",
    "items": 8,
+   "ended": false
+  },
+  "IX0PFX": {
+   "msg": "1536230333970645052",
+   "end": 1786378021,
+   "title": "My favorite shotgun skin :3",
+   "items": 1,
+   "ended": false
+  },
+  "FC3FJ0": {
+   "msg": "1536230341986222090",
+   "end": 1786337581,
+   "title": "20% Bau! Bau! Slugma",
+   "items": 20,
    "ended": false
   }
  },
