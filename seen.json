@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "0YC14T": {
-   "msg": "1533446956695949423",
-   "end": 1785758400,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "KXKFQG": {
    "msg": "1533452015865434132",
    "end": 1785759781,
@@ -5206,7 +5199,7 @@
    "end": 1786363200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z8MM6X": {
    "msg": "1535996315484557516",
