@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "9N5O37": {
-   "msg": "1533571489276887161",
-   "end": 1785788102,
-   "title": "normal raffle",
-   "items": 2,
-   "ended": true
-  },
   "LH4POJ": {
    "msg": "1533579014277562509",
    "end": 1785790261,
@@ -5297,7 +5290,7 @@
    "end": 1786393622,
    "title": "Bau! Bau!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "BSMMOD": {
    "msg": "1536116888394793022",
@@ -6333,6 +6326,83 @@
    "end": 1786476482,
    "title": "I LOVE SALT!!! \ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
+   "ended": false
+  },
+  "8QDGQS": {
+   "msg": "1536471940834005082",
+   "end": 1786479661,
+   "title": "salty noise maker \ud83e\uddc2(no need to tip on this one)",
+   "items": 1,
+   "ended": false
+  },
+  "06JJP6": {
+   "msg": "1536471948304060426",
+   "end": 1786396861,
+   "title": "Beep boop",
+   "items": 1,
+   "ended": false
+  },
+  "T4SUQX": {
+   "msg": "1536471954750443661",
+   "end": 1786479421,
+   "title": "I have become their ally now \ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "YSE023": {
+   "msg": "1536471960874385458",
+   "end": 1786479242,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2SALT FACTORY\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "4TPDSR": {
+   "msg": "1536471967492739092",
+   "end": 1786479061,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2SALT FARM",
+   "items": 1,
+   "ended": false
+  },
+  "IHK0Y2": {
+   "msg": "1536471973985652807",
+   "end": 1786479002,
+   "title": "\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "SNPI85": {
+   "msg": "1536471980684083382",
+   "end": 1786478881,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "V3LVKY": {
+   "msg": "1536471986526621758",
+   "end": 1786413781,
+   "title": "SALT THIS MEAT\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "KYXD84": {
+   "msg": "1536471994407592120",
+   "end": 1786478460,
+   "title": "No tips.",
+   "items": 9,
+   "ended": false
+  },
+  "VAJ5AZ": {
+   "msg": "1536472002150268958",
+   "end": 1786435200,
+   "title": "[DAY 5] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "BA0JUI": {
+   "msg": "1536472010765377556",
+   "end": 1786478400,
+   "title": "Equestria Forever",
+   "items": 54,
    "ended": false
   }
  },
