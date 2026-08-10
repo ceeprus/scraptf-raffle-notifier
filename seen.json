@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "4YUW91": {
-   "msg": "1533589115717681223",
-   "end": 1785792481,
-   "title": "very nice person",
-   "items": 148,
-   "ended": true
-  },
   "116ANR": {
    "msg": "1533596653171249212",
    "end": 1785794161,
@@ -6312,7 +6305,7 @@
    "end": 1786396861,
    "title": "Beep boop",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T4SUQX": {
    "msg": "1536471954750443661",
@@ -6514,6 +6507,27 @@
    "msg": "1536479638233030737",
    "end": 1786480141,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "TKIF95": {
+   "msg": "1536487028953317437",
+   "end": 1786483262,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0FI9IJ": {
+   "msg": "1536487035341111399",
+   "end": 1786439342,
+   "title": "Take my items #38",
+   "items": 7,
+   "ended": false
+  },
+  "UK5OJO": {
+   "msg": "1536487041028587661",
+   "end": 1786482481,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
    "ended": false
   }
