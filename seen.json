@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "25Q7AY": {
-   "msg": "1533488437233975416",
-   "end": 1785768362,
-   "title": "Daily Brass Beast #526",
-   "items": 1,
-   "ended": true
-  },
   "WHXOHN": {
    "msg": "1533507334389633228",
    "end": 1785772800,
@@ -5213,7 +5206,7 @@
    "end": 1786372981,
    "title": "We must have more...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ST4VKF": {
    "msg": "1536034026987720784",
