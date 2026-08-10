@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "SBMIQO": {
-   "msg": "1533370139645579416",
-   "end": 1785740221,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "88AN05": {
    "msg": "1533372689987928185",
    "end": 1785740941,
@@ -5171,7 +5164,7 @@
    "end": 1786344841,
    "title": "ma supports slugma chainers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UM5HL6": {
    "msg": "1535916968303919144",
