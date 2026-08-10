@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "2B0G40": {
-   "msg": "1533628127505289420",
-   "end": 1785801481,
-   "title": "NOISEMAKER MOMENT INCOMING",
-   "items": 7,
-   "ended": true
-  },
   "HBU690": {
    "msg": "1533633199631110145",
    "end": 1785803222,
@@ -5276,7 +5269,7 @@
    "end": 1786405381,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "07M1DU": {
    "msg": "1536162424044912704",
@@ -6738,6 +6731,41 @@
    "msg": "1536517302097416263",
    "end": 1786488961,
    "title": "#saveglorp !!!",
+   "items": 1,
+   "ended": false
+  },
+  "WYYTWA": {
+   "msg": "1536524132101918721",
+   "end": 1786492021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BQVGKL": {
+   "msg": "1536524140171890729",
+   "end": 1786419901,
+   "title": "too many people want to hold paws with me im so overwhelmed",
+   "items": 13,
+   "ended": false
+  },
+  "6ZMTGS": {
+   "msg": "1536524147964903455",
+   "end": 1786491782,
+   "title": "My Confession \ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "Y7LVSY": {
+   "msg": "1536524157972512789",
+   "end": 1786491421,
+   "title": "Power Scale #6 (Extra Strong)",
+   "items": 3,
+   "ended": false
+  },
+  "6EP96E": {
+   "msg": "1536524164196733009",
+   "end": 1786490941,
+   "title": "#saveglorp",
    "items": 1,
    "ended": false
   }
