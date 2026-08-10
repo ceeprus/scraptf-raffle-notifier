@@ -5122,7 +5122,7 @@
    "end": 1786325341,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "WTUJQJ": {
    "msg": "1535845320490090506",
@@ -5884,6 +5884,34 @@
    "msg": "1536177545509208094",
    "end": 1786408921,
    "title": "Give me music recommendations",
+   "items": 1,
+   "ended": false
+  },
+  "9H0HPI": {
+   "msg": "1536185042034757642",
+   "end": null,
+   "title": "whateverrrrrr",
+   "items": 5,
+   "ended": false
+  },
+  "E8H0JE": {
+   "msg": "1536185049836298322",
+   "end": 1786410061,
+   "title": "I am bad with titles #141",
+   "items": 1,
+   "ended": false
+  },
+  "76DBJR": {
+   "msg": "1536185058145345627",
+   "end": 1786410000,
+   "title": "Reminder to eat n' drink water if ye haven't yet #268",
+   "items": 5,
+   "ended": false
+  },
+  "E7NUX2": {
+   "msg": "1536185065728385114",
+   "end": 1786366800,
+   "title": "[DAY 4] Scrap tf HG",
    "items": 1,
    "ended": false
   }
