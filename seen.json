@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "WXUQBG": {
-   "msg": "1533613028627578890",
-   "end": 1785798000,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "ADNGFY": {
    "msg": "1533617075631689880",
    "end": 1785799501,
@@ -5290,21 +5283,21 @@
    "end": 1786401541,
    "title": "Slugmaxx",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "9YQ8O5": {
    "msg": "1536147317025939518",
    "end": 1786402142,
    "title": "found",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "BXZ5MG": {
    "msg": "1536154132715675698",
    "end": 1786402800,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D13A57": {
    "msg": "1536161790340112415",
@@ -6632,6 +6625,48 @@
   "43X7KZ": {
    "msg": "1536502180184465448",
    "end": 1786486141,
+   "title": "#saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "5HFWMW": {
+   "msg": "1536509698285637682",
+   "end": 1786488661,
+   "title": "#SAVEGLORP",
+   "items": 6,
+   "ended": false
+  },
+  "LMHFND": {
+   "msg": "1536509705155772568",
+   "end": 1786423501,
+   "title": "Getting Down To It #66",
+   "items": 1,
+   "ended": false
+  },
+  "EJFLPO": {
+   "msg": "1536509713041199165",
+   "end": 1786423441,
+   "title": "Getting Down To It #65",
+   "items": 1,
+   "ended": false
+  },
+  "QOOA0C": {
+   "msg": "1536509719181795510",
+   "end": 1786487881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RZE5J6": {
+   "msg": "1536509725863182416",
+   "end": 1786423021,
+   "title": "Getting Down To It #64",
+   "items": 1,
+   "ended": false
+  },
+  "U12QAB": {
+   "msg": "1536509731949256796",
+   "end": 1786487522,
    "title": "#saveglorp",
    "items": 1,
    "ended": false
