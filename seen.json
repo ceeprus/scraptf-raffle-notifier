@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "QZVUFP": {
-   "msg": "1533399189554204682",
-   "end": 1785747600,
-   "title": "#6",
-   "items": 1,
-   "ended": true
-  },
-  "IBCZ7E": {
-   "msg": "1533399196072415353",
-   "end": 1785747600,
-   "title": "#7",
-   "items": 1,
-   "ended": true
-  },
-  "W8OH7B": {
-   "msg": "1533399202170798092",
-   "end": 1785747361,
-   "title": "Won my first raffle love this community",
-   "items": 3,
-   "ended": true
-  },
   "M8FVR0": {
    "msg": "1533415440204697785",
    "end": 1785750902,
@@ -5206,7 +5185,7 @@
    "end": 1786351142,
    "title": "Day 28 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "61TIVP": {
    "msg": "1535935923081183305",
@@ -6010,6 +5989,13 @@
    "msg": "1536290746292904028",
    "end": 1786436701,
    "title": "Hi,I'm a new scamer",
+   "items": 3,
+   "ended": false
+  },
+  "G8DQER": {
+   "msg": "1536298306622193664",
+   "end": 1786437901,
+   "title": "Scrap Cookbook - Top 5 Quick Snacks",
    "items": 3,
    "ended": false
   }
