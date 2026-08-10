@@ -5675,7 +5675,7 @@
    "end": 1786390202,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OWXZ3C": {
    "msg": "1536283250245378058",
@@ -5689,7 +5689,7 @@
    "end": 1786390081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9JJ6PR": {
    "msg": "1536283264736690268",
