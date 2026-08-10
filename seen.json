@@ -5080,7 +5080,7 @@
    "end": 1786319941,
    "title": "Untitled raffle",
    "items": 60,
-   "ended": false
+   "ended": true
   },
   "SVEMSK": {
    "msg": "1535815115931254895",
@@ -5863,6 +5863,13 @@
    "msg": "1536161790340112415",
    "end": 1786405381,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "07M1DU": {
+   "msg": "1536162424044912704",
+   "end": 1786406400,
+   "title": "Slugma Supremacy",
    "items": 1,
    "ended": false
   }
