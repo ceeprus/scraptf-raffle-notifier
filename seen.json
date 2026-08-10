@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "M8FVR0": {
-   "msg": "1533415440204697785",
-   "end": 1785750902,
-   "title": "Reraffle for karma + a question for you",
-   "items": 1,
-   "ended": true
-  },
   "1A18PU": {
    "msg": "1533420470853046342",
    "end": 1785752102,
@@ -5213,7 +5206,7 @@
    "end": 1786356000,
    "title": "Gifted Boston Basher",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VET8RZ": {
    "msg": "1535958538512375820",
@@ -6018,6 +6011,13 @@
    "end": 1786438681,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "Q79WCP": {
+   "msg": "1536313432868126793",
+   "end": 1786441742,
+   "title": "the survey(\u043e\u043f\u0440\u043e\u0441)",
+   "items": 29,
    "ended": false
   }
  },
