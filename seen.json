@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "KXKFQG": {
-   "msg": "1533452015865434132",
-   "end": 1785759781,
-   "title": "Not daily raffle until something #10",
-   "items": 2,
-   "ended": true
-  },
   "WVGK3I": {
    "msg": "1533454486754820266",
    "end": 1785760681,
@@ -5185,14 +5178,14 @@
    "end": 1786364402,
    "title": "Weekly Noisemaker Raffle #2... or well... Until I run out of noise makers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "28MN7E": {
    "msg": "1535988742756634725",
    "end": 1786363921,
    "title": "Hmmmm...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5LDG3J": {
    "msg": "1535988749857591441",
@@ -5213,7 +5206,7 @@
    "end": 1786365001,
    "title": "Free Yeti",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NV9KDT": {
    "msg": "1536003826086055957",
@@ -5584,7 +5577,7 @@
    "end": 1786363742,
    "title": "free itmes",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "FOI46Z": {
    "msg": "1536177521824112803",
@@ -5961,6 +5954,27 @@
    "msg": "1536340413231923262",
    "end": 1786447741,
    "title": "WHAT THE HELL IS A SLUGMA?",
+   "items": 1,
+   "ended": false
+  },
+  "XKURV2": {
+   "msg": "1536351119314522175",
+   "end": 1786408200,
+   "title": "[Fallen Tributes/Night 4] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "1XCMKC": {
+   "msg": "1536351127430242365",
+   "end": 1786366741,
+   "title": "\ud83d\udc9aTake away my noisemakers#8\ud83d\udc9a",
+   "items": 50,
+   "ended": false
+  },
+  "E6J37K": {
+   "msg": "1536351133705179176",
+   "end": 1786449600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
