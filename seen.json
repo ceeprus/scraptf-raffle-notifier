@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "BZKQ7O": {
-   "msg": "1533358875103723560",
-   "end": 1785737882,
-   "title": "Getting Down To It #57",
-   "items": 1,
-   "ended": true
-  },
-  "NW3MUX": {
-   "msg": "1533365140706299965",
-   "end": 1785738661,
-   "title": "Weekly Noisemaker Raffle #1... or well... Until I run out of noise makers",
-   "items": 1,
-   "ended": true
-  },
   "SBMIQO": {
    "msg": "1533370139645579416",
    "end": 1785740221,
@@ -5143,21 +5129,21 @@
    "end": 1786342502,
    "title": "broke birthday raffle",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "ULON5Q": {
    "msg": "1535900344989524028",
    "end": 1786343401,
    "title": "27th aussie",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "A4V2GM": {
    "msg": "1535900351385829376",
    "end": 1786343342,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HNRFI3": {
    "msg": "1535905715531681862",
@@ -5941,6 +5927,20 @@
    "end": 1786382821,
    "title": "sans tf2",
    "items": 1,
+   "ended": false
+  },
+  "D8P2OO": {
+   "msg": "1536260539955806208",
+   "end": 1786429621,
+   "title": "Any recommendations for cosmetics?",
+   "items": 3,
+   "ended": false
+  },
+  "FFIAFF": {
+   "msg": "1536260550768468069",
+   "end": 1786428661,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1501 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 10,
    "ended": false
   }
  },
