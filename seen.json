@@ -5297,7 +5297,7 @@
    "end": 1786385401,
    "title": "Daily raffle #340",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VHAU82": {
    "msg": "1536078708610179104",
@@ -6116,6 +6116,20 @@
    "end": 1786426321,
    "title": "MGE",
    "items": 1,
+   "ended": false
+  },
+  "IJ4PFH": {
+   "msg": "1536436758810599515",
+   "end": 1786471141,
+   "title": "Salt",
+   "items": 1,
+   "ended": false
+  },
+  "7F55TX": {
+   "msg": "1536436766540824578",
+   "end": 1786470781,
+   "title": "SlugmaBau! SlugmaBau!",
+   "items": 6,
    "ended": false
   }
  },
