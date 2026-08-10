@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "899KXY": {
-   "msg": "1533457019997261924",
-   "end": 1785761281,
-   "title": "[\ud83e\udd89] OWL FACTS #29",
-   "items": 1,
-   "ended": true
-  },
-  "IE9KX8": {
-   "msg": "1533462030445707404",
-   "end": 1785762000,
-   "title": "low effort ragffffle",
-   "items": 1,
-   "ended": true
-  },
   "VACJ5P": {
    "msg": "1533464567945105669",
    "end": 1785762901,
@@ -5220,14 +5206,14 @@
    "end": 1786366862,
    "title": "Completed my first MvM tour, take these ugly hats.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "U41TJO": {
    "msg": "1536003844956487750",
    "end": 1786366800,
    "title": "Low effort raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TA4ETK": {
    "msg": "1536006574508740759",
@@ -5626,7 +5612,7 @@
    "end": 1786366800,
    "title": "[DAY 4] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MM38I9": {
    "msg": "1536189680305971210",
@@ -5962,12 +5948,19 @@
    "end": 1786366741,
    "title": "\ud83d\udc9aTake away my noisemakers#8\ud83d\udc9a",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "E6J37K": {
    "msg": "1536351133705179176",
    "end": 1786449600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "A8MA4Y": {
+   "msg": "1536358740389920808",
+   "end": 1786452661,
+   "title": "Daily raffle #341",
    "items": 1,
    "ended": false
   }
