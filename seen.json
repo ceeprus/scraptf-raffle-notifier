@@ -49,31 +49,10 @@
    "items": 12,
    "ended": false
   },
-  "VACJ5P": {
-   "msg": "1533464567945105669",
-   "end": 1785762901,
-   "title": "Buh Nana!",
-   "items": 2,
-   "ended": true
-  },
-  "PKO6IT": {
-   "msg": "1533464573955538996",
-   "end": 1785762841,
-   "title": "Kinda strange day.....",
-   "items": 1,
-   "ended": true
-  },
   "FYZU7Q": {
    "msg": "1533470831789740244",
    "end": 1785764042,
    "title": "#9",
-   "items": 1,
-   "ended": true
-  },
-  "1BUBQI": {
-   "msg": "1533470841415925870",
-   "end": 1785763861,
-   "title": "#8",
    "items": 1,
    "ended": true
   },
@@ -5192,14 +5171,14 @@
    "end": 1786367162,
    "title": "Raffle for my Birthday :3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q782FZ": {
    "msg": "1536003832855797821",
    "end": 1786366982,
    "title": "today",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KCB4C9": {
    "msg": "1536003839155511337",
@@ -5962,6 +5941,48 @@
    "end": 1786452661,
    "title": "Daily raffle #341",
    "items": 1,
+   "ended": false
+  },
+  "PCXZR4": {
+   "msg": "1536366222768078868",
+   "end": 1786454461,
+   "title": "My first anime movie???",
+   "items": 1,
+   "ended": false
+  },
+  "KBBOBA": {
+   "msg": "1536366232809250950",
+   "end": 1786382461,
+   "title": "Who enters this raffle will get some ref, i guess",
+   "items": 4,
+   "ended": false
+  },
+  "P2HFWP": {
+   "msg": "1536366240807911435",
+   "end": 1786454282,
+   "title": "Couldn't sell this robot part for months,",
+   "items": 6,
+   "ended": false
+  },
+  "4KKRDM": {
+   "msg": "1536366249397977129",
+   "end": 1786454101,
+   "title": "Question",
+   "items": 6,
+   "ended": false
+  },
+  "VW7HW8": {
+   "msg": "1536366258927439872",
+   "end": 1786453921,
+   "title": "ENDL3SS N01S3",
+   "items": 163,
+   "ended": false
+  },
+  "LWPCCS": {
+   "msg": "1536366267823431681",
+   "end": 1786453200,
+   "title": "8 for 1 Sunday but Monday",
+   "items": 8,
    "ended": false
   }
  },
