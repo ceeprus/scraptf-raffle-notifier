@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "JN92M2": {
-   "msg": "1533269484544987367",
-   "end": 1785716461,
-   "title": "A Refined a day keeps the doctor away! #30: The day before the \u00dcbergeddon..",
-   "items": 3,
-   "ended": true
-  },
   "90SZJK": {
    "msg": "1533274539289743431",
    "end": 1785717781,
@@ -5066,14 +5059,14 @@
    "end": 1786320901,
    "title": "coming back to tf2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L797V9": {
    "msg": "1535807551268978824",
    "end": 1786320542,
    "title": "\ud83d\udc1f",
    "items": 150,
-   "ended": false
+   "ended": true
   },
   "QFUO2G": {
    "msg": "1535807559338823684",
@@ -5871,6 +5864,20 @@
    "end": 1786406400,
    "title": "Slugma Supremacy",
    "items": 1,
+   "ended": false
+  },
+  "4UZ82T": {
+   "msg": "1536169922600894556",
+   "end": 1786335421,
+   "title": "who wants to hold paws with me AGAIN",
+   "items": 14,
+   "ended": false
+  },
+  "MTE7DC": {
+   "msg": "1536169929584283729",
+   "end": 1786363742,
+   "title": "free itmes",
+   "items": 5,
    "ended": false
   }
  },
