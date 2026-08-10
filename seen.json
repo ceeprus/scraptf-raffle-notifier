@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "88AN05": {
-   "msg": "1533372689987928185",
-   "end": 1785740941,
-   "title": "Day 21 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "XHFFO0": {
    "msg": "1533391624342605954",
    "end": 1785745380,
@@ -5157,7 +5150,7 @@
    "end": 1786345861,
    "title": "WON MY SECOND RAFFLE",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y5JA8S": {
    "msg": "1535913234245361747",
@@ -5185,14 +5178,14 @@
    "end": 1786347000,
    "title": "Day 61 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T731RC": {
    "msg": "1535916987732070431",
    "end": 1786347000,
    "title": "Day 56 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YZNES8": {
    "msg": "1535928339477307443",
@@ -5927,6 +5920,27 @@
    "end": 1786428661,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1501 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 10,
+   "ended": false
+  },
+  "UXD9LP": {
+   "msg": "1536275661835214859",
+   "end": 1786389662,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CQCHS3": {
+   "msg": "1536275668885704714",
+   "end": 1786432321,
+   "title": "Hii :3 This is my sixth raffle, wow",
+   "items": 2,
+   "ended": false
+  },
+  "BDO4D5": {
+   "msg": "1536275675244400693",
+   "end": 1786431781,
+   "title": "Hehe",
+   "items": 1,
    "ended": false
   }
  },
