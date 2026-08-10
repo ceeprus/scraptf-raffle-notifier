@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "22EAHT": {
-   "msg": "1533321126640484544",
-   "end": 1785728341,
-   "title": "Untitled raffle",
-   "items": 45,
-   "ended": true
-  },
   "QUY0AR": {
    "msg": "1533326137697112296",
    "end": 1785729600,
@@ -5913,6 +5906,13 @@
    "end": 1786374781,
    "title": "Raffling Scrap Till I'm Out #999 ( tomorrow)",
    "items": 1,
+   "ended": false
+  },
+  "PN83GE": {
+   "msg": "1536218686048968744",
+   "end": 1786419482,
+   "title": "After 10 years, I went back to playing TF2",
+   "items": 8,
    "ended": false
   }
  },
