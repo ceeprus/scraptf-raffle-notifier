@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "3BKB5C": {
-   "msg": "1533430565737599017",
-   "end": 1785755101,
-   "title": "That was...weirdly slow.",
-   "items": 1,
-   "ended": true
-  },
-  "HHIGIZ": {
-   "msg": "1533436902194155561",
-   "end": 1785755761,
-   "title": "Welcome myself back to scrap.tf/ Zatoishi raffled: 0 (+1.5)",
-   "items": 3,
-   "ended": true
-  },
   "1BGALE": {
    "msg": "1533439382441427066",
    "end": 1785756722,
@@ -5185,7 +5171,7 @@
    "end": 1786359782,
    "title": "200 tips given out",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "PUZHL8": {
    "msg": "1535973645351129190",
@@ -5962,6 +5948,34 @@
    "end": 1786441742,
    "title": "the survey(\u043e\u043f\u0440\u043e\u0441)",
    "items": 29,
+   "ended": false
+  },
+  "66IPP9": {
+   "msg": "1536336042490335403",
+   "end": 1786446841,
+   "title": "123",
+   "items": 28,
+   "ended": false
+  },
+  "FIOJEE": {
+   "msg": "1536336049859469323",
+   "end": 1786374481,
+   "title": "raffle for luck raffling",
+   "items": 2,
+   "ended": false
+  },
+  "X32QVG": {
+   "msg": "1536336056830394440",
+   "end": 1786446122,
+   "title": "Grabli304's raffle\u2503Day 162",
+   "items": 2,
+   "ended": false
+  },
+  "IZ6K5F": {
+   "msg": "1536336064485261472",
+   "end": 1786446000,
+   "title": "Left her hanging?! Unbelievable!",
+   "items": 1,
    "ended": false
   }
  },
