@@ -5171,7 +5171,7 @@
    "end": 1786347121,
    "title": "more slug fun facts.",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "YH5DF0": {
    "msg": "1535916981843263619",
@@ -5794,7 +5794,7 @@
    "end": 1786348261,
    "title": "Dont spend it all in 1 place",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MH5HQD": {
    "msg": "1536200152270774433",
@@ -5940,6 +5940,69 @@
    "msg": "1536275675244400693",
    "end": 1786431781,
    "title": "Hehe",
+   "items": 1,
+   "ended": false
+  },
+  "DBWCVW": {
+   "msg": "1536283215361216523",
+   "end": 1786434362,
+   "title": "#SlugmaSweep",
+   "items": 4,
+   "ended": false
+  },
+  "GJMN3J": {
+   "msg": "1536283222780940288",
+   "end": 1786369262,
+   "title": "Raffle",
+   "items": 2,
+   "ended": false
+  },
+  "CNCKJB": {
+   "msg": "1536283229496287312",
+   "end": 1786433999,
+   "title": "Megaraffle?",
+   "items": 1,
+   "ended": false
+  },
+  "KLYJNK": {
+   "msg": "1536283236051849236",
+   "end": 1786433641,
+   "title": "I beat SCP:CB",
+   "items": 1,
+   "ended": false
+  },
+  "I10PN8": {
+   "msg": "1536283242829979698",
+   "end": 1786390202,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "OWXZ3C": {
+   "msg": "1536283250245378058",
+   "end": 1786433400,
+   "title": "Day 62 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "LM5W3B": {
+   "msg": "1536283257329426527",
+   "end": 1786390081,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9JJ6PR": {
+   "msg": "1536283264736690268",
+   "end": 1786389962,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FQ97M0": {
+   "msg": "1536283271896506500",
+   "end": 1786389781,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
