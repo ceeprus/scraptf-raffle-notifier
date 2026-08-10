@@ -49,34 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "1A18PU": {
-   "msg": "1533420470853046342",
-   "end": 1785752102,
-   "title": "Weapon of the Prime Soul #10-13",
-   "items": 3,
-   "ended": true
-  },
-  "QXKWD6": {
-   "msg": "1533420477270331503",
-   "end": 1785752042,
-   "title": "Fresh noizers",
-   "items": 66,
-   "ended": true
-  },
-  "QRFJOZ": {
-   "msg": "1533422998336311458",
-   "end": 1785753001,
-   "title": "Take it!",
-   "items": 11,
-   "ended": true
-  },
-  "OI49S0": {
-   "msg": "1533423005030682644",
-   "end": 1785752821,
-   "title": "Grabli304's raffle\u2503Day 154",
-   "items": 2,
-   "ended": true
-  },
   "3BKB5C": {
    "msg": "1533430565737599017",
    "end": 1785755101,
@@ -579,13 +551,6 @@
    "end": 1785834481,
    "title": "the first taunt",
    "items": 3,
-   "ended": true
-  },
-  "YHEKNE": {
-   "msg": "1533767883912515644",
-   "end": 1785752162,
-   "title": "Just take this",
-   "items": 6,
    "ended": true
   },
   "2UO11Q": {
@@ -5220,7 +5185,7 @@
    "end": 1786357441,
    "title": "Grabli304's raffle\u2503Day 161",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "EIEW1I": {
    "msg": "1535965831241011301",
