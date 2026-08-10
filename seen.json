@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "Q38871": {
-   "msg": "1533561436419395795",
-   "end": 1785786121,
-   "title": "3 months on scrap.tf",
-   "items": 1,
-   "ended": true
-  },
-  "RISQR8": {
-   "msg": "1533566463703650445",
-   "end": 1785787200,
-   "title": "A Refined a day keeps the doctor away! #26",
-   "items": 1,
-   "ended": true
-  },
   "9N5O37": {
    "msg": "1533571489276887161",
    "end": 1785788102,
@@ -298,13 +284,6 @@
    "msg": "1533738987070554146",
    "end": 1785827882,
    "title": "Day 22 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
-  "VYHNR1": {
-   "msg": "1533741467430944972",
-   "end": 1785785701,
-   "title": "Raffling Scrap Till I'm Out #992 (Super late raffle)",
    "items": 1,
    "ended": true
   },
@@ -5304,14 +5283,14 @@
    "end": 1786390441,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SSPQKP": {
    "msg": "1536107135853662331",
    "end": 1786392000,
    "title": "Do you like noise?",
    "items": 24,
-   "ended": false
+   "ended": true
   },
   "BTYNJ5": {
    "msg": "1536109534429454346",
@@ -6305,12 +6284,54 @@
    "end": 1786391641,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H6O1B5": {
    "msg": "1536456245169365075",
    "end": 1786474441,
    "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "TMHG92": {
+   "msg": "1536464420937404476",
+   "end": 1786477622,
+   "title": "#slugmantors I haven't really been keeping up but eh",
+   "items": 5,
+   "ended": false
+  },
+  "3LSZYX": {
+   "msg": "1536464428810379334",
+   "end": 1786434001,
+   "title": "salty noise maker \ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "H9ZFH2": {
+   "msg": "1536464434942312468",
+   "end": 1786476961,
+   "title": "#saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "W2OOUQ": {
+   "msg": "1536464441179119706",
+   "end": 1786476781,
+   "title": "can you believe salt ? \ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "MDNA58": {
+   "msg": "1536464447722364938",
+   "end": 1786476601,
+   "title": "bean",
+   "items": 1,
+   "ended": false
+  },
+  "7ZMZPY": {
+   "msg": "1536464454840229908",
+   "end": 1786476482,
+   "title": "I LOVE SALT!!! \ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
    "ended": false
   }
