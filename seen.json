@@ -49,34 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "7CVTES": {
-   "msg": "1533309759011426414",
-   "end": 1785726182,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "IYOIS2": {
-   "msg": "1533312304588783808",
-   "end": 1785726721,
-   "title": "Caf\u00e9 Crit-A-Coffee #1746",
-   "items": 13,
-   "ended": true
-  },
-  "RDYO8Q": {
-   "msg": "1533312311505195227",
-   "end": 1785726482,
-   "title": "Getting Down To It #56",
-   "items": 1,
-   "ended": true
-  },
-  "Q5NPMF": {
-   "msg": "1533312317666627625",
-   "end": 1785726361,
-   "title": "Getting Down To It #55",
-   "items": 1,
-   "ended": true
-  },
   "22EAHT": {
    "msg": "1533321126640484544",
    "end": 1785728341,
@@ -5129,14 +5101,14 @@
    "end": 1786331941,
    "title": "A Jolly Good Time",
    "items": 60,
-   "ended": false
+   "ended": true
   },
   "QXMPX8": {
    "msg": "1535852865984274472",
    "end": 1786331341,
    "title": "Jl4oCZcyB0aGlzIHN0cmFuZ2UgbWlzY29uY2VwdGlvbiB0aGF0IGlmIHlvdSB3YW50IHRvIGtpbGwg c29tZW9uZSB0aGVuIHlvdeKAmXJlIGVpdGhlciBzaWNrIGluIHRoZSBoZWFkIG9yIHlvdSBoYXZLIG FuZ2VyIG1hbmFnZW1lbnQgaXNzdWVzLiBCdXQsIGl040CZcyB2ZXJ5IGFwcGFyZW50IHRoYXQgSSBK",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "4QBUXW": {
    "msg": "1535867945257795695",
@@ -5934,6 +5906,13 @@
    "end": 1786415581,
    "title": "We (Yes, WE) need a Slugma chain emote NOW! P.3",
    "items": 8,
+   "ended": false
+  },
+  "2R5SW2": {
+   "msg": "1536215219196399647",
+   "end": 1786374781,
+   "title": "Raffling Scrap Till I'm Out #999 ( tomorrow)",
+   "items": 1,
    "ended": false
   }
  },
