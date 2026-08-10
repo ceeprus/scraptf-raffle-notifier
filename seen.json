@@ -294,13 +294,6 @@
    "items": 2,
    "ended": true
   },
-  "BHRY84": {
-   "msg": "1533520017990357014",
-   "end": 1785732662,
-   "title": "Tr4d1ng",
-   "items": 3,
-   "ended": true
-  },
   "RZXN3U": {
    "msg": "1533522448170094602",
    "end": 1785776942,
@@ -5087,14 +5080,14 @@
    "end": 1786337521,
    "title": "Day 3 of asking for Slugma Chain emoticon",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "1VKHUZ": {
    "msg": "1535875543445020733",
    "end": 1786337341,
    "title": "We are the Slugma Chain Emoji-lings! Please feed us! #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZDSUGP": {
    "msg": "1535883036376432670",
@@ -5584,7 +5577,7 @@
    "end": 1786338000,
    "title": "[Fallen Tributes/Night 3] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VIW77Q": {
    "msg": "1536078702394347550",
@@ -5899,6 +5892,27 @@
    "end": 1786337581,
    "title": "20% Bau! Bau! Slugma",
    "items": 20,
+   "ended": true
+  },
+  "6S5JEQ": {
+   "msg": "1536237931839094925",
+   "end": 1786340522,
+   "title": "Infinite raffles glitch",
+   "items": 3,
+   "ended": false
+  },
+  "G23012": {
+   "msg": "1536237940055998554",
+   "end": 1786423261,
+   "title": "Day 4 of asking for Slugma Chain emoticon",
+   "items": 10,
+   "ended": false
+  },
+  "FAJD1C": {
+   "msg": "1536237946716422234",
+   "end": 1786422841,
+   "title": "Unboxing leftovers",
+   "items": 46,
    "ended": false
   }
  },
