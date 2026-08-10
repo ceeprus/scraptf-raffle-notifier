@@ -5619,7 +5619,7 @@
    "end": 1786374781,
    "title": "Raffling Scrap Till I'm Out #999 ( tomorrow)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PN83GE": {
    "msg": "1536218686048968744",
@@ -5857,7 +5857,7 @@
    "end": 1786374481,
    "title": "raffle for luck raffling",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "X32QVG": {
    "msg": "1536336056830394440",
@@ -5969,6 +5969,41 @@
    "end": 1786414861,
    "title": "MvM Shenanigans",
    "items": 7,
+   "ended": false
+  },
+  "E1PCZQ": {
+   "msg": "1536395978326941696",
+   "end": 1786460581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ADHLW4": {
+   "msg": "1536395985146880050",
+   "end": 1786460521,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "ZVQPZ5": {
+   "msg": "1536395991257972898",
+   "end": 1786460401,
+   "title": "We're back from vacation!",
+   "items": 1,
+   "ended": false
+  },
+  "5IG1RV": {
+   "msg": "1536395998467727480",
+   "end": null,
+   "title": "\ud83d\udc9aTake away my noisemakers#9\ud83d\udc9a",
+   "items": 50,
+   "ended": false
+  },
+  "BJQEW1": {
+   "msg": "1536396005447180359",
+   "end": 1786460042,
+   "title": "SlugmaBau! SlugmaBau!",
+   "items": 17,
    "ended": false
   }
  },
