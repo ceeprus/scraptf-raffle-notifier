@@ -287,13 +287,6 @@
    "items": 50,
    "ended": true
   },
-  "7WVYD4": {
-   "msg": "1533712416666288168",
-   "end": 1785778622,
-   "title": "Untitled raffle",
-   "items": 18,
-   "ended": true
-  },
   "XL7CAB": {
    "msg": "1533714946792095804",
    "end": 1785822722,
@@ -5311,7 +5304,7 @@
    "end": 1786384621,
    "title": "slugma chain raffle #2",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TA4RMA": {
    "msg": "1536086914770407545",
@@ -6108,6 +6101,20 @@
    "msg": "1536426656749854771",
    "end": 1786469400,
    "title": "#SlugmaSweep",
+   "items": 1,
+   "ended": false
+  },
+  "OCATE0": {
+   "msg": "1536434223370469406",
+   "end": 1786470721,
+   "title": "Scrap.tf Birthdays - 10 August",
+   "items": 5,
+   "ended": false
+  },
+  "ANZTFS": {
+   "msg": "1536434235190022175",
+   "end": 1786426321,
+   "title": "MGE",
    "items": 1,
    "ended": false
   }
