@@ -5206,7 +5206,7 @@
    "end": 1786352882,
    "title": "Daily Brass Beast #533",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EMDH3T": {
    "msg": "1535951007849386035",
@@ -5605,7 +5605,7 @@
    "end": 1786352522,
    "title": "Hi lol",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "7AJ1IC": {
    "msg": "1536124652512870431",
@@ -5997,6 +5997,27 @@
    "end": 1786437901,
    "title": "Scrap Cookbook - Top 5 Quick Snacks",
    "items": 3,
+   "ended": false
+  },
+  "81K3RO": {
+   "msg": "1536305833632337951",
+   "end": 1786438861,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TO1AB4": {
+   "msg": "1536305841097941012",
+   "end": 1786438801,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "96YH3W": {
+   "msg": "1536305847808827453",
+   "end": 1786438681,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
