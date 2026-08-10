@@ -5325,7 +5325,7 @@
    "end": 1786386421,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "J3093W": {
    "msg": "1536089521207124110",
@@ -6130,6 +6130,27 @@
    "end": 1786470781,
    "title": "SlugmaBau! SlugmaBau!",
    "items": 6,
+   "ended": false
+  },
+  "3JJH8N": {
+   "msg": "1536441754562076782",
+   "end": 1786472581,
+   "title": "Its been a while since Ive been here.",
+   "items": 1,
+   "ended": false
+  },
+  "7B1I5F": {
+   "msg": "1536441761344389190",
+   "end": 1786471862,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "OE5GXP": {
+   "msg": "1536441769527353406",
+   "end": 1786387201,
+   "title": "\ud83d\udc9aTake away my noisemakers#10\ud83d\udc9a",
+   "items": 50,
    "ended": false
   }
  },
