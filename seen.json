@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "WHXOHN": {
-   "msg": "1533507334389633228",
-   "end": 1785772800,
-   "title": "Scrap.tf Birthdays - 2 August",
-   "items": 4,
-   "ended": true
-  },
   "6RXRA0": {
    "msg": "1533512408100900965",
    "end": 1785773881,
@@ -5234,7 +5227,7 @@
    "end": 1786376762,
    "title": "Breaking scrap.tf rules",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YZS6EX": {
    "msg": "1536041628714803211",
@@ -5255,14 +5248,14 @@
    "end": 1786377661,
    "title": "Scrappy",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "2QQ3L3": {
    "msg": "1536047344879931502",
    "end": 1786377600,
    "title": "Scrap.tf Birthdays - 9 August",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "YKSN5L": {
    "msg": "1536049134577123450",
