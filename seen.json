@@ -5094,28 +5094,28 @@
    "end": 1786330081,
    "title": "I Drew Ts 14",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MMZAMG": {
    "msg": "1535845327934857277",
    "end": 1786329600,
    "title": "Swordpoint Diplomacy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5XHLCL": {
    "msg": "1535848111040237610",
    "end": 1786330861,
    "title": "Caf\u00e9 Crit-A-Coffee #1753",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "YJOWK6": {
    "msg": "1535848117415583775",
    "end": 1786330861,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "D7M9EF": {
    "msg": "1535852845457350846",
@@ -5514,14 +5514,14 @@
    "end": 1786330262,
    "title": "Prendo el velador (POM) cortocircuito",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J6LYLP": {
    "msg": "1536026183161090049",
    "end": 1786329962,
    "title": "76k-77k entered",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P7YPKU": {
    "msg": "1536026189339172945",
@@ -5913,6 +5913,27 @@
    "end": 1786414200,
    "title": "Decorum",
    "items": 1,
+   "ended": false
+  },
+  "F6M4C7": {
+   "msg": "1536207736327372890",
+   "end": 1786416422,
+   "title": "the     chains!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! slugma emoji",
+   "items": 1,
+   "ended": false
+  },
+  "L2NCZB": {
+   "msg": "1536207743520604261",
+   "end": 1786416301,
+   "title": "Yo Im back",
+   "items": 1,
+   "ended": false
+  },
+  "24Y94Z": {
+   "msg": "1536207751666212976",
+   "end": 1786415581,
+   "title": "We (Yes, WE) need a Slugma chain emote NOW! P.3",
+   "items": 8,
    "ended": false
   }
  },
