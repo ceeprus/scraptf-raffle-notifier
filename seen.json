@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "52TI4I": {
-   "msg": "1533556375727247571",
-   "end": 1785784502,
-   "title": "Hmmm",
-   "items": 1,
-   "ended": true
-  },
-  "MIZNQD": {
-   "msg": "1533558881182155063",
-   "end": 1785784981,
-   "title": "Im back\ud83e\udd81",
-   "items": 1,
-   "ended": true
-  },
   "Q38871": {
    "msg": "1533561436419395795",
    "end": 1785786121,
@@ -5640,7 +5626,7 @@
    "end": 1786389662,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CQCHS3": {
    "msg": "1536275668885704714",
@@ -5710,14 +5696,14 @@
    "end": 1786389962,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FQ97M0": {
    "msg": "1536283271896506500",
    "end": 1786389781,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "55V9LX": {
    "msg": "1536288475597250580",
@@ -6171,6 +6157,160 @@
    "msg": "1536449394457706596",
    "end": 1786472641,
    "title": "Gameplay Guide",
+   "items": 1,
+   "ended": false
+  },
+  "3XZS1A": {
+   "msg": "1536456102328148263",
+   "end": 1786476241,
+   "title": "#saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "ZNQNW2": {
+   "msg": "1536456111522324582",
+   "end": 1786476181,
+   "title": "I LOVE SALT!! \ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "NMBCC0": {
+   "msg": "1536456117830418434",
+   "end": 1786476121,
+   "title": "Seems like an sluggy war is about to begin.\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "K4S31M": {
+   "msg": "1536456123950039230",
+   "end": 1786476061,
+   "title": "I Challenge Whoever Wins This to Get a Thousand Kills as Gun Spy",
+   "items": 1,
+   "ended": false
+  },
+  "3KFLBO": {
+   "msg": "1536456130627239986",
+   "end": 1786476001,
+   "title": "\ud83e\uddc2Thinking...\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "CCK1TR": {
+   "msg": "1536456137749299301",
+   "end": 1786475941,
+   "title": "I LOVE SALT! \ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "BEI4L9": {
+   "msg": "1536456143470329966",
+   "end": 1786475881,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "GDXLA8": {
+   "msg": "1536456149493358742",
+   "end": 1786475821,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "7FZDN7": {
+   "msg": "1536456156451442698",
+   "end": 1786475762,
+   "title": "okay. free tips",
+   "items": 4,
+   "ended": false
+  },
+  "IZ9B90": {
+   "msg": "1536456161845583954",
+   "end": 1786475521,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WAYOM7": {
+   "msg": "1536456170007437374",
+   "end": 1786475341,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "7M9ILF": {
+   "msg": "1536456178043719843",
+   "end": 1786475221,
+   "title": "I have no strong feelings about this one way or the other.",
+   "items": 5,
+   "ended": false
+  },
+  "1K32RM": {
+   "msg": "1536456184612130836",
+   "end": 1786475161,
+   "title": "\ud83e\uddc2Sodium Chloride\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "T4MBEL": {
+   "msg": "1536456190614315158",
+   "end": 1786475041,
+   "title": "\ud83e\uddc2Salty raffle\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "LOK5MA": {
+   "msg": "1536456197312356443",
+   "end": 1786474922,
+   "title": "\ud83e\uddc2Slugma Glorp Treats\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "OR29NQ": {
+   "msg": "1536456205147439134",
+   "end": 1786474861,
+   "title": "\ud83e\uddc2Slugma Glorp Treats\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "APW51J": {
+   "msg": "1536456211287769168",
+   "end": 1786474741,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "32SJOQ": {
+   "msg": "1536456217810042920",
+   "end": 1786395482,
+   "title": "Raffle\ud83e\uddc2",
+   "items": 2,
+   "ended": false
+  },
+  "J08UI9": {
+   "msg": "1536456225473040395",
+   "end": 1786431482,
+   "title": "My burden is noise.",
+   "items": 10,
+   "ended": false
+  },
+  "GQMWYY": {
+   "msg": "1536456232947421324",
+   "end": 1786474561,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "4829MH": {
+   "msg": "1536456239507185695",
+   "end": 1786391641,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "H6O1B5": {
+   "msg": "1536456245169365075",
+   "end": 1786474441,
+   "title": "\ud83e\uddc2",
    "items": 1,
    "ended": false
   }
