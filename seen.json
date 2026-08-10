@@ -56,13 +56,6 @@
    "items": 3,
    "ended": true
   },
-  "AULK9C": {
-   "msg": "1533391631917776896",
-   "end": 1785745141,
-   "title": "Birthday Raffle",
-   "items": 1,
-   "ended": true
-  },
   "QZVUFP": {
    "msg": "1533399189554204682",
    "end": 1785747600,
@@ -5199,14 +5192,14 @@
    "end": 1786350062,
    "title": "Unboxing failure.",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "F38O6N": {
    "msg": "1535928361094742077",
    "end": 1786348862,
    "title": "\u2728\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday \u2728\ufe0f#1500\u2728\ufe0f \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728\ufe0f",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "TEQFEU": {
    "msg": "1535935909055168533",
@@ -6004,6 +5997,20 @@
    "end": 1786389781,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "55V9LX": {
+   "msg": "1536288475597250580",
+   "end": 1786435381,
+   "title": "Day 29 Of \"Bad\" Weapon",
+   "items": 1,
+   "ended": false
+  },
+  "0AT9JR": {
+   "msg": "1536288482073382913",
+   "end": 1786435082,
+   "title": "Noise Maker raffle",
+   "items": 2,
    "ended": false
   }
  },
