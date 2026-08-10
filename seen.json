@@ -5115,28 +5115,28 @@
    "end": 1786340341,
    "title": "Peanut Butter Jelly Time!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I0X3LS": {
    "msg": "1535885708190027866",
    "end": 1786339981,
    "title": "#SlugmaSweep",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "CNTIZ3": {
    "msg": "1535890610857185290",
    "end": 1786341181,
    "title": "#24",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QKN5G2": {
    "msg": "1535890617337385071",
    "end": 1786340821,
    "title": "She Is Saving The Day!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V0AUK1": {
    "msg": "1535898151502749728",
@@ -5899,7 +5899,7 @@
    "end": 1786340522,
    "title": "Infinite raffles glitch",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "G23012": {
    "msg": "1536237940055998554",
@@ -5927,6 +5927,20 @@
    "end": 1786424400,
    "title": "Birthday Raffle!",
    "items": 10,
+   "ended": false
+  },
+  "7QF3ND": {
+   "msg": "1536253013658697748",
+   "end": 1786427581,
+   "title": "do you want to know a secret?",
+   "items": 1,
+   "ended": false
+  },
+  "9YOC44": {
+   "msg": "1536253020554403860",
+   "end": 1786382821,
+   "title": "sans tf2",
+   "items": 1,
    "ended": false
   }
  },
