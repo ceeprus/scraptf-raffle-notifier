@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "WVGK3I": {
-   "msg": "1533454486754820266",
-   "end": 1785760681,
-   "title": "Daily raffle #323",
-   "items": 1,
-   "ended": true
-  },
   "899KXY": {
    "msg": "1533457019997261924",
    "end": 1785761281,
@@ -5199,7 +5192,7 @@
    "end": 1786365841,
    "title": "(Not) A Devil",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6QHV2A": {
    "msg": "1535996322295971860",
@@ -5598,7 +5591,7 @@
    "end": 1786365721,
    "title": "Inside of a notepad.",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "5HC40Y": {
    "msg": "1536177545509208094",
