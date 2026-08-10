@@ -56,13 +56,6 @@
    "items": 1,
    "ended": true
   },
-  "69ID1L": {
-   "msg": "1533430574574862546",
-   "end": 1785754861,
-   "title": "I'm bored",
-   "items": 3,
-   "ended": true
-  },
   "HHIGIZ": {
    "msg": "1533436902194155561",
    "end": 1785755761,
@@ -5206,14 +5199,14 @@
    "end": 1786359600,
    "title": "Cloud cloud go away, come again another day!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8MH6OB": {
    "msg": "1535973660035252246",
    "end": 1786359542,
    "title": "music time ! !",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UFVUVU": {
    "msg": "1535981232096026715",
