@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "90SZJK": {
-   "msg": "1533274539289743431",
-   "end": 1785717781,
-   "title": "8 Years on Scrap.tf",
-   "items": 2,
-   "ended": true
-  },
-  "GFBOEK": {
-   "msg": "1533274545320890428",
-   "end": 1785717301,
-   "title": "[SIGN UP HERE] for Scrap tf Hunger games reboot",
-   "items": 2,
-   "ended": true
-  },
-  "FI9UTX": {
-   "msg": "1533279558126538803",
-   "end": 1785718800,
-   "title": "Reminder to eat n' drink water if ye haven't yet #262",
-   "items": 5,
-   "ended": true
-  },
   "Z1H5GK": {
    "msg": "1533290906512523394",
    "end": 1785721682,
@@ -5087,7 +5066,7 @@
    "end": 1786323061,
    "title": "I'M BACK!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GWWFOQ": {
    "msg": "1535815132616204449",
@@ -5101,14 +5080,14 @@
    "end": 1786322281,
    "title": "Haven't created a raffle in a while",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WWR0T8": {
    "msg": "1535815148248375356",
    "end": 1786321981,
    "title": "Graveyard Raffle (#9)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "LZSUX2": {
    "msg": "1535822636087771136",
@@ -5122,7 +5101,7 @@
    "end": 1786323600,
    "title": "Reminder to eat n' drink water if ye haven't yet #267",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "9KM7K4": {
    "msg": "1535830225387257967",
@@ -5878,6 +5857,34 @@
    "end": 1786363742,
    "title": "free itmes",
    "items": 5,
+   "ended": false
+  },
+  "FOI46Z": {
+   "msg": "1536177521824112803",
+   "end": 1786409521,
+   "title": "My fav users (in one raffle!!!!) + More",
+   "items": 1,
+   "ended": false
+  },
+  "IL9WKD": {
+   "msg": "1536177530728611859",
+   "end": 1786409161,
+   "title": "Late Marvelous Sunday",
+   "items": 1,
+   "ended": false
+  },
+  "1CPE8Q": {
+   "msg": "1536177538915766302",
+   "end": 1786365721,
+   "title": "Inside of a notepad.",
+   "items": 5,
+   "ended": false
+  },
+  "5HC40Y": {
+   "msg": "1536177545509208094",
+   "end": 1786408921,
+   "title": "Give me music recommendations",
+   "items": 1,
    "ended": false
   }
  },
