@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "116ANR": {
-   "msg": "1533596653171249212",
-   "end": 1785794161,
-   "title": "Daily raffle until TF2 gets a major update #579",
-   "items": 3,
-   "ended": true
-  },
   "CN4SZQ": {
    "msg": "1533599185671295047",
    "end": 1785795181,
@@ -5290,21 +5283,21 @@
    "end": 1786398841,
    "title": "Equestria 4ever",
    "items": 48,
-   "ended": false
+   "ended": true
   },
   "11NHNX": {
    "msg": "1536132239375597678",
    "end": 1786398301,
    "title": "Power Scale #5",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "459GOD": {
    "msg": "1536132246795321426",
    "end": 1786397941,
    "title": "Daily Brass Beast #534",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FKB8QL": {
    "msg": "1536146399266218055",
@@ -6529,6 +6522,55 @@
    "end": 1786482481,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
+   "ended": false
+  },
+  "NQFQAB": {
+   "msg": "1536494619188142140",
+   "end": 1786484762,
+   "title": "\ud83e\uddc2 Facts:",
+   "items": 1,
+   "ended": false
+  },
+  "VKUX4G": {
+   "msg": "1536494628663205978",
+   "end": 1786483981,
+   "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
+   "items": 5,
+   "ended": false
+  },
+  "VKH6HC": {
+   "msg": "1536494634744676463",
+   "end": 1786483921,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "GORVY6": {
+   "msg": "1536494641812217989",
+   "end": 1786483801,
+   "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
+   "items": 5,
+   "ended": false
+  },
+  "PXXV4W": {
+   "msg": "1536494648749465764",
+   "end": 1786483561,
+   "title": "Loathing",
+   "items": 2,
+   "ended": false
+  },
+  "AXVISP": {
+   "msg": "1536494657351975022",
+   "end": 1786483561,
+   "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
+   "items": 5,
+   "ended": false
+  },
+  "3T37P2": {
+   "msg": "1536494665283411998",
+   "end": 1786483381,
+   "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
+   "items": 5,
    "ended": false
   }
  },
