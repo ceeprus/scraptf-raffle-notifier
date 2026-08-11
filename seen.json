@@ -5360,14 +5360,14 @@
    "end": 1786423261,
    "title": "Day 4 of asking for Slugma Chain emoticon",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "FAJD1C": {
    "msg": "1536237946716422234",
    "end": 1786422841,
    "title": "Unboxing leftovers",
    "items": 46,
-   "ended": false
+   "ended": true
   },
   "J8V7NH": {
    "msg": "1536242017078878259",
@@ -5780,7 +5780,7 @@
    "end": 1786422781,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J81K6Q": {
    "msg": "1536419172605628416",
@@ -6522,14 +6522,14 @@
    "end": 1786423501,
    "title": "Getting Down To It #66",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EJFLPO": {
    "msg": "1536509713041199165",
    "end": 1786423441,
    "title": "Getting Down To It #65",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QOOA0C": {
    "msg": "1536509719181795510",
@@ -6543,7 +6543,7 @@
    "end": 1786423021,
    "title": "Getting Down To It #64",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U12QAB": {
    "msg": "1536509731949256796",
@@ -6913,6 +6913,41 @@
    "msg": "1536592764089929779",
    "end": 1786506842,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XYMT6B": {
+   "msg": "1536597015562158150",
+   "end": 1786509722,
+   "title": "[MEGA} Graveyard Raffle (#10)",
+   "items": 28,
+   "ended": false
+  },
+  "LUJUFU": {
+   "msg": "1536597023380348949",
+   "end": 1786509661,
+   "title": "Here's some yummy salt!",
+   "items": 3,
+   "ended": false
+  },
+  "U75RAO": {
+   "msg": "1536597030221254696",
+   "end": 1786509001,
+   "title": "Raffle Log #96",
+   "items": 1,
+   "ended": false
+  },
+  "EQZLD2": {
+   "msg": "1536597036831481977",
+   "end": 1786508821,
+   "title": "Raffle Log #95",
+   "items": 1,
+   "ended": false
+  },
+  "RY3XDK": {
+   "msg": "1536597043446022214",
+   "end": 1786508701,
+   "title": "Raffle Log #94",
    "items": 1,
    "ended": false
   }
