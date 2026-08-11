@@ -5423,7 +5423,7 @@
    "end": 1786467361,
    "title": "BIRD ALERT",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "6SW1PH": {
    "msg": "1536419143207751781",
@@ -5500,14 +5500,14 @@
    "end": 1786467600,
    "title": "Daily raffle until TF2 gets a major update #587",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7IBDTH": {
    "msg": "1536424508154454127",
    "end": 1786467541,
    "title": "Only bread deserves to live \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "77VIDJ": {
    "msg": "1536426656749854771",
@@ -7306,6 +7306,20 @@
    "end": 1786550522,
    "title": "Scrap.tf Birthdays - 11 August",
    "items": 2,
+   "ended": false
+  },
+  "NJCN0U": {
+   "msg": "1536781500383756439",
+   "end": 1786553882,
+   "title": "My First Raffle !!!",
+   "items": 1,
+   "ended": false
+  },
+  "3HBRQS": {
+   "msg": "1536781507228864603",
+   "end": 1786553702,
+   "title": "Why is everyone \ud83e\uddc2 and #saveglorp",
+   "items": 1,
    "ended": false
   }
  },
