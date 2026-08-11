@@ -616,13 +616,6 @@
    "items": 1,
    "ended": true
   },
-  "QNFKIV": {
-   "msg": "1534312701399007362",
-   "end": 1785879121,
-   "title": "Hate on RedBaron",
-   "items": 3,
-   "ended": true
-  },
   "ENG7HS": {
    "msg": "1534312709057937598",
    "end": 1785900241,
@@ -5941,14 +5934,14 @@
    "end": 1786483981,
    "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "VKH6HC": {
    "msg": "1536494634744676463",
    "end": 1786483921,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GORVY6": {
    "msg": "1536494641812217989",
