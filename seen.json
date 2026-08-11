@@ -5388,7 +5388,7 @@
    "end": 1786446841,
    "title": "123",
    "items": 28,
-   "ended": false
+   "ended": true
   },
   "FIOJEE": {
    "msg": "1536336049859469323",
@@ -5416,7 +5416,7 @@
    "end": 1786447741,
    "title": "WHAT THE HELL IS A SLUGMA?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XKURV2": {
    "msg": "1536351119314522175",
@@ -6389,7 +6389,7 @@
    "end": 1786447501,
    "title": "14 years since I joined scrap.tf",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "6Z3FV6": {
    "msg": "1536517223047499807",
@@ -6417,21 +6417,21 @@
    "end": 1786447081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "97V3AU": {
    "msg": "1536517250046107748",
    "end": 1786446961,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y8Z3W5": {
    "msg": "1536517255414685697",
    "end": 1786446781,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CWLK1A": {
    "msg": "1536517261517393980",
@@ -7159,6 +7159,13 @@
    "end": 1786531202,
    "title": "My first raffle",
    "items": 5,
+   "ended": false
+  },
+  "MTHCPR": {
+   "msg": "1536698421455495230",
+   "end": 1786533242,
+   "title": "You thought this was just a scrap #192",
+   "items": 1,
    "ended": false
   }
  },
