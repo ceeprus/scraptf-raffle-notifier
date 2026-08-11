@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "AVBXND": {
-   "msg": "1533724988987670659",
-   "end": 1785824701,
-   "title": "Crate addiction \"pay-offs\"",
-   "items": 50,
-   "ended": true
-  },
   "Z8ZQ02": {
    "msg": "1533727558208585769",
    "end": 1785825301,
@@ -327,13 +320,6 @@
    "end": 1785867301,
    "title": "and 's final message.",
    "items": 1,
-   "ended": true
-  },
-  "BP2N9T": {
-   "msg": "1533905039217655860",
-   "end": 1785824641,
-   "title": "anything!",
-   "items": 6,
    "ended": true
   },
   "LDKX8L": {
@@ -5374,14 +5360,14 @@
    "end": 1786429621,
    "title": "Any recommendations for cosmetics?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "FFIAFF": {
    "msg": "1536260550768468069",
    "end": 1786428661,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1501 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "UXD9LP": {
    "msg": "1536275661835214859",
@@ -5906,7 +5892,7 @@
    "end": 1786429800,
    "title": "Bonk",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9YM57X": {
    "msg": "1536449383695122445",
@@ -6949,6 +6935,69 @@
    "end": 1786448581,
    "title": "\ud83e\uddc2",
    "items": 3,
+   "ended": false
+  },
+  "6WU0RD": {
+   "msg": "1536622923954257945",
+   "end": 1786515961,
+   "title": "Flower Dream",
+   "items": 4,
+   "ended": false
+  },
+  "9LZNAP": {
+   "msg": "1536622930996371618",
+   "end": 1786472701,
+   "title": "\ud83d\udc1f  Getting Down To It #67   \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "YAVWQH": {
+   "msg": "1536622937258463312",
+   "end": 1786472701,
+   "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "DB9P1K": {
+   "msg": "1536622945667907671",
+   "end": 1786515842,
+   "title": "Graveyard raffle (#11)",
+   "items": 7,
+   "ended": false
+  },
+  "T3U7GT": {
+   "msg": "1536622953419112509",
+   "end": 1786515721,
+   "title": "Day 4 of asking for Slugma Chain emoticon",
+   "items": 3,
+   "ended": false
+  },
+  "B3JW7D": {
+   "msg": "1536622960054505563",
+   "end": 1786515362,
+   "title": "im a dumbass",
+   "items": 3,
+   "ended": false
+  },
+  "AE596S": {
+   "msg": "1536622967554056227",
+   "end": 1786515362,
+   "title": "FISH",
+   "items": 6,
+   "ended": false
+  },
+  "6TRYM1": {
+   "msg": "1536622974042505218",
+   "end": 1786515301,
+   "title": "\ud83e\uddc2\ud83e\uddc2 Salty springs\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "9P7CV6": {
+   "msg": "1536622981936316506",
+   "end": 1786514762,
+   "title": "Mad Dog Monday #263",
+   "items": 2,
    "ended": false
   }
  },
