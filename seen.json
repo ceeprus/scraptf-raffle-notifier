@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "PPGG5R": {
-   "msg": "1533730044378087585",
-   "end": 1785826382,
-   "title": "Waluigi time",
-   "items": 1,
-   "ended": true
-  },
-  "VBVCVR": {
-   "msg": "1533732575984615515",
-   "end": 1785826861,
-   "title": "gifted items",
-   "items": 2,
-   "ended": true
-  },
   "U2CBTB": {
    "msg": "1533738987070554146",
    "end": 1785827882,
@@ -6032,7 +6018,7 @@
    "end": 1786431482,
    "title": "My burden is noise.",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "GQMWYY": {
    "msg": "1536456232947421324",
@@ -6746,7 +6732,7 @@
    "end": 1786431241,
    "title": "Your Eternal Reward",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2T66PK": {
    "msg": "1536570133416517704",
@@ -7011,6 +6997,13 @@
    "msg": "1536627975410159716",
    "end": 1786473182,
    "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "JEL6JW": {
+   "msg": "1536630508035768363",
+   "end": 1786433041,
+   "title": "Scot",
    "items": 1,
    "ended": false
   }
