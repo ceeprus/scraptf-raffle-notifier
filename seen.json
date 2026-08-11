@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "IWNZ2C": {
-   "msg": "1533777869707415672",
-   "end": 1785837600,
-   "title": "Gifted Soda Popper",
-   "items": 1,
-   "ended": true
-  },
-  "2FL2O9": {
-   "msg": "1533777876216971278",
-   "end": 1785837301,
-   "title": "Daily raffle #324",
-   "items": 1,
-   "ended": true
-  },
   "8KYYMX": {
    "msg": "1533782892688310402",
    "end": 1785839102,
@@ -5416,7 +5402,7 @@
    "end": 1786441742,
    "title": "the survey(\u043e\u043f\u0440\u043e\u0441)",
    "items": 29,
-   "ended": false
+   "ended": true
   },
   "66IPP9": {
    "msg": "1536336042490335403",
@@ -7067,6 +7053,62 @@
    "msg": "1536667413020409896",
    "end": 1786482722,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "58S5LJ": {
+   "msg": "1536675816161804318",
+   "end": 1786528441,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SUGBBX": {
+   "msg": "1536675823015428137",
+   "end": 1786528381,
+   "title": "\ud83e\uddc2",
+   "items": 2,
+   "ended": false
+  },
+  "L9DG38": {
+   "msg": "1536675830510653471",
+   "end": 1786528021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2JUBGR": {
+   "msg": "1536675837883977789",
+   "end": 1786527961,
+   "title": "[\ud83e\udd89] Hoot!",
+   "items": 1,
+   "ended": false
+  },
+  "PMS1BY": {
+   "msg": "1536675845912141857",
+   "end": 1786527842,
+   "title": "#SlugmaSweep",
+   "items": 1,
+   "ended": false
+  },
+  "DBMLC6": {
+   "msg": "1536675854221049897",
+   "end": 1786527482,
+   "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
+   "items": 3,
+   "ended": false
+  },
+  "EASLH1": {
+   "msg": "1536675863448518698",
+   "end": 1786526881,
+   "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f fish \ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
+   "items": 5,
+   "ended": false
+  },
+  "THP9AN": {
+   "msg": "1536675882176086127",
+   "end": 1786526822,
+   "title": "Go play Middle Earth: Shadow of Mordor you filthy casual (THE RETURN OF THE SERIES)",
    "items": 1,
    "ended": false
   }
