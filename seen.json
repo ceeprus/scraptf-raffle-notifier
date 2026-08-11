@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "XYXOEX": {
-   "msg": "1533912590453833748",
-   "end": 1785869402,
-   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #1",
-   "items": 3,
-   "ended": true
-  },
   "T5TI2D": {
    "msg": "1533917579310010390",
    "end": 1785871141,
@@ -5514,14 +5507,14 @@
    "end": 1786474322,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P47RF7": {
    "msg": "1536449348869816332",
    "end": 1786474201,
    "title": "\ud83e\uddc2",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "MC4601": {
    "msg": "1536449354968080515",
@@ -5682,7 +5675,7 @@
    "end": 1786474741,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "32SJOQ": {
    "msg": "1536456217810042920",
@@ -5703,7 +5696,7 @@
    "end": 1786474561,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4829MH": {
    "msg": "1536456239507185695",
@@ -5717,7 +5710,7 @@
    "end": 1786474441,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TMHG92": {
    "msg": "1536464420937404476",
@@ -7047,7 +7040,7 @@
    "end": 1786474322,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2YOU MUST BRING THE SALT\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y6VH2Q": {
    "msg": "1536721108986888282",
@@ -7110,7 +7103,7 @@
    "end": 1786474621,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2Harvest the Salt from the Sea Ya Landlovers\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H4JE7U": {
    "msg": "1536733592292425808",
@@ -7369,6 +7362,13 @@
    "end": 1786516321,
    "title": "hhhhhhh",
    "items": 2,
+   "ended": false
+  },
+  "RAHUQR": {
+   "msg": "1536811699280285756",
+   "end": 1786560181,
+   "title": "lol",
+   "items": 24,
    "ended": false
   }
  },
