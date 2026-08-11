@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "Q6Z7IV": {
-   "msg": "1533677187935502460",
-   "end": 1785813601,
-   "title": "Your daily nutrion",
-   "items": 54,
-   "ended": true
-  },
   "GN9NTL": {
    "msg": "1533680997034496161",
    "end": 1785814562,
@@ -495,13 +488,6 @@
    "end": 1785877442,
    "title": "happle scrapple",
    "items": 5,
-   "ended": true
-  },
-  "TXD99D": {
-   "msg": "1533948968612921458",
-   "end": 1785813301,
-   "title": "Take this, my friend",
-   "items": 10,
    "ended": true
   },
   "D3UXKF": {
@@ -6900,6 +6886,20 @@
    "end": 1786501802,
    "title": "Erm, Now That Slugma Has Ppl Attention On Forums",
    "items": 4,
+   "ended": false
+  },
+  "APWLEL": {
+   "msg": "1536576609749049407",
+   "end": 1786504621,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NDMD5J": {
+   "msg": "1536576617374023681",
+   "end": 1786504082,
+   "title": "Raffling a  every time I win a  #76",
+   "items": 1,
    "ended": false
   }
  },
