@@ -7075,7 +7075,7 @@
    "end": 1786462922,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P8412D": {
    "msg": "1536706036269060207",
@@ -7305,6 +7305,20 @@
    "msg": "1536758915650289857",
    "end": 1786503600,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ANAPI9": {
+   "msg": "1536764162384863292",
+   "end": 1786549201,
+   "title": "\ud83d\udc1f \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "ZHBAQH": {
+   "msg": "1536764169641000980",
+   "end": 1786548600,
+   "title": "MK Poll #3 + The Favorites of Music #273 & #274",
    "items": 1,
    "ended": false
   }
