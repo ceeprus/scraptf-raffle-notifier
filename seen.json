@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "W1BUS5": {
-   "msg": "1533927684906942504",
-   "end": 1785873600,
-   "title": "A Refined a day keeps the doctor away! #27",
-   "items": 1,
-   "ended": true
-  },
   "C7HXN1": {
    "msg": "1533935228459159785",
    "end": 1785875012,
@@ -306,13 +299,6 @@
    "end": 1785915541,
    "title": "Crate addiction big wins",
    "items": 9,
-   "ended": true
-  },
-  "QLGYBM": {
-   "msg": "1534110063310929940",
-   "end": 1785873602,
-   "title": "Goog",
-   "items": 1,
    "ended": true
   },
   "EP0Z3X": {
@@ -5794,7 +5780,7 @@
    "end": 1786478460,
    "title": "No tips.",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "VAJ5AZ": {
    "msg": "1536472002150268958",
@@ -5808,7 +5794,7 @@
    "end": 1786478400,
    "title": "Equestria Forever",
    "items": 54,
-   "ended": false
+   "ended": true
   },
   "Z5L15E": {
    "msg": "1536479509380071494",
