@@ -5409,7 +5409,7 @@
    "end": 1786435381,
    "title": "Day 29 Of \"Bad\" Weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0AT9JR": {
    "msg": "1536288482073382913",
@@ -6991,7 +6991,7 @@
    "end": 1786435321,
    "title": "Fast raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LUJIK2": {
    "msg": "1536645619853295687",
@@ -7018,6 +7018,13 @@
    "msg": "1536645643924279316",
    "end": 1786519681,
    "title": "\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "2D1H3G": {
+   "msg": "1536646384890159134",
+   "end": 1786521600,
+   "title": "#25",
    "items": 1,
    "ended": false
   }
