@@ -63,13 +63,6 @@
    "items": 4,
    "ended": true
   },
-  "O3OP17": {
-   "msg": "1533714961573085326",
-   "end": 1785822181,
-   "title": "Daily Hat #72",
-   "items": 1,
-   "ended": true
-  },
   "AVBXND": {
    "msg": "1533724988987670659",
    "end": 1785824701,
@@ -5850,7 +5843,7 @@
    "end": 1786426321,
    "title": "MGE",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IJ4PFH": {
    "msg": "1536436758810599515",
@@ -6949,6 +6942,27 @@
    "end": 1786511521,
    "title": "slug fun facts.",
    "items": 1,
+   "ended": false
+  },
+  "27T2WO": {
+   "msg": "1536612329654063144",
+   "end": 1786448761,
+   "title": "\ud83e\uddc2",
+   "items": 3,
+   "ended": false
+  },
+  "U1CZVQ": {
+   "msg": "1536612337581170689",
+   "end": 1786448641,
+   "title": "\ud83e\uddc2",
+   "items": 3,
+   "ended": false
+  },
+  "0VPLC2": {
+   "msg": "1536612344828923904",
+   "end": 1786448581,
+   "title": "\ud83e\uddc2",
+   "items": 3,
    "ended": false
   }
  },
