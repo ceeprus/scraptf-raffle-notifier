@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "C7HXN1": {
-   "msg": "1533935228459159785",
-   "end": 1785875012,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "WCJ9KS": {
    "msg": "1533946505449177298",
    "end": 1785877922,
@@ -5724,7 +5717,7 @@
    "end": 1786479661,
    "title": "salty noise maker \ud83e\uddc2(no need to tip on this one)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "06JJP6": {
    "msg": "1536471948304060426",
@@ -5738,35 +5731,35 @@
    "end": 1786479421,
    "title": "I have become their ally now \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YSE023": {
    "msg": "1536471960874385458",
    "end": 1786479242,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2SALT FACTORY\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4TPDSR": {
    "msg": "1536471967492739092",
    "end": 1786479061,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2SALT FARM",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IHK0Y2": {
    "msg": "1536471973985652807",
    "end": 1786479002,
    "title": "\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SNPI85": {
    "msg": "1536471980684083382",
    "end": 1786478881,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V3LVKY": {
    "msg": "1536471986526621758",
@@ -5927,14 +5920,14 @@
    "end": 1786480202,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R0AKME": {
    "msg": "1536479638233030737",
    "end": 1786480141,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TKIF95": {
    "msg": "1536487028953317437",
@@ -7480,6 +7473,41 @@
    "msg": "1536825393573662760",
    "end": 1786562881,
    "title": "Do you believe in good karma?",
+   "items": 3,
+   "ended": false
+  },
+  "KW12NC": {
+   "msg": "1536834331572572381",
+   "end": 1786565881,
+   "title": "Im broke",
+   "items": 7,
+   "ended": false
+  },
+  "9LNBVC": {
+   "msg": "1536834340665688104",
+   "end": 1786486561,
+   "title": "raffle by 20dobrik10",
+   "items": 3,
+   "ended": false
+  },
+  "GXYP8G": {
+   "msg": "1536834350778417202",
+   "end": 1786564800,
+   "title": "Equestria 4ever",
+   "items": 53,
+   "ended": false
+  },
+  "M3D1UC": {
+   "msg": "1536834358114263130",
+   "end": 1786564800,
+   "title": "We need more Engineer Mains! #001: Reloaded",
+   "items": 6,
+   "ended": false
+  },
+  "TIT6ZE": {
+   "msg": "1536834364678217739",
+   "end": 1786564562,
+   "title": "#SaveNoOne",
    "items": 3,
    "ended": false
   }
