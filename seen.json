@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "RT2G55": {
-   "msg": "1533873464379707512",
-   "end": 1785860461,
-   "title": "Daily Brass Beast #527",
-   "items": 1,
-   "ended": true
-  },
-  "2554FT": {
-   "msg": "1533873471975723201",
-   "end": 1785860281,
-   "title": "I won my second raffle",
-   "items": 47,
-   "ended": true
-  },
-  "1QXP0R": {
-   "msg": "1533876010343334029",
-   "end": 1785860701,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "NWCMJ2": {
    "msg": "1533881015557161166",
    "end": 1785861961,
@@ -5416,7 +5395,7 @@
    "end": 1786464721,
    "title": "SAVE GLORP #STOPSLUGMANTORS",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "FWE80C": {
    "msg": "1536409678840598641",
@@ -5437,14 +5416,14 @@
    "end": 1786465561,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "90MVK5": {
    "msg": "1536411536828928032",
    "end": 1786465261,
    "title": "Between the Glorps and the Slugmas, I do not feel particularly strong either way.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "YGE34B": {
    "msg": "1536419130482237610",
@@ -5486,14 +5465,14 @@
    "end": 1786465741,
    "title": "#STOPSLUGMANTORS",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "5U1KQD": {
    "msg": "1536419180390387724",
    "end": 1786465741,
    "title": "Simple Slugma Raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "43RPG2": {
    "msg": "1536424476080873523",
@@ -7320,6 +7299,20 @@
    "end": 1786549562,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 4,
+   "ended": false
+  },
+  "61VWRU": {
+   "msg": "1536773996597612564",
+   "end": 1786551781,
+   "title": "Zeus hates me",
+   "items": 1,
+   "ended": false
+  },
+  "ES3HQ0": {
+   "msg": "1536774004763791452",
+   "end": 1786550522,
+   "title": "Scrap.tf Birthdays - 11 August",
+   "items": 2,
    "ended": false
   }
  },
