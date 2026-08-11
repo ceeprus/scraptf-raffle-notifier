@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "FWMHAZ": {
-   "msg": "1533847114709467308",
-   "end": 1785853800,
-   "title": "#14",
-   "items": 1,
-   "ended": true
-  },
   "QH3DOY": {
    "msg": "1533854628804825129",
    "end": 1785856081,
@@ -5430,7 +5423,7 @@
    "end": 1786458482,
    "title": "Quitting announcement (+ statistics!)",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "LTJ6DR": {
    "msg": "1536381360929898546",
@@ -7061,7 +7054,7 @@
    "end": 1786458241,
    "title": "raffle for luck raffling 2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7HU0J2": {
    "msg": "1536690912602882148",
