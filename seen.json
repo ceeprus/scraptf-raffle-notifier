@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "NRNIWJ": {
-   "msg": "1533756645719674962",
-   "end": 1785832501,
-   "title": "well uhhhh hungy headcrab",
-   "items": 6,
-   "ended": true
-  },
-  "WW9XVQ": {
-   "msg": "1533761593723326514",
-   "end": 1785833581,
-   "title": "Cleaning",
-   "items": 200,
-   "ended": true
-  },
   "Z7SW7X": {
    "msg": "1533765427451400345",
    "end": 1785834481,
@@ -320,13 +306,6 @@
    "end": 1785875012,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": true
-  },
-  "MEF6NE": {
-   "msg": "1533941408958775380",
-   "end": 1785833282,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "WCJ9KS": {
@@ -5423,28 +5402,28 @@
    "end": 1786437901,
    "title": "Scrap Cookbook - Top 5 Quick Snacks",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "81K3RO": {
    "msg": "1536305833632337951",
    "end": 1786438861,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TO1AB4": {
    "msg": "1536305841097941012",
    "end": 1786438801,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "96YH3W": {
    "msg": "1536305847808827453",
    "end": 1786438681,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q79WCP": {
    "msg": "1536313432868126793",
@@ -6186,14 +6165,14 @@
    "end": 1786437722,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D599FA": {
    "msg": "1536479570377580645",
    "end": 1786437602,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "69BUNX": {
    "msg": "1536479576925016146",
@@ -6207,7 +6186,7 @@
    "end": 1786437541,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1EYFE3": {
    "msg": "1536479589457731676",
@@ -6711,7 +6690,7 @@
    "end": 1786438021,
    "title": "beep beep boop",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "4J5MM8": {
    "msg": "1536570148155039785",
@@ -7046,6 +7025,27 @@
    "msg": "1536653138872762489",
    "end": 1786521901,
    "title": "\u201cDarkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that\"",
+   "items": 1,
+   "ended": false
+  },
+  "ZEXZWI": {
+   "msg": "1536660710489198722",
+   "end": 1786523400,
+   "title": "#SlugmaSweep",
+   "items": 1,
+   "ended": false
+  },
+  "ZWAB2E": {
+   "msg": "1536660716709224598",
+   "end": 1786523162,
+   "title": "music time ! !",
+   "items": 1,
+   "ended": false
+  },
+  "DCS7NH": {
+   "msg": "1536660722761728071",
+   "end": 1786523102,
+   "title": "\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
