@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "XI0TSU": {
-   "msg": "1533822001653878984",
-   "end": 1785848400,
-   "title": "8 for 1 Sunday but Monday",
-   "items": 8,
-   "ended": true
-  },
   "EZYWY6": {
    "msg": "1533838275863904456",
    "end": 1785852000,
@@ -5402,7 +5395,7 @@
    "end": 1786452661,
    "title": "Daily raffle #341",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PCXZR4": {
    "msg": "1536366222768078868",
@@ -5444,7 +5437,7 @@
    "end": 1786453200,
    "title": "8 for 1 Sunday but Monday",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "991643": {
    "msg": "1536373997741015140",
@@ -6522,7 +6515,7 @@
    "end": 1786451521,
    "title": "3 for 1",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8M0ZQW": {
    "msg": "1536547414326906911",
@@ -7214,6 +7207,20 @@
    "msg": "1536713543531888744",
    "end": 1786536662,
    "title": "I am bad with titles #142",
+   "items": 1,
+   "ended": false
+  },
+  "VQPCRE": {
+   "msg": "1536721101575426068",
+   "end": 1786474322,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2YOU MUST BRING THE SALT\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "Y6VH2Q": {
+   "msg": "1536721108986888282",
+   "end": 1786537982,
+   "title": "Why can't we just live in harmony?",
    "items": 1,
    "ended": false
   }
