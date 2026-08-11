@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "HBU690": {
-   "msg": "1533633199631110145",
-   "end": 1785803222,
-   "title": "Today!",
-   "items": 10,
-   "ended": true
-  },
   "9E4QX4": {
    "msg": "1533645774322139239",
    "end": 1785805921,
@@ -5675,7 +5668,7 @@
    "end": 1786408200,
    "title": "[Fallen Tributes/Night 4] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1XCMKC": {
    "msg": "1536351127430242365",
@@ -6773,6 +6766,41 @@
    "msg": "1536524820378943508",
    "end": 1786449481,
    "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "QGR65M": {
+   "msg": "1536532312173580360",
+   "end": 1786493701,
+   "title": "I Drew Ts 15",
+   "items": 1,
+   "ended": false
+  },
+  "5W1MB5": {
+   "msg": "1536532318687207544",
+   "end": 1786409041,
+   "title": "This is all I got\u2026",
+   "items": 1,
+   "ended": false
+  },
+  "HKJEZ9": {
+   "msg": "1536532324978528327",
+   "end": 1786493461,
+   "title": "Pokemon Of The Day #18: Slugma",
+   "items": 2,
+   "ended": false
+  },
+  "S33HQZ": {
+   "msg": "1536532332641517578",
+   "end": 1786493341,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "WM75P9": {
+   "msg": "1536532339268653176",
+   "end": 1786449961,
+   "title": "#saveglorp  (Can We Get 200+ Raffles ?)",
    "items": 1,
    "ended": false
   }
