@@ -5962,7 +5962,7 @@
    "end": 1786485781,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #3",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "P4C3FZ": {
    "msg": "1536495583970332722",
@@ -5976,35 +5976,35 @@
    "end": 1786487041,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WXM5TT": {
    "msg": "1536502121061548162",
    "end": 1786486981,
    "title": "I WANNA SEE 200 RAFFLES.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FQ9R0V": {
    "msg": "1536502127822639145",
    "end": 1786486741,
    "title": "MOOOOOOORE  RAFFLES",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PRKSRG": {
    "msg": "1536502137461145681",
    "end": 1786486621,
    "title": "I start Junior year of high school tomorrow",
    "items": 36,
-   "ended": false
+   "ended": true
   },
   "747FHS": {
    "msg": "1536502145845567521",
    "end": 1786486621,
    "title": "Salty Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TNOKFI": {
    "msg": "1536502157531029514",
@@ -6018,21 +6018,21 @@
    "end": 1786486442,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7PC2HM": {
    "msg": "1536502173846732841",
    "end": 1786486381,
    "title": "\ud83e\uddc2must be added",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "43X7KZ": {
    "msg": "1536502180184465448",
    "end": 1786486141,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5HFWMW": {
    "msg": "1536509698285637682",
@@ -7446,7 +7446,7 @@
    "end": 1786486561,
    "title": "raffle by 20dobrik10",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GXYP8G": {
    "msg": "1536834350778417202",
@@ -7579,6 +7579,20 @@
    "end": 1786570261,
    "title": "random stuff",
    "items": 46,
+   "ended": false
+  },
+  "ZAY7CA": {
+   "msg": "1536864508272967950",
+   "end": 1786573261,
+   "title": "\ud83c\udf0a #SundownerSweep \ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "Z5X59W": {
+   "msg": "1536864515055161404",
+   "end": 1786572901,
+   "title": "\ud83c\udf0a #SundownerSweep \ud83c\udf0a",
+   "items": 1,
    "ended": false
   }
  },
