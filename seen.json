@@ -602,13 +602,6 @@
    "items": 1,
    "ended": true
   },
-  "CN1ZNM": {
-   "msg": "1534183027381637160",
-   "end": 1785849601,
-   "title": "GAAZ",
-   "items": 1,
-   "ended": true
-  },
   "FE1XYI": {
    "msg": "1534185548468588665",
    "end": 1785934801,
@@ -5402,7 +5395,7 @@
    "end": 1786454461,
    "title": "My first anime movie???",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KBBOBA": {
    "msg": "1536366232809250950",
@@ -5416,21 +5409,21 @@
    "end": 1786454282,
    "title": "Couldn't sell this robot part for months,",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "4KKRDM": {
    "msg": "1536366249397977129",
    "end": 1786454101,
    "title": "Question",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "VW7HW8": {
    "msg": "1536366258927439872",
    "end": 1786453921,
    "title": "ENDL3SS N01S3",
    "items": 163,
-   "ended": false
+   "ended": true
   },
   "LWPCCS": {
    "msg": "1536366267823431681",
@@ -7221,6 +7214,62 @@
    "msg": "1536721108986888282",
    "end": 1786537982,
    "title": "Why can't we just live in harmony?",
+   "items": 1,
+   "ended": false
+  },
+  "9JXJ5K": {
+   "msg": "1536728618062057502",
+   "end": 1786541101,
+   "title": "\ud83c\udf3b",
+   "items": 6,
+   "ended": false
+  },
+  "V1UE9H": {
+   "msg": "1536728624265429133",
+   "end": 1786540562,
+   "title": "KILL ALL   's\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "GOZCV6": {
+   "msg": "1536728630661615796",
+   "end": 1786475281,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "MNPQPT": {
+   "msg": "1536728637360050407",
+   "end": 1786475161,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2The Slugs are Salty \ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "S23SFV": {
+   "msg": "1536728645341679707",
+   "end": 1786539902,
+   "title": "Items",
+   "items": 17,
+   "ended": false
+  },
+  "4PWKEA": {
+   "msg": "1536728651440070747",
+   "end": 1786539662,
+   "title": "Clan War: Starting The War",
+   "items": 1,
+   "ended": false
+  },
+  "6IWSJR": {
+   "msg": "1536728657664413746",
+   "end": 1786539600,
+   "title": "Top Gear Tuesday: \"Give me my fish back\"",
+   "items": 1,
+   "ended": false
+  },
+  "R8L7EJ": {
+   "msg": "1536728664060858458",
+   "end": 1786474621,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2Harvest the Salt from the Sea Ya Landlovers\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
    "ended": false
   }
