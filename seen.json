@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "QH3DOY": {
-   "msg": "1533854628804825129",
-   "end": 1785856081,
-   "title": "Wowzers",
-   "items": 1,
-   "ended": true
-  },
-  "XKIIFC": {
-   "msg": "1533860900170104933",
-   "end": 1785857400,
-   "title": "The Favorites of Music #265 & #266",
-   "items": 1,
-   "ended": true
-  },
   "D2KG2K": {
    "msg": "1533868473954865263",
    "end": 1785859200,
@@ -5416,14 +5402,14 @@
    "end": 1786460581,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ADHLW4": {
    "msg": "1536395985146880050",
    "end": 1786460521,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "ZVQPZ5": {
    "msg": "1536395991257972898",
@@ -7270,6 +7256,55 @@
    "msg": "1536751343585464390",
    "end": 1786545661,
    "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "E5L7UL": {
+   "msg": "1536758867759730699",
+   "end": 1786548122,
+   "title": "Daily Brass Beast #535 \ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "ORA5NP": {
+   "msg": "1536758877012500642",
+   "end": 1786548002,
+   "title": "render for you",
+   "items": 2,
+   "ended": false
+  },
+  "7ZAW8Y": {
+   "msg": "1536758884344012901",
+   "end": 1786547702,
+   "title": "Seriously, what should we eat?",
+   "items": 2,
+   "ended": false
+  },
+  "RS8PYZ": {
+   "msg": "1536758893600837773",
+   "end": 1786547222,
+   "title": "Untitled raffle",
+   "items": 10,
+   "ended": false
+  },
+  "SQ79YV": {
+   "msg": "1536758900546736159",
+   "end": 1786546800,
+   "title": "What is up with all the \ud83e\uddc2?",
+   "items": 3,
+   "ended": false
+  },
+  "E7FHG9": {
+   "msg": "1536758908637683754",
+   "end": 1786546800,
+   "title": "I know what to do with the \ud83e\uddc2 now",
+   "items": 3,
+   "ended": false
+  },
+  "23RXPW": {
+   "msg": "1536758915650289857",
+   "end": 1786503600,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
