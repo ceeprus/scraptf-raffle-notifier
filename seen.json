@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "D2KG2K": {
-   "msg": "1533868473954865263",
-   "end": 1785859200,
-   "title": "Weekly  #71",
-   "items": 1,
-   "ended": true
-  },
-  "0KAUY6": {
-   "msg": "1533868480917409807",
-   "end": 1785859200,
-   "title": "Scrap Cookbook - Opinions",
-   "items": 2,
-   "ended": true
-  },
-  "TTON5V": {
-   "msg": "1533868488354168853",
-   "end": 1785859200,
-   "title": "Scrap.tf Birthdays - 3 August",
-   "items": 3,
-   "ended": true
-  },
   "RT2G55": {
    "msg": "1533873464379707512",
    "end": 1785860461,
@@ -5444,7 +5423,7 @@
    "end": 1786464000,
    "title": "Weekly  #72",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KRBRVZ": {
    "msg": "1536409685886894111",
@@ -7320,6 +7299,27 @@
    "end": 1786548600,
    "title": "MK Poll #3 + The Favorites of Music #273 & #274",
    "items": 1,
+   "ended": false
+  },
+  "L7ALZF": {
+   "msg": "1536766458330091582",
+   "end": 1786549801,
+   "title": "a key",
+   "items": 1,
+   "ended": false
+  },
+  "LUUVPD": {
+   "msg": "1536766468857925674",
+   "end": 1786549621,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 7,
+   "ended": false
+  },
+  "M17IXB": {
+   "msg": "1536766478785843341",
+   "end": 1786549562,
+   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 4,
    "ended": false
   }
  },
