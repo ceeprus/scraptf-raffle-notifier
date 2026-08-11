@@ -350,13 +350,6 @@
    "items": 2,
    "ended": true
   },
-  "EDH30G": {
-   "msg": "1534014416784199741",
-   "end": 1785850861,
-   "title": "My favorite sleep sounds!",
-   "items": 3,
-   "ended": true
-  },
   "63DPBK": {
    "msg": "1534016934897778760",
    "end": 1785894901,
@@ -5437,7 +5430,7 @@
    "end": 1786455061,
    "title": "i can't think of a title for this raffle 22\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D5S9LS": {
    "msg": "1536381350452666418",
@@ -7270,6 +7263,20 @@
    "msg": "1536728664060858458",
    "end": 1786474621,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2Harvest the Salt from the Sea Ya Landlovers\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "H4JE7U": {
+   "msg": "1536733592292425808",
+   "end": 1786542481,
+   "title": "\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "3T6P2T": {
+   "msg": "1536733598986801256",
+   "end": 1786542362,
+   "title": "Take it",
    "items": 1,
    "ended": false
   }
