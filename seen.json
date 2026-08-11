@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "K1EBR1": {
-   "msg": "1533743923803983926",
-   "end": 1785829561,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "WRT6YI": {
    "msg": "1533751578782339173",
    "end": 1785831061,
@@ -322,25 +315,11 @@
    "items": 4,
    "ended": true
   },
-  "JKULUR": {
-   "msg": "1533922583303553134",
-   "end": 1785829081,
-   "title": "Question",
-   "items": 5,
-   "ended": true
-  },
   "W1BUS5": {
    "msg": "1533927684906942504",
    "end": 1785873600,
    "title": "A Refined a day keeps the doctor away! #27",
    "items": 1,
-   "ended": true
-  },
-  "RXAFW4": {
-   "msg": "1533930157981564961",
-   "end": 1785830461,
-   "title": "Two Conscientious Objectors",
-   "items": 2,
    "ended": true
   },
   "C7HXN1": {
@@ -5367,7 +5346,7 @@
    "end": 1786434362,
    "title": "#SlugmaSweep",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "GJMN3J": {
    "msg": "1536283222780940288",
@@ -5381,14 +5360,14 @@
    "end": 1786433999,
    "title": "Megaraffle?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KLYJNK": {
    "msg": "1536283236051849236",
    "end": 1786433641,
    "title": "I beat SCP:CB",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I10PN8": {
    "msg": "1536283242829979698",
@@ -5437,7 +5416,7 @@
    "end": 1786435082,
    "title": "Noise Maker raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "83PZ9V": {
    "msg": "1536290746292904028",
@@ -6046,7 +6025,7 @@
    "end": 1786434001,
    "title": "salty noise maker \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H9ZFH2": {
    "msg": "1536464434942312468",
@@ -6144,7 +6123,7 @@
    "end": 1786435200,
    "title": "[DAY 5] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BA0JUI": {
    "msg": "1536472010765377556",
@@ -7011,6 +6990,34 @@
    "msg": "1536638027370078319",
    "end": 1786435321,
    "title": "Fast raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LUJIK2": {
+   "msg": "1536645619853295687",
+   "end": 1786520761,
+   "title": "Day 30 Of \"Bad\" Weapon   \ud83e\uddc2",
+   "items": 4,
+   "ended": false
+  },
+  "QKUBB1": {
+   "msg": "1536645628854276166",
+   "end": 1786520521,
+   "title": "\ud83d\udc1f This situation is real \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "7HUYM1": {
+   "msg": "1536645636517265461",
+   "end": 1786519741,
+   "title": "there will be no winners in this war",
+   "items": 3,
+   "ended": false
+  },
+  "C1L5CL": {
+   "msg": "1536645643924279316",
+   "end": 1786519681,
+   "title": "\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
