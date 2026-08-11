@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "5ZQVJ0": {
-   "msg": "1533794225806770239",
-   "end": 1785841200,
-   "title": "FRAUD!!!",
-   "items": 1,
-   "ended": true
-  },
   "JY2D30": {
    "msg": "1533804324050698260",
    "end": 1785843841,
@@ -5416,7 +5409,7 @@
    "end": 1786446000,
    "title": "Left her hanging?! Unbelievable!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z6ANNA": {
    "msg": "1536340413231923262",
@@ -7138,6 +7131,34 @@
    "end": 1786458241,
    "title": "raffle for luck raffling 2",
    "items": 1,
+   "ended": false
+  },
+  "7HU0J2": {
+   "msg": "1536690912602882148",
+   "end": 1786532400,
+   "title": "Talk about...gasp! being crabby!",
+   "items": 1,
+   "ended": false
+  },
+  "GZGMTJ": {
+   "msg": "1536690919992987700",
+   "end": 1786531441,
+   "title": "4th Raffle!",
+   "items": 3,
+   "ended": false
+  },
+  "5L805P": {
+   "msg": "1536690926351679542",
+   "end": 1786531441,
+   "title": "\ud83d\udc1f W Mazekest \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "YQ4AOV": {
+   "msg": "1536690934941749248",
+   "end": 1786531202,
+   "title": "My first raffle",
+   "items": 5,
    "ended": false
   }
  },
