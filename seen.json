@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "8KYYMX": {
-   "msg": "1533782892688310402",
-   "end": 1785839102,
-   "title": "The world needs more Reindoonicorns! (#589)",
-   "items": 1,
-   "ended": true
-  },
   "5ZQVJ0": {
    "msg": "1533794225806770239",
    "end": 1785841200,
@@ -7138,6 +7131,13 @@
    "end": 1786528681,
    "title": "Grabli304's raffle\u2503Day 163",
    "items": 2,
+   "ended": false
+  },
+  "SMR5GY": {
+   "msg": "1536683330236579881",
+   "end": 1786458241,
+   "title": "raffle for luck raffling 2",
+   "items": 1,
    "ended": false
   }
  },
