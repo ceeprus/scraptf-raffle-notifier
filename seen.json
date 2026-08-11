@@ -329,13 +329,6 @@
    "items": 1,
    "ended": true
   },
-  "Y2OZ6U": {
-   "msg": "1533888566843805828",
-   "end": 1785820921,
-   "title": "My first raffle",
-   "items": 1,
-   "ended": true
-  },
   "P1B216": {
    "msg": "1533888574221717595",
    "end": 1785864002,
@@ -6948,6 +6941,13 @@
    "msg": "1536597043446022214",
    "end": 1786508701,
    "title": "Raffle Log #94",
+   "items": 1,
+   "ended": false
+  },
+  "HW4YWG": {
+   "msg": "1536607845167009825",
+   "end": 1786511521,
+   "title": "slug fun facts.",
    "items": 1,
    "ended": false
   }
