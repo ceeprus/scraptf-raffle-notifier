@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "H33KXQ": {
-   "msg": "1533902455161618593",
-   "end": 1785867301,
-   "title": "and 's final message.",
-   "items": 1,
-   "ended": true
-  },
   "LDKX8L": {
    "msg": "1533907508182257854",
    "end": 1785868621,
@@ -313,13 +306,6 @@
    "end": 1785909421,
    "title": "Pick My Custom Title - Semifinals (2/2)",
    "items": 10,
-   "ended": true
-  },
-  "KWGN92": {
-   "msg": "1534087405114622056",
-   "end": 1785867902,
-   "title": "Medic is sniper!",
-   "items": 2,
    "ended": true
   },
   "RB4J6G": {
@@ -5514,14 +5500,14 @@
    "end": 1786472581,
    "title": "Its been a while since Ive been here.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7B1I5F": {
    "msg": "1536441761344389190",
    "end": 1786471862,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "OE5GXP": {
    "msg": "1536441769527353406",
@@ -5577,14 +5563,14 @@
    "end": 1786472761,
    "title": "slugma chain raffle #3",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "JZ19TK": {
    "msg": "1536449394457706596",
    "end": 1786472641,
    "title": "Gameplay Guide",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3XZS1A": {
    "msg": "1536456102328148263",
@@ -6627,14 +6613,14 @@
    "end": 1786472701,
    "title": "\ud83d\udc1f  Getting Down To It #67   \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YAVWQH": {
    "msg": "1536622937258463312",
    "end": 1786472701,
    "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DB9P1K": {
    "msg": "1536622945667907671",
@@ -7348,6 +7334,34 @@
    "end": 1786557481,
    "title": "Slugmas kill glorp",
    "items": 4,
+   "ended": false
+  },
+  "F6GBEO": {
+   "msg": "1536804123712954479",
+   "end": 1786558321,
+   "title": "Yet another day of wasting money",
+   "items": 4,
+   "ended": false
+  },
+  "2T0JSO": {
+   "msg": "1536804131254308874",
+   "end": 1786557901,
+   "title": "Daily raffle #342",
+   "items": 1,
+   "ended": false
+  },
+  "UTQKBU": {
+   "msg": "1536804139424813197",
+   "end": 1786557721,
+   "title": "Anyone Know the Best Way to Resell Items?",
+   "items": 5,
+   "ended": false
+  },
+  "881MJZ": {
+   "msg": "1536804146718703706",
+   "end": 1786557662,
+   "title": "returning",
+   "items": 1,
    "ended": false
   }
  },
