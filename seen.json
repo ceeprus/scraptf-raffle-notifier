@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "U2CBTB": {
-   "msg": "1533738987070554146",
-   "end": 1785827882,
-   "title": "Day 22 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "K1EBR1": {
    "msg": "1533743923803983926",
    "end": 1785829561,
@@ -5360,14 +5353,14 @@
    "end": 1786432321,
    "title": "Hii :3 This is my sixth raffle, wow",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "BDO4D5": {
    "msg": "1536275675244400693",
    "end": 1786431781,
    "title": "Hehe",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DBWCVW": {
    "msg": "1536283215361216523",
@@ -5409,7 +5402,7 @@
    "end": 1786433400,
    "title": "Day 62 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LM5W3B": {
    "msg": "1536283257329426527",
@@ -7004,6 +6997,20 @@
    "msg": "1536630508035768363",
    "end": 1786433041,
    "title": "Scot",
+   "items": 1,
+   "ended": true
+  },
+  "8X0S91": {
+   "msg": "1536638020940333136",
+   "end": 1786518541,
+   "title": "\ud83d\udc1f Nidoking! \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "NFHAAY": {
+   "msg": "1536638027370078319",
+   "end": 1786435321,
+   "title": "Fast raffle",
    "items": 1,
    "ended": false
   }
