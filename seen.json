@@ -5290,14 +5290,14 @@
    "end": 1786409521,
    "title": "My fav users (in one raffle!!!!) + More",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IL9WKD": {
    "msg": "1536177530728611859",
    "end": 1786409161,
    "title": "Late Marvelous Sunday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1CPE8Q": {
    "msg": "1536177538915766302",
@@ -5311,7 +5311,7 @@
    "end": 1786408921,
    "title": "Give me music recommendations",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9H0HPI": {
    "msg": "1536185042034757642",
@@ -5325,14 +5325,14 @@
    "end": 1786410061,
    "title": "I am bad with titles #141",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "76DBJR": {
    "msg": "1536185058145345627",
    "end": 1786410000,
    "title": "Reminder to eat n' drink water if ye haven't yet #268",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "E7NUX2": {
    "msg": "1536185065728385114",
@@ -6781,7 +6781,7 @@
    "end": 1786409041,
    "title": "This is all I got\u2026",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HKJEZ9": {
    "msg": "1536532324978528327",
@@ -6802,6 +6802,13 @@
    "end": 1786449961,
    "title": "#saveglorp  (Can We Get 200+ Raffles ?)",
    "items": 1,
+   "ended": false
+  },
+  "YVQAR9": {
+   "msg": "1536539910062997537",
+   "end": 1786451521,
+   "title": "3 for 1",
+   "items": 3,
    "ended": false
   }
  },
