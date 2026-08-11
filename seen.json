@@ -5346,14 +5346,14 @@
    "end": 1786414501,
    "title": "Caf\u00e9 Crit-A-Coffee #1754",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "I3V8Q3": {
    "msg": "1536200159749480548",
    "end": 1786414200,
    "title": "Decorum",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F6M4C7": {
    "msg": "1536207736327372890",
@@ -5731,7 +5731,7 @@
    "end": 1786414861,
    "title": "MvM Shenanigans",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "E1PCZQ": {
    "msg": "1536395978326941696",
@@ -6256,7 +6256,7 @@
    "end": 1786413781,
    "title": "SALT THIS MEAT\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KYXD84": {
    "msg": "1536471994407592120",
