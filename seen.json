@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "8KYP8V": {
-   "msg": "1533814424064753724",
-   "end": 1785846541,
-   "title": "#12",
-   "items": 1,
-   "ended": true
-  },
-  "R5V4NQ": {
-   "msg": "1533814434714095729",
-   "end": 1785846302,
-   "title": "\ud835\udc12 \ud835\udeab \ud835\udc0b \ud835\udec0 \ud835\udeaf \ud835\udeb7 \ud835\udeb0 \ud835\udeab",
-   "items": 2,
-   "ended": true
-  },
-  "8HW5NR": {
-   "msg": "1533814441806921990",
-   "end": 1785846242,
-   "title": "#11",
-   "items": 1,
-   "ended": true
-  },
   "XI0TSU": {
    "msg": "1533822001653878984",
    "end": 1785848400,
@@ -6536,7 +6515,7 @@
    "end": 1786449961,
    "title": "#saveglorp  (Can We Get 200+ Raffles ?)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YVQAR9": {
    "msg": "1536539910062997537",
@@ -7194,7 +7173,7 @@
    "end": 1786450441,
    "title": "steak",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IYJNRB": {
    "msg": "1536707238402457690",
@@ -7207,6 +7186,34 @@
    "msg": "1536707245176262727",
    "end": 1786536000,
    "title": "\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "LXNY7H": {
+   "msg": "1536713523722453023",
+   "end": 1786537021,
+   "title": "Press F to Calamity",
+   "items": 1,
+   "ended": false
+  },
+  "G958CQ": {
+   "msg": "1536713530336878703",
+   "end": 1786536841,
+   "title": "DR. \u00dcBERFUCK IS BACK.  THE END TO SLUG WAR",
+   "items": 1,
+   "ended": false
+  },
+  "NPD5V4": {
+   "msg": "1536713536494112808",
+   "end": 1786536781,
+   "title": "This war is pointless",
+   "items": 1,
+   "ended": false
+  },
+  "2NIZPT": {
+   "msg": "1536713543531888744",
+   "end": 1786536662,
+   "title": "I am bad with titles #142",
    "items": 1,
    "ended": false
   }
