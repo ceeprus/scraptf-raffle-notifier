@@ -49,34 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "GD5PJC": {
-   "msg": "1533977942059913437",
-   "end": 1785885361,
-   "title": "Getting Down To It #60",
-   "items": 1,
-   "ended": true
-  },
-  "UFLVGD": {
-   "msg": "1533977948544172194",
-   "end": 1785885361,
-   "title": "I'M OLD!",
-   "items": 1,
-   "ended": true
-  },
-  "IVI0NN": {
-   "msg": "1533977955238416464",
-   "end": 1785885121,
-   "title": "Getting Down To It #59",
-   "items": 1,
-   "ended": true
-  },
-  "LKX087": {
-   "msg": "1533977961638789232",
-   "end": 1785884882,
-   "title": "Getting Down To It #58",
-   "items": 1,
-   "ended": true
-  },
   "WKA8MY": {
    "msg": "1533982972590559272",
    "end": 1785886502,
@@ -606,13 +578,6 @@
    "msg": "1534336544226152538",
    "end": 1785970800,
    "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "UDUV8J": {
-   "msg": "1534339057885249536",
-   "end": 1785885361,
-   "title": "Hi guys ;]",
    "items": 1,
    "ended": true
   },
@@ -6067,21 +6032,21 @@
    "end": 1786490641,
    "title": "\ud83e\uddc2#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3HT5H2": {
    "msg": "1536517230026817546",
    "end": 1786490461,
    "title": "\ud83e\uddc2#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "US94HZ": {
    "msg": "1536517236934709279",
    "end": 1786490281,
    "title": "Raffling a  every time I win a  #75",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0FQ3SZ": {
    "msg": "1536517242722721802",
@@ -6109,28 +6074,28 @@
    "end": 1786489921,
    "title": "SAVE OUR GLORPS",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YMV0UX": {
    "msg": "1536517267410522133",
    "end": 1786489502,
    "title": "#saveglorp \u200b\u200b\u200b\u200b\u200b\u200b\u200bsave glorp !",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D40CSH": {
    "msg": "1536517273613897809",
    "end": 1786489502,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "73GFL2": {
    "msg": "1536517280794542210",
    "end": 1786489381,
    "title": "An update to tips for salt emojis \ud83e\uddc2   in  raffle titles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N3N8RO": {
    "msg": "1536517287505567785",
@@ -6186,7 +6151,7 @@
    "end": 1786490941,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GIOGE3": {
    "msg": "1536524820378943508",
@@ -7606,6 +7571,27 @@
    "msg": "1536872123572817950",
    "end": 1786490642,
    "title": "\ud83c\udf0a #SundownerSweep \ud83c\udf0a",
+   "items": 1,
+   "ended": true
+  },
+  "UINZO8": {
+   "msg": "1536879604424376471",
+   "end": 1786494002,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WYQD07": {
+   "msg": "1536879610568904725",
+   "end": 1786575661,
+   "title": "\ud83c\udf0a TOTAL  ANNHILATION \ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "9NCTF1": {
+   "msg": "1536879617208746109",
+   "end": 1786575600,
+   "title": "A  a day",
    "items": 1,
    "ended": false
   }
