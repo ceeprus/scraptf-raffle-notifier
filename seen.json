@@ -5794,56 +5794,56 @@
    "end": 1786482000,
    "title": "checkup #86 | Modding Ideas maybe",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PIW6ZR": {
    "msg": "1536479515965005895",
    "end": 1786481761,
    "title": "Executing Naughty Crates [#78, #79, #88 & #89]",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AJWUXG": {
    "msg": "1536479522378227873",
    "end": 1786481701,
    "title": "The only good  is a dead",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "6JUX1G": {
    "msg": "1536479528631799839",
    "end": 1786481701,
    "title": "Make some noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ARBHF4": {
    "msg": "1536479534432395286",
    "end": 1786481581,
    "title": "\ud83e\uddc2salt the slugs\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UBQZAB": {
    "msg": "1536479540577308812",
    "end": 1786481341,
    "title": "Fresh meat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LS9XFE": {
    "msg": "1536479547363434556",
    "end": 1786481341,
    "title": "#saveglorp",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UUSBJE": {
    "msg": "1536479555546513488",
    "end": 1786481162,
    "title": "\u2757\u2757\u2757 PEACE DEAL \u2757\u2757\u2757",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XYOIVV": {
    "msg": "1536479562660057100",
@@ -5864,7 +5864,7 @@
    "end": 1786480741,
    "title": "just scrap",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QOERHY": {
    "msg": "1536479582918541442",
@@ -5878,7 +5878,7 @@
    "end": 1786480561,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P4A70R": {
    "msg": "1536479597007470636",
@@ -7509,6 +7509,34 @@
    "end": 1786564562,
    "title": "#SaveNoOne",
    "items": 3,
+   "ended": false
+  },
+  "IIARB5": {
+   "msg": "1536841891017003048",
+   "end": 1786568400,
+   "title": "checkup #87 | War about slugs and glorps",
+   "items": 1,
+   "ended": false
+  },
+  "NPM1IA": {
+   "msg": "1536841899464196097",
+   "end": 1786567021,
+   "title": "Kiestu's #slugmantors peaceful raffle.",
+   "items": 1,
+   "ended": false
+  },
+  "G7U75Q": {
+   "msg": "1536841909161562195",
+   "end": 1786566902,
+   "title": "\ud83c\udf0a is scary",
+   "items": 1,
+   "ended": false
+  },
+  "MZLMWH": {
+   "msg": "1536841917806026823",
+   "end": 1786523281,
+   "title": "Unclaimed Item",
+   "items": 1,
    "ended": false
   }
  },
