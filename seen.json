@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "D3UXKF": {
-   "msg": "1533954026306277491",
-   "end": 1785879601,
-   "title": "Dad.. Dad. I'm not an assassin dad, I'm a crazed gunman. ...Well, the difference bein', one is a mental sickness, and the other's a job!",
-   "items": 7,
-   "ended": true
-  },
-  "2AL83L": {
-   "msg": "1533959041406210102",
-   "end": 1785880800,
-   "title": "checkup #80 | How it feels to play Demoman",
-   "items": 1,
-   "ended": true
-  },
   "1OAQA7": {
    "msg": "1533969143760687255",
    "end": 1785883081,
@@ -5927,7 +5913,7 @@
    "end": 1786484762,
    "title": "\ud83e\uddc2 Facts:",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VKUX4G": {
    "msg": "1536494628663205978",
@@ -5983,7 +5969,7 @@
    "end": 1786485481,
    "title": "emoji raffle 2       \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4UIJHY": {
    "msg": "1536502114413445130",
@@ -6809,7 +6795,7 @@
    "end": 1786485600,
    "title": "[DAY 6] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S52YQQ": {
    "msg": "1536681583249989642",
@@ -7579,6 +7565,20 @@
    "end": 1786568521,
    "title": "\ud83c\udf0a",
    "items": 1,
+   "ended": false
+  },
+  "BFIZIZ": {
+   "msg": "1536856992910540950",
+   "end": 1786570561,
+   "title": "KILL THEM ALL! AH HAH HAH - Heavy Weapons Guy",
+   "items": 17,
+   "ended": false
+  },
+  "TBYBWV": {
+   "msg": "1536857000548237362",
+   "end": 1786570261,
+   "title": "random stuff",
+   "items": 46,
    "ended": false
   }
  },
