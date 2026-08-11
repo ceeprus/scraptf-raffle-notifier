@@ -49,38 +49,10 @@
    "items": 12,
    "ended": false
   },
-  "GN9NTL": {
-   "msg": "1533680997034496161",
-   "end": 1785814562,
-   "title": "i gotta stop playing mvm pt.7",
-   "items": 28,
-   "ended": true
-  },
-  "1FEPZX": {
-   "msg": "1533683508248055808",
-   "end": 1785814922,
-   "title": "Caf\u00e9 Crit-A-Coffee #1747",
-   "items": 14,
-   "ended": true
-  },
-  "RN7DNJ": {
-   "msg": "1533686086856081458",
-   "end": 1785815762,
-   "title": "Troubled Thoughts",
-   "items": 1,
-   "ended": true
-  },
   "EU63PY": {
    "msg": "1533688529429991514",
    "end": 1785816422,
    "title": "Day 50-51 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "EG2OYV": {
-   "msg": "1533688536467771435",
-   "end": 1785815941,
-   "title": "Day 55-56",
    "items": 1,
    "ended": true
   },
@@ -5374,7 +5346,7 @@
    "end": 1786419482,
    "title": "After 10 years, I went back to playing TF2",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "IX0PFX": {
    "msg": "1536230333970645052",
@@ -6704,7 +6676,7 @@
    "end": 1786419901,
    "title": "too many people want to hold paws with me im so overwhelmed",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "6ZMTGS": {
    "msg": "1536524147964903455",
@@ -6899,6 +6871,20 @@
    "msg": "1536576617374023681",
    "end": 1786504082,
    "title": "Raffling a  every time I win a  #76",
+   "items": 1,
+   "ended": false
+  },
+  "UL71V6": {
+   "msg": "1536585191437635745",
+   "end": 1786506181,
+   "title": "\ud83e\uddc2Raffle Log #93",
+   "items": 1,
+   "ended": false
+  },
+  "UHBZ72": {
+   "msg": "1536585197565509672",
+   "end": 1786505581,
+   "title": "WUSSSAAAAAAP GUYS, tomorrow im finally flying out of California and back home",
    "items": 1,
    "ended": false
   }
