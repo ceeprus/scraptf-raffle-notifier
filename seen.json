@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "763Z5J": {
-   "msg": "1533652051207393370",
-   "end": 1785807542,
-   "title": "Pick My Custom Title - Semifinals (1/2)",
-   "items": 5,
-   "ended": true
-  },
   "51YVKX": {
    "msg": "1533654508758896681",
    "end": 1785808201,
@@ -5339,7 +5332,7 @@
    "end": 1786412221,
    "title": "Stuff and things",
    "items": 70,
-   "ended": false
+   "ended": true
   },
   "H6W6YF": {
    "msg": "1536189688136597667",
@@ -6851,6 +6844,13 @@
    "end": 1786495922,
    "title": "#saveglorp",
    "items": 10,
+   "ended": false
+  },
+  "4Y2M1V": {
+   "msg": "1536550393277063249",
+   "end": 1786498381,
+   "title": "\ud83e\uddc2Slugma Chain raffle #3",
+   "items": 1,
    "ended": false
   }
  },
