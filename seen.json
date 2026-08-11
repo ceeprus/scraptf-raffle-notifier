@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "XL7CAB": {
-   "msg": "1533714946792095804",
-   "end": 1785822722,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1494 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 3,
-   "ended": true
-  },
-  "P4NJ5D": {
-   "msg": "1533714954463608832",
-   "end": 1785822542,
-   "title": "Daily Black Boxes #154",
-   "items": 4,
-   "ended": true
-  },
   "AVBXND": {
    "msg": "1533724988987670659",
    "end": 1785824701,
@@ -5374,7 +5360,7 @@
    "end": 1786427581,
    "title": "do you want to know a secret?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9YOC44": {
    "msg": "1536253020554403860",
