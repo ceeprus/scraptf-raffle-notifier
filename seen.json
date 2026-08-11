@@ -49,34 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "SQWP5O": {
-   "msg": "1533883555707617330",
-   "end": 1785863041,
-   "title": "Normal Raffle 3",
-   "items": 1,
-   "ended": true
-  },
-  "0UFQNF": {
-   "msg": "1533883568797909186",
-   "end": 1785862981,
-   "title": "I didn't sleep last night",
-   "items": 4,
-   "ended": true
-  },
-  "HUT727": {
-   "msg": "1533886103394979951",
-   "end": 1785863581,
-   "title": "Answer the poll",
-   "items": 1,
-   "ended": true
-  },
-  "P1B216": {
-   "msg": "1533888574221717595",
-   "end": 1785864002,
-   "title": "Daily raffle until TF2 gets a major update #580",
-   "items": 3,
-   "ended": true
-  },
   "A6HECO": {
    "msg": "1533899948448547067",
    "end": 1785866400,
@@ -5472,28 +5444,28 @@
    "end": 1786468261,
    "title": "it seems like the SLUG WARS have BEGUN >:C",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "WBU0B9": {
    "msg": "1536424483508723865",
    "end": 1786468081,
    "title": "Bau! Bau!",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "ZDL9TD": {
    "msg": "1536424489355837511",
    "end": 1786468022,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "X5QI27": {
    "msg": "1536424496305799238",
    "end": 1786467962,
    "title": "another raffle because these are fun",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "751S56": {
    "msg": "1536424502072713227",
@@ -5514,7 +5486,7 @@
    "end": 1786469400,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OCATE0": {
    "msg": "1536434223370469406",
@@ -7320,6 +7292,62 @@
    "end": 1786553702,
    "title": "Why is everyone \ud83e\uddc2 and #saveglorp",
    "items": 1,
+   "ended": false
+  },
+  "GYS7BS": {
+   "msg": "1536793916672704623",
+   "end": 1786556941,
+   "title": "picture",
+   "items": 1,
+   "ended": false
+  },
+  "I4ZM67": {
+   "msg": "1536793922788007967",
+   "end": 1786556701,
+   "title": "awawawa",
+   "items": 1,
+   "ended": false
+  },
+  "EIRWEO": {
+   "msg": "1536793931042258975",
+   "end": 1786556281,
+   "title": "Craft Hat Giveaway",
+   "items": 34,
+   "ended": false
+  },
+  "ESHO8K": {
+   "msg": "1536793936725803070",
+   "end": 1786512600,
+   "title": "[Fallen Tributes/Night 6] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "VBBVB6": {
+   "msg": "1536793944141205585",
+   "end": 1786555741,
+   "title": "The root cause of the conflict",
+   "items": 1,
+   "ended": false
+  },
+  "34PWRR": {
+   "msg": "1536793952844513300",
+   "end": 1786554001,
+   "title": "He was whipping out amazing foods like making Happiness! \ud83e\uddc2",
+   "items": 13,
+   "ended": false
+  },
+  "P287RY": {
+   "msg": "1536793960545132544",
+   "end": 1786554000,
+   "title": "Daily raffle until TF2 gets a major update #588",
+   "items": 3,
+   "ended": false
+  },
+  "OYATGE": {
+   "msg": "1536793966815477903",
+   "end": 1786553941,
+   "title": "#15",
+   "items": 5,
    "ended": false
   }
  },
