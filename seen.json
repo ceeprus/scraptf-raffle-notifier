@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "LDKX8L": {
-   "msg": "1533907508182257854",
-   "end": 1785868621,
-   "title": "Fact of the day!",
-   "items": 1,
-   "ended": true
-  },
   "XYXOEX": {
    "msg": "1533912590453833748",
    "end": 1785869402,
@@ -5542,14 +5535,14 @@
    "end": 1786473842,
    "title": "I will tip every raffle that has \ud83e\uddc2 (or ) in its title (150 tips in storage)",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "1J769Y": {
    "msg": "1536449368574529596",
    "end": 1786473421,
    "title": "It's salting time!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CICMZ1": {
    "msg": "1536449374752604162",
@@ -6669,21 +6662,21 @@
    "end": 1786474022,
    "title": "\ud83d\udc1f\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YSCLK3": {
    "msg": "1536627969080950824",
    "end": 1786473602,
    "title": "\ud83d\udc33\ud83d\udc0b\ud83d\udc2c\ud83e\uddad\ud83d\udc1f\ud83d\udc20\ud83d\udc21\ud83e\udd88\ud83d\udc19",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J2EY5N": {
    "msg": "1536627975410159716",
    "end": 1786473182,
    "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JEL6JW": {
    "msg": "1536630508035768363",
@@ -7362,6 +7355,20 @@
    "end": 1786557662,
    "title": "returning",
    "items": 1,
+   "ended": false
+  },
+  "G520NT": {
+   "msg": "1536808763183599657",
+   "end": 1786559881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "G3JWZ7": {
+   "msg": "1536808770418638939",
+   "end": 1786516321,
+   "title": "hhhhhhh",
+   "items": 2,
    "ended": false
   }
  },
