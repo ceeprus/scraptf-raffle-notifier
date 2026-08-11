@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "1OAQA7": {
-   "msg": "1533969143760687255",
-   "end": 1785883081,
-   "title": "I provide music",
-   "items": 1,
-   "ended": true
-  },
-  "7YFPDL": {
-   "msg": "1533969159094927381",
-   "end": 1785883021,
-   "title": "Equestria 4ever",
-   "items": 53,
-   "ended": true
-  },
-  "V2Y0CK": {
-   "msg": "1533975424067964928",
-   "end": 1785884400,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "GD5PJC": {
    "msg": "1533977942059913437",
    "end": 1785885361,
@@ -6039,7 +6018,7 @@
    "end": 1786488661,
    "title": "#SAVEGLORP",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "LMHFND": {
    "msg": "1536509705155772568",
@@ -6060,7 +6039,7 @@
    "end": 1786487881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RZE5J6": {
    "msg": "1536509725863182416",
@@ -6158,21 +6137,21 @@
    "end": 1786489200,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZOAV6F": {
    "msg": "1536517294937870418",
    "end": 1786489081,
    "title": "#slugmantors",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1L77XQ": {
    "msg": "1536517302097416263",
    "end": 1786488961,
    "title": "#saveglorp !!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WYYTWA": {
    "msg": "1536524132101918721",
@@ -7591,6 +7570,41 @@
   "Z5X59W": {
    "msg": "1536864515055161404",
    "end": 1786572901,
+   "title": "\ud83c\udf0a #SundownerSweep \ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "9836R9": {
+   "msg": "1536872095923962032",
+   "end": 1786575362,
+   "title": "The Pain Train has no brakes",
+   "items": 4,
+   "ended": false
+  },
+  "NQVE0S": {
+   "msg": "1536872103440294049",
+   "end": 1786575302,
+   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a NO MERCY TO GLORPS OR SLUGMAS. \ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "1AM5GL": {
+   "msg": "1536872110524334110",
+   "end": 1786575122,
+   "title": "\ud83c\udf0a\ud83c\udf0a NO MERCY TO GLORPS OR SLUGMAS. \ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "Z9SZA1": {
+   "msg": "1536872116933234699",
+   "end": 1786574761,
+   "title": "\ud83c\udf0a NO MERCY TO GLORPS OR SLUGMAS. \ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "01XIYO": {
+   "msg": "1536872123572817950",
+   "end": 1786490642,
    "title": "\ud83c\udf0a #SundownerSweep \ud83c\udf0a",
    "items": 1,
    "ended": false
