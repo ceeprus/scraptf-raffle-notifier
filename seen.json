@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "WRT6YI": {
-   "msg": "1533751578782339173",
-   "end": 1785831061,
-   "title": "((Somewhat)) Saying Goodbye to Team Fortress 2 ((For real this time)) (((Part 1)))",
-   "items": 200,
-   "ended": true
-  },
   "NRNIWJ": {
    "msg": "1533756645719674962",
    "end": 1785832501,
@@ -5423,7 +5416,7 @@
    "end": 1786436701,
    "title": "Hi,I'm a new scamer",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "G8DQER": {
    "msg": "1536298306622193664",
@@ -6256,7 +6249,7 @@
    "end": 1786437002,
    "title": "My first raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "ZGQZVQ": {
    "msg": "1536479632445149184",
@@ -7025,6 +7018,34 @@
    "msg": "1536646384890159134",
    "end": 1786521600,
    "title": "#25",
+   "items": 1,
+   "ended": false
+  },
+  "65TQGG": {
+   "msg": "1536653113963053117",
+   "end": 1786523041,
+   "title": "\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "B87VI5": {
+   "msg": "1536653121164681330",
+   "end": 1786522921,
+   "title": "\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "W7215S": {
+   "msg": "1536653131864350850",
+   "end": 1786522861,
+   "title": "Slugma Chain raffle #4",
+   "items": 1,
+   "ended": false
+  },
+  "N5RHFH": {
+   "msg": "1536653138872762489",
+   "end": 1786521901,
+   "title": "\u201cDarkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that\"",
    "items": 1,
    "ended": false
   }
