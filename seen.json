@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "WCJ9KS": {
-   "msg": "1533946505449177298",
-   "end": 1785877922,
-   "title": "FREE BONES",
-   "items": 1,
-   "ended": true
-  },
-  "DNB1EL": {
-   "msg": "1533946512009199738",
-   "end": 1785877802,
-   "title": "Too much",
-   "items": 3,
-   "ended": true
-  },
-  "Q4FOC3": {
-   "msg": "1533946527528128615",
-   "end": 1785877442,
-   "title": "happle scrapple",
-   "items": 5,
-   "ended": true
-  },
   "D3UXKF": {
    "msg": "1533954026306277491",
    "end": 1785879601,
@@ -5934,7 +5913,7 @@
    "end": 1786483262,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0FI9IJ": {
    "msg": "1536487035341111399",
@@ -5948,7 +5927,7 @@
    "end": 1786482481,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NQFQAB": {
    "msg": "1536494619188142140",
@@ -5976,28 +5955,28 @@
    "end": 1786483801,
    "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "PXXV4W": {
    "msg": "1536494648749465764",
    "end": 1786483561,
    "title": "Loathing",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "AXVISP": {
    "msg": "1536494657351975022",
    "end": 1786483561,
    "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "3T37P2": {
    "msg": "1536494665283411998",
    "end": 1786483381,
    "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "3M50R1": {
    "msg": "1536495576303140899",
@@ -6739,35 +6718,35 @@
    "end": 1786483322,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YCXS6U": {
    "msg": "1536667392879362048",
    "end": 1786483141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OS3DGG": {
    "msg": "1536667399665754113",
    "end": 1786483081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NVYJDZ": {
    "msg": "1536667406447943690",
    "end": 1786482901,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "16OG9O": {
    "msg": "1536667413020409896",
    "end": 1786482722,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "58S5LJ": {
    "msg": "1536675816161804318",
@@ -7536,6 +7515,76 @@
    "msg": "1536841917806026823",
    "end": 1786523281,
    "title": "Unclaimed Item",
+   "items": 1,
+   "ended": false
+  },
+  "A9U8E7": {
+   "msg": "1536849417515311294",
+   "end": 1786570142,
+   "title": "i dont know what is happening but  \ud83e\uddc2\ud83e\uddc2",
+   "items": 2,
+   "ended": false
+  },
+  "36ZKJR": {
+   "msg": "1536849428869292074",
+   "end": 1786569901,
+   "title": "Non-Craftaballs Part 3",
+   "items": 10,
+   "ended": false
+  },
+  "IYMPN5": {
+   "msg": "1536849436620103833",
+   "end": 1786569421,
+   "title": "#saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "LL5PA8": {
+   "msg": "1536849443570188368",
+   "end": 1786569061,
+   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "Q26KBP": {
+   "msg": "1536849450704707745",
+   "end": 1786569001,
+   "title": "#saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "LOPE1S": {
+   "msg": "1536849457172451339",
+   "end": 1786568882,
+   "title": "#saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "BKG16J": {
+   "msg": "1536849464248242196",
+   "end": 1786568761,
+   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "8E7KWK": {
+   "msg": "1536849472267616326",
+   "end": 1786568642,
+   "title": "\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "TFPA4J": {
+   "msg": "1536849481784623154",
+   "end": 1786568581,
+   "title": "#SundownerSweep",
+   "items": 2,
+   "ended": false
+  },
+  "LOUV1N": {
+   "msg": "1536849489208418404",
+   "end": 1786568521,
+   "title": "\ud83c\udf0a",
    "items": 1,
    "ended": false
   }
