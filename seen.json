@@ -5276,7 +5276,7 @@
    "end": 1786406400,
    "title": "Slugma Supremacy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4UZ82T": {
    "msg": "1536169922600894556",
@@ -6768,12 +6768,19 @@
    "title": "#saveglorp",
    "items": 1,
    "ended": false
+  },
+  "GIOGE3": {
+   "msg": "1536524820378943508",
+   "end": 1786449481,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
-  "num": 1163,
-  "end": 1786406400,
-  "msg": "1535437681574674464",
+  "num": 1164,
+  "end": 1786665600,
+  "msg": "1536524841304203274",
   "ended": false
  }
 }
