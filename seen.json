@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "5AHZER": {
-   "msg": "1534213204044152842",
-   "end": 1785941041,
-   "title": "barabulka",
-   "items": 1,
-   "ended": true
-  },
   "SZEY56": {
    "msg": "1534230875607142400",
    "end": 1785945600,
@@ -257,13 +250,6 @@
    "end": 1785983941,
    "title": "Graveyard Raffle (#2)",
    "items": 7,
-   "ended": true
-  },
-  "E0IMVQ": {
-   "msg": "1534394399340101833",
-   "end": 1785941402,
-   "title": "Raffling Scrap Till I'm Out #994 (Bleh)",
-   "items": 1,
    "ended": true
   },
   "ZPI8X5": {
@@ -6585,28 +6571,28 @@
    "end": 1786545121,
    "title": "Pass the Salt... \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3L1R8Y": {
    "msg": "1536751330281127996",
    "end": 1786545961,
    "title": "#14",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "JUQV4N": {
    "msg": "1536751337075908648",
    "end": 1786545842,
    "title": "one gift a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZUYGQA": {
    "msg": "1536751343585464390",
    "end": 1786545661,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E5L7UL": {
    "msg": "1536758867759730699",
@@ -6641,14 +6627,14 @@
    "end": 1786546800,
    "title": "What is up with all the \ud83e\uddc2?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "E7FHG9": {
    "msg": "1536758908637683754",
    "end": 1786546800,
    "title": "I know what to do with the \ud83e\uddc2 now",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "23RXPW": {
    "msg": "1536758915650289857",
@@ -7894,6 +7880,20 @@
    "end": 1786630142,
    "title": "\ud83c\udf0a",
    "items": 1,
+   "ended": false
+  },
+  "TJZ31G": {
+   "msg": "1537113696558383124",
+   "end": 1786632002,
+   "title": "\ud83c\udf0a",
+   "items": 6,
+   "ended": false
+  },
+  "QBOFGL": {
+   "msg": "1537113705123283065",
+   "end": 1786631521,
+   "title": "\ud83c\udf0a Turn Up the Volume to Wash Away the Slops!",
+   "items": 4,
    "ended": false
   }
  },
