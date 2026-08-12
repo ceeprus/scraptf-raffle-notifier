@@ -63,24 +63,10 @@
    "items": 1,
    "ended": false
   },
-  "WTG83B": {
-   "msg": "1534305243112673444",
-   "end": 1785962881,
-   "title": "Graveyard Raffle (#1)",
-   "items": 7,
-   "ended": true
-  },
   "91YAV1": {
    "msg": "1534307612936634379",
    "end": 1785963721,
    "title": "checkup #81 | Casual",
-   "items": 1,
-   "ended": true
-  },
-  "ZSC68I": {
-   "msg": "1534307622889718013",
-   "end": 1785963482,
-   "title": "11k raffles entered",
    "items": 1,
    "ended": true
   },
@@ -530,13 +516,6 @@
    "end": 1786033800,
    "title": "It came to me in a dream",
    "items": 3,
-   "ended": true
-  },
-  "BDPDLV": {
-   "msg": "1534604596574687273",
-   "end": 1785962221,
-   "title": "Hello, how are you?",
-   "items": 11,
    "ended": true
   },
   "0QCIEB": {
@@ -6816,21 +6795,21 @@
    "end": 1786568400,
    "title": "checkup #87 | War about slugs and glorps",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NPM1IA": {
    "msg": "1536841899464196097",
    "end": 1786567021,
    "title": "Kiestu's #slugmantors peaceful raffle.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G7U75Q": {
    "msg": "1536841909161562195",
    "end": 1786566902,
    "title": "\ud83c\udf0a is scary",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MZLMWH": {
    "msg": "1536841917806026823",
@@ -7355,14 +7334,14 @@
    "end": 1786568102,
    "title": "Happy Scrappy!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "YKEG3T": {
    "msg": "1537023106160529468",
    "end": 1786567741,
    "title": "Question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OTDZDK": {
    "msg": "1537023112971816961",
@@ -7935,6 +7914,13 @@
    "msg": "1537196730343366717",
    "end": 1786607942,
    "title": "\ud83c\udf0a\ud83e\uddc2It was to be done\ud83e\uddc2 \ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "FZ2C23": {
+   "msg": "1537204279818063875",
+   "end": 1786653782,
+   "title": "Daily Brass Beast #536",
    "items": 1,
    "ended": false
   }
