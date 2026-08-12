@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "RB4J6G": {
-   "msg": "1534087411909525646",
-   "end": 1785911042,
-   "title": "168 keys art commission for soy bing",
-   "items": 5,
-   "ended": true
-  },
   "KSSQXR": {
    "msg": "1534089912981393578",
    "end": null,
@@ -6270,7 +6263,7 @@
    "end": 1786515961,
    "title": "Flower Dream",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "9LZNAP": {
    "msg": "1536622930996371618",
@@ -6291,42 +6284,42 @@
    "end": 1786515842,
    "title": "Graveyard raffle (#11)",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "T3U7GT": {
    "msg": "1536622953419112509",
    "end": 1786515721,
    "title": "Day 4 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "B3JW7D": {
    "msg": "1536622960054505563",
    "end": 1786515362,
    "title": "im a dumbass",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "AE596S": {
    "msg": "1536622967554056227",
    "end": 1786515362,
    "title": "FISH",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "6TRYM1": {
    "msg": "1536622974042505218",
    "end": 1786515301,
    "title": "\ud83e\uddc2\ud83e\uddc2 Salty springs\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9P7CV6": {
    "msg": "1536622981936316506",
    "end": 1786514762,
    "title": "Mad Dog Monday #263",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XOWEWJ": {
    "msg": "1536627962726842399",
@@ -7628,7 +7621,7 @@
    "end": 1786515602,
    "title": "1st raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "PWS8J7": {
    "msg": "1536970216473370684",
@@ -7656,6 +7649,20 @@
    "end": 1786600141,
    "title": "We (Yes, WE) need a Slugma chain emote NOW! P.5",
    "items": 8,
+   "ended": false
+  },
+  "C12997": {
+   "msg": "1536985309999403138",
+   "end": 1786537261,
+   "title": "\ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "5PXZ0M": {
+   "msg": "1536985318291546135",
+   "end": 1786537081,
+   "title": "\ud83c\udf0a\ud83d\udc1f",
+   "items": 2,
    "ended": false
   }
  },
