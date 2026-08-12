@@ -56,20 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "TEIVI3": {
-   "msg": "1534105008080162867",
-   "end": 1785915541,
-   "title": "Crate addiction big wins",
-   "items": 9,
-   "ended": true
-  },
-  "EP0Z3X": {
-   "msg": "1534110076841754684",
-   "end": 1785916621,
-   "title": "i miss my wife",
-   "items": 1,
-   "ended": true
-  },
   "O3Z8MZ": {
    "msg": "1534112583702024294",
    "end": 1785917641,
@@ -6361,14 +6347,14 @@
    "end": 1786520761,
    "title": "Day 30 Of \"Bad\" Weapon   \ud83e\uddc2",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "QKUBB1": {
    "msg": "1536645628854276166",
    "end": 1786520521,
    "title": "\ud83d\udc1f This situation is real \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7HUYM1": {
    "msg": "1536645636517265461",
@@ -6389,7 +6375,7 @@
    "end": 1786521600,
    "title": "#25",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "65TQGG": {
    "msg": "1536653113963053117",
@@ -7138,7 +7124,7 @@
    "end": 1786521301,
    "title": "\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2W6O3O": {
    "msg": "1536825358291046521",
@@ -7705,6 +7691,48 @@
    "end": 1786561200,
    "title": "It is",
    "items": 10,
+   "ended": false
+  },
+  "RDBV74": {
+   "msg": "1537007981621673984",
+   "end": 1786607642,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "J167YI": {
+   "msg": "1537007989955760188",
+   "end": 1786564381,
+   "title": "Jesus Christ is the king of kings",
+   "items": 50,
+   "ended": false
+  },
+  "A1FKSM": {
+   "msg": "1537007996561784832",
+   "end": 1786607341,
+   "title": "(\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f from \ud83c\udf0a) +    =  * 88888 =",
+   "items": 1,
+   "ended": false
+  },
+  "RQN9T4": {
+   "msg": "1537008002727415838",
+   "end": 1786564141,
+   "title": "Slugma still alive",
+   "items": 1,
+   "ended": false
+  },
+  "3ZTCE0": {
+   "msg": "1537008009912524912",
+   "end": 1786607281,
+   "title": "#saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "J0K7QQ": {
+   "msg": "1537008016019165237",
+   "end": 1786606381,
+   "title": "how to heal glorp?",
+   "items": 30,
    "ended": false
   }
  },
