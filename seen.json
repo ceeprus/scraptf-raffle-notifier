@@ -56,20 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "85PJ2O": {
-   "msg": "1534247227407597668",
-   "end": 1785949561,
-   "title": "my name is Giorno Giovanna and i have a dream",
-   "items": 1,
-   "ended": true
-  },
-  "RYKX4L": {
-   "msg": "1534252291736080385",
-   "end": 1785950642,
-   "title": "meow",
-   "items": 1,
-   "ended": true
-  },
   "IH3R97": {
    "msg": "1534261036809715793",
    "end": 1785952861,
@@ -378,25 +364,11 @@
    "items": 2,
    "ended": true
   },
-  "W8U1A1": {
-   "msg": "1534519009473462383",
-   "end": 1785949381,
-   "title": "What should i raffle today?",
-   "items": 5,
-   "ended": true
-  },
   "XDJ8MG": {
    "msg": "1534519015798607943",
    "end": 1786014000,
    "title": "How come they can ignore gravity?! It's not fair!",
    "items": 1,
-   "ended": true
-  },
-  "159HV3": {
-   "msg": "1534521517826769020",
-   "end": 1785950101,
-   "title": "the amazing digital citrus",
-   "items": 3,
    "ended": true
   },
   "W1G3S9": {
@@ -7922,6 +7894,13 @@
    "end": 1786638601,
    "title": "Grabli304's   war Chain raffle is still not over. #  sweep",
    "items": 1,
+   "ended": false
+  },
+  "HOPYQN": {
+   "msg": "1537150143214649355",
+   "end": 1786640522,
+   "title": "Raffle 1, comment items, types of items, classes, qualities you want to see in raffle 2",
+   "items": 14,
    "ended": false
   }
  },
