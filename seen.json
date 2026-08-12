@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "231Z0R": {
-   "msg": "1534011878219714662",
-   "end": 1785893641,
-   "title": "Waluigi time",
-   "items": 2,
-   "ended": true
-  },
-  "63DPBK": {
-   "msg": "1534016934897778760",
-   "end": 1785894901,
-   "title": "Pok\u00e9Journey #1 - LeafGreen completed with two shinies",
-   "items": 3,
-   "ended": true
-  },
-  "ILGX7R": {
-   "msg": "1534016946201296908",
-   "end": 1785894781,
-   "title": "Twisting the strangle grip Won't give no mercy!",
-   "items": 9,
-   "ended": true
-  },
   "DEFP4Z": {
    "msg": "1534035811266199692",
    "end": 1785898981,
@@ -313,13 +292,6 @@
    "end": 1785936601,
    "title": "#17",
    "items": 1,
-   "ended": true
-  },
-  "GS1WUJ": {
-   "msg": "1534196762385059982",
-   "end": 1785893881,
-   "title": "100 entered raffles and havent won once.",
-   "items": 39,
    "ended": true
   },
   "SIUT1E": {
@@ -6214,7 +6186,7 @@
    "end": 1786498381,
    "title": "\ud83e\uddc2Slugma Chain raffle #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ARYRNZ": {
    "msg": "1536570122532290651",
@@ -7614,6 +7586,13 @@
    "end": 1786519502,
    "title": "baaahhhh baaaa bleeeaat *sticks my hooves up in the air*",
    "items": 46,
+   "ended": false
+  },
+  "TMRSCC": {
+   "msg": "1536917435649761291",
+   "end": 1786541400,
+   "title": "More",
+   "items": 1,
    "ended": false
   }
  },
