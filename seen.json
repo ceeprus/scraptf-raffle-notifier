@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "413H29": {
-   "msg": "1534004332108841050",
-   "end": 1785891600,
-   "title": "Reminder to eat n' drink water if ye haven't yet #263",
-   "items": 5,
-   "ended": true
-  },
-  "AZ4WJZ": {
-   "msg": "1534004338974785768",
-   "end": 1785891422,
-   "title": "I miss making raffles",
-   "items": 1,
-   "ended": true
-  },
   "231Z0R": {
    "msg": "1534011878219714662",
    "end": 1785893641,
@@ -6200,28 +6186,28 @@
    "end": 1786496461,
    "title": "MEDIC!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YEEC9N": {
    "msg": "1536547451878776892",
    "end": 1786496341,
    "title": "Wario ware war profiteering. Long live Slugma",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "91EHRK": {
    "msg": "1536547457729695834",
    "end": 1786496281,
    "title": "Catponder For Scrap Emote List 2026",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LH5GYO": {
    "msg": "1536547465702932491",
    "end": 1786495922,
    "title": "#saveglorp",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "4Y2M1V": {
    "msg": "1536550393277063249",
@@ -7600,6 +7586,13 @@
    "end": 1786577462,
    "title": "#100007",
    "items": 1,
+   "ended": false
+  },
+  "MYLHHX": {
+   "msg": "1536902307243892827",
+   "end": 1786538161,
+   "title": "my first raffle\ud83d\udc4d\ud83d\udc4d",
+   "items": 4,
    "ended": false
   }
  },
