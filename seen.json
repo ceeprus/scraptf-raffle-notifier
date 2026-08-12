@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "ONEFMS": {
-   "msg": "1534073570391621792",
-   "end": 1785907621,
-   "title": "Day 57 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
   "0JT930": {
    "msg": "1534076082251108522",
    "end": 1785908761,
@@ -6984,7 +6977,7 @@
    "end": 1786512600,
    "title": "[Fallen Tributes/Night 6] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VBBVB6": {
    "msg": "1536793944141205585",
@@ -7642,6 +7635,20 @@
    "end": 1786597381,
    "title": "Day 5 of asking for Slugma Chain emoticon",
    "items": 3,
+   "ended": false
+  },
+  "IX14TQ": {
+   "msg": "1536970210299609178",
+   "end": 1786515602,
+   "title": "1st raffle",
+   "items": 4,
+   "ended": false
+  },
+  "PWS8J7": {
+   "msg": "1536970216473370684",
+   "end": 1786598281,
+   "title": "M (part two)",
+   "items": 1,
    "ended": false
   }
  },
