@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "4ML7BD": {
-   "msg": "1534288720566554825",
-   "end": 1785959581,
-   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #1.5",
-   "items": 2,
-   "ended": true
-  },
-  "2CH787": {
-   "msg": "1534291245105545357",
-   "end": 1785960000,
-   "title": "A Refined a day keeps the doctor away! #28",
-   "items": 1,
-   "ended": true
-  },
-  "008I1H": {
-   "msg": "1534291251585618034",
-   "end": 1785959762,
-   "title": "Come in",
-   "items": 1,
-   "ended": true
-  },
   "RDHXGO": {
    "msg": "1534297639963726024",
    "end": 1785961201,
@@ -6788,28 +6767,28 @@
    "end": 1786564381,
    "title": "first raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JWA9AQ": {
    "msg": "1536825365195001906",
    "end": 1786564141,
    "title": "#saveglorp ?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TDRS0Q": {
    "msg": "1536825373642326118",
    "end": 1786563961,
    "title": "\u0421\u043e\u0432\u0435\u0442\u044b \u043f\u043e \u0442\u0440\u0435\u0439\u0434\u0443 2",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "B0MZFM": {
    "msg": "1536825380642750605",
    "end": 1786563421,
    "title": "How come we're  ing all these Slugmas?! #3-4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M5003H": {
    "msg": "1536825386581631098",
@@ -6844,21 +6823,21 @@
    "end": 1786564800,
    "title": "Equestria 4ever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "M3D1UC": {
    "msg": "1536834358114263130",
    "end": 1786564800,
    "title": "We need more Engineer Mains! #001: Reloaded",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "TIT6ZE": {
    "msg": "1536834364678217739",
    "end": 1786564562,
    "title": "#SaveNoOne",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "IIARB5": {
    "msg": "1536841891017003048",
@@ -7362,7 +7341,7 @@
    "end": 1786564381,
    "title": "Jesus Christ is the king of kings",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "A1FKSM": {
    "msg": "1537007996561784832",
@@ -7376,7 +7355,7 @@
    "end": 1786564141,
    "title": "Slugma still alive",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3ZTCE0": {
    "msg": "1537008009912524912",
@@ -7929,6 +7908,34 @@
    "end": 1786647482,
    "title": "Special Delivery!",
    "items": 20,
+   "ended": false
+  },
+  "8O8OZ5": {
+   "msg": "1537189184027238511",
+   "end": 1786650841,
+   "title": "\ud83c\udf0a Armed and Ready to Flush the Slop!",
+   "items": 2,
+   "ended": false
+  },
+  "6YIDF0": {
+   "msg": "1537189192084226108",
+   "end": 1786565942,
+   "title": "\ud83d\udc9aTake away my noisemakers#13\ud83d\udc9a",
+   "items": 50,
+   "ended": false
+  },
+  "PE0Z4H": {
+   "msg": "1537189200506523718",
+   "end": 1786650481,
+   "title": "i think life is inherently awesome and depressing",
+   "items": 9,
+   "ended": false
+  },
+  "1NE09G": {
+   "msg": "1537189208215519382",
+   "end": 1786607162,
+   "title": "Some More",
+   "items": 1,
    "ended": false
   }
  },
