@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "06I682": {
-   "msg": "1534266091864457248",
-   "end": 1785953521,
-   "title": "Daily Brass Beast #528",
-   "items": 1,
-   "ended": true
-  },
   "6LW2XY": {
    "msg": "1534268578600194088",
    "end": 1785954362,
@@ -635,13 +628,6 @@
    "end": 1786035600,
    "title": "Reduce",
    "items": 4,
-   "ended": true
-  },
-  "NXB6NK": {
-   "msg": "1534617149015064828",
-   "end": 1785953041,
-   "title": "Untitled raffle",
-   "items": 7,
    "ended": true
   },
   "XST5G3": {
@@ -6676,21 +6662,21 @@
    "end": 1786558321,
    "title": "Yet another day of wasting money",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "2T0JSO": {
    "msg": "1536804131254308874",
    "end": 1786557901,
    "title": "Daily raffle #342",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UTQKBU": {
    "msg": "1536804139424813197",
    "end": 1786557721,
    "title": "Anyone Know the Best Way to Resell Items?",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "881MJZ": {
    "msg": "1536804146718703706",
@@ -7907,6 +7893,20 @@
    "msg": "1537159020102811663",
    "end": 1786642981,
    "title": "A cool thing for a cool scout",
+   "items": 1,
+   "ended": false
+  },
+  "OCI1A6": {
+   "msg": "1537162302774575197",
+   "end": 1786644422,
+   "title": "\ud83c\udf0a",
+   "items": 3,
+   "ended": false
+  },
+  "P8VQUV": {
+   "msg": "1537162338900377751",
+   "end": 1786643581,
+   "title": "Daily Hat #77",
    "items": 1,
    "ended": false
   }
