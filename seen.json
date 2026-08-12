@@ -56,24 +56,10 @@
    "items": 1,
    "ended": false
   },
-  "154IN7": {
-   "msg": "1534242193424781473",
-   "end": 1785948001,
-   "title": "For The Trolldier Players",
-   "items": 1,
-   "ended": true
-  },
   "85PJ2O": {
    "msg": "1534247227407597668",
    "end": 1785949561,
    "title": "my name is Giorno Giovanna and i have a dream",
-   "items": 1,
-   "ended": true
-  },
-  "WXHA1G": {
-   "msg": "1534247234609221722",
-   "end": 1785949200,
-   "title": "sum bullshit",
    "items": 1,
    "ended": true
   },
@@ -627,13 +613,6 @@
    "msg": "1534588205364547739",
    "end": 1786030562,
    "title": "My HONEST feelings about scrap users #7 [10 users, 9 actually i lied to you haha]",
-   "items": 1,
-   "ended": true
-  },
-  "9M001R": {
-   "msg": "1534593246624481363",
-   "end": 1785947582,
-   "title": "just scrap",
    "items": 1,
    "ended": true
   },
@@ -6662,14 +6641,14 @@
    "end": 1786553882,
    "title": "My First Raffle !!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3HBRQS": {
    "msg": "1536781507228864603",
    "end": 1786553702,
    "title": "Why is everyone \ud83e\uddc2 and #saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GYS7BS": {
    "msg": "1536793916672704623",
@@ -6711,21 +6690,21 @@
    "end": 1786554001,
    "title": "He was whipping out amazing foods like making Happiness! \ud83e\uddc2",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "P287RY": {
    "msg": "1536793960545132544",
    "end": 1786554000,
    "title": "Daily raffle until TF2 gets a major update #588",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "OYATGE": {
    "msg": "1536793966815477903",
    "end": 1786553941,
    "title": "#15",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "JYHCOK": {
    "msg": "1536796598758146249",
@@ -7915,6 +7894,34 @@
    "end": 1786636800,
    "title": "Scrap.tf Birthdays - 12 August",
    "items": 3,
+   "ended": false
+  },
+  "E1MZRL": {
+   "msg": "1537143903885721731",
+   "end": 1786640400,
+   "title": "Daily raffle until TF2 gets a major update #589",
+   "items": 3,
+   "ended": false
+  },
+  "AQN6PE": {
+   "msg": "1537143910999003197",
+   "end": 1786640400,
+   "title": "Story Time",
+   "items": 3,
+   "ended": false
+  },
+  "WOOX4M": {
+   "msg": "1537143917026218075",
+   "end": 1786640162,
+   "title": "Raffle Spam Pandemic Of 2026",
+   "items": 1,
+   "ended": false
+  },
+  "CJF23V": {
+   "msg": "1537143925498978486",
+   "end": 1786638601,
+   "title": "Grabli304's   war Chain raffle is still not over. #  sweep",
+   "items": 1,
    "ended": false
   }
  },
