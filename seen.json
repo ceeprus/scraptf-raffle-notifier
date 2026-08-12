@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "5O5B6V": {
-   "msg": "1534156615975047319",
-   "end": 1785927600,
-   "title": "Huh, how...why- AHH!!",
-   "items": 1,
-   "ended": true
-  },
   "1BWQ6Y": {
    "msg": "1534167901932748881",
    "end": 1785930721,
@@ -6473,7 +6466,7 @@
    "end": 1786532400,
    "title": "Talk about...gasp! being crabby!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GZGMTJ": {
    "msg": "1536690919992987700",
@@ -7768,6 +7761,13 @@
    "end": 1786616701,
    "title": "Grabli304's raffle\u2503Day 164",
    "items": 2,
+   "ended": false
+  },
+  "LU2YM0": {
+   "msg": "1537053285318524980",
+   "end": 1786618322,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
