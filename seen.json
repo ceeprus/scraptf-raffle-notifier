@@ -7033,7 +7033,7 @@
    "end": 1786516321,
    "title": "hhhhhhh",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RAHUQR": {
    "msg": "1536811699280285756",
@@ -7663,6 +7663,20 @@
    "end": 1786537081,
    "title": "\ud83c\udf0a\ud83d\udc1f",
    "items": 2,
+   "ended": false
+  },
+  "HVQJZM": {
+   "msg": "1536990432804872302",
+   "end": 1786602721,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XTKPVS": {
+   "msg": "1536990439104712764",
+   "end": 1786602541,
+   "title": "\ud83c\udf0a\ud83d\udc1f Hat with No Name   \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
    "ended": false
   }
  },
