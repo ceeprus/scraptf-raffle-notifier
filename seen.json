@@ -6599,28 +6599,28 @@
    "end": 1786548122,
    "title": "Daily Brass Beast #535 \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ORA5NP": {
    "msg": "1536758877012500642",
    "end": 1786548002,
    "title": "render for you",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "7ZAW8Y": {
    "msg": "1536758884344012901",
    "end": 1786547702,
    "title": "Seriously, what should we eat?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RS8PYZ": {
    "msg": "1536758893600837773",
    "end": 1786547222,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "SQ79YV": {
    "msg": "1536758900546736159",
@@ -7894,6 +7894,20 @@
    "end": 1786631521,
    "title": "\ud83c\udf0a Turn Up the Volume to Wash Away the Slops!",
    "items": 4,
+   "ended": false
+  },
+  "QIKEXX": {
+   "msg": "1537120321130332350",
+   "end": 1786633861,
+   "title": "Silent night.",
+   "items": 3,
+   "ended": false
+  },
+  "1HETVV": {
+   "msg": "1537120327807541288",
+   "end": 1786633561,
+   "title": "Question",
+   "items": 1,
    "ended": false
   }
  },
