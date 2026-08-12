@@ -6494,7 +6494,7 @@
    "end": 1786533242,
    "title": "You thought this was just a scrap #192",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X3E6HA": {
    "msg": "1536706015427301386",
@@ -6536,7 +6536,7 @@
    "end": 1786534022,
    "title": "salt \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "43VTFU": {
    "msg": "1536707230957572186",
@@ -7565,7 +7565,7 @@
    "end": 1786533182,
    "title": "idk",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "KAFSLX": {
    "msg": "1537000433380491347",
@@ -7767,6 +7767,27 @@
    "msg": "1537053285318524980",
    "end": 1786618322,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IJ1PTV": {
+   "msg": "1537060816786952202",
+   "end": 1786619882,
+   "title": "nrgghh",
+   "items": 3,
+   "ended": false
+  },
+  "G2EQ7X": {
+   "msg": "1537060823476731955",
+   "end": 1786619821,
+   "title": "Daily Kit Fabricator #4",
+   "items": 1,
+   "ended": false
+  },
+  "EKR6IW": {
+   "msg": "1537060829940285520",
+   "end": 1786618800,
+   "title": "Is it really worth it?",
    "items": 1,
    "ended": false
   }
