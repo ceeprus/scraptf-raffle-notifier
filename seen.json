@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "IH3R97": {
-   "msg": "1534261036809715793",
-   "end": 1785952861,
-   "title": "Do you also miss the old days?",
-   "items": 8,
-   "ended": true
-  },
   "06I682": {
    "msg": "1534266091864457248",
    "end": 1785953521,
@@ -388,13 +381,6 @@
   "USMNZO": {
    "msg": "1534524103728304170",
    "end": 1786015202,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "16YTOB": {
-   "msg": "1534526552480415927",
-   "end": 1785951421,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -6627,21 +6613,21 @@
    "end": 1786556941,
    "title": "picture",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I4ZM67": {
    "msg": "1536793922788007967",
    "end": 1786556701,
    "title": "awawawa",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EIRWEO": {
    "msg": "1536793931042258975",
    "end": 1786556281,
    "title": "Craft Hat Giveaway",
    "items": 34,
-   "ended": false
+   "ended": true
   },
   "ESHO8K": {
    "msg": "1536793936725803070",
@@ -6683,7 +6669,7 @@
    "end": 1786557481,
    "title": "Slugmas kill glorp",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "F6GBEO": {
    "msg": "1536804123712954479",
@@ -6711,7 +6697,7 @@
    "end": 1786557662,
    "title": "returning",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G520NT": {
    "msg": "1536808763183599657",
@@ -7901,6 +7887,27 @@
    "end": 1786640522,
    "title": "Raffle 1, comment items, types of items, classes, qualities you want to see in raffle 2",
    "items": 14,
+   "ended": false
+  },
+  "UZSYL0": {
+   "msg": "1537159002293539026",
+   "end": 1786643222,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "IVCUHU": {
+   "msg": "1537159012263399466",
+   "end": 1786643041,
+   "title": "Daily raffle #343",
+   "items": 1,
+   "ended": false
+  },
+  "2BSG56": {
+   "msg": "1537159020102811663",
+   "end": 1786642981,
+   "title": "A cool thing for a cool scout",
+   "items": 1,
    "ended": false
   }
  },
