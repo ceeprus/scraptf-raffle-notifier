@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "RDHXGO": {
-   "msg": "1534297639963726024",
-   "end": 1785961201,
-   "title": "Equestria Forever",
-   "items": 54,
-   "ended": true
-  },
-  "OW90F6": {
-   "msg": "1534300069212459130",
-   "end": 1785961862,
-   "title": "You thought this was just a scrap #190",
-   "items": 1,
-   "ended": true
-  },
-  "L84SW7": {
-   "msg": "1534300076065689672",
-   "end": 1785961681,
-   "title": "yeah join this raffle",
-   "items": 2,
-   "ended": true
-  },
   "WTG83B": {
    "msg": "1534305243112673444",
    "end": 1785962881,
@@ -544,13 +523,6 @@
    "end": 1786032781,
    "title": "Your Fate.",
    "items": 1,
-   "ended": true
-  },
-  "87HXY8": {
-   "msg": "1534598601269842121",
-   "end": 1785961081,
-   "title": "Been a while since I last made a raffle.",
-   "items": 4,
    "ended": true
   },
   "PA9L6B": {
@@ -6809,7 +6781,7 @@
    "end": 1786565881,
    "title": "Im broke",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "9LNBVC": {
    "msg": "1536834340665688104",
@@ -7376,7 +7348,7 @@
    "end": 1786565221,
    "title": "Unclaimed noises",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GU7FLY": {
    "msg": "1537023098883416074",
@@ -7691,7 +7663,7 @@
    "end": 1786566421,
    "title": "Noisemaker enjoyers, rise up",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "D30PVQ": {
    "msg": "1537106141710917744",
@@ -7922,7 +7894,7 @@
    "end": 1786565942,
    "title": "\ud83d\udc9aTake away my noisemakers#13\ud83d\udc9a",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "PE0Z4H": {
    "msg": "1537189200506523718",
@@ -7935,6 +7907,34 @@
    "msg": "1537189208215519382",
    "end": 1786607162,
    "title": "Some More",
+   "items": 1,
+   "ended": false
+  },
+  "AF286Q": {
+   "msg": "1537196706829959320",
+   "end": 1786652821,
+   "title": "Your weekly non-official Scrap.tf news. [Week 232]",
+   "items": 4,
+   "ended": false
+  },
+  "METAPT": {
+   "msg": "1537196714338033695",
+   "end": 1786651200,
+   "title": "We need more Engineer Mains! #002",
+   "items": 7,
+   "ended": false
+  },
+  "80I4XQ": {
+   "msg": "1537196724509216978",
+   "end": 1786651200,
+   "title": "Equestria Forever",
+   "items": 53,
+   "ended": false
+  },
+  "1DZUGF": {
+   "msg": "1537196730343366717",
+   "end": 1786607942,
+   "title": "\ud83c\udf0a\ud83e\uddc2It was to be done\ud83e\uddc2 \ud83c\udf0a",
    "items": 1,
    "ended": false
   }
