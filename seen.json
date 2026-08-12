@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "XXSZLH": {
-   "msg": "1534149101221052416",
-   "end": 1785926221,
-   "title": "I just raffled a Mystery art commission for my wife",
-   "items": 1,
-   "ended": true
-  },
   "5O5B6V": {
    "msg": "1534156615975047319",
    "end": 1785927600,
@@ -6487,21 +6480,21 @@
    "end": 1786531441,
    "title": "4th Raffle!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "5L805P": {
    "msg": "1536690926351679542",
    "end": 1786531441,
    "title": "\ud83d\udc1f W Mazekest \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YQ4AOV": {
    "msg": "1536690934941749248",
    "end": 1786531202,
    "title": "My first raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "MTHCPR": {
    "msg": "1536698421455495230",
@@ -7768,6 +7761,13 @@
    "end": 1786615021,
    "title": "seve. mspiwnakes",
    "items": 8,
+   "ended": false
+  },
+  "LXOHLL": {
+   "msg": "1537051178960027689",
+   "end": 1786616701,
+   "title": "Grabli304's raffle\u2503Day 164",
+   "items": 2,
    "ended": false
   }
  },
