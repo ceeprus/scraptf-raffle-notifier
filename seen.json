@@ -63,13 +63,6 @@
    "items": 1,
    "ended": true
   },
-  "U5WN4B": {
-   "msg": "1534149108292390972",
-   "end": 1785925741,
-   "title": "Grabli304's raffle\u2503Day 156",
-   "items": 2,
-   "ended": true
-  },
   "5O5B6V": {
    "msg": "1534156615975047319",
    "end": 1785927600,
@@ -6445,7 +6438,7 @@
    "end": 1786529282,
    "title": "Day 4 of asking for  Graveyard Chain raffle in this \ud83e\udd89 war",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YH70TA": {
    "msg": "1536681576702681089",
@@ -7761,6 +7754,20 @@
    "end": 1786612982,
    "title": "\ud83c\udf0a  takeover",
    "items": 1,
+   "ended": false
+  },
+  "S4KCFX": {
+   "msg": "1537045711718453342",
+   "end": 1786615200,
+   "title": "Gifted Loose Cannon #2",
+   "items": 1,
+   "ended": false
+  },
+  "9Y3JXD": {
+   "msg": "1537045720874618910",
+   "end": 1786615021,
+   "title": "seve. mspiwnakes",
+   "items": 8,
    "ended": false
   }
  },
