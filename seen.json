@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "SZEY56": {
-   "msg": "1534230875607142400",
-   "end": 1785945600,
-   "title": "Scrap.tf Birthdays - 4 August",
-   "items": 2,
-   "ended": true
-  },
   "8V1ET7": {
    "msg": "1534237234360877127",
    "end": 1785946802,
@@ -616,13 +609,6 @@
    "items": 3,
    "ended": true
   },
-  "ZLFH65": {
-   "msg": "1534578106877087876",
-   "end": 1785943981,
-   "title": "\u0447\u0443\u0432\u0430\u043a \u044f \u0445\u043e\u0447\u0443 \u0447\u0442\u043e\u0431\u044b \u0442\u044b \u044d\u0442\u043e \u0437\u0430\u0431\u0440\u0430\u043b",
-   "items": 1,
-   "ended": true
-  },
   "4G17PW": {
    "msg": "1534580690446712843",
    "end": 1785986041,
@@ -635,13 +621,6 @@
    "end": 1786029181,
    "title": "\u0414\u0440\u0430\u0441\u0442\u0435",
    "items": 7,
-   "ended": true
-  },
-  "S0SLGU": {
-   "msg": "1534583165493186731",
-   "end": 1785945181,
-   "title": "Fastball",
-   "items": 1,
    "ended": true
   },
   "NVOSTQ": {
@@ -6648,7 +6627,7 @@
    "end": 1786549201,
    "title": "\ud83d\udc1f \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZHBAQH": {
    "msg": "1536764169641000980",
@@ -6662,21 +6641,21 @@
    "end": 1786549801,
    "title": "a key",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LUUVPD": {
    "msg": "1536766468857925674",
    "end": 1786549621,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "M17IXB": {
    "msg": "1536766478785843341",
    "end": 1786549562,
    "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "61VWRU": {
    "msg": "1536773996597612564",
@@ -7313,7 +7292,7 @@
    "end": 1786549441,
    "title": "jarona",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NW2SU8": {
    "msg": "1536947645388685312",
@@ -7362,7 +7341,7 @@
    "end": 1786550400,
    "title": "[DAY 7] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I8769F": {
    "msg": "1536962705955622933",
@@ -7915,6 +7894,20 @@
    "end": 1786562341,
    "title": "takemLUL",
    "items": 10,
+   "ended": false
+  },
+  "KM1UEH": {
+   "msg": "1537128779380432966",
+   "end": 1786636081,
+   "title": "Hello! Have a great day!",
+   "items": 3,
+   "ended": false
+  },
+  "MD9G8B": {
+   "msg": "1537128785978200257",
+   "end": 1786635481,
+   "title": "used sip splash on ! it was super effective!  \ud83c\udf0a",
+   "items": 2,
    "ended": false
   }
  },
