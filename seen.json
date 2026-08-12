@@ -49,27 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "5VJ7M7": {
-   "msg": "1534043388247146537",
-   "end": 1785900962,
-   "title": "Caf\u00e9 Crit-A-Coffee #1748",
-   "items": 10,
-   "ended": true
-  },
-  "ANOCN3": {
-   "msg": "1534045916124807208",
-   "end": 1785901500,
-   "title": "Cautionary Tale",
-   "items": 1,
-   "ended": true
-  },
-  "SK4NCC": {
-   "msg": "1534048472033136690",
-   "end": 1785902400,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1495 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 4,
-   "ended": true
-  },
   "JKCZSE": {
    "msg": "1534052176798814280",
    "end": 1785902882,
@@ -460,13 +439,6 @@
    "end": 1785964261,
    "title": "Take my items",
    "items": 1,
-   "ended": true
-  },
-  "FTBC3U": {
-   "msg": "1534317705551806605",
-   "end": 1785901201,
-   "title": "Appreciate RedBaron",
-   "items": 4,
    "ended": true
   },
   "GVOLJP": {
@@ -6228,7 +6200,7 @@
    "end": 1786506181,
    "title": "\ud83e\uddc2Raffle Log #93",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UHBZ72": {
    "msg": "1536585197565509672",
@@ -6263,21 +6235,21 @@
    "end": 1786507021,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZNUC84": {
    "msg": "1536592757957591061",
    "end": 1786506901,
    "title": "Caf\u00e9 Crit-A-Coffee #1755",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "VA2PBD": {
    "msg": "1536592764089929779",
    "end": 1786506842,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XYMT6B": {
    "msg": "1536597015562158150",
@@ -7607,6 +7579,48 @@
    "end": 1786590421,
    "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #69   \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "KJDOGF": {
+   "msg": "1536947631446818907",
+   "end": 1786593181,
+   "title": "Caf\u00e9 Crit-A-Coffee #1755",
+   "items": 10,
+   "ended": false
+  },
+  "TLQI1J": {
+   "msg": "1536947638983860234",
+   "end": 1786549441,
+   "title": "jarona",
+   "items": 3,
+   "ended": false
+  },
+  "NW2SU8": {
+   "msg": "1536947645388685312",
+   "end": 1786592461,
+   "title": "What Could Be",
+   "items": 1,
+   "ended": false
+  },
+  "BMK3QZ": {
+   "msg": "1536947652946825307",
+   "end": 1786592341,
+   "title": "FIRTS RUFFLE",
+   "items": 2,
+   "ended": false
+  },
+  "NUFP9W": {
+   "msg": "1536947659783278595",
+   "end": 1786592282,
+   "title": "Hale's Own Trials: Persian Persuader: Day 5",
+   "items": 1,
+   "ended": false
+  },
+  "3AP8YQ": {
+   "msg": "1536947666792087633",
+   "end": 1786592282,
+   "title": "Im back",
+   "items": 3,
    "ended": false
   }
  },
