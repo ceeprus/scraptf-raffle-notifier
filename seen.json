@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "T40715": {
-   "msg": "1534136503754817597",
-   "end": 1785923161,
-   "title": "Daily Hat #73",
-   "items": 1,
-   "ended": true
-  },
   "XXSZLH": {
    "msg": "1534149101221052416",
    "end": 1785926221,
@@ -6396,42 +6389,42 @@
    "end": 1786528441,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SUGBBX": {
    "msg": "1536675823015428137",
    "end": 1786528381,
    "title": "\ud83e\uddc2",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "L9DG38": {
    "msg": "1536675830510653471",
    "end": 1786528021,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2JUBGR": {
    "msg": "1536675837883977789",
    "end": 1786527961,
    "title": "[\ud83e\udd89] Hoot!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PMS1BY": {
    "msg": "1536675845912141857",
    "end": 1786527842,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DBMLC6": {
    "msg": "1536675854221049897",
    "end": 1786527482,
    "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "EASLH1": {
    "msg": "1536675863448518698",
@@ -6466,21 +6459,21 @@
    "end": 1786528800,
    "title": "Gifted Neon Annihilator",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3CNUP8": {
    "msg": "1536681589876989966",
    "end": 1786528741,
    "title": "\ud83d\udc1f fih \ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "4E02L3": {
    "msg": "1536681596802048011",
    "end": 1786528681,
    "title": "Grabli304's raffle\u2503Day 163",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "SMR5GY": {
    "msg": "1536683330236579881",
@@ -7726,7 +7719,7 @@
    "end": 1786527842,
    "title": "Chocolate",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HULAAG": {
    "msg": "1537030659636465697",
