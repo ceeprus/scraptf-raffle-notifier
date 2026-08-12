@@ -56,27 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "BC3QUL": {
-   "msg": "1534128330654351481",
-   "end": 1785921361,
-   "title": "All Class Hat Addiction #2",
-   "items": 3,
-   "ended": true
-  },
-  "70Y5IT": {
-   "msg": "1534128338686181387",
-   "end": 1785921301,
-   "title": "I just raffled some bulllshiiiiit....",
-   "items": 124,
-   "ended": true
-  },
-  "5PLBJW": {
-   "msg": "1534131500205998160",
-   "end": 1785921781,
-   "title": "MvM update",
-   "items": 1,
-   "ended": true
-  },
   "SR95SH": {
    "msg": "1534133956641820756",
    "end": 1785922321,
@@ -329,13 +308,6 @@
    "items": 1,
    "ended": true
   },
-  "W3O6DY": {
-   "msg": "1534310163207422112",
-   "end": 1785921482,
-   "title": "Hate on Simps for Spirit",
-   "items": 1,
-   "ended": true
-  },
   "K9YQRX": {
    "msg": "1534310175102734376",
    "end": 1785964261,
@@ -530,13 +502,6 @@
    "end": 1786004641,
    "title": "Let's go",
    "items": 1,
-   "ended": true
-  },
-  "V34XU3": {
-   "msg": "1534478795166187521",
-   "end": 1785921721,
-   "title": "Untitled raffle",
-   "items": 3,
    "ended": true
   },
   "YD9VK0": {
@@ -6480,14 +6445,14 @@
    "end": 1786526881,
    "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f fish \ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "THP9AN": {
    "msg": "1536675882176086127",
    "end": 1786526822,
    "title": "Go play Middle Earth: Shadow of Mordor you filthy casual (THE RETURN OF THE SERIES)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z7U35N": {
    "msg": "1536681570323406959",
@@ -7467,7 +7432,7 @@
    "end": 1786525741,
    "title": "puts my hooves up in the air baaaaah baaah bleeeat",
    "items": 46,
-   "ended": false
+   "ended": true
   },
   "RBBL9I": {
    "msg": "1536940027802689557",
@@ -7732,6 +7697,76 @@
    "msg": "1537023112971816961",
    "end": 1786610222,
    "title": "im tired of this war.",
+   "items": 1,
+   "ended": false
+  },
+  "HRAKS1": {
+   "msg": "1537030618498732123",
+   "end": 1786569662,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IKOJML": {
+   "msg": "1537030627763691520",
+   "end": 1786569542,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "V3377W": {
+   "msg": "1537030637981007966",
+   "end": 1786612681,
+   "title": "It's been years, so it's time for life updates. (OMG COMING OUT????)",
+   "items": 13,
+   "ended": false
+  },
+  "8BXCHL": {
+   "msg": "1537030644939366491",
+   "end": 1786569361,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5KXA9I": {
+   "msg": "1537030652312952893",
+   "end": 1786527842,
+   "title": "Chocolate",
+   "items": 1,
+   "ended": false
+  },
+  "HULAAG": {
+   "msg": "1537030659636465697",
+   "end": 1786569182,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZI7F6R": {
+   "msg": "1537030666829701172",
+   "end": 1786569002,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "X6R6LT": {
+   "msg": "1537030673989369947",
+   "end": 1786612141,
+   "title": "\ud83e\uddc2 Salty raffle #saveglorp",
+   "items": 1,
+   "ended": false
+  },
+  "EV0UT8": {
+   "msg": "1537030681077751898",
+   "end": 1786611842,
+   "title": "#SlugmaSweep",
+   "items": 1,
+   "ended": false
+  },
+  "XY7007": {
+   "msg": "1537030687532646470",
+   "end": 1786611781,
+   "title": "You thought this was just a scrap #193",
    "items": 1,
    "ended": false
   }
