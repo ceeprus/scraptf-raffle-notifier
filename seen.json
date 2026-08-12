@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "SR95SH": {
-   "msg": "1534133956641820756",
-   "end": 1785922321,
-   "title": "4th tour, nothing interesting",
-   "items": 3,
-   "ended": true
-  },
   "T40715": {
    "msg": "1534136503754817597",
    "end": 1785923161,
@@ -7767,6 +7760,13 @@
    "msg": "1537030687532646470",
    "end": 1786611781,
    "title": "You thought this was just a scrap #193",
+   "items": 1,
+   "ended": false
+  },
+  "FA6DKY": {
+   "msg": "1537032084126695436",
+   "end": 1786612982,
+   "title": "\ud83c\udf0a  takeover",
    "items": 1,
    "ended": false
   }
