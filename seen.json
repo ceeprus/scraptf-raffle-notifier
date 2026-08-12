@@ -56,31 +56,10 @@
    "items": 1,
    "ended": false
   },
-  "IV7GDT": {
-   "msg": "1534191917804294358",
-   "end": 1785936302,
-   "title": "#16",
-   "items": 1,
-   "ended": true
-  },
-  "FJQDYG": {
-   "msg": "1534191927707046130",
-   "end": 1785936061,
-   "title": "Raffle Log #91",
-   "items": 8,
-   "ended": true
-  },
   "RF0OG3": {
    "msg": "1534194391491678299",
    "end": 1785936781,
    "title": "Cake Day!",
-   "items": 1,
-   "ended": true
-  },
-  "CROVVO": {
-   "msg": "1534194399561515249",
-   "end": 1785936601,
-   "title": "#17",
    "items": 1,
    "ended": true
   },
@@ -399,13 +378,6 @@
    "items": 1,
    "ended": true
   },
-  "2GONIW": {
-   "msg": "1534458630487805953",
-   "end": 1785935161,
-   "title": "Hey, sorry to keep ladies and gentleman waiting!",
-   "items": 6,
-   "ended": true
-  },
   "0U8HU1": {
    "msg": "1534458642227658763",
    "end": 1785956400,
@@ -585,13 +557,6 @@
    "msg": "1534547965082075226",
    "end": 1786021200,
    "title": "Organic Chemistry and Other Horrors (Well There's Your Problem Animated)",
-   "items": 1,
-   "ended": true
-  },
-  "S18D8I": {
-   "msg": "1534547971780116511",
-   "end": 1785936181,
-   "title": "just save it",
    "items": 1,
    "ended": true
   },
@@ -6571,14 +6536,14 @@
    "end": 1786541101,
    "title": "\ud83c\udf3b",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "V1UE9H": {
    "msg": "1536728624265429133",
    "end": 1786540562,
    "title": "KILL ALL   's\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GOZCV6": {
    "msg": "1536728630661615796",
@@ -6599,14 +6564,14 @@
    "end": 1786539902,
    "title": "Items",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "4PWKEA": {
    "msg": "1536728651440070747",
    "end": 1786539662,
    "title": "Clan War: Starting The War",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6IWSJR": {
    "msg": "1536728657664413746",
@@ -7320,7 +7285,7 @@
    "end": 1786541400,
    "title": "More",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SIF04G": {
    "msg": "1536924908335013949",
@@ -7809,6 +7774,55 @@
    "msg": "1537083486572249219",
    "end": 1786625161,
    "title": "Rating Music Recommendations part 1",
+   "items": 1,
+   "ended": false
+  },
+  "38LRF3": {
+   "msg": "1537091022088310796",
+   "end": 1786627261,
+   "title": "my first raffle",
+   "items": 3,
+   "ended": false
+  },
+  "K3CC1F": {
+   "msg": "1537091029218496552",
+   "end": 1786627082,
+   "title": "\ud83c\udf0a Drown the Slugs, Fake Your Death + Make Some Noise!",
+   "items": 2,
+   "ended": false
+  },
+  "VX4JPF": {
+   "msg": "1537091035748900906",
+   "end": 1786562101,
+   "title": "bau",
+   "items": 1,
+   "ended": false
+  },
+  "NZREGQ": {
+   "msg": "1537091042170380378",
+   "end": 1786582862,
+   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "2GZA66": {
+   "msg": "1537091047958642728",
+   "end": 1786626000,
+   "title": "Meet the Paranoid Schizophrenic Demoman",
+   "items": 1,
+   "ended": false
+  },
+  "U3A38O": {
+   "msg": "1537091062231859291",
+   "end": 1786625882,
+   "title": "123",
+   "items": 6,
+   "ended": false
+  },
+  "85LJT2": {
+   "msg": "1537091067814346803",
+   "end": 1786582561,
+   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
    "items": 1,
    "ended": false
   }
