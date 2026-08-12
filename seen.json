@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "8V1ET7": {
-   "msg": "1534237234360877127",
-   "end": 1785946802,
-   "title": "Make some noise",
-   "items": 5,
-   "ended": true
-  },
   "154IN7": {
    "msg": "1534242193424781473",
    "end": 1785948001,
@@ -621,13 +614,6 @@
    "end": 1786029181,
    "title": "\u0414\u0440\u0430\u0441\u0442\u0435",
    "items": 7,
-   "ended": true
-  },
-  "NVOSTQ": {
-   "msg": "1534583172317188300",
-   "end": 1785946922,
-   "title": "public raffles more like PUBIC raffles! laughs Laughs who wants to laugh with me",
-   "items": 1,
    "ended": true
   },
   "WRSULA": {
@@ -6662,14 +6648,14 @@
    "end": 1786551781,
    "title": "Zeus hates me",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ES3HQ0": {
    "msg": "1536774004763791452",
    "end": 1786550522,
    "title": "Scrap.tf Birthdays - 11 August",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "NJCN0U": {
    "msg": "1536781500383756439",
@@ -7908,6 +7894,27 @@
    "end": 1786635481,
    "title": "used sip splash on ! it was super effective!  \ud83c\udf0a",
    "items": 2,
+   "ended": false
+  },
+  "P6EWWZ": {
+   "msg": "1537134875000438815",
+   "end": 1786637761,
+   "title": "exclusivity sucks :/",
+   "items": 1,
+   "ended": false
+  },
+  "JVASMS": {
+   "msg": "1537134881132380311",
+   "end": 1786637461,
+   "title": "i can't think of a title for this raffle 23\u2122",
+   "items": 1,
+   "ended": false
+  },
+  "A0SATX": {
+   "msg": "1537134887956512842",
+   "end": 1786636800,
+   "title": "Scrap.tf Birthdays - 12 August",
+   "items": 3,
    "ended": false
   }
  },
