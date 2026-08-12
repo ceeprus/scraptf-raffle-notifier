@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "OFMDAN": {
-   "msg": "1534271130540703906",
-   "end": 1785955021,
-   "title": "Daily raffle until TF2 gets a major update #581",
-   "items": 3,
-   "ended": true
-  },
   "9PSJ1M": {
    "msg": "1534283674890014730",
    "end": null,
@@ -285,13 +278,6 @@
    "end": 1785998761,
    "title": "Random Question #36 + Cat Pic #5 (Serverblight)",
    "items": 1,
-   "ended": true
-  },
-  "0U8HU1": {
-   "msg": "1534458642227658763",
-   "end": 1785956400,
-   "title": "It is",
-   "items": 10,
    "ended": true
   },
   "7RWE8M": {
@@ -670,13 +656,6 @@
    "end": 1786041601,
    "title": "hi",
    "items": 1,
-   "ended": true
-  },
-  "63DXOG": {
-   "msg": "1534632302125121677",
-   "end": 1785956461,
-   "title": "Untitled raffle",
-   "items": 10,
    "ended": true
   },
   "MGANNS": {
@@ -6683,7 +6662,7 @@
    "end": 1786559881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G3JWZ7": {
    "msg": "1536808770418638939",
@@ -6697,7 +6676,7 @@
    "end": 1786560181,
    "title": "lol",
    "items": 24,
-   "ended": false
+   "ended": true
   },
   "10HOWK": {
    "msg": "1536819250079998062",
@@ -6781,21 +6760,21 @@
    "end": 1786561200,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0CODA2": {
    "msg": "1536819344871268412",
    "end": 1786561200,
    "title": "We gotta #saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "77Z9QR": {
    "msg": "1536819355411685509",
    "end": 1786560961,
    "title": "slugma chain raffle #4",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "IZFIEU": {
    "msg": "1536825351718703205",
@@ -7369,7 +7348,7 @@
    "end": 1786561200,
    "title": "It is",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "RDBV74": {
    "msg": "1537007981621673984",
@@ -7915,6 +7894,13 @@
    "end": 1786645081,
    "title": "rrrrr",
    "items": 1,
+   "ended": false
+  },
+  "4NT4AZ": {
+   "msg": "1537174108222136470",
+   "end": 1786561681,
+   "title": "\ud83d\udc9aTake away my noisemakers#12\ud83d\udc9a",
+   "items": 48,
    "ended": false
   }
  },
