@@ -280,13 +280,6 @@
    "items": 5,
    "ended": true
   },
-  "UU0OCE": {
-   "msg": "1534242186063904838",
-   "end": 1785904922,
-   "title": "What's your average raffles-to-wins ratio?",
-   "items": 7,
-   "ended": true
-  },
   "154IN7": {
    "msg": "1534242193424781473",
    "end": 1785948001,
@@ -6249,14 +6242,14 @@
    "end": 1786509722,
    "title": "[MEGA} Graveyard Raffle (#10)",
    "items": 28,
-   "ended": false
+   "ended": true
   },
   "LUJUFU": {
    "msg": "1536597023380348949",
    "end": 1786509661,
    "title": "Here's some yummy salt!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "U75RAO": {
    "msg": "1536597030221254696",
@@ -7635,6 +7628,20 @@
    "end": 1786550400,
    "title": "[DAY 7] Scrap tf HG",
    "items": 1,
+   "ended": false
+  },
+  "I8769F": {
+   "msg": "1536962705955622933",
+   "end": 1786596001,
+   "title": "Fish raffle",
+   "items": 1,
+   "ended": false
+  },
+  "YLSJAM": {
+   "msg": "1536962713027215392",
+   "end": 1786595281,
+   "title": "Cog Birthday Raffle!!",
+   "items": 2,
    "ended": false
   }
  },
