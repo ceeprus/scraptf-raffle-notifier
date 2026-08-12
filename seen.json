@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "NEDB0F": {
-   "msg": "1534123978959093821",
-   "end": 1785919742,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "BC3QUL": {
    "msg": "1534128330654351481",
    "end": 1785921361,
@@ -7719,6 +7712,27 @@
    "end": 1786565221,
    "title": "Unclaimed noises",
    "items": 3,
+   "ended": false
+  },
+  "GU7FLY": {
+   "msg": "1537023098883416074",
+   "end": 1786568102,
+   "title": "Happy Scrappy!",
+   "items": 3,
+   "ended": false
+  },
+  "YKEG3T": {
+   "msg": "1537023106160529468",
+   "end": 1786567741,
+   "title": "Question",
+   "items": 1,
+   "ended": false
+  },
+  "OTDZDK": {
+   "msg": "1537023112971816961",
+   "end": 1786610222,
+   "title": "im tired of this war.",
+   "items": 1,
    "ended": false
   }
  },
