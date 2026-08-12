@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "0JT930": {
-   "msg": "1534076082251108522",
-   "end": 1785908761,
-   "title": "Day 52 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "EJET5Y": {
-   "msg": "1534078713908428920",
-   "end": 1785909421,
-   "title": "Pick My Custom Title - Semifinals (2/2)",
-   "items": 10,
-   "ended": true
-  },
   "RB4J6G": {
    "msg": "1534087411909525646",
    "end": 1785911042,
@@ -7649,6 +7635,27 @@
    "end": 1786598281,
    "title": "M (part two)",
    "items": 1,
+   "ended": false
+  },
+  "GT9A6K": {
+   "msg": "1536977808881094666",
+   "end": 1786600562,
+   "title": "oh, scrappy day!",
+   "items": 8,
+   "ended": false
+  },
+  "GUG4HQ": {
+   "msg": "1536977816258744431",
+   "end": 1786600202,
+   "title": "Power Scale #7 Scrap.tf",
+   "items": 4,
+   "ended": false
+  },
+  "0ULM8K": {
+   "msg": "1536977823359832154",
+   "end": 1786600141,
+   "title": "We (Yes, WE) need a Slugma chain emote NOW! P.5",
+   "items": 8,
    "ended": false
   }
  },
