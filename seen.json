@@ -49,20 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "DEFP4Z": {
-   "msg": "1534035811266199692",
-   "end": 1785898981,
-   "title": "First ever raffle!",
-   "items": 9,
-   "ended": true
-  },
-  "2ASNBJ": {
-   "msg": "1534038353429794886",
-   "end": 1785899701,
-   "title": "My first Creating a raffle :)",
-   "items": 2,
-   "ended": true
-  },
   "5VJ7M7": {
    "msg": "1534043388247146537",
    "end": 1785900962,
@@ -476,13 +462,6 @@
    "items": 1,
    "ended": true
   },
-  "ENG7HS": {
-   "msg": "1534312709057937598",
-   "end": 1785900241,
-   "title": "Hate on Legendary Alien",
-   "items": 1,
-   "ended": true
-  },
   "FTBC3U": {
    "msg": "1534317705551806605",
    "end": 1785901201,
@@ -501,13 +480,6 @@
    "msg": "1534336544226152538",
    "end": 1785970800,
    "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "GP76QP": {
-   "msg": "1534341569220575304",
-   "end": 1785900002,
-   "title": "Well well well",
    "items": 1,
    "ended": true
   },
@@ -6242,14 +6214,14 @@
    "end": 1786504621,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NDMD5J": {
    "msg": "1536576617374023681",
    "end": 1786504082,
    "title": "Raffling a  every time I win a  #76",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UL71V6": {
    "msg": "1536585191437635745",
@@ -7614,6 +7586,27 @@
    "end": 1786545002,
    "title": "any tips on how to move on from ruined childhood",
    "items": 2,
+   "ended": false
+  },
+  "BNKLJV": {
+   "msg": "1536940012204064819",
+   "end": 1786590721,
+   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #70   \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "6KICKA": {
+   "msg": "1536940020718632961",
+   "end": 1786525741,
+   "title": "puts my hooves up in the air baaaaah baaah bleeeat",
+   "items": 46,
+   "ended": false
+  },
+  "RBBL9I": {
+   "msg": "1536940027802689557",
+   "end": 1786590421,
+   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #69   \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
    "ended": false
   }
  },
