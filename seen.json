@@ -6655,7 +6655,7 @@
    "end": 1786548600,
    "title": "MK Poll #3 + The Favorites of Music #273 & #274",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L7ALZF": {
    "msg": "1536766458330091582",
@@ -7908,6 +7908,13 @@
    "end": 1786633561,
    "title": "Question",
    "items": 1,
+   "ended": false
+  },
+  "BN1MPU": {
+   "msg": "1537121209638985889",
+   "end": 1786562341,
+   "title": "takemLUL",
+   "items": 10,
    "ended": false
   }
  },
