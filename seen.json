@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "6LW2XY": {
-   "msg": "1534268578600194088",
-   "end": 1785954362,
-   "title": "Item unclaimed, returned to raffler",
-   "items": 1,
-   "ended": true
-  },
   "OFMDAN": {
    "msg": "1534271130540703906",
    "end": 1785955021,
@@ -7907,6 +7900,20 @@
    "msg": "1537162338900377751",
    "end": 1786643581,
    "title": "Daily Hat #77",
+   "items": 1,
+   "ended": false
+  },
+  "KEE1P9": {
+   "msg": "1537166505861713920",
+   "end": 1786645261,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "OCIVVJ": {
+   "msg": "1537166512161431565",
+   "end": 1786645081,
+   "title": "rrrrr",
    "items": 1,
    "ended": false
   }
