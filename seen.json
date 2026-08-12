@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "FJAVIU": {
-   "msg": "1534097455011070112",
-   "end": 1785913742,
-   "title": "Day 23 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "TEIVI3": {
    "msg": "1534105008080162867",
    "end": 1785915541,
@@ -6354,7 +6347,7 @@
    "end": 1786518541,
    "title": "\ud83d\udc1f Nidoking! \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NFHAAY": {
    "msg": "1536638027370078319",
@@ -6382,14 +6375,14 @@
    "end": 1786519741,
    "title": "there will be no winners in this war",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "C1L5CL": {
    "msg": "1536645643924279316",
    "end": 1786519681,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2D1H3G": {
    "msg": "1536646384890159134",
@@ -7467,7 +7460,7 @@
    "end": 1786519502,
    "title": "baaahhhh baaaa bleeeaat *sticks my hooves up in the air*",
    "items": 46,
-   "ended": false
+   "ended": true
   },
   "TMRSCC": {
    "msg": "1536917435649761291",
@@ -7677,6 +7670,41 @@
    "end": 1786602541,
    "title": "\ud83c\udf0a\ud83d\udc1f Hat with No Name   \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "7WJRVR": {
+   "msg": "1537000424597360741",
+   "end": 1786533182,
+   "title": "idk",
+   "items": 15,
+   "ended": false
+  },
+  "KAFSLX": {
+   "msg": "1537000433380491347",
+   "end": 1786604942,
+   "title": "\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "3DI0NF": {
+   "msg": "1537000440863137872",
+   "end": 1786604701,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XRIK4C": {
+   "msg": "1537000447834062850",
+   "end": 1786604521,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "QFC5S8": {
+   "msg": "1537000458181283850",
+   "end": 1786561200,
+   "title": "It is",
+   "items": 10,
    "ended": false
   }
  },
