@@ -7831,7 +7831,7 @@
    "end": 1786543382,
    "title": "\ud83d\udc9aTake away my noisemakers#11\ud83d\udc9a",
    "items": 48,
-   "ended": false
+   "ended": true
   },
   "MCSB91": {
    "msg": "1537098631289639042",
@@ -7844,6 +7844,20 @@
    "msg": "1537098638038274120",
    "end": 1786584600,
    "title": "[Fallen Tributes/Night 7] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "QFLJQ9": {
+   "msg": "1537102124150947870",
+   "end": 1786629961,
+   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0aSTOP THE SLUGGISH SLOP!\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "V6UJFW": {
+   "msg": "1537102130345812078",
+   "end": 1786629902,
+   "title": "Hello again",
    "items": 1,
    "ended": false
   }
