@@ -56,20 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "FE1XYI": {
-   "msg": "1534185548468588665",
-   "end": 1785934801,
-   "title": "Random Appearence",
-   "items": 1,
-   "ended": true
-  },
-  "CCNA2V": {
-   "msg": "1534185555401904252",
-   "end": 1785934800,
-   "title": "Top Gear Tuesday: Hat",
-   "items": 1,
-   "ended": true
-  },
   "IV7GDT": {
    "msg": "1534191917804294358",
    "end": 1785936302,
@@ -6627,7 +6613,7 @@
    "end": 1786539600,
    "title": "Top Gear Tuesday: \"Give me my fish back\"",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R8L7EJ": {
    "msg": "1536728664060858458",
@@ -7802,6 +7788,27 @@
    "msg": "1537075923319394316",
    "end": 1786622400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "VH4DN5": {
+   "msg": "1537083473628766249",
+   "end": 1786625341,
+   "title": "MAZEKEST",
+   "items": 1,
+   "ended": false
+  },
+  "LA6P66": {
+   "msg": "1537083480566141078",
+   "end": 1786582081,
+   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "E9YYYG": {
+   "msg": "1537083486572249219",
+   "end": 1786625161,
+   "title": "Rating Music Recommendations part 1",
    "items": 1,
    "ended": false
   }
