@@ -49,13 +49,6 @@
    "items": 12,
    "ended": false
   },
-  "U95JHZ": {
-   "msg": "1534071121136058598",
-   "end": 1785907381,
-   "title": "Mega expensive raffle!",
-   "items": 115,
-   "ended": true
-  },
   "ONEFMS": {
    "msg": "1534073570391621792",
    "end": 1785907621,
@@ -299,13 +292,6 @@
    "end": 1785949200,
    "title": "sum bullshit",
    "items": 1,
-   "ended": true
-  },
-  "DZDJT2": {
-   "msg": "1534249773618430013",
-   "end": 1785907141,
-   "title": "key raffle",
-   "items": 65,
    "ended": true
   },
   "RYKX4L": {
@@ -6277,7 +6263,7 @@
    "end": 1786511521,
    "title": "slug fun facts.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "27T2WO": {
    "msg": "1536612329654063144",
@@ -7642,6 +7628,20 @@
    "end": 1786595281,
    "title": "Cog Birthday Raffle!!",
    "items": 2,
+   "ended": false
+  },
+  "HT9NE4": {
+   "msg": "1536968688408862721",
+   "end": 1786597861,
+   "title": "We definitely need more medic main! \u211654",
+   "items": 6,
+   "ended": false
+  },
+  "P1936W": {
+   "msg": "1536968695857807440",
+   "end": 1786597381,
+   "title": "Day 5 of asking for Slugma Chain emoticon",
+   "items": 3,
    "ended": false
   }
  },
