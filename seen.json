@@ -56,13 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "DMZ9CV": {
-   "msg": "1534173000637743208",
-   "end": 1785931561,
-   "title": "Daily raffle #325",
-   "items": 1,
-   "ended": true
-  },
   "FE1XYI": {
    "msg": "1534185548468588665",
    "end": 1785934801,
@@ -6550,28 +6543,28 @@
    "end": 1786537021,
    "title": "Press F to Calamity",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G958CQ": {
    "msg": "1536713530336878703",
    "end": 1786536841,
    "title": "DR. \u00dcBERFUCK IS BACK.  THE END TO SLUG WAR",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NPD5V4": {
    "msg": "1536713536494112808",
    "end": 1786536781,
    "title": "This war is pointless",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2NIZPT": {
    "msg": "1536713543531888744",
    "end": 1786536662,
    "title": "I am bad with titles #142",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VQPCRE": {
    "msg": "1536721101575426068",
@@ -7523,14 +7516,14 @@
    "end": 1786537261,
    "title": "\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5PXZ0M": {
    "msg": "1536985318291546135",
    "end": 1786537081,
    "title": "\ud83c\udf0a\ud83d\udc1f",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "HVQJZM": {
    "msg": "1536990432804872302",
@@ -7789,6 +7782,27 @@
    "end": 1786621922,
    "title": "(still! (yes, still!)) Tipping all  raffles!",
    "items": 5,
+   "ended": false
+  },
+  "HNTZBJ": {
+   "msg": "1537075909612544052",
+   "end": 1786579622,
+   "title": "The war is still not over (still tipping for \ud83c\udf0a in your raffle title)",
+   "items": 1,
+   "ended": false
+  },
+  "VHK8X9": {
+   "msg": "1537075916566429796",
+   "end": 1786622641,
+   "title": "Go play Middle Earth: Shadow of War you filthy casual",
+   "items": 1,
+   "ended": false
+  },
+  "2RXNIN": {
+   "msg": "1537075923319394316",
+   "end": 1786622400,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
