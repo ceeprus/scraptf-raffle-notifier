@@ -56,20 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "RF0OG3": {
-   "msg": "1534194391491678299",
-   "end": 1785936781,
-   "title": "Cake Day!",
-   "items": 1,
-   "ended": true
-  },
-  "SIUT1E": {
-   "msg": "1534201940655865886",
-   "end": 1785938461,
-   "title": "Mundane Lifestyle.",
-   "items": 2,
-   "ended": true
-  },
   "5AHZER": {
    "msg": "1534213204044152842",
    "end": 1785941041,
@@ -494,13 +480,6 @@
    "msg": "1534531662287995035",
    "end": 1786017600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
-  "L34S4N": {
-   "msg": "1534531669388689482",
-   "end": 1785938282,
-   "title": "Just Shield",
    "items": 1,
    "ended": true
   },
@@ -6592,14 +6571,14 @@
    "end": 1786542481,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3T6P2T": {
    "msg": "1536733598986801256",
    "end": 1786542362,
    "title": "Take it",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6I57KW": {
    "msg": "1536748680420528158",
@@ -7823,6 +7802,48 @@
    "msg": "1537091067814346803",
    "end": 1786582561,
    "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "4TDMA2": {
+   "msg": "1537098597143945216",
+   "end": 1786629361,
+   "title": "I Drew Ts 16",
+   "items": 1,
+   "ended": false
+  },
+  "ADKPNQ": {
+   "msg": "1537098607860260984",
+   "end": 1786629301,
+   "title": "What's up with \ud83c\udf0a and  and  ?",
+   "items": 1,
+   "ended": false
+  },
+  "SHJ6O1": {
+   "msg": "1537098615502143549",
+   "end": 1786629122,
+   "title": "fun facts feat. slugs.",
+   "items": 3,
+   "ended": false
+  },
+  "P2XAXO": {
+   "msg": "1537098624167710834",
+   "end": 1786543382,
+   "title": "\ud83d\udc9aTake away my noisemakers#11\ud83d\udc9a",
+   "items": 48,
+   "ended": false
+  },
+  "MCSB91": {
+   "msg": "1537098631289639042",
+   "end": 1786627800,
+   "title": "I",
+   "items": 7,
+   "ended": false
+  },
+  "6OH4TZ": {
+   "msg": "1537098638038274120",
+   "end": 1786584600,
+   "title": "[Fallen Tributes/Night 7] Scrap tf HG",
    "items": 1,
    "ended": false
   }
