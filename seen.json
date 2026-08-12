@@ -56,20 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "O3Z8MZ": {
-   "msg": "1534112583702024294",
-   "end": 1785917641,
-   "title": "Just another Non-Craftable",
-   "items": 6,
-   "ended": true
-  },
-  "BINH3T": {
-   "msg": "1534116399423950969",
-   "end": 1785918301,
-   "title": "The world needs more Reindoonicorns! (#590)",
-   "items": 1,
-   "ended": true
-  },
   "NEDB0F": {
    "msg": "1534123978959093821",
    "end": 1785919742,
@@ -544,13 +530,6 @@
    "end": 1786001581,
    "title": "A great failure.",
    "items": 2,
-   "ended": true
-  },
-  "BDZQTE": {
-   "msg": "1534468662671573002",
-   "end": 1785917762,
-   "title": "Well, there is a raffle here.",
-   "items": 12,
    "ended": true
   },
   "RYP987": {
@@ -6382,21 +6361,21 @@
    "end": 1786523041,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B87VI5": {
    "msg": "1536653121164681330",
    "end": 1786522921,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W7215S": {
    "msg": "1536653131864350850",
    "end": 1786522861,
    "title": "Slugma Chain raffle #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N5RHFH": {
    "msg": "1536653138872762489",
@@ -6410,21 +6389,21 @@
    "end": 1786523400,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZWAB2E": {
    "msg": "1536660716709224598",
    "end": 1786523162,
    "title": "music time ! !",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DCS7NH": {
    "msg": "1536660722761728071",
    "end": 1786523102,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8LZ4MI": {
    "msg": "1536667386239778916",
@@ -7229,7 +7208,7 @@
    "end": 1786523281,
    "title": "Unclaimed Item",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A9U8E7": {
    "msg": "1536849417515311294",
@@ -7733,6 +7712,13 @@
    "end": 1786606381,
    "title": "how to heal glorp?",
    "items": 30,
+   "ended": false
+  },
+  "Z71V5S": {
+   "msg": "1537015512725331989",
+   "end": 1786565221,
+   "title": "Unclaimed noises",
+   "items": 3,
    "ended": false
   }
  },
