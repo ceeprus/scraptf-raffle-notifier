@@ -441,13 +441,6 @@
    "items": 2,
    "ended": true
   },
-  "7WP1DD": {
-   "msg": "1534305234719866981",
-   "end": 1785898502,
-   "title": "Hey guys! It's me, a new flower-y!",
-   "items": 6,
-   "ended": true
-  },
   "WTG83B": {
    "msg": "1534305243112673444",
    "end": 1785962881,
@@ -6200,7 +6193,7 @@
    "end": 1786503002,
    "title": "Anyone know where I can find this map?",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "5VVDYW": {
    "msg": "1536570140676849735",
@@ -6214,28 +6207,28 @@
    "end": 1786502761,
    "title": "Kiestu's comments on the glorp war",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NDRIBG": {
    "msg": "1536570157286297620",
    "end": 1786502700,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WU16H7": {
    "msg": "1536570165989343303",
    "end": 1786502700,
    "title": "Late Night Reflecting",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H5VC7P": {
    "msg": "1536570173014806638",
    "end": 1786502221,
    "title": "M (Part one)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DJQI7U": {
    "msg": "1536570181520855061",
@@ -6984,7 +6977,7 @@
    "end": 1786503600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ANAPI9": {
    "msg": "1536764162384863292",
@@ -7606,6 +7599,20 @@
    "msg": "1536924916757299270",
    "end": 1786586461,
    "title": "Feeling Like The End?",
+   "items": 2,
+   "ended": false
+  },
+  "QCW5PE": {
+   "msg": "1536932500201283585",
+   "end": 1786589042,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "AGDY0Z": {
+   "msg": "1536932509064101898",
+   "end": 1786545002,
+   "title": "any tips on how to move on from ruined childhood",
    "items": 2,
    "ended": false
   }
