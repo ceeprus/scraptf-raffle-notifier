@@ -56,20 +56,6 @@
    "items": 1,
    "ended": false
   },
-  "1BWQ6Y": {
-   "msg": "1534167901932748881",
-   "end": 1785930721,
-   "title": "Metal",
-   "items": 32,
-   "ended": true
-  },
-  "96P5RE": {
-   "msg": "1534170441680294089",
-   "end": 1785931200,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "DMZ9CV": {
    "msg": "1534173000637743208",
    "end": 1785931561,
@@ -6508,7 +6494,7 @@
    "end": 1786535401,
    "title": "Got something good from 5th tour",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "LRRY9T": {
    "msg": "1536706029704839239",
@@ -6550,14 +6536,14 @@
    "end": 1786536000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I5S8P4": {
    "msg": "1536707245176262727",
    "end": 1786536000,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LXNY7H": {
    "msg": "1536713523722453023",
@@ -7299,7 +7285,7 @@
    "end": 1786535281,
    "title": "\ud83d\udc1f #Swampert \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GFSPLI": {
    "msg": "1536887231883771935",
@@ -7796,6 +7782,13 @@
    "end": 1786620242,
    "title": "Slugma Chain raffle #5",
    "items": 1,
+   "ended": false
+  },
+  "2VJ3I2": {
+   "msg": "1537068386683584533",
+   "end": 1786621922,
+   "title": "(still! (yes, still!)) Tipping all  raffles!",
+   "items": 5,
    "ended": false
   }
  },
