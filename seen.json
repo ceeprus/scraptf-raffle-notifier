@@ -63,34 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "N5M0T5": {
-   "msg": "1534573100786647273",
-   "end": 1786027202,
-   "title": "[\ud83e\udd89] OWL FACTS #30",
-   "items": 1,
-   "ended": true
-  },
-  "Z2DFXG": {
-   "msg": "1534573107174576248",
-   "end": 1786027141,
-   "title": "Say hi to the new grabli304 raffle",
-   "items": 1,
-   "ended": true
-  },
-  "AALF4S": {
-   "msg": "1534573113201786920",
-   "end": 1786026961,
-   "title": "i watched new spider man movie !!!!SPOILERS",
-   "items": 1,
-   "ended": true
-  },
-  "KGINXT": {
-   "msg": "1534575609131438260",
-   "end": 1786027561,
-   "title": "they call me the sauce packet",
-   "items": 3,
-   "ended": true
-  },
   "B5E4V3": {
    "msg": "1534580699451883530",
    "end": 1786029181,
@@ -7201,14 +7173,14 @@
    "end": 1786632002,
    "title": "\ud83c\udf0a",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "QBOFGL": {
    "msg": "1537113705123283065",
    "end": 1786631521,
    "title": "\ud83c\udf0a Turn Up the Volume to Wash Away the Slops!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "QIKEXX": {
    "msg": "1537120321130332350",
@@ -8180,6 +8152,34 @@
    "msg": "1537468514896707814",
    "end": 1786716782,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BUYHFL": {
+   "msg": "1537476108658933830",
+   "end": 1786718221,
+   "title": "Memory Palace",
+   "items": 3,
+   "ended": false
+  },
+  "KLQAUJ": {
+   "msg": "1537476115982057553",
+   "end": 1786718221,
+   "title": "Daily Kit Fabricator #5",
+   "items": 1,
+   "ended": false
+  },
+  "J1XYQQ": {
+   "msg": "1537476122881695854",
+   "end": 1786717681,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator",
+   "items": 1,
+   "ended": false
+  },
+  "N4M8C6": {
+   "msg": "1537476129898766446",
+   "end": 1786717621,
+   "title": "i can't think of a title for this raffle 24\u2122",
    "items": 1,
    "ended": false
   }
