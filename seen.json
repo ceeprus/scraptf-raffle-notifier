@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "YD9VK0": {
-   "msg": "1534500125601431573",
-   "end": 1786010041,
-   "title": "#18",
-   "items": 1,
-   "ended": true
-  },
-  "KW6UI7": {
-   "msg": "1534500132387684443",
-   "end": 1786009621,
-   "title": "Fun Facts About the Body - Day #0",
-   "items": 1,
-   "ended": true
-  },
-  "4VHQZ3": {
-   "msg": "1534502651742523424",
-   "end": 1786010400,
-   "title": "Gifted Buffalo Steak Sandvich #5",
-   "items": 1,
-   "ended": true
-  },
   "AE6RWO": {
    "msg": "1534506419171229858",
    "end": 1786011241,
@@ -7166,14 +7145,14 @@
    "end": 1786615200,
    "title": "Gifted Loose Cannon #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9Y3JXD": {
    "msg": "1537045720874618910",
    "end": 1786615021,
    "title": "seve. mspiwnakes",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "LXOHLL": {
    "msg": "1537051178960027689",
@@ -8146,6 +8125,34 @@
    "end": 1786699561,
    "title": "School grades!",
    "items": 47,
+   "ended": false
+  },
+  "FPU4SO": {
+   "msg": "1537400611358642176",
+   "end": 1786700461,
+   "title": "How to get into trading?",
+   "items": 15,
+   "ended": false
+  },
+  "2A255M": {
+   "msg": "1537400618317123725",
+   "end": 1786657021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XOIMH9": {
+   "msg": "1537400627158585395",
+   "end": 1786700161,
+   "title": "I AM BACK",
+   "items": 40,
+   "ended": false
+  },
+  "BAH76Y": {
+   "msg": "1537400634268057631",
+   "end": 1786656781,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
