@@ -7180,14 +7180,14 @@
    "end": 1786663442,
    "title": "First Raffle #Slugma",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "X0RIZU": {
    "msg": "1537242007129427968",
    "end": 1786662301,
    "title": "Raffling a  every time I win a  #77",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "CFIYZD": {
    "msg": "1537242013051912253",
@@ -7992,7 +7992,7 @@
    "end": 1786662481,
    "title": "Haven't been here since 2020",
    "items": 26,
-   "ended": false
+   "ended": true
   },
   "TIA7OE": {
    "msg": "1537512726715170946",
@@ -8167,6 +8167,20 @@
    "end": 1786747082,
    "title": "opened some EVEN EVEN more spooky boxes",
    "items": 49,
+   "ended": false
+  },
+  "DBS5TY": {
+   "msg": "1537604407557099653",
+   "end": 1786748701,
+   "title": "Recommending music in spanish #3 FAVORITE SONG SPECIAL",
+   "items": 3,
+   "ended": false
+  },
+  "AYFFJD": {
+   "msg": "1537604416432115784",
+   "end": 1786748400,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
