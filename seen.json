@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "P446P8": {
-   "msg": "1534526558612492358",
-   "end": 1786015922,
-   "title": "All Class Hat #3",
-   "items": 1,
-   "ended": true
-  },
   "DOKDLN": {
    "msg": "1534531662287995035",
    "end": 1786017600,
@@ -8201,6 +8194,13 @@
    "msg": "1537423259010736158",
    "end": 1786705200,
    "title": "I can't belive how cruel Chuck is!",
+   "items": 1,
+   "ended": false
+  },
+  "3PJ22E": {
+   "msg": "1537425459439079434",
+   "end": 1786707362,
+   "title": "Epic man with epic face",
    "items": 1,
    "ended": false
   }
