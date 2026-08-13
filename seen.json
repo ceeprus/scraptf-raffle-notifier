@@ -546,13 +546,6 @@
    "items": 1,
    "ended": true
   },
-  "UJWMY9": {
-   "msg": "1534748011199070229",
-   "end": 1786003802,
-   "title": "Bison",
-   "items": 2,
-   "ended": true
-  },
   "PS7XH1": {
    "msg": "1534753035212034229",
    "end": 1786070341,
@@ -670,13 +663,6 @@
    "end": 1786005302,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "JF967T": {
-   "msg": "1534829815117647953",
-   "end": 1786003441,
-   "title": "just scrap x2 , just reclaimed metal",
-   "items": 3,
    "ended": true
   },
   "3P7XV1": {
@@ -8124,6 +8110,13 @@
    "msg": "1537370435904217120",
    "end": 1786693681,
    "title": "10 Rafles won",
+   "items": 1,
+   "ended": false
+  },
+  "0610LP": {
+   "msg": "1537374147792080937",
+   "end": 1786694282,
+   "title": "Take my Slop #6",
    "items": 1,
    "ended": false
   }
