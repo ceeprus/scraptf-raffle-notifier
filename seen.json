@@ -7159,14 +7159,14 @@
    "end": 1786629961,
    "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0aSTOP THE SLUGGISH SLOP!\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V6UJFW": {
    "msg": "1537102130345812078",
    "end": 1786629902,
    "title": "Hello again",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A6I3SC": {
    "msg": "1537106133591007303",
@@ -7180,28 +7180,28 @@
    "end": 1786630501,
    "title": "Tips has not only the meaning of 'tips', but also the meaning of 'tips",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8ZIFAA": {
    "msg": "1537106148627316818",
    "end": 1786630441,
    "title": "\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SFCJJV": {
    "msg": "1537106155988582518",
    "end": 1786630261,
    "title": "\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D0U9T0": {
    "msg": "1537106163404111963",
    "end": 1786630142,
    "title": "\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TJZ31G": {
    "msg": "1537113696558383124",
@@ -7621,7 +7621,7 @@
    "end": 1786629841,
    "title": "Untitled raffle",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "ZA1EVN": {
    "msg": "1537287331801862255",
@@ -8160,6 +8160,13 @@
    "end": 1786714802,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1504 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 13,
+   "ended": false
+  },
+  "RW8FDD": {
+   "msg": "1537464964552335360",
+   "end": 1786715581,
+   "title": "Mirror, mirror on the wall",
+   "items": 1,
    "ended": false
   }
  },
