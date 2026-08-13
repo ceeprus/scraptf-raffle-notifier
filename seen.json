@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "9S7OPQ": {
-   "msg": "1534399497831055502",
-   "end": 1785985501,
-   "title": "Untitled raffle",
-   "items": 20,
-   "ended": true
-  },
   "ZQPMZW": {
    "msg": "1534407010190233684",
    "end": 1785987900,
@@ -383,13 +376,6 @@
    "end": 1786027561,
    "title": "they call me the sauce packet",
    "items": 3,
-   "ended": true
-  },
-  "4G17PW": {
-   "msg": "1534580690446712843",
-   "end": 1785986041,
-   "title": "Noize",
-   "items": 1,
    "ended": true
   },
   "B5E4V3": {
@@ -6977,7 +6963,7 @@
    "end": 1786590721,
    "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #70   \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6KICKA": {
    "msg": "1536940020718632961",
@@ -6991,7 +6977,7 @@
    "end": 1786590421,
    "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #69   \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KJDOGF": {
    "msg": "1536947631446818907",
@@ -8019,6 +8005,34 @@
    "msg": "1537294910200225793",
    "end": 1786674900,
    "title": "Restless Waiting",
+   "items": 1,
+   "ended": false
+  },
+  "9AHL7Z": {
+   "msg": "1537302423490793583",
+   "end": 1786677662,
+   "title": "something small",
+   "items": 2,
+   "ended": false
+  },
+  "TPLWLV": {
+   "msg": "1537302430218453104",
+   "end": 1786677662,
+   "title": "Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NXHTXY": {
+   "msg": "1537302436081967124",
+   "end": 1786677602,
+   "title": "Looking for names for my Festivized Flash Fryer :3",
+   "items": 1,
+   "ended": false
+  },
+  "OBX34K": {
+   "msg": "1537302442147053578",
+   "end": 1786676821,
+   "title": "Here have a tung tung tung",
    "items": 1,
    "ended": false
   }
