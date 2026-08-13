@@ -63,25 +63,11 @@
    "items": 1,
    "ended": false
   },
-  "XST5G3": {
-   "msg": "1534622274726924348",
-   "end": 1786038781,
-   "title": "redraw my old draw",
-   "items": 1,
-   "ended": true
-  },
   "NUQ7M6": {
    "msg": "1534624750427570443",
    "end": 1786039741,
    "title": "Free game! #59 - Moonlighter",
    "items": 2,
-   "ended": true
-  },
-  "WISG46": {
-   "msg": "1534624757528399912",
-   "end": 1786039261,
-   "title": "\u0425\u043e\u0447\u0443 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0432\u043e\u0434",
-   "items": 1,
    "ended": true
   },
   "NF7HHP": {
@@ -585,20 +571,6 @@
    "msg": "1534976869286416494",
    "end": 1786122000,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WQV5G8": {
-   "msg": "1534976877587071046",
-   "end": 1786038541,
-   "title": "pukikaki",
-   "items": 4,
-   "ended": true
-  },
-  "9WS9ZK": {
-   "msg": "1534976883748372510",
-   "end": 1786038481,
-   "title": "Raffle",
    "items": 1,
    "ended": true
   },
@@ -7201,21 +7173,21 @@
    "end": 1786643222,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "IVCUHU": {
    "msg": "1537159012263399466",
    "end": 1786643041,
    "title": "Daily raffle #343",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2BSG56": {
    "msg": "1537159020102811663",
    "end": 1786642981,
    "title": "A cool thing for a cool scout",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OCI1A6": {
    "msg": "1537162302774575197",
@@ -7229,7 +7201,7 @@
    "end": 1786643581,
    "title": "Daily Hat #77",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KEE1P9": {
    "msg": "1537166505861713920",
@@ -8230,6 +8202,20 @@
    "end": 1786726800,
    "title": "Daily raffle until TF2 gets a major update #590",
    "items": 3,
+   "ended": false
+  },
+  "AXNUIF": {
+   "msg": "1537521413294919720",
+   "end": 1786729621,
+   "title": "Free Games Part 142 \u2022 Deponia",
+   "items": 1,
+   "ended": false
+  },
+  "3BSBOK": {
+   "msg": "1537521421817741396",
+   "end": 1786729081,
+   "title": "New soldier loadout",
+   "items": 1,
    "ended": false
   }
  },
