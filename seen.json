@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "XDJ8MG": {
-   "msg": "1534519015798607943",
-   "end": 1786014000,
-   "title": "How come they can ignore gravity?! It's not fair!",
-   "items": 1,
-   "ended": true
-  },
   "W1G3S9": {
    "msg": "1534524089216274633",
    "end": 1786015561,
@@ -459,13 +452,6 @@
    "msg": "1534690170614583306",
    "end": 1786054681,
    "title": "Birfhday!!",
-   "items": 1,
-   "ended": true
-  },
-  "9X1VOQ": {
-   "msg": "1534697761641992192",
-   "end": 1786013762,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -7180,7 +7166,7 @@
    "end": 1786618800,
    "title": "Is it really worth it?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KYNI5O": {
    "msg": "1537062970507665408",
@@ -7705,7 +7691,7 @@
    "end": 1786618800,
    "title": "Some More  #???",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9A8QEA": {
    "msg": "1537249610257666118",
