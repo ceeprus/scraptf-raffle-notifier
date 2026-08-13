@@ -63,34 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "GE8UT5": {
-   "msg": "1534452314197463160",
-   "end": 1785998701,
-   "title": "Most underrated band in my opinion",
-   "items": 6,
-   "ended": true
-  },
-  "J7K23G": {
-   "msg": "1534452322766159992",
-   "end": 1785998401,
-   "title": "Waluigi time Deluxe edition",
-   "items": 5,
-   "ended": true
-  },
-  "FQY3ZW": {
-   "msg": "1534454825322807327",
-   "end": 1785999122,
-   "title": "8500 VOTES SPECIAL!!!",
-   "items": 1,
-   "ended": true
-  },
-  "UPS5Z5": {
-   "msg": "1534454839281713305",
-   "end": 1785998761,
-   "title": "Random Question #36 + Cat Pic #5 (Serverblight)",
-   "items": 1,
-   "ended": true
-  },
   "7RWE8M": {
    "msg": "1534458655921934416",
    "end": 1785999481,
@@ -7068,7 +7040,7 @@
    "end": 1786602721,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XTKPVS": {
    "msg": "1536990439104712764",
@@ -8082,6 +8054,48 @@
    "msg": "1537347740600766545",
    "end": 1786687262,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P81L9V": {
+   "msg": "1537354169743052850",
+   "end": 1786690082,
+   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #73 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "V33AG6": {
+   "msg": "1537354176093491210",
+   "end": 1786689902,
+   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #72 #SundownerSweep  \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "T0JPGY": {
+   "msg": "1537354183076745290",
+   "end": 1786689901,
+   "title": "[\ud83e\udd89] Hoot!",
+   "items": 1,
+   "ended": false
+  },
+  "JOGVJB": {
+   "msg": "1537354191662620683",
+   "end": 1786689781,
+   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #71 #SundownerSweep  \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "3X8NRT": {
+   "msg": "1537354198050410526",
+   "end": 1786689661,
+   "title": "EVIL and MESSED UP noise maker SLOP raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8RYXVP": {
+   "msg": "1537354204220366898",
+   "end": 1786688761,
+   "title": "noiseslop!!!!",
    "items": 1,
    "ended": false
   }
