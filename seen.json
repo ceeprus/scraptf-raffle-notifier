@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "KFYSH1": {
-   "msg": "1534550463058546901",
-   "end": 1786021802,
-   "title": "Comment smth on my profile",
-   "items": 1,
-   "ended": true
-  },
-  "MNHFLJ": {
-   "msg": "1534552939946049536",
-   "end": 1786022221,
-   "title": "Call me sometimes (911)",
-   "items": 1,
-   "ended": true
-  },
-  "WP81A8": {
-   "msg": "1534555456700153957",
-   "end": 1786022701,
-   "title": "I'm Sandvich",
-   "items": 3,
-   "ended": true
-  },
   "LMI71B": {
    "msg": "1534560527445921822",
    "end": 1786024141,
@@ -7117,14 +7096,14 @@
    "end": 1786627261,
    "title": "my first raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "K3CC1F": {
    "msg": "1537091029218496552",
    "end": 1786627082,
    "title": "\ud83c\udf0a Drown the Slugs, Fake Your Death + Make Some Noise!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "VX4JPF": {
    "msg": "1537091035748900906",
@@ -7194,7 +7173,7 @@
    "end": 1786627800,
    "title": "I",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "6OH4TZ": {
    "msg": "1537098638038274120",
@@ -8180,6 +8159,13 @@
    "msg": "1537438330659151954",
    "end": 1786708800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "Q8UGTE": {
+   "msg": "1537453410888978543",
+   "end": 1786712400,
+   "title": "(YTP) meet  guy",
    "items": 1,
    "ended": false
   }
