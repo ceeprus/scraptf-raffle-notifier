@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "K8G0L9": {
-   "msg": "1534597045053165729",
-   "end": 1786032841,
-   "title": "Mi primer video de Tf2",
-   "items": 1,
-   "ended": true
-  },
-  "R85G4X": {
-   "msg": "1534597052909096990",
-   "end": 1786032781,
-   "title": "Your Fate.",
-   "items": 1,
-   "ended": true
-  },
   "PA9L6B": {
    "msg": "1534602088263319632",
    "end": 1786033800,
@@ -7194,14 +7180,14 @@
    "end": 1786637761,
    "title": "exclusivity sucks :/",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JVASMS": {
    "msg": "1537134881132380311",
    "end": 1786637461,
    "title": "i can't think of a title for this raffle 23\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A0SATX": {
    "msg": "1537134887956512842",
@@ -8194,6 +8180,48 @@
    "msg": "1537491208010731591",
    "end": 1786721221,
    "title": "Daily Brass Beast #537",
+   "items": 1,
+   "ended": false
+  },
+  "G86KS0": {
+   "msg": "1537497148923576391",
+   "end": 1786651921,
+   "title": "Then arose such a claymore",
+   "items": 1,
+   "ended": false
+  },
+  "OVCXAN": {
+   "msg": "1537497156741505045",
+   "end": 1786723801,
+   "title": "\ud83c\udf0a",
+   "items": 1,
+   "ended": false
+  },
+  "RF03YG": {
+   "msg": "1537497163100323961",
+   "end": 1786644241,
+   "title": "raffles",
+   "items": 1,
+   "ended": false
+  },
+  "F4NX1Q": {
+   "msg": "1537497169915809903",
+   "end": 1786680000,
+   "title": "Take a Bow",
+   "items": 1,
+   "ended": false
+  },
+  "PEWZBC": {
+   "msg": "1537497177327407114",
+   "end": 1786723200,
+   "title": "Scrap.tf Birthdays - 13 August",
+   "items": 2,
+   "ended": false
+  },
+  "57T24Q": {
+   "msg": "1537497183526453410",
+   "end": 1786679761,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
