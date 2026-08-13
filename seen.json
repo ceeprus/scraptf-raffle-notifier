@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "LN1GMJ": {
-   "msg": "1534570577598087269",
-   "end": 1786026422,
-   "title": "Bau! Bau!",
-   "items": 18,
-   "ended": true
-  },
   "N5M0T5": {
    "msg": "1534573100786647273",
    "end": 1786027202,
@@ -8166,6 +8159,27 @@
    "msg": "1537464964552335360",
    "end": 1786715581,
    "title": "Mirror, mirror on the wall",
+   "items": 1,
+   "ended": false
+  },
+  "YVGPH0": {
+   "msg": "1537468499679641710",
+   "end": 1786716962,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "FGRG3R": {
+   "msg": "1537468507758010449",
+   "end": 1786716841,
+   "title": "I've been making raffles for 11 years",
+   "items": 1,
+   "ended": false
+  },
+  "XUR0Z6": {
+   "msg": "1537468514896707814",
+   "end": 1786716782,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
