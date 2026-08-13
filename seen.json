@@ -308,13 +308,6 @@
    "items": 16,
    "ended": true
   },
-  "UH84NR": {
-   "msg": "1534793326417416192",
-   "end": 1786036322,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "ASN8ZM": {
    "msg": "1534800848021098630",
    "end": 1786081561,
@@ -7201,7 +7194,7 @@
    "end": 1786640522,
    "title": "Raffle 1, comment items, types of items, classes, qualities you want to see in raffle 2",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "UZSYL0": {
    "msg": "1537159002293539026",
@@ -7635,7 +7628,7 @@
    "end": 1786641481,
    "title": "Untitled raffle",
    "items": 150,
-   "ended": false
+   "ended": true
   },
   "S5BN2B": {
    "msg": "1537331925692448779",
@@ -8216,6 +8209,27 @@
    "end": 1786725541,
    "title": "Go play Dying Light you filthy causal",
    "items": 1,
+   "ended": false
+  },
+  "F6B3F1": {
+   "msg": "1537512719803228291",
+   "end": 1786662481,
+   "title": "Haven't been here since 2020",
+   "items": 26,
+   "ended": false
+  },
+  "TIA7OE": {
+   "msg": "1537512726715170946",
+   "end": 1786726800,
+   "title": "Getting Rid Of The",
+   "items": 1,
+   "ended": false
+  },
+  "OF7W3P": {
+   "msg": "1537512734088765490",
+   "end": 1786726800,
+   "title": "Daily raffle until TF2 gets a major update #590",
+   "items": 3,
    "ended": false
   }
  },
