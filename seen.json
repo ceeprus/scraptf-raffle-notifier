@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "WU5CG0": {
-   "msg": "1534685086019227699",
-   "end": 1786053841,
-   "title": "Be kind #5",
-   "items": 5,
-   "ended": true
-  },
-  "PAOE21": {
-   "msg": "1534690164343836804",
-   "end": 1786055042,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "4K0LW8": {
-   "msg": "1534690170614583306",
-   "end": 1786054681,
-   "title": "Birfhday!!",
-   "items": 1,
-   "ended": true
-  },
   "MQIKLQ": {
    "msg": "1534697769464500325",
    "end": 1786056721,
@@ -7222,7 +7201,7 @@
    "end": 1786660021,
    "title": "\ud83c\udf0a A \ud83c\udf0a",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "D61YPE": {
    "msg": "1537241997625270363",
@@ -7705,14 +7684,14 @@
    "end": 1786658941,
    "title": "\ud83c\udf0a\ud83d\udc1f",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "SCECCZ": {
    "msg": "1537408134522474577",
    "end": 1786658761,
    "title": "I got scammed. 50 keys loss",
    "items": 26,
-   "ended": false
+   "ended": true
   },
   "OR0DI1": {
    "msg": "1537408140503425107",
@@ -8167,6 +8146,20 @@
    "end": 1786744261,
    "title": "\ud83c\udf0a\ud83c\udf0a (Beach Day)",
    "items": 12,
+   "ended": false
+  },
+  "6EUDYS": {
+   "msg": "1537589293919510590",
+   "end": 1786746121,
+   "title": "ruffles are cool",
+   "items": 3,
+   "ended": false
+  },
+  "5M0BV1": {
+   "msg": "1537589300319883364",
+   "end": 1786746002,
+   "title": "have any of you ever gotten something other than a weapon/crate from a random drop?",
+   "items": 1,
    "ended": false
   }
  },
