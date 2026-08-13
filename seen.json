@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "H5YB2D": {
-   "msg": "1534432148675629076",
-   "end": 1785993301,
-   "title": "today is my scrappiversary",
-   "items": 4,
-   "ended": true
-  },
-  "0HU89L": {
-   "msg": "1534434668240437288",
-   "end": 1785993961,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
   "71DIY4": {
    "msg": "1534439691083059221",
    "end": 1785995221,
@@ -7040,14 +7026,14 @@
    "end": 1786597861,
    "title": "We definitely need more medic main! \u211654",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "P1936W": {
    "msg": "1536968695857807440",
    "end": 1786597381,
    "title": "Day 5 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "IX14TQ": {
    "msg": "1536970210299609178",
@@ -7061,7 +7047,7 @@
    "end": 1786598281,
    "title": "M (part two)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GT9A6K": {
    "msg": "1536977808881094666",
@@ -8048,6 +8034,41 @@
    "end": 1786639142,
    "title": "Raffling Scrap Till I'm Out #1001-2 (Make up raffle)",
    "items": 2,
+   "ended": false
+  },
+  "6WS160": {
+   "msg": "1537331898605371444",
+   "end": 1786685100,
+   "title": "Luncheon",
+   "items": 1,
+   "ended": false
+  },
+  "UZ9JKN": {
+   "msg": "1537331906671157299",
+   "end": 1786685041,
+   "title": "Day 6 of asking for Slugma Chain emoticon",
+   "items": 3,
+   "ended": false
+  },
+  "BF8ZTD": {
+   "msg": "1537331912962613288",
+   "end": 1786685041,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9TQESM": {
+   "msg": "1537331920025944064",
+   "end": 1786641481,
+   "title": "Untitled raffle",
+   "items": 150,
+   "ended": false
+  },
+  "S5BN2B": {
+   "msg": "1537331925692448779",
+   "end": 1786683961,
+   "title": "I'm still tipping every raffle with  in it's name",
+   "items": 1,
    "ended": false
   }
  },
