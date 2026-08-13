@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "D2ZYWH": {
-   "msg": "1534465146926403657",
-   "end": 1786001581,
-   "title": "A great failure.",
-   "items": 2,
-   "ended": true
-  },
   "RYP987": {
    "msg": "1534478789000691752",
    "end": 1786004641,
@@ -427,31 +420,10 @@
    "items": 15,
    "ended": true
   },
-  "3LYGD0": {
-   "msg": "1534651133103177739",
-   "end": 1786002302,
-   "title": "Getting Down To It #61",
-   "items": 1,
-   "ended": true
-  },
   "IOQOGE": {
    "msg": "1534653654609694872",
    "end": 1786046400,
    "title": "A Refined a day keeps the doctor away! #29",
-   "items": 1,
-   "ended": true
-  },
-  "9R6PVN": {
-   "msg": "1534653661572239380",
-   "end": 1786003022,
-   "title": "Getting Down To It #63",
-   "items": 1,
-   "ended": true
-  },
-  "C439MT": {
-   "msg": "1534653667523694664",
-   "end": 1786002841,
-   "title": "Getting Down To It #62",
    "items": 1,
    "ended": true
   },
@@ -7082,7 +7054,7 @@
    "end": 1786607642,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J167YI": {
    "msg": "1537007989955760188",
@@ -7096,7 +7068,7 @@
    "end": 1786607341,
    "title": "(\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f from \ud83c\udf0a) +    =  * 88888 =",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RQN9T4": {
    "msg": "1537008002727415838",
@@ -7110,14 +7082,14 @@
    "end": 1786607281,
    "title": "#saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J0K7QQ": {
    "msg": "1537008016019165237",
    "end": 1786606381,
    "title": "how to heal glorp?",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "Z71V5S": {
    "msg": "1537015512725331989",
@@ -7684,7 +7656,7 @@
    "end": 1786607162,
    "title": "Some More",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AF286Q": {
    "msg": "1537196706829959320",
@@ -7712,7 +7684,7 @@
    "end": 1786607942,
    "title": "\ud83c\udf0a\ud83e\uddc2It was to be done\ud83e\uddc2 \ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FZ2C23": {
    "msg": "1537204279818063875",
@@ -8124,6 +8096,34 @@
    "msg": "1537362841386876998",
    "end": 1786690502,
    "title": "NOT a noiseslopslop raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4IUM0K": {
+   "msg": "1537370416912269373",
+   "end": 1786694162,
+   "title": "Take my Slop #5",
+   "items": 1,
+   "ended": false
+  },
+  "SWQ9SM": {
+   "msg": "1537370423392731156",
+   "end": 1786694042,
+   "title": "Take my Slop #4",
+   "items": 1,
+   "ended": false
+  },
+  "KEO5LZ": {
+   "msg": "1537370429700972614",
+   "end": 1786693861,
+   "title": "Take my Slop #3",
+   "items": 1,
+   "ended": false
+  },
+  "YSL48H": {
+   "msg": "1537370435904217120",
+   "end": 1786693681,
+   "title": "10 Rafles won",
    "items": 1,
    "ended": false
   }
