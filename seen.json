@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "MQIKLQ": {
-   "msg": "1534697769464500325",
-   "end": 1786056721,
-   "title": "Graveyard Raffle (#3)",
-   "items": 7,
-   "ended": true
-  },
   "TKWLXV": {
    "msg": "1534726603668455544",
    "end": 1786063621,
@@ -231,25 +224,11 @@
    "items": 1,
    "ended": true
   },
-  "VM3F67": {
-   "msg": "1534873839090139187",
-   "end": 1786055582,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "NHSA4S": {
    "msg": "1534876359942471733",
    "end": 1786099741,
    "title": "recomend me sites for trading and buying",
    "items": 1,
-   "ended": true
-  },
-  "PZ3FLB": {
-   "msg": "1534876368397930538",
-   "end": 1786056061,
-   "title": "A few refs, just a few :)",
-   "items": 5,
    "ended": true
   },
   "PB0UOU": {
@@ -446,13 +425,6 @@
    "end": 1786128601,
    "title": "Hii :3",
    "items": 1,
-   "ended": true
-  },
-  "VTJ2PM": {
-   "msg": "1535007292867739789",
-   "end": 1786055882,
-   "title": "meow :3",
-   "items": 2,
    "ended": true
   },
   "Q5U1H8": {
@@ -8160,6 +8132,41 @@
    "end": 1786746002,
    "title": "have any of you ever gotten something other than a weapon/crate from a random drop?",
    "items": 1,
+   "ended": false
+  },
+  "FZQ6KF": {
+   "msg": "1537596881889267783",
+   "end": 1786748161,
+   "title": "Tipping all profiles without tips!",
+   "items": 1,
+   "ended": false
+  },
+  "SRLRHD": {
+   "msg": "1537596888512077904",
+   "end": 1786748101,
+   "title": "Earbuds Are Awful",
+   "items": 1,
+   "ended": false
+  },
+  "Y2Z22H": {
+   "msg": "1537596894845341777",
+   "end": 1786747681,
+   "title": "New Art - Sylveon Edition!",
+   "items": 1,
+   "ended": false
+  },
+  "8UB0LO": {
+   "msg": "1537596902827364522",
+   "end": 1786747381,
+   "title": "Equestria Forever",
+   "items": 53,
+   "ended": false
+  },
+  "TYT0Z9": {
+   "msg": "1537596910238564403",
+   "end": 1786747082,
+   "title": "opened some EVEN EVEN more spooky boxes",
+   "items": 49,
    "ended": false
   }
  },
