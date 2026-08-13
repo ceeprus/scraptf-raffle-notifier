@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "W1G3S9": {
-   "msg": "1534524089216274633",
-   "end": 1786015561,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "8H5DMF": {
-   "msg": "1534524097843822743",
-   "end": 1786015441,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "USMNZO": {
-   "msg": "1534524103728304170",
-   "end": 1786015202,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "P446P8": {
    "msg": "1534526558612492358",
    "end": 1786015922,
@@ -7152,14 +7131,14 @@
    "end": 1786619882,
    "title": "nrgghh",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "G2EQ7X": {
    "msg": "1537060823476731955",
    "end": 1786619821,
    "title": "Daily Kit Fabricator #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EKR6IW": {
    "msg": "1537060829940285520",
@@ -7173,7 +7152,7 @@
    "end": 1786620242,
    "title": "Slugma Chain raffle #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2VJ3I2": {
    "msg": "1537068386683584533",
@@ -7712,7 +7691,7 @@
    "end": 1786620602,
    "title": "\ud83e\uddc2\ud83c\udf0a A war without reason \ud83c\udf0a \ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VV2BE2": {
    "msg": "1537249635582607401",
@@ -8195,6 +8174,34 @@
    "end": 1786703101,
    "title": "Comrade Joker presents you with a hand",
    "items": 8,
+   "ended": false
+  },
+  "TRTSQ7": {
+   "msg": "1537423236373942294",
+   "end": 1786706761,
+   "title": "hello there fellas",
+   "items": 4,
+   "ended": false
+  },
+  "BEDRFB": {
+   "msg": "1537423244913541150",
+   "end": 1786706641,
+   "title": "#SundownerSweep raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KFNYJ3": {
+   "msg": "1537423252094197811",
+   "end": 1786706461,
+   "title": "Grabli304's raffle\u2503Day 165",
+   "items": 2,
+   "ended": false
+  },
+  "L0XGRL": {
+   "msg": "1537423259010736158",
+   "end": 1786705200,
+   "title": "I can't belive how cruel Chuck is!",
+   "items": 1,
    "ended": false
   }
  },
