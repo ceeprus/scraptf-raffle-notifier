@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "QD882G": {
-   "msg": "1534535398020091955",
-   "end": 1786017782,
-   "title": "Noise sup",
-   "items": 164,
-   "ended": true
-  },
-  "MK7E91": {
-   "msg": "1534540356543058073",
-   "end": 1786019161,
-   "title": "Metal # (Finale)",
-   "items": 7,
-   "ended": true
-  },
-  "IK2Y1W": {
-   "msg": "1534540363178442772",
-   "end": 1786018921,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
   "9UU2D0": {
    "msg": "1534542932298829834",
    "end": 1786019881,
@@ -7138,7 +7117,7 @@
    "end": 1786622641,
    "title": "Go play Middle Earth: Shadow of War you filthy casual",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2RXNIN": {
    "msg": "1537075923319394316",
@@ -8201,6 +8180,41 @@
    "msg": "1537430828274032741",
    "end": 1786707961,
    "title": "Bau! Bau!",
+   "items": 1,
+   "ended": false
+  },
+  "4J28GQ": {
+   "msg": "1537438302058184796",
+   "end": 1786710302,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RQEVYK": {
+   "msg": "1537438309213675644",
+   "end": 1786710121,
+   "title": "Pew pew",
+   "items": 1,
+   "ended": false
+  },
+  "OJRDNH": {
+   "msg": "1537438316230869032",
+   "end": 1786709762,
+   "title": "Hii :3     This is my seventh raffle, wow",
+   "items": 3,
+   "ended": false
+  },
+  "FHZ8LF": {
+   "msg": "1537438323583221920",
+   "end": 1786709582,
+   "title": "Well, you can tell by the way I use my walk",
+   "items": 1,
+   "ended": false
+  },
+  "VGWX9Z": {
+   "msg": "1537438330659151954",
+   "end": 1786708800,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
