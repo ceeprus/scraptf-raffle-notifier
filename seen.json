@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "71DIY4": {
-   "msg": "1534439691083059221",
-   "end": 1785995221,
-   "title": "Public raffle go brrr",
-   "items": 2,
-   "ended": true
-  },
-  "TAVXA4": {
-   "msg": "1534442222659960862",
-   "end": 1785995701,
-   "title": "Daily Hat #74",
-   "items": 1,
-   "ended": true
-  },
   "CNVJ4M": {
    "msg": "1534447267925197002",
    "end": 1785996902,
@@ -7054,21 +7040,21 @@
    "end": 1786600562,
    "title": "oh, scrappy day!",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "GUG4HQ": {
    "msg": "1536977816258744431",
    "end": 1786600202,
    "title": "Power Scale #7 Scrap.tf",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "0ULM8K": {
    "msg": "1536977823359832154",
    "end": 1786600141,
    "title": "We (Yes, WE) need a Slugma chain emote NOW! P.5",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "C12997": {
    "msg": "1536985309999403138",
@@ -8006,7 +7992,7 @@
    "end": 1786600201,
    "title": "My first raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "DVEP4J": {
    "msg": "1537317511681409024",
