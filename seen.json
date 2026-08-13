@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "RYP987": {
-   "msg": "1534478789000691752",
-   "end": 1786004641,
-   "title": "Let's go",
-   "items": 1,
-   "ended": true
-  },
   "YD9VK0": {
    "msg": "1534500125601431573",
    "end": 1786010041,
@@ -8117,6 +8110,13 @@
    "msg": "1537374147792080937",
    "end": 1786694282,
    "title": "Take my Slop #6",
+   "items": 1,
+   "ended": false
+  },
+  "1F5IFD": {
+   "msg": "1537377921352736799",
+   "end": 1786695841,
+   "title": "\ud83c\udf0aDuracell Shots\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
