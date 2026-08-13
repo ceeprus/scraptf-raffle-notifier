@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "PFX499": {
-   "msg": "1534349101024542761",
-   "end": 1785974041,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "KJRPX2": {
    "msg": "1534368005817897081",
    "end": 1785978241,
@@ -6928,7 +6921,7 @@
    "end": 1786578602,
    "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #68   \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TYBNEJ": {
    "msg": "1536887224854122638",
@@ -6942,21 +6935,21 @@
    "end": 1786578241,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9ZZ0P2": {
    "msg": "1536887238611304449",
    "end": 1786578122,
    "title": "First raffle  \ud83e\uddc2",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "JV39V5": {
    "msg": "1536887245057826851",
    "end": 1786577462,
    "title": "#100007",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MYLHHX": {
    "msg": "1536902307243892827",
@@ -7950,6 +7943,34 @@
    "end": 1786618800,
    "title": "Some More  #???",
    "items": 1,
+   "ended": false
+  },
+  "9A8QEA": {
+   "msg": "1537249610257666118",
+   "end": 1786664941,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "TKNDFE": {
+   "msg": "1537249618172317797",
+   "end": 1786664882,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "9ONVM8": {
+   "msg": "1537249626112008265",
+   "end": 1786620602,
+   "title": "\ud83e\uddc2\ud83c\udf0a A war without reason \ud83c\udf0a \ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "VV2BE2": {
+   "msg": "1537249635582607401",
+   "end": 1786599002,
+   "title": "Some stuff + want to hear thoughts on this unusual combo",
+   "items": 5,
    "ended": false
   }
  },
