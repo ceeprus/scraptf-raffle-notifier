@@ -651,20 +651,6 @@
    "items": 114,
    "ended": true
   },
-  "S28QR9": {
-   "msg": "1534829809182703777",
-   "end": 1786005302,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "3P7XV1": {
-   "msg": "1534832271603925032",
-   "end": 1786006381,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "6S6KA7": {
    "msg": "1534834797191364619",
    "end": 1786089661,
@@ -7096,7 +7082,7 @@
    "end": 1786610222,
    "title": "im tired of this war.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HRAKS1": {
    "msg": "1537030618498732123",
@@ -7698,7 +7684,7 @@
    "end": 1786611600,
    "title": "[DAY 8] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WAL3LV": {
    "msg": "1537211830676492458",
