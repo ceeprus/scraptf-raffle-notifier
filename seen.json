@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "DOKDLN": {
-   "msg": "1534531662287995035",
-   "end": 1786017600,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
-  "23WTDD": {
-   "msg": "1534531676418478263",
-   "end": 1786017241,
-   "title": "Daily Brass Beast #529",
-   "items": 1,
-   "ended": true
-  },
   "QD882G": {
    "msg": "1534535398020091955",
    "end": 1786017782,
@@ -434,13 +420,6 @@
    "items": 7,
    "ended": true
   },
-  "9ITNN0": {
-   "msg": "1534714001378775220",
-   "end": 1786017121,
-   "title": "First raffle",
-   "items": 3,
-   "ended": true
-  },
   "TKWLXV": {
    "msg": "1534726603668455544",
    "end": 1786063621,
@@ -600,13 +579,6 @@
    "end": 1786093922,
    "title": "Bau! Bau!",
    "items": 16,
-   "ended": true
-  },
-  "SJD0P8": {
-   "msg": "1534861256685654127",
-   "end": 1786016402,
-   "title": "Sin Eater",
-   "items": 1,
    "ended": true
   },
   "CEUWYW": {
@@ -7152,7 +7124,7 @@
    "end": 1786621922,
    "title": "(still! (yes, still!)) Tipping all  raffles!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "HNTZBJ": {
    "msg": "1537075909612544052",
@@ -7173,7 +7145,7 @@
    "end": 1786622400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VH4DN5": {
    "msg": "1537083473628766249",
@@ -8201,6 +8173,34 @@
    "msg": "1537425459439079434",
    "end": 1786707362,
    "title": "Epic man with epic face",
+   "items": 1,
+   "ended": false
+  },
+  "H1RCE6": {
+   "msg": "1537430805326987334",
+   "end": 1786708621,
+   "title": "I'm the one",
+   "items": 3,
+   "ended": false
+  },
+  "69T8L7": {
+   "msg": "1537430812264501351",
+   "end": 1786708501,
+   "title": "Whoever wins - give ME festivizer/or festivized weapon",
+   "items": 3,
+   "ended": false
+  },
+  "Y0OQG2": {
+   "msg": "1537430819621175386",
+   "end": 1786708442,
+   "title": "Fanumstein Rizzberg",
+   "items": 1,
+   "ended": false
+  },
+  "Q88PJN": {
+   "msg": "1537430828274032741",
+   "end": 1786707961,
+   "title": "Bau! Bau!",
    "items": 1,
    "ended": false
   }
