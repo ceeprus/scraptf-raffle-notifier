@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "DITXR9": {
-   "msg": "1534641044795424918",
-   "end": 1786043402,
-   "title": "Moving On :D",
-   "items": 3,
-   "ended": true
-  },
   "3FGSAX": {
    "msg": "1534651126765322291",
    "end": 1786045741,
@@ -432,13 +425,6 @@
    "end": 1786107600,
    "title": "Loe efoort raffhls",
    "items": 1,
-   "ended": true
-  },
-  "27GAP5": {
-   "msg": "1534914138445316106",
-   "end": 1786043282,
-   "title": "Noise Maker",
-   "items": 2,
    "ended": true
   },
   "E0BVT2": {
@@ -7173,14 +7159,14 @@
    "end": 1786647902,
    "title": "\ud83c\udf0a",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8R2PKY": {
    "msg": "1537181614604427406",
    "end": 1786647721,
    "title": "auctions are wierd",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BT6RLU": {
    "msg": "1537181622007369838",
@@ -8188,6 +8174,20 @@
    "end": 1786689301,
    "title": "Who here is hungry?!",
    "items": 6,
+   "ended": false
+  },
+  "H6XIJR": {
+   "msg": "1537544009143291976",
+   "end": 1786734661,
+   "title": "MVM DROP PRICE SPREADSHEET",
+   "items": 5,
+   "ended": false
+  },
+  "ZVRRJY": {
+   "msg": "1537544015870828655",
+   "end": 1786734000,
+   "title": "slugma chain raffle #6",
+   "items": 3,
    "ended": false
   }
  },
