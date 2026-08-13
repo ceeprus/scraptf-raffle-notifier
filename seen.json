@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "RMOQPX": {
-   "msg": "1534656188107587668",
-   "end": 1786046753,
-   "title": "food",
-   "items": 1,
-   "ended": true
-  },
-  "ZH37QK": {
-   "msg": "1534661165358256332",
-   "end": 1786048081,
-   "title": "Equestria 4ever",
-   "items": 53,
-   "ended": true
-  },
   "0A7A87": {
    "msg": "1534666198707339475",
    "end": 1786049522,
@@ -495,13 +481,6 @@
    "end": 1786130342,
    "title": "velvet turtle",
    "items": 11,
-   "ended": true
-  },
-  "CPOGHP": {
-   "msg": "1535007257622876292",
-   "end": 1786046822,
-   "title": "More horse or very much raffle?",
-   "items": 1,
    "ended": true
   },
   "D48T9S": {
@@ -7201,7 +7180,7 @@
    "end": 1786652821,
    "title": "Your weekly non-official Scrap.tf news. [Week 232]",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "METAPT": {
    "msg": "1537196714338033695",
@@ -8041,7 +8020,7 @@
    "end": 1786651921,
    "title": "Then arose such a claymore",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OVCXAN": {
    "msg": "1537497156741505045",
@@ -8174,6 +8153,34 @@
    "end": 1786734000,
    "title": "slugma chain raffle #6",
    "items": 3,
+   "ended": false
+  },
+  "U74XOU": {
+   "msg": "1537559090094411909",
+   "end": 1786739042,
+   "title": "leftovers",
+   "items": 2,
+   "ended": false
+  },
+  "6N7HAR": {
+   "msg": "1537559098097279029",
+   "end": 1786738741,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "J6ZX4Z": {
+   "msg": "1537559105500094604",
+   "end": 1786737601,
+   "title": "endless war theory",
+   "items": 2,
+   "ended": false
+  },
+  "ZSRKIV": {
+   "msg": "1537559112693317652",
+   "end": 1786737600,
+   "title": "We need more Engineer Mains! | #003",
+   "items": 7,
    "ended": false
   }
  },
