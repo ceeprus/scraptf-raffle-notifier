@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "NUQ7M6": {
-   "msg": "1534624750427570443",
-   "end": 1786039741,
-   "title": "Free game! #59 - Moonlighter",
-   "items": 2,
-   "ended": true
-  },
-  "NF7HHP": {
-   "msg": "1534627245321355434",
-   "end": 1786040101,
-   "title": "Pick My Custom Title - Finale",
-   "items": 3,
-   "ended": true
-  },
   "7MOVVI": {
    "msg": "1534629775656751245",
    "end": 1786041001,
@@ -305,13 +291,6 @@
    "msg": "1534803455766691940",
    "end": 1786081802,
    "title": "gentleman thursday",
-   "items": 1,
-   "ended": true
-  },
-  "WWM3NF": {
-   "msg": "1534808427522555998",
-   "end": 1786039981,
-   "title": "Free Golden Frying pan!!!!",
    "items": 1,
    "ended": true
   },
@@ -544,13 +523,6 @@
    "end": 1786114261,
    "title": "#9",
    "items": 1,
-   "ended": true
-  },
-  "GJPWR5": {
-   "msg": "1534961476198989935",
-   "end": 1786040701,
-   "title": "Let's go",
-   "items": 24,
    "ended": true
   },
   "KR6363": {
@@ -7194,7 +7166,7 @@
    "end": 1786644422,
    "title": "\ud83c\udf0a",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "P8VQUV": {
    "msg": "1537162338900377751",
@@ -7208,14 +7180,14 @@
    "end": 1786645261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OCIVVJ": {
    "msg": "1537166512161431565",
    "end": 1786645081,
    "title": "rrrrr",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4NT4AZ": {
    "msg": "1537174108222136470",
@@ -8139,7 +8111,7 @@
    "end": 1786644241,
    "title": "raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F4NX1Q": {
    "msg": "1537497169915809903",
@@ -8216,6 +8188,13 @@
    "end": 1786729081,
    "title": "New soldier loadout",
    "items": 1,
+   "ended": false
+  },
+  "E66B46": {
+   "msg": "1537527465512018022",
+   "end": 1786730702,
+   "title": "3ds",
+   "items": 6,
    "ended": false
   }
  },
