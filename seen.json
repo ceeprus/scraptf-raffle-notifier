@@ -7159,7 +7159,7 @@
    "end": 1786618322,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IJ1PTV": {
    "msg": "1537060816786952202",
@@ -8181,6 +8181,34 @@
    "end": 1786701600,
    "title": "Gifted Splendid Screen #3",
    "items": 1,
+   "ended": false
+  },
+  "C64SHI": {
+   "msg": "1537414029616877609",
+   "end": 1786704241,
+   "title": "#SlugmaSweep",
+   "items": 1,
+   "ended": false
+  },
+  "FTOIIH": {
+   "msg": "1537414036549804032",
+   "end": 1786704121,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "O3S5NQ": {
+   "msg": "1537414045106438164",
+   "end": 1786703281,
+   "title": "But first a quick message from our sponsor,",
+   "items": 1,
+   "ended": false
+  },
+  "R1M0O9": {
+   "msg": "1537414052593008690",
+   "end": 1786703101,
+   "title": "Comrade Joker presents you with a hand",
+   "items": 8,
    "ended": false
   }
  },
