@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "0QCIEB": {
-   "msg": "1534607185005514772",
-   "end": 1786034881,
-   "title": "I am bad with titles #139",
-   "items": 1,
-   "ended": true
-  },
-  "5EVTMM": {
-   "msg": "1534609619224363119",
-   "end": 1786035600,
-   "title": "Daily raffle until TF2 gets a major update #582",
-   "items": 3,
-   "ended": true
-  },
-  "2WXBDH": {
-   "msg": "1534609628405563516",
-   "end": 1786035600,
-   "title": "Reduce",
-   "items": 4,
-   "ended": true
-  },
   "XST5G3": {
    "msg": "1534622274726924348",
    "end": 1786038781,
@@ -7194,21 +7173,21 @@
    "end": 1786640400,
    "title": "Daily raffle until TF2 gets a major update #589",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "AQN6PE": {
    "msg": "1537143910999003197",
    "end": 1786640400,
    "title": "Story Time",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "WOOX4M": {
    "msg": "1537143917026218075",
    "end": 1786640162,
    "title": "Raffle Spam Pandemic Of 2026",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CJF23V": {
    "msg": "1537143925498978486",
@@ -7628,7 +7607,7 @@
    "end": 1786639142,
    "title": "Raffling Scrap Till I'm Out #1001-2 (Make up raffle)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "6WS160": {
    "msg": "1537331898605371444",
@@ -8230,6 +8209,13 @@
    "end": 1786724282,
    "title": "Which operating system do you use? | NDR #12",
    "items": 2,
+   "ended": false
+  },
+  "5ZHGJV": {
+   "msg": "1537506291294015628",
+   "end": 1786725541,
+   "title": "Go play Dying Light you filthy causal",
+   "items": 1,
    "ended": false
   }
  },
