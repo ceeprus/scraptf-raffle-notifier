@@ -7054,21 +7054,21 @@
    "end": 1786604942,
    "title": "\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3DI0NF": {
    "msg": "1537000440863137872",
    "end": 1786604701,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XRIK4C": {
    "msg": "1537000447834062850",
    "end": 1786604521,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QFC5S8": {
    "msg": "1537000458181283850",
@@ -8089,6 +8089,41 @@
    "msg": "1537354204220366898",
    "end": 1786688761,
    "title": "noiseslop!!!!",
+   "items": 1,
+   "ended": false
+  },
+  "9R2MFF": {
+   "msg": "1537362808704860260",
+   "end": 1786692181,
+   "title": "We're on our second vacation!",
+   "items": 1,
+   "ended": false
+  },
+  "IV0B6N": {
+   "msg": "1537362817521426462",
+   "end": 1786691941,
+   "title": "Im bored",
+   "items": 9,
+   "ended": false
+  },
+  "I0N9OY": {
+   "msg": "1537362824693678110",
+   "end": 1786690741,
+   "title": "\ud83e\udd81 Entering the Cool Lion's Territory",
+   "items": 1,
+   "ended": false
+  },
+  "N0WDZP": {
+   "msg": "1537362833803575326",
+   "end": 1786690621,
+   "title": "Noise..",
+   "items": 1,
+   "ended": false
+  },
+  "QT7HHH": {
+   "msg": "1537362841386876998",
+   "end": 1786690502,
+   "title": "NOT a noiseslopslop raffle",
    "items": 1,
    "ended": false
   }
