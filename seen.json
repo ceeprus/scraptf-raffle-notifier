@@ -70,13 +70,6 @@
    "items": 1,
    "ended": true
   },
-  "CEV9BK": {
-   "msg": "1534368014458163361",
-   "end": 1785978000,
-   "title": "Reminder to eat n' drink water if ye haven't yet #264",
-   "items": 5,
-   "ended": true
-  },
   "HCEEQ2": {
    "msg": "1534373114891206779",
    "end": 1785979501,
@@ -6970,7 +6963,7 @@
    "end": 1786582800,
    "title": "Reminder to eat n' drink water if ye haven't yet #269",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "FTIBAD": {
    "msg": "1536909840633307157",
@@ -7467,7 +7460,7 @@
    "end": 1786582081,
    "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E9YYYG": {
    "msg": "1537083486572249219",
@@ -7502,7 +7495,7 @@
    "end": 1786582862,
    "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2GZA66": {
    "msg": "1537091047958642728",
@@ -7523,7 +7516,7 @@
    "end": 1786582561,
    "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4TDMA2": {
    "msg": "1537098597143945216",
@@ -7985,6 +7978,13 @@
    "end": 1786665721,
    "title": "My second raffle \ud83e\udd14\ud83d\udc4d\ud83d\udc4d",
    "items": 13,
+   "ended": false
+  },
+  "RACPEP": {
+   "msg": "1537264695474393169",
+   "end": 1786668002,
+   "title": "Hi everyone uwu",
+   "items": 2,
    "ended": false
   }
  },
