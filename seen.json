@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "0A7A87": {
-   "msg": "1534666198707339475",
-   "end": 1786049522,
-   "title": "JaMM still on vaction",
-   "items": 1,
-   "ended": true
-  },
-  "IPVDLJ": {
-   "msg": "1534668699557040230",
-   "end": 1786050000,
-   "title": "checkup #82 | Toxicity",
-   "items": 1,
-   "ended": true
-  },
   "OM7ZBQ": {
    "msg": "1534677583680241715",
    "end": 1786051981,
@@ -7208,7 +7194,7 @@
    "end": 1786653782,
    "title": "Daily Brass Beast #536",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5NF42D": {
    "msg": "1537211803191484576",
@@ -7229,7 +7215,7 @@
    "end": 1786654800,
    "title": "checkup #88 | OneShot",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TEVQ5W": {
    "msg": "1537211823823003678",
@@ -7243,7 +7229,7 @@
    "end": 1786654501,
    "title": "Quick reminder:",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CVKT0Z": {
    "msg": "1537226890232733757",
@@ -8181,6 +8167,13 @@
    "end": 1786737600,
    "title": "We need more Engineer Mains! | #003",
    "items": 7,
+   "ended": false
+  },
+  "0QEPXG": {
+   "msg": "1537566688109793340",
+   "end": 1786696200,
+   "title": "[Fallen Tributes/Night 9] Scrap tf HG",
+   "items": 1,
    "ended": false
   }
  },
