@@ -7439,7 +7439,7 @@
    "end": 1786579622,
    "title": "The war is still not over (still tipping for \ud83c\udf0a in your raffle title)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VHK8X9": {
    "msg": "1537075916566429796",
@@ -7971,6 +7971,20 @@
    "end": 1786599002,
    "title": "Some stuff + want to hear thoughts on this unusual combo",
    "items": 5,
+   "ended": false
+  },
+  "DHV1QR": {
+   "msg": "1537257106149744771",
+   "end": 1786666441,
+   "title": "\ud83e\uddc2",
+   "items": 1,
+   "ended": false
+  },
+  "EFB1YZ": {
+   "msg": "1537257114190356624",
+   "end": 1786665721,
+   "title": "My second raffle \ud83e\udd14\ud83d\udc4d\ud83d\udc4d",
+   "items": 13,
    "ended": false
   }
  },
