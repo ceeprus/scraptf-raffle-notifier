@@ -63,34 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "LMI71B": {
-   "msg": "1534560527445921822",
-   "end": 1786024141,
-   "title": "Little Birthday Raffle",
-   "items": 4,
-   "ended": true
-  },
-  "PAIMDD": {
-   "msg": "1534560535440392242",
-   "end": 1786024082,
-   "title": "I won a very expensive item here today...",
-   "items": 40,
-   "ended": true
-  },
-  "20NLSJ": {
-   "msg": "1534563016358498518",
-   "end": 1786024801,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
-  "WROBV5": {
-   "msg": "1534563023417643099",
-   "end": 1786024621,
-   "title": "yo check these musics out",
-   "items": 7,
-   "ended": true
-  },
   "LN1GMJ": {
    "msg": "1534570577598087269",
    "end": 1786026422,
@@ -7145,21 +7117,21 @@
    "end": 1786629361,
    "title": "I Drew Ts 16",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ADKPNQ": {
    "msg": "1537098607860260984",
    "end": 1786629301,
    "title": "What's up with \ud83c\udf0a and  and  ?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SHJ6O1": {
    "msg": "1537098615502143549",
    "end": 1786629122,
    "title": "fun facts feat. slugs.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "P2XAXO": {
    "msg": "1537098624167710834",
@@ -7628,7 +7600,7 @@
    "end": 1786629061,
    "title": "baahhhh baaaahhhhhhhhhhh bleeeeaat",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "FPRDOB": {
    "msg": "1537279794004107345",
@@ -8167,6 +8139,27 @@
    "end": 1786712400,
    "title": "(YTP) meet  guy",
    "items": 1,
+   "ended": false
+  },
+  "TYJ67N": {
+   "msg": "1537460990889828352",
+   "end": 1786672201,
+   "title": "I Heard a  Was Running Wild.",
+   "items": 1,
+   "ended": false
+  },
+  "LUFEHJ": {
+   "msg": "1537460999953580163",
+   "end": 1786715221,
+   "title": "Untitled raffle",
+   "items": 18,
+   "ended": false
+  },
+  "4NQFWE": {
+   "msg": "1537461007549726820",
+   "end": 1786714802,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1504 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 13,
    "ended": false
   }
  },
