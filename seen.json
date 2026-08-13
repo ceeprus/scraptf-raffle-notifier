@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "KJRPX2": {
-   "msg": "1534368005817897081",
-   "end": 1785978241,
-   "title": "Hale's Own Trials: Persian Persuader: Day 2",
-   "items": 1,
-   "ended": true
-  },
   "HCEEQ2": {
    "msg": "1534373114891206779",
    "end": 1785979501,
@@ -6956,7 +6949,7 @@
    "end": 1786583042,
    "title": "Remember",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6ZWFCC": {
    "msg": "1536904570851299441",
@@ -7985,6 +7978,20 @@
    "end": 1786668002,
    "title": "Hi everyone uwu",
    "items": 2,
+   "ended": false
+  },
+  "K1S345": {
+   "msg": "1537267310753091615",
+   "end": 1786669200,
+   "title": "Reminder to eat n' drink water if ye haven't yet #270",
+   "items": 5,
+   "ended": false
+  },
+  "O8QL7D": {
+   "msg": "1537267317321375774",
+   "end": 1786669200,
+   "title": "M (part three)",
+   "items": 1,
    "ended": false
   }
  },
