@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "N3K0OP": {
-   "msg": "1534632294600671262",
-   "end": 1786041601,
-   "title": "hi",
-   "items": 1,
-   "ended": true
-  },
-  "MGANNS": {
-   "msg": "1534634792258113597",
-   "end": 1786041962,
-   "title": "This is bob. Copy and paste him so he can take over",
-   "items": 1,
-   "ended": true
-  },
   "DITXR9": {
    "msg": "1534641044795424918",
    "end": 1786043402,
@@ -7201,14 +7187,14 @@
    "end": 1786647600,
    "title": "slugma chain raffle #5",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "D0S7X7": {
    "msg": "1537181630475534436",
    "end": 1786647482,
    "title": "Special Delivery!",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "8O8OZ5": {
    "msg": "1537189184027238511",
@@ -8180,6 +8166,27 @@
    "msg": "1537527465512018022",
    "end": 1786730702,
    "title": "3ds",
+   "items": 6,
+   "ended": false
+  },
+  "7V33J4": {
+   "msg": "1537536477079142441",
+   "end": 1786732861,
+   "title": "Kiestu's question regarding",
+   "items": 1,
+   "ended": false
+  },
+  "VLOW3T": {
+   "msg": "1537536488038867065",
+   "end": 1786689361,
+   "title": "GAMBLE GAMBLE GAMBLEE!!!!",
+   "items": 8,
+   "ended": false
+  },
+  "PGPS3W": {
+   "msg": "1537536494758273164",
+   "end": 1786689301,
+   "title": "Who here is hungry?!",
    "items": 6,
    "ended": false
   }
