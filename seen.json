@@ -7103,7 +7103,7 @@
    "end": 1786612681,
    "title": "It's been years, so it's time for life updates. (OMG COMING OUT????)",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "8BXCHL": {
    "msg": "1537030644939366491",
@@ -7138,28 +7138,28 @@
    "end": 1786612141,
    "title": "\ud83e\uddc2 Salty raffle #saveglorp",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EV0UT8": {
    "msg": "1537030681077751898",
    "end": 1786611842,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XY7007": {
    "msg": "1537030687532646470",
    "end": 1786611781,
    "title": "You thought this was just a scrap #193",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FA6DKY": {
    "msg": "1537032084126695436",
    "end": 1786612982,
    "title": "\ud83c\udf0a  takeover",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S4KCFX": {
    "msg": "1537045711718453342",
@@ -7663,7 +7663,7 @@
    "end": 1786612201,
    "title": "won my first raffllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "INJPOT": {
    "msg": "1537211810393096192",
@@ -8104,6 +8104,20 @@
    "end": 1786695841,
    "title": "\ud83c\udf0aDuracell Shots\ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "33V19E": {
+   "msg": "1537393014039904316",
+   "end": 1786656121,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KR3EW1": {
+   "msg": "1537393021757292647",
+   "end": 1786699081,
+   "title": "It's my scrapiversary!",
+   "items": 6,
    "ended": false
   }
  },
