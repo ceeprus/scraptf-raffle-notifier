@@ -7005,7 +7005,7 @@
    "end": 1786594141,
    "title": "\ud83d\udc1fRaffle Log #97\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U64DJB": {
    "msg": "1536955130971430912",
@@ -7033,7 +7033,7 @@
    "end": 1786595281,
    "title": "Cog Birthday Raffle!!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "HT9NE4": {
    "msg": "1536968688408862721",
@@ -8020,6 +8020,27 @@
    "end": 1786600201,
    "title": "My first raffle",
    "items": 4,
+   "ended": false
+  },
+  "DVEP4J": {
+   "msg": "1537317511681409024",
+   "end": 1786681202,
+   "title": "A glorp victory!",
+   "items": 10,
+   "ended": false
+  },
+  "4A7K71": {
+   "msg": "1537317520426663946",
+   "end": 1786680901,
+   "title": "A question for the F2P",
+   "items": 30,
+   "ended": false
+  },
+  "CCIRHG": {
+   "msg": "1537317527648997486",
+   "end": 1786680481,
+   "title": "we've all been stars one day in the past, which star do you think you were back there?",
+   "items": 3,
    "ended": false
   }
  },
