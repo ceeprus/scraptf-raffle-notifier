@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "QONHPR": {
-   "msg": "1534547950561394850",
-   "end": 1786021201,
-   "title": "announcement raffle next week",
-   "items": 1,
-   "ended": true
-  },
-  "X12SMC": {
-   "msg": "1534547958463467621",
-   "end": 1786021200,
-   "title": "Guess what",
-   "items": 1,
-   "ended": true
-  },
-  "Y6VMYI": {
-   "msg": "1534547965082075226",
-   "end": 1786021200,
-   "title": "Organic Chemistry and Other Horrors (Well There's Your Problem Animated)",
-   "items": 1,
-   "ended": true
-  },
   "KFYSH1": {
    "msg": "1534550463058546901",
    "end": 1786021802,
@@ -7166,14 +7145,14 @@
    "end": 1786626000,
    "title": "Meet the Paranoid Schizophrenic Demoman",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U3A38O": {
    "msg": "1537091062231859291",
    "end": 1786625882,
    "title": "123",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "85LJT2": {
    "msg": "1537091067814346803",
