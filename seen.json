@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "BY4NIV": {
-   "msg": "1534391909307515064",
-   "end": 1785983941,
-   "title": "Graveyard Raffle (#2)",
-   "items": 7,
-   "ended": true
-  },
-  "ZPI8X5": {
-   "msg": "1534396920498229429",
-   "end": 1785985081,
-   "title": "((Somewhat)) Saying Goodbye to Team Fortress 2 ((For real this time)) (((Part 2)))",
-   "items": 152,
-   "ended": true
-  },
   "9S7OPQ": {
    "msg": "1534399497831055502",
    "end": 1785985501,
@@ -6977,7 +6963,7 @@
    "end": 1786589042,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "AGDY0Z": {
    "msg": "1536932509064101898",
@@ -8013,6 +7999,27 @@
    "end": 1786672921,
    "title": "Whats happening with recent comunity events announced through steam news?",
    "items": 36,
+   "ended": false
+  },
+  "73PYX9": {
+   "msg": "1537294893989372007",
+   "end": 1786675501,
+   "title": "Caf\u00e9 Crit-A-Coffee #1756",
+   "items": 10,
+   "ended": false
+  },
+  "U9KAWD": {
+   "msg": "1537294904114417784",
+   "end": 1786675021,
+   "title": "Godspeed gamers",
+   "items": 1,
+   "ended": false
+  },
+  "4MI2K6": {
+   "msg": "1537294910200225793",
+   "end": 1786674900,
+   "title": "Restless Waiting",
+   "items": 1,
    "ended": false
   }
  },
