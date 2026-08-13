@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "OM7ZBQ": {
-   "msg": "1534677583680241715",
-   "end": 1786051981,
-   "title": "Birthday raffle #3",
-   "items": 33,
-   "ended": true
-  },
   "W3IFXU": {
    "msg": "1534680113096953876",
    "end": 1786052341,
@@ -7712,7 +7705,7 @@
    "end": 1786656781,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8V16U4": {
    "msg": "1537408111340691516",
