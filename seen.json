@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "9UU2D0": {
-   "msg": "1534542932298829834",
-   "end": 1786019881,
-   "title": "Daily raffle #326",
-   "items": 1,
-   "ended": true
-  },
   "QONHPR": {
    "msg": "1534547950561394850",
    "end": 1786021201,
@@ -655,13 +648,6 @@
    "msg": "1534890207176949971",
    "end": 1786102441,
    "title": "hi im grabli11",
-   "items": 1,
-   "ended": true
-  },
-  "AJLN8Y": {
-   "msg": "1534892705912459264",
-   "end": 1786020361,
-   "title": "Drink it with some buddies",
    "items": 1,
    "ended": true
   },
@@ -7131,7 +7117,7 @@
    "end": 1786625341,
    "title": "MAZEKEST",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LA6P66": {
    "msg": "1537083480566141078",
@@ -7145,7 +7131,7 @@
    "end": 1786625161,
    "title": "Rating Music Recommendations part 1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "38LRF3": {
    "msg": "1537091022088310796",
