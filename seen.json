@@ -364,13 +364,6 @@
    "items": 7,
    "ended": true
   },
-  "7HWJIS": {
-   "msg": "1534565588557627433",
-   "end": 1785982021,
-   "title": "Seeing so many quitting tf2 raffles, wish them well!",
-   "items": 2,
-   "ended": true
-  },
   "LN1GMJ": {
    "msg": "1534570577598087269",
    "end": 1786026422,
@@ -6970,7 +6963,7 @@
    "end": 1786587661,
    "title": "second raffle!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "44V18M": {
    "msg": "1536924916757299270",
@@ -7999,6 +7992,27 @@
    "end": 1786592462,
    "title": "Something to watch",
    "items": 1,
+   "ended": false
+  },
+  "OATWFL": {
+   "msg": "1537287309802864680",
+   "end": 1786673281,
+   "title": "Can you guys please stop raffling noisemakers!!!!",
+   "items": 10,
+   "ended": false
+  },
+  "GM5JTB": {
+   "msg": "1537287322092048404",
+   "end": 1786629841,
+   "title": "Untitled raffle",
+   "items": 21,
+   "ended": false
+  },
+  "ZA1EVN": {
+   "msg": "1537287331801862255",
+   "end": 1786672921,
+   "title": "Whats happening with recent comunity events announced through steam news?",
+   "items": 36,
    "ended": false
   }
  },
