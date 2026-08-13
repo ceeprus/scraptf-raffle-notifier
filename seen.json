@@ -7026,7 +7026,7 @@
    "end": 1786596001,
    "title": "Fish raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YLSJAM": {
    "msg": "1536962713027215392",
@@ -8041,6 +8041,13 @@
    "end": 1786680481,
    "title": "we've all been stars one day in the past, which star do you think you were back there?",
    "items": 3,
+   "ended": false
+  },
+  "NOO6JX": {
+   "msg": "1537325086766534696",
+   "end": 1786639142,
+   "title": "Raffling Scrap Till I'm Out #1001-2 (Make up raffle)",
+   "items": 2,
    "ended": false
   }
  },
