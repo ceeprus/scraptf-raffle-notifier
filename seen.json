@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "B5E4V3": {
-   "msg": "1534580699451883530",
-   "end": 1786029181,
-   "title": "\u0414\u0440\u0430\u0441\u0442\u0435",
-   "items": 7,
-   "ended": true
-  },
   "WRSULA": {
    "msg": "1534585701805326537",
    "end": 1786030200,
@@ -7187,14 +7180,14 @@
    "end": 1786633861,
    "title": "Silent night.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "1HETVV": {
    "msg": "1537120327807541288",
    "end": 1786633561,
    "title": "Question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BN1MPU": {
    "msg": "1537121209638985889",
@@ -8180,6 +8173,20 @@
    "msg": "1537476129898766446",
    "end": 1786717621,
    "title": "i can't think of a title for this raffle 24\u2122",
+   "items": 1,
+   "ended": false
+  },
+  "6TU8TO": {
+   "msg": "1537483136101916802",
+   "end": 1786720501,
+   "title": "my first raffle",
+   "items": 5,
+   "ended": false
+  },
+  "5LIGC7": {
+   "msg": "1537483142384984104",
+   "end": 1786676400,
+   "title": "[DAY 9] Scrap tf HG",
    "items": 1,
    "ended": false
   }
