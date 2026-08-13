@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "AE6RWO": {
-   "msg": "1534506419171229858",
-   "end": 1786011241,
-   "title": "Grabli304's raffle\u2503Day 157",
-   "items": 2,
-   "ended": true
-  },
   "XDJ8MG": {
    "msg": "1534519015798607943",
    "end": 1786014000,
@@ -7159,7 +7152,7 @@
    "end": 1786616701,
    "title": "Grabli304's raffle\u2503Day 164",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LU2YM0": {
    "msg": "1537053285318524980",
@@ -8152,6 +8145,41 @@
    "msg": "1537400634268057631",
    "end": 1786656781,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8V16U4": {
+   "msg": "1537408111340691516",
+   "end": 1786702981,
+   "title": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0432\u0441\u0435\u043c \u0437\u0430\u0439\u043a\u0438 \u044d\u0442\u043e \u043c\u043e\u044f 1 \u043b\u043e\u0442\u0435\u0440\u0435\u044f",
+   "items": 2,
+   "ended": false
+  },
+  "TMXBY3": {
+   "msg": "1537408119720910918",
+   "end": 1786702381,
+   "title": "ITS ALMOT MY ANINVERSARY FOR TF2",
+   "items": 10,
+   "ended": false
+  },
+  "7G5XXK": {
+   "msg": "1537408126637187203",
+   "end": 1786658941,
+   "title": "\ud83c\udf0a\ud83d\udc1f",
+   "items": 2,
+   "ended": false
+  },
+  "SCECCZ": {
+   "msg": "1537408134522474577",
+   "end": 1786658761,
+   "title": "I got scammed. 50 keys loss",
+   "items": 26,
+   "ended": false
+  },
+  "OR0DI1": {
+   "msg": "1537408140503425107",
+   "end": 1786701600,
+   "title": "Gifted Splendid Screen #3",
    "items": 1,
    "ended": false
   }
