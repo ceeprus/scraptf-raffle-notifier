@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "CNVJ4M": {
-   "msg": "1534447267925197002",
-   "end": 1785996902,
-   "title": "Mr.Lonely's raffle #1",
-   "items": 1,
-   "ended": true
-  },
   "GE8UT5": {
    "msg": "1534452314197463160",
    "end": 1785998701,
@@ -7082,7 +7075,7 @@
    "end": 1786602541,
    "title": "\ud83c\udf0a\ud83d\udc1f Hat with No Name   \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7WJRVR": {
    "msg": "1537000424597360741",
@@ -8054,6 +8047,41 @@
    "msg": "1537331925692448779",
    "end": 1786683961,
    "title": "I'm still tipping every raffle with  in it's name",
+   "items": 1,
+   "ended": false
+  },
+  "EJMV8F": {
+   "msg": "1537347714805932062",
+   "end": 1786688221,
+   "title": "SLOP RAFFLE!!",
+   "items": 1,
+   "ended": false
+  },
+  "6CTTHB": {
+   "msg": "1537347722036650036",
+   "end": 1786688101,
+   "title": "Animal Friends",
+   "items": 2,
+   "ended": false
+  },
+  "NB4VLE": {
+   "msg": "1537347728248537149",
+   "end": 1786687922,
+   "title": "noise?",
+   "items": 2,
+   "ended": false
+  },
+  "Y85U68": {
+   "msg": "1537347735055761448",
+   "end": 1786687682,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0WQIHD": {
+   "msg": "1537347740600766545",
+   "end": 1786687262,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
