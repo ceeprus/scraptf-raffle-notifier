@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "3FGSAX": {
-   "msg": "1534651126765322291",
-   "end": 1786045741,
-   "title": "Tour 301-302-303",
-   "items": 15,
-   "ended": true
-  },
-  "IOQOGE": {
-   "msg": "1534653654609694872",
-   "end": 1786046400,
-   "title": "A Refined a day keeps the doctor away! #29",
-   "items": 1,
-   "ended": true
-  },
   "RMOQPX": {
    "msg": "1534656188107587668",
    "end": 1786046753,
@@ -7187,7 +7173,7 @@
    "end": 1786650841,
    "title": "\ud83c\udf0a Armed and Ready to Flush the Slop!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "6YIDF0": {
    "msg": "1537189192084226108",
@@ -7201,7 +7187,7 @@
    "end": 1786650481,
    "title": "i think life is inherently awesome and depressing",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "1NE09G": {
    "msg": "1537189208215519382",
@@ -7222,14 +7208,14 @@
    "end": 1786651200,
    "title": "We need more Engineer Mains! #002",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "80I4XQ": {
    "msg": "1537196724509216978",
    "end": 1786651200,
    "title": "Equestria Forever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "1DZUGF": {
    "msg": "1537196730343366717",
