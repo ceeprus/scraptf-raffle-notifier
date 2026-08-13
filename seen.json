@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "PA9L6B": {
-   "msg": "1534602088263319632",
-   "end": 1786033800,
-   "title": "It came to me in a dream",
-   "items": 3,
-   "ended": true
-  },
   "0QCIEB": {
    "msg": "1534607185005514772",
    "end": 1786034881,
@@ -7222,7 +7215,7 @@
    "end": 1786638601,
    "title": "Grabli304's   war Chain raffle is still not over. #  sweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HOPYQN": {
    "msg": "1537150143214649355",
@@ -8223,6 +8216,20 @@
    "end": 1786679761,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "2GGERT": {
+   "msg": "1537498684357353553",
+   "end": 1786724401,
+   "title": "\ud83d\udc1f\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "VMCD9X": {
+   "msg": "1537498691181482115",
+   "end": 1786724282,
+   "title": "Which operating system do you use? | NDR #12",
+   "items": 2,
    "ended": false
   }
  },
