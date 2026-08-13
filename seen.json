@@ -63,13 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "HCEEQ2": {
-   "msg": "1534373114891206779",
-   "end": 1785979501,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "BY4NIV": {
    "msg": "1534391909307515064",
    "end": 1785983941,
@@ -7551,7 +7544,7 @@
    "end": 1786584600,
    "title": "[Fallen Tributes/Night 7] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QFLJQ9": {
    "msg": "1537102124150947870",
