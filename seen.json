@@ -7208,7 +7208,7 @@
    "end": 1786655161,
    "title": "\ud83c\udf0a How many seconds in eternity  \ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EKQ37U": {
    "msg": "1537211817061908541",
@@ -7649,7 +7649,7 @@
    "end": 1786656121,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KR3EW1": {
    "msg": "1537393021757292647",
@@ -7663,21 +7663,21 @@
    "end": 1786656601,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WRBEYY": {
    "msg": "1537394827904290878",
    "end": 1786656600,
    "title": "[Fallen Tributes/Night 8] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K66DRZ": {
    "msg": "1537394834854248488",
    "end": 1786656482,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DPYJDZ": {
    "msg": "1537394844702347264",
@@ -8173,6 +8173,20 @@
    "msg": "1537566688109793340",
    "end": 1786696200,
    "title": "[Fallen Tributes/Night 9] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "XTHMR4": {
+   "msg": "1537574195943440404",
+   "end": 1786741741,
+   "title": "+  =",
+   "items": 1,
+   "ended": false
+  },
+  "15JI25": {
+   "msg": "1537574203627274330",
+   "end": 1786741200,
+   "title": "checkup #89 | \"Let's make some noise\"-ahh raffle",
    "items": 1,
    "ended": false
   }
