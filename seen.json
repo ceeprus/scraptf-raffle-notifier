@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "73N73D": {
-   "msg": "1534588205364547739",
-   "end": 1786030562,
-   "title": "My HONEST feelings about scrap users #7 [10 users, 9 actually i lied to you haha]",
-   "items": 1,
-   "ended": true
-  },
-  "MX3R42": {
-   "msg": "1534593256841674832",
-   "end": 1786032000,
-   "title": "Scrap.tf Birthdays - 5 August",
-   "items": 3,
-   "ended": true
-  },
   "K8G0L9": {
    "msg": "1534597045053165729",
    "end": 1786032841,
@@ -7194,14 +7180,14 @@
    "end": 1786636081,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "MD9G8B": {
    "msg": "1537128785978200257",
    "end": 1786635481,
    "title": "used sip splash on ! it was super effective!  \ud83c\udf0a",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "P6EWWZ": {
    "msg": "1537134875000438815",
@@ -7222,7 +7208,7 @@
    "end": 1786636800,
    "title": "Scrap.tf Birthdays - 12 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "E1MZRL": {
    "msg": "1537143903885721731",
@@ -8180,6 +8166,34 @@
    "msg": "1537483142384984104",
    "end": 1786676400,
    "title": "[DAY 9] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "FS8ZSB": {
+   "msg": "1537491185151512608",
+   "end": 1786722421,
+   "title": "you may or may not bother yourself with it",
+   "items": 3,
+   "ended": false
+  },
+  "G9IKD7": {
+   "msg": "1537491194190495824",
+   "end": 1786722001,
+   "title": "Casual Match",
+   "items": 3,
+   "ended": false
+  },
+  "L8B0RX": {
+   "msg": "1537491200918167572",
+   "end": 1786721400,
+   "title": "MK Poll #4 +  The Favorites of Music #275 & #276",
+   "items": 1,
+   "ended": false
+  },
+  "SEZCDZ": {
+   "msg": "1537491208010731591",
+   "end": 1786721221,
+   "title": "Daily Brass Beast #537",
    "items": 1,
    "ended": false
   }
