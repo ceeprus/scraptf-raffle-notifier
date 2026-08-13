@@ -63,27 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "ZQPMZW": {
-   "msg": "1534407010190233684",
-   "end": 1785987900,
-   "title": "Lost Things",
-   "items": 1,
-   "ended": true
-  },
-  "CWTLA1": {
-   "msg": "1534410918002298900",
-   "end": 1785988022,
-   "title": "Caf\u00e9 Crit-A-Coffee #1749",
-   "items": 10,
-   "ended": true
-  },
-  "JX8N2K": {
-   "msg": "1534413316749918240",
-   "end": 1785988800,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1496 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 5,
-   "ended": true
-  },
   "H5YB2D": {
    "msg": "1534432148675629076",
    "end": 1785993301,
@@ -6984,7 +6963,7 @@
    "end": 1786593181,
    "title": "Caf\u00e9 Crit-A-Coffee #1755",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "TLQI1J": {
    "msg": "1536947638983860234",
@@ -6998,28 +6977,28 @@
    "end": 1786592461,
    "title": "What Could Be",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BMK3QZ": {
    "msg": "1536947652946825307",
    "end": 1786592341,
    "title": "FIRTS RUFFLE",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "NUFP9W": {
    "msg": "1536947659783278595",
    "end": 1786592282,
    "title": "Hale's Own Trials: Persian Persuader: Day 5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3AP8YQ": {
    "msg": "1536947666792087633",
    "end": 1786592282,
    "title": "Im back",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "RQPPYS": {
    "msg": "1536955122666577950",
@@ -7033,7 +7012,7 @@
    "end": 1786593600,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1503 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "VDBT8X": {
    "msg": "1536955137271013386",
@@ -7964,7 +7943,7 @@
    "end": 1786592462,
    "title": "Something to watch",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OATWFL": {
    "msg": "1537287309802864680",
@@ -8034,6 +8013,13 @@
    "end": 1786676821,
    "title": "Here have a tung tung tung",
    "items": 1,
+   "ended": false
+  },
+  "GAT852": {
+   "msg": "1537309986483601509",
+   "end": 1786600201,
+   "title": "My first raffle",
+   "items": 4,
    "ended": false
   }
  },
