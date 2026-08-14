@@ -7201,14 +7201,14 @@
    "end": 1786664941,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TKNDFE": {
    "msg": "1537249618172317797",
    "end": 1786664882,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9ONVM8": {
    "msg": "1537249626112008265",
@@ -8182,12 +8182,26 @@
    "title": "A  a day",
    "items": 1,
    "ended": false
+  },
+  "MVTXT5": {
+   "msg": "1537611987155165224",
+   "end": 1786751161,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P55PO6": {
+   "msg": "1537611993656070287",
+   "end": 1786750141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
-  "num": 1164,
-  "end": 1786665600,
-  "msg": "1536524841304203274",
+  "num": 1165,
+  "end": 1786924800,
+  "msg": "1537612021930000456",
   "ended": false
  }
 }
