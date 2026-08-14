@@ -805,13 +805,6 @@
    "items": 1,
    "ended": true
   },
-  "KXTQH9": {
-   "msg": "1535384809264644168",
-   "end": 1786137602,
-   "title": "yo meow again",
-   "items": 1,
-   "ended": true
-  },
   "B6UTBA": {
    "msg": "1535384822053339218",
    "end": 1786219200,
@@ -7978,14 +7971,14 @@
    "end": 1786742762,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "09QYWG": {
    "msg": "1537755355210190900",
    "end": 1786742641,
    "title": "Just a raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "EYOGY0": {
    "msg": "1537762911907217428",
@@ -8027,7 +8020,7 @@
    "end": 1786742941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OYG13G": {
    "msg": "1537770436996374600",
@@ -8383,6 +8376,13 @@
    "msg": "1537933088531685459",
    "end": 1786827481,
    "title": "Daily Brass Beast #538",
+   "items": 1,
+   "ended": false
+  },
+  "HIKITW": {
+   "msg": "1537936530696314930",
+   "end": 1786828921,
+   "title": "I got my 1st Strange",
    "items": 1,
    "ended": false
   }
