@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "NHSA4S": {
-   "msg": "1534876359942471733",
-   "end": 1786099741,
-   "title": "recomend me sites for trading and buying",
-   "items": 1,
-   "ended": true
-  },
   "PB0UOU": {
    "msg": "1534878959093809185",
    "end": 1786100400,
@@ -684,13 +677,6 @@
    "end": 1786183442,
    "title": "I'm bored :|",
    "items": 2,
-   "ended": true
-  },
-  "1CVL8S": {
-   "msg": "1535232809348636703",
-   "end": 1786098661,
-   "title": "Free weapons",
-   "items": 116,
    "ended": true
   },
   "SEY0GX": {
@@ -7502,14 +7488,14 @@
    "end": 1786704241,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FTOIIH": {
    "msg": "1537414036549804032",
    "end": 1786704121,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "O3S5NQ": {
    "msg": "1537414045106438164",
