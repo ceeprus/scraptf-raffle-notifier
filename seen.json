@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "UVLWYF": {
-   "msg": "1534871200554291243",
-   "end": 1786098062,
-   "title": "Big walk",
-   "items": 1,
-   "ended": true
-  },
   "NHSA4S": {
    "msg": "1534876359942471733",
    "end": 1786099741,
@@ -7474,14 +7467,14 @@
    "end": 1786702981,
    "title": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0432\u0441\u0435\u043c \u0437\u0430\u0439\u043a\u0438 \u044d\u0442\u043e \u043c\u043e\u044f 1 \u043b\u043e\u0442\u0435\u0440\u0435\u044f",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TMXBY3": {
    "msg": "1537408119720910918",
    "end": 1786702381,
    "title": "ITS ALMOT MY ANINVERSARY FOR TF2",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "7G5XXK": {
    "msg": "1537408126637187203",
@@ -7523,14 +7516,14 @@
    "end": 1786703281,
    "title": "But first a quick message from our sponsor,",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R1M0O9": {
    "msg": "1537414052593008690",
    "end": 1786703101,
    "title": "Comrade Joker presents you with a hand",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "TRTSQ7": {
    "msg": "1537423236373942294",
@@ -8348,6 +8341,27 @@
    "msg": "1537762942727102474",
    "end": 1786742941,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "OYG13G": {
+   "msg": "1537770436996374600",
+   "end": 1786724761,
+   "title": "sorry for my last raffle (abt festivizer)",
+   "items": 3,
+   "ended": false
+  },
+  "4ZWUEK": {
+   "msg": "1537770444139003924",
+   "end": 1786745522,
+   "title": "Raffling Scrap Till I'm Out #1003 (Super lat raffle)",
+   "items": 1,
+   "ended": false
+  },
+  "CBKE9M": {
+   "msg": "1537770450640183306",
+   "end": 1786788000,
+   "title": "Gifted Blutsauger",
    "items": 1,
    "ended": false
   }
