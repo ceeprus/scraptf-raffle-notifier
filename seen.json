@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "SH9Y5U": {
-   "msg": "1535007250991677460",
-   "end": 1786130342,
-   "title": "velvet turtle",
-   "items": 11,
-   "ended": true
-  },
-  "D48T9S": {
-   "msg": "1535007267424829630",
-   "end": 1786129442,
-   "title": "\u0421\u043e\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432 \u0432 \u0442\u0440\u0435\u0439\u0434\u0435 1",
-   "items": 6,
-   "ended": true
-  },
   "LYA09P": {
    "msg": "1535014829738295416",
    "end": 1786131541,
@@ -327,13 +313,6 @@
    "end": 1786171682,
    "title": "adhd raffle",
    "items": 3,
-   "ended": true
-  },
-  "SCAX5R": {
-   "msg": "1535188466126823476",
-   "end": 1786129861,
-   "title": "I got bored, so here\u2019s a gift\u2014a little hat.",
-   "items": 1,
    "ended": true
   },
   "B8T7WM": {
@@ -7621,7 +7600,7 @@
    "end": 1786734661,
    "title": "MVM DROP PRICE SPREADSHEET",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "ZVRRJY": {
    "msg": "1537544015870828655",
@@ -8328,7 +8307,7 @@
    "end": 1786734061,
    "title": "weeeeee",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C0JG9I": {
    "msg": "1537891225322131607",
