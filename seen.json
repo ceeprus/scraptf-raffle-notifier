@@ -7544,7 +7544,7 @@
    "end": 1786720501,
    "title": "my first raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "5LIGC7": {
    "msg": "1537483142384984104",
@@ -7572,14 +7572,14 @@
    "end": 1786721400,
    "title": "MK Poll #4 +  The Favorites of Music #275 & #276",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SEZCDZ": {
    "msg": "1537491208010731591",
    "end": 1786721221,
    "title": "Daily Brass Beast #537",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G86KS0": {
    "msg": "1537497148923576391",
@@ -8293,6 +8293,27 @@
    "end": 1786805401,
    "title": "for the hi you nosie \ud83d\ude03 :noise;",
    "items": 21,
+   "ended": false
+  },
+  "MMDEZH": {
+   "msg": "1537845921621082217",
+   "end": 1786807801,
+   "title": "[air]",
+   "items": 1,
+   "ended": false
+  },
+  "T1F44C": {
+   "msg": "1537845936167067709",
+   "end": 1786735741,
+   "title": "Have entered over 100 raffels and havent won a single one",
+   "items": 4,
+   "ended": false
+  },
+  "Z3T0PO": {
+   "msg": "1537845943632920657",
+   "end": 1786722242,
+   "title": "\ud83d\udc9aTake away my noisemakers#14\ud83d\udc9a",
+   "items": 50,
    "ended": false
   }
  },
