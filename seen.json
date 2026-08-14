@@ -7586,7 +7586,7 @@
    "end": 1786723801,
    "title": "\ud83c\udf0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RF03YG": {
    "msg": "1537497163100323961",
@@ -8328,6 +8328,13 @@
    "end": 1786724941,
    "title": "\ud83d\udc9aTake away my noisemakers#15\ud83d\udc9a",
    "items": 50,
+   "ended": false
+  },
+  "11M2H7": {
+   "msg": "1537856356256579596",
+   "end": 1786809902,
+   "title": "Daily Kit Fabricator #6",
+   "items": 1,
    "ended": false
   }
  },
