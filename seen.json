@@ -70,27 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "HDWKP3": {
-   "msg": "1534885133293715609",
-   "end": 1786101602,
-   "title": "chch exposure",
-   "items": 1,
-   "ended": true
-  },
-  "1HNI18": {
-   "msg": "1534886469716541441",
-   "end": 1786102141,
-   "title": "I won these from a raffle, but I can't keep them.",
-   "items": 2,
-   "ended": true
-  },
-  "AQCXD7": {
-   "msg": "1534886476490473552",
-   "end": 1786101782,
-   "title": "I'm Dave",
-   "items": 6,
-   "ended": true
-  },
   "U9A8EV": {
    "msg": "1534890199715414086",
    "end": 1786102621,
@@ -299,13 +278,6 @@
    "end": 1786143121,
    "title": "Free Golden Frying pan!!!! #2 (also help me power scale)",
    "items": 1,
-   "ended": true
-  },
-  "RU6378": {
-   "msg": "1535067697749041184",
-   "end": 1786101661,
-   "title": "Hello",
-   "items": 5,
    "ended": true
   },
   "97AYXX": {
@@ -7495,21 +7467,21 @@
    "end": 1786706761,
    "title": "hello there fellas",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "BEDRFB": {
    "msg": "1537423244913541150",
    "end": 1786706641,
    "title": "#SundownerSweep raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KFNYJ3": {
    "msg": "1537423252094197811",
    "end": 1786706461,
    "title": "Grabli304's raffle\u2503Day 165",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "L0XGRL": {
    "msg": "1537423259010736158",
