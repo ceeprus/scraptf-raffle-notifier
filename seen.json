@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "U194HW": {
-   "msg": "1534853717482799235",
-   "end": 1786093922,
-   "title": "Bau! Bau!",
-   "items": 16,
-   "ended": true
-  },
   "CEUWYW": {
    "msg": "1534863850602762352",
    "end": 1786096561,
@@ -7425,7 +7418,7 @@
    "end": 1786699081,
    "title": "It's my scrapiversary!",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "4VWZ1A": {
    "msg": "1537394820744744960",
@@ -7453,7 +7446,7 @@
    "end": 1786699561,
    "title": "School grades!",
    "items": 47,
-   "ended": false
+   "ended": true
   },
   "FPU4SO": {
    "msg": "1537400611358642176",
@@ -8307,6 +8300,20 @@
    "end": 1786782422,
    "title": "Untitled raffle",
    "items": 3,
+   "ended": false
+  },
+  "XVHQDP": {
+   "msg": "1537755346544893952",
+   "end": 1786742762,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "09QYWG": {
+   "msg": "1537755355210190900",
+   "end": 1786742641,
+   "title": "Just a raffle",
+   "items": 5,
    "ended": false
   }
  },
