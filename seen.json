@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "E0BVT2": {
-   "msg": "1534919177809297458",
-   "end": 1786109461,
-   "title": "pure bisons",
-   "items": 107,
-   "ended": true
-  },
   "7PH381": {
    "msg": "1534934243510059132",
    "end": 1786113242,
@@ -7530,21 +7523,21 @@
    "end": 1786715221,
    "title": "Untitled raffle",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "4NQFWE": {
    "msg": "1537461007549726820",
    "end": 1786714802,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1504 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "RW8FDD": {
    "msg": "1537464964552335360",
    "end": 1786715581,
    "title": "Mirror, mirror on the wall",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YVGPH0": {
    "msg": "1537468499679641710",
@@ -8321,7 +8314,7 @@
    "end": 1786714981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "41SRVZ": {
    "msg": "1537815733239549972",
