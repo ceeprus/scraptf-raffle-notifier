@@ -8167,7 +8167,7 @@
    "end": 1786711082,
    "title": "Pomson killstreak kombo",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "X8LO9G": {
    "msg": "1537740237789200434",
@@ -8321,6 +8321,13 @@
    "end": 1786795200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
+   "ended": false
+  },
+  "0SZF07": {
+   "msg": "1537803832480768050",
+   "end": 1786797001,
+   "title": "HELP ME!!!",
+   "items": 9,
    "ended": false
   }
  },
