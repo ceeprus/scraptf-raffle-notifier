@@ -7635,7 +7635,7 @@
    "end": 1786730702,
    "title": "3ds",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "7V33J4": {
    "msg": "1537536477079142441",
@@ -8362,6 +8362,13 @@
    "msg": "1537883727521255454",
    "end": 1786815301,
    "title": "#SlugmaSweep",
+   "items": 1,
+   "ended": false
+  },
+  "CANGYT": {
+   "msg": "1537886752969203802",
+   "end": 1786734061,
+   "title": "weeeeee",
    "items": 1,
    "ended": false
   }
