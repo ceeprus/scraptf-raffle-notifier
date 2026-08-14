@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "Z0DK7Y": {
-   "msg": "1535060190007922690",
-   "end": 1786143121,
-   "title": "Free Golden Frying pan!!!! #2 (also help me power scale)",
-   "items": 1,
-   "ended": true
-  },
   "97AYXX": {
    "msg": "1535067704992595988",
    "end": 1786144381,
@@ -96,20 +89,6 @@
    "end": 1786143901,
    "title": "Graveyard Raffle (#5)",
    "items": 7,
-   "ended": true
-  },
-  "PAPL58": {
-   "msg": "1535067732607762474",
-   "end": 1786143600,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "LG7Y3M": {
-   "msg": "1535067739692208159",
-   "end": 1786143542,
-   "title": "Mark I made a Steak",
-   "items": 1,
    "ended": true
   },
   "CEKCYE": {
@@ -7642,21 +7621,21 @@
    "end": 1786748161,
    "title": "Tipping all profiles without tips!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SRLRHD": {
    "msg": "1537596888512077904",
    "end": 1786748101,
    "title": "Earbuds Are Awful",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y2Z22H": {
    "msg": "1537596894845341777",
    "end": 1786747681,
    "title": "New Art - Sylveon Edition!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8UB0LO": {
    "msg": "1537596902827364522",
@@ -7684,7 +7663,7 @@
    "end": 1786748400,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MVTXT5": {
    "msg": "1537611987155165224",
