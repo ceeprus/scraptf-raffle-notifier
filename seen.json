@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "Q5U1H8": {
-   "msg": "1535007299691745495",
-   "end": 1786127162,
-   "title": "hot stuff",
-   "items": 10,
-   "ended": true
-  },
-  "2EB8TE": {
-   "msg": "1535007306331328772",
-   "end": 1786126981,
-   "title": "Bau! Bau!",
-   "items": 3,
-   "ended": true
-  },
   "LYA09P": {
    "msg": "1535014829738295416",
    "end": 1786131541,
@@ -8369,6 +8355,20 @@
    "msg": "1537886752969203802",
    "end": 1786734061,
    "title": "weeeeee",
+   "items": 1,
+   "ended": false
+  },
+  "C0JG9I": {
+   "msg": "1537891225322131607",
+   "end": 1786817401,
+   "title": "just some random things",
+   "items": 6,
+   "ended": false
+  },
+  "0TFSAU": {
+   "msg": "1537891232435671154",
+   "end": 1786817281,
+   "title": "Bau! Bau!",
    "items": 1,
    "ended": false
   }
