@@ -77,13 +77,6 @@
    "items": 1,
    "ended": true
   },
-  "KLV76H": {
-   "msg": "1534911620898226339",
-   "end": 1786107600,
-   "title": "Loe efoort raffhls",
-   "items": 1,
-   "ended": true
-  },
   "E0BVT2": {
    "msg": "1534919177809297458",
    "end": 1786109461,
@@ -7530,7 +7523,7 @@
    "end": 1786712400,
    "title": "(YTP) meet  guy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TYJ67N": {
    "msg": "1537460990889828352",
@@ -8328,6 +8321,13 @@
    "end": 1786797001,
    "title": "HELP ME!!!",
    "items": 9,
+   "ended": false
+  },
+  "6PSV5C": {
+   "msg": "1537808241755693196",
+   "end": 1786714981,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
