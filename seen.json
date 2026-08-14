@@ -812,13 +812,6 @@
    "items": 1,
    "ended": true
   },
-  "VP93Q5": {
-   "msg": "1535384815107317832",
-   "end": 1786137181,
-   "title": "meow :3",
-   "items": 1,
-   "ended": true
-  },
   "B6UTBA": {
    "msg": "1535384822053339218",
    "end": 1786219200,
@@ -7621,7 +7614,7 @@
    "end": 1786741741,
    "title": "+  =",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "15JI25": {
    "msg": "1537574203627274330",
@@ -8362,6 +8355,34 @@
    "msg": "1537927129361027292",
    "end": 1786825381,
    "title": "Do you want some FREE CS2 stickers?",
+   "items": 1,
+   "ended": false
+  },
+  "0M0PNO": {
+   "msg": "1537933064859160576",
+   "end": 1786784881,
+   "title": "Toma Noise maiker pra voc\u00eas rs",
+   "items": 8,
+   "ended": false
+  },
+  "SAEQXR": {
+   "msg": "1537933072916553880",
+   "end": 1786827600,
+   "title": "checkup #90 |",
+   "items": 1,
+   "ended": false
+  },
+  "94ORUM": {
+   "msg": "1537933081107890217",
+   "end": 1786784400,
+   "title": "[DAY 11] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "N5E2SK": {
+   "msg": "1537933088531685459",
+   "end": 1786827481,
+   "title": "Daily Brass Beast #538",
    "items": 1,
    "ended": false
   }
