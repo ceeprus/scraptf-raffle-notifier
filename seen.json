@@ -77,13 +77,6 @@
    "items": 40,
    "ended": true
   },
-  "Q4JDB1": {
-   "msg": "1534790803757469818",
-   "end": 1786078862,
-   "title": "Bau! Bau!",
-   "items": 16,
-   "ended": true
-  },
   "ASN8ZM": {
    "msg": "1534800848021098630",
    "end": 1786081561,
@@ -8258,6 +8251,69 @@
    "end": 1786766822,
    "title": "Day 64-65 of Asking for a Follow Button",
    "items": 1,
+   "ended": false
+  },
+  "PBUTYZ": {
+   "msg": "1537687446282702930",
+   "end": 1786769521,
+   "title": "Raffle Log #98",
+   "items": 2,
+   "ended": false
+  },
+  "M84ZGV": {
+   "msg": "1537687456214679632",
+   "end": 1786769161,
+   "title": "Wario ware Glorp Juice",
+   "items": 3,
+   "ended": false
+  },
+  "30NKYO": {
+   "msg": "1537687465865904230",
+   "end": 1786769101,
+   "title": "Hale's Own Trials: Persian Persuader: Day 6",
+   "items": 1,
+   "ended": false
+  },
+  "9HMII8": {
+   "msg": "1537687472161431655",
+   "end": 1786768681,
+   "title": "give it a spin",
+   "items": 1,
+   "ended": false
+  },
+  "MDJOOY": {
+   "msg": "1537687478813851698",
+   "end": 1786768562,
+   "title": "Slugma Chain raffle #6-7 (OWO)",
+   "items": 1,
+   "ended": false
+  },
+  "FE9Q99": {
+   "msg": "1537687485407039498",
+   "end": 1786725000,
+   "title": "[DAY 10] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "H730MY": {
+   "msg": "1537687494596763709",
+   "end": 1786768141,
+   "title": "The not so daily dose of potassium #9",
+   "items": 18,
+   "ended": false
+  },
+  "WAD1QM": {
+   "msg": "1537687501244989440",
+   "end": 1786768081,
+   "title": "LITTLE BIG",
+   "items": 1,
+   "ended": false
+  },
+  "PF0657": {
+   "msg": "1537687510216613958",
+   "end": 1786768081,
+   "title": "Graveyard Raffle (#12)",
+   "items": 8,
    "ended": false
   }
  },
