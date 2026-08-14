@@ -7621,14 +7621,14 @@
    "end": 1786724401,
    "title": "\ud83d\udc1f\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VMCD9X": {
    "msg": "1537498691181482115",
    "end": 1786724282,
    "title": "Which operating system do you use? | NDR #12",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5ZHGJV": {
    "msg": "1537506291294015628",
@@ -8027,7 +8027,7 @@
    "end": 1786725000,
    "title": "[DAY 10] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H730MY": {
    "msg": "1537687494596763709",
@@ -8174,7 +8174,7 @@
    "end": 1786724761,
    "title": "sorry for my last raffle (abt festivizer)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "4ZWUEK": {
    "msg": "1537770444139003924",
@@ -8328,7 +8328,7 @@
    "end": 1786724941,
    "title": "\ud83d\udc9aTake away my noisemakers#15\ud83d\udc9a",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "11M2H7": {
    "msg": "1537856356256579596",
