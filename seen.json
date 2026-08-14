@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "KR6363": {
-   "msg": "1534961483543347280",
-   "end": 1786118400,
-   "title": "Scrap.tf Birthdays - 6 August",
-   "items": 3,
-   "ended": true
-  },
   "QI34Y7": {
    "msg": "1534976862432919664",
    "end": 1786122000,
@@ -7558,14 +7551,14 @@
    "end": 1786722421,
    "title": "you may or may not bother yourself with it",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "G9IKD7": {
    "msg": "1537491194190495824",
    "end": 1786722001,
    "title": "Casual Match",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "L8B0RX": {
    "msg": "1537491200918167572",
@@ -7614,7 +7607,7 @@
    "end": 1786723200,
    "title": "Scrap.tf Birthdays - 13 August",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "57T24Q": {
    "msg": "1537497183526453410",
@@ -7950,14 +7943,14 @@
    "end": 1786722301,
    "title": "I am new in all of this :3",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "ONK7F4": {
    "msg": "1537672383987581041",
    "end": 1786721582,
    "title": "Untitled raffle",
    "items": 100,
-   "ended": false
+   "ended": true
   },
   "H9C9L9": {
    "msg": "1537679842160541758",
@@ -8313,6 +8306,27 @@
    "msg": "1537845943632920657",
    "end": 1786722242,
    "title": "\ud83d\udc9aTake away my noisemakers#14\ud83d\udc9a",
+   "items": 50,
+   "ended": true
+  },
+  "SYTCHF": {
+   "msg": "1537853522341658694",
+   "end": 1786809600,
+   "title": "Scrap.tf Birthdays - 14 August",
+   "items": 1,
+   "ended": false
+  },
+  "P82O4A": {
+   "msg": "1537853535037825124",
+   "end": 1786809600,
+   "title": "Weekly  #102",
+   "items": 4,
+   "ended": false
+  },
+  "IUP5XY": {
+   "msg": "1537853547742503022",
+   "end": 1786724941,
+   "title": "\ud83d\udc9aTake away my noisemakers#15\ud83d\udc9a",
    "items": 50,
    "ended": false
   }
