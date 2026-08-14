@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "MM8IK8": {
-   "msg": "1534813444530901114",
-   "end": 1786084741,
-   "title": "I have a good news",
-   "items": 1,
-   "ended": true
-  },
   "IC8OJV": {
    "msg": "1534824731008700520",
    "end": 1786086962,
@@ -7348,35 +7341,35 @@
    "end": 1786690082,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #73 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V33AG6": {
    "msg": "1537354176093491210",
    "end": 1786689902,
    "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #72 #SundownerSweep  \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T0JPGY": {
    "msg": "1537354183076745290",
    "end": 1786689901,
    "title": "[\ud83e\udd89] Hoot!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JOGVJB": {
    "msg": "1537354191662620683",
    "end": 1786689781,
    "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #71 #SundownerSweep  \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3X8NRT": {
    "msg": "1537354198050410526",
    "end": 1786689661,
    "title": "EVIL and MESSED UP noise maker SLOP raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8RYXVP": {
    "msg": "1537354204220366898",
@@ -7936,14 +7929,14 @@
    "end": 1786689361,
    "title": "GAMBLE GAMBLE GAMBLEE!!!!",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "PGPS3W": {
    "msg": "1537536494758273164",
    "end": 1786689301,
    "title": "Who here is hungry?!",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "H6XIJR": {
    "msg": "1537544009143291976",
@@ -8321,6 +8314,20 @@
    "end": 1786773541,
    "title": "my head hurts",
    "items": 1,
+   "ended": false
+  },
+  "7GUEL0": {
+   "msg": "1537715408168026192",
+   "end": 1786776061,
+   "title": "I'm now an irl pilot",
+   "items": 9,
+   "ended": false
+  },
+  "UYC6FE": {
+   "msg": "1537715417244631091",
+   "end": 1786711082,
+   "title": "Pomson killstreak kombo",
+   "items": 4,
    "ended": false
   }
  },
