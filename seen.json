@@ -7313,35 +7313,35 @@
    "end": 1786688221,
    "title": "SLOP RAFFLE!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6CTTHB": {
    "msg": "1537347722036650036",
    "end": 1786688101,
    "title": "Animal Friends",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "NB4VLE": {
    "msg": "1537347728248537149",
    "end": 1786687922,
    "title": "noise?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "Y85U68": {
    "msg": "1537347735055761448",
    "end": 1786687682,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0WQIHD": {
    "msg": "1537347740600766545",
    "end": 1786687262,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P81L9V": {
    "msg": "1537354169743052850",
@@ -7383,7 +7383,7 @@
    "end": 1786688761,
    "title": "noiseslop!!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9R2MFF": {
    "msg": "1537362808704860260",
@@ -8300,6 +8300,27 @@
    "end": 1786772401,
    "title": "What's your dream loadout?",
    "items": 2,
+   "ended": false
+  },
+  "EWF9GP": {
+   "msg": "1537710071633682542",
+   "end": 1786774981,
+   "title": "Day 7 of asking for Slugma Chain emoticon",
+   "items": 45,
+   "ended": false
+  },
+  "UAGNXA": {
+   "msg": "1537710078944354364",
+   "end": 1786774502,
+   "title": "Argentina is lovely at this time of year.",
+   "items": 1,
+   "ended": false
+  },
+  "E9U5D8": {
+   "msg": "1537710085172895744",
+   "end": 1786773541,
+   "title": "my head hurts",
+   "items": 1,
    "ended": false
   }
  },
