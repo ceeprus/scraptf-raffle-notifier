@@ -70,48 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "7PH381": {
-   "msg": "1534934243510059132",
-   "end": 1786113242,
-   "title": "#8",
-   "items": 1,
-   "ended": true
-  },
-  "MMLIL5": {
-   "msg": "1534934250661482667",
-   "end": 1786113121,
-   "title": "Lunch",
-   "items": 2,
-   "ended": true
-  },
-  "N6LQ8A": {
-   "msg": "1534936794574094478",
-   "end": 1786113901,
-   "title": "Scrappy lol",
-   "items": 10,
-   "ended": true
-  },
-  "F1SVG7": {
-   "msg": "1534939385940934839",
-   "end": 1786114561,
-   "title": "i can't think of a title for this raffle 21\u2122",
-   "items": 1,
-   "ended": true
-  },
-  "YXX4MH": {
-   "msg": "1534939392404226061",
-   "end": 1786114382,
-   "title": "#10",
-   "items": 1,
-   "ended": true
-  },
-  "DNCC3C": {
-   "msg": "1534939398578245652",
-   "end": 1786114261,
-   "title": "#9",
-   "items": 1,
-   "ended": true
-  },
   "KR6363": {
    "msg": "1534961483543347280",
    "end": 1786118400,
@@ -320,13 +278,6 @@
    "end": 1786155001,
    "title": "Special Delivery",
    "items": 6,
-   "ended": true
-  },
-  "VOWXXF": {
-   "msg": "1535120598315958322",
-   "end": 1786113061,
-   "title": "Raffling Scrap Till I'm Out #995-6 (Computer problems)",
-   "items": 2,
    "ended": true
   },
   "0MPBPX": {
@@ -7565,14 +7516,14 @@
    "end": 1786718221,
    "title": "Memory Palace",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "KLQAUJ": {
    "msg": "1537476115982057553",
    "end": 1786718221,
    "title": "Daily Kit Fabricator #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J1XYQQ": {
    "msg": "1537476122881695854",
@@ -8335,6 +8286,13 @@
    "end": 1786759200,
    "title": "[Fallen Tributes/Night 10] Scrap tf HG",
    "items": 1,
+   "ended": false
+  },
+  "AIVB0D": {
+   "msg": "1537838431021830277",
+   "end": 1786805401,
+   "title": "for the hi you nosie \ud83d\ude03 :noise;",
+   "items": 21,
    "ended": false
   }
  },
