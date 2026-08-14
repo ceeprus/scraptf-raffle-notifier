@@ -84,27 +84,6 @@
    "items": 6,
    "ended": true
   },
-  "M8OKEW": {
-   "msg": "1535007274211348721",
-   "end": 1786129081,
-   "title": "[BEGIN DAY 0] Scrap tf HG",
-   "items": 3,
-   "ended": true
-  },
-  "E8Y5EJ": {
-   "msg": "1535007280414589230",
-   "end": 1786129022,
-   "title": "What's Up Gamers!!",
-   "items": 1,
-   "ended": true
-  },
-  "ZET573": {
-   "msg": "1535007286538404011",
-   "end": 1786128601,
-   "title": "Hii :3",
-   "items": 1,
-   "ended": true
-  },
   "LYA09P": {
    "msg": "1535014829738295416",
    "end": 1786131541,
@@ -341,13 +320,6 @@
    "end": 1786170542,
    "title": "Day 58-59 of Asking for a Follow Button",
    "items": 1,
-   "ended": true
-  },
-  "MEQ8NH": {
-   "msg": "1535180948327370753",
-   "end": 1786128541,
-   "title": "I'm still alive",
-   "items": 5,
    "ended": true
   },
   "2Y1OP4": {
@@ -7628,7 +7600,7 @@
    "end": 1786732861,
    "title": "Kiestu's question regarding",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VLOW3T": {
    "msg": "1537536488038867065",
@@ -7656,7 +7628,7 @@
    "end": 1786734000,
    "title": "slugma chain raffle #6",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "U74XOU": {
    "msg": "1537559090094411909",
@@ -8369,6 +8341,13 @@
    "msg": "1537891232435671154",
    "end": 1786817281,
    "title": "Bau! Bau!",
+   "items": 1,
+   "ended": false
+  },
+  "E8IW77": {
+   "msg": "1537898812230860873",
+   "end": 1786819382,
+   "title": "A sandvich a day keeps the doctor gay #69",
    "items": 1,
    "ended": false
   }
