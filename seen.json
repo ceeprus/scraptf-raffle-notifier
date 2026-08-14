@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "LYA09P": {
-   "msg": "1535014829738295416",
-   "end": 1786131541,
-   "title": "Need your help, guys!\ud83c\udfb6",
-   "items": 5,
-   "ended": true
-  },
-  "Z23UHE": {
-   "msg": "1535029939319865484",
-   "end": 1786132800,
-   "title": "A Refined a day keeps the doctor away! #30: The day before the \u00dcbergeddon..",
-   "items": 3,
-   "ended": true
-  },
   "Z0DK7Y": {
    "msg": "1535060190007922690",
    "end": 1786143121,
@@ -7621,14 +7607,14 @@
    "end": 1786737601,
    "title": "endless war theory",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "ZSRKIV": {
    "msg": "1537559112693317652",
    "end": 1786737600,
    "title": "We need more Engineer Mains! | #003",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "0QEPXG": {
    "msg": "1537566688109793340",
@@ -8321,6 +8307,41 @@
    "end": 1786819382,
    "title": "A sandvich a day keeps the doctor gay #69",
    "items": 1,
+   "ended": false
+  },
+  "FJNJCO": {
+   "msg": "1537913914942296095",
+   "end": 1786824000,
+   "title": "Equestria 4ever",
+   "items": 54,
+   "ended": false
+  },
+  "7GGULP": {
+   "msg": "1537913922068418560",
+   "end": 1786824000,
+   "title": "We need more Engineer Mains! | #004",
+   "items": 6,
+   "ended": false
+  },
+  "SYS0FT": {
+   "msg": "1537913929332695060",
+   "end": 1786823581,
+   "title": "Does anyone want to trade for my unwanted engineer hat for 3 refined metal i really need the  urgently",
+   "items": 1,
+   "ended": false
+  },
+  "P1UVNB": {
+   "msg": "1537913937574629446",
+   "end": 1786822382,
+   "title": "slugma chain raffle #7",
+   "items": 3,
+   "ended": false
+  },
+  "GB1J6U": {
+   "msg": "1537913944113684521",
+   "end": 1786822321,
+   "title": "Guys",
+   "items": 3,
    "ended": false
   }
  },
