@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "378NUS": {
-   "msg": "1534848751968063569",
-   "end": 1786092481,
-   "title": "Daily Black Box(es) #155",
-   "items": 1,
-   "ended": true
-  },
   "U194HW": {
    "msg": "1534853717482799235",
    "end": 1786093922,
@@ -453,13 +446,6 @@
    "end": 1786155001,
    "title": "Special Delivery",
    "items": 6,
-   "ended": true
-  },
-  "RY3ULP": {
-   "msg": "1535120591839952907",
-   "end": 1786091641,
-   "title": "Free Warpaints",
-   "items": 50,
    "ended": true
   },
   "VOWXXF": {
@@ -8306,6 +8292,20 @@
    "msg": "1537740237789200434",
    "end": 1786781761,
    "title": "Just got the schadenfreude taunt today !",
+   "items": 3,
+   "ended": false
+  },
+  "58ELSC": {
+   "msg": "1537747827952848976",
+   "end": 1786782541,
+   "title": "Hey you, you're finally awake.",
+   "items": 36,
+   "ended": false
+  },
+  "GN1RZC": {
+   "msg": "1537747834625859584",
+   "end": 1786782422,
+   "title": "Untitled raffle",
    "items": 3,
    "ended": false
   }
