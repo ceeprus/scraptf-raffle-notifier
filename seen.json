@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "AIWAZY": {
-   "msg": "1534781945865830512",
-   "end": 1786077000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "EVYQPJ": {
    "msg": "1534790793980547162",
    "end": 1786078921,
@@ -7285,21 +7278,21 @@
    "end": 1786681202,
    "title": "A glorp victory!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "4A7K71": {
    "msg": "1537317520426663946",
    "end": 1786680901,
    "title": "A question for the F2P",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "CCIRHG": {
    "msg": "1537317527648997486",
    "end": 1786680481,
    "title": "we've all been stars one day in the past, which star do you think you were back there?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NOO6JX": {
    "msg": "1537325086766534696",
@@ -8230,6 +8223,41 @@
    "end": 1786721582,
    "title": "Untitled raffle",
    "items": 100,
+   "ended": false
+  },
+  "H9C9L9": {
+   "msg": "1537679842160541758",
+   "end": 1786767481,
+   "title": "Just take it \u211616",
+   "items": 14,
+   "ended": false
+  },
+  "ZOQL4U": {
+   "msg": "1537679849802436701",
+   "end": 1786767242,
+   "title": "Slugma now #5-6",
+   "items": 1,
+   "ended": false
+  },
+  "5D9LQI": {
+   "msg": "1537679856006078505",
+   "end": 1786767241,
+   "title": "I got linux",
+   "items": 1,
+   "ended": false
+  },
+  "7F4VN5": {
+   "msg": "1537679862528221215",
+   "end": 1786767001,
+   "title": "Day 59-60 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "M3P11S": {
+   "msg": "1537679869272522784",
+   "end": 1786766822,
+   "title": "Day 64-65 of Asking for a Follow Button",
+   "items": 1,
    "ended": false
   }
  },
