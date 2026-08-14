@@ -70,27 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "PB0UOU": {
-   "msg": "1534878959093809185",
-   "end": 1786100400,
-   "title": "I wish someone would greet me like that.",
-   "items": 1,
-   "ended": true
-  },
-  "QCTUAU": {
-   "msg": "1534878966563999815",
-   "end": 1786100341,
-   "title": "Daily raffle #327",
-   "items": 1,
-   "ended": true
-  },
-  "KAPUG1": {
-   "msg": "1534878972855451801",
-   "end": 1786100042,
-   "title": "Grabli304's raffle\u2503Day 157",
-   "items": 2,
-   "ended": true
-  },
   "HDWKP3": {
    "msg": "1534885133293715609",
    "end": 1786101602,
@@ -7537,7 +7516,7 @@
    "end": 1786705200,
    "title": "I can't belive how cruel Chuck is!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3PJ22E": {
    "msg": "1537425459439079434",
@@ -8349,6 +8328,27 @@
    "end": 1786788000,
    "title": "Gifted Blutsauger",
    "items": 1,
+   "ended": false
+  },
+  "VAADO5": {
+   "msg": "1537778029034737695",
+   "end": 1786791600,
+   "title": "That beagle thinks he's so high and mighty!",
+   "items": 1,
+   "ended": false
+  },
+  "9V8BMO": {
+   "msg": "1537778035485442098",
+   "end": 1786791422,
+   "title": "Where is Sandvich?",
+   "items": 8,
+   "ended": false
+  },
+  "MXG9JU": {
+   "msg": "1537778043857412186",
+   "end": 1786791361,
+   "title": "Hi guys i need your help!",
+   "items": 2,
    "ended": false
   }
  },
