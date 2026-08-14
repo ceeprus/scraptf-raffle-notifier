@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "QI34Y7": {
-   "msg": "1534976862432919664",
-   "end": 1786122000,
-   "title": "Daily raffle until TF2 gets a major update #583",
-   "items": 3,
-   "ended": true
-  },
-  "F4VS1P": {
-   "msg": "1534976869286416494",
-   "end": 1786122000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "SH9Y5U": {
    "msg": "1535007250991677460",
    "end": 1786130342,
@@ -320,13 +306,6 @@
    "end": 1786161600,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1498 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 7,
-   "ended": true
-  },
-  "Y5RWYB": {
-   "msg": "1535150752123723796",
-   "end": 1786121521,
-   "title": "Amazing.",
-   "items": 1,
    "ended": true
   },
   "GVD98K": {
@@ -7635,7 +7614,7 @@
    "end": 1786725541,
    "title": "Go play Dying Light you filthy causal",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F6B3F1": {
    "msg": "1537512719803228291",
@@ -7649,14 +7628,14 @@
    "end": 1786726800,
    "title": "Getting Rid Of The",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OF7W3P": {
    "msg": "1537512734088765490",
    "end": 1786726800,
    "title": "Daily raffle until TF2 gets a major update #590",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "AXNUIF": {
    "msg": "1537521413294919720",
@@ -8335,6 +8314,20 @@
    "end": 1786809902,
    "title": "Daily Kit Fabricator #6",
    "items": 1,
+   "ended": false
+  },
+  "WX63S8": {
+   "msg": "1537868644309270528",
+   "end": 1786768081,
+   "title": "One winner as requested",
+   "items": 50,
+   "ended": false
+  },
+  "I21MKH": {
+   "msg": "1537868651326214164",
+   "end": 1786811162,
+   "title": "Giving back because I have been lucky on here recently",
+   "items": 35,
    "ended": false
   }
  },
