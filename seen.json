@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "EVYQPJ": {
-   "msg": "1534790793980547162",
-   "end": 1786078921,
-   "title": "Quitting TF2",
-   "items": 40,
-   "ended": true
-  },
   "ASN8ZM": {
    "msg": "1534800848021098630",
    "end": 1786081561,
@@ -7299,21 +7292,21 @@
    "end": 1786685100,
    "title": "Luncheon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UZ9JKN": {
    "msg": "1537331906671157299",
    "end": 1786685041,
    "title": "Day 6 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BF8ZTD": {
    "msg": "1537331912962613288",
    "end": 1786685041,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9TQESM": {
    "msg": "1537331920025944064",
@@ -7327,7 +7320,7 @@
    "end": 1786683961,
    "title": "I'm still tipping every raffle with  in it's name",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EJMV8F": {
    "msg": "1537347714805932062",
