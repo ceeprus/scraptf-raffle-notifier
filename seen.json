@@ -7656,7 +7656,7 @@
    "end": 1786750141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U3E7Z2": {
    "msg": "1537619494229254194",
@@ -8384,6 +8384,20 @@
    "end": 1786834800,
    "title": "A  a day",
    "items": 1,
+   "ended": false
+  },
+  "B4PZZ9": {
+   "msg": "1537966735452414004",
+   "end": 1786792981,
+   "title": "First Raffle!!!",
+   "items": 2,
+   "ended": false
+  },
+  "RXDH0M": {
+   "msg": "1537966746580033616",
+   "end": 1786835581,
+   "title": "Power Scale  #8",
+   "items": 50,
    "ended": false
   }
  },
