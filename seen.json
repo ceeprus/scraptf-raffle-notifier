@@ -63,20 +63,6 @@
    "items": 1,
    "ended": false
   },
-  "TKWLXV": {
-   "msg": "1534726603668455544",
-   "end": 1786063621,
-   "title": "team fortress 2",
-   "items": 3,
-   "ended": true
-  },
-  "EUC1XB": {
-   "msg": "1534730403557015623",
-   "end": 1786064400,
-   "title": "Reminder to eat n' drink water if ye haven't yet #265",
-   "items": 5,
-   "ended": true
-  },
   "DW19EF": {
    "msg": "1534743056648245349",
    "end": null,
@@ -7243,21 +7229,21 @@
    "end": 1786668002,
    "title": "Hi everyone uwu",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "K1S345": {
    "msg": "1537267310753091615",
    "end": 1786669200,
    "title": "Reminder to eat n' drink water if ye haven't yet #270",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "O8QL7D": {
    "msg": "1537267317321375774",
    "end": 1786669200,
    "title": "M (part three)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "37BYLA": {
    "msg": "1537279786932637787",
@@ -8209,6 +8195,27 @@
    "end": 1786709461,
    "title": "First raffle",
    "items": 4,
+   "ended": false
+  },
+  "L18Z6W": {
+   "msg": "1537627092995407922",
+   "end": 1786755062,
+   "title": "rrrrraffle",
+   "items": 1,
+   "ended": false
+  },
+  "5OW0U3": {
+   "msg": "1537627099299324046",
+   "end": 1786754461,
+   "title": "Hello! Have a great day!",
+   "items": 3,
+   "ended": false
+  },
+  "TAEQFC": {
+   "msg": "1537627105268080691",
+   "end": 1786753921,
+   "title": "I am bad with titles #143",
+   "items": 1,
    "ended": false
   }
  },
