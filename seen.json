@@ -588,13 +588,6 @@
    "items": 1,
    "ended": true
   },
-  "TSO2RT": {
-   "msg": "1535177122560217098",
-   "end": 1786091402,
-   "title": "raffle leftovers",
-   "items": 10,
-   "ended": true
-  },
   "AVZXS2": {
    "msg": "1535177128415461406",
    "end": 1786170542,
@@ -7432,7 +7425,7 @@
    "end": 1786695841,
    "title": "\ud83c\udf0aDuracell Shots\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "33V19E": {
    "msg": "1537393014039904316",
@@ -7964,7 +7957,7 @@
    "end": 1786696200,
    "title": "[Fallen Tributes/Night 9] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XTHMR4": {
    "msg": "1537574195943440404",
@@ -8307,6 +8300,13 @@
    "end": 1786711082,
    "title": "Pomson killstreak kombo",
    "items": 4,
+   "ended": false
+  },
+  "X8LO9G": {
+   "msg": "1537740237789200434",
+   "end": 1786781761,
+   "title": "Just got the schadenfreude taunt today !",
+   "items": 3,
    "ended": false
   }
  },
