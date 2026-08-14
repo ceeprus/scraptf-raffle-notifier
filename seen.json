@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "1CQ0N4": {
-   "msg": "1534829802824138782",
-   "end": 1786088461,
-   "title": "Noisy slopsy",
-   "items": 114,
-   "ended": true
-  },
-  "6S6KA7": {
-   "msg": "1534834797191364619",
-   "end": 1786089661,
-   "title": "Day 25 Of \"Bad\" Weapon",
-   "items": 3,
-   "ended": true
-  },
   "378NUS": {
    "msg": "1534848751968063569",
    "end": 1786092481,
@@ -7411,35 +7397,35 @@
    "end": 1786694162,
    "title": "Take my Slop #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SWQ9SM": {
    "msg": "1537370423392731156",
    "end": 1786694042,
    "title": "Take my Slop #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KEO5LZ": {
    "msg": "1537370429700972614",
    "end": 1786693861,
    "title": "Take my Slop #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YSL48H": {
    "msg": "1537370435904217120",
    "end": 1786693681,
    "title": "10 Rafles won",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0610LP": {
    "msg": "1537374147792080937",
    "end": 1786694282,
    "title": "Take my Slop #6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1F5IFD": {
    "msg": "1537377921352736799",
