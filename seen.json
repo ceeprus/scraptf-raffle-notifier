@@ -70,27 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "LPLO1H": {
-   "msg": "1534769381131812934",
-   "end": 1786073761,
-   "title": "Second Thoughts",
-   "items": 1,
-   "ended": true
-  },
-  "10WJY3": {
-   "msg": "1534771888662773780",
-   "end": 1786074601,
-   "title": "Caf\u00e9 Crit-A-Coffee #1750",
-   "items": 10,
-   "ended": true
-  },
-  "DRRM50": {
-   "msg": "1534774425197481994",
-   "end": 1786075200,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1497 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 6,
-   "ended": true
-  },
   "AIWAZY": {
    "msg": "1534781945865830512",
    "end": 1786077000,
@@ -7901,7 +7880,7 @@
    "end": 1786680000,
    "title": "Take a Bow",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PEWZBC": {
    "msg": "1537497177327407114",
@@ -7915,7 +7894,7 @@
    "end": 1786679761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2GGERT": {
    "msg": "1537498684357353553",
@@ -8230,6 +8209,27 @@
    "end": 1786764000,
    "title": "Getting Somewhere",
    "items": 1,
+   "ended": false
+  },
+  "YGYET2": {
+   "msg": "1537672366769971210",
+   "end": 1786765562,
+   "title": "Christmas is coming!!",
+   "items": 3,
+   "ended": false
+  },
+  "QV56FL": {
+   "msg": "1537672375091331124",
+   "end": 1786722301,
+   "title": "I am new in all of this :3",
+   "items": 4,
+   "ended": false
+  },
+  "ONK7F4": {
+   "msg": "1537672383987581041",
+   "end": 1786721582,
+   "title": "Untitled raffle",
+   "items": 100,
    "ended": false
   }
  },
