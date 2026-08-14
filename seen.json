@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "XFKCS3": {
-   "msg": "1534748005691822240",
-   "end": 1786068781,
-   "title": "Late birthday!",
-   "items": 1,
-   "ended": true
-  },
   "PS7XH1": {
    "msg": "1534753035212034229",
    "end": 1786070341,
@@ -7257,7 +7250,7 @@
    "end": 1786673281,
    "title": "Can you guys please stop raffling noisemakers!!!!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "GM5JTB": {
    "msg": "1537287322092048404",
@@ -7271,7 +7264,7 @@
    "end": 1786672921,
    "title": "Whats happening with recent comunity events announced through steam news?",
    "items": 36,
-   "ended": false
+   "ended": true
   },
   "73PYX9": {
    "msg": "1537294893989372007",
@@ -8230,6 +8223,13 @@
    "end": 1786714081,
    "title": "My Favorite YTP",
    "items": 1,
+   "ended": false
+  },
+  "19YAZB": {
+   "msg": "1537649721907089409",
+   "end": 1786759681,
+   "title": "Untitled raffle",
+   "items": 6,
    "ended": false
   }
  },
