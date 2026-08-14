@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "ASN8ZM": {
-   "msg": "1534800848021098630",
-   "end": 1786081561,
-   "title": "huh?",
-   "items": 11,
-   "ended": true
-  },
-  "XNSRPA": {
-   "msg": "1534803455766691940",
-   "end": 1786081802,
-   "title": "gentleman thursday",
-   "items": 1,
-   "ended": true
-  },
   "MM8IK8": {
    "msg": "1534813444530901114",
    "end": 1786084741,
@@ -8307,6 +8293,13 @@
    "end": 1786768081,
    "title": "Graveyard Raffle (#12)",
    "items": 8,
+   "ended": false
+  },
+  "BLUMP3": {
+   "msg": "1537702530203525122",
+   "end": 1786772401,
+   "title": "What's your dream loadout?",
+   "items": 2,
    "ended": false
   }
  },
