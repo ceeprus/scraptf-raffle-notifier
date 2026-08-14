@@ -119,20 +119,6 @@
    "items": 3,
    "ended": true
   },
-  "I8A1AM": {
-   "msg": "1535007312119468146",
-   "end": 1786124701,
-   "title": "Noise",
-   "items": 1,
-   "ended": true
-  },
-  "PXGVFS": {
-   "msg": "1535007318167650495",
-   "end": 1786124401,
-   "title": "Meat",
-   "items": 1,
-   "ended": true
-  },
   "LYA09P": {
    "msg": "1535014829738295416",
    "end": 1786131541,
@@ -7635,14 +7621,14 @@
    "end": 1786729621,
    "title": "Free Games Part 142 \u2022 Deponia",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3BSBOK": {
    "msg": "1537521421817741396",
    "end": 1786729081,
    "title": "New soldier loadout",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E66B46": {
    "msg": "1537527465512018022",
@@ -8188,7 +8174,7 @@
    "end": 1786728901,
    "title": "Do you like sandwiches?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0N4GFN": {
    "msg": "1537800632860409867",
@@ -8362,6 +8348,20 @@
    "msg": "1537876184870813777",
    "end": 1786814222,
    "title": "bananababababanannanaabshwhsux",
+   "items": 1,
+   "ended": false
+  },
+  "4U8SQ5": {
+   "msg": "1537883718771806208",
+   "end": 1786816261,
+   "title": "Daily raffle #345",
+   "items": 1,
+   "ended": false
+  },
+  "HTXVSO": {
+   "msg": "1537883727521255454",
+   "end": 1786815301,
+   "title": "#SlugmaSweep",
    "items": 1,
    "ended": false
   }
