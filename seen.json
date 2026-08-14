@@ -77,13 +77,6 @@
    "items": 5,
    "ended": true
   },
-  "FPFDSY": {
-   "msg": "1535014837090783285",
-   "end": 1786131001,
-   "title": "Graveyard Raffle (#4)",
-   "items": 7,
-   "ended": true
-  },
   "Z23UHE": {
    "msg": "1535029939319865484",
    "end": 1786132800,
@@ -8195,7 +8188,7 @@
    "end": 1786735741,
    "title": "Have entered over 100 raffels and havent won a single one",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "Z3T0PO": {
    "msg": "1537845943632920657",
