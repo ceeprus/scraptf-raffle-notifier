@@ -70,27 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "97AYXX": {
-   "msg": "1535067704992595988",
-   "end": 1786144381,
-   "title": "Hale's Own Trials: Persian Persuader: Day 4",
-   "items": 1,
-   "ended": true
-  },
-  "NHJX6I": {
-   "msg": "1535067713448190015",
-   "end": 1786144202,
-   "title": "Doubter.",
-   "items": 1,
-   "ended": true
-  },
-  "PL0Q8I": {
-   "msg": "1535067726178156634",
-   "end": 1786143901,
-   "title": "Graveyard Raffle (#5)",
-   "items": 7,
-   "ended": true
-  },
   "CEKCYE": {
    "msg": "1535075264416186409",
    "end": 1786145942,
@@ -7656,7 +7635,7 @@
    "end": 1786748701,
    "title": "Recommending music in spanish #3 FAVORITE SONG SPECIAL",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "AYFFJD": {
    "msg": "1537604416432115784",
@@ -8398,6 +8377,13 @@
    "end": 1786831621,
    "title": "Some good music recommendation",
    "items": 10,
+   "ended": false
+  },
+  "JWHF7C": {
+   "msg": "1537962345978929232",
+   "end": 1786834800,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
