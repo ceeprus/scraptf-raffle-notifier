@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "IC8OJV": {
-   "msg": "1534824731008700520",
-   "end": 1786086962,
-   "title": "Daily Hat #75",
-   "items": 1,
-   "ended": true
-  },
   "1CQ0N4": {
    "msg": "1534829802824138782",
    "end": 1786088461,
@@ -7383,14 +7376,14 @@
    "end": 1786692181,
    "title": "We're on our second vacation!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IV0B6N": {
    "msg": "1537362817521426462",
    "end": 1786691941,
    "title": "Im bored",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "I0N9OY": {
    "msg": "1537362824693678110",
