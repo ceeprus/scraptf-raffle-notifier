@@ -763,13 +763,6 @@
    "items": 2,
    "ended": true
   },
-  "LJPSYO": {
-   "msg": "1535369660067749981",
-   "end": 1786133101,
-   "title": "Salt's surplus stuff",
-   "items": 7,
-   "ended": true
-  },
   "CIXEYW": {
    "msg": "1535369669144482003",
    "end": 1786215841,
@@ -7593,14 +7586,14 @@
    "end": 1786739042,
    "title": "leftovers",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "6N7HAR": {
    "msg": "1537559098097279029",
    "end": 1786738741,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J6ZX4Z": {
    "msg": "1537559105500094604",
@@ -8342,6 +8335,27 @@
    "end": 1786822321,
    "title": "Guys",
    "items": 3,
+   "ended": false
+  },
+  "E2OHMX": {
+   "msg": "1537921446960038019",
+   "end": 1786824901,
+   "title": "mvm amirite",
+   "items": 2,
+   "ended": false
+  },
+  "M0KDSG": {
+   "msg": "1537921453297762365",
+   "end": 1786781641,
+   "title": "More",
+   "items": 1,
+   "ended": false
+  },
+  "ATUFU6": {
+   "msg": "1537921460050599946",
+   "end": 1786824542,
+   "title": "My first raffle on this account !",
+   "items": 2,
    "ended": false
   }
  },
