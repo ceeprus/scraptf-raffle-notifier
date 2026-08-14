@@ -8034,7 +8034,7 @@
    "end": 1786745522,
    "title": "Raffling Scrap Till I'm Out #1003 (Super lat raffle)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CBKE9M": {
    "msg": "1537770450640183306",
@@ -8383,6 +8383,20 @@
    "msg": "1537936530696314930",
    "end": 1786828921,
    "title": "I got my 1st Strange",
+   "items": 1,
+   "ended": false
+  },
+  "ZD7NMF": {
+   "msg": "1537947279267467394",
+   "end": 1786831501,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "7UWAEO": {
+   "msg": "1537947286666092566",
+   "end": 1786831381,
+   "title": "I thought",
    "items": 1,
    "ended": false
   }
