@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "U9A8EV": {
-   "msg": "1534890199715414086",
-   "end": 1786102621,
-   "title": "Struggles of an Introvert - schizo rambling",
-   "items": 4,
-   "ended": true
-  },
-  "DKKI16": {
-   "msg": "1534890207176949971",
-   "end": 1786102441,
-   "title": "hi im grabli11",
-   "items": 1,
-   "ended": true
-  },
   "0Y2W5G": {
    "msg": "1534895208263712990",
    "end": 1786104000,
@@ -663,13 +649,6 @@
    "end": 1786187401,
    "title": "#23",
    "items": 1,
-   "ended": true
-  },
-  "PRRLDQ": {
-   "msg": "1535246315674406953",
-   "end": 1786102621,
-   "title": "Untitled raffle",
-   "items": 14,
    "ended": true
   },
   "ZK901H": {
@@ -7495,7 +7474,7 @@
    "end": 1786707362,
    "title": "Epic man with epic face",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H1RCE6": {
    "msg": "1537430805326987334",
