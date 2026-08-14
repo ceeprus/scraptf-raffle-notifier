@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "0Y2W5G": {
-   "msg": "1534895208263712990",
-   "end": 1786104000,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "KCBDDO": {
    "msg": "1534900234893918338",
    "end": 1786105322,
@@ -7481,28 +7474,28 @@
    "end": 1786708621,
    "title": "I'm the one",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "69T8L7": {
    "msg": "1537430812264501351",
    "end": 1786708501,
    "title": "Whoever wins - give ME festivizer/or festivized weapon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "Y0OQG2": {
    "msg": "1537430819621175386",
    "end": 1786708442,
    "title": "Fanumstein Rizzberg",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q88PJN": {
    "msg": "1537430828274032741",
    "end": 1786707961,
    "title": "Bau! Bau!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4J28GQ": {
    "msg": "1537438302058184796",
@@ -7537,7 +7530,7 @@
    "end": 1786708800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q8UGTE": {
    "msg": "1537453410888978543",
@@ -8300,6 +8293,13 @@
    "end": 1786791361,
    "title": "Hi guys i need your help!",
    "items": 2,
+   "ended": false
+  },
+  "V22A5W": {
+   "msg": "1537793116646416495",
+   "end": 1786728901,
+   "title": "Do you like sandwiches?",
+   "items": 1,
    "ended": false
   }
  },
