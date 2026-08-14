@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "CEUWYW": {
-   "msg": "1534863850602762352",
-   "end": 1786096561,
-   "title": "Hale's Own Trials: Persian Persuader: Day 3",
-   "items": 1,
-   "ended": true
-  },
   "UVLWYF": {
    "msg": "1534871200554291243",
    "end": 1786098062,
@@ -7453,7 +7446,7 @@
    "end": 1786700461,
    "title": "How to get into trading?",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "2A255M": {
    "msg": "1537400618317123725",
@@ -7467,7 +7460,7 @@
    "end": 1786700161,
    "title": "I AM BACK",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "BAH76Y": {
    "msg": "1537400634268057631",
@@ -7509,7 +7502,7 @@
    "end": 1786701600,
    "title": "Gifted Splendid Screen #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C64SHI": {
    "msg": "1537414029616877609",
@@ -8314,6 +8307,48 @@
    "end": 1786742641,
    "title": "Just a raffle",
    "items": 5,
+   "ended": false
+  },
+  "EYOGY0": {
+   "msg": "1537762911907217428",
+   "end": 1786787581,
+   "title": "Grabli304's raffle\u2503Day 166",
+   "items": 2,
+   "ended": false
+  },
+  "DRQIHD": {
+   "msg": "1537762918282821662",
+   "end": 1786743601,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NCNM2D": {
+   "msg": "1537762924561702912",
+   "end": 1786743362,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BTUEF9": {
+   "msg": "1537762930089795655",
+   "end": 1786743121,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "PJY7MQ": {
+   "msg": "1537762936175464579",
+   "end": 1786786202,
+   "title": "Slugma_Art69",
+   "items": 1,
+   "ended": false
+  },
+  "84JPZ6": {
+   "msg": "1537762942727102474",
+   "end": 1786742941,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
