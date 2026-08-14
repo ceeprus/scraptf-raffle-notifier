@@ -7229,14 +7229,14 @@
    "end": 1786666441,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EFB1YZ": {
    "msg": "1537257114190356624",
    "end": 1786665721,
    "title": "My second raffle \ud83e\udd14\ud83d\udc4d\ud83d\udc4d",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "RACPEP": {
    "msg": "1537264695474393169",
@@ -8195,6 +8195,20 @@
    "end": 1786750141,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "U3E7Z2": {
+   "msg": "1537619494229254194",
+   "end": 1786752781,
+   "title": "Who's your favorite UFC fighter that never became the undisputed champ?",
+   "items": 3,
+   "ended": false
+  },
+  "QELG8V": {
+   "msg": "1537619500529094758",
+   "end": 1786709461,
+   "title": "First raffle",
+   "items": 4,
    "ended": false
   }
  },
