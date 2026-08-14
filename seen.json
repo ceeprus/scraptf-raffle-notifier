@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "9754US": {
-   "msg": "1534911614539792475",
-   "end": 1786107841,
-   "title": "Daily Brass Beast #530",
-   "items": 1,
-   "ended": true
-  },
   "E0BVT2": {
    "msg": "1534919177809297458",
    "end": 1786109461,
@@ -7971,7 +7964,7 @@
    "end": 1786714081,
    "title": "My Favorite YTP",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "19YAZB": {
    "msg": "1537649721907089409",
@@ -8328,6 +8321,13 @@
    "end": 1786714981,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "41SRVZ": {
+   "msg": "1537815733239549972",
+   "end": 1786798800,
+   "title": "The License Plate Trick and its Consequences",
+   "items": 2,
    "ended": false
   }
  },
