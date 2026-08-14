@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "L1OEUS": {
-   "msg": "1534766855292583996",
-   "end": 1786072981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "LPLO1H": {
    "msg": "1534769381131812934",
    "end": 1786073761,
@@ -7278,28 +7271,28 @@
    "end": 1786677662,
    "title": "something small",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TPLWLV": {
    "msg": "1537302430218453104",
    "end": 1786677662,
    "title": "Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NXHTXY": {
    "msg": "1537302436081967124",
    "end": 1786677602,
    "title": "Looking for names for my Festivized Flash Fryer :3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OBX34K": {
    "msg": "1537302442147053578",
    "end": 1786676821,
    "title": "Here have a tung tung tung",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GAT852": {
    "msg": "1537309986483601509",
@@ -8229,6 +8222,13 @@
    "msg": "1537657283520110652",
    "end": 1786761901,
    "title": "i'm tired of time traveling",
+   "items": 1,
+   "ended": false
+  },
+  "GO8XRK": {
+   "msg": "1537664803496271963",
+   "end": 1786764000,
+   "title": "Getting Somewhere",
    "items": 1,
    "ended": false
   }
