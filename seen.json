@@ -8006,7 +8006,7 @@
    "end": 1786792981,
    "title": "First Raffle!!!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RXDH0M": {
    "msg": "1537966746580033616",
@@ -8341,6 +8341,13 @@
    "msg": "1538143104731717673",
    "end": 1786878000,
    "title": "I thought such things would be right up your alley!",
+   "items": 1,
+   "ended": false
+  },
+  "FS6Q0E": {
+   "msg": "1538147919289385072",
+   "end": 1786879441,
+   "title": "Question",
    "items": 1,
    "ended": false
   }
