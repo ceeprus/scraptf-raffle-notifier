@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "MNW3B2": {
-   "msg": "1535294170271457341",
-   "end": 1786199101,
-   "title": "it will be free for everyone (bonkie boy)",
-   "items": 1,
-   "ended": true
-  },
   "SXR7UJ": {
    "msg": "1535309284739383357",
    "end": 1786201441,
@@ -8286,6 +8279,20 @@
    "end": 1786888502,
    "title": "i can't think of a title for this raffle 26\u2122",
    "items": 1,
+   "ended": false
+  },
+  "FH6N6J": {
+   "msg": "1538193218380767244",
+   "end": 1786890181,
+   "title": "New name?",
+   "items": 1,
+   "ended": false
+  },
+  "UKRP6T": {
+   "msg": "1538193225494302741",
+   "end": 1786889821,
+   "title": "My first raffle | \u041c\u043e\u0439 \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448",
+   "items": 5,
    "ended": false
   }
  },
