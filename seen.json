@@ -77,13 +77,6 @@
    "items": 1,
    "ended": true
   },
-  "D5B9T8": {
-   "msg": "1535241384854949908",
-   "end": 1786185721,
-   "title": "My first raffle! :)",
-   "items": 3,
-   "ended": true
-  },
   "L81VSQ": {
    "msg": "1535246307978125314",
    "end": 1786187401,
@@ -8377,6 +8370,13 @@
    "end": 1786875721,
    "title": "I've changed my profile entirely.",
    "items": 1,
+   "ended": false
+  },
+  "2SHDLD": {
+   "msg": "1538136518617468948",
+   "end": 1786876802,
+   "title": "Random wasp I drew",
+   "items": 2,
    "ended": false
   }
  },
