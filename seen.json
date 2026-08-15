@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "D1VPQ7": {
-   "msg": "1535347049967521923",
-   "end": 1786211281,
-   "title": "30th anniversary quakecon",
-   "items": 30,
-   "ended": true
-  },
   "GQ8XNL": {
    "msg": "1535369652807409754",
    "end": 1786216622,
@@ -7530,7 +7523,7 @@
    "end": 1786816261,
    "title": "Daily raffle #345",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HTXVSO": {
    "msg": "1537883727521255454",
@@ -8299,6 +8292,13 @@
    "msg": "1538241508392566875",
    "end": 1786901522,
    "title": "I Drew Ts 19",
+   "items": 1,
+   "ended": false
+  },
+  "NPI9EK": {
+   "msg": "1538246105072930849",
+   "end": 1786902242,
+   "title": "Daily raffle #346",
    "items": 1,
    "ended": false
   }
