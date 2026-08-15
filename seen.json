@@ -70,27 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "NIDX02": {
-   "msg": "1535173359870943323",
-   "end": 1786169461,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0MDVMN": {
-   "msg": "1535173365759873105",
-   "end": 1786168981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "9RURTC": {
-   "msg": "1535173371422310404",
-   "end": 1786168981,
-   "title": "Daily Kit Fabricator #1",
-   "items": 1,
-   "ended": true
-  },
   "3HB12W": {
    "msg": "1535177103878656031",
    "end": 1786171141,
@@ -7747,7 +7726,7 @@
    "end": 1786774502,
    "title": "Argentina is lovely at this time of year.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E9U5D8": {
    "msg": "1537710085172895744",
@@ -8475,6 +8454,13 @@
    "end": 1786794901,
    "title": "hai hello my first raffle",
    "items": 4,
+   "ended": false
+  },
+  "RQ9W1M": {
+   "msg": "1538070147128885258",
+   "end": 1786817461,
+   "title": "Raffling Scrap Till I'm Out #1004 (Late raffle)",
+   "items": 1,
    "ended": false
   }
  },
