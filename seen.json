@@ -98,13 +98,6 @@
    "items": 1,
    "ended": true
   },
-  "MN1JTO": {
-   "msg": "1535211179205459979",
-   "end": 1786177502,
-   "title": "Bau! Bau!",
-   "items": 18,
-   "ended": true
-  },
   "KVVE5R": {
    "msg": "1535232785785163806",
    "end": 1786183861,
@@ -7670,14 +7663,14 @@
    "end": 1786782541,
    "title": "Hey you, you're finally awake.",
    "items": 36,
-   "ended": false
+   "ended": true
   },
   "GN1RZC": {
    "msg": "1537747834625859584",
    "end": 1786782422,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "XVHQDP": {
    "msg": "1537755346544893952",
@@ -8411,6 +8404,13 @@
    "msg": "1538095110859006042",
    "end": 1786866601,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #76 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "EXW7MM": {
+   "msg": "1538102619120078898",
+   "end": 1786868522,
+   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #74 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
