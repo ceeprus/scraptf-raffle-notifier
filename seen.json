@@ -595,13 +595,6 @@
    "items": 1,
    "ended": true
   },
-  "AUCGGK": {
-   "msg": "1535701867584037034",
-   "end": 1786231021,
-   "title": "to slug or not to slug",
-   "items": 1,
-   "ended": true
-  },
   "GYB57S": {
    "msg": "1535701875213734059",
    "end": 1786295581,
@@ -7544,7 +7537,7 @@
    "end": 1786835581,
    "title": "Power Scale  #8",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "L0V2QI": {
    "msg": "1537970164669222943",
@@ -8341,6 +8334,13 @@
    "msg": "1538324492802334851",
    "end": 1786921142,
    "title": "Win a Raffle, Make a Raffle! 3",
+   "items": 1,
+   "ended": false
+  },
+  "LW30SM": {
+   "msg": "1538329104560955423",
+   "end": 1786839601,
+   "title": "Something",
    "items": 1,
    "ended": false
   }
