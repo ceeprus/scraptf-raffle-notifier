@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "JP1K94": {
-   "msg": "1535342008493678752",
-   "end": 1786210381,
-   "title": "Ahh piss",
-   "items": 1,
-   "ended": true
-  },
   "D1VPQ7": {
    "msg": "1535347049967521923",
    "end": 1786211281,
@@ -7544,7 +7537,7 @@
    "end": 1786815301,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CANGYT": {
    "msg": "1537886752969203802",
@@ -8292,6 +8285,20 @@
    "msg": "1538238502003671090",
    "end": 1786900681,
    "title": "Hello Scrap.tf! First time here",
+   "items": 1,
+   "ended": false
+  },
+  "BRVBGO": {
+   "msg": "1538241501237354658",
+   "end": 1786829701,
+   "title": "1k raffles entered...",
+   "items": 1,
+   "ended": false
+  },
+  "P93KSN": {
+   "msg": "1538241508392566875",
+   "end": 1786901522,
+   "title": "I Drew Ts 19",
    "items": 1,
    "ended": false
   }
