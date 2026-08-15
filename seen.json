@@ -77,41 +77,6 @@
    "items": 1,
    "ended": true
   },
-  "BYIOMJ": {
-   "msg": "1535294178114674718",
-   "end": 1786198081,
-   "title": "scout",
-   "items": 5,
-   "ended": true
-  },
-  "QHIOI0": {
-   "msg": "1535294185794437270",
-   "end": 1786198022,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
-  "GMPH0E": {
-   "msg": "1535294192551460874",
-   "end": 1786197962,
-   "title": "roblox told me im 19 years old",
-   "items": 1,
-   "ended": true
-  },
-  "8VMBXY": {
-   "msg": "1535294198935330817",
-   "end": 1786197781,
-   "title": "Daily raffle #238",
-   "items": 1,
-   "ended": true
-  },
-  "Y594D3": {
-   "msg": "1535294205491159151",
-   "end": 1786197661,
-   "title": "unclaimed",
-   "items": 1,
-   "ended": true
-  },
   "SXR7UJ": {
    "msg": "1535309284739383357",
    "end": 1786201441,
@@ -7579,7 +7544,7 @@
    "end": 1786802582,
    "title": "hopeful gambling",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SMBJMP": {
    "msg": "1537825531825750036",
@@ -8300,6 +8265,27 @@
    "end": 1786888021,
    "title": "Where do you all come from? Im' from Thailand :D",
    "items": 5,
+   "ended": false
+  },
+  "V0JFHZ": {
+   "msg": "1538188873006583980",
+   "end": 1786889521,
+   "title": "I joined my 600,000th public raffle",
+   "items": 1,
+   "ended": false
+  },
+  "18A7HY": {
+   "msg": "1538188880522514462",
+   "end": 1786888800,
+   "title": "MW4 early access code",
+   "items": 1,
+   "ended": false
+  },
+  "YI0DR1": {
+   "msg": "1538188887393046608",
+   "end": 1786888502,
+   "title": "i can't think of a title for this raffle 26\u2122",
+   "items": 1,
    "ended": false
   }
  },
