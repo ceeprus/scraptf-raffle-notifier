@@ -8027,7 +8027,7 @@
    "end": 1786784881,
    "title": "Toma Noise maiker pra voc\u00eas rs",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "SAEQXR": {
    "msg": "1537933072916553880",
@@ -8376,6 +8376,13 @@
    "msg": "1538102619120078898",
    "end": 1786868522,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #74 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "PEZC8O": {
+   "msg": "1538114328576790649",
+   "end": 1786870561,
+   "title": "I See You",
    "items": 1,
    "ended": false
   }
