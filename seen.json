@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "6NFW5I": {
-   "msg": "1535339502086918235",
-   "end": 1786208400,
-   "title": "Daily raffle until TF2 gets a major update #584",
-   "items": 3,
-   "ended": true
-  },
-  "1S43B7": {
-   "msg": "1535339508223049728",
-   "end": 1786208282,
-   "title": "Scrap.tf Birthdays - 7 August",
-   "items": 1,
-   "ended": true
-  },
   "JP1K94": {
    "msg": "1535342008493678752",
    "end": 1786210381,
@@ -313,13 +299,6 @@
    "end": 1786251421,
    "title": "Day 2 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": true
-  },
-  "2G7E8N": {
-   "msg": "1535513150848499743",
-   "end": 1786208101,
-   "title": "bottle :3",
-   "items": 1,
    "ended": true
   },
   "GMJP1O": {
@@ -7558,14 +7537,14 @@
    "end": 1786813200,
    "title": "Daily raffle until TF2 gets a major update #591",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "23AO97": {
    "msg": "1537874522735382613",
    "end": 1786813200,
    "title": "Hear me out",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LB9B4D": {
    "msg": "1537876166487187526",
@@ -8314,6 +8293,20 @@
    "end": 1786897441,
    "title": "Special Delivery",
    "items": 20,
+   "ended": false
+  },
+  "EEVL20": {
+   "msg": "1538231000981700629",
+   "end": 1786898642,
+   "title": "Scrap.tf Birthdays - 15 August",
+   "items": 6,
+   "ended": false
+  },
+  "2EFV80": {
+   "msg": "1538231010813018273",
+   "end": 1786898461,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1506 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 15,
    "ended": false
   }
  },
