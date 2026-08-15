@@ -672,25 +672,11 @@
    "items": 1,
    "ended": true
   },
-  "ROQJGE": {
-   "msg": "1535707828516429854",
-   "end": 1786225142,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "811B9N": {
    "msg": "1535707835076448387",
    "end": 1786232282,
    "title": "!",
    "items": 5,
-   "ended": true
-  },
-  "9T0UR1": {
-   "msg": "1535707841757970525",
-   "end": 1786224901,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "30RU06": {
@@ -8167,7 +8153,7 @@
    "end": 1786829701,
    "title": "1k raffles entered...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P93KSN": {
    "msg": "1538241508392566875",
