@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "K52I98": {
-   "msg": "1535414976028876891",
-   "end": 1786227901,
-   "title": "Graveyard Raffle (#7)",
-   "items": 7,
-   "ended": true
-  },
   "SR9BVM": {
    "msg": "1535422553055563907",
    "end": 1786229282,
@@ -7537,7 +7530,7 @@
    "end": 1786832162,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1505 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "DWU119": {
    "msg": "1537951640470949998",
