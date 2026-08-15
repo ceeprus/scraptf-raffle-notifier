@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "63O4U8": {
-   "msg": "1535324369943797791",
-   "end": 1786205102,
-   "title": "Give me songs!!!",
-   "items": 1,
-   "ended": true
-  },
   "TSV54J": {
    "msg": "1535324392920449027",
    "end": null,
@@ -7537,7 +7530,7 @@
    "end": 1786809902,
    "title": "Daily Kit Fabricator #6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WX63S8": {
    "msg": "1537868644309270528",
