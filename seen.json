@@ -665,13 +665,6 @@
    "items": 1,
    "ended": true
   },
-  "52AQ2Q": {
-   "msg": "1535707822065586328",
-   "end": 1786225442,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "811B9N": {
    "msg": "1535707835076448387",
    "end": 1786232282,
@@ -8328,7 +8321,7 @@
    "end": 1786830781,
    "title": "\ud83d\udc9aTake away my noisemakers#17\ud83d\udc9a",
    "items": 49,
-   "ended": false
+   "ended": true
   }
  },
  "megaraffle": {
