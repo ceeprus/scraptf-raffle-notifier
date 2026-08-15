@@ -854,13 +854,6 @@
    "items": 5,
    "ended": true
   },
-  "S2ELM1": {
-   "msg": "1535737048802267209",
-   "end": 1786221001,
-   "title": "my first raffle and a small raffle...",
-   "items": 2,
-   "ended": true
-  },
   "0OCQJZ": {
    "msg": "1535737055844507689",
    "end": 1786260600,
@@ -7530,7 +7523,7 @@
    "end": 1786824901,
    "title": "mvm amirite",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "M0KDSG": {
    "msg": "1537921453297762365",
@@ -7551,7 +7544,7 @@
    "end": 1786825381,
    "title": "Do you want some FREE CS2 stickers?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0M0PNO": {
    "msg": "1537933064859160576",
@@ -8314,7 +8307,7 @@
    "end": 1786824902,
    "title": "Piss",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RUGKXP": {
    "msg": "1538276295153160364",
@@ -8349,6 +8342,13 @@
    "end": 1786910222,
    "title": "Noise",
    "items": 1,
+   "ended": false
+  },
+  "8IUQJO": {
+   "msg": "1538283816404131893",
+   "end": 1786838942,
+   "title": "Almost 100 tours with no Aussie",
+   "items": 50,
    "ended": false
   }
  },
