@@ -77,25 +77,11 @@
    "items": 1,
    "ended": false
   },
-  "1S31G8": {
-   "msg": "1535339468146610298",
-   "end": 1786209481,
-   "title": "Stuff I don't need",
-   "items": 29,
-   "ended": true
-  },
   "JP1K94": {
    "msg": "1535342008493678752",
    "end": 1786210381,
    "title": "Ahh piss",
    "items": 1,
-   "ended": true
-  },
-  "WBXXR6": {
-   "msg": "1535342017859813378",
-   "end": 1786210202,
-   "title": "Guys",
-   "items": 3,
    "ended": true
   },
   "D1VPQ7": {
@@ -7530,21 +7516,21 @@
    "end": 1786814701,
    "title": "I Drew Ts 18",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IU5SZQ": {
    "msg": "1537876176838729768",
    "end": 1786814401,
    "title": "I Drew Ts 17",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0DFGOD": {
    "msg": "1537876184870813777",
    "end": 1786814222,
    "title": "bananababababanannanaabshwhsux",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4U8SQ5": {
    "msg": "1537883718771806208",
@@ -8300,6 +8286,13 @@
    "end": 1786899600,
    "title": "Daily raffle until TF2 gets a major update #592",
    "items": 3,
+   "ended": false
+  },
+  "OWUAEG": {
+   "msg": "1538238502003671090",
+   "end": 1786900681,
+   "title": "Hello Scrap.tf! First time here",
+   "items": 1,
    "ended": false
   }
  },
