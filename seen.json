@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "1NA3NS": {
-   "msg": "1535271561559539783",
-   "end": 1786192862,
-   "title": "Bau! Bau!",
-   "items": 18,
-   "ended": true
-  },
   "A42678": {
    "msg": "1535279068784758885",
    "end": 1786195141,
@@ -109,20 +102,6 @@
    "msg": "1535279095800397979",
    "end": 1786194242,
    "title": "Ref",
-   "items": 1,
-   "ended": true
-  },
-  "55U4AV": {
-   "msg": "1535279102028939406",
-   "end": 1786194001,
-   "title": "Fanumstein Rizzberg raffle",
-   "items": 1,
-   "ended": true
-  },
-  "66789B": {
-   "msg": "1535279108529979477",
-   "end": 1786194000,
-   "title": "The Award Winning Assassin",
    "items": 1,
    "ended": true
   },
@@ -411,13 +390,6 @@
    "end": 1786233121,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": true
-  },
-  "PALBC9": {
-   "msg": "1535452750509506570",
-   "end": 1786193341,
-   "title": "Notice",
-   "items": 1,
    "ended": true
   },
   "VUDGYG": {
@@ -7649,7 +7621,7 @@
    "end": 1786798800,
    "title": "The License Plate Trick and its Consequences",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0NLUJL": {
    "msg": "1537825525945475254",
@@ -8320,6 +8292,13 @@
    "msg": "1538160333800210504",
    "end": 1786881600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "7XQCUH": {
+   "msg": "1538170607605391380",
+   "end": 1786884061,
+   "title": "hello my name is Epic man with epic face.",
    "items": 1,
    "ended": false
   }
