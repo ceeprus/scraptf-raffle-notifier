@@ -7649,7 +7649,7 @@
    "end": 1786787581,
    "title": "Grabli304's raffle\u2503Day 166",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "DRQIHD": {
    "msg": "1537762918282821662",
@@ -7705,7 +7705,7 @@
    "end": 1786788000,
    "title": "Gifted Blutsauger",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VAADO5": {
    "msg": "1537778029034737695",
@@ -8377,6 +8377,13 @@
    "end": 1786870561,
    "title": "I See You",
    "items": 1,
+   "ended": false
+  },
+  "CXWZ7D": {
+   "msg": "1538125313089736754",
+   "end": 1786873562,
+   "title": "Hello! Have a great day!",
+   "items": 3,
    "ended": false
   }
  },
