@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "XOZXWP": {
-   "msg": "1535090351226880031",
-   "end": 1786149602,
-   "title": "Graveyard Raffle (#6)",
-   "items": 7,
-   "ended": true
-  },
-  "0NOXKX": {
-   "msg": "1535090370310967446",
-   "end": 1786149542,
-   "title": "A Couple of Dupes",
-   "items": 65,
-   "ended": true
-  },
   "6XEA7W": {
    "msg": "1535097846540279859",
    "end": 1786151522,
@@ -7663,14 +7649,14 @@
    "end": 1786754461,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TAEQFC": {
    "msg": "1537627105268080691",
    "end": 1786753921,
    "title": "I am bad with titles #143",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BFFJ3W": {
    "msg": "1537629542041128962",
@@ -8412,6 +8398,13 @@
    "end": 1786837262,
    "title": "333,333 Vaccinator Milestone Giveaway! (2 of 3)",
    "items": 18,
+   "ended": false
+  },
+  "LXK358": {
+   "msg": "1537984898290290758",
+   "end": 1786840801,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
