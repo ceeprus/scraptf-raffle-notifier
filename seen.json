@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "DUKA8R": {
-   "msg": "1535082767744901160",
-   "end": 1786147682,
-   "title": "Equestria Forever",
-   "items": 53,
-   "ended": true
-  },
-  "1QPH08": {
-   "msg": "1535084095271469076",
-   "end": 1786148821,
-   "title": "Win a Raffle, Make a Raffle! #3",
-   "items": 1,
-   "ended": true
-  },
   "XOZXWP": {
    "msg": "1535090351226880031",
    "end": 1786149602,
@@ -7656,7 +7642,7 @@
    "end": 1786752781,
    "title": "Who's your favorite UFC fighter that never became the undisputed champ?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "QELG8V": {
    "msg": "1537619500529094758",
@@ -8363,7 +8349,7 @@
    "end": 1786752601,
    "title": "i dont know i felt like making a raffle lol",
    "items": 44,
-   "ended": false
+   "ended": true
   },
   "6LZMFC": {
    "msg": "1537951649853874228",
@@ -8405,7 +8391,7 @@
    "end": 1786752061,
    "title": "\ud83d\udc9aTake away my noisemakers#6\ud83d\udc9a",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "K9P8VC": {
    "msg": "1537974335619203174",
