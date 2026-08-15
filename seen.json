@@ -91,13 +91,6 @@
    "items": 1,
    "ended": true
   },
-  "AVZXS2": {
-   "msg": "1535177128415461406",
-   "end": 1786170542,
-   "title": "Day 58-59 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
   "2Y1OP4": {
    "msg": "1535180954971152509",
    "end": 1786171682,
@@ -551,13 +544,6 @@
    "end": 1786170782,
    "title": "Random Stuff",
    "items": 13,
-   "ended": true
-  },
-  "X1978F": {
-   "msg": "1535357232735195237",
-   "end": 1786170600,
-   "title": "[DAY 1] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "GQ8XNL": {
@@ -7719,7 +7705,7 @@
    "end": 1786774981,
    "title": "Day 7 of asking for Slugma Chain emoticon",
    "items": 45,
-   "ended": false
+   "ended": true
   },
   "UAGNXA": {
    "msg": "1537710078944354364",
