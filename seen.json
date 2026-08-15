@@ -609,13 +609,6 @@
    "items": 1,
    "ended": true
   },
-  "66FV57": {
-   "msg": "1535662916345528421",
-   "end": 1786215061,
-   "title": "meow... TWO!!",
-   "items": 1,
-   "ended": true
-  },
   "KST5Z3": {
    "msg": "1535669646668206203",
    "end": 1786287961,
@@ -7551,7 +7544,7 @@
    "end": 1786819382,
    "title": "A sandvich a day keeps the doctor gay #69",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FJNJCO": {
    "msg": "1537913914942296095",
@@ -8314,6 +8307,13 @@
    "end": 1786903200,
    "title": "#SlugmaSweep",
    "items": 1,
+   "ended": false
+  },
+  "8ZEJXR": {
+   "msg": "1538259432692261005",
+   "end": 1786905361,
+   "title": "another unrelated gifted items(and huntsman)",
+   "items": 4,
    "ended": false
   }
  },
