@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "WGL435": {
-   "msg": "1535105440545898637",
-   "end": 1786153862,
-   "title": "One guy made radle where he ask help to find music name in  It's Play Time [Saxxy 2015 Extended Winner] 4:16 time mark",
-   "items": 1,
-   "ended": true
-  },
   "ZWHNNG": {
    "msg": "1535112956298137600",
    "end": 1786155001,
@@ -8048,7 +8041,7 @@
    "end": 1786759200,
    "title": "[Fallen Tributes/Night 10] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AIVB0D": {
    "msg": "1537838431021830277",
@@ -8426,6 +8419,20 @@
    "end": 1786842000,
    "title": "17th Birthday yippee  \ud83c\udf89",
    "items": 10,
+   "ended": false
+  },
+  "R0UKFL": {
+   "msg": "1538004507332583474",
+   "end": 1786844041,
+   "title": "2nd Strange :D",
+   "items": 1,
+   "ended": false
+  },
+  "Y6BE15": {
+   "msg": "1538004515343695945",
+   "end": 1786843681,
+   "title": "What was the strangest username you  guys have ever seen in tf2?",
+   "items": 3,
    "ended": false
   }
  },
