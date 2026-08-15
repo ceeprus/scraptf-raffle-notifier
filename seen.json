@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "4P3Y0Q": {
-   "msg": "1535143197427368007",
-   "end": 1786161901,
-   "title": "YOU HAVE ENTERED",
-   "items": 2,
-   "ended": true
-  },
   "GVD98K": {
    "msg": "1535157529322070028",
    "end": 1786165922,
@@ -7663,35 +7656,35 @@
    "end": 1786767481,
    "title": "Just take it \u211616",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "ZOQL4U": {
    "msg": "1537679849802436701",
    "end": 1786767242,
    "title": "Slugma now #5-6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5D9LQI": {
    "msg": "1537679856006078505",
    "end": 1786767241,
    "title": "I got linux",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7F4VN5": {
    "msg": "1537679862528221215",
    "end": 1786767001,
    "title": "Day 59-60 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M3P11S": {
    "msg": "1537679869272522784",
    "end": 1786766822,
    "title": "Day 64-65 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PBUTYZ": {
    "msg": "1537687446282702930",
@@ -7740,21 +7733,21 @@
    "end": 1786768141,
    "title": "The not so daily dose of potassium #9",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "WAD1QM": {
    "msg": "1537687501244989440",
    "end": 1786768081,
    "title": "LITTLE BIG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PF0657": {
    "msg": "1537687510216613958",
    "end": 1786768081,
    "title": "Graveyard Raffle (#12)",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "BLUMP3": {
    "msg": "1537702530203525122",
@@ -8048,7 +8041,7 @@
    "end": 1786768081,
    "title": "One winner as requested",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "I21MKH": {
    "msg": "1537868651326214164",
@@ -8433,6 +8426,20 @@
    "end": 1786851002,
    "title": "Raffle #2 + challenge update.",
    "items": 8,
+   "ended": false
+  },
+  "LTE4E1": {
+   "msg": "1538042218164781188",
+   "end": 1786853101,
+   "title": "rufleee",
+   "items": 1,
+   "ended": false
+  },
+  "GUSX9H": {
+   "msg": "1538042224401580174",
+   "end": 1786852620,
+   "title": "Recorded Warning",
+   "items": 1,
    "ended": false
   }
  },
