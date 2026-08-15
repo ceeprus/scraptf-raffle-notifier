@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "K2UMR9": {
-   "msg": "1535282947735949456",
-   "end": 1786196161,
-   "title": "What's the point of bein' rich when you wake up alone?",
-   "items": 1,
-   "ended": true
-  },
   "MNW3B2": {
    "msg": "1535294170271457341",
    "end": 1786199101,
@@ -8271,6 +8264,27 @@
    "msg": "1538178116147749024",
    "end": 1786842481,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IXUMX6": {
+   "msg": "1538182875952976003",
+   "end": 1786887661,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "IIVP62": {
+   "msg": "1538182886057050184",
+   "end": 1786887482,
+   "title": "Hoi!",
+   "items": 20,
+   "ended": false
+  },
+  "K3ROO4": {
+   "msg": "1538182892507893892",
+   "end": 1786843800,
+   "title": "[DAY 12] Scrap tf HG",
    "items": 1,
    "ended": false
   }
