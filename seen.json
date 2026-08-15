@@ -70,25 +70,11 @@
    "items": 10,
    "ended": false
   },
-  "X9DGFU": {
-   "msg": "1535264010432151622",
-   "end": 1786191781,
-   "title": "Fanumstein Rizzberg???",
-   "items": 1,
-   "ended": true
-  },
   "1NA3NS": {
    "msg": "1535271561559539783",
    "end": 1786192862,
    "title": "Bau! Bau!",
    "items": 18,
-   "ended": true
-  },
-  "RK606X": {
-   "msg": "1535271569750761583",
-   "end": 1786192021,
-   "title": "Hii :3     This is my third raffle, wow",
-   "items": 2,
    "ended": true
   },
   "A42678": {
@@ -7649,7 +7635,7 @@
    "end": 1786797001,
    "title": "HELP ME!!!",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "6PSV5C": {
    "msg": "1537808241755693196",
