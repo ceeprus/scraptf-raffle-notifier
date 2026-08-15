@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "ZCHELZ": {
-   "msg": "1535241376722059315",
-   "end": 1786186022,
-   "title": "#20",
-   "items": 1,
-   "ended": true
-  },
   "L81VSQ": {
    "msg": "1535246307978125314",
    "end": 1786187401,
@@ -88,27 +81,6 @@
    "msg": "1535246321445769297",
    "end": 1786186981,
    "title": "#22",
-   "items": 1,
-   "ended": true
-  },
-  "SPSXQC": {
-   "msg": "1535246327322120303",
-   "end": 1786186802,
-   "title": "Tyler The Finn",
-   "items": 1,
-   "ended": true
-  },
-  "U7G9AE": {
-   "msg": "1535246333538082828",
-   "end": 1786186800,
-   "title": "The sky had a baby!!",
-   "items": 1,
-   "ended": true
-  },
-  "C2PDK6": {
-   "msg": "1535246340744020053",
-   "end": 1786186741,
-   "title": "#21",
    "items": 1,
    "ended": true
   },
@@ -7663,21 +7635,21 @@
    "end": 1786791600,
    "title": "That beagle thinks he's so high and mighty!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9V8BMO": {
    "msg": "1537778035485442098",
    "end": 1786791422,
    "title": "Where is Sandvich?",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "MXG9JU": {
    "msg": "1537778043857412186",
    "end": 1786791361,
    "title": "Hi guys i need your help!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "V22A5W": {
    "msg": "1537793116646416495",
