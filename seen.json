@@ -70,45 +70,10 @@
    "items": 10,
    "ended": false
   },
-  "A42678": {
-   "msg": "1535279068784758885",
-   "end": 1786195141,
-   "title": "hi lol",
-   "items": 1,
-   "ended": true
-  },
-  "AZ3JM2": {
-   "msg": "1535279076170932296",
-   "end": 1786194901,
-   "title": "Fanumstein Rizzberg",
-   "items": 1,
-   "ended": true
-  },
-  "639WTL": {
-   "msg": "1535279083481727006",
-   "end": 1786194809,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "P64CSJ": {
-   "msg": "1535279089651421274",
-   "end": 1786194542,
-   "title": "Logitech MouseMan Serial raffle",
-   "items": 1,
-   "ended": true
-  },
   "K2UMR9": {
    "msg": "1535282947735949456",
    "end": 1786196161,
    "title": "What's the point of bein' rich when you wake up alone?",
-   "items": 1,
-   "ended": true
-  },
-  "IW7GTG": {
-   "msg": "1535282954614472724",
-   "end": 1786195561,
-   "title": "slugma posting",
    "items": 1,
    "ended": true
   },
@@ -7992,7 +7957,7 @@
    "end": 1786799461,
    "title": "My third raffle or is it \ud83e\udd14\ud83e\udd14",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "6M43TW": {
    "msg": "1537996943450578994",
@@ -8299,6 +8264,13 @@
    "msg": "1538171839811952672",
    "end": 1786885200,
    "title": "08/15/2006",
+   "items": 1,
+   "ended": false
+  },
+  "B6Z4H3": {
+   "msg": "1538178116147749024",
+   "end": 1786842481,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
