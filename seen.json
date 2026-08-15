@@ -70,32 +70,11 @@
    "items": 10,
    "ended": false
   },
-  "0MPBPX": {
-   "msg": "1535128057428451481",
-   "end": 1786159500,
-   "title": "Bring To Heel",
-   "items": 1,
-   "ended": true
-  },
-  "XUA08N": {
-   "msg": "1535128064399384681",
-   "end": 1786159021,
-   "title": "Caf\u00e9 Crit-A-Coffee #1751",
-   "items": 10,
-   "ended": true
-  },
   "HNBVT3": {
    "msg": "1535131214485266474",
    "end": 1786159921,
    "title": "just some stuff i need to get rid of",
    "items": 10,
-   "ended": true
-  },
-  "WMSD4F": {
-   "msg": "1535131222823673857",
-   "end": 1786159681,
-   "title": "1000 public raffles joined, won 5.",
-   "items": 3,
    "ended": true
   },
   "4P3Y0Q": {
@@ -7670,7 +7649,7 @@
    "end": 1786764000,
    "title": "Getting Somewhere",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YGYET2": {
    "msg": "1537672366769971210",
@@ -8432,6 +8411,13 @@
    "msg": "1538021987325050911",
    "end": 1786849261,
    "title": "The world needs more Reindoonicorns! (#591)",
+   "items": 1,
+   "ended": false
+  },
+  "2M721R": {
+   "msg": "1538027119865757786",
+   "end": 1786850101,
+   "title": "something awesome happened",
    "items": 1,
    "ended": false
   }
