@@ -70,39 +70,11 @@
    "items": 10,
    "ended": false
   },
-  "YW91WW": {
-   "msg": "1535316865562452008",
-   "end": 1786204261,
-   "title": "TODAY IS MY SCRAPPYVERSARY!!!",
-   "items": 11,
-   "ended": true
-  },
-  "G9MNFI": {
-   "msg": "1535316872939962409",
-   "end": 1786203781,
-   "title": "W Fanumstein Rizzberg",
-   "items": 2,
-   "ended": true
-  },
   "63O4U8": {
    "msg": "1535324369943797791",
    "end": 1786205102,
    "title": "Give me songs!!!",
    "items": 1,
-   "ended": true
-  },
-  "07LXWQ": {
-   "msg": "1535324378127007776",
-   "end": 1786204802,
-   "title": "Fly birdie, fly! Oh yeah and beer",
-   "items": 7,
-   "ended": true
-  },
-  "DRZPKE": {
-   "msg": "1535324385945321504",
-   "end": 1786204800,
-   "title": "Weekly  #101",
-   "items": 4,
    "ended": true
   },
   "TSV54J": {
@@ -544,13 +516,6 @@
    "end": 1786269241,
    "title": "Osmosis",
    "items": 1,
-   "ended": true
-  },
-  "9BC9RQ": {
-   "msg": "1535588679203164282",
-   "end": 1786204201,
-   "title": "1st raffle",
-   "items": 3,
    "ended": true
   },
   "WZ01CN": {
@@ -7551,14 +7516,14 @@
    "end": 1786809600,
    "title": "Scrap.tf Birthdays - 14 August",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P82O4A": {
    "msg": "1537853535037825124",
    "end": 1786809600,
    "title": "Weekly  #102",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "IUP5XY": {
    "msg": "1537853547742503022",
@@ -8328,6 +8293,27 @@
    "end": 1786893961,
    "title": "333,333 Vaccinator Milestone Giveaway! (2 of 3) (Rerun)",
    "items": 18,
+   "ended": false
+  },
+  "FAKDEU": {
+   "msg": "1538215908638461992",
+   "end": 1786895461,
+   "title": "question",
+   "items": 1,
+   "ended": false
+  },
+  "Z4MTGI": {
+   "msg": "1538215915051688058",
+   "end": 1786895341,
+   "title": "Drawing #2",
+   "items": 1,
+   "ended": false
+  },
+  "AY4MT1": {
+   "msg": "1538215921196466328",
+   "end": 1786895281,
+   "title": "I HAVE BEEN ON SCRAP FOR 1 YEAR",
+   "items": 3,
    "ended": false
   }
  },
