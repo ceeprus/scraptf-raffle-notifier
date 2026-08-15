@@ -70,27 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "NWPRFJ": {
-   "msg": "1535211150826799208",
-   "end": 1786179361,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "FGOQL7": {
-   "msg": "1535211157839679539",
-   "end": 1786179241,
-   "title": "Crafted hat",
-   "items": 1,
-   "ended": true
-  },
-  "8I39MK": {
-   "msg": "1535211163975950358",
-   "end": 1786179182,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "KVVE5R": {
    "msg": "1535232785785163806",
    "end": 1786183861,
@@ -523,13 +502,6 @@
    "end": 1786223401,
    "title": "Sentimental Value + Help me Powerscale",
    "items": 3,
-   "ended": true
-  },
-  "TMKWPJ": {
-   "msg": "1535399601635467315",
-   "end": 1786179602,
-   "title": "!uaB !uaB",
-   "items": 2,
    "ended": true
   },
   "HV4B3P": {
@@ -8069,7 +8041,7 @@
    "end": 1786784400,
    "title": "[DAY 11] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N5E2SK": {
    "msg": "1537933088531685459",
@@ -8370,7 +8342,7 @@
    "end": 1786783922,
    "title": "I love insomnia",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "WD0E76": {
    "msg": "1538092443486912562",
