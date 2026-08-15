@@ -77,27 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "KD06DV": {
-   "msg": "1535373209627787348",
-   "end": 1786217839,
-   "title": "Equestria 4ever",
-   "items": 53,
-   "ended": true
-  },
-  "FS67GP": {
-   "msg": "1535373216766238861",
-   "end": 1786217462,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "SFAJY4": {
-   "msg": "1535377248486555758",
-   "end": 1786218061,
-   "title": "Who's the best quintuplet?",
-   "items": 1,
-   "ended": true
-  },
   "B6UTBA": {
    "msg": "1535384822053339218",
    "end": 1786219200,
@@ -7544,14 +7523,14 @@
    "end": 1786822382,
    "title": "slugma chain raffle #7",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GB1J6U": {
    "msg": "1537913944113684521",
    "end": 1786822321,
    "title": "Guys",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "E2OHMX": {
    "msg": "1537921446960038019",
@@ -8314,6 +8293,27 @@
    "end": 1786906682,
    "title": "hey",
    "items": 20,
+   "ended": false
+  },
+  "XVRPH2": {
+   "msg": "1538271598614941707",
+   "end": 1786908721,
+   "title": "Raffle 2, Take em all",
+   "items": 19,
+   "ended": false
+  },
+  "OOXQPJ": {
+   "msg": "1538271605304725578",
+   "end": 1786908601,
+   "title": "a bit of noise never killed anyone #43",
+   "items": 2,
+   "ended": false
+  },
+  "705KN7": {
+   "msg": "1538271612325994557",
+   "end": 1786908421,
+   "title": "I'll be a better medic!",
+   "items": 1,
    "ended": false
   }
  },
