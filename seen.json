@@ -7537,7 +7537,7 @@
    "end": 1786828921,
    "title": "I got my 1st Strange",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZD7NMF": {
    "msg": "1537947279267467394",
@@ -8335,6 +8335,13 @@
    "end": 1786913521,
    "title": "[MVM] Graveyard Raffle (#13)",
    "items": 25,
+   "ended": false
+  },
+  "DSOP77": {
+   "msg": "1538298911058296934",
+   "end": 1786830781,
+   "title": "\ud83d\udc9aTake away my noisemakers#17\ud83d\udc9a",
+   "items": 49,
    "ended": false
   }
  },
