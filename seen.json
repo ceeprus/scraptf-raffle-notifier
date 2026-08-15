@@ -70,34 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "3HB12W": {
-   "msg": "1535177103878656031",
-   "end": 1786171141,
-   "title": "Day 1 of asking for Slugma Chain emoticon",
-   "items": 150,
-   "ended": true
-  },
-  "AUDWTM": {
-   "msg": "1535177109880709145",
-   "end": 1786170841,
-   "title": "Waluigi time",
-   "items": 2,
-   "ended": true
-  },
-  "RTOJQV": {
-   "msg": "1535177115715117077",
-   "end": 1786170721,
-   "title": "Day 53-54 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "2Y1OP4": {
-   "msg": "1535180954971152509",
-   "end": 1786171682,
-   "title": "adhd raffle",
-   "items": 3,
-   "ended": true
-  },
   "B8T7WM": {
    "msg": "1535188472195981425",
    "end": 1786172941,
@@ -110,13 +82,6 @@
    "end": 1786172762,
    "title": "Poemas mios y una sugerencia de musica #2",
    "items": 7,
-   "ended": true
-  },
-  "T8UP9K": {
-   "msg": "1535188486213210133",
-   "end": 1786172281,
-   "title": "Hi, I'm PEPERONI684, and this is my first lottery.",
-   "items": 8,
    "ended": true
   },
   "3CTLQ0": {
@@ -537,13 +502,6 @@
    "end": 1786211281,
    "title": "30th anniversary quakecon",
    "items": 30,
-   "ended": true
-  },
-  "8S6ZXD": {
-   "msg": "1535357226666037381",
-   "end": 1786170782,
-   "title": "Random Stuff",
-   "items": 13,
    "ended": true
   },
   "GQ8XNL": {
@@ -7726,7 +7684,7 @@
    "end": 1786776061,
    "title": "I'm now an irl pilot",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "UYC6FE": {
    "msg": "1537715417244631091",
@@ -8447,6 +8405,20 @@
    "end": 1786817461,
    "title": "Raffling Scrap Till I'm Out #1004 (Late raffle)",
    "items": 1,
+   "ended": false
+  },
+  "34SU9R": {
+   "msg": "1538080018754838548",
+   "end": 1786863122,
+   "title": "BIRTHDAYYYY 22",
+   "items": 150,
+   "ended": false
+  },
+  "AGD27R": {
+   "msg": "1538080025608462388",
+   "end": 1786783922,
+   "title": "I love insomnia",
+   "items": 2,
    "ended": false
   }
  },
