@@ -84,20 +84,6 @@
    "items": 2,
    "ended": true
   },
-  "CIXEYW": {
-   "msg": "1535369669144482003",
-   "end": 1786215841,
-   "title": "gotta love free stuff",
-   "items": 30,
-   "ended": true
-  },
-  "VO94FN": {
-   "msg": "1535369675050057829",
-   "end": 1786215722,
-   "title": "solemn vow",
-   "items": 1,
-   "ended": true
-  },
   "KD06DV": {
    "msg": "1535373209627787348",
    "end": 1786217839,
@@ -8314,6 +8300,34 @@
    "end": 1786905361,
    "title": "another unrelated gifted items(and huntsman)",
    "items": 4,
+   "ended": false
+  },
+  "Z0SV50": {
+   "msg": "1538264835542880309",
+   "end": 1786907101,
+   "title": "Let's talk about maps! (Raffle #2)",
+   "items": 1,
+   "ended": false
+  },
+  "SYLMN0": {
+   "msg": "1538264844841648280",
+   "end": 1786906981,
+   "title": "Do you want a key? Me too.",
+   "items": 1,
+   "ended": false
+  },
+  "I0RQ7P": {
+   "msg": "1538264856208085133",
+   "end": 1786906921,
+   "title": "Nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnoisers",
+   "items": 182,
+   "ended": false
+  },
+  "N11UL6": {
+   "msg": "1538264880736641096",
+   "end": 1786906682,
+   "title": "hey",
+   "items": 20,
    "ended": false
   }
  },
