@@ -7544,7 +7544,7 @@
    "end": 1786824542,
    "title": "My first raffle on this account !",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "7IOKAX": {
    "msg": "1537927129361027292",
@@ -8320,6 +8320,34 @@
    "msg": "1538276295153160364",
    "end": 1786909021,
    "title": "Make some",
+   "items": 1,
+   "ended": false
+  },
+  "8KLAKZ": {
+   "msg": "1538279222823354448",
+   "end": 1786867200,
+   "title": "[Fallen Tributes/Night 12] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "RPATRQ": {
+   "msg": "1538279229572128788",
+   "end": 1786910400,
+   "title": "We need more Engineer Mains! | #005",
+   "items": 6,
+   "ended": false
+  },
+  "D7YSQC": {
+   "msg": "1538279239634255872",
+   "end": 1786910400,
+   "title": "Equestria Forever",
+   "items": 53,
+   "ended": false
+  },
+  "2CQ60S": {
+   "msg": "1538279245854285945",
+   "end": 1786910222,
+   "title": "Noise",
    "items": 1,
    "ended": false
   }
