@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "6XEA7W": {
-   "msg": "1535097846540279859",
-   "end": 1786151522,
-   "title": "opened some more spooky boxes",
-   "items": 22,
-   "ended": true
-  },
   "WGL435": {
    "msg": "1535105440545898637",
    "end": 1786153862,
@@ -8405,6 +8398,34 @@
    "end": 1786840801,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "TPX4YN": {
+   "msg": "1537996929240404058",
+   "end": 1786843261,
+   "title": "This is what I come back to?",
+   "items": 1,
+   "ended": false
+  },
+  "EVYTE5": {
+   "msg": "1537996936106475530",
+   "end": 1786799461,
+   "title": "My third raffle or is it \ud83e\udd14\ud83e\udd14",
+   "items": 3,
+   "ended": false
+  },
+  "6M43TW": {
+   "msg": "1537996943450578994",
+   "end": 1786842000,
+   "title": "Reminder to eat n' drink water if ye haven't yet #272",
+   "items": 5,
+   "ended": false
+  },
+  "BAZ3UC": {
+   "msg": "1537996950509719593",
+   "end": 1786842000,
+   "title": "17th Birthday yippee  \ud83c\udf89",
+   "items": 10,
    "ended": false
   }
  },
