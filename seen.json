@@ -77,20 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "SR9BVM": {
-   "msg": "1535422553055563907",
-   "end": 1786229282,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JY9WHH": {
-   "msg": "1535430097992155246",
-   "end": 1786230000,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "2GQQUA": {
    "msg": "1535436308346970153",
    "end": 1786233121,
@@ -369,13 +355,6 @@
    "end": 1786269781,
    "title": "Forgotten Diamonds #1",
    "items": 1,
-   "ended": true
-  },
-  "VH67E2": {
-   "msg": "1535603000993914900",
-   "end": 1786229341,
-   "title": "garage giveaway vol.2",
-   "items": 12,
    "ended": true
   },
   "KTK0H3": {
@@ -7551,7 +7530,7 @@
    "end": 1786834800,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B4PZZ9": {
    "msg": "1537966735452414004",
@@ -8321,6 +8300,34 @@
    "end": 1786917600,
    "title": "checkup #91 | Busy...",
    "items": 1,
+   "ended": false
+  },
+  "4H0MTQ": {
+   "msg": "1538321604420051034",
+   "end": 1786921082,
+   "title": "epic man didnt scam anyone",
+   "items": 1,
+   "ended": false
+  },
+  "987RGO": {
+   "msg": "1538321611676196945",
+   "end": 1786920661,
+   "title": "the  is coming \ud83d\ude02",
+   "items": 49,
+   "ended": false
+  },
+  "JOH7W7": {
+   "msg": "1538321619888377988",
+   "end": 1786920481,
+   "title": "My favourite characters in JJK (i dunno if spoilers)",
+   "items": 2,
+   "ended": false
+  },
+  "F2BYTL": {
+   "msg": "1538321625714393129",
+   "end": 1786920061,
+   "title": "Grooviest Tracks #795",
+   "items": 2,
    "ended": false
   }
  },
