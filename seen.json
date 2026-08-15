@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "VR1B0S": {
-   "msg": "1535312868415901698",
-   "end": 1786203000,
-   "title": "The Favorites of Music #269 & #270 + Poll",
-   "items": 1,
-   "ended": true
-  },
   "YW91WW": {
    "msg": "1535316865562452008",
    "end": 1786204261,
@@ -565,13 +558,6 @@
    "end": 1786268341,
    "title": "heya guys",
    "items": 5,
-   "ended": true
-  },
-  "HDNCCD": {
-   "msg": "1535588693258149958",
-   "end": 1786203002,
-   "title": "Head",
-   "items": 3,
    "ended": true
   },
   "K2E12Z": {
@@ -7544,7 +7530,7 @@
    "end": 1786807801,
    "title": "[air]",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T1F44C": {
    "msg": "1537845936167067709",
@@ -8307,6 +8293,13 @@
    "end": 1786827421,
    "title": "Update on the \"Free CS2 Stickers\" raffle",
    "items": 1,
+   "ended": false
+  },
+  "WRXOI0": {
+   "msg": "1538208325169188935",
+   "end": 1786893721,
+   "title": "333,333 Vaccinator Milestone Giveaway! (1 of 3) (Rerun)",
+   "items": 18,
    "ended": false
   }
  },
