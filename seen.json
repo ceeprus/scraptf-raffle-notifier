@@ -70,27 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "1TKL78": {
-   "msg": "1535256480981196903",
-   "end": 1786189501,
-   "title": "Have you ever seen me on 2 Fort?",
-   "items": 3,
-   "ended": true
-  },
-  "4G7D3A": {
-   "msg": "1535257718175178812",
-   "end": 1786190400,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
-  "KLIQQM": {
-   "msg": "1535257726685290566",
-   "end": 1786190400,
-   "title": "Untitled raffle",
-   "items": 6,
-   "ended": true
-  },
   "X9DGFU": {
    "msg": "1535264010432151622",
    "end": 1786191781,
@@ -7663,7 +7642,7 @@
    "end": 1786795200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0SZF07": {
    "msg": "1537803832480768050",
@@ -8216,7 +8195,7 @@
    "end": 1786794901,
    "title": "hai hello my first raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "RQ9W1M": {
    "msg": "1538070147128885258",
@@ -8341,6 +8320,13 @@
    "msg": "1538147919289385072",
    "end": 1786879441,
    "title": "Question",
+   "items": 1,
+   "ended": false
+  },
+  "ZS08XU": {
+   "msg": "1538155500737142924",
+   "end": 1786880281,
+   "title": "Daily Brass Beast #539",
    "items": 1,
    "ended": false
   }
