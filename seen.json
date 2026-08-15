@@ -84,27 +84,6 @@
    "items": 29,
    "ended": true
   },
-  "PWVTI0": {
-   "msg": "1535339476845600770",
-   "end": 1786209061,
-   "title": "a bit of noise never killed anyone #42",
-   "items": 2,
-   "ended": true
-  },
-  "ANEWAR": {
-   "msg": "1535339483690442792",
-   "end": 1786208881,
-   "title": "birthdayposting",
-   "items": 3,
-   "ended": true
-  },
-  "41ZIBC": {
-   "msg": "1535339489373724672",
-   "end": 1786208881,
-   "title": "Road to Raffle # 1,169,420",
-   "items": 1,
-   "ended": true
-  },
   "JP1K94": {
    "msg": "1535342008493678752",
    "end": 1786210381,
@@ -7530,7 +7509,7 @@
    "end": 1786813621,
    "title": "Bison",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "3PDAER": {
    "msg": "1537874516334739506",
@@ -8307,6 +8286,20 @@
    "end": 1786898461,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1506 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 15,
+   "ended": false
+  },
+  "VAI6R9": {
+   "msg": "1538234160290992330",
+   "end": 1786899601,
+   "title": "First raffle, rando stuff!",
+   "items": 50,
+   "ended": false
+  },
+  "Z6NSHJ": {
+   "msg": "1538234168016896091",
+   "end": 1786899600,
+   "title": "Daily raffle until TF2 gets a major update #592",
+   "items": 3,
    "ended": false
   }
  },
