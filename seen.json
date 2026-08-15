@@ -7754,7 +7754,7 @@
    "end": 1786773541,
    "title": "my head hurts",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7GUEL0": {
    "msg": "1537715408168026192",
@@ -8468,6 +8468,13 @@
    "end": 1786858142,
    "title": "Day 8 of asking for Slugma Chain emoticon",
    "items": 3,
+   "ended": false
+  },
+  "MBOAJE": {
+   "msg": "1538064926663376897",
+   "end": 1786794901,
+   "title": "hai hello my first raffle",
+   "items": 4,
    "ended": false
   }
  },
