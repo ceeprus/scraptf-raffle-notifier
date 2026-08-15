@@ -7523,14 +7523,14 @@
    "end": 1786831501,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7UWAEO": {
    "msg": "1537947286666092566",
    "end": 1786831381,
    "title": "I thought",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6WTP3E": {
    "msg": "1537951629733793895",
@@ -7551,7 +7551,7 @@
    "end": 1786831621,
    "title": "Some good music recommendation",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "JWHF7C": {
    "msg": "1537962345978929232",
@@ -8322,6 +8322,13 @@
    "title": "\ud83d\udc9aTake away my noisemakers#17\ud83d\udc9a",
    "items": 49,
    "ended": true
+  },
+  "LKMW56": {
+   "msg": "1538309319693701180",
+   "end": 1786917600,
+   "title": "checkup #91 | Busy...",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
