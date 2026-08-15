@@ -7663,14 +7663,14 @@
    "end": 1786762381,
    "title": "Caf\u00e9 Crit-A-Coffee #1757",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "RO5E6U": {
    "msg": "1537657283520110652",
    "end": 1786761901,
    "title": "i'm tired of time traveling",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GO8XRK": {
    "msg": "1537664803496271963",
@@ -8419,6 +8419,13 @@
    "end": 1786843681,
    "title": "What was the strangest username you  guys have ever seen in tf2?",
    "items": 3,
+   "ended": false
+  },
+  "SQNN79": {
+   "msg": "1538019630142980127",
+   "end": 1786847762,
+   "title": "Do not make my mistake",
+   "items": 2,
    "ended": false
   }
  },
