@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "GVD98K": {
-   "msg": "1535157529322070028",
-   "end": 1786165922,
-   "title": "Wow my last raffle was 6 years ago",
-   "items": 2,
-   "ended": true
-  },
   "AMWSPJ": {
    "msg": "1535165848438833193",
    "end": 1786167122,
@@ -8468,6 +8461,13 @@
    "end": 1786854541,
    "title": "What's it take to call your brother",
    "items": 1,
+   "ended": false
+  },
+  "9FOICT": {
+   "msg": "1538053949687332894",
+   "end": 1786856942,
+   "title": "Raffle Log #99",
+   "items": 2,
    "ended": false
   }
  },
