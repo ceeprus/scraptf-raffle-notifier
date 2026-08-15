@@ -7621,21 +7621,21 @@
    "end": 1786795681,
    "title": "Hii :3     This is my eighth raffle, wow",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "WZYG1X": {
    "msg": "1537800644331839560",
    "end": 1786795561,
    "title": "Untitled raffle",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "M3LB1Z": {
    "msg": "1537800653466894407",
    "end": 1786795261,
    "title": "i can't think of a title for this raffle 25\u2122",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "89IMEO": {
    "msg": "1537800660462862397",
@@ -8327,6 +8327,13 @@
    "msg": "1538155500737142924",
    "end": 1786880281,
    "title": "Daily Brass Beast #539",
+   "items": 1,
+   "ended": false
+  },
+  "GPY6ZL": {
+   "msg": "1538160333800210504",
+   "end": 1786881600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
