@@ -70,25 +70,11 @@
    "items": 10,
    "ended": false
   },
-  "HNBVT3": {
-   "msg": "1535131214485266474",
-   "end": 1786159921,
-   "title": "just some stuff i need to get rid of",
-   "items": 10,
-   "ended": true
-  },
   "4P3Y0Q": {
    "msg": "1535143197427368007",
    "end": 1786161901,
    "title": "YOU HAVE ENTERED",
    "items": 2,
-   "ended": true
-  },
-  "ALC8DG": {
-   "msg": "1535143206981865563",
-   "end": 1786161600,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1498 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 7,
    "ended": true
   },
   "GVD98K": {
@@ -7656,7 +7642,7 @@
    "end": 1786765562,
    "title": "Christmas is coming!!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "QV56FL": {
    "msg": "1537672375091331124",
@@ -8419,6 +8405,34 @@
    "end": 1786850101,
    "title": "something awesome happened",
    "items": 1,
+   "ended": false
+  },
+  "AGJ6OP": {
+   "msg": "1538034729641582662",
+   "end": 1786852201,
+   "title": "I'm back at TF2",
+   "items": 1,
+   "ended": false
+  },
+  "IXCX4P": {
+   "msg": "1538034736910307489",
+   "end": 1786852081,
+   "title": "I'm quitting TF2",
+   "items": 1,
+   "ended": false
+  },
+  "TUKLE0": {
+   "msg": "1538034743356952617",
+   "end": 1786851602,
+   "title": "Hello! This raffle is just a jumble of random thoughts and is minimally proofread, so they might make sense or not and do need context to understand Enjoy!",
+   "items": 1,
+   "ended": false
+  },
+  "G1X4D2": {
+   "msg": "1538034750139146290",
+   "end": 1786851002,
+   "title": "Raffle #2 + challenge update.",
+   "items": 8,
    "ended": false
   }
  },
