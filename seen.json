@@ -70,20 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "SEY0GX": {
-   "msg": "1535233790098538516",
-   "end": 1786184641,
-   "title": "Gimme your sandwich",
-   "items": 1,
-   "ended": true
-  },
-  "DOU8Q3": {
-   "msg": "1535233797228859422",
-   "end": 1786184401,
-   "title": "I'm still The marsupial asking for Free Grabli304 Chain emoticon",
-   "items": 6,
-   "ended": true
-  },
   "ZCHELZ": {
    "msg": "1535241376722059315",
    "end": 1786186022,
@@ -8383,6 +8369,13 @@
    "msg": "1538128590590451744",
    "end": 1786873981,
    "title": "My first humble raffle",
+   "items": 1,
+   "ended": false
+  },
+  "53K7ZQ": {
+   "msg": "1538132813247938560",
+   "end": 1786875721,
+   "title": "I've changed my profile entirely.",
    "items": 1,
    "ended": false
   }
