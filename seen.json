@@ -98,13 +98,6 @@
    "items": 1,
    "ended": true
   },
-  "A54UKE": {
-   "msg": "1535279095800397979",
-   "end": 1786194242,
-   "title": "Ref",
-   "items": 1,
-   "ended": true
-  },
   "K2UMR9": {
    "msg": "1535282947735949456",
    "end": 1786196161,
@@ -8299,6 +8292,13 @@
    "msg": "1538170607605391380",
    "end": 1786884061,
    "title": "hello my name is Epic man with epic face.",
+   "items": 1,
+   "ended": false
+  },
+  "47QDUD": {
+   "msg": "1538171839811952672",
+   "end": 1786885200,
+   "title": "08/15/2006",
    "items": 1,
    "ended": false
   }
