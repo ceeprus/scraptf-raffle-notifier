@@ -7691,35 +7691,35 @@
    "end": 1786769521,
    "title": "Raffle Log #98",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "M84ZGV": {
    "msg": "1537687456214679632",
    "end": 1786769161,
    "title": "Wario ware Glorp Juice",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "30NKYO": {
    "msg": "1537687465865904230",
    "end": 1786769101,
    "title": "Hale's Own Trials: Persian Persuader: Day 6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9HMII8": {
    "msg": "1537687472161431655",
    "end": 1786768681,
    "title": "give it a spin",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MDJOOY": {
    "msg": "1537687478813851698",
    "end": 1786768562,
    "title": "Slugma Chain raffle #6-7 (OWO)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FE9Q99": {
    "msg": "1537687485407039498",
@@ -8439,6 +8439,34 @@
    "msg": "1538042224401580174",
    "end": 1786852620,
    "title": "Recorded Warning",
+   "items": 1,
+   "ended": false
+  },
+  "Z4NMOA": {
+   "msg": "1538048114366095400",
+   "end": 1786855381,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "M8TRTR": {
+   "msg": "1538048120787832882",
+   "end": 1786854914,
+   "title": "Calling some old heads (respectfully) here in the Scap.tf community",
+   "items": 3,
+   "ended": false
+  },
+  "VQAAYH": {
+   "msg": "1538048129067122749",
+   "end": 1786854600,
+   "title": "Days",
+   "items": 80,
+   "ended": false
+  },
+  "SAFK6U": {
+   "msg": "1538048135312445460",
+   "end": 1786854541,
+   "title": "What's it take to call your brother",
    "items": 1,
    "ended": false
   }
