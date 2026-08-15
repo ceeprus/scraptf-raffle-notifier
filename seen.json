@@ -630,13 +630,6 @@
    "items": 1,
    "ended": true
   },
-  "811B9N": {
-   "msg": "1535707835076448387",
-   "end": 1786232282,
-   "title": "!",
-   "items": 5,
-   "ended": true
-  },
   "30RU06": {
    "msg": "1535707848305016956",
    "end": 1786296841,
@@ -7544,7 +7537,7 @@
    "end": 1786837081,
    "title": "333,333 Vaccinator Milestone Giveaway! (1 of 3)",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "BU2X1Y": {
    "msg": "1537970181995892766",
@@ -7572,7 +7565,7 @@
    "end": 1786837262,
    "title": "333,333 Vaccinator Milestone Giveaway! (2 of 3)",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "LXK358": {
    "msg": "1537984898290290758",
@@ -8342,6 +8335,20 @@
    "end": 1786839601,
    "title": "Something",
    "items": 1,
+   "ended": false
+  },
+  "UYN948": {
+   "msg": "1538331854351114361",
+   "end": 1786923061,
+   "title": "CAPITAL TITLE",
+   "items": 4,
+   "ended": false
+  },
+  "SJQGS3": {
+   "msg": "1538331863783968789",
+   "end": 1786879741,
+   "title": "sans tf2",
+   "items": 10,
    "ended": false
   }
  },
