@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "AMWSPJ": {
-   "msg": "1535165848438833193",
-   "end": 1786167122,
-   "title": "Daily Black Boxes #156",
-   "items": 2,
-   "ended": true
-  },
   "NIDX02": {
    "msg": "1535173359870943323",
    "end": 1786169461,
@@ -7740,7 +7733,7 @@
    "end": 1786772401,
    "title": "What's your dream loadout?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "EWF9GP": {
    "msg": "1537710071633682542",
@@ -8468,6 +8461,13 @@
    "end": 1786857661,
    "title": "henlo",
    "items": 20,
+   "ended": false
+  },
+  "E0T45D": {
+   "msg": "1538061787168247819",
+   "end": 1786858142,
+   "title": "Day 8 of asking for Slugma Chain emoticon",
+   "items": 3,
    "ended": false
   }
  },
