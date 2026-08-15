@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "B6UTBA": {
-   "msg": "1535384822053339218",
-   "end": 1786219200,
-   "title": "A Refined a day keeps the doctor away! #31: THE \u00dcBERGEDDON!",
-   "items": 8,
-   "ended": true
-  },
   "DQSOJ7": {
    "msg": "1535392364338610267",
    "end": 1786221061,
@@ -7502,21 +7495,21 @@
    "end": 1786824000,
    "title": "Equestria 4ever",
    "items": 54,
-   "ended": false
+   "ended": true
   },
   "7GGULP": {
    "msg": "1537913922068418560",
    "end": 1786824000,
    "title": "We need more Engineer Mains! | #004",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "SYS0FT": {
    "msg": "1537913929332695060",
    "end": 1786823581,
    "title": "Does anyone want to trade for my unwanted engineer hat for 3 refined metal i really need the  urgently",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P1UVNB": {
    "msg": "1537913937574629446",
@@ -7901,7 +7894,7 @@
    "end": 1786824000,
    "title": "[Fallen Tributes/Night 11] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IKATCW": {
    "msg": "1538095110859006042",
@@ -8313,6 +8306,20 @@
    "msg": "1538271612325994557",
    "end": 1786908421,
    "title": "I'll be a better medic!",
+   "items": 1,
+   "ended": false
+  },
+  "SJIVID": {
+   "msg": "1538276288932876428",
+   "end": 1786824902,
+   "title": "Piss",
+   "items": 1,
+   "ended": false
+  },
+  "RUGKXP": {
+   "msg": "1538276295153160364",
+   "end": 1786909021,
+   "title": "Make some",
    "items": 1,
    "ended": false
   }
