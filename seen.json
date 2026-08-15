@@ -70,13 +70,6 @@
    "items": 10,
    "ended": false
   },
-  "ZWHNNG": {
-   "msg": "1535112956298137600",
-   "end": 1786155001,
-   "title": "Special Delivery",
-   "items": 6,
-   "ended": true
-  },
   "0MPBPX": {
    "msg": "1535128057428451481",
    "end": 1786159500,
@@ -522,13 +515,6 @@
    "msg": "1535294205491159151",
    "end": 1786197661,
    "title": "unclaimed",
-   "items": 1,
-   "ended": true
-  },
-  "OJDO9V": {
-   "msg": "1535297883480268862",
-   "end": 1786156200,
-   "title": "[DAY 0.5] Scrap tf HG",
    "items": 1,
    "ended": true
   },
