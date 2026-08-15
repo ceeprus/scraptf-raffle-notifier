@@ -84,20 +84,6 @@
    "items": 3,
    "ended": true
   },
-  "HV4B3P": {
-   "msg": "1535399607566209064",
-   "end": 1786222800,
-   "title": "checkup #83 | a",
-   "items": 1,
-   "ended": true
-  },
-  "2X7I5N": {
-   "msg": "1535399613409005660",
-   "end": 1786222800,
-   "title": "it my burfday :)",
-   "items": 2,
-   "ended": true
-  },
   "K52I98": {
    "msg": "1535414976028876891",
    "end": 1786227901,
@@ -319,13 +305,6 @@
    "msg": "1535565514112372776",
    "end": 1786262400,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "EFK99C": {
-   "msg": "1535573553271808060",
-   "end": 1786222502,
-   "title": "Rocket jumper",
    "items": 1,
    "ended": true
   },
@@ -677,13 +656,6 @@
    "end": 1786294862,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1499 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 8,
-   "ended": true
-  },
-  "69JCN7": {
-   "msg": "1535701894591414303",
-   "end": 1786222802,
-   "title": "I have 34 tips",
-   "items": 1,
    "ended": true
   },
   "B5J884": {
@@ -7551,7 +7523,7 @@
    "end": 1786827600,
    "title": "checkup #90 |",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "94ORUM": {
    "msg": "1537933081107890217",
@@ -7565,7 +7537,7 @@
    "end": 1786827481,
    "title": "Daily Brass Beast #538",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HIKITW": {
    "msg": "1537936530696314930",
@@ -8097,7 +8069,7 @@
    "end": 1786827421,
    "title": "Update on the \"Free CS2 Stickers\" raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WRXOI0": {
    "msg": "1538208325169188935",
@@ -8356,6 +8328,20 @@
    "end": 1786869000,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "5QMYPX": {
+   "msg": "1538291395100413992",
+   "end": 1786913761,
+   "title": "Almost 100 Fallen Engineer Mains Milestone until Equestria gets a major Special Delivery of Slugma",
+   "items": 1,
+   "ended": false
+  },
+  "K85E69": {
+   "msg": "1538291406123307152",
+   "end": 1786913521,
+   "title": "[MVM] Graveyard Raffle (#13)",
+   "items": 25,
    "ended": false
   }
  },
