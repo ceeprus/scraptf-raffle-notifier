@@ -119,13 +119,6 @@
    "items": 8,
    "ended": true
   },
-  "B5J884": {
-   "msg": "1535701902254149724",
-   "end": 1786294800,
-   "title": "Daily raffle until TF2 gets a major update #585",
-   "items": 3,
-   "ended": true
-  },
   "30RU06": {
    "msg": "1535707848305016956",
    "end": 1786296841,
@@ -7467,14 +7460,14 @@
    "end": 1786899601,
    "title": "First raffle, rando stuff!",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "Z6NSHJ": {
    "msg": "1538234168016896091",
    "end": 1786899600,
    "title": "Daily raffle until TF2 gets a major update #592",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "OWUAEG": {
    "msg": "1538238502003671090",
