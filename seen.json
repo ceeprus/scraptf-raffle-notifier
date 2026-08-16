@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "BO5J6B": {
-   "msg": "1535686759587905706",
-   "end": 1786292581,
-   "title": "i have a dumb question",
-   "items": 1,
-   "ended": true
-  },
   "FNPY5K": {
    "msg": "1535694171405426790",
    "end": 1786293902,
@@ -7481,7 +7474,7 @@
    "end": 1786897441,
    "title": "Special Delivery",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "EEVL20": {
    "msg": "1538231000981700629",
