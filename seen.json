@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "M0K6QA": {
-   "msg": "1535640449681850539",
-   "end": 1786281361,
-   "title": "Free games",
-   "items": 2,
-   "ended": true
-  },
   "XCWLVV": {
    "msg": "1535649030603022557",
    "end": 1786283281,
@@ -600,13 +593,6 @@
    "end": 1786321981,
    "title": "Graveyard Raffle (#9)",
    "items": 7,
-   "ended": true
-  },
-  "LZSUX2": {
-   "msg": "1535822636087771136",
-   "end": 1786281302,
-   "title": "LOADOUT FOR MAIN SPIES  (a single extra weapon)",
-   "items": 8,
    "ended": true
   },
   "10LOTS": {
@@ -8209,6 +8195,13 @@
    "end": 1786971600,
    "title": "8 for 1 Sunday",
    "items": 8,
+   "ended": false
+  },
+  "E6CY4G": {
+   "msg": "1538540500829868133",
+   "end": 1786972622,
+   "title": "End of Line",
+   "items": 3,
    "ended": false
   }
  },
