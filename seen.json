@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "KST5Z3": {
-   "msg": "1535669646668206203",
-   "end": 1786287961,
-   "title": "First Unusual :DD",
-   "items": 14,
-   "ended": true
-  },
-  "4PVA33": {
-   "msg": "1535669657598566420",
-   "end": 1786287661,
-   "title": "EVERYONE IS A WINNER! Pt.2",
-   "items": 24,
-   "ended": true
-  },
   "SGBYM1": {
    "msg": "1535671664455458917",
    "end": 1786288981,
@@ -7460,7 +7446,7 @@
    "end": 1786892701,
    "title": "medigun scavengr hunt",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A48D8S": {
    "msg": "1538203498561146952",
@@ -8181,6 +8167,13 @@
    "end": 1786976282,
    "title": "Repairs.",
    "items": 3,
+   "ended": false
+  },
+  "M7I9F9": {
+   "msg": "1538566151422869585",
+   "end": 1786978921,
+   "title": "It's sundaaaayyy!",
+   "items": 20,
    "ended": false
   }
  },
