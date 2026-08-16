@@ -8230,7 +8230,7 @@
    "end": 1786838942,
    "title": "Almost 100 tours with no Aussie",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "17UXDL": {
    "msg": "1538287580997492836",
@@ -8321,7 +8321,7 @@
    "end": 1786839601,
    "title": "Something",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UYN948": {
    "msg": "1538331854351114361",
@@ -8335,6 +8335,20 @@
    "end": 1786879741,
    "title": "sans tf2",
    "items": 10,
+   "ended": false
+  },
+  "7G1NJY": {
+   "msg": "1538344206601420852",
+   "end": 1786882862,
+   "title": "stuff",
+   "items": 5,
+   "ended": false
+  },
+  "VQOIF9": {
+   "msg": "1538344217804410971",
+   "end": 1786924322,
+   "title": "Gift from me to you guys!",
+   "items": 3,
    "ended": false
   }
  },
