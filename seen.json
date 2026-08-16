@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "2OX37L": {
-   "msg": "1535573560796516423",
-   "end": 1786264261,
-   "title": "Day 27 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "SGZKI6": {
    "msg": "1535581037583802419",
    "end": 1786267564,
@@ -8293,6 +8286,20 @@
    "end": 1786953421,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #77 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "C7L223": {
+   "msg": "1538470953305112617",
+   "end": 1786883701,
+   "title": "Raffle Name",
+   "items": 1,
+   "ended": false
+  },
+  "9Q8IK4": {
+   "msg": "1538470961119109190",
+   "end": 1786955581,
+   "title": "MvM Update Australium Vote Part 1: Scout Primaries",
+   "items": 3,
    "ended": false
   }
  },
