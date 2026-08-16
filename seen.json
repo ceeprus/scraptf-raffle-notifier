@@ -427,13 +427,6 @@
    "items": 1,
    "ended": true
   },
-  "VET8RZ": {
-   "msg": "1535958538512375820",
-   "end": 1786314600,
-   "title": "[DAY 3] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "Q3HKUA": {
    "msg": "1535958545462202378",
    "end": 1786357441,
@@ -7936,6 +7929,13 @@
    "end": 1787003161,
    "title": "Six year Scrappy",
    "items": 50,
+   "ended": false
+  },
+  "66PFGA": {
+   "msg": "1538676400821764267",
+   "end": 1787004781,
+   "title": "Tricks I learned from a plumber #1",
+   "items": 2,
    "ended": false
   }
  },
