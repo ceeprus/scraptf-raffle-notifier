@@ -77,20 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "NMCA0B": {
-   "msg": "1535535748395171891",
-   "end": 1786255921,
-   "title": "Slugma",
-   "items": 2,
-   "ended": true
-  },
-  "ZC5NV9": {
-   "msg": "1535535755378696223",
-   "end": 1786255682,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
   "UM6SQB": {
    "msg": "1535537174253142098",
    "end": 1786257002,
@@ -530,27 +516,6 @@
    "end": 1786297921,
    "title": "Heavy weapons raffle",
    "items": 3,
-   "ended": true
-  },
-  "UJTWQ9": {
-   "msg": "1535715111657021550",
-   "end": 1786256521,
-   "title": "It's my scrappy today?",
-   "items": 1,
-   "ended": true
-  },
-  "HE6FER": {
-   "msg": "1535715119672205313",
-   "end": 1786256041,
-   "title": "Ten feet twenty the  Man!",
-   "items": 1,
-   "ended": true
-  },
-  "J6Y6AR": {
-   "msg": "1535715126831874222",
-   "end": 1786255562,
-   "title": "[Fallen Tributes/Night 5] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "WCK4VY": {
@@ -8383,6 +8348,13 @@
    "msg": "1538419703872229446",
    "end": 1786901400,
    "title": "[DAY 13] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "KD3WEY": {
+   "msg": "1538433260877783040",
+   "end": 1786946761,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
