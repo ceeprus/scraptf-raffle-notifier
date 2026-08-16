@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "0K0CGP": {
-   "msg": "1535760387000107198",
-   "end": 1786310161,
-   "title": "help find",
-   "items": 6,
-   "ended": true
-  },
-  "WK0K2Q": {
-   "msg": "1535760393438363688",
-   "end": 1786309921,
-   "title": "Sigma chain emote #1",
-   "items": 2,
-   "ended": true
-  },
-  "D5L1Y1": {
-   "msg": "1535762233555165395",
-   "end": 1786310522,
-   "title": "hi",
-   "items": 9,
-   "ended": true
-  },
   "2Q2I43": {
    "msg": "1535767871936921613",
    "end": 1786312142,
@@ -7935,6 +7914,27 @@
    "msg": "1538646201317199933",
    "end": 1786997641,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #2",
+   "items": 1,
+   "ended": false
+  },
+  "PDGWRE": {
+   "msg": "1538661296394997872",
+   "end": 1787001961,
+   "title": "#33 Weekly dose of Polish songs",
+   "items": 1,
+   "ended": false
+  },
+  "JRWZ7U": {
+   "msg": "1538661304238219367",
+   "end": 1786958742,
+   "title": "[DAY 14] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "9PPCY3": {
+   "msg": "1538661311590957067",
+   "end": 1787001241,
+   "title": "Don't get stuck in a loop, especially a time traveling one",
    "items": 1,
    "ended": false
   }
