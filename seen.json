@@ -77,20 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "TUVUFV": {
-   "msg": "1535498065329393664",
-   "end": 1786247462,
-   "title": "Caf\u00e9 Crit-A-Coffee #1752",
-   "items": 10,
-   "ended": true
-  },
-  "V7YBSJ": {
-   "msg": "1535498071864250418",
-   "end": 1786247100,
-   "title": "Touch Up",
-   "items": 1,
-   "ended": true
-  },
   "Y9A9IB": {
    "msg": "1535505558294241330",
    "end": 1786249322,
@@ -7593,21 +7579,21 @@
    "end": 1786852201,
    "title": "I'm back at TF2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IXCX4P": {
    "msg": "1538034736910307489",
    "end": 1786852081,
    "title": "I'm quitting TF2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TUKLE0": {
    "msg": "1538034743356952617",
    "end": 1786851602,
    "title": "Hello! This raffle is just a jumble of random thoughts and is minimally proofread, so they might make sense or not and do need context to understand Enjoy!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G1X4D2": {
    "msg": "1538034750139146290",
@@ -7628,7 +7614,7 @@
    "end": 1786852620,
    "title": "Recorded Warning",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z4NMOA": {
    "msg": "1538048114366095400",
@@ -8426,6 +8412,27 @@
    "end": 1786935541,
    "title": "2000 Raffies",
    "items": 2,
+   "ended": false
+  },
+  "0ZIS7B": {
+   "msg": "1538397098259783700",
+   "end": 1786895581,
+   "title": "Raffling Scrap Till I'm Out #1005 (Rant)",
+   "items": 1,
+   "ended": false
+  },
+  "HAK1Z9": {
+   "msg": "1538397104375070741",
+   "end": 1786938481,
+   "title": "My Favorite Hat",
+   "items": 1,
+   "ended": false
+  },
+  "QXN6LU": {
+   "msg": "1538397114357260462",
+   "end": 1786937641,
+   "title": "Caf\u00e9 Crit-A-Coffee #1758",
+   "items": 10,
    "ended": false
   }
  },
