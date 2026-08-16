@@ -7467,7 +7467,7 @@
    "end": 1786879441,
    "title": "Question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZS08XU": {
    "msg": "1538155500737142924",
@@ -7950,7 +7950,7 @@
    "end": 1786879741,
    "title": "sans tf2",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "7G1NJY": {
    "msg": "1538344206601420852",
@@ -8236,6 +8236,13 @@
    "msg": "1538505621580550145",
    "end": 1786964342,
    "title": "Give me some songs!!!",
+   "items": 1,
+   "ended": false
+  },
+  "KDM2RI": {
+   "msg": "1538510306697945128",
+   "end": 1786899961,
+   "title": "cool hat i got in auction",
    "items": 1,
    "ended": false
   }
