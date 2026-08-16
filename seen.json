@@ -91,13 +91,6 @@
    "items": 1,
    "ended": true
   },
-  "3J4T2H": {
-   "msg": "1535596167121997874",
-   "end": 1786269781,
-   "title": "Forgotten Diamonds #1",
-   "items": 1,
-   "ended": true
-  },
   "KTK0H3": {
    "msg": "1535603008304316466",
    "end": 1786271042,
@@ -7467,14 +7460,14 @@
    "end": 1786874642,
    "title": "Grabli304's raffle\u2503Day 167",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "1NANM8": {
    "msg": "1538128572164612097",
    "end": 1786874461,
    "title": "A FIGHT?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G5KPN2": {
    "msg": "1538128584311308381",
