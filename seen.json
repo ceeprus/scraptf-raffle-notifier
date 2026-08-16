@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "23H3DZ": {
-   "msg": "1535732049921703946",
-   "end": 1786303261,
-   "title": "just scrap",
-   "items": 1,
-   "ended": true
-  },
-  "7JNIZ1": {
-   "msg": "1535737063100653729",
-   "end": 1786303562,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "UCZGMM": {
    "msg": "1535739634632622120",
    "end": 1786305301,
@@ -810,13 +796,6 @@
    "end": 1786372981,
    "title": "We must have more...",
    "items": 1,
-   "ended": true
-  },
-  "ST4VKF": {
-   "msg": "1536034026987720784",
-   "end": 1786303261,
-   "title": "The first Raffle I'd ever host",
-   "items": 12,
    "ended": true
   },
   "E2DACN": {
@@ -7418,14 +7397,14 @@
    "end": 1786908601,
    "title": "a bit of noise never killed anyone #43",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "705KN7": {
    "msg": "1538271612325994557",
    "end": 1786908421,
    "title": "I'll be a better medic!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SJIVID": {
    "msg": "1538276288932876428",
@@ -8090,6 +8069,13 @@
    "end": 1786950602,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "G9UMG5": {
+   "msg": "1538631094981763183",
+   "end": 1786994221,
+   "title": "Smitten",
+   "items": 3,
    "ended": false
   }
  },
