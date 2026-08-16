@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "2GQQUA": {
-   "msg": "1535436308346970153",
-   "end": 1786233121,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "VUDGYG": {
    "msg": "1535460258573713428",
    "end": 1786237441,
@@ -621,13 +614,6 @@
    "end": 1786294800,
    "title": "Daily raffle until TF2 gets a major update #585",
    "items": 3,
-   "ended": true
-  },
-  "3ZE2T5": {
-   "msg": "1535707810082455662",
-   "end": 1786232941,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "30RU06": {
@@ -7551,14 +7537,14 @@
    "end": 1786838041,
    "title": "\ud83d\udc1f \ud83c\udf0a #SundownerSweep \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7CX6AU": {
    "msg": "1537974345983328266",
    "end": 1786837501,
    "title": "333,333 Vaccinator Milestone Giveaway! (3 of 3)",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "RS6OX6": {
    "msg": "1537974355894734858",
