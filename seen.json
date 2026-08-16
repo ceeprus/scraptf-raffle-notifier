@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "YNOUZQ": {
-   "msg": "1535677459616243873",
-   "end": 1786289702,
-   "title": "I love mvm",
-   "items": 1,
-   "ended": true
-  },
   "A53EP8": {
    "msg": "1535684523801448500",
    "end": 1786291200,
@@ -7453,7 +7446,7 @@
    "end": 1786894381,
    "title": "I have a question",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UHMT8H": {
    "msg": "1538211317197053982",
@@ -8166,6 +8159,20 @@
    "msg": "1538570702406295614",
    "end": 1786980001,
    "title": "Marvelous Sunday",
+   "items": 1,
+   "ended": false
+  },
+  "ZJCYLI": {
+   "msg": "1538573826097676451",
+   "end": 1786981082,
+   "title": "First raffle",
+   "items": 13,
+   "ended": false
+  },
+  "55W3LA": {
+   "msg": "1538573832514969600",
+   "end": 1786937400,
+   "title": "[Fallen Tributes/Night 13] Scrap tf HG",
    "items": 1,
    "ended": false
   }
