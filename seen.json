@@ -7404,14 +7404,14 @@
    "end": 1786903862,
    "title": "fire impersonator",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "JB0K9J": {
    "msg": "1538249890067390557",
    "end": 1786903622,
    "title": "Music Discovery #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4X3SN5": {
    "msg": "1538249896274960404",
@@ -8104,6 +8104,13 @@
    "end": 1786989001,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "OBU7QO": {
+   "msg": "1538612208538353782",
+   "end": 1786990081,
+   "title": "art I've received 4",
+   "items": 3,
    "ended": false
   }
  },
