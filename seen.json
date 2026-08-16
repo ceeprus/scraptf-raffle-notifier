@@ -7271,21 +7271,21 @@
    "end": 1786921082,
    "title": "epic man didnt scam anyone",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "987RGO": {
    "msg": "1538321611676196945",
    "end": 1786920661,
    "title": "the  is coming \ud83d\ude02",
    "items": 49,
-   "ended": false
+   "ended": true
   },
   "JOH7W7": {
    "msg": "1538321619888377988",
    "end": 1786920481,
    "title": "My favourite characters in JJK (i dunno if spoilers)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "F2BYTL": {
    "msg": "1538321625714393129",
@@ -7299,14 +7299,14 @@
    "end": 1786921200,
    "title": "a  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YQT2X2": {
    "msg": "1538324492802334851",
    "end": 1786921142,
    "title": "Win a Raffle, Make a Raffle! 3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LW30SM": {
    "msg": "1538329104560955423",
@@ -7935,6 +7935,13 @@
    "msg": "1538679801085296852",
    "end": 1787006461,
    "title": "The gods strike back",
+   "items": 1,
+   "ended": false
+  },
+  "XNZWJH": {
+   "msg": "1538683973884969070",
+   "end": 1787006821,
+   "title": "Meow",
    "items": 1,
    "ended": false
   }
