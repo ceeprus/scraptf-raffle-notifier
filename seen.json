@@ -84,41 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "V1EU2L": {
-   "msg": "1535753485763616831",
-   "end": 1786308301,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "A8K90L": {
-   "msg": "1535754739336347740",
-   "end": 1786308901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "P2B2TQ": {
-   "msg": "1535754746449760268",
-   "end": 1786308901,
-   "title": "Free Games Part 141 \u2022 Breathedge",
-   "items": 1,
-   "ended": true
-  },
-  "RF88F8": {
-   "msg": "1535754753852579960",
-   "end": 1786308721,
-   "title": "Free Games Part 140 \u2022 Moonlighter",
-   "items": 1,
-   "ended": true
-  },
-  "V7MSXU": {
-   "msg": "1535754767253643345",
-   "end": 1786308541,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "0K0CGP": {
    "msg": "1535760387000107198",
    "end": 1786310161,
@@ -152,13 +117,6 @@
    "end": 1786309741,
    "title": "We (Yes, WE) need a Slugma chain emote NOW! P.2",
    "items": 6,
-   "ended": true
-  },
-  "NSGCUP": {
-   "msg": "1535760421573763102",
-   "end": 1786309200,
-   "title": "checkup #84 | Defenses",
-   "items": 1,
    "ended": true
   },
   "D5L1Y1": {
@@ -7362,14 +7320,14 @@
    "end": 1786913761,
    "title": "Almost 100 Fallen Engineer Mains Milestone until Equestria gets a major Special Delivery of Slugma",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K85E69": {
    "msg": "1538291406123307152",
    "end": 1786913521,
    "title": "[MVM] Graveyard Raffle (#13)",
    "items": 25,
-   "ended": false
+   "ended": true
   },
   "DSOP77": {
    "msg": "1538298911058296934",
