@@ -77,20 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "7PCAGC": {
-   "msg": "1535553410374443030",
-   "end": 1786260421,
-   "title": "#11",
-   "items": 1,
-   "ended": true
-  },
-  "5588RW": {
-   "msg": "1535553418452803604",
-   "end": 1786260301,
-   "title": "#freegrabli304",
-   "items": 3,
-   "ended": true
-  },
   "GVLRYK": {
    "msg": "1535558432705482804",
    "end": 1786261262,
@@ -529,13 +515,6 @@
    "msg": "1535732049921703946",
    "end": 1786303261,
    "title": "just scrap",
-   "items": 1,
-   "ended": true
-  },
-  "0OCQJZ": {
-   "msg": "1535737055844507689",
-   "end": 1786260600,
-   "title": "[DAY 2] Scrap tf HG",
    "items": 1,
    "ended": true
   },
@@ -8314,6 +8293,13 @@
    "end": 1786948081,
    "title": "Day 9 of asking for Slugma Chain emoticon",
    "items": 30,
+   "ended": false
+  },
+  "5M2MF1": {
+   "msg": "1538449901367595038",
+   "end": 1786950602,
+   "title": "A Story",
+   "items": 10,
    "ended": false
   }
  },
