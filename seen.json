@@ -7579,7 +7579,7 @@
    "end": 1786844041,
    "title": "2nd Strange :D",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y6BE15": {
    "msg": "1538004515343695945",
@@ -7901,7 +7901,7 @@
    "end": 1786845001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KV0V6W": {
    "msg": "1538185700988686366",
@@ -8370,6 +8370,27 @@
    "end": 1786928400,
    "title": "Reminder to eat n' drink water if ye haven't yet #273",
    "items": 5,
+   "ended": false
+  },
+  "CDW3KG": {
+   "msg": "1538366897068707840",
+   "end": 1786931821,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "0T3ZBG": {
+   "msg": "1538366903242719403",
+   "end": 1786931281,
+   "title": "yeehaw",
+   "items": 2,
+   "ended": false
+  },
+  "Q3BKM5": {
+   "msg": "1538366909848887336",
+   "end": 1786887962,
+   "title": "bag with money giveaway",
+   "items": 1,
    "ended": false
   }
  },
