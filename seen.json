@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "XCWLVV": {
-   "msg": "1535649030603022557",
-   "end": 1786283281,
-   "title": "Bau! Bau!",
-   "items": 3,
-   "ended": true
-  },
   "ET92R6": {
    "msg": "1535656562167644210",
    "end": 1786285322,
@@ -7425,14 +7418,14 @@
    "end": 1786887661,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "IIVP62": {
    "msg": "1538182886057050184",
    "end": 1786887482,
    "title": "Hoi!",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "K3ROO4": {
    "msg": "1538182892507893892",
@@ -7453,7 +7446,7 @@
    "end": 1786888021,
    "title": "Where do you all come from? Im' from Thailand :D",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "V0JFHZ": {
    "msg": "1538188873006583980",
@@ -7936,7 +7929,7 @@
    "end": 1786887962,
    "title": "bag with money giveaway",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V65UB6": {
    "msg": "1538370833804951614",
@@ -8076,7 +8069,7 @@
    "end": 1786887181,
    "title": "Gift",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "Q7B42E": {
    "msg": "1538455208034828289",
@@ -8202,6 +8195,13 @@
    "end": 1786972622,
    "title": "End of Line",
    "items": 3,
+   "ended": false
+  },
+  "7MN2VL": {
+   "msg": "1538545523194331196",
+   "end": 1786973400,
+   "title": "Question 4 You",
+   "items": 20,
    "ended": false
   }
  },
