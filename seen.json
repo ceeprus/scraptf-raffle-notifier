@@ -7607,7 +7607,7 @@
    "end": 1786853101,
    "title": "rufleee",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GUSX9H": {
    "msg": "1538042224401580174",
@@ -8433,6 +8433,13 @@
    "end": 1786937641,
    "title": "Caf\u00e9 Crit-A-Coffee #1758",
    "items": 10,
+   "ended": false
+  },
+  "S1VMX1": {
+   "msg": "1538398453686870117",
+   "end": 1786939141,
+   "title": "Repairs",
+   "items": 1,
    "ended": false
   }
  },
