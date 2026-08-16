@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "ZQR9MI": {
-   "msg": "1535520655649280030",
-   "end": 1786253161,
-   "title": "slugma chain emoticon raffle #1",
-   "items": 3,
-   "ended": true
-  },
   "LVOWVP": {
    "msg": "1535528251106263120",
    "end": 1786255202,
@@ -474,20 +467,6 @@
    "end": 1786293061,
    "title": "bzzzzz",
    "items": 2,
-   "ended": true
-  },
-  "A2K2D2": {
-   "msg": "1535701839725465610",
-   "end": 1786253402,
-   "title": "Sandvich and me are going to beat your a**!",
-   "items": 1,
-   "ended": true
-  },
-  "63K7LL": {
-   "msg": "1535701846348267681",
-   "end": 1786253221,
-   "title": "Sandvich and me are going to beat your a**!",
-   "items": 1,
    "ended": true
   },
   "4MOF9H": {
@@ -7621,7 +7600,7 @@
    "end": 1786858142,
    "title": "Day 8 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "MBOAJE": {
    "msg": "1538064926663376897",
@@ -8412,6 +8391,13 @@
    "end": 1786859641,
    "title": "raffle name",
    "items": 2,
+   "ended": false
+  },
+  "DQ3S3Z": {
+   "msg": "1538419703872229446",
+   "end": 1786901400,
+   "title": "[DAY 13] Scrap tf HG",
+   "items": 1,
    "ended": false
   }
  },
