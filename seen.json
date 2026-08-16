@@ -84,25 +84,11 @@
    "items": 1,
    "ended": false
   },
-  "TI94L4": {
-   "msg": "1535617092982931506",
-   "end": 1786276081,
-   "title": "Why everybody is talking about slugs?",
-   "items": 1,
-   "ended": true
-  },
   "DASZ7H": {
    "msg": "1535625842645012581",
    "end": 1786277581,
    "title": "\ud83d\udcb2\ud83c\udd70\ud83d\udc62\u24c2\ud83d\ude00\ud83e\udd44\ud83d\udd74\ud83c\udd70",
    "items": 2,
-   "ended": true
-  },
-  "0NNB8E": {
-   "msg": "1535625849179603075",
-   "end": 1786276800,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
    "ended": true
   },
   "YL7XXS": {
@@ -7474,7 +7460,7 @@
    "end": 1786881600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7XQCUH": {
    "msg": "1538170607605391380",
@@ -8237,6 +8223,20 @@
    "end": 1786899961,
    "title": "cool hat i got in auction",
    "items": 1,
+   "ended": false
+  },
+  "S2OHF0": {
+   "msg": "1538517889185882333",
+   "end": 1786968000,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "2Q8MBD": {
+   "msg": "1538517896710463588",
+   "end": 1786967281,
+   "title": "A joke. I don\u2019t know whether you\u2019ll understand or not. Whatever. Here we go.",
+   "items": 2,
    "ended": false
   }
  },
