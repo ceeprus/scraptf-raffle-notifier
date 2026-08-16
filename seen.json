@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "LVOWVP": {
-   "msg": "1535528251106263120",
-   "end": 1786255202,
-   "title": "Slugma Chain raffle",
-   "items": 1,
-   "ended": true
-  },
   "NMCA0B": {
    "msg": "1535535748395171891",
    "end": 1786255921,
@@ -8384,7 +8377,7 @@
    "end": 1786859641,
    "title": "raffle name",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "DQ3S3Z": {
    "msg": "1538419703872229446",
