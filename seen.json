@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "ML5U7Q": {
-   "msg": "1535709429851496508",
-   "end": 1786298402,
-   "title": "JAK JA KURWA KOCHAM DISCO POLO #174",
-   "items": 1,
-   "ended": true
-  },
-  "SH1AYI": {
-   "msg": "1535709436746801243",
-   "end": 1786297921,
-   "title": "Heavy weapons raffle",
-   "items": 3,
-   "ended": true
-  },
   "WCK4VY": {
    "msg": "1535724530482413669",
    "end": 1786301041,
@@ -833,13 +819,6 @@
    "items": 3,
    "ended": true
   },
-  "Q0HZNV": {
-   "msg": "1536011404291608606",
-   "end": 1786298221,
-   "title": "Loadout for Scout mains",
-   "items": 7,
-   "ended": true
-  },
   "9EHC47": {
    "msg": "1536017600428122194",
    "end": 1786370941,
@@ -889,13 +868,6 @@
    "items": 1,
    "ended": true
   },
-  "BSNKW6": {
-   "msg": "1536041616157057185",
-   "end": 1786297802,
-   "title": "Raffle",
-   "items": 5,
-   "ended": true
-  },
   "OVDJFW": {
    "msg": "1536041622762950719",
    "end": 1786376762,
@@ -929,13 +901,6 @@
    "end": 1786378981,
    "title": "Oooh, banana",
    "items": 6,
-   "ended": true
-  },
-  "23CLCY": {
-   "msg": "1536056703311937567",
-   "end": 1786297861,
-   "title": "4% Bau! Bau!",
-   "items": 4,
    "ended": true
   },
   "5I0OF7": {
@@ -7432,7 +7397,7 @@
    "end": 1786902242,
    "title": "Daily raffle #346",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FW0WWL": {
    "msg": "1538249880416550942",
@@ -7453,7 +7418,7 @@
    "end": 1786903200,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8ZEJXR": {
    "msg": "1538259432692261005",
@@ -8069,7 +8034,7 @@
    "end": 1786902301,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NNRRDK": {
    "msg": "1538578297611489300",
@@ -8132,6 +8097,13 @@
    "end": 1786987861,
    "title": "Daily raffle until TF2 gets a major update #593",
    "items": 3,
+   "ended": false
+  },
+  "CIYP78": {
+   "msg": "1538608487540465674",
+   "end": 1786989001,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
