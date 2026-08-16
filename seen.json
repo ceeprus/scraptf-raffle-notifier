@@ -77,25 +77,11 @@
    "items": 1,
    "ended": false
   },
-  "Y9A9IB": {
-   "msg": "1535505558294241330",
-   "end": 1786249322,
-   "title": "Waluigi time",
-   "items": 2,
-   "ended": true
-  },
   "4L8XIN": {
    "msg": "1535513142229073974",
    "end": 1786251421,
    "title": "Day 2 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": true
-  },
-  "GMJP1O": {
-   "msg": "1535513157114798151",
-   "end": 1786249741,
-   "title": "Bau! Bau!",
-   "items": 2,
    "ended": true
   },
   "ZQR9MI": {
@@ -7635,14 +7621,14 @@
    "end": 1786854600,
    "title": "Days",
    "items": 80,
-   "ended": false
+   "ended": true
   },
   "SAFK6U": {
    "msg": "1538048135312445460",
    "end": 1786854541,
    "title": "What's it take to call your brother",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9FOICT": {
    "msg": "1538053949687332894",
