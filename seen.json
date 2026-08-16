@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "FNPY5K": {
-   "msg": "1535694171405426790",
-   "end": 1786293902,
-   "title": "Non-Craftaballs Part 2",
-   "items": 10,
-   "ended": true
-  },
-  "MYOYI9": {
-   "msg": "1535694178653053031",
-   "end": 1786293781,
-   "title": "Daily raffle #239",
-   "items": 1,
-   "ended": true
-  },
-  "910C2Q": {
-   "msg": "1535694185133379654",
-   "end": 1786293061,
-   "title": "bzzzzz",
-   "items": 2,
-   "ended": true
-  },
   "4MOF9H": {
    "msg": "1535701854376427673",
    "end": 1786296361,
@@ -985,13 +964,6 @@
    "end": 1786376762,
    "title": "Breaking scrap.tf rules",
    "items": 1,
-   "ended": true
-  },
-  "YZS6EX": {
-   "msg": "1536041628714803211",
-   "end": 1786293482,
-   "title": "Loadout for Soldier mains",
-   "items": 6,
    "ended": true
   },
   "2TCPH5": {
@@ -7481,14 +7453,14 @@
    "end": 1786898642,
    "title": "Scrap.tf Birthdays - 15 August",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "2EFV80": {
    "msg": "1538231010813018273",
    "end": 1786898461,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1506 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "VAI6R9": {
    "msg": "1538234160290992330",
@@ -8188,6 +8160,20 @@
    "end": 1786982521,
    "title": "Scrap.tf Birthdays - 16 August",
    "items": 2,
+   "ended": false
+  },
+  "V400NV": {
+   "msg": "1538590112323993613",
+   "end": 1786941541,
+   "title": "First Raffle! :D",
+   "items": 3,
+   "ended": false
+  },
+  "T0BSK3": {
+   "msg": "1538590119488000135",
+   "end": 1786984141,
+   "title": "Daily raffle #347",
+   "items": 1,
    "ended": false
   }
  },
