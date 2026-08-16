@@ -7390,7 +7390,7 @@
    "end": 1786908721,
    "title": "Raffle 2, Take em all",
    "items": 19,
-   "ended": false
+   "ended": true
   },
   "OOXQPJ": {
    "msg": "1538271605304725578",
@@ -7418,7 +7418,7 @@
    "end": 1786909021,
    "title": "Make some",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8KLAKZ": {
    "msg": "1538279222823354448",
@@ -8075,6 +8075,13 @@
    "msg": "1538631094981763183",
    "end": 1786994221,
    "title": "Smitten",
+   "items": 3,
+   "ended": false
+  },
+  "N9M5MA": {
+   "msg": "1538633751851044936",
+   "end": 1786995000,
+   "title": "Brief conversation with Spamton",
    "items": 3,
    "ended": false
   }
