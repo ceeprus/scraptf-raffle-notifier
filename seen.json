@@ -84,20 +84,6 @@
    "items": 3,
    "ended": true
   },
-  "R093GT": {
-   "msg": "1535520664969154560",
-   "end": 1786252741,
-   "title": "We (Yes, WE) need a Slugma chain emote NOW!",
-   "items": 3,
-   "ended": true
-  },
-  "C4KBO1": {
-   "msg": "1535520674872041474",
-   "end": 1786252204,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
   "LVOWVP": {
    "msg": "1535528251106263120",
    "end": 1786255202,
@@ -7621,14 +7607,14 @@
    "end": 1786856942,
    "title": "Raffle Log #99",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "T4MHQ3": {
    "msg": "1538057316853743658",
    "end": 1786857661,
    "title": "henlo",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "E0T45D": {
    "msg": "1538061787168247819",
