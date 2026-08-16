@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "PPWUEN": {
-   "msg": "1535783352773124250",
-   "end": 1786314901,
-   "title": "All gone! 1250 purrers!",
-   "items": 2,
-   "ended": true
-  },
   "VMC7Y0": {
    "msg": "1535789597047390238",
    "end": 1786317061,
@@ -7299,7 +7292,7 @@
    "end": 1786920061,
    "title": "Grooviest Tracks #795",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "KDMNHH": {
    "msg": "1538324486665936926",
@@ -7936,6 +7929,13 @@
    "end": 1787004781,
    "title": "Tricks I learned from a plumber #1",
    "items": 2,
+   "ended": false
+  },
+  "P5HIHN": {
+   "msg": "1538679801085296852",
+   "end": 1787006461,
+   "title": "The gods strike back",
+   "items": 1,
    "ended": false
   }
  },
