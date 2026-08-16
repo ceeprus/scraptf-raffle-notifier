@@ -546,13 +546,6 @@
    "items": 1,
    "ended": true
   },
-  "3TWGVE": {
-   "msg": "1535747152544792738",
-   "end": 1786263602,
-   "title": "BOOOOM",
-   "items": 1,
-   "ended": true
-  },
   "395G20": {
    "msg": "1535747158257569893",
    "end": 1786306681,
@@ -7509,7 +7502,7 @@
    "end": 1786868522,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #74 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PEZC8O": {
    "msg": "1538114328576790649",
@@ -7971,7 +7964,7 @@
    "end": 1786869000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5QMYPX": {
    "msg": "1538291395100413992",
