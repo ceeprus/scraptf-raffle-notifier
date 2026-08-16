@@ -7446,7 +7446,7 @@
    "end": 1786889521,
    "title": "I joined my 600,000th public raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "18A7HY": {
    "msg": "1538188880522514462",
@@ -8195,6 +8195,13 @@
    "end": 1786973400,
    "title": "Question 4 You",
    "items": 20,
+   "ended": false
+  },
+  "Z2IYCL": {
+   "msg": "1538551430065954867",
+   "end": 1786975200,
+   "title": "Untitled raffle",
+   "items": 5,
    "ended": false
   }
  },
