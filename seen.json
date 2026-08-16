@@ -7558,7 +7558,7 @@
    "end": 1786840801,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TPX4YN": {
    "msg": "1537996929240404058",
@@ -8348,6 +8348,27 @@
    "msg": "1538344217804410971",
    "end": 1786924322,
    "title": "Gift from me to you guys!",
+   "items": 3,
+   "ended": false
+  },
+  "R5Y9KL": {
+   "msg": "1538347748099624981",
+   "end": 1786927201,
+   "title": "drawing #3",
+   "items": 1,
+   "ended": false
+  },
+  "6ZZM9Z": {
+   "msg": "1538347755137794070",
+   "end": 1786927141,
+   "title": "The Era of Demented Mario is finally over!",
+   "items": 5,
+   "ended": false
+  },
+  "8HWK49": {
+   "msg": "1538347763031613490",
+   "end": 1786926242,
+   "title": "slugma chain raffle #8",
    "items": 3,
    "ended": false
   }
