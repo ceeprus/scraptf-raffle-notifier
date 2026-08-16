@@ -7383,21 +7383,21 @@
    "end": 1786907101,
    "title": "Let's talk about maps! (Raffle #2)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SYLMN0": {
    "msg": "1538264844841648280",
    "end": 1786906981,
    "title": "Do you want a key? Me too.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I0RQ7P": {
    "msg": "1538264856208085133",
    "end": 1786906921,
    "title": "Nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnoisers",
    "items": 182,
-   "ended": false
+   "ended": true
   },
   "N11UL6": {
    "msg": "1538264880736641096",
@@ -8082,6 +8082,13 @@
    "msg": "1538616013480927253",
    "end": 1786947842,
    "title": "First Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "28YN2T": {
+   "msg": "1538627070496735253",
+   "end": 1786950602,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
