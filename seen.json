@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "SGBYM1": {
-   "msg": "1535671664455458917",
-   "end": 1786288981,
-   "title": "Update: IT STILL SUCKS",
-   "items": 4,
-   "ended": true
-  },
   "YNOUZQ": {
    "msg": "1535677459616243873",
    "end": 1786289702,
@@ -585,13 +578,6 @@
    "msg": "1535848117415583775",
    "end": 1786330861,
    "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "D7M9EF": {
-   "msg": "1535852845457350846",
-   "end": 1786288922,
-   "title": "Raffling Scrap Till I'm Out #997-8 (Make up raffle)",
    "items": 2,
    "ended": true
   },
@@ -7460,7 +7446,7 @@
    "end": 1786893721,
    "title": "333,333 Vaccinator Milestone Giveaway! (1 of 3) (Rerun)",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "K2UNOS": {
    "msg": "1538211308405526609",
@@ -7474,21 +7460,21 @@
    "end": 1786894201,
    "title": "333,333 Vaccinator Milestone Giveaway! (3 of 3) (Rerun)",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "OUWBWW": {
    "msg": "1538211323060555876",
    "end": 1786894200,
    "title": "MK Poll #5 + The Favorites of Music #277 & #278",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "26WFTS": {
    "msg": "1538211331889696849",
    "end": 1786893961,
    "title": "333,333 Vaccinator Milestone Giveaway! (2 of 3) (Rerun)",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "FAKDEU": {
    "msg": "1538215908638461992",
@@ -7908,14 +7894,14 @@
    "end": 1786893361,
    "title": "hats for yall",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "HPZRXO": {
    "msg": "1538388131915497542",
    "end": 1786893241,
    "title": "Unclaimed Item",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NDDCBE": {
    "msg": "1538388137925939220",
@@ -8174,6 +8160,13 @@
    "end": 1786978921,
    "title": "It's sundaaaayyy!",
    "items": 20,
+   "ended": false
+  },
+  "3MAVEX": {
+   "msg": "1538570702406295614",
+   "end": 1786980001,
+   "title": "Marvelous Sunday",
+   "items": 1,
    "ended": false
   }
  },
