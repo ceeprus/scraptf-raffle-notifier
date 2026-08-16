@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "SGZKI6": {
-   "msg": "1535581037583802419",
-   "end": 1786267564,
-   "title": "Tries",
-   "items": 1,
-   "ended": true
-  },
   "709N3O": {
    "msg": "1535588663537307669",
    "end": 1786269361,
@@ -8278,6 +8271,13 @@
    "msg": "1538470961119109190",
    "end": 1786955581,
    "title": "MvM Update Australium Vote Part 1: Scout Primaries",
+   "items": 3,
+   "ended": false
+  },
+  "2SQLBS": {
+   "msg": "1538480106824015913",
+   "end": 1786957981,
+   "title": "MvM Update Australium Vote Part 2: Scout Secondaries",
    "items": 3,
    "ended": false
   }
