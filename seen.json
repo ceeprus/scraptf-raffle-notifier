@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "A53EP8": {
-   "msg": "1535684523801448500",
-   "end": 1786291200,
-   "title": "\ud83d\udc18",
-   "items": 1,
-   "ended": true
-  },
-  "OCXT60": {
-   "msg": "1535684530634227762",
-   "end": 1786291200,
-   "title": "Scrap.tf Birthdays - 8 August",
-   "items": 3,
-   "ended": true
-  },
   "BO5J6B": {
    "msg": "1535686759587905706",
    "end": 1786292581,
@@ -7474,21 +7460,21 @@
    "end": 1786895461,
    "title": "question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z4MTGI": {
    "msg": "1538215915051688058",
    "end": 1786895341,
    "title": "Drawing #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AY4MT1": {
    "msg": "1538215921196466328",
    "end": 1786895281,
    "title": "I HAVE BEEN ON SCRAP FOR 1 YEAR",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "X0I6CX": {
    "msg": "1538223421270401075",
@@ -7922,7 +7908,7 @@
    "end": 1786895581,
    "title": "Raffling Scrap Till I'm Out #1005 (Rant)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HAK1Z9": {
    "msg": "1538397104375070741",
@@ -8173,6 +8159,27 @@
    "msg": "1538573832514969600",
    "end": 1786937400,
    "title": "[Fallen Tributes/Night 13] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "K4GVFV": {
+   "msg": "1538578284261150762",
+   "end": 1786981621,
+   "title": "a lot of things i wanted to say",
+   "items": 1,
+   "ended": false
+  },
+  "V1VLEK": {
+   "msg": "1538578291290804314",
+   "end": 1786902301,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NNRRDK": {
+   "msg": "1538578297611489300",
+   "end": 1786909381,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
