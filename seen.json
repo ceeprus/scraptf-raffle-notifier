@@ -84,13 +84,6 @@
    "items": 30,
    "ended": true
   },
-  "Q6RRZF": {
-   "msg": "1535475358806048941",
-   "end": 1786241701,
-   "title": "searching for pocket medic",
-   "items": 1,
-   "ended": true
-  },
   "KK9ZA0": {
    "msg": "1535490441007599647",
    "end": 1786244941,
@@ -8390,6 +8383,13 @@
    "msg": "1538366909848887336",
    "end": 1786887962,
    "title": "bag with money giveaway",
+   "items": 1,
+   "ended": false
+  },
+  "V65UB6": {
+   "msg": "1538370833804951614",
+   "end": 1786932481,
+   "title": "Mazekest, who is she for me?",
    "items": 1,
    "ended": false
   }
