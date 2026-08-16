@@ -595,13 +595,6 @@
    "items": 5,
    "ended": true
   },
-  "9KM7K4": {
-   "msg": "1535830225387257967",
-   "end": 1786284000,
-   "title": "[Fallen Tributes/Night 2] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "MDLVNV": {
    "msg": "1535830232643145819",
    "end": 1786326361,
@@ -7460,14 +7453,14 @@
    "end": 1786888800,
    "title": "MW4 early access code",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YI0DR1": {
    "msg": "1538188887393046608",
    "end": 1786888502,
    "title": "i can't think of a title for this raffle 26\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FH6N6J": {
    "msg": "1538193218380767244",
