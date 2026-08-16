@@ -91,20 +91,6 @@
    "items": 2,
    "ended": true
   },
-  "X4D8VD": {
-   "msg": "1535640456317116506",
-   "end": 1786280581,
-   "title": "Slugma",
-   "items": 3,
-   "ended": true
-  },
-  "D3QXCM": {
-   "msg": "1535640462810030231",
-   "end": 1786280522,
-   "title": "New outfit.",
-   "items": 1,
-   "ended": true
-  },
   "XCWLVV": {
    "msg": "1535649030603022557",
    "end": 1786283281,
@@ -8209,6 +8195,20 @@
    "end": 1786971181,
    "title": "#SlugmaSweep",
    "items": 1,
+   "ended": false
+  },
+  "YV08SE": {
+   "msg": "1538534629617705021",
+   "end": 1786971601,
+   "title": "\u0422\u0432\u043e\u0439 \u0433\u043e\u043b\u043e\u0441",
+   "items": 1,
+   "ended": false
+  },
+  "ORJJD4": {
+   "msg": "1538534636982902844",
+   "end": 1786971600,
+   "title": "8 for 1 Sunday",
+   "items": 8,
    "ended": false
   }
  },
