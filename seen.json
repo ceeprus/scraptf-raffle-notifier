@@ -77,34 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "GVLRYK": {
-   "msg": "1535558432705482804",
-   "end": 1786261262,
-   "title": "Flavor Slop Opinion Slop",
-   "items": 1,
-   "ended": true
-  },
-  "UXY7FY": {
-   "msg": "1535558439252791306",
-   "end": 1786261201,
-   "title": "#13",
-   "items": 1,
-   "ended": true
-  },
-  "0T2OZ2": {
-   "msg": "1535558446030520350",
-   "end": 1786261021,
-   "title": "#12",
-   "items": 1,
-   "ended": true
-  },
-  "TD33SK": {
-   "msg": "1535558451785371739",
-   "end": 1786260901,
-   "title": "Oatmeal",
-   "items": 1,
-   "ended": true
-  },
   "8RGOHO": {
    "msg": "1535565514112372776",
    "end": 1786262400,
@@ -7516,14 +7488,14 @@
    "end": 1786866301,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #75 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y11W8P": {
    "msg": "1538092450260848721",
    "end": 1786866061,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #73 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2Z12SF": {
    "msg": "1538095103011192893",
@@ -7537,7 +7509,7 @@
    "end": 1786866601,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #76 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EXW7MM": {
    "msg": "1538102619120078898",
@@ -8300,6 +8272,20 @@
    "end": 1786950602,
    "title": "A Story",
    "items": 10,
+   "ended": false
+  },
+  "AS1SXT": {
+   "msg": "1538455197070786570",
+   "end": 1786887181,
+   "title": "Gift",
+   "items": 5,
+   "ended": false
+  },
+  "Q7B42E": {
+   "msg": "1538455208034828289",
+   "end": 1786951922,
+   "title": "Slugma Chain raffle #8-9",
+   "items": 1,
    "ended": false
   }
  },
