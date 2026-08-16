@@ -77,31 +77,10 @@
    "items": 1,
    "ended": false
   },
-  "6JMDQ2": {
-   "msg": "1535543344464134248",
-   "end": 1786257362,
-   "title": "heh,,,, slugma,,, more like,,,,emote,,,,",
-   "items": 1,
-   "ended": true
-  },
   "BMU9OS": {
    "msg": "1535550884128362537",
    "end": 1786259162,
    "title": "Slugma Chain Chain Raffle #1",
-   "items": 1,
-   "ended": true
-  },
-  "VOYWK4": {
-   "msg": "1535550891787165706",
-   "end": 1786258802,
-   "title": "Day 55 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "39DUIO": {
-   "msg": "1535550898359771199",
-   "end": 1786258561,
-   "title": "Day 60 of Asking for a Follow Button",
    "items": 1,
    "ended": true
   },
@@ -529,13 +508,6 @@
    "msg": "1535724547398181048",
    "end": 1786300441,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "TJ8YZU": {
-   "msg": "1535724556273061918",
-   "end": 1786257181,
-   "title": "Stealing a raffle a day",
    "items": 1,
    "ended": true
   },
@@ -7565,7 +7537,7 @@
    "end": 1786863122,
    "title": "BIRTHDAYYYY 22",
    "items": 150,
-   "ended": false
+   "ended": true
   },
   "AGD27R": {
    "msg": "1538080025608462388",
@@ -8349,6 +8321,13 @@
    "end": 1786946761,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "KPDZMY": {
+   "msg": "1538442401675223112",
+   "end": 1786948081,
+   "title": "Day 9 of asking for Slugma Chain emoticon",
+   "items": 30,
    "ended": false
   }
  },
