@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "30RU06": {
-   "msg": "1535707848305016956",
-   "end": 1786296841,
-   "title": "Hello. It's me.",
-   "items": 7,
-   "ended": true
-  },
-  "N6AALH": {
-   "msg": "1535707855469023242",
-   "end": 1786296661,
-   "title": "sum crap to say",
-   "items": 5,
-   "ended": true
-  },
   "ML5U7Q": {
    "msg": "1535709429851496508",
    "end": 1786298402,
@@ -7439,7 +7425,7 @@
    "end": 1786901522,
    "title": "I Drew Ts 19",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NPI9EK": {
    "msg": "1538246105072930849",
@@ -8139,6 +8125,13 @@
    "end": 1786986961,
    "title": "Daily Brass Beast #540",
    "items": 1,
+   "ended": false
+  },
+  "PCB4XJ": {
+   "msg": "1538603682231484507",
+   "end": 1786987861,
+   "title": "Daily raffle until TF2 gets a major update #593",
+   "items": 3,
    "ended": false
   }
  },
