@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "2Q2I43": {
-   "msg": "1535767871936921613",
-   "end": 1786312142,
-   "title": "My first collector\u2019s weapon",
-   "items": 26,
-   "ended": true
-  },
   "3AB88Q": {
    "msg": "1535774408239489075",
    "end": 1786313042,
@@ -7299,7 +7292,7 @@
    "end": 1786917600,
    "title": "checkup #91 | Busy...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4H0MTQ": {
    "msg": "1538321604420051034",
@@ -7936,6 +7929,27 @@
    "end": 1787001241,
    "title": "Don't get stuck in a loop, especially a time traveling one",
    "items": 1,
+   "ended": false
+  },
+  "EG4XY7": {
+   "msg": "1538668879897821374",
+   "end": 1787003461,
+   "title": "Music Discovery #2",
+   "items": 1,
+   "ended": false
+  },
+  "ARWNCU": {
+   "msg": "1538668886239485952",
+   "end": 1787003400,
+   "title": "checkup #92 | Scritchy Scratchy",
+   "items": 1,
+   "ended": false
+  },
+  "027UCX": {
+   "msg": "1538668894942789682",
+   "end": 1787003161,
+   "title": "Six year Scrappy",
+   "items": 50,
    "ended": false
   }
  },
