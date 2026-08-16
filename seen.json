@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "VUDGYG": {
-   "msg": "1535460258573713428",
-   "end": 1786237441,
-   "title": "one question",
-   "items": 1,
-   "ended": true
-  },
   "N14D2S": {
    "msg": "1535475351180939335",
    "end": 1786242542,
@@ -7558,7 +7551,7 @@
    "end": 1786843261,
    "title": "This is what I come back to?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EVYTE5": {
    "msg": "1537996936106475530",
@@ -7593,7 +7586,7 @@
    "end": 1786843681,
    "title": "What was the strangest username you  guys have ever seen in tf2?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "SQNN79": {
    "msg": "1538019630142980127",
@@ -7880,7 +7873,7 @@
    "end": 1786842481,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IXUMX6": {
    "msg": "1538182875952976003",
@@ -7901,7 +7894,7 @@
    "end": 1786843800,
    "title": "[DAY 12] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N1XMU3": {
    "msg": "1538185694453694616",
@@ -8363,6 +8356,20 @@
    "end": 1786926242,
    "title": "slugma chain raffle #8",
    "items": 3,
+   "ended": false
+  },
+  "6Q8NB3": {
+   "msg": "1538359310243991652",
+   "end": 1786928521,
+   "title": "what happend with to tf2r?",
+   "items": 1,
+   "ended": false
+  },
+  "WQEH6N": {
+   "msg": "1538359318053658634",
+   "end": 1786928400,
+   "title": "Reminder to eat n' drink water if ye haven't yet #273",
+   "items": 5,
    "ended": false
   }
  },
