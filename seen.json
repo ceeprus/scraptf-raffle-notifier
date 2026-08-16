@@ -77,20 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "709N3O": {
-   "msg": "1535588663537307669",
-   "end": 1786269361,
-   "title": "Art from a joke",
-   "items": 2,
-   "ended": true
-  },
-  "9OVZWX": {
-   "msg": "1535588670915092520",
-   "end": 1786269241,
-   "title": "Osmosis",
-   "items": 1,
-   "ended": true
-  },
   "K2E12Z": {
    "msg": "1535596153457086504",
    "end": null,
@@ -7495,14 +7481,14 @@
    "end": 1786874342,
    "title": "Noh-Craftaballs Part 4",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "ULS48E": {
    "msg": "1538128590590451744",
    "end": 1786873981,
    "title": "My first humble raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "53K7ZQ": {
    "msg": "1538132813247938560",
