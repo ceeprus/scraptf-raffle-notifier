@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "ABIAF8": {
-   "msg": "1535701881190617161",
-   "end": 1786295402,
-   "title": "Free hat.",
-   "items": 1,
-   "ended": true
-  },
-  "KIOLL4": {
-   "msg": "1535701888647823492",
-   "end": 1786294862,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1499 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 8,
-   "ended": true
-  },
   "30RU06": {
    "msg": "1535707848305016956",
    "end": 1786296841,
@@ -789,13 +775,6 @@
    "end": 1786359782,
    "title": "200 tips given out",
    "items": 15,
-   "ended": true
-  },
-  "PUZHL8": {
-   "msg": "1535973645351129190",
-   "end": 1786294921,
-   "title": "Birthday raffle",
-   "items": 12,
    "ended": true
   },
   "NDENWA": {
@@ -8020,7 +7999,7 @@
    "end": 1786899961,
    "title": "cool hat i got in auction",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S2OHF0": {
    "msg": "1538517889185882333",
@@ -8166,6 +8145,13 @@
    "msg": "1538590119488000135",
    "end": 1786984141,
    "title": "Daily raffle #347",
+   "items": 1,
+   "ended": false
+  },
+  "5HFONS": {
+   "msg": "1538596273995645082",
+   "end": 1786985941,
+   "title": "I Drew Ts 20",
    "items": 1,
    "ended": false
   }
