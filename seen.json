@@ -91,20 +91,6 @@
    "items": 1,
    "ended": true
   },
-  "R266SE": {
-   "msg": "1535753491891490898",
-   "end": 1786308061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GPSI8P": {
-   "msg": "1535753498392657922",
-   "end": 1786307881,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "A8K90L": {
    "msg": "1535754739336347740",
    "end": 1786308901,
@@ -518,24 +504,10 @@
    "items": 9,
    "ended": true
   },
-  "TEQFEU": {
-   "msg": "1535935909055168533",
-   "end": 1786308181,
-   "title": "Slugma",
-   "items": 1,
-   "ended": true
-  },
   "3016XB": {
    "msg": "1535935916403720212",
    "end": 1786351142,
    "title": "Day 28 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
-  "61TIVP": {
-   "msg": "1535935923081183305",
-   "end": 1786307581,
-   "title": "Tail",
    "items": 1,
    "ended": true
   },
@@ -845,13 +817,6 @@
    "end": 1786318021,
    "title": "who wants to hold paws with me? :3",
    "items": 34,
-   "ended": true
-  },
-  "0LNMTO": {
-   "msg": "1536100363684544602",
-   "end": 1786308061,
-   "title": "\u0445\u0437",
-   "items": 2,
    "ended": true
   },
   "EWIRSP": {
@@ -7383,7 +7348,7 @@
    "end": 1786912502,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #175",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PIUNBX": {
    "msg": "1538287590615289987",
