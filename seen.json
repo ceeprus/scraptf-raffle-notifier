@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "WCK4VY": {
-   "msg": "1535724530482413669",
-   "end": 1786301041,
-   "title": "emoji raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WYR183": {
-   "msg": "1535724538783080491",
-   "end": 1786300622,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "KN8U5N": {
-   "msg": "1535724547398181048",
-   "end": 1786300441,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "59KB2I": {
    "msg": "1535726048543645846",
    "end": 1786302001,
@@ -7411,7 +7390,7 @@
    "end": 1786905361,
    "title": "another unrelated gifted items(and huntsman)",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "Z0SV50": {
    "msg": "1538264835542880309",
