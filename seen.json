@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "YL7XXS": {
-   "msg": "1535633928273006672",
-   "end": 1786279801,
-   "title": "Starchion`s Art #20 [Joji CHLOE BURBANK - chibi version]",
-   "items": 1,
-   "ended": true
-  },
   "M0K6QA": {
    "msg": "1535640449681850539",
    "end": 1786281361,
@@ -110,13 +103,6 @@
    "end": 1786280522,
    "title": "New outfit.",
    "items": 1,
-   "ended": true
-  },
-  "PVI6PK": {
-   "msg": "1535640470242197605",
-   "end": 1786280400,
-   "title": "When you see a lore video for a franchise you know nothing about",
-   "items": 2,
    "ended": true
   },
   "XCWLVV": {
@@ -609,25 +595,11 @@
    "items": 60,
    "ended": true
   },
-  "SVEMSK": {
-   "msg": "1535815115931254895",
-   "end": 1786280041,
-   "title": "Untitled raffle",
-   "items": 44,
-   "ended": true
-  },
   "DI2LJ2": {
    "msg": "1535815123204055050",
    "end": 1786323061,
    "title": "I'M BACK!",
    "items": 1,
-   "ended": true
-  },
-  "GWWFOQ": {
-   "msg": "1535815132616204449",
-   "end": 1786279681,
-   "title": "Untitled raffle",
-   "items": 24,
    "ended": true
   },
   "2RAVI3": {
@@ -7460,14 +7432,14 @@
    "end": 1786884061,
    "title": "hello my name is Epic man with epic face.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "47QDUD": {
    "msg": "1538171839811952672",
    "end": 1786885200,
    "title": "08/15/2006",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B6Z4H3": {
    "msg": "1538178116147749024",
@@ -8167,7 +8139,7 @@
    "end": 1786883701,
    "title": "Raffle Name",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9Q8IK4": {
    "msg": "1538470961119109190",
@@ -8230,6 +8202,13 @@
    "end": 1786967281,
    "title": "A joke. I don\u2019t know whether you\u2019ll understand or not. Whatever. Here we go.",
    "items": 2,
+   "ended": false
+  },
+  "58VWQ0": {
+   "msg": "1538532991125561345",
+   "end": 1786971181,
+   "title": "#SlugmaSweep",
+   "items": 1,
    "ended": false
   }
  },
