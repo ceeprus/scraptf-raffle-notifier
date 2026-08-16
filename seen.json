@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "4MOF9H": {
-   "msg": "1535701854376427673",
-   "end": 1786296361,
-   "title": "30th anniversary quakecon",
-   "items": 48,
-   "ended": true
-  },
-  "MTA1I9": {
-   "msg": "1535701861129003081",
-   "end": 1786296002,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GYB57S": {
-   "msg": "1535701875213734059",
-   "end": 1786295581,
-   "title": "posting with Sandvich",
-   "items": 1,
-   "ended": true
-  },
   "30RU06": {
    "msg": "1535707848305016956",
    "end": 1786296841,
@@ -957,13 +936,6 @@
    "end": 1786377600,
    "title": "Scrap.tf Birthdays - 9 August",
    "items": 5,
-   "ended": true
-  },
-  "YKSN5L": {
-   "msg": "1536049134577123450",
-   "end": 1786296241,
-   "title": "1% Bau! Bau!",
-   "items": 1,
    "ended": true
   },
   "WCSSGZ": {
@@ -7453,7 +7425,7 @@
    "end": 1786900681,
    "title": "Hello Scrap.tf! First time here",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BRVBGO": {
    "msg": "1538241501237354658",
@@ -7887,7 +7859,7 @@
    "end": 1786901400,
    "title": "[DAY 13] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KD3WEY": {
    "msg": "1538433260877783040",
@@ -8152,6 +8124,20 @@
    "msg": "1538596273995645082",
    "end": 1786985941,
    "title": "I Drew Ts 20",
+   "items": 1,
+   "ended": false
+  },
+  "ZHUPQM": {
+   "msg": "1538600900300509255",
+   "end": 1786904281,
+   "title": "Wowza",
+   "items": 1,
+   "ended": false
+  },
+  "T5J82D": {
+   "msg": "1538600907426496522",
+   "end": 1786986961,
+   "title": "Daily Brass Beast #540",
    "items": 1,
    "ended": false
   }
