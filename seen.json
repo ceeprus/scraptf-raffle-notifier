@@ -84,41 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "J57TDP": {
-   "msg": "1535744034050678875",
-   "end": 1786306561,
-   "title": "Equestria Forever",
-   "items": 53,
-   "ended": true
-  },
-  "MUGUDI": {
-   "msg": "1535744041222672535",
-   "end": 1786306502,
-   "title": "Hii :3     This is my fourth raffle, wow",
-   "items": 1,
-   "ended": true
-  },
-  "CNFA90": {
-   "msg": "1535744048927608903",
-   "end": 1786306441,
-   "title": "take thing",
-   "items": 3,
-   "ended": true
-  },
-  "I7FQ3N": {
-   "msg": "1535747146450468924",
-   "end": 1786306861,
-   "title": "Something is coming...",
-   "items": 1,
-   "ended": true
-  },
-  "395G20": {
-   "msg": "1535747158257569893",
-   "end": 1786306681,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "V1EU2L": {
    "msg": "1535753485763616831",
    "end": 1786308301,
@@ -138,13 +103,6 @@
    "end": 1786307881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "91EJFQ": {
-   "msg": "1535753504952553563",
-   "end": 1786307341,
-   "title": "summoning the Germans (or German speakers)",
-   "items": 6,
    "ended": true
   },
   "A8K90L": {
@@ -8069,6 +8027,13 @@
    "end": 1786996800,
    "title": "Equestria 4ever",
    "items": 74,
+   "ended": false
+  },
+  "Y51VHE": {
+   "msg": "1538646201317199933",
+   "end": 1786997641,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #2",
+   "items": 1,
    "ended": false
   }
  },
