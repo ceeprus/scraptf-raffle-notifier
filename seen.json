@@ -91,13 +91,6 @@
    "items": 1,
    "ended": true
   },
-  "O77HZP": {
-   "msg": "1535617100591407205",
-   "end": 1786275121,
-   "title": "STOLEN PLUSHIE CONTRACT",
-   "items": 4,
-   "ended": true
-  },
   "DASZ7H": {
    "msg": "1535625842645012581",
    "end": 1786277581,
@@ -7474,7 +7467,7 @@
    "end": 1786880281,
    "title": "Daily Brass Beast #539",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GPY6ZL": {
    "msg": "1538160333800210504",
