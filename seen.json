@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "KJVJHR": {
-   "msg": "1535596161258360842",
-   "end": 1786270561,
-   "title": "Sleep-deprived Saturday",
-   "items": 1,
-   "ended": true
-  },
-  "KTK0H3": {
-   "msg": "1535603008304316466",
-   "end": 1786271042,
-   "title": "coollion Grabli304's raffle\u2503Day 160",
-   "items": 2,
-   "ended": true
-  },
   "M16GE6": {
    "msg": "1535610440648757248",
    "end": 1786273741,
@@ -7488,7 +7474,7 @@
    "end": 1786875721,
    "title": "I've changed my profile entirely.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2SHDLD": {
    "msg": "1538136518617468948",
