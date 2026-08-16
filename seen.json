@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "59KB2I": {
-   "msg": "1535726048543645846",
-   "end": 1786302001,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1FYDII": {
-   "msg": "1535726058152661032",
-   "end": 1786301761,
-   "title": "Bau! Bau!",
-   "items": 6,
-   "ended": true
-  },
   "23H3DZ": {
    "msg": "1535732049921703946",
    "end": 1786303261,
@@ -7418,7 +7404,7 @@
    "end": 1786906682,
    "title": "hey",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "XVRPH2": {
    "msg": "1538271598614941707",
