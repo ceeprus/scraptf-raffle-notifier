@@ -91,13 +91,6 @@
    "items": 1,
    "ended": true
   },
-  "WZ01CN": {
-   "msg": "1535588686672953485",
-   "end": 1786268341,
-   "title": "heya guys",
-   "items": 5,
-   "ended": true
-  },
   "K2E12Z": {
    "msg": "1535596153457086504",
    "end": null,
@@ -7481,7 +7474,7 @@
    "end": 1786873562,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VHIFHM": {
    "msg": "1538128566175137792",
