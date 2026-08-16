@@ -77,13 +77,6 @@
    "items": 1,
    "ended": false
   },
-  "4L8XIN": {
-   "msg": "1535513142229073974",
-   "end": 1786251421,
-   "title": "Day 2 of asking for Slugma Chain emoticon",
-   "items": 3,
-   "ended": true
-  },
   "ZQR9MI": {
    "msg": "1535520655649280030",
    "end": 1786253161,
@@ -880,13 +873,6 @@
    "end": 1786313401,
    "title": "Power Scale #4",
    "items": 3,
-   "ended": true
-  },
-  "I9GVP9": {
-   "msg": "1535783346079272981",
-   "end": 1786251061,
-   "title": "Hello There :D",
-   "items": 2,
    "ended": true
   },
   "PPWUEN": {
@@ -7607,14 +7593,14 @@
    "end": 1786855381,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "M8TRTR": {
    "msg": "1538048120787832882",
    "end": 1786854914,
    "title": "Calling some old heads (respectfully) here in the Scap.tf community",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VQAAYH": {
    "msg": "1538048129067122749",
@@ -8425,6 +8411,13 @@
    "msg": "1538398453686870117",
    "end": 1786939141,
    "title": "Repairs",
+   "items": 1,
+   "ended": false
+  },
+  "K3L20K": {
+   "msg": "1538411422403534918",
+   "end": 1786941661,
+   "title": "Kiestu has drank a liquefied brownie and ice cream drink",
    "items": 1,
    "ended": false
   }
