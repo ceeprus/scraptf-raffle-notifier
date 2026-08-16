@@ -84,13 +84,6 @@
    "items": 1,
    "ended": true
   },
-  "15YMN5": {
-   "msg": "1535460266433839195",
-   "end": 1786237200,
-   "title": "Reminder to eat n' drink water if ye haven't yet #266",
-   "items": 5,
-   "ended": true
-  },
   "N14D2S": {
    "msg": "1535475351180939335",
    "end": 1786242542,
@@ -7579,14 +7572,14 @@
    "end": 1786842000,
    "title": "Reminder to eat n' drink water if ye haven't yet #272",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "BAZ3UC": {
    "msg": "1537996950509719593",
    "end": 1786842000,
    "title": "17th Birthday yippee  \ud83c\udf89",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "R0UKFL": {
    "msg": "1538004507332583474",
