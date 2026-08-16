@@ -91,27 +91,6 @@
    "items": 1,
    "ended": true
   },
-  "5SH1HY": {
-   "msg": "1535610446956990464",
-   "end": 1786273200,
-   "title": "Would you disturb a chill ball?",
-   "items": 1,
-   "ended": true
-  },
-  "KQL9H7": {
-   "msg": "1535610452157923339",
-   "end": 1786273200,
-   "title": "\ufffd\ufffd\ufffd\ufffd\ufffd\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b\ud809\udc2b",
-   "items": 1,
-   "ended": true
-  },
-  "SCYNFJ": {
-   "msg": "1535610457652727829",
-   "end": 1786273021,
-   "title": "Daily Kit Fabricator #2",
-   "items": 1,
-   "ended": true
-  },
   "TI94L4": {
    "msg": "1535617092982931506",
    "end": 1786276081,
@@ -7488,7 +7467,7 @@
    "end": 1786878000,
    "title": "I thought such things would be right up your alley!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FS6Q0E": {
    "msg": "1538147919289385072",
@@ -8237,6 +8216,20 @@
    "end": 1786957981,
    "title": "MvM Update Australium Vote Part 2: Scout Secondaries",
    "items": 3,
+   "ended": false
+  },
+  "8GITP6": {
+   "msg": "1538502781281767507",
+   "end": 1786964101,
+   "title": "Grabli304's raffle\u2503Day 168",
+   "items": 2,
+   "ended": false
+  },
+  "UDB3AL": {
+   "msg": "1538502791260143700",
+   "end": 1786878062,
+   "title": "unclaimed item",
+   "items": 1,
    "ended": false
   }
  },
