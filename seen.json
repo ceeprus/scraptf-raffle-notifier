@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "VMC7Y0": {
-   "msg": "1535789597047390238",
-   "end": 1786317061,
-   "title": "My Birthday Curse...... Might be happening again",
-   "items": 1,
-   "ended": true
-  },
-  "LT93CL": {
-   "msg": "1535789605733797889",
-   "end": 1786316641,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "MZH75A": {
    "msg": "1535800057755082813",
    "end": 1786319641,
@@ -7942,6 +7928,13 @@
    "msg": "1538683973884969070",
    "end": 1787006821,
    "title": "Meow",
+   "items": 1,
+   "ended": false
+  },
+  "CE7YGB": {
+   "msg": "1538686604703436901",
+   "end": 1787007600,
+   "title": "a  a day",
    "items": 1,
    "ended": false
   }
