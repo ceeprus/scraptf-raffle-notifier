@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "UCZGMM": {
-   "msg": "1535739634632622120",
-   "end": 1786305301,
-   "title": "The World needs more rein-wait a minute...kindness!",
-   "items": 10,
-   "ended": true
-  },
-  "29FKP5": {
-   "msg": "1535739641406300271",
-   "end": 1786305181,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "4RI2QB": {
-   "msg": "1535739648930746429",
-   "end": 1786305061,
-   "title": "Graveyard Raffle (#8)",
-   "items": 7,
-   "ended": true
-  },
   "J57TDP": {
    "msg": "1535744034050678875",
    "end": 1786306561,
@@ -544,13 +523,6 @@
    "end": 1786344841,
    "title": "ma supports slugma chainers",
    "items": 1,
-   "ended": true
-  },
-  "UM5HL6": {
-   "msg": "1535916968303919144",
-   "end": 1786304522,
-   "title": "fabricators",
-   "items": 50,
    "ended": true
   },
   "YYTD32": {
@@ -7432,21 +7404,21 @@
    "end": 1786910400,
    "title": "We need more Engineer Mains! | #005",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "D7YSQC": {
    "msg": "1538279239634255872",
    "end": 1786910400,
    "title": "Equestria Forever",
    "items": 53,
-   "ended": false
+   "ended": true
   },
   "2CQ60S": {
    "msg": "1538279245854285945",
    "end": 1786910222,
    "title": "Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8IUQJO": {
    "msg": "1538283816404131893",
@@ -7971,7 +7943,7 @@
    "end": 1786909381,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "01QVU4": {
    "msg": "1538581578781950136",
