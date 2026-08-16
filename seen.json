@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "ET92R6": {
-   "msg": "1535656562167644210",
-   "end": 1786285322,
-   "title": "I don't like this hair.",
-   "items": 1,
-   "ended": true
-  },
-  "QFYGGX": {
-   "msg": "1535656569398894614",
-   "end": 1786285142,
-   "title": "DELETED ACCOUNT FILE",
-   "items": 5,
-   "ended": true
-  },
-  "CGIAFS": {
-   "msg": "1535656577351290880",
-   "end": 1786285082,
-   "title": "Blackimus has finally dropped a new episode of The Scratched Universe!!",
-   "items": 7,
-   "ended": true
-  },
   "HDM82P": {
    "msg": "1535662909571600395",
    "end": 1786287361,
@@ -7467,14 +7446,14 @@
    "end": 1786890181,
    "title": "New name?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UKRP6T": {
    "msg": "1538193225494302741",
    "end": 1786889821,
    "title": "My first raffle | \u041c\u043e\u0439 \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "T7NXX3": {
    "msg": "1538196889663578232",
@@ -8202,6 +8181,20 @@
    "end": 1786975200,
    "title": "Untitled raffle",
    "items": 5,
+   "ended": false
+  },
+  "Q7XNLX": {
+   "msg": "1538555605244055562",
+   "end": 1786976702,
+   "title": "Noise Maker - Winter Holiday",
+   "items": 52,
+   "ended": false
+  },
+  "P28RCG": {
+   "msg": "1538555613016236193",
+   "end": 1786976282,
+   "title": "Repairs.",
+   "items": 3,
    "ended": false
   }
  },
