@@ -105,13 +105,6 @@
    "items": 3,
    "ended": true
   },
-  "DA0HGO": {
-   "msg": "1535744055747682374",
-   "end": 1786306141,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "I7FQ3N": {
    "msg": "1535747146450468924",
    "end": 1786306861,
@@ -8055,6 +8048,27 @@
    "end": 1786995000,
    "title": "Brief conversation with Spamton",
    "items": 3,
+   "ended": false
+  },
+  "TY7PNF": {
+   "msg": "1538641464718794763",
+   "end": 1786996801,
+   "title": "purrr~",
+   "items": 3,
+   "ended": false
+  },
+  "X6XD6Q": {
+   "msg": "1538641471870079046",
+   "end": 1786996800,
+   "title": "We need more Engineer Mains! | #006",
+   "items": 6,
+   "ended": false
+  },
+  "TSYBB2": {
+   "msg": "1538641478731956407",
+   "end": 1786996800,
+   "title": "Equestria 4ever",
+   "items": 74,
    "ended": false
   }
  },
