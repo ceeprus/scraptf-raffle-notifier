@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "4QBUXW": {
-   "msg": "1535867945257795695",
-   "end": 1786334942,
-   "title": "Life",
-   "items": 3,
-   "ended": true
-  },
   "MKC394": {
    "msg": "1535875536709226506",
    "end": 1786337521,
@@ -7858,6 +7851,13 @@
    "msg": "1538759474519736422",
    "end": 1787024221,
    "title": "Have you ever won a Megaraffle?",
+   "items": 1,
+   "ended": false
+  },
+  "QTGVLV": {
+   "msg": "1538761681625284690",
+   "end": 1787025300,
+   "title": "Old Wounds",
    "items": 1,
    "ended": false
   }
