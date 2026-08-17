@@ -7782,7 +7782,7 @@
    "end": 1786961642,
    "title": "candy cane",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0QQIT5": {
    "msg": "1538842523089371259",
@@ -7837,6 +7837,20 @@
    "msg": "1538850094953013268",
    "end": 1787001901,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #80 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "AK33QG": {
+   "msg": "1538855636689883226",
+   "end": 1787047562,
+   "title": "gift of the day #1",
+   "items": 1,
+   "ended": false
+  },
+  "YZH44X": {
+   "msg": "1538855643069292645",
+   "end": 1787047200,
+   "title": "Gifted Amputator #9",
    "items": 1,
    "ended": false
   }
