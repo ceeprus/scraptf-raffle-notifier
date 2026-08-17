@@ -7075,7 +7075,7 @@
    "end": 1786997641,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PDGWRE": {
    "msg": "1538661296394997872",
@@ -7593,7 +7593,7 @@
    "end": 1786997041,
    "title": "\ud83c\udf0a I saw, that some people share their entries to win ratio",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "P2HC38": {
    "msg": "1538924136020058163",
@@ -7781,6 +7781,20 @@
    "msg": "1538997999173374092",
    "end": 1787081222,
    "title": "It's been a while",
+   "items": 1,
+   "ended": false
+  },
+  "N8ZKSE": {
+   "msg": "1539004923344068688",
+   "end": 1787083200,
+   "title": "We need more Engineer Mains! | #007",
+   "items": 6,
+   "ended": false
+  },
+  "L3O7MK": {
+   "msg": "1539004929396711555",
+   "end": 1787040000,
+   "title": "[DAY 15] Scrap tf HG",
    "items": 1,
    "ended": false
   }
