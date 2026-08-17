@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "NV9KDT": {
-   "msg": "1536003826086055957",
-   "end": 1786367162,
-   "title": "Raffle for my Birthday :3",
-   "items": 1,
-   "ended": true
-  },
-  "Q782FZ": {
-   "msg": "1536003832855797821",
-   "end": 1786366982,
-   "title": "today",
-   "items": 1,
-   "ended": true
-  },
-  "KCB4C9": {
-   "msg": "1536003839155511337",
-   "end": 1786366862,
-   "title": "Completed my first MvM tour, take these ugly hats.",
-   "items": 2,
-   "ended": true
-  },
   "TA4ETK": {
    "msg": "1536006574508740759",
    "end": 1786368662,
@@ -7837,6 +7816,13 @@
    "msg": "1538895406346539008",
    "end": 1787013000,
    "title": "[The Feast] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "A3PEFP": {
+   "msg": "1538898626246475856",
+   "end": 1787058000,
+   "title": "SMONK - Super Ghostbusters Animated",
    "items": 1,
    "ended": false
   }
