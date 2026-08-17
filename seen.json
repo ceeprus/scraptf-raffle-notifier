@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "Q3HKUA": {
-   "msg": "1535958545462202378",
-   "end": 1786357441,
-   "title": "Grabli304's raffle\u2503Day 161",
-   "items": 2,
-   "ended": true
-  },
   "EIEW1I": {
    "msg": "1535965831241011301",
    "end": 1786358581,
@@ -7851,6 +7844,20 @@
    "msg": "1538855643069292645",
    "end": 1787047200,
    "title": "Gifted Amputator #9",
+   "items": 1,
+   "ended": false
+  },
+  "CFYS3R": {
+   "msg": "1538857597086597180",
+   "end": 1787048642,
+   "title": "Grabli304's raffle\u2503Day 169",
+   "items": 2,
+   "ended": false
+  },
+  "XAPQRC": {
+   "msg": "1538857605651365898",
+   "end": 1787048581,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
