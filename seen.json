@@ -7117,14 +7117,14 @@
    "end": 1786972622,
    "title": "End of Line",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7MN2VL": {
    "msg": "1538545523194331196",
    "end": 1786973400,
    "title": "Question 4 You",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "Z2IYCL": {
    "msg": "1538551430065954867",
@@ -7453,7 +7453,7 @@
    "end": 1786973341,
    "title": "Bedtime question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8S3LKL": {
    "msg": "1538729296653459517",
@@ -7824,6 +7824,20 @@
    "end": 1787058000,
    "title": "SMONK - Super Ghostbusters Animated",
    "items": 1,
+   "ended": false
+  },
+  "CF0C1L": {
+   "msg": "1538902911092789249",
+   "end": 1787058781,
+   "title": "24,773 Raffles Entered,  149 Raffles Won.",
+   "items": 17,
+   "ended": false
+  },
+  "MN9HJ2": {
+   "msg": "1538902921528213585",
+   "end": 1787058602,
+   "title": "3,000 Items Raffled",
+   "items": 14,
    "ended": false
   }
  },
