@@ -84,32 +84,11 @@
    "items": 1,
    "ended": false
   },
-  "1MREWL": {
-   "msg": "1535913228847284245",
-   "end": 1786345861,
-   "title": "WON MY SECOND RAFFLE",
-   "items": 1,
-   "ended": true
-  },
   "YYTD32": {
    "msg": "1535916975329517579",
    "end": 1786347121,
    "title": "more slug fun facts.",
    "items": 4,
-   "ended": true
-  },
-  "YH5DF0": {
-   "msg": "1535916981843263619",
-   "end": 1786347000,
-   "title": "Day 61 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
-  "T731RC": {
-   "msg": "1535916987732070431",
-   "end": 1786347000,
-   "title": "Day 56 of Asking for Mystery Raffles",
-   "items": 1,
    "ended": true
   },
   "YZNES8": {
@@ -7208,7 +7187,7 @@
    "end": 1786950602,
    "title": "A Story",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "AS1SXT": {
    "msg": "1538455197070786570",
@@ -7516,7 +7495,7 @@
    "end": 1786950602,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G9UMG5": {
    "msg": "1538631094981763183",
@@ -7810,6 +7789,20 @@
    "end": 1787035081,
    "title": "lolz",
    "items": 1,
+   "ended": false
+  },
+  "QPOJ2S": {
+   "msg": "1538812292823777301",
+   "end": 1787038081,
+   "title": "drawing #4",
+   "items": 1,
+   "ended": false
+  },
+  "45L3UG": {
+   "msg": "1538812299824070757",
+   "end": 1787037661,
+   "title": "Mad Dog Monday #264",
+   "items": 2,
    "ended": false
   }
  },
