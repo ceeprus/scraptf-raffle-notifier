@@ -553,13 +553,6 @@
    "items": 4,
    "ended": true
   },
-  "9NX2O6": {
-   "msg": "1536192623335706724",
-   "end": 1786348261,
-   "title": "Dont spend it all in 1 place",
-   "items": 1,
-   "ended": true
-  },
   "MH5HQD": {
    "msg": "1536200152270774433",
    "end": 1786414501,
@@ -7208,14 +7201,14 @@
    "end": 1786953541,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #78 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N0KHUT": {
    "msg": "1538461928907604008",
    "end": 1786953421,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #77 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C7L223": {
    "msg": "1538470953305112617",
@@ -7803,6 +7796,13 @@
    "end": 1787038382,
    "title": "Raffle",
    "items": 3,
+   "ended": false
+  },
+  "B2TQYB": {
+   "msg": "1538819887588188212",
+   "end": 1786996800,
+   "title": "[Fallen Tributes/Night 14] Scrap tf HG",
+   "items": 1,
    "ended": false
   }
  },
