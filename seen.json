@@ -84,38 +84,10 @@
    "items": 1,
    "ended": false
   },
-  "YZNES8": {
-   "msg": "1535928339477307443",
-   "end": 1786350242,
-   "title": "Unboxing failure part 2.",
-   "items": 11,
-   "ended": true
-  },
-  "N6SCNL": {
-   "msg": "1535928351351513219",
-   "end": 1786350062,
-   "title": "Unboxing failure.",
-   "items": 17,
-   "ended": true
-  },
-  "F38O6N": {
-   "msg": "1535928361094742077",
-   "end": 1786348862,
-   "title": "\u2728\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday \u2728\ufe0f#1500\u2728\ufe0f \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728\ufe0f",
-   "items": 9,
-   "ended": true
-  },
   "3016XB": {
    "msg": "1535935916403720212",
    "end": 1786351142,
    "title": "Day 28 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
-  "J4961N": {
-   "msg": "1535935932384149504",
-   "end": 1786350361,
-   "title": "15th Raffle",
    "items": 1,
    "ended": true
   },
@@ -7194,7 +7166,7 @@
    "end": 1786953782,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #79 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7FY1MV": {
    "msg": "1538461922603573248",
