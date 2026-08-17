@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "MZH75A": {
-   "msg": "1535800057755082813",
-   "end": 1786319641,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "B3VXQQ": {
-   "msg": "1535800065384251493",
-   "end": 1786319581,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "72II83": {
-   "msg": "1535800070794903634",
-   "end": 1786319282,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "Y2MYKM": {
    "msg": "1535807542096171079",
    "end": 1786320901,
@@ -117,13 +96,6 @@
    "end": 1786320542,
    "title": "\ud83d\udc1f",
    "items": 150,
-   "ended": true
-  },
-  "QFUO2G": {
-   "msg": "1535807559338823684",
-   "end": 1786319941,
-   "title": "Untitled raffle",
-   "items": 60,
    "ended": true
   },
   "DI2LJ2": {
@@ -7306,7 +7278,7 @@
    "end": 1786924322,
    "title": "Gift from me to you guys!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "R5Y9KL": {
    "msg": "1538347748099624981",
@@ -7926,9 +7898,9 @@
   }
  },
  "megaraffle": {
-  "num": 1165,
-  "end": 1786924800,
-  "msg": "1537612021930000456",
+  "num": 1166,
+  "end": 1787184000,
+  "msg": "1538699101040935033",
   "ended": false
  }
 }
