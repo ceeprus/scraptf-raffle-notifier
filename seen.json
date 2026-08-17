@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "9EHC47": {
-   "msg": "1536017600428122194",
-   "end": 1786370941,
-   "title": "Righteous Brian",
-   "items": 1,
-   "ended": true
-  },
   "KGUWRM": {
    "msg": "1536018923294687293",
    "end": 1786372201,
@@ -7117,14 +7110,14 @@
    "end": 1786976702,
    "title": "Noise Maker - Winter Holiday",
    "items": 52,
-   "ended": false
+   "ended": true
   },
   "P28RCG": {
    "msg": "1538555613016236193",
    "end": 1786976282,
    "title": "Repairs.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "M7I9F9": {
    "msg": "1538566151422869585",
@@ -7446,7 +7439,7 @@
    "end": 1786976341,
    "title": "Lost my Childest account, lets start again",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7JYY8R": {
    "msg": "1538736796941160542",
@@ -7817,6 +7810,20 @@
    "end": 1787058602,
    "title": "3,000 Items Raffled",
    "items": 14,
+   "ended": false
+  },
+  "D4Z0JE": {
+   "msg": "1538917773508612177",
+   "end": 1787062621,
+   "title": "BLAH BLAH BLAH 'BOUT TRAUMA",
+   "items": 1,
+   "ended": false
+  },
+  "L9W8VL": {
+   "msg": "1538917781867728966",
+   "end": 1786997041,
+   "title": "\ud83c\udf0a I saw, that some people share their entries to win ratio",
+   "items": 4,
    "ended": false
   }
  },
