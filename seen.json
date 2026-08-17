@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "DI2LJ2": {
-   "msg": "1535815123204055050",
-   "end": 1786323061,
-   "title": "I'M BACK!",
-   "items": 1,
-   "ended": true
-  },
-  "10LOTS": {
-   "msg": "1535822645248000010",
-   "end": 1786323600,
-   "title": "Reminder to eat n' drink water if ye haven't yet #267",
-   "items": 5,
-   "ended": true
-  },
   "MDLVNV": {
    "msg": "1535830232643145819",
    "end": 1786326361,
@@ -7285,7 +7271,7 @@
    "end": 1786928400,
    "title": "Reminder to eat n' drink water if ye haven't yet #273",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "CDW3KG": {
    "msg": "1538366897068707840",
