@@ -7068,7 +7068,7 @@
    "end": 1787001241,
    "title": "Don't get stuck in a loop, especially a time traveling one",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EG4XY7": {
    "msg": "1538668879897821374",
@@ -7355,7 +7355,7 @@
    "end": 1787001361,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AL3TMH": {
    "msg": "1538842516093149305",
@@ -7376,14 +7376,14 @@
    "end": 1787001181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CQVRBX": {
    "msg": "1538842536016216174",
    "end": 1787001061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PO72Z0": {
    "msg": "1538842543653912609",
@@ -7397,7 +7397,7 @@
    "end": 1787000881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9WNV19": {
    "msg": "1538850082101796894",
@@ -7782,6 +7782,13 @@
    "end": 1787086800,
    "title": "checkup #93 | Nothing to say",
    "items": 1,
+   "ended": false
+  },
+  "A0FYID": {
+   "msg": "1539020299373121597",
+   "end": 1787087341,
+   "title": "Tricks I learned from a plumber #2",
+   "items": 2,
    "ended": false
   }
  },
