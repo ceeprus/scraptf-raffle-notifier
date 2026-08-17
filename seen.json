@@ -84,34 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "TA4RMA": {
-   "msg": "1536086914770407545",
-   "end": 1786387861,
-   "title": "Hey guys I just wanted to say",
-   "items": 4,
-   "ended": true
-  },
-  "I0RQME": {
-   "msg": "1536086921888145510",
-   "end": 1786386961,
-   "title": "So I opened a few crates last night...",
-   "items": 3,
-   "ended": true
-  },
-  "HLIWIU": {
-   "msg": "1536086929060134942",
-   "end": 1786386421,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "J3093W": {
-   "msg": "1536089521207124110",
-   "end": 1786388400,
-   "title": "#32 Weekly dose of Polish songs",
-   "items": 1,
-   "ended": true
-  },
   "EWIRSP": {
    "msg": "1536100370332520609",
    "end": 1786390441,
@@ -782,13 +754,6 @@
    "end": 1786471862,
    "title": "Waluigi time",
    "items": 2,
-   "ended": true
-  },
-  "OE5GXP": {
-   "msg": "1536441769527353406",
-   "end": 1786387201,
-   "title": "\ud83d\udc9aTake away my noisemakers#10\ud83d\udc9a",
-   "items": 50,
    "ended": true
   },
   "V42ATH": {
@@ -7103,14 +7068,14 @@
    "end": 1786991342,
    "title": "art I made 5",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "OZI634": {
    "msg": "1538616004568023140",
    "end": 1786991161,
    "title": "art I made 4",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BWNJG8": {
    "msg": "1538616013480927253",
@@ -7837,6 +7802,13 @@
    "msg": "1538976893834109010",
    "end": 1787075762,
    "title": "Daily Brass Beast #541",
+   "items": 1,
+   "ended": false
+  },
+  "KLBZLA": {
+   "msg": "1538985981477396520",
+   "end": 1787077502,
+   "title": "Kiestu's Oil Spill question",
    "items": 1,
    "ended": false
   }
