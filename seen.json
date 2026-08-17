@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "YYTD32": {
-   "msg": "1535916975329517579",
-   "end": 1786347121,
-   "title": "more slug fun facts.",
-   "items": 4,
-   "ended": true
-  },
   "YZNES8": {
    "msg": "1535928339477307443",
    "end": 1786350242,
@@ -7201,7 +7194,7 @@
    "end": 1786951922,
    "title": "Slugma Chain raffle #8-9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "52ZWLA": {
    "msg": "1538461915045691442",
@@ -7803,6 +7796,13 @@
    "end": 1787037661,
    "title": "Mad Dog Monday #264",
    "items": 2,
+   "ended": false
+  },
+  "MXRIQJ": {
+   "msg": "1538815741443186768",
+   "end": 1787038382,
+   "title": "Raffle",
+   "items": 3,
    "ended": false
   }
  },
