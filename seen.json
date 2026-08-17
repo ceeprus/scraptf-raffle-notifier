@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "MKC394": {
-   "msg": "1535875536709226506",
-   "end": 1786337521,
-   "title": "Day 3 of asking for Slugma Chain emoticon",
-   "items": 40,
-   "ended": true
-  },
-  "1VKHUZ": {
-   "msg": "1535875543445020733",
-   "end": 1786337341,
-   "title": "We are the Slugma Chain Emoji-lings! Please feed us! #2",
-   "items": 1,
-   "ended": true
-  },
   "ZDSUGP": {
    "msg": "1535883036376432670",
    "end": 1786339381,
@@ -476,13 +462,6 @@
    "items": 3,
    "ended": true
   },
-  "DQEGOS": {
-   "msg": "1536064264094220339",
-   "end": 1786338000,
-   "title": "[Fallen Tributes/Night 3] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "VIW77Q": {
    "msg": "1536078702394347550",
    "end": 1786385401,
@@ -761,13 +740,6 @@
    "end": 1786378021,
    "title": "My favorite shotgun skin :3",
    "items": 1,
-   "ended": true
-  },
-  "FC3FJ0": {
-   "msg": "1536230341986222090",
-   "end": 1786337581,
-   "title": "20% Bau! Bau! Slugma",
-   "items": 20,
    "ended": true
   },
   "6S5JEQ": {
@@ -7306,7 +7278,7 @@
    "end": 1786941661,
    "title": "Kiestu has drank a liquefied brownie and ice cream drink",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q6OT1V": {
    "msg": "1538412184743321670",
@@ -7572,7 +7544,7 @@
    "end": 1786941541,
    "title": "First Raffle! :D",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "T0BSK3": {
    "msg": "1538590119488000135",
@@ -7859,6 +7831,41 @@
    "end": 1787026321,
    "title": "17 August",
    "items": 7,
+   "ended": false
+  },
+  "MGHSAI": {
+   "msg": "1538774575138078800",
+   "end": 1787028842,
+   "title": "Won this in the megaraffle",
+   "items": 1,
+   "ended": false
+  },
+  "85FM8L": {
+   "msg": "1538774582075330672",
+   "end": 1787028662,
+   "title": "I'm pretty sure it's slugma day 9",
+   "items": 1,
+   "ended": false
+  },
+  "SDBTK5": {
+   "msg": "1538774589000130601",
+   "end": 1787028541,
+   "title": "Day 63 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "AUDL5Q": {
+   "msg": "1538774597124755536",
+   "end": 1787028481,
+   "title": "(Raffle #3_) What are your Halloween plans?",
+   "items": 1,
+   "ended": false
+  },
+  "T3ADRC": {
+   "msg": "1538774602887594015",
+   "end": 1787028361,
+   "title": "Day 68 of Asking for a Follow Button",
+   "items": 1,
    "ended": false
   }
  },
