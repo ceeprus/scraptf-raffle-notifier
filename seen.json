@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "CKIBVE": {
-   "msg": "1535973637759172669",
-   "end": 1786359782,
-   "title": "200 tips given out",
-   "items": 15,
-   "ended": true
-  },
   "GKR5MZ": {
    "msg": "1535988736360185876",
    "end": 1786364402,
@@ -7830,6 +7823,20 @@
    "msg": "1538857605651365898",
    "end": 1787048581,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "F55Q6O": {
+   "msg": "1538869315804074006",
+   "end": 1787051101,
+   "title": "my first happy scrappy (and my story)",
+   "items": 1,
+   "ended": false
+  },
+  "KOHJ1A": {
+   "msg": "1538869322972397660",
+   "end": 1787050800,
+   "title": "AAUGH!!! That beagle threw!",
    "items": 1,
    "ended": false
   }
