@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "5I0OF7": {
-   "msg": "1536064226999803974",
-   "end": 1786382761,
-   "title": "\u30d7\u30ec\u30a4",
-   "items": 1,
-   "ended": true
-  },
-  "LJ1W6A": {
-   "msg": "1536064234197229569",
-   "end": 1786382521,
-   "title": "Birthday Raffle!",
-   "items": 17,
-   "ended": true
-  },
   "VIW77Q": {
    "msg": "1536078702394347550",
    "end": 1786385401,
@@ -357,13 +343,6 @@
    "items": 1,
    "ended": true
   },
-  "9YOC44": {
-   "msg": "1536253020554403860",
-   "end": 1786382821,
-   "title": "sans tf2",
-   "items": 1,
-   "ended": true
-  },
   "D8P2OO": {
    "msg": "1536260539955806208",
    "end": 1786429621,
@@ -565,13 +544,6 @@
    "end": 1786454461,
    "title": "My first anime movie???",
    "items": 1,
-   "ended": true
-  },
-  "KBBOBA": {
-   "msg": "1536366232809250950",
-   "end": 1786382461,
-   "title": "Who enters this raffle will get some ref, i guess",
-   "items": 4,
    "ended": true
   },
   "P2HFWP": {
@@ -7831,6 +7803,13 @@
    "end": 1787072400,
    "title": "Daily raffle until TF2 gets a major update #594",
    "items": 3,
+   "ended": false
+  },
+  "174AU8": {
+   "msg": "1538963290049482765",
+   "end": 1787073481,
+   "title": "I Drew Ts 21",
+   "items": 1,
    "ended": false
   }
  },
