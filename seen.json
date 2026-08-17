@@ -105,13 +105,6 @@
    "items": 8,
    "ended": true
   },
-  "ZF3LCD": {
-   "msg": "1536064256041296005",
-   "end": 1786381200,
-   "title": "Daily raffle until TF2 gets a major update #586",
-   "items": 3,
-   "ended": true
-  },
   "VIW77Q": {
    "msg": "1536078702394347550",
    "end": 1786385401,
@@ -684,13 +677,6 @@
    "end": 1786464000,
    "title": "Weekly  #72",
    "items": 1,
-   "ended": true
-  },
-  "KRBRVZ": {
-   "msg": "1536409685886894111",
-   "end": 1786381081,
-   "title": "Untitled raffle",
-   "items": 2,
    "ended": true
   },
   "W7P6CY": {
@@ -7124,7 +7110,7 @@
    "end": 1786985941,
    "title": "I Drew Ts 20",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZHUPQM": {
    "msg": "1538600900300509255",
