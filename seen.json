@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "E2DACN": {
-   "msg": "1536035072866787410",
-   "end": 1786375800,
-   "title": "MK Poll #2 + The Favorites of Music #271 & #272",
-   "items": 1,
-   "ended": true
-  },
   "OVDJFW": {
    "msg": "1536041622762950719",
    "end": 1786376762,
@@ -7103,7 +7096,7 @@
    "end": 1786980001,
    "title": "Marvelous Sunday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZJCYLI": {
    "msg": "1538573826097676451",
@@ -7824,6 +7817,13 @@
    "end": 1787065261,
    "title": "Yo mama so fat",
    "items": 6,
+   "ended": false
+  },
+  "X684QE": {
+   "msg": "1538933096311816303",
+   "end": 1787066461,
+   "title": "A reminder for life",
+   "items": 1,
    "ended": false
   }
  },
