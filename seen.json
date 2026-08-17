@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "EMDH3T": {
-   "msg": "1535951007849386035",
-   "end": 1786356000,
-   "title": "Gifted Boston Basher",
-   "items": 1,
-   "ended": true
-  },
   "Q3HKUA": {
    "msg": "1535958545462202378",
    "end": 1786357441,
@@ -7823,6 +7816,27 @@
    "msg": "1538842550805332058",
    "end": 1787000881,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9WNV19": {
+   "msg": "1538850082101796894",
+   "end": 1787002442,
+   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #82 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "8F6NKM": {
+   "msg": "1538850088787513456",
+   "end": 1787002141,
+   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #81 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "9T20B0": {
+   "msg": "1538850094953013268",
+   "end": 1787001901,
+   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #80 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
