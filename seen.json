@@ -371,13 +371,6 @@
    "items": 8,
    "ended": true
   },
-  "2R5SW2": {
-   "msg": "1536215219196399647",
-   "end": 1786374781,
-   "title": "Raffling Scrap Till I'm Out #999 ( tomorrow)",
-   "items": 1,
-   "ended": true
-  },
   "PN83GE": {
    "msg": "1536218686048968744",
    "end": 1786419482,
@@ -586,13 +579,6 @@
    "end": 1786446841,
    "title": "123",
    "items": 28,
-   "ended": true
-  },
-  "FIOJEE": {
-   "msg": "1536336049859469323",
-   "end": 1786374481,
-   "title": "raffle for luck raffling",
-   "items": 2,
    "ended": true
   },
   "X32QVG": {
@@ -7110,7 +7096,7 @@
    "end": 1786978921,
    "title": "It's sundaaaayyy!",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "3MAVEX": {
    "msg": "1538570702406295614",
@@ -7439,7 +7425,7 @@
    "end": 1786979222,
    "title": "Raffling Scrap Till I'm Out #1006 (Bleh)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DX3IXE": {
    "msg": "1538759474519736422",
@@ -7817,6 +7803,27 @@
    "end": 1787064182,
    "title": "Everything ain't what it seems",
    "items": 1,
+   "ended": false
+  },
+  "IK4UQB": {
+   "msg": "1538929642088562779",
+   "end": 1787066041,
+   "title": "i can't think of a title for this raffle 27\u2122",
+   "items": 1,
+   "ended": false
+  },
+  "VOXYCL": {
+   "msg": "1538929656596791337",
+   "end": 1787065442,
+   "title": "Color No. 216-190-216",
+   "items": 2,
+   "ended": false
+  },
+  "6GLN4L": {
+   "msg": "1538929672233164831",
+   "end": 1787065261,
+   "title": "Yo mama so fat",
+   "items": 6,
    "ended": false
   }
  },
