@@ -84,34 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "5XHLCL": {
-   "msg": "1535848111040237610",
-   "end": 1786330861,
-   "title": "Caf\u00e9 Crit-A-Coffee #1753",
-   "items": 10,
-   "ended": true
-  },
-  "YJOWK6": {
-   "msg": "1535848117415583775",
-   "end": 1786330861,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "PQ62QQ": {
-   "msg": "1535852855456702565",
-   "end": 1786331941,
-   "title": "A Jolly Good Time",
-   "items": 60,
-   "ended": true
-  },
-  "QXMPX8": {
-   "msg": "1535852865984274472",
-   "end": 1786331341,
-   "title": "Jl4oCZcyB0aGlzIHN0cmFuZ2UgbWlzY29uY2VwdGlvbiB0aGF0IGlmIHlvdSB3YW50IHRvIGtpbGwg c29tZW9uZSB0aGVuIHlvdeKAmXJlIGVpdGhlciBzaWNrIGluIHRoZSBoZWFkIG9yIHlvdSBoYXZLIG FuZ2VyIG1hbmFnZW1lbnQgaXNzdWVzLiBCdXQsIGl040CZcyB2ZXJ5IGFwcGFyZW50IHRoYXQgSSBK",
-   "items": 9,
-   "ended": true
-  },
   "4QBUXW": {
    "msg": "1535867945257795695",
    "end": 1786334942,
@@ -7299,14 +7271,14 @@
    "end": 1786936322,
    "title": "Daily Kit Fabricator #7",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R1XO2I": {
    "msg": "1538388143848300585",
    "end": 1786935661,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "70XL39": {
    "msg": "1538388150169378928",
@@ -7873,6 +7845,13 @@
    "end": 1787018881,
    "title": "Caf\u00e9 Crit-A-Coffee #1759",
    "items": 10,
+   "ended": false
+  },
+  "5F8QGN": {
+   "msg": "1538750553847234572",
+   "end": 1786979222,
+   "title": "Raffling Scrap Till I'm Out #1006 (Bleh)",
+   "items": 1,
    "ended": false
   }
  },
