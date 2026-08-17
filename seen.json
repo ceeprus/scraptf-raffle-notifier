@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "P7YPKU": {
-   "msg": "1536026189339172945",
-   "end": 1786372981,
-   "title": "We must have more...",
-   "items": 1,
-   "ended": true
-  },
   "E2DACN": {
    "msg": "1536035072866787410",
    "end": 1786375800,
@@ -7817,6 +7810,13 @@
    "end": 1786997041,
    "title": "\ud83c\udf0a I saw, that some people share their entries to win ratio",
    "items": 4,
+   "ended": false
+  },
+  "P2HC38": {
+   "msg": "1538924136020058163",
+   "end": 1787064182,
+   "title": "Everything ain't what it seems",
+   "items": 1,
    "ended": false
   }
  },
