@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "WCSSGZ": {
-   "msg": "1536049143464857739",
-   "end": 1786378981,
-   "title": "Oooh, banana",
-   "items": 6,
-   "ended": true
-  },
   "5I0OF7": {
    "msg": "1536064226999803974",
    "end": 1786382761,
@@ -7124,7 +7117,7 @@
    "end": 1786984141,
    "title": "Daily raffle #347",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5HFONS": {
    "msg": "1538596273995645082",
@@ -7831,6 +7824,13 @@
    "end": 1787068800,
    "title": "Scrap.tf Birthdays - 17 August",
    "items": 3,
+   "ended": false
+  },
+  "FW36ZW": {
+   "msg": "1538948196103889007",
+   "end": 1787069402,
+   "title": "78k Entered",
+   "items": 1,
    "ended": false
   }
  },
