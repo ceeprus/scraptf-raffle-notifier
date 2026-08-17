@@ -91,20 +91,6 @@
    "items": 15,
    "ended": true
   },
-  "NDENWA": {
-   "msg": "1535973652141703250",
-   "end": 1786359600,
-   "title": "Cloud cloud go away, come again another day!",
-   "items": 1,
-   "ended": true
-  },
-  "8MH6OB": {
-   "msg": "1535973660035252246",
-   "end": 1786359542,
-   "title": "music time ! !",
-   "items": 1,
-   "ended": true
-  },
   "GKR5MZ": {
    "msg": "1535988736360185876",
    "end": 1786364402,
@@ -7159,7 +7145,7 @@
    "end": 1786964101,
    "title": "Grabli304's raffle\u2503Day 168",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UDB3AL": {
    "msg": "1538502791260143700",
@@ -7173,14 +7159,14 @@
    "end": 1786964400,
    "title": "You'll hear her voice and you WILL like it!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6J9STQ": {
    "msg": "1538505621580550145",
    "end": 1786964342,
    "title": "Give me some songs!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KDM2RI": {
    "msg": "1538510306697945128",
