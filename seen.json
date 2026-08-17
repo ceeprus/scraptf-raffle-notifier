@@ -98,13 +98,6 @@
    "items": 17,
    "ended": true
   },
-  "R4UGL3": {
-   "msg": "1536064247920988191",
-   "end": 1786381621,
-   "title": "popa",
-   "items": 8,
-   "ended": true
-  },
   "VIW77Q": {
    "msg": "1536078702394347550",
    "end": 1786385401,
@@ -7124,7 +7117,7 @@
    "end": 1786986961,
    "title": "Daily Brass Beast #540",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PCB4XJ": {
    "msg": "1538603682231484507",
@@ -7824,6 +7817,20 @@
    "end": 1787071501,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "P8FOFK": {
+   "msg": "1538960235140485185",
+   "end": 1787072821,
+   "title": "i dont fucking win in raffles, so i created this one",
+   "items": 1,
+   "ended": false
+  },
+  "BWUA5D": {
+   "msg": "1538960241822142599",
+   "end": 1787072400,
+   "title": "Daily raffle until TF2 gets a major update #594",
+   "items": 3,
    "ended": false
   }
  },
