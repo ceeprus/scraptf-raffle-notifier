@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "WTUJQJ": {
-   "msg": "1535845320490090506",
-   "end": 1786330081,
-   "title": "I Drew Ts 14",
-   "items": 1,
-   "ended": true
-  },
-  "MMZAMG": {
-   "msg": "1535845327934857277",
-   "end": 1786329600,
-   "title": "Swordpoint Diplomacy",
-   "items": 1,
-   "ended": true
-  },
   "5XHLCL": {
    "msg": "1535848111040237610",
    "end": 1786330861,
@@ -446,20 +432,6 @@
    "end": 1786372201,
    "title": "My Milk Raffle",
    "items": 9,
-   "ended": true
-  },
-  "K1FQPL": {
-   "msg": "1536026177100320838",
-   "end": 1786330262,
-   "title": "Prendo el velador (POM) cortocircuito",
-   "items": 1,
-   "ended": true
-  },
-  "J6LYLP": {
-   "msg": "1536026183161090049",
-   "end": 1786329962,
-   "title": "76k-77k entered",
-   "items": 1,
    "ended": true
   },
   "P7YPKU": {
@@ -7306,7 +7278,7 @@
    "end": 1786934041,
    "title": "Markiplier is streaming FNaF World",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EM00DU": {
    "msg": "1538388125670187079",
@@ -7341,7 +7313,7 @@
    "end": 1786935541,
    "title": "2000 Raffies",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0ZIS7B": {
    "msg": "1538397098259783700",
