@@ -7292,7 +7292,7 @@
    "end": 1786933442,
    "title": "humanmusic",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UT8MTR": {
    "msg": "1538374415753154642",
@@ -7887,6 +7887,20 @@
    "end": 1787016421,
    "title": "Hotels are NOT REAL",
    "items": 1,
+   "ended": false
+  },
+  "8VSYTZ": {
+   "msg": "1538736789118910525",
+   "end": 1786976341,
+   "title": "Lost my Childest account, lets start again",
+   "items": 1,
+   "ended": false
+  },
+  "7JYY8R": {
+   "msg": "1538736796941160542",
+   "end": 1787018881,
+   "title": "Caf\u00e9 Crit-A-Coffee #1759",
+   "items": 10,
    "ended": false
   }
  },
