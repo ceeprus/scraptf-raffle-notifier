@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "BSMMOD": {
-   "msg": "1536116888394793022",
-   "end": 1786394762,
-   "title": "zzzzz",
-   "items": 2,
-   "ended": true
-  },
   "7AJ1IC": {
    "msg": "1536124652512870431",
    "end": 1786395600,
@@ -7789,6 +7782,13 @@
    "end": 1787040000,
    "title": "[DAY 15] Scrap tf HG",
    "items": 1,
+   "ended": false
+  },
+  "MTPIMQ": {
+   "msg": "1539013687451320450",
+   "end": 1787086081,
+   "title": "Sometimes People Need To Stop Talking (Yap)",
+   "items": 3,
    "ended": false
   }
  },
