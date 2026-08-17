@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "VIW77Q": {
-   "msg": "1536078702394347550",
-   "end": 1786385401,
-   "title": "Daily raffle #340",
-   "items": 1,
-   "ended": true
-  },
-  "VHAU82": {
-   "msg": "1536078708610179104",
-   "end": 1786384621,
-   "title": "slugma chain raffle #2",
-   "items": 3,
-   "ended": true
-  },
   "TA4RMA": {
    "msg": "1536086914770407545",
    "end": 1786387861,
@@ -7110,7 +7096,7 @@
    "end": 1786990081,
    "title": "art I've received 4",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "LHAXR6": {
    "msg": "1538615995156144129",
@@ -7816,6 +7802,41 @@
    "msg": "1538968866909200395",
    "end": 1787075341,
    "title": "Daily raffle #348",
+   "items": 1,
+   "ended": false
+  },
+  "I46821": {
+   "msg": "1538976866457878529",
+   "end": 1787076602,
+   "title": "BECOME ONE OF US!",
+   "items": 3,
+   "ended": false
+  },
+  "3X1JQT": {
+   "msg": "1538976873131016344",
+   "end": 1787033161,
+   "title": "Bison",
+   "items": 1,
+   "ended": false
+  },
+  "0CXSI0": {
+   "msg": "1538976881112645662",
+   "end": 1787033042,
+   "title": "TaKe THesE StuFF",
+   "items": 4,
+   "ended": false
+  },
+  "4JA3CF": {
+   "msg": "1538976887131480136",
+   "end": 1787032681,
+   "title": "Tune of the day #310?",
+   "items": 1,
+   "ended": false
+  },
+  "SHLAO5": {
+   "msg": "1538976893834109010",
+   "end": 1787075762,
+   "title": "Daily Brass Beast #541",
    "items": 1,
    "ended": false
   }
