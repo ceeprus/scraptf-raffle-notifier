@@ -91,20 +91,6 @@
    "items": 1,
    "ended": true
   },
-  "2RAVI3": {
-   "msg": "1535815139511762975",
-   "end": 1786322281,
-   "title": "Haven't created a raffle in a while",
-   "items": 1,
-   "ended": true
-  },
-  "WWR0T8": {
-   "msg": "1535815148248375356",
-   "end": 1786321981,
-   "title": "Graveyard Raffle (#9)",
-   "items": 7,
-   "ended": true
-  },
   "10LOTS": {
    "msg": "1535822645248000010",
    "end": 1786323600,
@@ -7271,14 +7257,14 @@
    "end": 1786927201,
    "title": "drawing #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6ZZM9Z": {
    "msg": "1538347755137794070",
    "end": 1786927141,
    "title": "The Era of Demented Mario is finally over!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "8HWK49": {
    "msg": "1538347763031613490",
@@ -7887,6 +7873,13 @@
    "end": 1787011741,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1507 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 16,
+   "ended": false
+  },
+  "SEZMPU": {
+   "msg": "1538709851717505024",
+   "end": 1787012521,
+   "title": "10 Years of scrap\ud83c\udf81\ud83c\udf89",
+   "items": 10,
    "ended": false
   }
  },
