@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "2TCPH5": {
-   "msg": "1536047329075794063",
-   "end": 1786378562,
-   "title": "Character profile",
-   "items": 3,
-   "ended": true
-  },
-  "UVXCEK": {
-   "msg": "1536047337351159818",
-   "end": 1786377661,
-   "title": "Scrappy",
-   "items": 5,
-   "ended": true
-  },
   "WCSSGZ": {
    "msg": "1536049143464857739",
    "end": 1786378981,
@@ -355,13 +341,6 @@
    "end": 1786419482,
    "title": "After 10 years, I went back to playing TF2",
    "items": 8,
-   "ended": true
-  },
-  "IX0PFX": {
-   "msg": "1536230333970645052",
-   "end": 1786378021,
-   "title": "My favorite shotgun skin :3",
-   "items": 1,
    "ended": true
   },
   "G23012": {
@@ -7124,14 +7103,14 @@
    "end": 1786983001,
    "title": "My favourite characters in JJK (i dunno if spoilers) (rerun)",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "GUJNHC": {
    "msg": "1538581585950023733",
    "end": 1786982521,
    "title": "Scrap.tf Birthdays - 16 August",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "V400NV": {
    "msg": "1538590112323993613",
@@ -7838,6 +7817,20 @@
    "end": 1787067000,
    "title": "MK Poll #6 + The Favorites of Music #279 & #280",
    "items": 1,
+   "ended": false
+  },
+  "UUEOW9": {
+   "msg": "1538944810386325631",
+   "end": 1787068800,
+   "title": "Weekly  #73",
+   "items": 1,
+   "ended": false
+  },
+  "E6TGWD": {
+   "msg": "1538944819236175912",
+   "end": 1787068800,
+   "title": "Scrap.tf Birthdays - 17 August",
+   "items": 3,
    "ended": false
   }
  },
