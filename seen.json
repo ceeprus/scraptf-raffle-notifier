@@ -84,34 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "KSJO9G": {
-   "msg": "1535885701298520134",
-   "end": 1786340341,
-   "title": "Peanut Butter Jelly Time!",
-   "items": 1,
-   "ended": true
-  },
-  "I0X3LS": {
-   "msg": "1535885708190027866",
-   "end": 1786339981,
-   "title": "#SlugmaSweep",
-   "items": 3,
-   "ended": true
-  },
-  "CNTIZ3": {
-   "msg": "1535890610857185290",
-   "end": 1786341181,
-   "title": "#24",
-   "items": 1,
-   "ended": true
-  },
-  "QKN5G2": {
-   "msg": "1535890617337385071",
-   "end": 1786340821,
-   "title": "She Is Saving The Day!!",
-   "items": 1,
-   "ended": true
-  },
   "V0AUK1": {
    "msg": "1535898151502749728",
    "end": 1786342502,
@@ -719,13 +691,6 @@
    "end": 1786378021,
    "title": "My favorite shotgun skin :3",
    "items": 1,
-   "ended": true
-  },
-  "6S5JEQ": {
-   "msg": "1536237931839094925",
-   "end": 1786340522,
-   "title": "Infinite raffles glitch",
-   "items": 3,
    "ended": true
   },
   "G23012": {
@@ -7859,6 +7824,20 @@
    "end": 1787030341,
    "title": "Weekly Noisemaker Raffle #3... or well... Until I run out of noise makers",
    "items": 1,
+   "ended": false
+  },
+  "E7DTPA": {
+   "msg": "1538788976104579154",
+   "end": 1787032081,
+   "title": "Daily Kit Fabricator #8",
+   "items": 1,
+   "ended": false
+  },
+  "51UVS8": {
+   "msg": "1538788983612510270",
+   "end": 1787031841,
+   "title": "SLUGMA SUPPORT",
+   "items": 3,
    "ended": false
   }
  },
