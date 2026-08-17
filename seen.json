@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "GKR5MZ": {
-   "msg": "1535988736360185876",
-   "end": 1786364402,
-   "title": "Weekly Noisemaker Raffle #2... or well... Until I run out of noise makers",
-   "items": 1,
-   "ended": true
-  },
-  "28MN7E": {
-   "msg": "1535988742756634725",
-   "end": 1786363921,
-   "title": "Hmmmm...",
-   "items": 1,
-   "ended": true
-  },
   "Z8MM6X": {
    "msg": "1535996315484557516",
    "end": 1786365841,
@@ -369,13 +355,6 @@
    "end": 1786406400,
    "title": "Slugma Supremacy",
    "items": 1,
-   "ended": true
-  },
-  "MTE7DC": {
-   "msg": "1536169929584283729",
-   "end": 1786363742,
-   "title": "free itmes",
-   "items": 5,
    "ended": true
   },
   "FOI46Z": {
@@ -7852,6 +7831,41 @@
    "end": 1787053561,
    "title": "This cowboy is now a husband!",
    "items": 3,
+   "ended": false
+  },
+  "JH2LHR": {
+   "msg": "1538886308024426496",
+   "end": 1787055542,
+   "title": "Hello this is my first raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5NXHKC": {
+   "msg": "1538886318526824509",
+   "end": 1787055061,
+   "title": "My first raffle",
+   "items": 21,
+   "ended": false
+  },
+  "GX1UGF": {
+   "msg": "1538886323979423805",
+   "end": 1787054941,
+   "title": "Silver Spring",
+   "items": 1,
+   "ended": false
+  },
+  "LJLPXF": {
+   "msg": "1538886330950619176",
+   "end": 1787054638,
+   "title": "(Don't lick) The Lollichop",
+   "items": 1,
+   "ended": false
+  },
+  "ZT21B2": {
+   "msg": "1538886337304985702",
+   "end": 1787054400,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
