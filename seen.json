@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "3016XB": {
-   "msg": "1535935916403720212",
-   "end": 1786351142,
-   "title": "Day 28 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
   "XLELDG": {
    "msg": "1535943335968251954",
    "end": 1786352882,
@@ -7194,7 +7187,7 @@
    "end": 1786955581,
    "title": "MvM Update Australium Vote Part 1: Scout Primaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "2SQLBS": {
    "msg": "1538480106824015913",
@@ -7775,6 +7768,13 @@
    "end": 1786996800,
    "title": "[Fallen Tributes/Night 14] Scrap tf HG",
    "items": 1,
+   "ended": false
+  },
+  "HRHC2T": {
+   "msg": "1538834976424853524",
+   "end": 1787042281,
+   "title": "Hii :3     This is my ninth raffle, wow",
+   "items": 2,
    "ended": false
   }
  },
