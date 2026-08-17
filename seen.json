@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "MDLVNV": {
-   "msg": "1535830232643145819",
-   "end": 1786326361,
-   "title": "I JUST GOT MY FIRST AUSTRALIUM",
-   "items": 3,
-   "ended": true
-  },
   "WTUJQJ": {
    "msg": "1535845320490090506",
    "end": 1786330081,
@@ -7271,14 +7264,14 @@
    "end": 1786931821,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0T3ZBG": {
    "msg": "1538366903242719403",
    "end": 1786931281,
    "title": "yeehaw",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "Q3BKM5": {
    "msg": "1538366909848887336",
@@ -7872,6 +7865,27 @@
    "msg": "1538721704338137119",
    "end": 1787015282,
    "title": "(Don't lick) The Lollichop",
+   "items": 1,
+   "ended": false
+  },
+  "YKNA3A": {
+   "msg": "1538729283915087992",
+   "end": 1787017561,
+   "title": "absolute no life",
+   "items": 1,
+   "ended": false
+  },
+  "QRA3KB": {
+   "msg": "1538729290106011821",
+   "end": 1786973341,
+   "title": "Bedtime question",
+   "items": 1,
+   "ended": false
+  },
+  "8S3LKL": {
+   "msg": "1538729296653459517",
+   "end": 1787016421,
+   "title": "Hotels are NOT REAL",
    "items": 1,
    "ended": false
   }
