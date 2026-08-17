@@ -7096,14 +7096,14 @@
    "end": 1786987861,
    "title": "Daily raffle until TF2 gets a major update #593",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "CIYP78": {
    "msg": "1538608487540465674",
    "end": 1786989001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OBU7QO": {
    "msg": "1538612208538353782",
@@ -7809,6 +7809,13 @@
    "msg": "1538963290049482765",
    "end": 1787073481,
    "title": "I Drew Ts 21",
+   "items": 1,
+   "ended": false
+  },
+  "K9Q1VS": {
+   "msg": "1538968866909200395",
+   "end": 1787075341,
+   "title": "Daily raffle #348",
    "items": 1,
    "ended": false
   }
