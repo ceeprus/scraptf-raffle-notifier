@@ -7299,21 +7299,21 @@
    "end": 1786938481,
    "title": "My Favorite Hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QXN6LU": {
    "msg": "1538397114357260462",
    "end": 1786937641,
    "title": "Caf\u00e9 Crit-A-Coffee #1758",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "S1VMX1": {
    "msg": "1538398453686870117",
    "end": 1786939141,
    "title": "Repairs",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K3L20K": {
    "msg": "1538411422403534918",
@@ -7851,6 +7851,13 @@
    "msg": "1538750553847234572",
    "end": 1786979222,
    "title": "Raffling Scrap Till I'm Out #1006 (Bleh)",
+   "items": 1,
+   "ended": false
+  },
+  "DX3IXE": {
+   "msg": "1538759474519736422",
+   "end": 1787024221,
+   "title": "Have you ever won a Megaraffle?",
    "items": 1,
    "ended": false
   }
