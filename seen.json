@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "Z8MM6X": {
-   "msg": "1535996315484557516",
-   "end": 1786365841,
-   "title": "(Not) A Devil",
-   "items": 1,
-   "ended": true
-  },
   "NV9KDT": {
    "msg": "1536003826086055957",
    "end": 1786367162,
@@ -110,13 +103,6 @@
    "end": 1786366862,
    "title": "Completed my first MvM tour, take these ugly hats.",
    "items": 2,
-   "ended": true
-  },
-  "U41TJO": {
-   "msg": "1536003844956487750",
-   "end": 1786366800,
-   "title": "Low effort raffle",
-   "items": 1,
    "ended": true
   },
   "TA4ETK": {
@@ -364,13 +350,6 @@
    "items": 1,
    "ended": true
   },
-  "1CPE8Q": {
-   "msg": "1536177538915766302",
-   "end": 1786365721,
-   "title": "Inside of a notepad.",
-   "items": 5,
-   "ended": true
-  },
   "5HC40Y": {
    "msg": "1536177545509208094",
    "end": 1786408921,
@@ -397,13 +376,6 @@
    "end": 1786410000,
    "title": "Reminder to eat n' drink water if ye haven't yet #268",
    "items": 5,
-   "ended": true
-  },
-  "E7NUX2": {
-   "msg": "1536185065728385114",
-   "end": 1786366800,
-   "title": "[DAY 4] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "MM38I9": {
@@ -712,13 +684,6 @@
    "end": 1786408200,
    "title": "[Fallen Tributes/Night 4] Scrap tf HG",
    "items": 1,
-   "ended": true
-  },
-  "1XCMKC": {
-   "msg": "1536351127430242365",
-   "end": 1786366741,
-   "title": "\ud83d\udc9aTake away my noisemakers#8\ud83d\udc9a",
-   "items": 50,
    "ended": true
   },
   "E6J37K": {
@@ -7152,21 +7117,21 @@
    "end": 1786971181,
    "title": "#SlugmaSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YV08SE": {
    "msg": "1538534629617705021",
    "end": 1786971601,
    "title": "\u0422\u0432\u043e\u0439 \u0433\u043e\u043b\u043e\u0441",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ORJJD4": {
    "msg": "1538534636982902844",
    "end": 1786971600,
    "title": "8 for 1 Sunday",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "E6CY4G": {
    "msg": "1538540500829868133",
@@ -7858,6 +7823,20 @@
    "msg": "1538886337304985702",
    "end": 1787054400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "AXRX7G": {
+   "msg": "1538895395436892262",
+   "end": 1787013482,
+   "title": "More  !!!",
+   "items": 1,
+   "ended": false
+  },
+  "TFB87F": {
+   "msg": "1538895406346539008",
+   "end": 1787013000,
+   "title": "[The Feast] Scrap tf HG",
    "items": 1,
    "ended": false
   }
