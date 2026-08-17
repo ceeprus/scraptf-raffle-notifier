@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "XLELDG": {
-   "msg": "1535943335968251954",
-   "end": 1786352882,
-   "title": "Daily Brass Beast #533",
-   "items": 1,
-   "ended": true
-  },
   "EMDH3T": {
    "msg": "1535951007849386035",
    "end": 1786356000,
@@ -369,13 +362,6 @@
    "end": 1786394762,
    "title": "zzzzz",
    "items": 2,
-   "ended": true
-  },
-  "HWXQAL": {
-   "msg": "1536124645525291009",
-   "end": 1786352522,
-   "title": "Hi lol",
-   "items": 20,
    "ended": true
   },
   "7AJ1IC": {
@@ -7194,7 +7180,7 @@
    "end": 1786957981,
    "title": "MvM Update Australium Vote Part 2: Scout Secondaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8GITP6": {
    "msg": "1538502781281767507",
@@ -7502,7 +7488,7 @@
    "end": 1786958742,
    "title": "[DAY 14] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9PPCY3": {
    "msg": "1538661311590957067",
@@ -7775,6 +7761,69 @@
    "end": 1787042281,
    "title": "Hii :3     This is my ninth raffle, wow",
    "items": 2,
+   "ended": false
+  },
+  "TIMLVU": {
+   "msg": "1538842494442410016",
+   "end": 1787044801,
+   "title": "MvM Update Australium Vote Part 4: Soldier Primaries",
+   "items": 3,
+   "ended": false
+  },
+  "TCAFLX": {
+   "msg": "1538842502398869625",
+   "end": 1787001542,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KSKPH9": {
+   "msg": "1538842509302829057",
+   "end": 1787001361,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AL3TMH": {
+   "msg": "1538842516093149305",
+   "end": 1786961642,
+   "title": "candy cane",
+   "items": 1,
+   "ended": false
+  },
+  "0QQIT5": {
+   "msg": "1538842523089371259",
+   "end": 1787044381,
+   "title": "MvM Update Australium Vote Part 3: Scout Melees",
+   "items": 3,
+   "ended": false
+  },
+  "U5OPB0": {
+   "msg": "1538842529586221066",
+   "end": 1787001181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CQVRBX": {
+   "msg": "1538842536016216174",
+   "end": 1787001061,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "PO72Z0": {
+   "msg": "1538842543653912609",
+   "end": 1787044202,
+   "title": "support SLUGMA",
+   "items": 2,
+   "ended": false
+  },
+  "4T23EW": {
+   "msg": "1538842550805332058",
+   "end": 1787000881,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
