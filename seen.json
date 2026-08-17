@@ -84,27 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "ZDSUGP": {
-   "msg": "1535883036376432670",
-   "end": 1786339381,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "P8VOKU": {
-   "msg": "1535883043905212436",
-   "end": 1786339261,
-   "title": "Slugma Bau! Bau!",
-   "items": 10,
-   "ended": true
-  },
-  "49GV3H": {
-   "msg": "1535883051723133008",
-   "end": 1786339081,
-   "title": "Make some noise",
-   "items": 1,
-   "ended": true
-  },
   "KSJO9G": {
    "msg": "1535885701298520134",
    "end": 1786340341,
@@ -7865,6 +7844,20 @@
    "msg": "1538774602887594015",
    "end": 1787028361,
    "title": "Day 68 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "MVWLUK": {
+   "msg": "1538782087652450314",
+   "end": 1787030762,
+   "title": "Wario Ware for peace (Unless it becomes profitable again)",
+   "items": 2,
+   "ended": false
+  },
+  "16KBDS": {
+   "msg": "1538782093385932833",
+   "end": 1787030341,
+   "title": "Weekly Noisemaker Raffle #3... or well... Until I run out of noise makers",
    "items": 1,
    "ended": false
   }
