@@ -98,13 +98,6 @@
    "items": 1,
    "ended": true
   },
-  "5LDG3J": {
-   "msg": "1535988749857591441",
-   "end": 1786363200,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "Z8MM6X": {
    "msg": "1535996315484557516",
    "end": 1786365841,
@@ -7173,14 +7166,14 @@
    "end": 1786968000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2Q8MBD": {
    "msg": "1538517896710463588",
    "end": 1786967281,
    "title": "A joke. I don\u2019t know whether you\u2019ll understand or not. Whatever. Here we go.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "58VWQ0": {
    "msg": "1538532991125561345",
@@ -7852,6 +7845,13 @@
    "end": 1787051822,
    "title": "First raffle",
    "items": 5,
+   "ended": false
+  },
+  "MCTVTW": {
+   "msg": "1538880280297869402",
+   "end": 1787053561,
+   "title": "This cowboy is now a husband!",
+   "items": 3,
    "ended": false
   }
  },
