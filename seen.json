@@ -1211,13 +1211,6 @@
    "items": 1,
    "ended": true
   },
-  "TNOKFI": {
-   "msg": "1536502157531029514",
-   "end": 1786403761,
-   "title": "MVM is a sham.",
-   "items": 50,
-   "ended": true
-  },
   "6K2GIM": {
    "msg": "1536502164892033134",
    "end": 1786486442,
@@ -7075,7 +7068,7 @@
    "end": 1787009101,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "RLF7PL": {
    "msg": "1538706601391825026",
@@ -7775,6 +7768,13 @@
    "end": 1787050981,
    "title": "combine it, or not",
    "items": 5,
+   "ended": false
+  },
+  "5MC5EE": {
+   "msg": "1539053876685054052",
+   "end": 1787095201,
+   "title": "Baby how you doing?",
+   "items": 1,
    "ended": false
   }
  },
