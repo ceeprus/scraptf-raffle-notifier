@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "7AJ1IC": {
-   "msg": "1536124652512870431",
-   "end": 1786395600,
-   "title": "checkup #85 | Pok\u00e9mon",
-   "items": 1,
-   "ended": true
-  },
   "2NL6GY": {
    "msg": "1536132230215110676",
    "end": 1786398841,
@@ -866,13 +859,6 @@
    "end": 1786474741,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": true
-  },
-  "32SJOQ": {
-   "msg": "1536456217810042920",
-   "end": 1786395482,
-   "title": "Raffle\ud83e\uddc2",
-   "items": 2,
    "ended": true
   },
   "J08UI9": {
@@ -7789,6 +7775,13 @@
    "end": 1787086081,
    "title": "Sometimes People Need To Stop Talking (Yap)",
    "items": 3,
+   "ended": false
+  },
+  "YYLC2H": {
+   "msg": "1539016173121699841",
+   "end": 1787086800,
+   "title": "checkup #93 | Nothing to say",
+   "items": 1,
    "ended": false
   }
  },
