@@ -91,20 +91,6 @@
    "items": 48,
    "ended": true
   },
-  "11NHNX": {
-   "msg": "1536132239375597678",
-   "end": 1786398301,
-   "title": "Power Scale #5",
-   "items": 14,
-   "ended": true
-  },
-  "459GOD": {
-   "msg": "1536132246795321426",
-   "end": 1786397941,
-   "title": "Daily Brass Beast #534",
-   "items": 1,
-   "ended": true
-  },
   "FKB8QL": {
    "msg": "1536146399266218055",
    "end": 1786401541,
@@ -7082,7 +7068,7 @@
    "end": 1787003161,
    "title": "Six year Scrappy",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "66PFGA": {
    "msg": "1538676400821764267",
@@ -7397,7 +7383,7 @@
    "end": 1787002442,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #82 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8F6NKM": {
    "msg": "1538850088787513456",
@@ -7782,6 +7768,20 @@
    "end": 1787087341,
    "title": "Tricks I learned from a plumber #2",
    "items": 2,
+   "ended": false
+  },
+  "GP2QQE": {
+   "msg": "1539027890128031865",
+   "end": 1787089261,
+   "title": "Toast",
+   "items": 22,
+   "ended": false
+  },
+  "L32HZJ": {
+   "msg": "1539027897707270195",
+   "end": 1787088541,
+   "title": "I did something for gmod workshop",
+   "items": 30,
    "ended": false
   }
  },
