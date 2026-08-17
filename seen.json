@@ -623,13 +623,6 @@
    "items": 1,
    "ended": true
   },
-  "4UZ82T": {
-   "msg": "1536169922600894556",
-   "end": 1786335421,
-   "title": "who wants to hold paws with me AGAIN",
-   "items": 14,
-   "ended": true
-  },
   "MTE7DC": {
    "msg": "1536169929584283729",
    "end": 1786363742,
@@ -7859,6 +7852,13 @@
    "end": 1787025300,
    "title": "Old Wounds",
    "items": 1,
+   "ended": false
+  },
+  "AC5CAI": {
+   "msg": "1538766997612138526",
+   "end": 1787026321,
+   "title": "17 August",
+   "items": 7,
    "ended": false
   }
  },
