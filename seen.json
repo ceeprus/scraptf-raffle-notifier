@@ -931,13 +931,6 @@
    "items": 1,
    "ended": true
   },
-  "06JJP6": {
-   "msg": "1536471948304060426",
-   "end": 1786396861,
-   "title": "Beep boop",
-   "items": 1,
-   "ended": true
-  },
   "T4SUQX": {
    "msg": "1536471954750443661",
    "end": 1786479421,
@@ -7054,7 +7047,7 @@
    "end": 1787001961,
    "title": "#33 Weekly dose of Polish songs",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JRWZ7U": {
    "msg": "1538661304238219367",
@@ -7348,7 +7341,7 @@
    "end": 1787001542,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KSKPH9": {
    "msg": "1538842509302829057",
@@ -7411,14 +7404,14 @@
    "end": 1787002141,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #81 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9T20B0": {
    "msg": "1538850094953013268",
    "end": 1787001901,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #80 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AK33QG": {
    "msg": "1538855636689883226",
