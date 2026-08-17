@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "SSPQKP": {
-   "msg": "1536107135853662331",
-   "end": 1786392000,
-   "title": "Do you like noise?",
-   "items": 24,
-   "ended": true
-  },
   "BTYNJ5": {
    "msg": "1536109534429454346",
    "end": 1786393622,
@@ -906,13 +899,6 @@
   "GQMWYY": {
    "msg": "1536456232947421324",
    "end": 1786474561,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "4829MH": {
-   "msg": "1536456239507185695",
-   "end": 1786391641,
    "title": "\ud83e\uddc2",
    "items": 1,
    "ended": true
@@ -7068,21 +7054,21 @@
    "end": 1786996801,
    "title": "purrr~",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "X6XD6Q": {
    "msg": "1538641471870079046",
    "end": 1786996800,
    "title": "We need more Engineer Mains! | #006",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "TSYBB2": {
    "msg": "1538641478731956407",
    "end": 1786996800,
    "title": "Equestria 4ever",
    "items": 74,
-   "ended": false
+   "ended": true
   },
   "Y51VHE": {
    "msg": "1538646201317199933",
@@ -7369,7 +7355,7 @@
    "end": 1786996800,
    "title": "[Fallen Tributes/Night 14] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HRHC2T": {
    "msg": "1538834976424853524",
