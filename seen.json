@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "EWIRSP": {
-   "msg": "1536100370332520609",
-   "end": 1786390441,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "SSPQKP": {
    "msg": "1536107135853662331",
    "end": 1786392000,
@@ -7789,6 +7782,20 @@
    "end": 1787080021,
    "title": "Data Harvesting",
    "items": 2,
+   "ended": false
+  },
+  "3EB14B": {
+   "msg": "1538997992584122369",
+   "end": 1787081282,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1508 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 17,
+   "ended": false
+  },
+  "GK82HO": {
+   "msg": "1538997999173374092",
+   "end": 1787081222,
+   "title": "It's been a while",
+   "items": 1,
    "ended": false
   }
  },
