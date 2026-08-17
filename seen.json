@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "2NL6GY": {
-   "msg": "1536132230215110676",
-   "end": 1786398841,
-   "title": "Equestria 4ever",
-   "items": 48,
-   "ended": true
-  },
   "FKB8QL": {
    "msg": "1536146399266218055",
    "end": 1786401541,
@@ -7054,14 +7047,14 @@
    "end": 1787003461,
    "title": "Music Discovery #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ARWNCU": {
    "msg": "1538668886239485952",
    "end": 1787003400,
    "title": "checkup #92 | Scritchy Scratchy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "027UCX": {
    "msg": "1538668894942789682",
@@ -7782,6 +7775,13 @@
    "end": 1787088541,
    "title": "I did something for gmod workshop",
    "items": 30,
+   "ended": false
+  },
+  "U4AQR1": {
+   "msg": "1539031305407303730",
+   "end": 1787089681,
+   "title": "What's your guys favorite paint?",
+   "items": 2,
    "ended": false
   }
  },
