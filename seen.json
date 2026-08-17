@@ -91,13 +91,6 @@
    "items": 3,
    "ended": true
   },
-  "ZDS4O6": {
-   "msg": "1535830240167731270",
-   "end": 1786325341,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
   "WTUJQJ": {
    "msg": "1535845320490090506",
    "end": 1786330081,
@@ -7264,7 +7257,7 @@
    "end": 1786928521,
    "title": "what happend with to tf2r?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WQEH6N": {
    "msg": "1538359318053658634",
@@ -7866,6 +7859,20 @@
    "end": 1787012521,
    "title": "10 Years of scrap\ud83c\udf81\ud83c\udf89",
    "items": 10,
+   "ended": false
+  },
+  "X4ZQUT": {
+   "msg": "1538721690408722595",
+   "end": 1787015941,
+   "title": "Battle Cats Propaganda #1375",
+   "items": 1,
+   "ended": false
+  },
+  "37JNAI": {
+   "msg": "1538721704338137119",
+   "end": 1787015282,
+   "title": "(Don't lick) The Lollichop",
+   "items": 1,
    "ended": false
   }
  },
