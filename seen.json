@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "9YQ8O5": {
-   "msg": "1536147317025939518",
-   "end": 1786402142,
-   "title": "found",
-   "items": 4,
-   "ended": true
-  },
-  "BXZ5MG": {
-   "msg": "1536154132715675698",
-   "end": 1786402800,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "D13A57": {
    "msg": "1536161790340112415",
    "end": 1786405381,
@@ -7082,7 +7068,7 @@
    "end": 1787007600,
    "title": "a  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J7WX5J": {
    "msg": "1538694088352735312",
