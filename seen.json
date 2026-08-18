@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OCATE0": {
-   "msg": "1536434223370469406",
-   "end": 1786470721,
-   "title": "Scrap.tf Birthdays - 10 August",
-   "items": 5,
-   "ended": true
-  },
-  "IJ4PFH": {
-   "msg": "1536436758810599515",
-   "end": 1786471141,
-   "title": "Salt",
-   "items": 1,
-   "ended": true
-  },
-  "7F55TX": {
-   "msg": "1536436766540824578",
-   "end": 1786470781,
-   "title": "SlugmaBau! SlugmaBau!",
-   "items": 6,
-   "ended": true
-  },
   "3JJH8N": {
    "msg": "1536441754562076782",
    "end": 1786472581,
@@ -1328,13 +1307,6 @@
    "end": 1786533242,
    "title": "You thought this was just a scrap #192",
    "items": 1,
-   "ended": true
-  },
-  "X3E6HA": {
-   "msg": "1536706015427301386",
-   "end": 1786470781,
-   "title": "\ud83d\udc1f",
-   "items": 3,
    "ended": true
   },
   "M689C6": {
@@ -6921,7 +6893,7 @@
    "end": 1787075762,
    "title": "Daily Brass Beast #541",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KLBZLA": {
    "msg": "1538985981477396520",
@@ -7676,6 +7648,27 @@
    "msg": "1539330891283701801",
    "end": 1787095801,
    "title": "Someone got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "T69GWX": {
+   "msg": "1539333263586369608",
+   "end": 1787162161,
+   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #84 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "PZDPFY": {
+   "msg": "1539333269814906900",
+   "end": 1787161802,
+   "title": "i got my dream scrap.",
+   "items": 1,
+   "ended": false
+  },
+  "O5NVA4": {
+   "msg": "1539333275733069906",
+   "end": 1787161802,
+   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #83 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
