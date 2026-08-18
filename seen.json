@@ -98,13 +98,6 @@
    "items": 1,
    "ended": true
   },
-  "5HC40Y": {
-   "msg": "1536177545509208094",
-   "end": 1786408921,
-   "title": "Give me music recommendations",
-   "items": 1,
-   "ended": true
-  },
   "9H0HPI": {
    "msg": "1536185042034757642",
    "end": null,
@@ -7446,7 +7439,7 @@
    "end": 1787013482,
    "title": "More  !!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TFB87F": {
    "msg": "1538895406346539008",
@@ -7796,6 +7789,20 @@
    "end": 1787098022,
    "title": "Win a Raffle, Make a Raffle! 4",
    "items": 1,
+   "ended": false
+  },
+  "GPUIAR": {
+   "msg": "1539071937203015723",
+   "end": 1787056682,
+   "title": "Went back here again after a while",
+   "items": 4,
+   "ended": false
+  },
+  "QPY7V7": {
+   "msg": "1539071944291524723",
+   "end": 1787056321,
+   "title": "My first raffle",
+   "items": 2,
    "ended": false
   }
  },
