@@ -350,13 +350,6 @@
    "items": 1,
    "ended": true
   },
-  "XKURV2": {
-   "msg": "1536351119314522175",
-   "end": 1786408200,
-   "title": "[Fallen Tributes/Night 4] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "E6J37K": {
    "msg": "1536351133705179176",
    "end": 1786449600,
@@ -7061,14 +7054,14 @@
    "end": 1787011741,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1507 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 16,
-   "ended": false
+   "ended": true
   },
   "SEZMPU": {
    "msg": "1538709851717505024",
    "end": 1787012521,
    "title": "10 Years of scrap\ud83c\udf81\ud83c\udf89",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "X4ZQUT": {
    "msg": "1538721690408722595",
@@ -7460,7 +7453,7 @@
    "end": 1787013000,
    "title": "[The Feast] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A3PEFP": {
    "msg": "1538898626246475856",
@@ -7789,6 +7782,20 @@
    "end": 1787096821,
    "title": "raffle",
    "items": 4,
+   "ended": false
+  },
+  "K2IY7E": {
+   "msg": "1539069000162615356",
+   "end": 1787099402,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "DKWJZO": {
+   "msg": "1539069006462586990",
+   "end": 1787098022,
+   "title": "Win a Raffle, Make a Raffle! 4",
+   "items": 1,
    "ended": false
   }
  },
