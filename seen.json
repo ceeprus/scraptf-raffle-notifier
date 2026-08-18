@@ -483,13 +483,6 @@
    "items": 3,
    "ended": true
   },
-  "MC4601": {
-   "msg": "1536449354968080515",
-   "end": 1786430882,
-   "title": "Steel",
-   "items": 1,
-   "ended": true
-  },
   "JJHKHP": {
    "msg": "1536449362383732736",
    "end": 1786473842,
@@ -635,13 +628,6 @@
    "end": 1786474741,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": true
-  },
-  "J08UI9": {
-   "msg": "1536456225473040395",
-   "end": 1786431482,
-   "title": "My burden is noise.",
-   "items": 10,
    "ended": true
   },
   "GQMWYY": {
@@ -1285,13 +1271,6 @@
    "msg": "1536550393277063249",
    "end": 1786498381,
    "title": "\ud83e\uddc2Slugma Chain raffle #3",
-   "items": 1,
-   "ended": true
-  },
-  "ARYRNZ": {
-   "msg": "1536570122532290651",
-   "end": 1786431241,
-   "title": "Your Eternal Reward",
    "items": 1,
    "ended": true
   },
@@ -7012,14 +6991,14 @@
    "end": 1787035201,
    "title": "Birthday!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "KJH1XQ": {
    "msg": "1538802721899941958",
    "end": 1787035081,
    "title": "lolz",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QPOJ2S": {
    "msg": "1538812292823777301",
@@ -7754,6 +7733,13 @@
    "end": 1787119081,
    "title": "fanumstien hat",
    "items": 1,
+   "ended": false
+  },
+  "RH1QNU": {
+   "msg": "1539167178811514970",
+   "end": 1787122261,
+   "title": "Refined pt9",
+   "items": 18,
    "ended": false
   }
  },
