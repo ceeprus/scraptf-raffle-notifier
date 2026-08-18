@@ -98,97 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "3XZS1A": {
-   "msg": "1536456102328148263",
-   "end": 1786476241,
-   "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "ZNQNW2": {
-   "msg": "1536456111522324582",
-   "end": 1786476181,
-   "title": "I LOVE SALT!! \ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "NMBCC0": {
-   "msg": "1536456117830418434",
-   "end": 1786476121,
-   "title": "Seems like an sluggy war is about to begin.\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "K4S31M": {
-   "msg": "1536456123950039230",
-   "end": 1786476061,
-   "title": "I Challenge Whoever Wins This to Get a Thousand Kills as Gun Spy",
-   "items": 1,
-   "ended": true
-  },
-  "3KFLBO": {
-   "msg": "1536456130627239986",
-   "end": 1786476001,
-   "title": "\ud83e\uddc2Thinking...\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "CCK1TR": {
-   "msg": "1536456137749299301",
-   "end": 1786475941,
-   "title": "I LOVE SALT! \ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "BEI4L9": {
-   "msg": "1536456143470329966",
-   "end": 1786475881,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "GDXLA8": {
-   "msg": "1536456149493358742",
-   "end": 1786475821,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "7FZDN7": {
-   "msg": "1536456156451442698",
-   "end": 1786475762,
-   "title": "okay. free tips",
-   "items": 4,
-   "ended": true
-  },
-  "IZ9B90": {
-   "msg": "1536456161845583954",
-   "end": 1786475521,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WAYOM7": {
-   "msg": "1536456170007437374",
-   "end": 1786475341,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "7M9ILF": {
-   "msg": "1536456178043719843",
-   "end": 1786475221,
-   "title": "I have no strong feelings about this one way or the other.",
-   "items": 5,
-   "ended": true
-  },
-  "1K32RM": {
-   "msg": "1536456184612130836",
-   "end": 1786475161,
-   "title": "\ud83e\uddc2Sodium Chloride\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "TMHG92": {
    "msg": "1536464420937404476",
    "end": 1786477622,
@@ -207,20 +116,6 @@
    "msg": "1536464441179119706",
    "end": 1786476781,
    "title": "can you believe salt ? \ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "MDNA58": {
-   "msg": "1536464447722364938",
-   "end": 1786476601,
-   "title": "bean",
-   "items": 1,
-   "ended": true
-  },
-  "7ZMZPY": {
-   "msg": "1536464454840229908",
-   "end": 1786476482,
-   "title": "I LOVE SALT!!! \ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
    "ended": true
   },
@@ -1264,20 +1159,6 @@
    "msg": "1536728624265429133",
    "end": 1786540562,
    "title": "KILL ALL   's\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "GOZCV6": {
-   "msg": "1536728630661615796",
-   "end": 1786475281,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "MNPQPT": {
-   "msg": "1536728637360050407",
-   "end": 1786475161,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2The Slugs are Salty \ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
    "ended": true
   },
@@ -6767,21 +6648,21 @@
    "end": 1787080021,
    "title": "Data Harvesting",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "3EB14B": {
    "msg": "1538997992584122369",
    "end": 1787081282,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1508 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "GK82HO": {
    "msg": "1538997999173374092",
    "end": 1787081222,
    "title": "It's been a while",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N8ZKSE": {
    "msg": "1539004923344068688",
@@ -7586,6 +7467,27 @@
    "end": 1787165881,
    "title": "you got your dream what? \ud83e\udd28",
    "items": 1,
+   "ended": false
+  },
+  "BCACN8": {
+   "msg": "1539355873242251405",
+   "end": 1787167141,
+   "title": "i got my dream hat",
+   "items": 1,
+   "ended": false
+  },
+  "L0JL2P": {
+   "msg": "1539355880921763932",
+   "end": 1787167022,
+   "title": "dreams and hats.",
+   "items": 3,
+   "ended": false
+  },
+  "BA39VE": {
+   "msg": "1539355888756854784",
+   "end": 1787166961,
+   "title": "I dreamt about my gotten hat.",
+   "items": 12,
    "ended": false
   }
  },
