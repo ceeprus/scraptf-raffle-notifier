@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "TMHG92": {
-   "msg": "1536464420937404476",
-   "end": 1786477622,
-   "title": "#slugmantors I haven't really been keeping up but eh",
-   "items": 5,
-   "ended": true
-  },
   "8QDGQS": {
    "msg": "1536471940834005082",
    "end": 1786479661,
@@ -152,13 +145,6 @@
    "end": 1786478460,
    "title": "No tips.",
    "items": 9,
-   "ended": true
-  },
-  "BA0JUI": {
-   "msg": "1536472010765377556",
-   "end": 1786478400,
-   "title": "Equestria Forever",
-   "items": 54,
    "ended": true
   },
   "Z5L15E": {
@@ -6655,7 +6641,7 @@
    "end": 1787083200,
    "title": "We need more Engineer Mains! | #007",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "L3O7MK": {
    "msg": "1539004929396711555",
@@ -7019,7 +7005,7 @@
    "end": 1787083200,
    "title": "[Fallen Tributes/Night 15] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XFFNG3": {
    "msg": "1539197378131656745",
@@ -7481,6 +7467,13 @@
    "end": 1787167861,
    "title": "Kiestu's question about keeping records of raffles.",
    "items": 1,
+   "ended": false
+  },
+  "B866XN": {
+   "msg": "1539363469504286911",
+   "end": 1787125741,
+   "title": "God is very Good",
+   "items": 31,
    "ended": false
   }
  },
