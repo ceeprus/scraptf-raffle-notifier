@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "E6J37K": {
-   "msg": "1536351133705179176",
-   "end": 1786449600,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "A8MA4Y": {
    "msg": "1536358740389920808",
    "end": 1786452661,
@@ -970,13 +963,6 @@
    "msg": "1536524164196733009",
    "end": 1786490941,
    "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "GIOGE3": {
-   "msg": "1536524820378943508",
-   "end": 1786449481,
-   "title": "\ud83e\uddc2",
    "items": 1,
    "ended": true
   },
@@ -6970,7 +6956,7 @@
    "end": 1787054400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AXRX7G": {
    "msg": "1538895395436892262",
