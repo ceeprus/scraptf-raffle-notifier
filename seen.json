@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "MM38I9": {
-   "msg": "1536189680305971210",
-   "end": 1786412221,
-   "title": "Stuff and things",
-   "items": 70,
-   "ended": true
-  },
   "MH5HQD": {
    "msg": "1536200152270774433",
    "end": 1786414501,
@@ -7040,7 +7033,7 @@
    "end": 1787017561,
    "title": "absolute no life",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QRA3KB": {
    "msg": "1538729290106011821",
@@ -7782,6 +7775,13 @@
    "end": 1787100781,
    "title": "GOOD VIBRATIONS",
    "items": 1,
+   "ended": false
+  },
+  "I8PWHY": {
+   "msg": "1539091677434875915",
+   "end": 1787103241,
+   "title": "Out of backpack space again",
+   "items": 10,
    "ended": false
   }
  },
