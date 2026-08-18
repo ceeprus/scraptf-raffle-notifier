@@ -105,13 +105,6 @@
    "items": 2,
    "ended": true
   },
-  "IZ6K5F": {
-   "msg": "1536336064485261472",
-   "end": 1786446000,
-   "title": "Left her hanging?! Unbelievable!",
-   "items": 1,
-   "ended": true
-  },
   "Z6ANNA": {
    "msg": "1536340413231923262",
    "end": 1786447741,
@@ -6991,7 +6984,7 @@
    "end": 1787050800,
    "title": "AAUGH!!! That beagle threw!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2P6N7S": {
    "msg": "1538872696010444821",
