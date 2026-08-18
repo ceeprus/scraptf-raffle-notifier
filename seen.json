@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "43RPG2": {
-   "msg": "1536424476080873523",
-   "end": 1786468261,
-   "title": "it seems like the SLUG WARS have BEGUN >:C",
-   "items": 5,
-   "ended": true
-  },
-  "WBU0B9": {
-   "msg": "1536424483508723865",
-   "end": 1786468081,
-   "title": "Bau! Bau!",
-   "items": 18,
-   "ended": true
-  },
-  "ZDL9TD": {
-   "msg": "1536424489355837511",
-   "end": 1786468022,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "X5QI27": {
-   "msg": "1536424496305799238",
-   "end": 1786467962,
-   "title": "another raffle because these are fun",
-   "items": 5,
-   "ended": true
-  },
   "77VIDJ": {
    "msg": "1536426656749854771",
    "end": 1786469400,
@@ -6900,7 +6872,7 @@
    "end": 1787072821,
    "title": "i dont fucking win in raffles, so i created this one",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BWUA5D": {
    "msg": "1538960241822142599",
@@ -6914,7 +6886,7 @@
    "end": 1787073481,
    "title": "I Drew Ts 21",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K9Q1VS": {
    "msg": "1538968866909200395",
@@ -7663,6 +7635,48 @@
    "end": 1787156941,
    "title": "i got my dream lollichop.",
    "items": 9,
+   "ended": false
+  },
+  "DFBJO6": {
+   "msg": "1539322923112857670",
+   "end": 1787159701,
+   "title": "I dont need this anymore",
+   "items": 3,
+   "ended": false
+  },
+  "GFSDP4": {
+   "msg": "1539322930239111198",
+   "end": 1787159521,
+   "title": "Daily raffle until TF2 gets a major update #595",
+   "items": 3,
+   "ended": false
+  },
+  "KCNB3W": {
+   "msg": "1539322937017114624",
+   "end": 1787159401,
+   "title": "I got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "HVNR49": {
+   "msg": "1539322944826777662",
+   "end": 1787159161,
+   "title": "I won key here is part from key",
+   "items": 50,
+   "ended": false
+  },
+  "N94JI1": {
+   "msg": "1539322950673506334",
+   "end": 1787159161,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "RK76TP": {
+   "msg": "1539322956105130185",
+   "end": 1787158682,
+   "title": "I think I got my dream hat.",
+   "items": 1,
    "ended": false
   }
  },
