@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "D5S9LS": {
-   "msg": "1536381350452666418",
-   "end": 1786458482,
-   "title": "Quitting announcement (+ statistics!)",
-   "items": 12,
-   "ended": true
-  },
   "E1PCZQ": {
    "msg": "1536395978326941696",
    "end": 1786460581,
@@ -1447,13 +1440,6 @@
    "end": 1786528681,
    "title": "Grabli304's raffle\u2503Day 163",
    "items": 2,
-   "ended": true
-  },
-  "SMR5GY": {
-   "msg": "1536683330236579881",
-   "end": 1786458241,
-   "title": "raffle for luck raffling 2",
-   "items": 1,
    "ended": true
   },
   "7HU0J2": {
@@ -6928,7 +6914,7 @@
    "end": 1787062621,
    "title": "BLAH BLAH BLAH 'BOUT TRAUMA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L9W8VL": {
    "msg": "1538917781867728966",
@@ -7306,7 +7292,7 @@
    "end": 1787062261,
    "title": "First Raffle:>>",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "MBITNC": {
    "msg": "1539106787674816563",
@@ -7593,6 +7579,41 @@
    "end": 1787101021,
    "title": "God is Good",
    "items": 50,
+   "ended": false
+  },
+  "CC8KRQ": {
+   "msg": "1539280397828100288",
+   "end": 1787149562,
+   "title": "stu   ff",
+   "items": 10,
+   "ended": false
+  },
+  "1TP4IK": {
+   "msg": "1539280404274479184",
+   "end": 1787149322,
+   "title": "Thinking about playing my first ToD",
+   "items": 1,
+   "ended": false
+  },
+  "WHJSUK": {
+   "msg": "1539280410876448848",
+   "end": 1787148121,
+   "title": "Bright shinning.",
+   "items": 1,
+   "ended": false
+  },
+  "R2JJYH": {
+   "msg": "1539280417637531808",
+   "end": 1787104800,
+   "title": "Tune of the day #311",
+   "items": 1,
+   "ended": false
+  },
+  "5KD31U": {
+   "msg": "1539280424545816739",
+   "end": 1787147821,
+   "title": "i got my dream hat.",
+   "items": 1,
    "ended": false
   }
  },
