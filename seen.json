@@ -6956,7 +6956,7 @@
    "end": 1787047562,
    "title": "gift of the day #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YZH44X": {
    "msg": "1538855643069292645",
@@ -7662,6 +7662,13 @@
    "msg": "1539197378131656745",
    "end": 1787129401,
    "title": "Daily Kit Fabricator #9",
+   "items": 1,
+   "ended": false
+  },
+  "6EIN8R": {
+   "msg": "1539217686301773908",
+   "end": 1787134261,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #3",
    "items": 1,
    "ended": false
   }
