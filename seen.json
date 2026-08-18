@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "7QF3ND": {
-   "msg": "1536253013658697748",
-   "end": 1786427581,
-   "title": "do you want to know a secret?",
-   "items": 1,
-   "ended": true
-  },
   "D8P2OO": {
    "msg": "1536260539955806208",
    "end": 1786429621,
@@ -7033,7 +7026,7 @@
    "end": 1787032562,
    "title": "Day 10 of asking for Slugma Chain emoticon",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "YR7ZRB": {
    "msg": "1538802715554222142",
@@ -7460,7 +7453,7 @@
    "end": 1787032681,
    "title": "Tune of the day #310?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SHLAO5": {
    "msg": "1538976893834109010",
