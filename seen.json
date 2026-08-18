@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "MH5HQD": {
-   "msg": "1536200152270774433",
-   "end": 1786414501,
-   "title": "Caf\u00e9 Crit-A-Coffee #1754",
-   "items": 10,
-   "ended": true
-  },
   "F6M4C7": {
    "msg": "1536207736327372890",
    "end": 1786416422,
@@ -362,13 +355,6 @@
    "end": 1786458482,
    "title": "Quitting announcement (+ statistics!)",
    "items": 12,
-   "ended": true
-  },
-  "LTJ6DR": {
-   "msg": "1536381360929898546",
-   "end": 1786414861,
-   "title": "MvM Shenanigans",
-   "items": 7,
    "ended": true
   },
   "E1PCZQ": {
@@ -7775,6 +7761,27 @@
    "end": 1787104862,
    "title": "found my first australium in mvm",
    "items": 40,
+   "ended": false
+  },
+  "C7QCNA": {
+   "msg": "1539099189412368536",
+   "end": 1787106302,
+   "title": "Misplaced Fabricators",
+   "items": 4,
+   "ended": false
+  },
+  "46HW5C": {
+   "msg": "1539099203048054865",
+   "end": 1787106121,
+   "title": "Caf\u00e9 Crit-A-Coffee #1760",
+   "items": 10,
+   "ended": false
+  },
+  "DS6MSB": {
+   "msg": "1539099210840936558",
+   "end": 1787062261,
+   "title": "First Raffle:>>",
+   "items": 4,
    "ended": false
   }
  },
