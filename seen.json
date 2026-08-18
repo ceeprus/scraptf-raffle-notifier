@@ -91,34 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "PCXZR4": {
-   "msg": "1536366222768078868",
-   "end": 1786454461,
-   "title": "My first anime movie???",
-   "items": 1,
-   "ended": true
-  },
-  "P2HFWP": {
-   "msg": "1536366240807911435",
-   "end": 1786454282,
-   "title": "Couldn't sell this robot part for months,",
-   "items": 6,
-   "ended": true
-  },
-  "4KKRDM": {
-   "msg": "1536366249397977129",
-   "end": 1786454101,
-   "title": "Question",
-   "items": 6,
-   "ended": true
-  },
-  "VW7HW8": {
-   "msg": "1536366258927439872",
-   "end": 1786453921,
-   "title": "ENDL3SS N01S3",
-   "items": 163,
-   "ended": true
-  },
   "991643": {
    "msg": "1536373997741015140",
    "end": 1786455061,
@@ -6949,14 +6921,14 @@
    "end": 1787058781,
    "title": "24,773 Raffles Entered,  149 Raffles Won.",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "MN9HJ2": {
    "msg": "1538902921528213585",
    "end": 1787058602,
    "title": "3,000 Items Raffled",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "D4Z0JE": {
    "msg": "1538917773508612177",
@@ -7607,6 +7579,27 @@
    "end": 1787142241,
    "title": "Untitled raffle",
    "items": 4,
+   "ended": false
+  },
+  "43005S": {
+   "msg": "1539263273151504506",
+   "end": 1787144400,
+   "title": "Top Gear Tuesday: The Stig's Formula 1 Lap",
+   "items": 2,
+   "ended": false
+  },
+  "9T5YY2": {
+   "msg": "1539263279258673153",
+   "end": 1787144340,
+   "title": "08/18/1978",
+   "items": 1,
+   "ended": false
+  },
+  "PB35VT": {
+   "msg": "1539263288255324293",
+   "end": 1787101021,
+   "title": "God is Good",
+   "items": 50,
    "ended": false
   }
  },
