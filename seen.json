@@ -105,13 +105,6 @@
    "items": 2,
    "ended": true
   },
-  "FWE80C": {
-   "msg": "1536409678840598641",
-   "end": 1786464000,
-   "title": "Weekly  #72",
-   "items": 1,
-   "ended": true
-  },
   "W7P6CY": {
    "msg": "1536411530047004713",
    "end": 1786465561,
@@ -1461,13 +1454,6 @@
    "end": 1786535401,
    "title": "Got something good from 5th tour",
    "items": 6,
-   "ended": true
-  },
-  "LRRY9T": {
-   "msg": "1536706029704839239",
-   "end": 1786462922,
-   "title": "#saveglorp",
-   "items": 1,
    "ended": true
   },
   "P8412D": {
@@ -6935,21 +6921,21 @@
    "end": 1787067722,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QLRPK5": {
    "msg": "1538937250568605797",
    "end": 1787067608,
    "title": "Don't get stuck in a loop, especially a time traveling one",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UD5V0Z": {
    "msg": "1538937258118217768",
    "end": 1787067601,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BC2MPJ": {
    "msg": "1538937265886330970",
@@ -6963,14 +6949,14 @@
    "end": 1787068800,
    "title": "Weekly  #73",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E6TGWD": {
    "msg": "1538944819236175912",
    "end": 1787068800,
    "title": "Scrap.tf Birthdays - 17 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "FW36ZW": {
    "msg": "1538948196103889007",
@@ -7642,6 +7628,34 @@
    "end": 1787153041,
    "title": "I have a question about Re:Zero \u2013 Starting Life in Another World.",
    "items": 16,
+   "ended": false
+  },
+  "92QCTN": {
+   "msg": "1539303077310373959",
+   "end": 1787154301,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "JR8S2C": {
+   "msg": "1539303086445559839",
+   "end": 1787154002,
+   "title": "First Raffle",
+   "items": 11,
+   "ended": false
+  },
+  "JSUUAY": {
+   "msg": "1539303093349654650",
+   "end": 1787154002,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "HT82U9": {
+   "msg": "1539303100764913797",
+   "end": 1787153941,
+   "title": "i got my dream hat.",
+   "items": 1,
    "ended": false
   }
  },
