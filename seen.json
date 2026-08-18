@@ -105,13 +105,6 @@
    "items": 2,
    "ended": true
   },
-  "ZVQPZ5": {
-   "msg": "1536395991257972898",
-   "end": 1786460401,
-   "title": "We're back from vacation!",
-   "items": 1,
-   "ended": true
-  },
   "5IG1RV": {
    "msg": "1536395998467727480",
    "end": null,
@@ -7621,6 +7614,20 @@
    "end": 1787150281,
    "title": "yeppie yay, 10 years on scrap.tf",
    "items": 3,
+   "ended": false
+  },
+  "HQ5CRT": {
+   "msg": "1539287975861424169",
+   "end": 1787108400,
+   "title": "[DAY 16] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "ZMJWP9": {
+   "msg": "1539287983273025617",
+   "end": 1787151062,
+   "title": "Daily raffle #349",
+   "items": 1,
    "ended": false
   }
  },
