@@ -91,20 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "D8P2OO": {
-   "msg": "1536260539955806208",
-   "end": 1786429621,
-   "title": "Any recommendations for cosmetics?",
-   "items": 3,
-   "ended": true
-  },
-  "FFIAFF": {
-   "msg": "1536260550768468069",
-   "end": 1786428661,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1501 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 10,
-   "ended": true
-  },
   "CQCHS3": {
    "msg": "1536275668885704714",
    "end": 1786432321,
@@ -7439,14 +7425,14 @@
    "end": 1787033161,
    "title": "Bison",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0CXSI0": {
    "msg": "1538976881112645662",
    "end": 1787033042,
    "title": "TaKe THesE StuFF",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "4JA3CF": {
    "msg": "1538976887131480136",
@@ -7760,6 +7746,20 @@
    "msg": "1539144490814677042",
    "end": 1787115661,
    "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "X2YHOC": {
+   "msg": "1539158746603716688",
+   "end": 1787119441,
+   "title": "YOU can ask everything about ME #666 [\ud801\udd63]",
+   "items": 1,
+   "ended": false
+  },
+  "O241IP": {
+   "msg": "1539158753935491092",
+   "end": 1787119081,
+   "title": "fanumstien hat",
    "items": 1,
    "ended": false
   }
