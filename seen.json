@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6Z3FV6": {
-   "msg": "1536517223047499807",
-   "end": 1786490641,
-   "title": "\ud83e\uddc2#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "3HT5H2": {
-   "msg": "1536517230026817546",
-   "end": 1786490461,
-   "title": "\ud83e\uddc2#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "US94HZ": {
-   "msg": "1536517236934709279",
-   "end": 1786490281,
-   "title": "Raffling a  every time I win a  #75",
-   "items": 1,
-   "ended": true
-  },
   "WYYTWA": {
    "msg": "1536524132101918721",
    "end": 1786492021,
@@ -138,13 +117,6 @@
    "end": 1786491421,
    "title": "Power Scale #6 (Extra Strong)",
    "items": 3,
-   "ended": true
-  },
-  "6EP96E": {
-   "msg": "1536524164196733009",
-   "end": 1786490941,
-   "title": "#saveglorp",
-   "items": 1,
    "ended": true
   },
   "QGR65M": {
@@ -1341,13 +1313,6 @@
    "msg": "1536872116933234699",
    "end": 1786574761,
    "title": "\ud83c\udf0a NO MERCY TO GLORPS OR SLUGMAS. \ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "01XIYO": {
-   "msg": "1536872123572817950",
-   "end": 1786490642,
-   "title": "\ud83c\udf0a #SundownerSweep \ud83c\udf0a",
    "items": 1,
    "ended": true
   },
@@ -6298,7 +6263,7 @@
    "end": 1787095201,
    "title": "Baby how you doing?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6V5XQC": {
    "msg": "1539057291519729785",
@@ -6942,7 +6907,7 @@
    "end": 1787095801,
    "title": "Someone got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T69GWX": {
    "msg": "1539333263586369608",
