@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "V42ATH": {
-   "msg": "1536449340233748521",
-   "end": 1786474322,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "P47RF7": {
-   "msg": "1536449348869816332",
-   "end": 1786474201,
-   "title": "\ud83e\uddc2",
-   "items": 3,
-   "ended": true
-  },
-  "JJHKHP": {
-   "msg": "1536449362383732736",
-   "end": 1786473842,
-   "title": "I will tip every raffle that has \ud83e\uddc2 (or ) in its title (150 tips in storage)",
-   "items": 8,
-   "ended": true
-  },
-  "1J769Y": {
-   "msg": "1536449368574529596",
-   "end": 1786473421,
-   "title": "It's salting time!",
-   "items": 1,
-   "ended": true
-  },
   "3XZS1A": {
    "msg": "1536456102328148263",
    "end": 1786476241,
@@ -235,27 +207,6 @@
    "msg": "1536456205147439134",
    "end": 1786474861,
    "title": "\ud83e\uddc2Slugma Glorp Treats\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "APW51J": {
-   "msg": "1536456211287769168",
-   "end": 1786474741,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "GQMWYY": {
-   "msg": "1536456232947421324",
-   "end": 1786474561,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "H6O1B5": {
-   "msg": "1536456245169365075",
-   "end": 1786474441,
-   "title": "\ud83e\uddc2",
    "items": 1,
    "ended": true
   },
@@ -994,27 +945,6 @@
    "items": 2,
    "ended": true
   },
-  "XOWEWJ": {
-   "msg": "1536627962726842399",
-   "end": 1786474022,
-   "title": "\ud83d\udc1f\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "YSCLK3": {
-   "msg": "1536627969080950824",
-   "end": 1786473602,
-   "title": "\ud83d\udc33\ud83d\udc0b\ud83d\udc2c\ud83e\uddad\ud83d\udc1f\ud83d\udc20\ud83d\udc21\ud83e\udd88\ud83d\udc19",
-   "items": 1,
-   "ended": true
-  },
-  "J2EY5N": {
-   "msg": "1536627975410159716",
-   "end": 1786473182,
-   "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "8X0S91": {
    "msg": "1536638020940333136",
    "end": 1786518541,
@@ -1337,13 +1267,6 @@
    "items": 1,
    "ended": true
   },
-  "VQPCRE": {
-   "msg": "1536721101575426068",
-   "end": 1786474322,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2YOU MUST BRING THE SALT\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "Y6VH2Q": {
    "msg": "1536721108986888282",
    "end": 1786537982,
@@ -1397,13 +1320,6 @@
    "msg": "1536728657664413746",
    "end": 1786539600,
    "title": "Top Gear Tuesday: \"Give me my fish back\"",
-   "items": 1,
-   "ended": true
-  },
-  "R8L7EJ": {
-   "msg": "1536728664060858458",
-   "end": 1786474621,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2Harvest the Salt from the Sea Ya Landlovers\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
    "ended": true
   },
@@ -7530,7 +7446,7 @@
    "end": 1787078461,
    "title": "Title",
    "items": 46,
-   "ended": false
+   "ended": true
   },
   "71ZFTN": {
    "msg": "1539316863740153879",
@@ -7649,6 +7565,27 @@
    "end": 1787163781,
    "title": "i got my dream hat.",
    "items": 2,
+   "ended": false
+  },
+  "L4XJ7O": {
+   "msg": "1539348371398201355",
+   "end": 1787122321,
+   "title": "I hat my dream got",
+   "items": 1,
+   "ended": false
+  },
+  "21QL8W": {
+   "msg": "1539348386753548369",
+   "end": 1787164801,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "LCUPVQ": {
+   "msg": "1539348393329954858",
+   "end": 1787164261,
+   "title": "my dream hats getting me",
+   "items": 1,
    "ended": false
   }
  },
