@@ -91,20 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "E1PCZQ": {
-   "msg": "1536395978326941696",
-   "end": 1786460581,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "ADHLW4": {
-   "msg": "1536395985146880050",
-   "end": 1786460521,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
   "5IG1RV": {
    "msg": "1536395998467727480",
    "end": null,
@@ -6921,28 +6907,28 @@
    "end": 1787066041,
    "title": "i can't think of a title for this raffle 27\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VOXYCL": {
    "msg": "1538929656596791337",
    "end": 1787065442,
    "title": "Color No. 216-190-216",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "6GLN4L": {
    "msg": "1538929672233164831",
    "end": 1787065261,
    "title": "Yo mama so fat",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "X684QE": {
    "msg": "1538933096311816303",
    "end": 1787066461,
    "title": "A reminder for life",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OVFBXE": {
    "msg": "1538937242591035453",
@@ -6970,7 +6956,7 @@
    "end": 1787067000,
    "title": "MK Poll #6 + The Favorites of Music #279 & #280",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UUEOW9": {
    "msg": "1538944810386325631",
@@ -7299,7 +7285,7 @@
    "end": 1787066701,
    "title": "Raffling Scrap Till I'm Out #1007 (Tired)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YSMAUF": {
    "msg": "1539114310758965339",
@@ -7627,6 +7613,27 @@
    "msg": "1539287983273025617",
    "end": 1787151062,
    "title": "Daily raffle #349",
+   "items": 1,
+   "ended": false
+  },
+  "4JYW5X": {
+   "msg": "1539295486186356736",
+   "end": 1787152381,
+   "title": "First raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3OXTPW": {
+   "msg": "1539295504335245455",
+   "end": 1787152142,
+   "title": "Sometimes Grabli304 Needs To Stop Spamtons Brass Beast Re-Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "V78E1H": {
+   "msg": "1539295511323082823",
+   "end": 1787151961,
+   "title": "free at last",
    "items": 1,
    "ended": false
   }
