@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "PN83GE": {
-   "msg": "1536218686048968744",
-   "end": 1786419482,
-   "title": "After 10 years, I went back to playing TF2",
-   "items": 8,
-   "ended": true
-  },
   "G23012": {
    "msg": "1536237940055998554",
    "end": 1786423261,
@@ -1265,13 +1258,6 @@
    "end": 1786492021,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "BQVGKL": {
-   "msg": "1536524140171890729",
-   "end": 1786419901,
-   "title": "too many people want to hold paws with me im so overwhelmed",
-   "items": 13,
    "ended": true
   },
   "6ZMTGS": {
@@ -7026,14 +7012,14 @@
    "end": 1787024221,
    "title": "Have you ever won a Megaraffle?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QTGVLV": {
    "msg": "1538761681625284690",
    "end": 1787025300,
    "title": "Old Wounds",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AC5CAI": {
    "msg": "1538766997612138526",
@@ -7789,6 +7775,20 @@
    "end": 1787109421,
    "title": "Shame...",
    "items": 2,
+   "ended": false
+  },
+  "CRBJ4L": {
+   "msg": "1539121875580625017",
+   "end": 1787111461,
+   "title": "Slugma Chain raffle #10-11",
+   "items": 1,
+   "ended": false
+  },
+  "THNC2F": {
+   "msg": "1539121882027008103",
+   "end": 1787111400,
+   "title": "Vested Interests",
+   "items": 1,
    "ended": false
   }
  },
