@@ -105,20 +105,6 @@
    "items": 5,
    "ended": true
   },
-  "H9ZFH2": {
-   "msg": "1536464434942312468",
-   "end": 1786476961,
-   "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "W2OOUQ": {
-   "msg": "1536464441179119706",
-   "end": 1786476781,
-   "title": "can you believe salt ? \ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "8QDGQS": {
    "msg": "1536471940834005082",
    "end": 1786479661,
@@ -6977,28 +6963,28 @@
    "end": 1787082241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PWG01J": {
    "msg": "1539182206323523626",
    "end": 1787082061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IG94CH": {
    "msg": "1539182214456156191",
    "end": 1787081941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8PCKN8": {
    "msg": "1539182221276225538",
    "end": 1787081762,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TZKCXS": {
    "msg": "1539182228284637285",
@@ -7012,7 +6998,7 @@
    "end": 1787081522,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T5DXZO": {
    "msg": "1539189783585234985",
@@ -7488,6 +7474,13 @@
    "end": 1787166961,
    "title": "I dreamt about my gotten hat.",
    "items": 12,
+   "ended": false
+  },
+  "KFVHNC": {
+   "msg": "1539359947308142754",
+   "end": 1787167861,
+   "title": "Kiestu's question about keeping records of raffles.",
+   "items": 1,
    "ended": false
   }
  },
