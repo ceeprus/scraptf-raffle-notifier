@@ -126,13 +126,6 @@
    "items": 1,
    "ended": true
   },
-  "9YM57X": {
-   "msg": "1536449383695122445",
-   "end": 1786472761,
-   "title": "slugma chain raffle #3",
-   "items": 3,
-   "ended": true
-  },
   "3XZS1A": {
    "msg": "1536456102328148263",
    "end": 1786476241,
@@ -957,20 +950,6 @@
    "end": 1786515961,
    "title": "Flower Dream",
    "items": 4,
-   "ended": true
-  },
-  "9LZNAP": {
-   "msg": "1536622930996371618",
-   "end": 1786472701,
-   "title": "\ud83d\udc1f  Getting Down To It #67   \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "YAVWQH": {
-   "msg": "1536622937258463312",
-   "end": 1786472701,
-   "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
-   "items": 1,
    "ended": true
   },
   "DB9P1K": {
@@ -6879,7 +6858,7 @@
    "end": 1787077502,
    "title": "Kiestu's Oil Spill question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8US49J": {
    "msg": "1538987298505621514",
@@ -7663,6 +7642,13 @@
    "end": 1787162521,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #85 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "QG5O80": {
+   "msg": "1539340792282488844",
+   "end": 1787163781,
+   "title": "i got my dream hat.",
+   "items": 2,
    "ended": false
   }
  },
