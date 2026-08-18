@@ -189,27 +189,6 @@
    "items": 1,
    "ended": true
   },
-  "T4MBEL": {
-   "msg": "1536456190614315158",
-   "end": 1786475041,
-   "title": "\ud83e\uddc2Salty raffle\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "LOK5MA": {
-   "msg": "1536456197312356443",
-   "end": 1786474922,
-   "title": "\ud83e\uddc2Slugma Glorp Treats\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "OR29NQ": {
-   "msg": "1536456205147439134",
-   "end": 1786474861,
-   "title": "\ud83e\uddc2Slugma Glorp Treats\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "TMHG92": {
    "msg": "1536464420937404476",
    "end": 1786477622,
@@ -6781,7 +6760,7 @@
    "end": 1787079662,
    "title": "MvM Mondays",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "DGXTC4": {
    "msg": "1538993499397955636",
@@ -7585,6 +7564,27 @@
    "msg": "1539348393329954858",
    "end": 1787164261,
    "title": "my dream hats getting me",
+   "items": 1,
+   "ended": false
+  },
+  "TRC6BT": {
+   "msg": "1539349533937508467",
+   "end": 1787165941,
+   "title": "Giving away Free hats / Regalando Gorros del TF2 #1",
+   "items": 2,
+   "ended": false
+  },
+  "YLZYGV": {
+   "msg": "1539349542456008786",
+   "end": 1787165881,
+   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #5 \u0438 #6",
+   "items": 4,
+   "ended": false
+  },
+  "8DQCTO": {
+   "msg": "1539349549389189130",
+   "end": 1787165881,
+   "title": "you got your dream what? \ud83e\udd28",
    "items": 1,
    "ended": false
   }
