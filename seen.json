@@ -763,13 +763,6 @@
    "items": 1,
    "ended": true
   },
-  "0FI9IJ": {
-   "msg": "1536487035341111399",
-   "end": 1786439342,
-   "title": "Take my items #38",
-   "items": 7,
-   "ended": true
-  },
   "UK5OJO": {
    "msg": "1536487041028587661",
    "end": 1786482481,
@@ -6886,7 +6879,7 @@
    "end": 1787044801,
    "title": "MvM Update Australium Vote Part 4: Soldier Primaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TCAFLX": {
    "msg": "1538842502398869625",
@@ -6914,7 +6907,7 @@
    "end": 1787044381,
    "title": "MvM Update Australium Vote Part 3: Scout Melees",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "U5OPB0": {
    "msg": "1538842529586221066",
@@ -6935,7 +6928,7 @@
    "end": 1787044202,
    "title": "support SLUGMA",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "4T23EW": {
    "msg": "1538842550805332058",
