@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "NQFQAB": {
-   "msg": "1536494619188142140",
-   "end": 1786484762,
-   "title": "\ud83e\uddc2 Facts:",
-   "items": 1,
-   "ended": true
-  },
   "3M50R1": {
    "msg": "1536495576303140899",
    "end": 1786485781,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #3",
    "items": 9,
-   "ended": true
-  },
-  "P4C3FZ": {
-   "msg": "1536495583970332722",
-   "end": 1786485481,
-   "title": "emoji raffle 2       \ud83e\uddc2",
-   "items": 1,
    "ended": true
   },
   "4UIJHY": {
@@ -725,13 +711,6 @@
    "msg": "1536681570323406959",
    "end": 1786529282,
    "title": "Day 4 of asking for  Graveyard Chain raffle in this \ud83e\udd89 war",
-   "items": 1,
-   "ended": true
-  },
-  "YH70TA": {
-   "msg": "1536681576702681089",
-   "end": 1786485600,
-   "title": "[DAY 6] Scrap tf HG",
    "items": 1,
    "ended": true
   },
@@ -6438,7 +6417,7 @@
    "end": 1787089681,
    "title": "What's your guys favorite paint?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "ON92IU": {
    "msg": "1539038781582086226",
@@ -7285,6 +7264,20 @@
    "end": 1787130842,
    "title": "Scrap.tf Site Suggestion",
    "items": 1,
+   "ended": false
+  },
+  "PNLSHI": {
+   "msg": "1539393666773295174",
+   "end": 1787176441,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "0HWZCN": {
+   "msg": "1539393673622720523",
+   "end": 1787175541,
+   "title": "Steam comments #82",
+   "items": 11,
    "ended": false
   }
  },
