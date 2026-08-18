@@ -91,32 +91,11 @@
    "items": 5,
    "ended": false
   },
-  "G23012": {
-   "msg": "1536237940055998554",
-   "end": 1786423261,
-   "title": "Day 4 of asking for Slugma Chain emoticon",
-   "items": 10,
-   "ended": true
-  },
-  "FAJD1C": {
-   "msg": "1536237946716422234",
-   "end": 1786422841,
-   "title": "Unboxing leftovers",
-   "items": 46,
-   "ended": true
-  },
   "J8V7NH": {
    "msg": "1536242017078878259",
    "end": 1786424461,
    "title": "IT'S MY BIRTHDAY (August 10th), I turn 19  today!!!!",
    "items": 1,
-   "ended": true
-  },
-  "1JA87F": {
-   "msg": "1536242043209257061",
-   "end": 1786424400,
-   "title": "Birthday Raffle!",
-   "items": 10,
    "ended": true
   },
   "7QF3ND": {
@@ -416,13 +395,6 @@
   "XC0VND": {
    "msg": "1536419156617068674",
    "end": 1786466162,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "AHFOZC": {
-   "msg": "1536419164791504999",
-   "end": 1786422781,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -1120,31 +1092,10 @@
    "items": 6,
    "ended": true
   },
-  "LMHFND": {
-   "msg": "1536509705155772568",
-   "end": 1786423501,
-   "title": "Getting Down To It #66",
-   "items": 1,
-   "ended": true
-  },
-  "EJFLPO": {
-   "msg": "1536509713041199165",
-   "end": 1786423441,
-   "title": "Getting Down To It #65",
-   "items": 1,
-   "ended": true
-  },
   "QOOA0C": {
    "msg": "1536509719181795510",
    "end": 1786487881,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "RZE5J6": {
-   "msg": "1536509725863182416",
-   "end": 1786423021,
-   "title": "Getting Down To It #64",
    "items": 1,
    "ended": true
   },
@@ -7033,35 +6984,35 @@
    "end": 1787028842,
    "title": "Won this in the megaraffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "85FM8L": {
    "msg": "1538774582075330672",
    "end": 1787028662,
    "title": "I'm pretty sure it's slugma day 9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SDBTK5": {
    "msg": "1538774589000130601",
    "end": 1787028541,
    "title": "Day 63 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AUDL5Q": {
    "msg": "1538774597124755536",
    "end": 1787028481,
    "title": "(Raffle #3_) What are your Halloween plans?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T3ADRC": {
    "msg": "1538774602887594015",
    "end": 1787028361,
    "title": "Day 68 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MVWLUK": {
    "msg": "1538782087652450314",
@@ -7796,6 +7747,20 @@
    "end": 1787113021,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1509 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 18,
+   "ended": false
+  },
+  "B9UPVZ": {
+   "msg": "1539136827561222225",
+   "end": 1787115002,
+   "title": "Hm, seems a bit much...",
+   "items": 1,
+   "ended": false
+  },
+  "X8XKXA": {
+   "msg": "1539136834800582717",
+   "end": 1787114822,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
