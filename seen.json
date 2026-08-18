@@ -91,30 +91,9 @@
    "items": 5,
    "ended": false
   },
-  "G8DQER": {
-   "msg": "1536298306622193664",
-   "end": 1786437901,
-   "title": "Scrap Cookbook - Top 5 Quick Snacks",
-   "items": 3,
-   "ended": true
-  },
   "81K3RO": {
    "msg": "1536305833632337951",
    "end": 1786438861,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "TO1AB4": {
-   "msg": "1536305841097941012",
-   "end": 1786438801,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "96YH3W": {
-   "msg": "1536305847808827453",
-   "end": 1786438681,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -728,31 +707,10 @@
    "items": 1,
    "ended": true
   },
-  "XYOIVV": {
-   "msg": "1536479562660057100",
-   "end": 1786437722,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "D599FA": {
-   "msg": "1536479570377580645",
-   "end": 1786437602,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "69BUNX": {
    "msg": "1536479576925016146",
    "end": 1786480741,
    "title": "just scrap",
-   "items": 1,
-   "ended": true
-  },
-  "QOERHY": {
-   "msg": "1536479582918541442",
-   "end": 1786437541,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
    "items": 1,
    "ended": true
   },
@@ -1195,13 +1153,6 @@
    "end": 1786503002,
    "title": "Anyone know where I can find this map?",
    "items": 4,
-   "ended": true
-  },
-  "5VVDYW": {
-   "msg": "1536570140676849735",
-   "end": 1786438021,
-   "title": "beep beep boop",
-   "items": 3,
    "ended": true
   },
   "4J5MM8": {
@@ -6935,7 +6886,7 @@
    "end": 1787042281,
    "title": "Hii :3     This is my ninth raffle, wow",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TIMLVU": {
    "msg": "1538842494442410016",
@@ -7725,6 +7676,13 @@
    "msg": "1539189799360008223",
    "end": 1787083200,
    "title": "[Fallen Tributes/Night 15] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "XFFNG3": {
+   "msg": "1539197378131656745",
+   "end": 1787129401,
+   "title": "Daily Kit Fabricator #9",
    "items": 1,
    "ended": false
   }
