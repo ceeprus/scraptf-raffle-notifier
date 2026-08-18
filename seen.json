@@ -91,20 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "CQCHS3": {
-   "msg": "1536275668885704714",
-   "end": 1786432321,
-   "title": "Hii :3 This is my sixth raffle, wow",
-   "items": 2,
-   "ended": true
-  },
-  "BDO4D5": {
-   "msg": "1536275675244400693",
-   "end": 1786431781,
-   "title": "Hehe",
-   "items": 1,
-   "ended": true
-  },
   "DBWCVW": {
    "msg": "1536283215361216523",
    "end": 1786434362,
@@ -7740,6 +7726,20 @@
    "end": 1787122261,
    "title": "Refined pt9",
    "items": 18,
+   "ended": false
+  },
+  "FXETZB": {
+   "msg": "1539170385239482468",
+   "end": 1787122921,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "RA8LMW": {
+   "msg": "1539170394970525706",
+   "end": 1787122501,
+   "title": "1000 #Slugmanator Special!!!",
+   "items": 10,
    "ended": false
   }
  },
