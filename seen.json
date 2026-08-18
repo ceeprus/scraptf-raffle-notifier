@@ -91,20 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "66IPP9": {
-   "msg": "1536336042490335403",
-   "end": 1786446841,
-   "title": "123",
-   "items": 28,
-   "ended": true
-  },
-  "X32QVG": {
-   "msg": "1536336056830394440",
-   "end": 1786446122,
-   "title": "Grabli304's raffle\u2503Day 162",
-   "items": 2,
-   "ended": true
-  },
   "Z6ANNA": {
    "msg": "1536340413231923262",
    "end": 1786447741,
@@ -927,20 +913,6 @@
   "0FQ3SZ": {
    "msg": "1536517242722721802",
    "end": 1786447081,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "97V3AU": {
-   "msg": "1536517250046107748",
-   "end": 1786446961,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "Y8Z3W5": {
-   "msg": "1536517255414685697",
-   "end": 1786446781,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -6977,7 +6949,7 @@
    "end": 1787051101,
    "title": "my first happy scrappy (and my story)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KOHJ1A": {
    "msg": "1538869322972397660",
@@ -6998,7 +6970,7 @@
    "end": 1787051822,
    "title": "First raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "MCTVTW": {
    "msg": "1538880280297869402",
@@ -7348,7 +7320,7 @@
    "end": 1787050981,
    "title": "combine it, or not",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "5MC5EE": {
    "msg": "1539053876685054052",
@@ -7677,6 +7649,13 @@
    "end": 1787135641,
    "title": "Data Harvesting #2",
    "items": 2,
+   "ended": false
+  },
+  "MOUZ4A": {
+   "msg": "1539231663597293670",
+   "end": 1787137202,
+   "title": "I Re-Raffle it.",
+   "items": 1,
    "ended": false
   }
  },
