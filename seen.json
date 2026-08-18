@@ -91,20 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "55V9LX": {
-   "msg": "1536288475597250580",
-   "end": 1786435381,
-   "title": "Day 29 Of \"Bad\" Weapon",
-   "items": 1,
-   "ended": true
-  },
-  "83PZ9V": {
-   "msg": "1536290746292904028",
-   "end": 1786436701,
-   "title": "Hi,I'm a new scamer",
-   "items": 3,
-   "ended": true
-  },
   "G8DQER": {
    "msg": "1536298306622193664",
    "end": 1786437901,
@@ -805,13 +791,6 @@
    "items": 1,
    "ended": true
   },
-  "D6O7Y9": {
-   "msg": "1536479625734004896",
-   "end": 1786437002,
-   "title": "My first raffle",
-   "items": 4,
-   "ended": true
-  },
   "ZGQZVQ": {
    "msg": "1536479632445149184",
    "end": 1786480202,
@@ -1481,13 +1460,6 @@
    "msg": "1536638020940333136",
    "end": 1786518541,
    "title": "\ud83d\udc1f Nidoking! \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "NFHAAY": {
-   "msg": "1536638027370078319",
-   "end": 1786435321,
-   "title": "Fast raffle",
    "items": 1,
    "ended": true
   },
@@ -7732,6 +7704,27 @@
    "msg": "1539182234748198933",
    "end": 1787081522,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "T5DXZO": {
+   "msg": "1539189783585234985",
+   "end": 1787127721,
+   "title": "gift of the day #2",
+   "items": 1,
+   "ended": false
+  },
+  "QHOSRP": {
+   "msg": "1539189792149868545",
+   "end": 1787055062,
+   "title": "hats I dont use",
+   "items": 4,
+   "ended": false
+  },
+  "WA9T4A": {
+   "msg": "1539189799360008223",
+   "end": 1787083200,
+   "title": "[Fallen Tributes/Night 15] Scrap tf HG",
    "items": 1,
    "ended": false
   }
