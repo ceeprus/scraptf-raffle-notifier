@@ -6886,7 +6886,7 @@
    "end": 1787075341,
    "title": "Daily raffle #348",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I46821": {
    "msg": "1538976866457878529",
@@ -7669,6 +7669,13 @@
    "msg": "1539322956105130185",
    "end": 1787158682,
    "title": "I think I got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "TUT5VP": {
+   "msg": "1539330891283701801",
+   "end": 1787095801,
+   "title": "Someone got my dream hat.",
    "items": 1,
    "ended": false
   }
