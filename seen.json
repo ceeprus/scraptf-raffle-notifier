@@ -119,13 +119,6 @@
    "items": 50,
    "ended": false
   },
-  "BJQEW1": {
-   "msg": "1536396005447180359",
-   "end": 1786460042,
-   "title": "SlugmaBau! SlugmaBau!",
-   "items": 17,
-   "ended": true
-  },
   "0837SF": {
    "msg": "1536409669483102358",
    "end": 1786464721,
@@ -6928,7 +6921,7 @@
    "end": 1787064182,
    "title": "Everything ain't what it seems",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IK4UQB": {
    "msg": "1538929642088562779",
@@ -7299,7 +7292,7 @@
    "end": 1787064842,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DGOPRG": {
    "msg": "1539114294086733925",
@@ -7614,6 +7607,20 @@
    "end": 1787147821,
    "title": "i got my dream hat.",
    "items": 1,
+   "ended": false
+  },
+  "RHBURO": {
+   "msg": "1539287604254744636",
+   "end": 1787150941,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "CIPGER": {
+   "msg": "1539287610311180409",
+   "end": 1787150281,
+   "title": "yeppie yay, 10 years on scrap.tf",
+   "items": 3,
    "ended": false
   }
  },
