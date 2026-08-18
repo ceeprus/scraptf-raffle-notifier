@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "6ZMTGS": {
-   "msg": "1536524147964903455",
-   "end": 1786491782,
-   "title": "My Confession \ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "Y7LVSY": {
-   "msg": "1536524157972512789",
-   "end": 1786491421,
-   "title": "Power Scale #6 (Extra Strong)",
-   "items": 3,
-   "ended": true
-  },
   "QGR65M": {
    "msg": "1536532312173580360",
    "end": 1786493701,
@@ -6270,7 +6256,7 @@
    "end": 1787095861,
    "title": "Raffling a  every time I win a  #78",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P8FJK4": {
    "msg": "1539061473836531784",
@@ -7110,6 +7096,48 @@
    "end": 1787179921,
    "title": "MvM Update Australium Vote Part 5: Soldier Secondaries",
    "items": 3,
+   "ended": false
+  },
+  "Q8ZD1M": {
+   "msg": "1539419500783607881",
+   "end": 1787182682,
+   "title": "red bullsquid",
+   "items": 1,
+   "ended": false
+  },
+  "VYZ4UX": {
+   "msg": "1539419511604650034",
+   "end": 1787117461,
+   "title": ":3 SIGHHHHHHHHHHHHH",
+   "items": 50,
+   "ended": false
+  },
+  "JI5FUN": {
+   "msg": "1539419518382907402",
+   "end": 1787182202,
+   "title": "i didn't dream about this hat",
+   "items": 1,
+   "ended": false
+  },
+  "7PJBNF": {
+   "msg": "1539419527547322449",
+   "end": 1787182202,
+   "title": "MvM Update Australium Vote Part 6: Soldier Melees",
+   "items": 3,
+   "ended": false
+  },
+  "NFELMU": {
+   "msg": "1539419534627180686",
+   "end": 1787181842,
+   "title": "Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bBlog Spamton #2",
+   "items": 4,
+   "ended": false
+  },
+  "ZSOFEX": {
+   "msg": "1539419543477157938",
+   "end": 1787181721,
+   "title": "Things",
+   "items": 2,
    "ended": false
   }
  },
