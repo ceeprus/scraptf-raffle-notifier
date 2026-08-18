@@ -112,13 +112,6 @@
    "items": 1,
    "ended": true
   },
-  "OWXZ3C": {
-   "msg": "1536283250245378058",
-   "end": 1786433400,
-   "title": "Day 62 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
   "55V9LX": {
    "msg": "1536288475597250580",
    "end": 1786435381,
@@ -1523,13 +1516,6 @@
    "msg": "1536627975410159716",
    "end": 1786473182,
    "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "JEL6JW": {
-   "msg": "1536630508035768363",
-   "end": 1786433041,
-   "title": "Scot",
    "items": 1,
    "ended": true
   },
@@ -6991,14 +6977,14 @@
    "end": 1787038081,
    "title": "drawing #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "45L3UG": {
    "msg": "1538812299824070757",
    "end": 1787037661,
    "title": "Mad Dog Monday #264",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "MXRIQJ": {
    "msg": "1538815741443186768",
@@ -7740,6 +7726,13 @@
    "end": 1787122501,
    "title": "1000 #Slugmanator Special!!!",
    "items": 10,
+   "ended": false
+  },
+  "YHR02X": {
+   "msg": "1539174709936128111",
+   "end": 1787123881,
+   "title": "1st year in scrap.tf!",
+   "items": 2,
    "ended": false
   }
  },
