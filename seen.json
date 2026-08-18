@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YGE34B": {
-   "msg": "1536419130482237610",
-   "end": 1786467361,
-   "title": "BIRD ALERT",
-   "items": 5,
-   "ended": true
-  },
   "43RPG2": {
    "msg": "1536424476080873523",
    "end": 1786468261,
@@ -131,20 +124,6 @@
    "end": 1786467962,
    "title": "another raffle because these are fun",
    "items": 5,
-   "ended": true
-  },
-  "751S56": {
-   "msg": "1536424502072713227",
-   "end": 1786467600,
-   "title": "Daily raffle until TF2 gets a major update #587",
-   "items": 3,
-   "ended": true
-  },
-  "7IBDTH": {
-   "msg": "1536424508154454127",
-   "end": 1786467541,
-   "title": "Only bread deserves to live \ud83e\uddc2",
-   "items": 1,
    "ended": true
   },
   "77VIDJ": {
@@ -6928,7 +6907,7 @@
    "end": 1787072400,
    "title": "Daily raffle until TF2 gets a major update #594",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "174AU8": {
    "msg": "1538963290049482765",
