@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "0837SF": {
-   "msg": "1536409669483102358",
-   "end": 1786464721,
-   "title": "SAVE GLORP #STOPSLUGMANTORS",
-   "items": 2,
-   "ended": true
-  },
   "W7P6CY": {
    "msg": "1536411530047004713",
    "end": 1786465561,
@@ -6963,7 +6956,7 @@
    "end": 1787069402,
    "title": "78k Entered",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9WAJDN": {
    "msg": "1538953666520678400",
@@ -7654,6 +7647,20 @@
   "HT82U9": {
    "msg": "1539303100764913797",
    "end": 1787153941,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "XJLS2M": {
+   "msg": "1539308052501762128",
+   "end": 1787155981,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "5CF3KE": {
+   "msg": "1539308061209137252",
+   "end": 1787155200,
    "title": "i got my dream hat.",
    "items": 1,
    "ended": false
