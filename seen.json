@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "A8MA4Y": {
-   "msg": "1536358740389920808",
-   "end": 1786452661,
-   "title": "Daily raffle #341",
-   "items": 1,
-   "ended": true
-  },
   "PCXZR4": {
    "msg": "1536366222768078868",
    "end": 1786454461,
@@ -124,13 +117,6 @@
    "end": 1786453921,
    "title": "ENDL3SS N01S3",
    "items": 163,
-   "ended": true
-  },
-  "LWPCCS": {
-   "msg": "1536366267823431681",
-   "end": 1786453200,
-   "title": "8 for 1 Sunday but Monday",
-   "items": 8,
    "ended": true
   },
   "991643": {
@@ -985,13 +971,6 @@
    "end": 1786493341,
    "title": "raffle",
    "items": 4,
-   "ended": true
-  },
-  "YVQAR9": {
-   "msg": "1536539910062997537",
-   "end": 1786451521,
-   "title": "3 for 1",
-   "items": 3,
    "ended": true
   },
   "8M0ZQW": {
@@ -6963,7 +6942,7 @@
    "end": 1787058000,
    "title": "SMONK - Super Ghostbusters Animated",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CF0C1L": {
    "msg": "1538902911092789249",
@@ -7306,14 +7285,14 @@
    "end": 1787056682,
    "title": "Went back here again after a while",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "QPY7V7": {
    "msg": "1539071944291524723",
    "end": 1787056321,
    "title": "My first raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "1FQRLD": {
    "msg": "1539076581614682343",
@@ -7614,6 +7593,20 @@
    "end": 1787140800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
+   "ended": false
+  },
+  "IN711V": {
+   "msg": "1539257785294790827",
+   "end": 1787142662,
+   "title": "Spooky taunt for a spooky class",
+   "items": 1,
+   "ended": false
+  },
+  "NIMRQD": {
+   "msg": "1539257793859686542",
+   "end": 1787142241,
+   "title": "Untitled raffle",
+   "items": 4,
    "ended": false
   }
  },
