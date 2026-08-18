@@ -84,20 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "FOI46Z": {
-   "msg": "1536177521824112803",
-   "end": 1786409521,
-   "title": "My fav users (in one raffle!!!!) + More",
-   "items": 1,
-   "ended": true
-  },
-  "IL9WKD": {
-   "msg": "1536177530728611859",
-   "end": 1786409161,
-   "title": "Late Marvelous Sunday",
-   "items": 1,
-   "ended": true
-  },
   "9H0HPI": {
    "msg": "1536185042034757642",
    "end": null,
@@ -110,13 +96,6 @@
    "end": 1786410061,
    "title": "I am bad with titles #141",
    "items": 1,
-   "ended": true
-  },
-  "76DBJR": {
-   "msg": "1536185058145345627",
-   "end": 1786410000,
-   "title": "Reminder to eat n' drink water if ye haven't yet #268",
-   "items": 5,
    "ended": true
   },
   "MM38I9": {
@@ -1390,13 +1369,6 @@
    "msg": "1536532312173580360",
    "end": 1786493701,
    "title": "I Drew Ts 15",
-   "items": 1,
-   "ended": true
-  },
-  "5W1MB5": {
-   "msg": "1536532318687207544",
-   "end": 1786409041,
-   "title": "This is all I got\u2026",
    "items": 1,
    "ended": true
   },
@@ -7803,6 +7775,13 @@
    "end": 1787056321,
    "title": "My first raffle",
    "items": 2,
+   "ended": false
+  },
+  "1FQRLD": {
+   "msg": "1539076581614682343",
+   "end": 1787100481,
+   "title": "GOOD VIBRATIONS",
+   "items": 1,
    "ended": false
   }
  },
