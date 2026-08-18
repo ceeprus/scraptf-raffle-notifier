@@ -462,13 +462,6 @@
    "items": 5,
    "ended": true
   },
-  "ANZTFS": {
-   "msg": "1536434235190022175",
-   "end": 1786426321,
-   "title": "MGE",
-   "items": 1,
-   "ended": true
-  },
   "IJ4PFH": {
    "msg": "1536436758810599515",
    "end": 1786471141,
@@ -7026,14 +7019,14 @@
    "end": 1787032081,
    "title": "Daily Kit Fabricator #8",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "51UVS8": {
    "msg": "1538788983612510270",
    "end": 1787031841,
    "title": "SLUGMA SUPPORT",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VYIF0B": {
    "msg": "1538797208458235914",
