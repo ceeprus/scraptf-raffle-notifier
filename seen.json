@@ -7026,7 +7026,7 @@
    "end": 1787026321,
    "title": "17 August",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "MGHSAI": {
    "msg": "1538774575138078800",
@@ -7789,6 +7789,13 @@
    "end": 1787111400,
    "title": "Vested Interests",
    "items": 1,
+   "ended": false
+  },
+  "C38GB8": {
+   "msg": "1539129390535806988",
+   "end": 1787113021,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1509 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 18,
    "ended": false
   }
  },
