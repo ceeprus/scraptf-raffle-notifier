@@ -98,55 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Z5L15E": {
-   "msg": "1536479509380071494",
-   "end": 1786482000,
-   "title": "checkup #86 | Modding Ideas maybe",
-   "items": 1,
-   "ended": true
-  },
-  "PIW6ZR": {
-   "msg": "1536479515965005895",
-   "end": 1786481761,
-   "title": "Executing Naughty Crates [#78, #79, #88 & #89]",
-   "items": 1,
-   "ended": true
-  },
-  "AJWUXG": {
-   "msg": "1536479522378227873",
-   "end": 1786481701,
-   "title": "The only good  is a dead",
-   "items": 3,
-   "ended": true
-  },
-  "6JUX1G": {
-   "msg": "1536479528631799839",
-   "end": 1786481701,
-   "title": "Make some noise",
-   "items": 1,
-   "ended": true
-  },
-  "ARBHF4": {
-   "msg": "1536479534432395286",
-   "end": 1786481581,
-   "title": "\ud83e\uddc2salt the slugs\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "UBQZAB": {
-   "msg": "1536479540577308812",
-   "end": 1786481341,
-   "title": "Fresh meat",
-   "items": 1,
-   "ended": true
-  },
-  "LS9XFE": {
-   "msg": "1536479547363434556",
-   "end": 1786481341,
-   "title": "#saveglorp",
-   "items": 2,
-   "ended": true
-  },
   "TKIF95": {
    "msg": "1536487028953317437",
    "end": 1786483262,
@@ -6543,14 +6494,14 @@
    "end": 1787086081,
    "title": "Sometimes People Need To Stop Talking (Yap)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "YYLC2H": {
    "msg": "1539016173121699841",
    "end": 1787086800,
    "title": "checkup #93 | Nothing to say",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A0FYID": {
    "msg": "1539020299373121597",
@@ -7389,6 +7340,13 @@
    "msg": "1539366628213657610",
    "end": 1787169421,
    "title": "Im too poor to put good item (first raffle btw)",
+   "items": 1,
+   "ended": false
+  },
+  "YIBXAB": {
+   "msg": "1539378573683589240",
+   "end": 1787129282,
+   "title": "normal",
    "items": 1,
    "ended": false
   }
