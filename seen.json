@@ -105,27 +105,6 @@
    "items": 5,
    "ended": true
   },
-  "6SW1PH": {
-   "msg": "1536419143207751781",
-   "end": 1786466821,
-   "title": "I need some recommendations",
-   "items": 3,
-   "ended": true
-  },
-  "2CYMCB": {
-   "msg": "1536419149310464063",
-   "end": 1786466701,
-   "title": "HAPPY 810NICLE DAY",
-   "items": 4,
-   "ended": true
-  },
-  "XC0VND": {
-   "msg": "1536419156617068674",
-   "end": 1786466162,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "43RPG2": {
    "msg": "1536424476080873523",
    "end": 1786468261,
@@ -6935,7 +6914,7 @@
    "end": 1787071501,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P8FOFK": {
    "msg": "1538960235140485185",
@@ -7663,6 +7642,48 @@
    "end": 1787112961,
    "title": "i got my dream hat.",
    "items": 1,
+   "ended": false
+  },
+  "YZCGRD": {
+   "msg": "1539316845599924296",
+   "end": 1787157841,
+   "title": "I got a leather jacket the other day and it's pretty sweet!",
+   "items": 21,
+   "ended": false
+  },
+  "BBWAZG": {
+   "msg": "1539316856991522986",
+   "end": 1787078461,
+   "title": "Title",
+   "items": 46,
+   "ended": false
+  },
+  "71ZFTN": {
+   "msg": "1539316863740153879",
+   "end": 1787157302,
+   "title": "i got my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "RD3LV3": {
+   "msg": "1539316871411794062",
+   "end": 1787157242,
+   "title": "They got their dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "PHXNZF": {
+   "msg": "1539316877300469922",
+   "end": 1787156941,
+   "title": "i didn't get my dream hat.",
+   "items": 1,
+   "ended": false
+  },
+  "6ADTHI": {
+   "msg": "1539316885596672011",
+   "end": 1787156941,
+   "title": "i got my dream lollichop.",
+   "items": 9,
    "ended": false
   }
  },
