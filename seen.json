@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "J8V7NH": {
-   "msg": "1536242017078878259",
-   "end": 1786424461,
-   "title": "IT'S MY BIRTHDAY (August 10th), I turn 19  today!!!!",
-   "items": 1,
-   "ended": true
-  },
   "7QF3ND": {
    "msg": "1536253013658697748",
    "end": 1786427581,
@@ -7019,14 +7012,14 @@
    "end": 1787030762,
    "title": "Wario Ware for peace (Unless it becomes profitable again)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "16KBDS": {
    "msg": "1538782093385932833",
    "end": 1787030341,
    "title": "Weekly Noisemaker Raffle #3... or well... Until I run out of noise makers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E7DTPA": {
    "msg": "1538788976104579154",
@@ -7760,6 +7753,27 @@
    "msg": "1539136834800582717",
    "end": 1787114822,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MY7DY4": {
+   "msg": "1539144478676361226",
+   "end": 1787116321,
+   "title": "public raffle",
+   "items": 9,
+   "ended": false
+  },
+  "XZMMXT": {
+   "msg": "1539144484590198785",
+   "end": 1787115962,
+   "title": "Hale's Own Trials: Persian Persuader: Day 7",
+   "items": 1,
+   "ended": false
+  },
+  "14RXEN": {
+   "msg": "1539144490814677042",
+   "end": 1787115661,
+   "title": "i got my dream hat.",
    "items": 1,
    "ended": false
   }
