@@ -91,13 +91,6 @@
    "items": 5,
    "ended": false
   },
-  "Z6ANNA": {
-   "msg": "1536340413231923262",
-   "end": 1786447741,
-   "title": "WHAT THE HELL IS A SLUGMA?",
-   "items": 1,
-   "ended": true
-  },
   "E6J37K": {
    "msg": "1536351133705179176",
    "end": 1786449600,
@@ -882,13 +875,6 @@
    "items": 1,
    "ended": true
   },
-  "U678L0": {
-   "msg": "1536517217611677817",
-   "end": 1786447501,
-   "title": "14 years since I joined scrap.tf",
-   "items": 3,
-   "ended": true
-  },
   "6Z3FV6": {
    "msg": "1536517223047499807",
    "end": 1786490641,
@@ -907,13 +893,6 @@
    "msg": "1536517236934709279",
    "end": 1786490281,
    "title": "Raffling a  every time I win a  #75",
-   "items": 1,
-   "ended": true
-  },
-  "0FQ3SZ": {
-   "msg": "1536517242722721802",
-   "end": 1786447081,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -6963,7 +6942,7 @@
    "end": 1787051941,
    "title": "The bots are back",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "0ZDPNN": {
    "msg": "1538872703593746512",
@@ -7655,6 +7634,13 @@
    "msg": "1539231663597293670",
    "end": 1787137202,
    "title": "I Re-Raffle it.",
+   "items": 1,
+   "ended": false
+  },
+  "9M2WVN": {
+   "msg": "1539235084991856651",
+   "end": 1787137861,
+   "title": "Daily Brass Beast #542",
    "items": 1,
    "ended": false
   }
