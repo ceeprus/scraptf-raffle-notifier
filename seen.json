@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "TKIF95": {
-   "msg": "1536487028953317437",
-   "end": 1786483262,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "NQFQAB": {
    "msg": "1536494619188142140",
    "end": 1786484762,
@@ -124,34 +117,6 @@
    "end": 1786483921,
    "title": "\ud83e\uddc2",
    "items": 1,
-   "ended": true
-  },
-  "GORVY6": {
-   "msg": "1536494641812217989",
-   "end": 1786483801,
-   "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
-   "items": 5,
-   "ended": true
-  },
-  "PXXV4W": {
-   "msg": "1536494648749465764",
-   "end": 1786483561,
-   "title": "Loathing",
-   "items": 2,
-   "ended": true
-  },
-  "AXVISP": {
-   "msg": "1536494657351975022",
-   "end": 1786483561,
-   "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
-   "items": 5,
-   "ended": true
-  },
-  "3T37P2": {
-   "msg": "1536494665283411998",
-   "end": 1786483381,
-   "title": "\ud83e\uddc2It's Time\ud83e\uddc2",
-   "items": 5,
    "ended": true
   },
   "3M50R1": {
@@ -711,34 +676,6 @@
    "msg": "1536660722761728071",
    "end": 1786523102,
    "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "8LZ4MI": {
-   "msg": "1536667386239778916",
-   "end": 1786483322,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "YCXS6U": {
-   "msg": "1536667392879362048",
-   "end": 1786483141,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "OS3DGG": {
-   "msg": "1536667399665754113",
-   "end": 1786483081,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NVYJDZ": {
-   "msg": "1536667406447943690",
-   "end": 1786482901,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -6508,7 +6445,7 @@
    "end": 1787088541,
    "title": "I did something for gmod workshop",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "U4AQR1": {
    "msg": "1539031305407303730",
@@ -7347,6 +7284,20 @@
    "msg": "1539382031442514042",
    "end": 1787173200,
    "title": "checkup #94 | Steam Profile Backgrounds",
+   "items": 1,
+   "ended": false
+  },
+  "OC4FHU": {
+   "msg": "1539386093927931987",
+   "end": 1787174701,
+   "title": "Hey guys it's me Silvye Glitterhoofs also known as Silva",
+   "items": 3,
+   "ended": false
+  },
+  "S0XFC5": {
+   "msg": "1539386100223705201",
+   "end": 1787130842,
+   "title": "Scrap.tf Site Suggestion",
    "items": 1,
    "ended": false
   }
