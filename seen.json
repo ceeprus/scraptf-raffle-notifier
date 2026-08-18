@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "UK5OJO": {
-   "msg": "1536487041028587661",
-   "end": 1786482481,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "NQFQAB": {
    "msg": "1536494619188142140",
    "end": 1786484762,
@@ -745,13 +738,6 @@
   "NVYJDZ": {
    "msg": "1536667406447943690",
    "end": 1786482901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "16OG9O": {
-   "msg": "1536667413020409896",
-   "end": 1786482722,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -6508,7 +6494,7 @@
    "end": 1787087341,
    "title": "Tricks I learned from a plumber #2",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "GP2QQE": {
    "msg": "1539027890128031865",
@@ -7347,6 +7333,20 @@
    "msg": "1539378573683589240",
    "end": 1787129282,
    "title": "normal",
+   "items": 1,
+   "ended": false
+  },
+  "X55XSI": {
+   "msg": "1539382024136167494",
+   "end": 1787130421,
+   "title": "i got a hat",
+   "items": 1,
+   "ended": false
+  },
+  "OLUXTU": {
+   "msg": "1539382031442514042",
+   "end": 1787173200,
+   "title": "checkup #94 | Steam Profile Backgrounds",
    "items": 1,
    "ended": false
   }
