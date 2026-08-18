@@ -84,13 +84,6 @@
    "items": 1,
    "ended": false
   },
-  "07M1DU": {
-   "msg": "1536162424044912704",
-   "end": 1786406400,
-   "title": "Slugma Supremacy",
-   "items": 1,
-   "ended": true
-  },
   "FOI46Z": {
    "msg": "1536177521824112803",
    "end": 1786409521,
@@ -7775,6 +7768,27 @@
    "end": 1787095861,
    "title": "Raffling a  every time I win a  #78",
    "items": 1,
+   "ended": false
+  },
+  "P8FJK4": {
+   "msg": "1539061473836531784",
+   "end": 1787097421,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4LA2VL": {
+   "msg": "1539061483189698740",
+   "end": 1787097122,
+   "title": "I can make a Fortnite rhyme with banana",
+   "items": 1,
+   "ended": false
+  },
+  "WLO1T1": {
+   "msg": "1539061491720781876",
+   "end": 1787096821,
+   "title": "raffle",
+   "items": 4,
    "ended": false
   }
  },
