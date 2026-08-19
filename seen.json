@@ -511,13 +511,6 @@
    "items": 30,
    "ended": true
   },
-  "Z71V5S": {
-   "msg": "1537015512725331989",
-   "end": 1786565221,
-   "title": "Unclaimed noises",
-   "items": 3,
-   "ended": true
-  },
   "GU7FLY": {
    "msg": "1537023098883416074",
    "end": 1786568102,
@@ -6655,6 +6648,20 @@
    "end": 1787255341,
    "title": "Untitled raffle",
    "items": 5,
+   "ended": false
+  },
+  "AZAV81": {
+   "msg": "1539729955515138149",
+   "end": 1787256000,
+   "title": "We need more Engineer Mains! | #009",
+   "items": 6,
+   "ended": false
+  },
+  "UE6DBO": {
+   "msg": "1539729965267034152",
+   "end": 1787255762,
+   "title": "I just got my dream taunt and jungle pass",
+   "items": 1,
    "ended": false
   }
  },
