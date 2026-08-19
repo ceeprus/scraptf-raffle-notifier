@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MTHCPR": {
-   "msg": "1536698421455495230",
-   "end": 1786533242,
-   "title": "You thought this was just a scrap #192",
-   "items": 1,
-   "ended": true
-  },
   "M689C6": {
    "msg": "1536706022947954688",
    "end": 1786535401,
@@ -1041,13 +1034,6 @@
    "end": 1786602541,
    "title": "\ud83c\udf0a\ud83d\udc1f Hat with No Name   \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": true
-  },
-  "7WJRVR": {
-   "msg": "1537000424597360741",
-   "end": 1786533182,
-   "title": "idk",
-   "items": 15,
    "ended": true
   },
   "KAFSLX": {
@@ -6025,7 +6011,7 @@
    "end": 1787137861,
    "title": "Daily Brass Beast #542",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KGJUIK": {
    "msg": "1539239372270870660",
@@ -6900,6 +6886,48 @@
    "end": 1787221441,
    "title": "DON'T TELL HER ANYTHING",
    "items": 1,
+   "ended": false
+  },
+  "FGAWQW": {
+   "msg": "1539593984354156675",
+   "end": 1787224261,
+   "title": "Random raffle url until I found one #7",
+   "items": 1,
+   "ended": false
+  },
+  "3L10DH": {
+   "msg": "1539593991819894825",
+   "end": 1787224021,
+   "title": "Grabli304's raffle\u2503Day 171",
+   "items": 2,
+   "ended": false
+  },
+  "LEUGNC": {
+   "msg": "1539593998849671188",
+   "end": 1787180701,
+   "title": "[Fallen Tributes/Night 16] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "Y5DFRA": {
+   "msg": "1539594005312970812",
+   "end": 1787223600,
+   "title": "Huh... is that how they vent?",
+   "items": 1,
+   "ended": false
+  },
+  "6N39G9": {
+   "msg": "1539594015064727612",
+   "end": 1787223270,
+   "title": "10 Year Scrapversary (also first raffle)",
+   "items": 290,
+   "ended": false
+  },
+  "5IY7SA": {
+   "msg": "1539594023088562229",
+   "end": 1787223241,
+   "title": "Raffle number 17!",
+   "items": 5,
    "ended": false
   }
  },
