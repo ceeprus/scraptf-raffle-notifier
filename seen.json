@@ -5955,7 +5955,7 @@
    "end": 1787163781,
    "title": "i got my dream hat.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "L4XJ7O": {
    "msg": "1539348371398201355",
@@ -6822,6 +6822,13 @@
    "msg": "1539700634608082964",
    "end": 1787205600,
    "title": "[DAY 17] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "XMEJL0": {
+   "msg": "1539703177690087474",
+   "end": 1787250302,
+   "title": "Needles are ouchie",
    "items": 1,
    "ended": false
   }
