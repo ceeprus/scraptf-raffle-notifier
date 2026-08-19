@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9JXJ5K": {
-   "msg": "1536728618062057502",
-   "end": 1786541101,
-   "title": "\ud83c\udf3b",
-   "items": 6,
-   "ended": true
-  },
   "H4JE7U": {
    "msg": "1536733592292425808",
    "end": 1786542481,
@@ -719,13 +712,6 @@
    "end": 1786582800,
    "title": "Reminder to eat n' drink water if ye haven't yet #269",
    "items": 5,
-   "ended": true
-  },
-  "TMRSCC": {
-   "msg": "1536917435649761291",
-   "end": 1786541400,
-   "title": "More",
-   "items": 1,
    "ended": true
   },
   "SIF04G": {
@@ -6844,6 +6830,20 @@
    "end": 1787230800,
    "title": "Why does Monaco Exist?",
    "items": 1,
+   "ended": false
+  },
+  "KGZGZX": {
+   "msg": "1539627677936263288",
+   "end": 1787232481,
+   "title": "there is a group of people i hate on this site",
+   "items": 1,
+   "ended": false
+  },
+  "UU8L22": {
+   "msg": "1539627687939801088",
+   "end": 1787232421,
+   "title": "First Raffle",
+   "items": 10,
    "ended": false
   }
  },
