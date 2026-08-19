@@ -658,13 +658,6 @@
    "items": 1,
    "ended": true
   },
-  "G3JWZ7": {
-   "msg": "1536808770418638939",
-   "end": 1786516321,
-   "title": "hhhhhhh",
-   "items": 2,
-   "ended": true
-  },
   "RAHUQR": {
    "msg": "1536811699280285756",
    "end": 1786560181,
@@ -6144,7 +6137,7 @@
    "end": 1787122261,
    "title": "Refined pt9",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "FXETZB": {
    "msg": "1539170385239482468",
@@ -6158,7 +6151,7 @@
    "end": 1787122501,
    "title": "1000 #Slugmanator Special!!!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "YHR02X": {
    "msg": "1539174709936128111",
@@ -6627,7 +6620,7 @@
    "end": 1787122321,
    "title": "I hat my dream got",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "21QL8W": {
    "msg": "1539348386753548369",
@@ -6970,6 +6963,13 @@
    "end": 1787206802,
    "title": "All clear",
    "items": 1,
+   "ended": false
+  },
+  "XTREIT": {
+   "msg": "1539529562940112926",
+   "end": 1787207162,
+   "title": "The pass it forward raffle! (#14)  I\u2019m back!",
+   "items": 4,
    "ended": false
   }
  },
