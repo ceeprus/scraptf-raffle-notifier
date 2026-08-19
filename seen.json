@@ -721,13 +721,6 @@
    "items": 4,
    "ended": true
   },
-  "AGDY0Z": {
-   "msg": "1536932509064101898",
-   "end": 1786545002,
-   "title": "any tips on how to move on from ruined childhood",
-   "items": 2,
-   "ended": true
-  },
   "BNKLJV": {
    "msg": "1536940012204064819",
    "end": 1786590721,
@@ -5906,14 +5899,14 @@
    "end": 1787149562,
    "title": "stu   ff",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "1TP4IK": {
    "msg": "1539280404274479184",
    "end": 1787149322,
    "title": "Thinking about playing my first ToD",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WHJSUK": {
    "msg": "1539280410876448848",
@@ -6466,7 +6459,7 @@
    "end": 1787149800,
    "title": "Tune of the day #312",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MJ51E2": {
    "msg": "1539469161074393088",
@@ -6823,6 +6816,13 @@
    "end": 1787232421,
    "title": "First Raffle",
    "items": 10,
+   "ended": false
+  },
+  "R2RHT5": {
+   "msg": "1539642785274138645",
+   "end": 1787234400,
+   "title": "Untitled raffle",
+   "items": 8,
    "ended": false
   }
  },
