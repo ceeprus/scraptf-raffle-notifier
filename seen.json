@@ -105,27 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "GZGMTJ": {
-   "msg": "1536690919992987700",
-   "end": 1786531441,
-   "title": "4th Raffle!",
-   "items": 3,
-   "ended": true
-  },
-  "5L805P": {
-   "msg": "1536690926351679542",
-   "end": 1786531441,
-   "title": "\ud83d\udc1f W Mazekest \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "YQ4AOV": {
-   "msg": "1536690934941749248",
-   "end": 1786531202,
-   "title": "My first raffle",
-   "items": 5,
-   "ended": true
-  },
   "MTHCPR": {
    "msg": "1536698421455495230",
    "end": 1786533242,
@@ -6032,14 +6011,14 @@
    "end": 1787136181,
    "title": "Spamtons Shitposts",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "TUG5QD": {
    "msg": "1539225764459970571",
    "end": 1787135641,
    "title": "Data Harvesting #2",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "MOUZ4A": {
    "msg": "1539231663597293670",
@@ -6913,6 +6892,20 @@
    "msg": "1539580233437683715",
    "end": 1787220000,
    "title": "Gifted Sun-on-a-stick",
+   "items": 1,
+   "ended": false
+  },
+  "OF8QM1": {
+   "msg": "1539587902395261068",
+   "end": 1787222702,
+   "title": "I GOT MY DREAM HAT (REAL)",
+   "items": 1,
+   "ended": false
+  },
+  "UJW5YR": {
+   "msg": "1539587911131996180",
+   "end": 1787221441,
+   "title": "DON'T TELL HER ANYTHING",
    "items": 1,
    "ended": false
   }
