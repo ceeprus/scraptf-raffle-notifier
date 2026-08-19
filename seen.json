@@ -1218,13 +1218,6 @@
    "items": 3,
    "ended": true
   },
-  "P2XAXO": {
-   "msg": "1537098624167710834",
-   "end": 1786543382,
-   "title": "\ud83d\udc9aTake away my noisemakers#11\ud83d\udc9a",
-   "items": 48,
-   "ended": true
-  },
   "MCSB91": {
    "msg": "1537098631289639042",
    "end": 1786627800,
@@ -5927,7 +5920,7 @@
    "end": 1787148121,
    "title": "Bright shinning.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R2JJYH": {
    "msg": "1539280417637531808",
