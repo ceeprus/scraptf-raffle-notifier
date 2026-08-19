@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "GYS7BS": {
-   "msg": "1536793916672704623",
-   "end": 1786556941,
-   "title": "picture",
-   "items": 1,
-   "ended": true
-  },
-  "JYHCOK": {
-   "msg": "1536796598758146249",
-   "end": 1786557481,
-   "title": "Slugmas kill glorp",
-   "items": 4,
-   "ended": true
-  },
   "F6GBEO": {
    "msg": "1536804123712954479",
    "end": 1786558321,
@@ -5962,21 +5948,21 @@
    "end": 1787162161,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #84 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PZDPFY": {
    "msg": "1539333269814906900",
    "end": 1787161802,
    "title": "i got my dream scrap.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O5NVA4": {
    "msg": "1539333275733069906",
    "end": 1787161802,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #83 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VR754M": {
    "msg": "1539339126828957706",
