@@ -6214,7 +6214,7 @@
    "end": 1787109961,
    "title": "Cat pic #6 + NOT Random Question #37 (Nothing)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0JRVEF": {
    "msg": "1539114302022221885",
@@ -7061,6 +7061,13 @@
    "end": 1787193661,
    "title": "Hale's Own Trials: Persian Persuader: Day 8",
    "items": 1,
+   "ended": false
+  },
+  "YFUXC9": {
+   "msg": "1539476682967089244",
+   "end": 1787196061,
+   "title": "Source of Sadness",
+   "items": 3,
    "ended": false
   }
  },
