@@ -98,83 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "10HOWK": {
-   "msg": "1536819250079998062",
-   "end": 1786562641,
-   "title": "would u call them punks?",
-   "items": 10,
-   "ended": true
-  },
-  "ZWUEA2": {
-   "msg": "1536819258426654761",
-   "end": 1786562522,
-   "title": "\ud83c\udf0a\ud83d\udc1f\ud83e\uddc2NO MERCY FOR THE GLORPS AND SLUGMAS \ud83c\udf0a \ud83d\udc1f\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "6WVZD7": {
-   "msg": "1536819264890081300",
-   "end": 1786562402,
-   "title": "Day 63 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
-  "761HL8": {
-   "msg": "1536819272255545386",
-   "end": 1786562041,
-   "title": "choose peace over water and salt",
-   "items": 1,
-   "ended": true
-  },
-  "GKU7RA": {
-   "msg": "1536819279981183007",
-   "end": 1786561982,
-   "title": "Day 57-58 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "LVBU3Z": {
-   "msg": "1536819292459368531",
-   "end": 1786561801,
-   "title": "This raffle was made possible with Scrap.tf",
-   "items": 7,
-   "ended": true
-  },
-  "3AJ06F": {
-   "msg": "1536819302563315823",
-   "end": 1786561740,
-   "title": "ARMY OF #saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "8SI7RA": {
-   "msg": "1536819308825419927",
-   "end": 1786561740,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "C83CI4": {
-   "msg": "1536819315712458857",
-   "end": 1786561622,
-   "title": "100",
-   "items": 1,
-   "ended": true
-  },
-  "NOR5TW": {
-   "msg": "1536819323518066779",
-   "end": 1786561562,
-   "title": "I'll tip your raffles again while this raffle is up (if you follow the rules)",
-   "items": 2,
-   "ended": true
-  },
-  "W336PU": {
-   "msg": "1536819331575316480",
-   "end": 1786561441,
-   "title": "So Whos Gonna Do It",
-   "items": 1,
-   "ended": true
-  },
   "2W6O3O": {
    "msg": "1536825358291046521",
    "end": 1786564381,
@@ -201,20 +124,6 @@
    "end": 1786563421,
    "title": "How come we're  ing all these Slugmas?! #3-4",
    "items": 1,
-   "ended": true
-  },
-  "M5003H": {
-   "msg": "1536825386581631098",
-   "end": 1786563002,
-   "title": "\ud83c\udf0aNO MERCY FOR THE GLORPS AND SLUGMAS \ud83c\udf0a",
-   "items": 2,
-   "ended": true
-  },
-  "OY3ORI": {
-   "msg": "1536825393573662760",
-   "end": 1786562881,
-   "title": "Do you believe in good karma?",
-   "items": 3,
    "ended": true
   },
   "KW12NC": {
@@ -882,13 +791,6 @@
    "items": 2,
    "ended": true
   },
-  "VX4JPF": {
-   "msg": "1537091035748900906",
-   "end": 1786562101,
-   "title": "bau",
-   "items": 1,
-   "ended": true
-  },
   "NZREGQ": {
    "msg": "1537091042170380378",
    "end": 1786582862,
@@ -1029,13 +931,6 @@
    "items": 1,
    "ended": true
   },
-  "BN1MPU": {
-   "msg": "1537121209638985889",
-   "end": 1786562341,
-   "title": "takemLUL",
-   "items": 10,
-   "ended": true
-  },
   "KM1UEH": {
    "msg": "1537128779380432966",
    "end": 1786636081,
@@ -1153,13 +1048,6 @@
    "end": 1786645081,
    "title": "rrrrr",
    "items": 1,
-   "ended": true
-  },
-  "4NT4AZ": {
-   "msg": "1537174108222136470",
-   "end": 1786561681,
-   "title": "\ud83d\udc9aTake away my noisemakers#12\ud83d\udc9a",
-   "items": 48,
    "ended": true
   },
   "LH2CTC": {
@@ -5962,21 +5850,21 @@
    "end": 1787167141,
    "title": "i got my dream hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L0JL2P": {
    "msg": "1539355880921763932",
    "end": 1787167022,
    "title": "dreams and hats.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BA39VE": {
    "msg": "1539355888756854784",
    "end": 1787166961,
    "title": "I dreamt about my gotten hat.",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "KFVHNC": {
    "msg": "1539359947308142754",
@@ -6794,6 +6682,13 @@
    "msg": "1539710639830868008",
    "end": 1787251202,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "PCW8JT": {
+   "msg": "1539718269475487755",
+   "end": 1787252941,
+   "title": "i got a weapon",
    "items": 1,
    "ended": false
   }
