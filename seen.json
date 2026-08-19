@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "WYYTWA": {
-   "msg": "1536524132101918721",
-   "end": 1786492021,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "QGR65M": {
    "msg": "1536532312173580360",
    "end": 1786493701,
@@ -6263,21 +6256,21 @@
    "end": 1787097421,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4LA2VL": {
    "msg": "1539061483189698740",
    "end": 1787097122,
    "title": "I can make a Fortnite rhyme with banana",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WLO1T1": {
    "msg": "1539061491720781876",
    "end": 1787096821,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "K2IY7E": {
    "msg": "1539069000162615356",
