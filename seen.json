@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "QGR65M": {
-   "msg": "1536532312173580360",
-   "end": 1786493701,
-   "title": "I Drew Ts 15",
-   "items": 1,
-   "ended": true
-  },
-  "HKJEZ9": {
-   "msg": "1536532324978528327",
-   "end": 1786493461,
-   "title": "Pokemon Of The Day #18: Slugma",
-   "items": 2,
-   "ended": true
-  },
-  "S33HQZ": {
-   "msg": "1536532332641517578",
-   "end": 1786493341,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
   "8M0ZQW": {
    "msg": "1536547414326906911",
    "end": 1786497541,
@@ -1292,13 +1271,6 @@
    "msg": "1536872116933234699",
    "end": 1786574761,
    "title": "\ud83c\udf0a NO MERCY TO GLORPS OR SLUGMAS. \ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "UINZO8": {
-   "msg": "1536879604424376471",
-   "end": 1786494002,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -6277,14 +6249,14 @@
    "end": 1787099402,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DKWJZO": {
    "msg": "1539069006462586990",
    "end": 1787098022,
    "title": "Win a Raffle, Make a Raffle! 4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GPUIAR": {
    "msg": "1539071937203015723",
@@ -7131,6 +7103,41 @@
    "end": 1787181721,
    "title": "Things",
    "items": 2,
+   "ended": false
+  },
+  "S29C0B": {
+   "msg": "1539431380063359106",
+   "end": 1787184961,
+   "title": "TAKE MY STUFF",
+   "items": 3,
+   "ended": false
+  },
+  "0WFODO": {
+   "msg": "1539431386941751386",
+   "end": 1787141641,
+   "title": "i got my dream noise maker",
+   "items": 1,
+   "ended": false
+  },
+  "LIYR31": {
+   "msg": "1539431393292062891",
+   "end": 1787184301,
+   "title": "its a rainy day where i am",
+   "items": 1,
+   "ended": false
+  },
+  "5IPFMI": {
+   "msg": "1539431399617073162",
+   "end": 1787184062,
+   "title": "Hello! Have a great day!",
+   "items": 3,
+   "ended": false
+  },
+  "IPHXFF": {
+   "msg": "1539431408852795392",
+   "end": 1787184002,
+   "title": "Caf\u00e9 Crit-A-Coffee #1761",
+   "items": 10,
    "ended": false
   }
  },
