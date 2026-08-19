@@ -5934,35 +5934,35 @@
    "end": 1787159701,
    "title": "I dont need this anymore",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GFSDP4": {
    "msg": "1539322930239111198",
    "end": 1787159521,
    "title": "Daily raffle until TF2 gets a major update #595",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "KCNB3W": {
    "msg": "1539322937017114624",
    "end": 1787159401,
    "title": "I got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HVNR49": {
    "msg": "1539322944826777662",
    "end": 1787159161,
    "title": "I won key here is part from key",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "N94JI1": {
    "msg": "1539322950673506334",
    "end": 1787159161,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RK76TP": {
    "msg": "1539322956105130185",
@@ -6829,6 +6829,27 @@
    "msg": "1539678828555804755",
    "end": 1787243402,
    "title": "\ud83c\udf20",
+   "items": 3,
+   "ended": false
+  },
+  "MCRK73": {
+   "msg": "1539685128534761492",
+   "end": 1787245442,
+   "title": "Jesus Christ can save you",
+   "items": 10,
+   "ended": false
+  },
+  "NH7PDF": {
+   "msg": "1539685136608661565",
+   "end": 1787245321,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "YWAD8R": {
+   "msg": "1539685142631546910",
+   "end": 1787245200,
+   "title": "Daily raffle until TF2 gets a major update #596",
    "items": 3,
    "ended": false
   }
