@@ -6116,7 +6116,7 @@
    "end": 1787129401,
    "title": "Daily Kit Fabricator #9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6EIN8R": {
    "msg": "1539217686301773908",
@@ -6613,7 +6613,7 @@
    "end": 1787129282,
    "title": "normal",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X55XSI": {
    "msg": "1539382024136167494",
@@ -6948,6 +6948,20 @@
    "msg": "1539555133132636230",
    "end": 1787171282,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6QLBL8": {
+   "msg": "1539559781004480572",
+   "end": 1787215381,
+   "title": "I didn't get my dream hat",
+   "items": 12,
+   "ended": false
+  },
+  "S58OLU": {
+   "msg": "1539559788365488188",
+   "end": 1787215021,
+   "title": "i got my favourite block in minecraft",
    "items": 1,
    "ended": false
   }
