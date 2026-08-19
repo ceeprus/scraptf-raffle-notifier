@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6I57KW": {
-   "msg": "1536748680420528158",
-   "end": 1786545121,
-   "title": "Pass the Salt... \ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "3L1R8Y": {
-   "msg": "1536751330281127996",
-   "end": 1786545961,
-   "title": "#14",
-   "items": 7,
-   "ended": true
-  },
-  "JUQV4N": {
-   "msg": "1536751337075908648",
-   "end": 1786545842,
-   "title": "one gift a day",
-   "items": 1,
-   "ended": true
-  },
-  "ZUYGQA": {
-   "msg": "1536751343585464390",
-   "end": 1786545661,
-   "title": "\ufe0f",
-   "items": 1,
-   "ended": true
-  },
   "E5L7UL": {
    "msg": "1536758867759730699",
    "end": 1786548122,
@@ -152,20 +124,6 @@
    "end": 1786547222,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": true
-  },
-  "SQ79YV": {
-   "msg": "1536758900546736159",
-   "end": 1786546800,
-   "title": "What is up with all the \ud83e\uddc2?",
-   "items": 3,
-   "ended": true
-  },
-  "E7FHG9": {
-   "msg": "1536758908637683754",
-   "end": 1786546800,
-   "title": "I know what to do with the \ud83e\uddc2 now",
-   "items": 3,
    "ended": true
   },
   "ANAPI9": {
@@ -5934,14 +5892,14 @@
    "end": 1787150941,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CIPGER": {
    "msg": "1539287610311180409",
    "end": 1787150281,
    "title": "yeppie yay, 10 years on scrap.tf",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "HQ5CRT": {
    "msg": "1539287975861424169",
@@ -5955,7 +5913,7 @@
    "end": 1787151062,
    "title": "Daily raffle #349",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4JYW5X": {
    "msg": "1539295486186356736",
@@ -6823,6 +6781,34 @@
    "end": 1787234400,
    "title": "Untitled raffle",
    "items": 8,
+   "ended": false
+  },
+  "2ZN57L": {
+   "msg": "1539650113821999154",
+   "end": 1787237042,
+   "title": "i got my hat in a dream",
+   "items": 1,
+   "ended": false
+  },
+  "F0MQKV": {
+   "msg": "1539650120264458260",
+   "end": 1787193722,
+   "title": "i got antlers lvl 69 im im im im im im dream hat",
+   "items": 1,
+   "ended": false
+  },
+  "P3RZHF": {
+   "msg": "1539650126287605912",
+   "end": 1787236802,
+   "title": "Got my first Australium drop from MVM at Tour No.104",
+   "items": 7,
+   "ended": false
+  },
+  "A7DUXR": {
+   "msg": "1539650134172893204",
+   "end": 1787236681,
+   "title": "i got my dream bat",
+   "items": 1,
    "ended": false
   }
  },
