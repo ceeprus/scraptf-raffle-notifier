@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "2T66PK": {
-   "msg": "1536570133416517704",
-   "end": 1786503002,
-   "title": "Anyone know where I can find this map?",
-   "items": 4,
-   "ended": true
-  },
-  "4J5MM8": {
-   "msg": "1536570148155039785",
-   "end": 1786502761,
-   "title": "Kiestu's comments on the glorp war",
-   "items": 1,
-   "ended": true
-  },
-  "NDRIBG": {
-   "msg": "1536570157286297620",
-   "end": 1786502700,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WU16H7": {
-   "msg": "1536570165989343303",
-   "end": 1786502700,
-   "title": "Late Night Reflecting",
-   "items": 1,
-   "ended": true
-  },
-  "H5VC7P": {
-   "msg": "1536570173014806638",
-   "end": 1786502221,
-   "title": "M (Part one)",
-   "items": 1,
-   "ended": true
-  },
   "APWLEL": {
    "msg": "1536576609749049407",
    "end": 1786504621,
@@ -698,13 +663,6 @@
    "end": 1786546800,
    "title": "I know what to do with the \ud83e\uddc2 now",
    "items": 3,
-   "ended": true
-  },
-  "23RXPW": {
-   "msg": "1536758915650289857",
-   "end": 1786503600,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "ANAPI9": {
@@ -6599,7 +6557,7 @@
    "end": 1787108400,
    "title": "[DAY 16] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZMJWP9": {
    "msg": "1539287983273025617",
@@ -7109,6 +7067,13 @@
    "msg": "1539461564246269982",
    "end": 1787149800,
    "title": "Tune of the day #312",
+   "items": 1,
+   "ended": false
+  },
+  "MJ51E2": {
+   "msg": "1539469161074393088",
+   "end": 1787193661,
+   "title": "Hale's Own Trials: Persian Persuader: Day 8",
    "items": 1,
    "ended": false
   }
