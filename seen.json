@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LXNY7H": {
-   "msg": "1536713523722453023",
-   "end": 1786537021,
-   "title": "Press F to Calamity",
-   "items": 1,
-   "ended": true
-  },
-  "G958CQ": {
-   "msg": "1536713530336878703",
-   "end": 1786536841,
-   "title": "DR. \u00dcBERFUCK IS BACK.  THE END TO SLUG WAR",
-   "items": 1,
-   "ended": true
-  },
-  "NPD5V4": {
-   "msg": "1536713536494112808",
-   "end": 1786536781,
-   "title": "This war is pointless",
-   "items": 1,
-   "ended": true
-  },
-  "2NIZPT": {
-   "msg": "1536713543531888744",
-   "end": 1786536662,
-   "title": "I am bad with titles #142",
-   "items": 1,
-   "ended": true
-  },
   "Y6VH2Q": {
    "msg": "1536721108986888282",
    "end": 1786537982,
@@ -957,20 +929,6 @@
    "end": 1786600141,
    "title": "We (Yes, WE) need a Slugma chain emote NOW! P.5",
    "items": 8,
-   "ended": true
-  },
-  "C12997": {
-   "msg": "1536985309999403138",
-   "end": 1786537261,
-   "title": "\ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "5PXZ0M": {
-   "msg": "1536985318291546135",
-   "end": 1786537081,
-   "title": "\ud83c\udf0a\ud83d\udc1f",
-   "items": 2,
    "ended": true
   },
   "HVQJZM": {
@@ -5976,7 +5934,7 @@
    "end": 1787141581,
    "title": "Grabli304's raffle\u2503Day 170",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LIWN0O": {
    "msg": "1539249127399886969",
@@ -5997,7 +5955,7 @@
    "end": 1787142241,
    "title": "Untitled raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "43005S": {
    "msg": "1539263273151504506",
@@ -6529,7 +6487,7 @@
    "end": 1787141641,
    "title": "i got my dream noise maker",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LIYR31": {
    "msg": "1539431393292062891",
@@ -6893,6 +6851,13 @@
    "end": 1787225341,
    "title": "i am so sad i am so very very sad",
    "items": 4,
+   "ended": false
+  },
+  "PYCSAR": {
+   "msg": "1539611581300867092",
+   "end": 1787227200,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
