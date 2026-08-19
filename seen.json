@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "BFIZIZ": {
-   "msg": "1536856992910540950",
-   "end": 1786570561,
-   "title": "KILL THEM ALL! AH HAH HAH - Heavy Weapons Guy",
-   "items": 17,
-   "ended": true
-  },
-  "TBYBWV": {
-   "msg": "1536857000548237362",
-   "end": 1786570261,
-   "title": "random stuff",
-   "items": 46,
-   "ended": true
-  },
   "ZAY7CA": {
    "msg": "1536864508272967950",
    "end": 1786573261,
@@ -5724,7 +5710,7 @@
    "end": 1787175541,
    "title": "Steam comments #82",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "HXYQV9": {
    "msg": "1539408761503092816",
@@ -6319,7 +6305,7 @@
    "end": 1787175422,
    "title": "i got my dream accesory",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QYDEOV": {
    "msg": "1539665510743015524",
