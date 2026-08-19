@@ -126,27 +126,6 @@
    "items": 1,
    "ended": true
   },
-  "YEEC9N": {
-   "msg": "1536547451878776892",
-   "end": 1786496341,
-   "title": "Wario ware war profiteering. Long live Slugma",
-   "items": 3,
-   "ended": true
-  },
-  "91EHRK": {
-   "msg": "1536547457729695834",
-   "end": 1786496281,
-   "title": "Catponder For Scrap Emote List 2026",
-   "items": 1,
-   "ended": true
-  },
-  "LH5GYO": {
-   "msg": "1536547465702932491",
-   "end": 1786495922,
-   "title": "#saveglorp",
-   "items": 10,
-   "ended": true
-  },
   "4Y2M1V": {
    "msg": "1536550393277063249",
    "end": 1786498381,
@@ -6277,14 +6256,14 @@
    "end": 1787100481,
    "title": "GOOD VIBRATIONS",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1A6SHG": {
    "msg": "1539084084607713300",
    "end": 1787100781,
    "title": "GOOD VIBRATIONS",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I8PWHY": {
    "msg": "1539091677434875915",
@@ -6606,7 +6585,7 @@
    "end": 1787101021,
    "title": "God is Good",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "CC8KRQ": {
    "msg": "1539280397828100288",
