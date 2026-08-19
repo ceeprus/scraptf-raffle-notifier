@@ -112,20 +112,6 @@
    "items": 1,
    "ended": true
   },
-  "7HUYM1": {
-   "msg": "1536645636517265461",
-   "end": 1786519741,
-   "title": "there will be no winners in this war",
-   "items": 3,
-   "ended": true
-  },
-  "C1L5CL": {
-   "msg": "1536645643924279316",
-   "end": 1786519681,
-   "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "2D1H3G": {
    "msg": "1536646384890159134",
    "end": 1786521600,
@@ -1055,13 +1041,6 @@
    "end": 1786582800,
    "title": "Reminder to eat n' drink water if ye haven't yet #269",
    "items": 5,
-   "ended": true
-  },
-  "FTIBAD": {
-   "msg": "1536909840633307157",
-   "end": 1786519502,
-   "title": "baaahhhh baaaa bleeeaat *sticks my hooves up in the air*",
-   "items": 46,
    "ended": true
   },
   "TMRSCC": {
@@ -6977,6 +6956,13 @@
    "end": 1787209142,
    "title": "Day 12 of asking for Slugma Chain emoticon",
    "items": 8,
+   "ended": false
+  },
+  "GTMAT7": {
+   "msg": "1539537067455938600",
+   "end": 1787210461,
+   "title": "i got my nightmare hat",
+   "items": 1,
    "ended": false
   }
  },
