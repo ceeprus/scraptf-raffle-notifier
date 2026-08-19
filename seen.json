@@ -98,55 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "65TQGG": {
-   "msg": "1536653113963053117",
-   "end": 1786523041,
-   "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "B87VI5": {
-   "msg": "1536653121164681330",
-   "end": 1786522921,
-   "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "W7215S": {
-   "msg": "1536653131864350850",
-   "end": 1786522861,
-   "title": "Slugma Chain raffle #4",
-   "items": 1,
-   "ended": true
-  },
-  "N5RHFH": {
-   "msg": "1536653138872762489",
-   "end": 1786521901,
-   "title": "\u201cDarkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that\"",
-   "items": 1,
-   "ended": true
-  },
-  "ZEXZWI": {
-   "msg": "1536660710489198722",
-   "end": 1786523400,
-   "title": "#SlugmaSweep",
-   "items": 1,
-   "ended": true
-  },
-  "ZWAB2E": {
-   "msg": "1536660716709224598",
-   "end": 1786523162,
-   "title": "music time ! !",
-   "items": 1,
-   "ended": true
-  },
-  "DCS7NH": {
-   "msg": "1536660722761728071",
-   "end": 1786523102,
-   "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "58S5LJ": {
    "msg": "1536675816161804318",
    "end": 1786528441,
@@ -809,13 +760,6 @@
    "msg": "1536841909161562195",
    "end": 1786566902,
    "title": "\ud83c\udf0a is scary",
-   "items": 1,
-   "ended": true
-  },
-  "MZLMWH": {
-   "msg": "1536841917806026823",
-   "end": 1786523281,
-   "title": "Unclaimed Item",
    "items": 1,
    "ended": true
   },
@@ -6151,7 +6095,7 @@
    "end": 1787127721,
    "title": "gift of the day #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QHOSRP": {
    "msg": "1539189792149868545",
@@ -6941,6 +6885,41 @@
    "msg": "1539544463654002718",
    "end": 1787212442,
    "title": "i got my gay hat",
+   "items": 1,
+   "ended": false
+  },
+  "MR6U5C": {
+   "msg": "1539552182288908319",
+   "end": 1787171101,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "W7UQMD": {
+   "msg": "1539552190161621062",
+   "end": 1787170861,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SMTKAF": {
+   "msg": "1539552196239298660",
+   "end": 1787213941,
+   "title": "You got your dream hat?",
+   "items": 1,
+   "ended": false
+  },
+  "NAF0EF": {
+   "msg": "1539552202564177981",
+   "end": 1787213762,
+   "title": "pmzn6",
+   "items": 50,
+   "ended": false
+  },
+  "N0Y4ET": {
+   "msg": "1539552209337851916",
+   "end": 1787213522,
+   "title": "I got my nightmare hat",
    "items": 1,
    "ended": false
   }
