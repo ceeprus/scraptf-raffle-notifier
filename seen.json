@@ -98,45 +98,10 @@
    "items": 50,
    "ended": false
   },
-  "E5L7UL": {
-   "msg": "1536758867759730699",
-   "end": 1786548122,
-   "title": "Daily Brass Beast #535 \ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "ORA5NP": {
-   "msg": "1536758877012500642",
-   "end": 1786548002,
-   "title": "render for you",
-   "items": 2,
-   "ended": true
-  },
-  "7ZAW8Y": {
-   "msg": "1536758884344012901",
-   "end": 1786547702,
-   "title": "Seriously, what should we eat?",
-   "items": 2,
-   "ended": true
-  },
-  "RS8PYZ": {
-   "msg": "1536758893600837773",
-   "end": 1786547222,
-   "title": "Untitled raffle",
-   "items": 10,
-   "ended": true
-  },
   "ANAPI9": {
    "msg": "1536764162384863292",
    "end": 1786549201,
    "title": "\ud83d\udc1f \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "ZHBAQH": {
-   "msg": "1536764169641000980",
-   "end": 1786548600,
-   "title": "MK Poll #3 + The Favorites of Music #273 & #274",
    "items": 1,
    "ended": true
   },
@@ -5920,28 +5885,28 @@
    "end": 1787152381,
    "title": "First raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3OXTPW": {
    "msg": "1539295504335245455",
    "end": 1787152142,
    "title": "Sometimes Grabli304 Needs To Stop Spamtons Brass Beast Re-Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V78E1H": {
    "msg": "1539295511323082823",
    "end": 1787151961,
    "title": "free at last",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ICO1YK": {
    "msg": "1539296292792959026",
    "end": 1787153041,
    "title": "I have a question about Re:Zero \u2013 Starting Life in Another World.",
    "items": 16,
-   "ended": false
+   "ended": true
   },
   "92QCTN": {
    "msg": "1539303077310373959",
@@ -6808,6 +6773,48 @@
    "msg": "1539650134172893204",
    "end": 1787236681,
    "title": "i got my dream bat",
+   "items": 1,
+   "ended": false
+  },
+  "D5QPU8": {
+   "msg": "1539657909124997231",
+   "end": 1787238601,
+   "title": "\ud83e\udd73Its My Birthday:)\ud83e\udd73",
+   "items": 1,
+   "ended": false
+  },
+  "V9GJGH": {
+   "msg": "1539657917152886878",
+   "end": 1787238421,
+   "title": "\ud83c\udf0a\ud83d\udc1f   I LOVE",
+   "items": 2,
+   "ended": false
+  },
+  "7832HB": {
+   "msg": "1539657923897073775",
+   "end": 1787238181,
+   "title": "1k raffles entered",
+   "items": 1,
+   "ended": false
+  },
+  "25L8KW": {
+   "msg": "1539657930792640682",
+   "end": 1787238002,
+   "title": "If going out of your way to ruin other people's happiness or things that they enjoy just to troll and get your kicks and that is your life's philosophy, then shame on you!",
+   "items": 1,
+   "ended": false
+  },
+  "FRK9A9": {
+   "msg": "1539657939151753328",
+   "end": 1787194800,
+   "title": "Tune of the day #313",
+   "items": 1,
+   "ended": false
+  },
+  "LVU3NG": {
+   "msg": "1539657945741267135",
+   "end": 1787173021,
+   "title": "My first raffle",
    "items": 1,
    "ended": false
   }
