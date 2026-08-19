@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "61VWRU": {
-   "msg": "1536773996597612564",
-   "end": 1786551781,
-   "title": "Zeus hates me",
-   "items": 1,
-   "ended": true
-  },
   "NJCN0U": {
    "msg": "1536781500383756439",
    "end": 1786553882,
@@ -5906,7 +5899,7 @@
    "end": 1787156461,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FSN3LY": {
    "msg": "1539310587392041010",
@@ -5962,14 +5955,14 @@
    "end": 1787156941,
    "title": "i didn't get my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6ADTHI": {
    "msg": "1539316885596672011",
    "end": 1787156941,
    "title": "i got my dream lollichop.",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "DFBJO6": {
    "msg": "1539322923112857670",
@@ -6830,6 +6823,34 @@
    "end": 1787241600,
    "title": "Scrap.tf Birthdays - 19 August",
    "items": 5,
+   "ended": false
+  },
+  "0MSYO8": {
+   "msg": "1539672975249244300",
+   "end": 1787199841,
+   "title": "Something to get more antlers with",
+   "items": 6,
+   "ended": false
+  },
+  "HKQ815": {
+   "msg": "1539672982480355462",
+   "end": 1787242741,
+   "title": "My first raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9CKCID": {
+   "msg": "1539672989346431127",
+   "end": 1787242561,
+   "title": "#16",
+   "items": 4,
+   "ended": false
+  },
+  "CP8ZEG": {
+   "msg": "1539672996455784508",
+   "end": 1787242534,
+   "title": "(Don't lick) The Time Loop",
+   "items": 1,
    "ended": false
   }
  },
