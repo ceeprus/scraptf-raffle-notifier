@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "4Y2M1V": {
-   "msg": "1536550393277063249",
-   "end": 1786498381,
-   "title": "\ud83e\uddc2Slugma Chain raffle #3",
-   "items": 1,
-   "ended": true
-  },
   "2T66PK": {
    "msg": "1536570133416517704",
    "end": 1786503002,
@@ -6242,7 +6235,7 @@
    "end": 1787103241,
    "title": "Out of backpack space again",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "I5ZNJX": {
    "msg": "1539094073829359626",
@@ -6585,7 +6578,7 @@
    "end": 1787104800,
    "title": "Tune of the day #311",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5KD31U": {
    "msg": "1539280424545816739",
