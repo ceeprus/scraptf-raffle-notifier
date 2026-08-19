@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "ZAY7CA": {
-   "msg": "1536864508272967950",
-   "end": 1786573261,
-   "title": "\ud83c\udf0a #SundownerSweep \ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
   "9836R9": {
    "msg": "1536872095923962032",
    "end": 1786575362,
@@ -6543,6 +6536,13 @@
    "end": 1787219641,
    "title": "Meh. Just why not?",
    "items": 3,
+   "ended": false
+  },
+  "OJH0J7": {
+   "msg": "1539763572786073701",
+   "end": 1787263921,
+   "title": "mlp related steam games/badges",
+   "items": 1,
    "ended": false
   }
  },
