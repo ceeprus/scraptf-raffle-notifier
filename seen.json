@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "8X0S91": {
-   "msg": "1536638020940333136",
-   "end": 1786518541,
-   "title": "\ud83d\udc1f Nidoking! \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "LUJIK2": {
    "msg": "1536645619853295687",
    "end": 1786520761,
@@ -6144,7 +6137,7 @@
    "end": 1787122921,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RA8LMW": {
    "msg": "1539170394970525706",
@@ -6158,7 +6151,7 @@
    "end": 1787123881,
    "title": "1st year in scrap.tf!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "VV6CPG": {
    "msg": "1539182198614392905",
@@ -6970,6 +6963,20 @@
    "end": 1787207162,
    "title": "The pass it forward raffle! (#14)  I\u2019m back!",
    "items": 4,
+   "ended": false
+  },
+  "5RK8CI": {
+   "msg": "1539534433952997417",
+   "end": 1787166000,
+   "title": "It is",
+   "items": 10,
+   "ended": false
+  },
+  "A8LJXV": {
+   "msg": "1539534442610171994",
+   "end": 1787209142,
+   "title": "Day 12 of asking for Slugma Chain emoticon",
+   "items": 8,
    "ended": false
   }
  },
