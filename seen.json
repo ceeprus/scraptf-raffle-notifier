@@ -1001,13 +1001,6 @@
    "items": 1,
    "ended": true
   },
-  "6KICKA": {
-   "msg": "1536940020718632961",
-   "end": 1786525741,
-   "title": "puts my hooves up in the air baaaaah baaah bleeeat",
-   "items": 46,
-   "ended": true
-  },
   "RBBL9I": {
    "msg": "1536940027802689557",
    "end": 1786590421,
@@ -6620,7 +6613,7 @@
    "end": 1787130421,
    "title": "i got a hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OLUXTU": {
    "msg": "1539382031442514042",
@@ -6641,7 +6634,7 @@
    "end": 1787130842,
    "title": "Scrap.tf Site Suggestion",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PNLSHI": {
    "msg": "1539393666773295174",
@@ -6962,6 +6955,27 @@
    "msg": "1539559788365488188",
    "end": 1787215021,
    "title": "i got my favourite block in minecraft",
+   "items": 1,
+   "ended": false
+  },
+  "7R6JEQ": {
+   "msg": "1539565674450518097",
+   "end": 1787217361,
+   "title": "Jesus Christ loves you",
+   "items": 22,
+   "ended": false
+  },
+  "FNR5K0": {
+   "msg": "1539565681610199040",
+   "end": 1787217001,
+   "title": "SRY for not much i hope to do more l8ter",
+   "items": 1,
+   "ended": false
+  },
+  "T5NDWX": {
+   "msg": "1539565688337727518",
+   "end": 1787216221,
+   "title": "Daily Kit Fabricator #10",
    "items": 1,
    "ended": false
   }
