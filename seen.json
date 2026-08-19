@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Z7U35N": {
-   "msg": "1536681570323406959",
-   "end": 1786529282,
-   "title": "Day 4 of asking for  Graveyard Chain raffle in this \ud83e\udd89 war",
-   "items": 1,
-   "ended": true
-  },
   "7HU0J2": {
    "msg": "1536690912602882148",
    "end": 1786532400,
@@ -6032,7 +6025,7 @@
    "end": 1787134261,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q602WN": {
    "msg": "1539225757262422076",
@@ -6913,6 +6906,13 @@
    "msg": "1539574855895093282",
    "end": 1787219821,
    "title": "i got my dream cat",
+   "items": 1,
+   "ended": false
+  },
+  "6VDV75": {
+   "msg": "1539580233437683715",
+   "end": 1787220000,
+   "title": "Gifted Sun-on-a-stick",
    "items": 1,
    "ended": false
   }
