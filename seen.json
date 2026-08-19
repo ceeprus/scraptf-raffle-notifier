@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "F6GBEO": {
-   "msg": "1536804123712954479",
-   "end": 1786558321,
-   "title": "Yet another day of wasting money",
-   "items": 4,
-   "ended": true
-  },
-  "2T0JSO": {
-   "msg": "1536804131254308874",
-   "end": 1786557901,
-   "title": "Daily raffle #342",
-   "items": 1,
-   "ended": true
-  },
-  "UTQKBU": {
-   "msg": "1536804139424813197",
-   "end": 1786557721,
-   "title": "Anyone Know the Best Way to Resell Items?",
-   "items": 5,
-   "ended": true
-  },
-  "881MJZ": {
-   "msg": "1536804146718703706",
-   "end": 1786557662,
-   "title": "returning",
-   "items": 1,
-   "ended": true
-  },
   "G520NT": {
    "msg": "1536808763183599657",
    "end": 1786559881,
@@ -5969,14 +5941,14 @@
    "end": 1787163301,
    "title": "Your weekly non-official Scrap.tf news. [Week 233]",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "Y24EG6": {
    "msg": "1539339133410086993",
    "end": 1787162521,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #85 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QG5O80": {
    "msg": "1539340792282488844",
@@ -6843,6 +6815,13 @@
    "msg": "1539692361767190529",
    "end": 1787246941,
    "title": "Daily raffle #350",
+   "items": 1,
+   "ended": false
+  },
+  "JXUXRS": {
+   "msg": "1539700634608082964",
+   "end": 1787205600,
+   "title": "[DAY 17] Scrap tf HG",
    "items": 1,
    "ended": false
   }
