@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "G520NT": {
-   "msg": "1536808763183599657",
-   "end": 1786559881,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "RAHUQR": {
-   "msg": "1536811699280285756",
-   "end": 1786560181,
-   "title": "lol",
-   "items": 24,
-   "ended": true
-  },
   "10HOWK": {
    "msg": "1536819250079998062",
    "end": 1786562641,
@@ -187,27 +173,6 @@
    "end": 1786561441,
    "title": "So Whos Gonna Do It",
    "items": 1,
-   "ended": true
-  },
-  "CRA93F": {
-   "msg": "1536819338353442967",
-   "end": 1786561200,
-   "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "0CODA2": {
-   "msg": "1536819344871268412",
-   "end": 1786561200,
-   "title": "We gotta #saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "77Z9QR": {
-   "msg": "1536819355411685509",
-   "end": 1786560961,
-   "title": "slugma chain raffle #4",
-   "items": 3,
    "ended": true
   },
   "2W6O3O": {
@@ -656,13 +621,6 @@
    "end": 1786604521,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "QFC5S8": {
-   "msg": "1537000458181283850",
-   "end": 1786561200,
-   "title": "It is",
-   "items": 10,
    "ended": true
   },
   "RDBV74": {
@@ -5969,35 +5927,35 @@
    "end": 1787164801,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LCUPVQ": {
    "msg": "1539348393329954858",
    "end": 1787164261,
    "title": "my dream hats getting me",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TRC6BT": {
    "msg": "1539349533937508467",
    "end": 1787165941,
    "title": "Giving away Free hats / Regalando Gorros del TF2 #1",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "YLZYGV": {
    "msg": "1539349542456008786",
    "end": 1787165881,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #5 \u0438 #6",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "8DQCTO": {
    "msg": "1539349549389189130",
    "end": 1787165881,
    "title": "you got your dream what? \ud83e\udd28",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BCACN8": {
    "msg": "1539355873242251405",
@@ -6319,7 +6277,7 @@
    "end": 1787166000,
    "title": "It is",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "A8LJXV": {
    "msg": "1539534442610171994",
@@ -6829,6 +6787,13 @@
    "msg": "1539703177690087474",
    "end": 1787250302,
    "title": "Needles are ouchie",
+   "items": 1,
+   "ended": false
+  },
+  "PNSH6G": {
+   "msg": "1539710639830868008",
+   "end": 1787251202,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
