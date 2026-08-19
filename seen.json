@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "951T10": {
-   "msg": "1536592724906606622",
-   "end": 1786507861,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1502 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 11,
-   "ended": true
-  },
-  "YT8YKU": {
-   "msg": "1536592734301720610",
-   "end": 1786507801,
-   "title": "Raffling Scrap Till I'm Out #1000 (Big one zero zero zero)",
-   "items": 19,
-   "ended": true
-  },
-  "JILFJD": {
-   "msg": "1536592742392668260",
-   "end": 1786507561,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "XYMT6B": {
    "msg": "1536597015562158150",
    "end": 1786509722,
@@ -131,27 +110,6 @@
    "end": 1786509661,
    "title": "Here's some yummy salt!",
    "items": 3,
-   "ended": true
-  },
-  "U75RAO": {
-   "msg": "1536597030221254696",
-   "end": 1786509001,
-   "title": "Raffle Log #96",
-   "items": 1,
-   "ended": true
-  },
-  "EQZLD2": {
-   "msg": "1536597036831481977",
-   "end": 1786508821,
-   "title": "Raffle Log #95",
-   "items": 1,
-   "ended": true
-  },
-  "RY3XDK": {
-   "msg": "1536597043446022214",
-   "end": 1786508701,
-   "title": "Raffle Log #94",
-   "items": 1,
    "ended": true
   },
   "HW4YWG": {
@@ -6214,7 +6172,7 @@
    "end": 1787113021,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1509 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "B9UPVZ": {
    "msg": "1539136827561222225",
@@ -6613,7 +6571,7 @@
    "end": 1787112961,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YZCGRD": {
    "msg": "1539316845599924296",
@@ -7047,6 +7005,13 @@
    "end": 1787197441,
    "title": "You've got mail!",
    "items": 8,
+   "ended": false
+  },
+  "0NKKZD": {
+   "msg": "1539491791311605921",
+   "end": 1787198822,
+   "title": "Go My Noiselings",
+   "items": 3,
    "ended": false
   }
  },
