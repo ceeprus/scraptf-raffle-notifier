@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KW12NC": {
-   "msg": "1536834331572572381",
-   "end": 1786565881,
-   "title": "Im broke",
-   "items": 7,
-   "ended": true
-  },
   "IIARB5": {
    "msg": "1536841891017003048",
    "end": 1786568400,
@@ -798,13 +791,6 @@
    "items": 1,
    "ended": true
   },
-  "A6I3SC": {
-   "msg": "1537106133591007303",
-   "end": 1786566421,
-   "title": "Noisemaker enjoyers, rise up",
-   "items": 9,
-   "ended": true
-  },
   "D30PVQ": {
    "msg": "1537106141710917744",
    "end": 1786630501,
@@ -1013,13 +999,6 @@
    "end": 1786650841,
    "title": "\ud83c\udf0a Armed and Ready to Flush the Slop!",
    "items": 2,
-   "ended": true
-  },
-  "6YIDF0": {
-   "msg": "1537189192084226108",
-   "end": 1786565942,
-   "title": "\ud83d\udc9aTake away my noisemakers#13\ud83d\udc9a",
-   "items": 50,
    "ended": true
   },
   "PE0Z4H": {
@@ -6123,14 +6102,14 @@
    "end": 1787171101,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W7UQMD": {
    "msg": "1539552190161621062",
    "end": 1787170861,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SMTKAF": {
    "msg": "1539552196239298660",
@@ -6179,7 +6158,7 @@
    "end": 1787171282,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6QLBL8": {
    "msg": "1539559781004480572",
@@ -6661,6 +6640,13 @@
    "msg": "1539729965267034152",
    "end": 1787255762,
    "title": "I just got my dream taunt and jungle pass",
+   "items": 1,
+   "ended": false
+  },
+  "ACIDQJ": {
+   "msg": "1539733362842013787",
+   "end": 1787213762,
+   "title": "I received a hat that I hate (Raffle #2",
    "items": 1,
    "ended": false
   }
