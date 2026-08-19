@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Y6VH2Q": {
-   "msg": "1536721108986888282",
-   "end": 1786537982,
-   "title": "Why can't we just live in harmony?",
-   "items": 1,
-   "ended": true
-  },
   "9JXJ5K": {
    "msg": "1536728618062057502",
    "end": 1786541101,
@@ -124,20 +117,6 @@
    "end": 1786539902,
    "title": "Items",
    "items": 17,
-   "ended": true
-  },
-  "4PWKEA": {
-   "msg": "1536728651440070747",
-   "end": 1786539662,
-   "title": "Clan War: Starting The War",
-   "items": 1,
-   "ended": true
-  },
-  "6IWSJR": {
-   "msg": "1536728657664413746",
-   "end": 1786539600,
-   "title": "Top Gear Tuesday: \"Give me my fish back\"",
-   "items": 1,
    "ended": true
   },
   "H4JE7U": {
@@ -740,13 +719,6 @@
    "end": 1786577462,
    "title": "#100007",
    "items": 1,
-   "ended": true
-  },
-  "MYLHHX": {
-   "msg": "1536902307243892827",
-   "end": 1786538161,
-   "title": "my first raffle\ud83d\udc4d\ud83d\udc4d",
-   "items": 4,
    "ended": true
   },
   "PMUEXL": {
@@ -5948,7 +5920,7 @@
    "end": 1787142662,
    "title": "Spooky taunt for a spooky class",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NIMRQD": {
    "msg": "1539257793859686542",
@@ -5962,14 +5934,14 @@
    "end": 1787144400,
    "title": "Top Gear Tuesday: The Stig's Formula 1 Lap",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "9T5YY2": {
    "msg": "1539263279258673153",
    "end": 1787144340,
    "title": "08/18/1978",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PB35VT": {
    "msg": "1539263288255324293",
@@ -6858,6 +6830,27 @@
    "end": 1787227200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
+   "ended": false
+  },
+  "J6LVE1": {
+   "msg": "1539620187916206081",
+   "end": 1787187121,
+   "title": "Day #1 raffle after i get an Aussie on MVM :3",
+   "items": 10,
+   "ended": false
+  },
+  "K1PN7L": {
+   "msg": "1539620195348381838",
+   "end": 1787228881,
+   "title": "ssssssss",
+   "items": 1,
+   "ended": false
+  },
+  "RSQR4P": {
+   "msg": "1539620203082813473",
+   "end": 1787228821,
+   "title": "Data Harvesting #3",
+   "items": 2,
    "ended": false
   }
  },
