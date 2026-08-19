@@ -119,13 +119,6 @@
    "items": 1,
    "ended": true
   },
-  "QWEH7Z": {
-   "msg": "1536706050256797716",
-   "end": 1786534022,
-   "title": "salt \ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "IYJNRB": {
    "msg": "1536707238402457690",
    "end": 1786536000,
@@ -6928,6 +6921,13 @@
    "end": 1787223241,
    "title": "Raffle number 17!",
    "items": 5,
+   "ended": false
+  },
+  "05UIQA": {
+   "msg": "1539597484626542603",
+   "end": 1787224921,
+   "title": "gift of the day #3",
+   "items": 1,
    "ended": false
   }
  },
