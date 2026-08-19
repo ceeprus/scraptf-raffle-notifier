@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "A9U8E7": {
-   "msg": "1536849417515311294",
-   "end": 1786570142,
-   "title": "i dont know what is happening but  \ud83e\uddc2\ud83e\uddc2",
-   "items": 2,
-   "ended": true
-  },
-  "36ZKJR": {
-   "msg": "1536849428869292074",
-   "end": 1786569901,
-   "title": "Non-Craftaballs Part 3",
-   "items": 10,
-   "ended": true
-  },
   "BFIZIZ": {
    "msg": "1536856992910540950",
    "end": 1786570561,
@@ -431,20 +417,6 @@
    "msg": "1537023112971816961",
    "end": 1786610222,
    "title": "im tired of this war.",
-   "items": 1,
-   "ended": true
-  },
-  "HRAKS1": {
-   "msg": "1537030618498732123",
-   "end": 1786569662,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "IKOJML": {
-   "msg": "1537030627763691520",
-   "end": 1786569542,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5731,7 +5703,7 @@
    "end": 1787174701,
    "title": "Hey guys it's me Silvye Glitterhoofs also known as Silva",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "S0XFC5": {
    "msg": "1539386100223705201",
@@ -6564,6 +6536,20 @@
    "end": 1787259600,
    "title": "checkup #95 | Dream hat",
    "items": 2,
+   "ended": false
+  },
+  "E09XSF": {
+   "msg": "1539748479281274971",
+   "end": 1787260801,
+   "title": "Kiestu is going to attempt to eventually craft all the weapons. (Not you fishcake you require another game)",
+   "items": 1,
+   "ended": false
+  },
+  "17GR1R": {
+   "msg": "1539748486239485963",
+   "end": 1787260501,
+   "title": "jerma raffle",
+   "items": 1,
    "ended": false
   }
  },
