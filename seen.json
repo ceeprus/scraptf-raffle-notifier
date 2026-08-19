@@ -6242,7 +6242,7 @@
    "end": 1787104862,
    "title": "found my first australium in mvm",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "C7QCNA": {
    "msg": "1539099189412368536",
@@ -7102,6 +7102,13 @@
    "msg": "1539446483970166794",
    "end": 1787188200,
    "title": "Mixed Feelings",
+   "items": 1,
+   "ended": false
+  },
+  "B50P8J": {
+   "msg": "1539457206905339916",
+   "end": 1787191561,
+   "title": "migrane",
    "items": 1,
    "ended": false
   }
