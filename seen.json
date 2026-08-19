@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "M689C6": {
-   "msg": "1536706022947954688",
-   "end": 1786535401,
-   "title": "Got something good from 5th tour",
-   "items": 6,
-   "ended": true
-  },
-  "IYJNRB": {
-   "msg": "1536707238402457690",
-   "end": 1786536000,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
-  "I5S8P4": {
-   "msg": "1536707245176262727",
-   "end": 1786536000,
-   "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "LXNY7H": {
    "msg": "1536713523722453023",
    "end": 1786537021,
@@ -767,13 +746,6 @@
    "msg": "1536887218675777587",
    "end": 1786578602,
    "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #68   \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "TYBNEJ": {
-   "msg": "1536887224854122638",
-   "end": 1786535281,
-   "title": "\ud83d\udc1f #Swampert \ud83d\udc1f",
    "items": 1,
    "ended": true
   },
@@ -6011,7 +5983,7 @@
    "end": 1787140800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IN711V": {
    "msg": "1539257785294790827",
