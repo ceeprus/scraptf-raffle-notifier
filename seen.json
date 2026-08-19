@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "IIARB5": {
-   "msg": "1536841891017003048",
-   "end": 1786568400,
-   "title": "checkup #87 | War about slugs and glorps",
-   "items": 1,
-   "ended": true
-  },
   "A9U8E7": {
    "msg": "1536849417515311294",
    "end": 1786570142,
@@ -488,13 +481,6 @@
    "end": 1786606381,
    "title": "how to heal glorp?",
    "items": 30,
-   "ended": true
-  },
-  "GU7FLY": {
-   "msg": "1537023098883416074",
-   "end": 1786568102,
-   "title": "Happy Scrappy!",
-   "items": 3,
    "ended": true
   },
   "OTDZDK": {
@@ -5815,7 +5801,7 @@
    "end": 1787173200,
    "title": "checkup #94 | Steam Profile Backgrounds",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OC4FHU": {
    "msg": "1539386093927931987",
@@ -6396,7 +6382,7 @@
    "end": 1787173021,
    "title": "My first raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WBDGBO": {
    "msg": "1539658935643148418",
@@ -6634,6 +6620,20 @@
    "end": 1787258521,
    "title": "Daily Brass Beast #543",
    "items": 1,
+   "ended": false
+  },
+  "VWILJ0": {
+   "msg": "1539740968201232404",
+   "end": 1787259241,
+   "title": "I have a friend: Persona raffle (sort of)",
+   "items": 1,
+   "ended": false
+  },
+  "S39AG5": {
+   "msg": "1539740980264304734",
+   "end": 1787259122,
+   "title": "Hii :3  HAPPY 10TH RAFFLE",
+   "items": 49,
    "ended": false
   }
  },
