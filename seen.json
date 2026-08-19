@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "UL71V6": {
-   "msg": "1536585191437635745",
-   "end": 1786506181,
-   "title": "\ud83e\uddc2Raffle Log #93",
-   "items": 1,
-   "ended": true
-  },
-  "UHBZ72": {
-   "msg": "1536585197565509672",
-   "end": 1786505581,
-   "title": "WUSSSAAAAAAP GUYS, tomorrow im finally flying out of California and back home",
-   "items": 1,
-   "ended": true
-  },
   "951T10": {
    "msg": "1536592724906606622",
    "end": 1786507861,
@@ -129,27 +115,6 @@
   "JILFJD": {
    "msg": "1536592742392668260",
    "end": 1786507561,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BSS25P": {
-   "msg": "1536592748436525098",
-   "end": 1786507021,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "ZNUC84": {
-   "msg": "1536592757957591061",
-   "end": 1786506901,
-   "title": "Caf\u00e9 Crit-A-Coffee #1755",
-   "items": 10,
-   "ended": true
-  },
-  "VA2PBD": {
-   "msg": "1536592764089929779",
-   "end": 1786506842,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -6235,14 +6200,14 @@
    "end": 1787111461,
    "title": "Slugma Chain raffle #10-11",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "THNC2F": {
    "msg": "1539121882027008103",
    "end": 1787111400,
    "title": "Vested Interests",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C38GB8": {
    "msg": "1539129390535806988",
@@ -7068,6 +7033,20 @@
    "end": 1787196061,
    "title": "Source of Sadness",
    "items": 3,
+   "ended": false
+  },
+  "L8PO07": {
+   "msg": "1539484263840219263",
+   "end": 1787197441,
+   "title": "something happend",
+   "items": 1,
+   "ended": false
+  },
+  "WI0KZ7": {
+   "msg": "1539484272325435402",
+   "end": 1787197441,
+   "title": "You've got mail!",
+   "items": 8,
    "ended": false
   }
  },
