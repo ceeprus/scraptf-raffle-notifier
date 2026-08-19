@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "I4ZM67": {
-   "msg": "1536793922788007967",
-   "end": 1786556701,
-   "title": "awawawa",
-   "items": 1,
-   "ended": true
-  },
-  "EIRWEO": {
-   "msg": "1536793931042258975",
-   "end": 1786556281,
-   "title": "Craft Hat Giveaway",
-   "items": 34,
-   "ended": true
-  },
   "JYHCOK": {
    "msg": "1536796598758146249",
    "end": 1786557481,
@@ -6858,6 +6844,20 @@
    "end": 1787246581,
    "title": "Milk duel",
    "items": 3,
+   "ended": false
+  },
+  "502QK7": {
+   "msg": "1539692354586411059",
+   "end": 1787248021,
+   "title": "i got my dream theater",
+   "items": 1,
+   "ended": false
+  },
+  "EWHA7M": {
+   "msg": "1539692361767190529",
+   "end": 1787246941,
+   "title": "Daily raffle #350",
+   "items": 1,
    "ended": false
   }
  },
