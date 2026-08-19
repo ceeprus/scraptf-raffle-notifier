@@ -140,20 +140,6 @@
    "items": 3,
    "ended": true
   },
-  "EASLH1": {
-   "msg": "1536675863448518698",
-   "end": 1786526881,
-   "title": "\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f fish \ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f",
-   "items": 5,
-   "ended": true
-  },
-  "THP9AN": {
-   "msg": "1536675882176086127",
-   "end": 1786526822,
-   "title": "Go play Middle Earth: Shadow of Mordor you filthy casual (THE RETURN OF THE SERIES)",
-   "items": 1,
-   "ended": true
-  },
   "Z7U35N": {
    "msg": "1536681570323406959",
    "end": 1786529282,
@@ -6977,6 +6963,20 @@
    "end": 1787216221,
    "title": "Daily Kit Fabricator #10",
    "items": 1,
+   "ended": false
+  },
+  "MK131H": {
+   "msg": "1539567277534351420",
+   "end": 1787217722,
+   "title": "i got my slugma.",
+   "items": 1,
+   "ended": false
+  },
+  "2Q5G63": {
+   "msg": "1539567286887915561",
+   "end": 1787217482,
+   "title": "You're crazy.",
+   "items": 2,
    "ended": false
   }
  },
