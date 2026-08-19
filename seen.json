@@ -133,13 +133,6 @@
    "items": 1,
    "ended": true
   },
-  "DJQI7U": {
-   "msg": "1536570181520855061",
-   "end": 1786501802,
-   "title": "Erm, Now That Slugma Has Ppl Attention On Forums",
-   "items": 4,
-   "ended": true
-  },
   "APWLEL": {
    "msg": "1536576609749049407",
    "end": 1786504621,
@@ -6249,14 +6242,14 @@
    "end": 1787106302,
    "title": "Misplaced Fabricators",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "46HW5C": {
    "msg": "1539099203048054865",
    "end": 1787106121,
    "title": "Caf\u00e9 Crit-A-Coffee #1760",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "DS6MSB": {
    "msg": "1539099210840936558",
@@ -7109,6 +7102,13 @@
    "msg": "1539457206905339916",
    "end": 1787191561,
    "title": "migrane",
+   "items": 1,
+   "ended": false
+  },
+  "1M5ONZ": {
+   "msg": "1539461564246269982",
+   "end": 1787149800,
+   "title": "Tune of the day #312",
    "items": 1,
    "ended": false
   }
