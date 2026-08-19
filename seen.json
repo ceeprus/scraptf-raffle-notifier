@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "HW4YWG": {
-   "msg": "1536607845167009825",
-   "end": 1786511521,
-   "title": "slug fun facts.",
-   "items": 1,
-   "ended": true
-  },
   "6WU0RD": {
    "msg": "1536622923954257945",
    "end": 1786515961,
@@ -642,13 +635,6 @@
    "end": 1786556281,
    "title": "Craft Hat Giveaway",
    "items": 34,
-   "ended": true
-  },
-  "ESHO8K": {
-   "msg": "1536793936725803070",
-   "end": 1786512600,
-   "title": "[Fallen Tributes/Night 6] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "VBBVB6": {
@@ -6179,21 +6165,21 @@
    "end": 1787116321,
    "title": "public raffle",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "XZMMXT": {
    "msg": "1539144484590198785",
    "end": 1787115962,
    "title": "Hale's Own Trials: Persian Persuader: Day 7",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "14RXEN": {
    "msg": "1539144490814677042",
    "end": 1787115661,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X2YHOC": {
    "msg": "1539158746603716688",
@@ -6998,6 +6984,13 @@
    "end": 1787198822,
    "title": "Go My Noiselings",
    "items": 3,
+   "ended": false
+  },
+  "9DY9IM": {
+   "msg": "1539506879196176385",
+   "end": 1787203022,
+   "title": "Day 70 of Asking for a Follow Button",
+   "items": 1,
    "ended": false
   }
  },
