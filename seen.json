@@ -112,20 +112,6 @@
    "items": 2,
    "ended": true
   },
-  "TDRS0Q": {
-   "msg": "1536825373642326118",
-   "end": 1786563961,
-   "title": "\u0421\u043e\u0432\u0435\u0442\u044b \u043f\u043e \u0442\u0440\u0435\u0439\u0434\u0443 2",
-   "items": 4,
-   "ended": true
-  },
-  "B0MZFM": {
-   "msg": "1536825380642750605",
-   "end": 1786563421,
-   "title": "How come we're  ing all these Slugmas?! #3-4",
-   "items": 1,
-   "ended": true
-  },
   "KW12NC": {
    "msg": "1536834331572572381",
    "end": 1786565881,
@@ -5871,7 +5857,7 @@
    "end": 1787167861,
    "title": "Kiestu's question about keeping records of raffles.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B866XN": {
    "msg": "1539363469504286911",
@@ -6690,6 +6676,27 @@
    "end": 1787252941,
    "title": "i got a weapon",
    "items": 1,
+   "ended": false
+  },
+  "1J0AD7": {
+   "msg": "1539722405197385791",
+   "end": 1787254862,
+   "title": "Untitled raffle",
+   "items": 10,
+   "ended": false
+  },
+  "NRSCEC": {
+   "msg": "1539722412067782737",
+   "end": 1787254262,
+   "title": "I'm maybe getting my indifference hat...",
+   "items": 1,
+   "ended": false
+  },
+  "0YJX4F": {
+   "msg": "1539722418577477793",
+   "end": 1787253781,
+   "title": "COOKING",
+   "items": 2,
    "ended": false
   }
  },
