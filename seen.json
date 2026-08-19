@@ -5927,7 +5927,7 @@
    "end": 1787157841,
    "title": "I got a leather jacket the other day and it's pretty sweet!",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "BBWAZG": {
    "msg": "1539316856991522986",
@@ -5941,14 +5941,14 @@
    "end": 1787157302,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RD3LV3": {
    "msg": "1539316871411794062",
    "end": 1787157242,
    "title": "They got their dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PHXNZF": {
    "msg": "1539316877300469922",
@@ -6851,6 +6851,20 @@
    "end": 1787242534,
    "title": "(Don't lick) The Time Loop",
    "items": 1,
+   "ended": false
+  },
+  "WLUPOT": {
+   "msg": "1539678820330905682",
+   "end": 1787244241,
+   "title": "Most Joyous Friday To You",
+   "items": 1,
+   "ended": false
+  },
+  "H385O5": {
+   "msg": "1539678828555804755",
+   "end": 1787243402,
+   "title": "\ud83c\udf20",
+   "items": 3,
    "ended": false
   }
  },
