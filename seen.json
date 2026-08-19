@@ -112,62 +112,6 @@
    "items": 10,
    "ended": true
   },
-  "IYMPN5": {
-   "msg": "1536849436620103833",
-   "end": 1786569421,
-   "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "LL5PA8": {
-   "msg": "1536849443570188368",
-   "end": 1786569061,
-   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "Q26KBP": {
-   "msg": "1536849450704707745",
-   "end": 1786569001,
-   "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "LOPE1S": {
-   "msg": "1536849457172451339",
-   "end": 1786568882,
-   "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "BKG16J": {
-   "msg": "1536849464248242196",
-   "end": 1786568761,
-   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "8E7KWK": {
-   "msg": "1536849472267616326",
-   "end": 1786568642,
-   "title": "\ud83c\udf0a\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "TFPA4J": {
-   "msg": "1536849481784623154",
-   "end": 1786568581,
-   "title": "#SundownerSweep",
-   "items": 2,
-   "ended": true
-  },
-  "LOUV1N": {
-   "msg": "1536849489208418404",
-   "end": 1786568521,
-   "title": "\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
   "BFIZIZ": {
    "msg": "1536856992910540950",
    "end": 1786570561,
@@ -509,27 +453,6 @@
    "end": 1786612681,
    "title": "It's been years, so it's time for life updates. (OMG COMING OUT????)",
    "items": 13,
-   "ended": true
-  },
-  "8BXCHL": {
-   "msg": "1537030644939366491",
-   "end": 1786569361,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "HULAAG": {
-   "msg": "1537030659636465697",
-   "end": 1786569182,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "ZI7F6R": {
-   "msg": "1537030666829701172",
-   "end": 1786569002,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "X6R6LT": {
@@ -6634,6 +6557,13 @@
    "end": 1787259122,
    "title": "Hii :3  HAPPY 10TH RAFFLE",
    "items": 49,
+   "ended": false
+  },
+  "U0POC3": {
+   "msg": "1539745073384656961",
+   "end": 1787259600,
+   "title": "checkup #95 | Dream hat",
+   "items": 2,
    "ended": false
   }
  },
