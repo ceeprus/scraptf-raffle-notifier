@@ -105,20 +105,6 @@
    "items": 6,
    "ended": true
   },
-  "V1UE9H": {
-   "msg": "1536728624265429133",
-   "end": 1786540562,
-   "title": "KILL ALL   's\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "S23SFV": {
-   "msg": "1536728645341679707",
-   "end": 1786539902,
-   "title": "Items",
-   "items": 17,
-   "ended": true
-  },
   "H4JE7U": {
    "msg": "1536733592292425808",
    "end": 1786542481,
@@ -6851,6 +6837,13 @@
    "end": 1787228821,
    "title": "Data Harvesting #3",
    "items": 2,
+   "ended": false
+  },
+  "K3WBCP": {
+   "msg": "1539626105856860200",
+   "end": 1787230800,
+   "title": "Why does Monaco Exist?",
+   "items": 1,
    "ended": false
   }
  },
