@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "H4JE7U": {
-   "msg": "1536733592292425808",
-   "end": 1786542481,
-   "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "3T6P2T": {
-   "msg": "1536733598986801256",
-   "end": 1786542362,
-   "title": "Take it",
-   "items": 1,
-   "ended": true
-  },
   "6I57KW": {
    "msg": "1536748680420528158",
    "end": 1786545121,
@@ -5955,7 +5941,7 @@
    "end": 1787147821,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RHBURO": {
    "msg": "1539287604254744636",
