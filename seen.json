@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "NPM1IA": {
-   "msg": "1536841899464196097",
-   "end": 1786567021,
-   "title": "Kiestu's #slugmantors peaceful raffle.",
-   "items": 1,
-   "ended": true
-  },
-  "G7U75Q": {
-   "msg": "1536841909161562195",
-   "end": 1786566902,
-   "title": "\ud83c\udf0a is scary",
-   "items": 1,
-   "ended": true
-  },
   "A9U8E7": {
    "msg": "1536849417515311294",
    "end": 1786570142,
@@ -509,13 +495,6 @@
    "end": 1786568102,
    "title": "Happy Scrappy!",
    "items": 3,
-   "ended": true
-  },
-  "YKEG3T": {
-   "msg": "1537023106160529468",
-   "end": 1786567741,
-   "title": "Question",
-   "items": 1,
    "ended": true
   },
   "OTDZDK": {
@@ -6137,14 +6116,14 @@
    "end": 1787171642,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PCDHAV": {
    "msg": "1539555119140577290",
    "end": 1787171461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZPDL5I": {
    "msg": "1539555125683691581",
@@ -6647,6 +6626,13 @@
    "msg": "1539733362842013787",
    "end": 1787213762,
    "title": "I received a hat that I hate (Raffle #2",
+   "items": 1,
+   "ended": false
+  },
+  "ZE70G0": {
+   "msg": "1539738638756356136",
+   "end": 1787258521,
+   "title": "Daily Brass Beast #543",
    "items": 1,
    "ended": false
   }
