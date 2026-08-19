@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "ES3HQ0": {
-   "msg": "1536774004763791452",
-   "end": 1786550522,
-   "title": "Scrap.tf Birthdays - 11 August",
-   "items": 2,
-   "ended": true
-  },
   "NJCN0U": {
    "msg": "1536781500383756439",
    "end": 1786553882,
@@ -5899,7 +5892,7 @@
    "end": 1787155981,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5CF3KE": {
    "msg": "1539308061209137252",
@@ -5920,14 +5913,14 @@
    "end": 1787156402,
    "title": "i got my dream antlers.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WSWODG": {
    "msg": "1539310599085752321",
    "end": 1787156162,
    "title": "It's mah birthday hell yeah!!!",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "8IJG7F": {
    "msg": "1539310605595451503",
@@ -6823,6 +6816,20 @@
    "end": 1787240101,
    "title": "IT\u2019S BUGS, BRO",
    "items": 2,
+   "ended": false
+  },
+  "XWVYOS": {
+   "msg": "1539670389037338667",
+   "end": 1787242021,
+   "title": "one day",
+   "items": 1,
+   "ended": false
+  },
+  "KPNZET": {
+   "msg": "1539670398306750624",
+   "end": 1787241600,
+   "title": "Scrap.tf Birthdays - 19 August",
+   "items": 5,
    "ended": false
   }
  },
