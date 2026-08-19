@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "NJCN0U": {
-   "msg": "1536781500383756439",
-   "end": 1786553882,
-   "title": "My First Raffle !!!",
-   "items": 1,
-   "ended": true
-  },
-  "3HBRQS": {
-   "msg": "1536781507228864603",
-   "end": 1786553702,
-   "title": "Why is everyone \ud83e\uddc2 and #saveglorp",
-   "items": 1,
-   "ended": true
-  },
   "GYS7BS": {
    "msg": "1536793916672704623",
    "end": 1786556941,
@@ -138,27 +124,6 @@
    "end": 1786555741,
    "title": "The root cause of the conflict",
    "items": 1,
-   "ended": true
-  },
-  "34PWRR": {
-   "msg": "1536793952844513300",
-   "end": 1786554001,
-   "title": "He was whipping out amazing foods like making Happiness! \ud83e\uddc2",
-   "items": 13,
-   "ended": true
-  },
-  "P287RY": {
-   "msg": "1536793960545132544",
-   "end": 1786554000,
-   "title": "Daily raffle until TF2 gets a major update #588",
-   "items": 3,
-   "ended": true
-  },
-  "OYATGE": {
-   "msg": "1536793966815477903",
-   "end": 1786553941,
-   "title": "#15",
-   "items": 5,
    "ended": true
   },
   "JYHCOK": {
@@ -6004,7 +5969,7 @@
    "end": 1787158682,
    "title": "I think I got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TUT5VP": {
    "msg": "1539330891283701801",
