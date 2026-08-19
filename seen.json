@@ -98,55 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6WU0RD": {
-   "msg": "1536622923954257945",
-   "end": 1786515961,
-   "title": "Flower Dream",
-   "items": 4,
-   "ended": true
-  },
-  "DB9P1K": {
-   "msg": "1536622945667907671",
-   "end": 1786515842,
-   "title": "Graveyard raffle (#11)",
-   "items": 7,
-   "ended": true
-  },
-  "T3U7GT": {
-   "msg": "1536622953419112509",
-   "end": 1786515721,
-   "title": "Day 4 of asking for Slugma Chain emoticon",
-   "items": 3,
-   "ended": true
-  },
-  "B3JW7D": {
-   "msg": "1536622960054505563",
-   "end": 1786515362,
-   "title": "im a dumbass",
-   "items": 3,
-   "ended": true
-  },
-  "AE596S": {
-   "msg": "1536622967554056227",
-   "end": 1786515362,
-   "title": "FISH",
-   "items": 6,
-   "ended": true
-  },
-  "6TRYM1": {
-   "msg": "1536622974042505218",
-   "end": 1786515301,
-   "title": "\ud83e\uddc2\ud83e\uddc2 Salty springs\ud83e\uddc2\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "9P7CV6": {
-   "msg": "1536622981936316506",
-   "end": 1786514762,
-   "title": "Mad Dog Monday #263",
-   "items": 2,
-   "ended": true
-  },
   "8X0S91": {
    "msg": "1536638020940333136",
    "end": 1786518541,
@@ -1272,13 +1223,6 @@
    "end": 1786597381,
    "title": "Day 5 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": true
-  },
-  "IX14TQ": {
-   "msg": "1536970210299609178",
-   "end": 1786515602,
-   "title": "1st raffle",
-   "items": 4,
    "ended": true
   },
   "PWS8J7": {
@@ -6186,7 +6130,7 @@
    "end": 1787119441,
    "title": "YOU can ask everything about ME #666 [\ud801\udd63]",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O241IP": {
    "msg": "1539158753935491092",
@@ -7019,6 +6963,13 @@
    "end": 1787204641,
    "title": "Slugma art",
    "items": 10,
+   "ended": false
+  },
+  "ZKYAWP": {
+   "msg": "1539521348483678208",
+   "end": 1787206802,
+   "title": "All clear",
+   "items": 1,
    "ended": false
   }
  },
