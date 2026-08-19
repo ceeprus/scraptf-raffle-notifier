@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "ANAPI9": {
-   "msg": "1536764162384863292",
-   "end": 1786549201,
-   "title": "\ud83d\udc1f \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "L7ALZF": {
-   "msg": "1536766458330091582",
-   "end": 1786549801,
-   "title": "a key",
-   "items": 1,
-   "ended": true
-  },
-  "LUUVPD": {
-   "msg": "1536766468857925674",
-   "end": 1786549621,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 7,
-   "ended": true
-  },
-  "M17IXB": {
-   "msg": "1536766478785843341",
-   "end": 1786549562,
-   "title": "\ud83e\uddc2\ud83e\uddc2\ud83e\uddc2",
-   "items": 4,
-   "ended": true
-  },
   "61VWRU": {
    "msg": "1536773996597612564",
    "end": 1786551781,
@@ -665,13 +637,6 @@
    "items": 10,
    "ended": true
   },
-  "TLQI1J": {
-   "msg": "1536947638983860234",
-   "end": 1786549441,
-   "title": "jarona",
-   "items": 3,
-   "ended": true
-  },
   "NW2SU8": {
    "msg": "1536947645388685312",
    "end": 1786592461,
@@ -712,13 +677,6 @@
    "end": 1786593600,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1503 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 12,
-   "ended": true
-  },
-  "VDBT8X": {
-   "msg": "1536955137271013386",
-   "end": 1786550400,
-   "title": "[DAY 7] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "I8769F": {
@@ -5913,28 +5871,28 @@
    "end": 1787154301,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JR8S2C": {
    "msg": "1539303086445559839",
    "end": 1787154002,
    "title": "First Raffle",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "JSUUAY": {
    "msg": "1539303093349654650",
    "end": 1787154002,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HT82U9": {
    "msg": "1539303100764913797",
    "end": 1787153941,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XJLS2M": {
    "msg": "1539308052501762128",
@@ -5948,7 +5906,7 @@
    "end": 1787155200,
    "title": "i got my dream hat.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PV71P0": {
    "msg": "1539310581675196508",
@@ -6837,6 +6795,34 @@
    "end": null,
    "title": "i got my dream non hat",
    "items": 1,
+   "ended": false
+  },
+  "ADU57Z": {
+   "msg": "1539665488370598009",
+   "end": 1787241121,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1510 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 19,
+   "ended": false
+  },
+  "4GSHJL": {
+   "msg": "1539665497090556037",
+   "end": 1787240761,
+   "title": "Starchion`s Art #21 [CHROMAKOPIA+] + Special edition",
+   "items": 1,
+   "ended": false
+  },
+  "9DXH0U": {
+   "msg": "1539665503881269270",
+   "end": 1787175422,
+   "title": "i got my dream accesory",
+   "items": 2,
+   "ended": false
+  },
+  "QYDEOV": {
+   "msg": "1539665510743015524",
+   "end": 1787240101,
+   "title": "IT\u2019S BUGS, BRO",
+   "items": 2,
    "ended": false
   }
  },
