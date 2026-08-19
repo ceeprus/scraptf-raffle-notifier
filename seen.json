@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "XYMT6B": {
-   "msg": "1536597015562158150",
-   "end": 1786509722,
-   "title": "[MEGA} Graveyard Raffle (#10)",
-   "items": 28,
-   "ended": true
-  },
-  "LUJUFU": {
-   "msg": "1536597023380348949",
-   "end": 1786509661,
-   "title": "Here's some yummy salt!",
-   "items": 3,
-   "ended": true
-  },
   "HW4YWG": {
    "msg": "1536607845167009825",
    "end": 1786511521,
@@ -6179,14 +6165,14 @@
    "end": 1787115002,
    "title": "Hm, seems a bit much...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X8XKXA": {
    "msg": "1539136834800582717",
    "end": 1787114822,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MY7DY4": {
    "msg": "1539144478676361226",
