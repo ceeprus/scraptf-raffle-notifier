@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OTDZDK": {
-   "msg": "1537023112971816961",
-   "end": 1786610222,
-   "title": "im tired of this war.",
-   "items": 1,
-   "ended": true
-  },
   "V3377W": {
    "msg": "1537030637981007966",
    "end": 1786612681,
@@ -564,13 +557,6 @@
    "msg": "1537211817061908541",
    "end": 1786654800,
    "title": "checkup #88 | OneShot",
-   "items": 1,
-   "ended": true
-  },
-  "TEVQ5W": {
-   "msg": "1537211823823003678",
-   "end": 1786611600,
-   "title": "[DAY 8] Scrap tf HG",
    "items": 1,
    "ended": true
   },
@@ -5633,14 +5619,14 @@
    "end": 1787215381,
    "title": "I didn't get my dream hat",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "S58OLU": {
    "msg": "1539559788365488188",
    "end": 1787215021,
    "title": "i got my favourite block in minecraft",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7R6JEQ": {
    "msg": "1539565674450518097",
@@ -5661,7 +5647,7 @@
    "end": 1787216221,
    "title": "Daily Kit Fabricator #10",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MK131H": {
    "msg": "1539567277534351420",
