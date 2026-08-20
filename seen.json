@@ -112,13 +112,6 @@
    "items": 1,
    "ended": true
   },
-  "A0SATX": {
-   "msg": "1537134887956512842",
-   "end": 1786636800,
-   "title": "Scrap.tf Birthdays - 12 August",
-   "items": 3,
-   "ended": true
-  },
   "E1MZRL": {
    "msg": "1537143903885721731",
    "end": 1786640400,
@@ -5633,7 +5626,7 @@
    "end": 1787241600,
    "title": "Scrap.tf Birthdays - 19 August",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "0MSYO8": {
    "msg": "1539672975249244300",
@@ -6311,6 +6304,20 @@
    "msg": "1540026732713615470",
    "end": 1787326682,
    "title": "its my Birthday :D and first raffle\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+   "items": 1,
+   "ended": false
+  },
+  "H27MR7": {
+   "msg": "1540027854731870259",
+   "end": 1787284800,
+   "title": "[DAY 18] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "7Y78DL": {
+   "msg": "1540027862768418989",
+   "end": 1787327701,
+   "title": "Mi segundo video de Tf2",
    "items": 1,
    "ended": false
   }
