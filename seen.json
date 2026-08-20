@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "VHK8X9": {
-   "msg": "1537075916566429796",
-   "end": 1786622641,
-   "title": "Go play Middle Earth: Shadow of War you filthy casual",
-   "items": 1,
-   "ended": true
-  },
   "VH4DN5": {
    "msg": "1537083473628766249",
    "end": 1786625341,
@@ -5640,14 +5633,14 @@
    "end": 1787228881,
    "title": "ssssssss",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RSQR4P": {
    "msg": "1539620203082813473",
    "end": 1787228821,
    "title": "Data Harvesting #3",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "K3WBCP": {
    "msg": "1539626105856860200",
@@ -6361,6 +6354,20 @@
    "end": 1787313600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
+   "ended": false
+  },
+  "EH1SW2": {
+   "msg": "1539974526304124928",
+   "end": 1787314141,
+   "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "HM3V0G": {
+   "msg": "1539974534508183562",
+   "end": 1787313722,
+   "title": "Hello",
+   "items": 7,
    "ended": false
   }
  },
