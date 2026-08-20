@@ -98,39 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "UZSYL0": {
-   "msg": "1537159002293539026",
-   "end": 1786643222,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "IVCUHU": {
-   "msg": "1537159012263399466",
-   "end": 1786643041,
-   "title": "Daily raffle #343",
-   "items": 1,
-   "ended": true
-  },
-  "2BSG56": {
-   "msg": "1537159020102811663",
-   "end": 1786642981,
-   "title": "A cool thing for a cool scout",
-   "items": 1,
-   "ended": true
-  },
   "OCI1A6": {
    "msg": "1537162302774575197",
    "end": 1786644422,
    "title": "\ud83c\udf0a",
    "items": 3,
-   "ended": true
-  },
-  "P8VQUV": {
-   "msg": "1537162338900377751",
-   "end": 1786643581,
-   "title": "Daily Hat #77",
-   "items": 1,
    "ended": true
   },
   "KEE1P9": {
@@ -5647,7 +5619,7 @@
    "end": 1787248021,
    "title": "i got my dream theater",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EWHA7M": {
    "msg": "1539692361767190529",
@@ -6109,7 +6081,7 @@
    "end": 1787247061,
    "title": "I accidentally overpayed a bid on an auction :(",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NFEL0Z": {
    "msg": "1539967460113911879",
@@ -6326,6 +6298,13 @@
    "end": 1787331541,
    "title": "I think I know who grabli304 is",
    "items": 1,
+   "ended": false
+  },
+  "L8PPDZ": {
+   "msg": "1540056232042172466",
+   "end": 1787333821,
+   "title": "So many Uma Musume fans",
+   "items": 6,
    "ended": false
   }
  },
