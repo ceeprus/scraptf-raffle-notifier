@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "TJZ31G": {
-   "msg": "1537113696558383124",
-   "end": 1786632002,
-   "title": "\ud83c\udf0a",
-   "items": 6,
-   "ended": true
-  },
-  "QBOFGL": {
-   "msg": "1537113705123283065",
-   "end": 1786631521,
-   "title": "\ud83c\udf0a Turn Up the Volume to Wash Away the Slops!",
-   "items": 4,
-   "ended": true
-  },
   "QIKEXX": {
    "msg": "1537120321130332350",
    "end": 1786633861,
@@ -5549,7 +5535,7 @@
    "end": 1787237042,
    "title": "i got my hat in a dream",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F0MQKV": {
    "msg": "1539650120264458260",
@@ -5563,14 +5549,14 @@
    "end": 1787236802,
    "title": "Got my first Australium drop from MVM at Tour No.104",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "A7DUXR": {
    "msg": "1539650134172893204",
    "end": 1787236681,
    "title": "i got my dream bat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D5QPU8": {
    "msg": "1539657909124997231",
@@ -5598,7 +5584,7 @@
    "end": 1787238002,
    "title": "If going out of your way to ruin other people's happiness or things that they enjoy just to troll and get your kicks and that is your life's philosophy, then shame on you!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FRK9A9": {
    "msg": "1539657939151753328",
@@ -6305,6 +6291,20 @@
    "end": 1787321702,
    "title": "Shot so bad I had to make a sfm out of it lmao",
    "items": 8,
+   "ended": false
+  },
+  "GC3GO5": {
+   "msg": "1540012763533934673",
+   "end": 1787259361,
+   "title": "broken",
+   "items": 4,
+   "ended": false
+  },
+  "8903US": {
+   "msg": "1540012769976262716",
+   "end": 1787279400,
+   "title": "Tune of the day #315",
+   "items": 1,
    "ended": false
   }
  },
