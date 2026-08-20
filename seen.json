@@ -5598,7 +5598,7 @@
    "end": 1787266800,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "84VNTP": {
    "msg": "1539786276029599865",
@@ -6255,6 +6255,13 @@
    "msg": "1540131336738570295",
    "end": 1787351461,
    "title": "Honesty",
+   "items": 1,
+   "ended": false
+  },
+  "E5HCFC": {
+   "msg": "1540133553222717462",
+   "end": 1787353200,
+   "title": "A  a day",
    "items": 1,
    "ended": false
   }
