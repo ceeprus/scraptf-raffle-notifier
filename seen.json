@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LH2CTC": {
-   "msg": "1537181607167922226",
-   "end": 1786647902,
-   "title": "\ud83c\udf0a",
-   "items": 2,
-   "ended": true
-  },
-  "8R2PKY": {
-   "msg": "1537181614604427406",
-   "end": 1786647721,
-   "title": "auctions are wierd",
-   "items": 1,
-   "ended": true
-  },
   "8O8OZ5": {
    "msg": "1537189184027238511",
    "end": 1786650841,
@@ -5612,7 +5598,7 @@
    "end": 1787252941,
    "title": "i got a weapon",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1J0AD7": {
    "msg": "1539722405197385791",
@@ -6277,6 +6263,13 @@
    "end": 1787338261,
    "title": "Best half life npc winner:",
    "items": 1,
+   "ended": false
+  },
+  "GLMU9R": {
+   "msg": "1540075211657969784",
+   "end": 1787338861,
+   "title": "Bau! Bau!",
+   "items": 18,
    "ended": false
   }
  },
