@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "6ZWFCC": {
-   "msg": "1536904570851299441",
-   "end": 1786582800,
-   "title": "Reminder to eat n' drink water if ye haven't yet #269",
-   "items": 5,
-   "ended": true
-  },
   "SIF04G": {
    "msg": "1536924908335013949",
    "end": 1786587661,
@@ -441,13 +434,6 @@
    "items": 1,
    "ended": true
   },
-  "LA6P66": {
-   "msg": "1537083480566141078",
-   "end": 1786582081,
-   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
   "E9YYYG": {
    "msg": "1537083486572249219",
    "end": 1786625161,
@@ -488,13 +474,6 @@
    "end": 1786625882,
    "title": "123",
    "items": 6,
-   "ended": true
-  },
-  "85LJT2": {
-   "msg": "1537091067814346803",
-   "end": 1786582561,
-   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
-   "items": 1,
    "ended": true
   },
   "4TDMA2": {
@@ -6053,7 +6032,7 @@
    "end": 1787187121,
    "title": "Day #1 raffle after i get an Aussie on MVM :3",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "K1PN7L": {
    "msg": "1539620195348381838",
@@ -6507,6 +6486,27 @@
    "msg": "1539796867523551242",
    "end": 1787272501,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #86 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "85RT86": {
+   "msg": "1539801365084373092",
+   "end": 1787273221,
+   "title": "Something interesting i found online",
+   "items": 4,
+   "ended": false
+  },
+  "HWPEZP": {
+   "msg": "1539801375096180806",
+   "end": 1787272981,
+   "title": "guh",
+   "items": 20,
+   "ended": false
+  },
+  "9PIQ98": {
+   "msg": "1539801382696255518",
+   "end": 1787272921,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #87 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
