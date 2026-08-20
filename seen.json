@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "QIKEXX": {
-   "msg": "1537120321130332350",
-   "end": 1786633861,
-   "title": "Silent night.",
-   "items": 3,
-   "ended": true
-  },
-  "1HETVV": {
-   "msg": "1537120327807541288",
-   "end": 1786633561,
-   "title": "Question",
-   "items": 1,
-   "ended": true
-  },
   "KM1UEH": {
    "msg": "1537128779380432966",
    "end": 1786636081,
@@ -5563,21 +5549,21 @@
    "end": 1787238601,
    "title": "\ud83e\udd73Its My Birthday:)\ud83e\udd73",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V9GJGH": {
    "msg": "1539657917152886878",
    "end": 1787238421,
    "title": "\ud83c\udf0a\ud83d\udc1f   I LOVE",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "7832HB": {
    "msg": "1539657923897073775",
    "end": 1787238181,
    "title": "1k raffles entered",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "25L8KW": {
    "msg": "1539657930792640682",
@@ -5605,14 +5591,14 @@
    "end": 1787239800,
    "title": "MK Poll #6 + The Favorites of Music #281 & #282",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JS8ZX2": {
    "msg": "1539658942202773515",
    "end": 1787239621,
    "title": "Whats up with all the antlers being given away",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GJW5ZC": {
    "msg": "1539658948578115715",
@@ -6011,7 +5997,7 @@
    "end": 1787239261,
    "title": "Raffling Scrap Till I'm Out #1008-9 (Make up raffle)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "EVRRT0": {
    "msg": "1539837059999600760",
@@ -6305,6 +6291,27 @@
    "end": 1787279400,
    "title": "Tune of the day #315",
    "items": 1,
+   "ended": false
+  },
+  "UV2M4A": {
+   "msg": "1540020264115503226",
+   "end": 1787325722,
+   "title": "It was worth it today!!",
+   "items": 5,
+   "ended": false
+  },
+  "K1Y3N5": {
+   "msg": "1540020271472316510",
+   "end": 1787325061,
+   "title": "If you're wondering how to get handsome\u2122 like me, the best way is skin care.",
+   "items": 1,
+   "ended": false
+  },
+  "9DXJ3W": {
+   "msg": "1540020279076716654",
+   "end": 1787324641,
+   "title": "Day 1348 of asking for megaraffle",
+   "items": 5,
    "ended": false
   }
  },
