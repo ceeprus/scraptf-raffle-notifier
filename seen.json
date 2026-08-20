@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LXOHLL": {
-   "msg": "1537051178960027689",
-   "end": 1786616701,
-   "title": "Grabli304's raffle\u2503Day 164",
-   "items": 2,
-   "ended": true
-  },
   "LU2YM0": {
    "msg": "1537053285318524980",
    "end": 1786618322,
@@ -5633,7 +5626,7 @@
    "end": 1787221441,
    "title": "DON'T TELL HER ANYTHING",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FGAWQW": {
    "msg": "1539593984354156675",
@@ -6360,6 +6353,20 @@
    "msg": "1539936535900856400",
    "end": 1787304541,
    "title": "Mr. Bubbly story",
+   "items": 1,
+   "ended": false
+  },
+  "CT73WM": {
+   "msg": "1539944159371202652",
+   "end": 1787307781,
+   "title": "Grabli304's raffle\u2503Day 172",
+   "items": 2,
+   "ended": false
+  },
+  "QOJOSF": {
+   "msg": "1539944165930963064",
+   "end": 1787306400,
+   "title": "Gifted Blutsauger #2",
    "items": 1,
    "ended": false
   }
