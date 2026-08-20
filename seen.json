@@ -105,13 +105,6 @@
    "items": 2,
    "ended": true
   },
-  "44V18M": {
-   "msg": "1536924916757299270",
-   "end": 1786586461,
-   "title": "Feeling Like The End?",
-   "items": 2,
-   "ended": true
-  },
   "QCW5PE": {
    "msg": "1536932500201283585",
    "end": 1786589042,
@@ -5682,7 +5675,7 @@
    "end": 1787191561,
    "title": "migrane",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1M5ONZ": {
    "msg": "1539461564246269982",
@@ -6501,6 +6494,20 @@
    "end": 1787274242,
    "title": "Earlier this week i got a Strange brand loyalist from a gift randomly.",
    "items": 4,
+   "ended": false
+  },
+  "BD637D": {
+   "msg": "1539819090636705943",
+   "end": 1787278021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8XQTSJ": {
+   "msg": "1539819100262371460",
+   "end": 1787277722,
+   "title": "Caf\u00e9 Crit-A-Coffee #1762",
+   "items": 10,
    "ended": false
   }
  },
