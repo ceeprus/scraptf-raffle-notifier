@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "RQPPYS": {
-   "msg": "1536955122666577950",
-   "end": 1786594141,
-   "title": "\ud83d\udc1fRaffle Log #97\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "I8769F": {
    "msg": "1536962705955622933",
    "end": 1786596001,
    "title": "Fish raffle",
    "items": 1,
-   "ended": true
-  },
-  "YLSJAM": {
-   "msg": "1536962713027215392",
-   "end": 1786595281,
-   "title": "Cog Birthday Raffle!!",
-   "items": 2,
    "ended": true
   },
   "HT9NE4": {
@@ -5640,7 +5626,7 @@
    "end": 1787198822,
    "title": "Go My Noiselings",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "9DY9IM": {
    "msg": "1539506879196176385",
@@ -6109,7 +6095,7 @@
    "end": 1787199841,
    "title": "Something to get more antlers with",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "HKQ815": {
    "msg": "1539672982480355462",
@@ -6473,6 +6459,13 @@
    "end": 1787284800,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1511 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 20,
+   "ended": false
+  },
+  "4NZ92P": {
+   "msg": "1539854163444367471",
+   "end": 1787286301,
+   "title": "We definitely need more medic main! \u211655",
+   "items": 6,
    "ended": false
   }
  },
