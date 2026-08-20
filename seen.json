@@ -112,13 +112,6 @@
    "items": 1,
    "ended": true
   },
-  "EKR6IW": {
-   "msg": "1537060829940285520",
-   "end": 1786618800,
-   "title": "Is it really worth it?",
-   "items": 1,
-   "ended": true
-  },
   "KYNI5O": {
    "msg": "1537062970507665408",
    "end": 1786620242,
@@ -523,13 +516,6 @@
    "end": 1786662301,
    "title": "Raffling a  every time I win a  #77",
    "items": 2,
-   "ended": true
-  },
-  "CFIYZD": {
-   "msg": "1537242013051912253",
-   "end": 1786618800,
-   "title": "Some More  #???",
-   "items": 1,
    "ended": true
   },
   "9A8QEA": {
@@ -5647,7 +5633,7 @@
    "end": 1787223600,
    "title": "Huh... is that how they vent?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6N39G9": {
    "msg": "1539594015064727612",
@@ -6368,6 +6354,20 @@
    "end": 1787308081,
    "title": "Some facts about me",
    "items": 1,
+   "ended": false
+  },
+  "I4T154": {
+   "msg": "1539952360867237971",
+   "end": 1787309642,
+   "title": "Mandatory Scrap.tf day raffle\u2122",
+   "items": 4,
+   "ended": false
+  },
+  "2CAGY1": {
+   "msg": "1539952367850758216",
+   "end": 1787309521,
+   "title": "I'll try MvM again today",
+   "items": 3,
    "ended": false
   }
  },
