@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "D30PVQ": {
-   "msg": "1537106141710917744",
-   "end": 1786630501,
-   "title": "Tips has not only the meaning of 'tips', but also the meaning of 'tips",
-   "items": 1,
-   "ended": true
-  },
-  "8ZIFAA": {
-   "msg": "1537106148627316818",
-   "end": 1786630441,
-   "title": "\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "SFCJJV": {
-   "msg": "1537106155988582518",
-   "end": 1786630261,
-   "title": "\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "D0U9T0": {
-   "msg": "1537106163404111963",
-   "end": 1786630142,
-   "title": "\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
   "TJZ31G": {
    "msg": "1537113696558383124",
    "end": 1786632002,
@@ -6039,7 +6011,7 @@
    "end": 1787236200,
    "title": "Tune of the day #314",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DC2HNY": {
    "msg": "1539823971707392070",
@@ -6326,6 +6298,13 @@
    "end": 1787321041,
    "title": "take my items",
    "items": 3,
+   "ended": false
+  },
+  "CYZJ93": {
+   "msg": "1540005172019994716",
+   "end": 1787321702,
+   "title": "Shot so bad I had to make a sfm out of it lmao",
+   "items": 8,
    "ended": false
   }
  },
