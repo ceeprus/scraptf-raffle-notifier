@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "XTKPVS": {
-   "msg": "1536990439104712764",
-   "end": 1786602541,
-   "title": "\ud83c\udf0a\ud83d\udc1f Hat with No Name   \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "KAFSLX": {
    "msg": "1537000433380491347",
    "end": 1786604942,
@@ -5605,14 +5598,14 @@
    "end": 1787206802,
    "title": "All clear",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XTREIT": {
    "msg": "1539529562940112926",
    "end": 1787207162,
    "title": "The pass it forward raffle! (#14)  I\u2019m back!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "5RK8CI": {
    "msg": "1539534433952997417",
