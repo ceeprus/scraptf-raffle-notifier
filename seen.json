@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "INJPOT": {
-   "msg": "1537211810393096192",
-   "end": 1786655161,
-   "title": "\ud83c\udf0a How many seconds in eternity  \ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
   "XOIXW0": {
    "msg": "1537226898277408979",
    "end": 1786658221,
@@ -5626,7 +5619,7 @@
    "end": 1787260501,
    "title": "jerma raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CLNAQC": {
    "msg": "1539759666744262676",
@@ -5850,35 +5843,35 @@
    "end": 1787260441,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8M7CP3": {
    "msg": "1539929666469625886",
    "end": 1787260321,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "502M16": {
    "msg": "1539929673365200996",
    "end": 1787260141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SY9W4K": {
    "msg": "1539929679052669029",
    "end": 1787259961,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UKI12R": {
    "msg": "1539929685197193226",
    "end": 1787259842,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SLHSN8": {
    "msg": "1539936517365960795",
@@ -6263,6 +6256,41 @@
    "end": 1787342161,
    "title": "inv clear",
    "items": 55,
+   "ended": false
+  },
+  "SVIDWI": {
+   "msg": "1540108025656909834",
+   "end": 1787346661,
+   "title": "Most Joyous Daily weapons until Kiestu accidentally crafts a grabli304 Uma Musume update",
+   "items": 1,
+   "ended": false
+  },
+  "JFU5GR": {
+   "msg": "1540108031910739968",
+   "end": 1787346000,
+   "title": "checkup #96 | Mossrock",
+   "items": 1,
+   "ended": false
+  },
+  "2H3TL0": {
+   "msg": "1540108037996421210",
+   "end": 1787302800,
+   "title": "[Night 18] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "4CFM3T": {
+   "msg": "1540108045227393104",
+   "end": 1787345942,
+   "title": "Most Joyous Friday To You",
+   "items": 1,
+   "ended": false
+  },
+  "6LM2M3": {
+   "msg": "1540108051342827520",
+   "end": 1787345641,
+   "title": "Stupendium's Stupendous Song #24",
+   "items": 1,
    "ended": false
   }
  },
