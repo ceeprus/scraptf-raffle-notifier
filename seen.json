@@ -5584,21 +5584,21 @@
    "end": 1787213941,
    "title": "You got your dream hat?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NAF0EF": {
    "msg": "1539552202564177981",
    "end": 1787213762,
    "title": "pmzn6",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "N0Y4ET": {
    "msg": "1539552209337851916",
    "end": 1787213522,
    "title": "I got my nightmare hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KQE47P": {
    "msg": "1539555111037313064",
@@ -5619,7 +5619,7 @@
    "end": 1787214601,
    "title": "I got my nightmare Noise Maker",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TEZHW0": {
    "msg": "1539555133132636230",
@@ -6116,7 +6116,7 @@
    "end": 1787213762,
    "title": "I received a hat that I hate (Raffle #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZE70G0": {
    "msg": "1539738638756356136",
