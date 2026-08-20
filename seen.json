@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "RDBV74": {
-   "msg": "1537007981621673984",
-   "end": 1786607642,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "A1FKSM": {
-   "msg": "1537007996561784832",
-   "end": 1786607341,
-   "title": "(\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f from \ud83c\udf0a) +    =  * 88888 =",
-   "items": 1,
-   "ended": true
-  },
-  "3ZTCE0": {
-   "msg": "1537008009912524912",
-   "end": 1786607281,
-   "title": "#saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "J0K7QQ": {
-   "msg": "1537008016019165237",
-   "end": 1786606381,
-   "title": "how to heal glorp?",
-   "items": 30,
-   "ended": true
-  },
   "OTDZDK": {
    "msg": "1537023112971816961",
    "end": 1786610222,
@@ -546,13 +518,6 @@
    "items": 9,
    "ended": true
   },
-  "1NE09G": {
-   "msg": "1537189208215519382",
-   "end": 1786607162,
-   "title": "Some More",
-   "items": 1,
-   "ended": true
-  },
   "AF286Q": {
    "msg": "1537196706829959320",
    "end": 1786652821,
@@ -572,13 +537,6 @@
    "end": 1786651200,
    "title": "Equestria Forever",
    "items": 53,
-   "ended": true
-  },
-  "1DZUGF": {
-   "msg": "1537196730343366717",
-   "end": 1786607942,
-   "title": "\ud83c\udf0a\ud83e\uddc2It was to be done\ud83e\uddc2 \ud83c\udf0a",
-   "items": 1,
    "ended": true
   },
   "FZ2C23": {
@@ -5605,7 +5563,7 @@
    "end": 1787212442,
    "title": "i got my gay hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MR6U5C": {
    "msg": "1539552182288908319",
@@ -6403,6 +6361,20 @@
    "end": 1787295600,
    "title": "[To F2P] Free stuff monthly raffle #8 / Rifa mensual de cosas gratis #8",
    "items": 20,
+   "ended": false
+  },
+  "W53CBU": {
+   "msg": "1539907052359520278",
+   "end": 1787253961,
+   "title": "I have a new hyperfixation",
+   "items": 5,
+   "ended": false
+  },
+  "RYO7C5": {
+   "msg": "1539907059837833247",
+   "end": 1787253846,
+   "title": "[Fallen Tributes/Night 17] Scrap tf HG",
+   "items": 1,
    "ended": false
   }
  },
