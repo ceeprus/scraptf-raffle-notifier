@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "HOPYQN": {
-   "msg": "1537150143214649355",
-   "end": 1786640522,
-   "title": "Raffle 1, comment items, types of items, classes, qualities you want to see in raffle 2",
-   "items": 14,
-   "ended": true
-  },
   "UZSYL0": {
    "msg": "1537159002293539026",
    "end": 1786643222,
@@ -425,13 +418,6 @@
    "end": 1786685041,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "9TQESM": {
-   "msg": "1537331920025944064",
-   "end": 1786641481,
-   "title": "Untitled raffle",
-   "items": 150,
    "ended": true
   },
   "S5BN2B": {
@@ -5626,14 +5612,14 @@
    "end": 1787245442,
    "title": "Jesus Christ can save you",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "NH7PDF": {
    "msg": "1539685136608661565",
    "end": 1787245321,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "YWAD8R": {
    "msg": "1539685142631546910",
@@ -5647,14 +5633,14 @@
    "end": 1787246642,
    "title": "I drew Ts 22",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VDL32T": {
    "msg": "1539688090677809253",
    "end": 1787246581,
    "title": "Milk duel",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "502QK7": {
    "msg": "1539692354586411059",
@@ -5668,7 +5654,7 @@
    "end": 1787246941,
    "title": "Daily raffle #350",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JXUXRS": {
    "msg": "1539700634608082964",
@@ -6318,6 +6304,27 @@
    "msg": "1540042959033213080",
    "end": 1787329561,
    "title": "CAREFUL BROTHER!! \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "ZV7P50": {
+   "msg": "1540050473325695090",
+   "end": 1787332561,
+   "title": "The pass it forward raffle! (#15)",
+   "items": 3,
+   "ended": false
+  },
+  "MOF1PT": {
+   "msg": "1540050484486742067",
+   "end": 1787331600,
+   "title": "Daily raffle until TF2 gets a major update #597",
+   "items": 3,
+   "ended": false
+  },
+  "MU6BVS": {
+   "msg": "1540050496298156115",
+   "end": 1787331541,
+   "title": "I think I know who grabli304 is",
    "items": 1,
    "ended": false
   }
