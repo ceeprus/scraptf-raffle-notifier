@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "V3377W": {
-   "msg": "1537030637981007966",
-   "end": 1786612681,
-   "title": "It's been years, so it's time for life updates. (OMG COMING OUT????)",
-   "items": 13,
-   "ended": true
-  },
-  "X6R6LT": {
-   "msg": "1537030673989369947",
-   "end": 1786612141,
-   "title": "\ud83e\uddc2 Salty raffle #saveglorp",
-   "items": 1,
-   "ended": true
-  },
-  "EV0UT8": {
-   "msg": "1537030681077751898",
-   "end": 1786611842,
-   "title": "#SlugmaSweep",
-   "items": 1,
-   "ended": true
-  },
-  "FA6DKY": {
-   "msg": "1537032084126695436",
-   "end": 1786612982,
-   "title": "\ud83c\udf0a  takeover",
-   "items": 1,
-   "ended": true
-  },
   "S4KCFX": {
    "msg": "1537045711718453342",
    "end": 1786615200,
@@ -530,13 +502,6 @@
    "end": 1786653782,
    "title": "Daily Brass Beast #536",
    "items": 1,
-   "ended": true
-  },
-  "5NF42D": {
-   "msg": "1537211803191484576",
-   "end": 1786612201,
-   "title": "won my first raffllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
-   "items": 2,
    "ended": true
   },
   "INJPOT": {
@@ -5626,14 +5591,14 @@
    "end": 1787217361,
    "title": "Jesus Christ loves you",
    "items": 22,
-   "ended": false
+   "ended": true
   },
   "FNR5K0": {
    "msg": "1539565681610199040",
    "end": 1787217001,
    "title": "SRY for not much i hope to do more l8ter",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T5NDWX": {
    "msg": "1539565688337727518",
@@ -5647,14 +5612,14 @@
    "end": 1787217722,
    "title": "i got my slugma.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2Q5G63": {
    "msg": "1539567286887915561",
    "end": 1787217482,
    "title": "You're crazy.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "7EYA3Q": {
    "msg": "1539574855895093282",
@@ -6353,6 +6318,41 @@
    "msg": "1539907059837833247",
    "end": 1787253846,
    "title": "[Fallen Tributes/Night 17] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "O8U6KT": {
+   "msg": "1539929660253544448",
+   "end": 1787260441,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8M7CP3": {
+   "msg": "1539929666469625886",
+   "end": 1787260321,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "502M16": {
+   "msg": "1539929673365200996",
+   "end": 1787260141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SY9W4K": {
+   "msg": "1539929679052669029",
+   "end": 1787259961,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UKI12R": {
+   "msg": "1539929685197193226",
+   "end": 1787259842,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
