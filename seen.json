@@ -5619,7 +5619,7 @@
    "end": 1787253781,
    "title": "COOKING",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XBH2P6": {
    "msg": "1539725868874600528",
@@ -5899,14 +5899,14 @@
    "end": 1787253961,
    "title": "I have a new hyperfixation",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "RYO7C5": {
    "msg": "1539907059837833247",
    "end": 1787253846,
    "title": "[Fallen Tributes/Night 17] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O8U6KT": {
    "msg": "1539929660253544448",
@@ -6270,6 +6270,13 @@
    "end": 1787338861,
    "title": "Bau! Bau!",
    "items": 18,
+   "ended": false
+  },
+  "WMWNEC": {
+   "msg": "1540080673522454620",
+   "end": 1787339581,
+   "title": "Some",
+   "items": 243,
    "ended": false
   }
  },
