@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "VH4DN5": {
-   "msg": "1537083473628766249",
-   "end": 1786625341,
-   "title": "MAZEKEST",
-   "items": 1,
-   "ended": true
-  },
-  "E9YYYG": {
-   "msg": "1537083486572249219",
-   "end": 1786625161,
-   "title": "Rating Music Recommendations part 1",
-   "items": 1,
-   "ended": true
-  },
   "38LRF3": {
    "msg": "1537091022088310796",
    "end": 1786627261,
@@ -124,20 +110,6 @@
    "end": 1786627082,
    "title": "\ud83c\udf0a Drown the Slugs, Fake Your Death + Make Some Noise!",
    "items": 2,
-   "ended": true
-  },
-  "2GZA66": {
-   "msg": "1537091047958642728",
-   "end": 1786626000,
-   "title": "Meet the Paranoid Schizophrenic Demoman",
-   "items": 1,
-   "ended": true
-  },
-  "U3A38O": {
-   "msg": "1537091062231859291",
-   "end": 1786625882,
-   "title": "123",
-   "items": 6,
    "ended": true
   },
   "4TDMA2": {
@@ -5647,7 +5619,7 @@
    "end": 1787230800,
    "title": "Why does Monaco Exist?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KGZGZX": {
    "msg": "1539627677936263288",
@@ -6368,6 +6340,13 @@
    "end": 1787313722,
    "title": "Hello",
    "items": 7,
+   "ended": false
+  },
+  "JAIGP8": {
+   "msg": "1539982551354052681",
+   "end": 1787315761,
+   "title": "Daily Brass Beast #544",
+   "items": 1,
    "ended": false
   }
  },
