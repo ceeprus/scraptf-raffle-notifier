@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OCI1A6": {
-   "msg": "1537162302774575197",
-   "end": 1786644422,
-   "title": "\ud83c\udf0a",
-   "items": 3,
-   "ended": true
-  },
-  "KEE1P9": {
-   "msg": "1537166505861713920",
-   "end": 1786645261,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "OCIVVJ": {
-   "msg": "1537166512161431565",
-   "end": 1786645081,
-   "title": "rrrrr",
-   "items": 1,
-   "ended": true
-  },
   "LH2CTC": {
    "msg": "1537181607167922226",
    "end": 1786647902,
@@ -921,13 +900,6 @@
    "msg": "1537497156741505045",
    "end": 1786723801,
    "title": "\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "RF03YG": {
-   "msg": "1537497163100323961",
-   "end": 1786644241,
-   "title": "raffles",
    "items": 1,
    "ended": true
   },
@@ -5640,7 +5612,7 @@
    "end": 1787250302,
    "title": "Needles are ouchie",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PNSH6G": {
    "msg": "1539710639830868008",
@@ -6305,6 +6277,13 @@
    "end": 1787333821,
    "title": "So many Uma Musume fans",
    "items": 6,
+   "ended": false
+  },
+  "2YJXTC": {
+   "msg": "1540064190415380501",
+   "end": 1787335202,
+   "title": "Daily raffle #351",
+   "items": 1,
    "ended": false
   }
  },
