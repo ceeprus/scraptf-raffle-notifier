@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "S4KCFX": {
-   "msg": "1537045711718453342",
-   "end": 1786615200,
-   "title": "Gifted Loose Cannon #2",
-   "items": 1,
-   "ended": true
-  },
   "LXOHLL": {
    "msg": "1537051178960027689",
    "end": 1786616701,
@@ -5626,7 +5619,7 @@
    "end": 1787220000,
    "title": "Gifted Sun-on-a-stick",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OF8QM1": {
    "msg": "1539587902395261068",
