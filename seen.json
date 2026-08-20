@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KM1UEH": {
-   "msg": "1537128779380432966",
-   "end": 1786636081,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
-  "MD9G8B": {
-   "msg": "1537128785978200257",
-   "end": 1786635481,
-   "title": "used sip splash on ! it was super effective!  \ud83c\udf0a",
-   "items": 2,
-   "ended": true
-  },
   "P6EWWZ": {
    "msg": "1537134875000438815",
    "end": 1786637761,
@@ -5612,14 +5598,14 @@
    "end": 1787241121,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1510 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 19,
-   "ended": false
+   "ended": true
   },
   "4GSHJL": {
    "msg": "1539665497090556037",
    "end": 1787240761,
    "title": "Starchion`s Art #21 [CHROMAKOPIA+] + Special edition",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9DXH0U": {
    "msg": "1539665503881269270",
@@ -5633,7 +5619,7 @@
    "end": 1787240101,
    "title": "IT\u2019S BUGS, BRO",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XWVYOS": {
    "msg": "1539670389037338667",
@@ -6312,6 +6298,20 @@
    "end": 1787324641,
    "title": "Day 1348 of asking for megaraffle",
    "items": 5,
+   "ended": false
+  },
+  "TN6DSZ": {
+   "msg": "1540026725533224961",
+   "end": 1787327222,
+   "title": "I accidentally overpayed a bid on an auction :( too",
+   "items": 1,
+   "ended": false
+  },
+  "1I5PM2": {
+   "msg": "1540026732713615470",
+   "end": 1787326682,
+   "title": "its my Birthday :D and first raffle\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+   "items": 1,
    "ended": false
   }
  },
