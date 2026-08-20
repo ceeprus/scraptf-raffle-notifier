@@ -476,20 +476,6 @@
    "items": 10,
    "ended": true
   },
-  "7G5XXK": {
-   "msg": "1537408126637187203",
-   "end": 1786658941,
-   "title": "\ud83c\udf0a\ud83d\udc1f",
-   "items": 2,
-   "ended": true
-  },
-  "SCECCZ": {
-   "msg": "1537408134522474577",
-   "end": 1786658761,
-   "title": "I got scammed. 50 keys loss",
-   "items": 26,
-   "ended": true
-  },
   "OR0DI1": {
    "msg": "1537408140503425107",
    "end": 1786701600,
@@ -5577,7 +5563,7 @@
    "end": 1787263741,
    "title": "Tour 304 Another Aussie",
    "items": 19,
-   "ended": false
+   "ended": true
   },
   "QKP5JX": {
    "msg": "1539759674319044708",
@@ -5591,7 +5577,7 @@
    "end": 1787263921,
    "title": "mlp related steam games/badges",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "67HIUM": {
    "msg": "1539767923650863215",
