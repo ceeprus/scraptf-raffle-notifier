@@ -6243,6 +6243,13 @@
    "title": "A  a day",
    "items": 1,
    "ended": false
+  },
+  "GFCIJP": {
+   "msg": "1540145317608165428",
+   "end": 1787272501,
+   "title": "Humorous Raffle Name",
+   "items": 7,
+   "ended": false
   }
  },
  "megaraffle": {
