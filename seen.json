@@ -119,13 +119,6 @@
    "items": 3,
    "ended": true
   },
-  "MCSB91": {
-   "msg": "1537098631289639042",
-   "end": 1786627800,
-   "title": "I",
-   "items": 7,
-   "ended": true
-  },
   "QFLJQ9": {
    "msg": "1537102124150947870",
    "end": 1786629961,
@@ -5612,7 +5605,7 @@
    "end": 1787232481,
    "title": "there is a group of people i hate on this site",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UU8L22": {
    "msg": "1539627687939801088",
