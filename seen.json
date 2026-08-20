@@ -105,13 +105,6 @@
    "items": 2,
    "ended": true
   },
-  "PE0Z4H": {
-   "msg": "1537189200506523718",
-   "end": 1786650481,
-   "title": "i think life is inherently awesome and depressing",
-   "items": 9,
-   "ended": true
-  },
   "AF286Q": {
    "msg": "1537196706829959320",
    "end": 1786652821,
@@ -5605,14 +5598,14 @@
    "end": 1787254862,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "NRSCEC": {
    "msg": "1539722412067782737",
    "end": 1787254262,
    "title": "I'm maybe getting my indifference hat...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0YJX4F": {
    "msg": "1539722418577477793",
@@ -5626,7 +5619,7 @@
    "end": 1787255341,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "AZAV81": {
    "msg": "1539729955515138149",
@@ -6081,7 +6074,7 @@
    "end": 1787254682,
    "title": "TAKE MY STUFF",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "BAJ3KH": {
    "msg": "1539997710340587560",
@@ -6277,6 +6270,34 @@
    "end": 1787339581,
    "title": "Some",
    "items": 243,
+   "ended": false
+  },
+  "RAG2LG": {
+   "msg": "1540086312764317756",
+   "end": 1787341621,
+   "title": "Kiestu crafting all the weapons #2",
+   "items": 1,
+   "ended": false
+  },
+  "M4RS3I": {
+   "msg": "1540086320213532713",
+   "end": 1787341202,
+   "title": "First raffle",
+   "items": 3,
+   "ended": false
+  },
+  "67FQXW": {
+   "msg": "1540086326953513100",
+   "end": 1787297701,
+   "title": "I have no idea what to write (Raffle #3)",
+   "items": 2,
+   "ended": false
+  },
+  "4SEJ2B": {
+   "msg": "1540086333488234591",
+   "end": 1787340721,
+   "title": "CS2 Experience",
+   "items": 2,
    "ended": false
   }
  },
