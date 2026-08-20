@@ -98,32 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "8O8OZ5": {
-   "msg": "1537189184027238511",
-   "end": 1786650841,
-   "title": "\ud83c\udf0a Armed and Ready to Flush the Slop!",
-   "items": 2,
-   "ended": true
-  },
   "AF286Q": {
    "msg": "1537196706829959320",
    "end": 1786652821,
    "title": "Your weekly non-official Scrap.tf news. [Week 232]",
    "items": 4,
-   "ended": true
-  },
-  "METAPT": {
-   "msg": "1537196714338033695",
-   "end": 1786651200,
-   "title": "We need more Engineer Mains! #002",
-   "items": 7,
-   "ended": true
-  },
-  "80I4XQ": {
-   "msg": "1537196724509216978",
-   "end": 1786651200,
-   "title": "Equestria Forever",
-   "items": 53,
    "ended": true
   },
   "FZ2C23": {
@@ -5626,14 +5605,14 @@
    "end": 1787256000,
    "title": "We need more Engineer Mains! | #009",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "UE6DBO": {
    "msg": "1539729965267034152",
    "end": 1787255762,
    "title": "I just got my dream taunt and jungle pass",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ACIDQJ": {
    "msg": "1539733362842013787",
