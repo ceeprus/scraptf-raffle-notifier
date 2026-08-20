@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LU2YM0": {
-   "msg": "1537053285318524980",
-   "end": 1786618322,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "IJ1PTV": {
    "msg": "1537060816786952202",
    "end": 1786619882,
@@ -5619,7 +5612,7 @@
    "end": 1787222702,
    "title": "I GOT MY DREAM HAT (REAL)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UJW5YR": {
    "msg": "1539587911131996180",
@@ -5661,14 +5654,14 @@
    "end": 1787223270,
    "title": "10 Year Scrapversary (also first raffle)",
    "items": 290,
-   "ended": false
+   "ended": true
   },
   "5IY7SA": {
    "msg": "1539594023088562229",
    "end": 1787223241,
    "title": "Raffle number 17!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "05UIQA": {
    "msg": "1539597484626542603",
@@ -6367,6 +6360,13 @@
    "msg": "1539944165930963064",
    "end": 1787306400,
    "title": "Gifted Blutsauger #2",
+   "items": 1,
+   "ended": false
+  },
+  "2E21U0": {
+   "msg": "1539951403739389992",
+   "end": 1787308081,
+   "title": "Some facts about me",
    "items": 1,
    "ended": false
   }
