@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FZ2C23": {
-   "msg": "1537204279818063875",
-   "end": 1786653782,
-   "title": "Daily Brass Beast #536",
-   "items": 1,
-   "ended": true
-  },
   "INJPOT": {
    "msg": "1537211810393096192",
    "end": 1786655161,
@@ -5612,7 +5605,7 @@
    "end": 1787258521,
    "title": "Daily Brass Beast #543",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VWILJ0": {
    "msg": "1539740968201232404",
@@ -5626,7 +5619,7 @@
    "end": 1787259122,
    "title": "Hii :3  HAPPY 10TH RAFFLE",
    "items": 49,
-   "ended": false
+   "ended": true
   },
   "U0POC3": {
    "msg": "1539745073384656961",
