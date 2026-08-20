@@ -420,13 +420,6 @@
    "items": 5,
    "ended": true
   },
-  "HNTZBJ": {
-   "msg": "1537075909612544052",
-   "end": 1786579622,
-   "title": "The war is still not over (still tipping for \ud83c\udf0a in your raffle title)",
-   "items": 1,
-   "ended": true
-  },
   "VHK8X9": {
    "msg": "1537075916566429796",
    "end": 1786622641,
@@ -5675,7 +5668,7 @@
    "end": 1787184961,
    "title": "TAKE MY STUFF",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "0WFODO": {
    "msg": "1539431386941751386",
@@ -5689,14 +5682,14 @@
    "end": 1787184301,
    "title": "its a rainy day where i am",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5IPFMI": {
    "msg": "1539431399617073162",
    "end": 1787184062,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "IPHXFF": {
    "msg": "1539431408852795392",
@@ -5710,7 +5703,7 @@
    "end": 1787185802,
    "title": "Pok\u00e9Journey #2 - Let's Go Shiny Hunting and super lucky encounter",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "SYO95M": {
    "msg": "1539446475828887552",
@@ -6500,6 +6493,13 @@
    "msg": "1539786276029599865",
    "end": 1787269802,
    "title": "MvM Update Australium Vote Part 7: Pyro Primaries",
+   "items": 3,
+   "ended": false
+  },
+  "FG177U": {
+   "msg": "1539793758772527125",
+   "end": 1787270761,
+   "title": "MvM Update Australium Vote Part 8: Pyro Secondaries",
    "items": 3,
    "ended": false
   }
