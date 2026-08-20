@@ -5577,21 +5577,21 @@
    "end": 1787265722,
    "title": "\ud83c\udfb5\ud83c\udfb6\ud83c\udfb5\ud83c\udfb6\ud83c\udfb5\ud83c\udf99\ufe0f\ud83d\ude0e\ud83c\udfb6\ud83c\udfb5\ud83c\udfb6\ud83c\udfb5\ud83c\udfb6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O5EE4L": {
    "msg": "1539767930126991422",
    "end": 1787265542,
    "title": "Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bBlog Spamton #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3PPHMJ": {
    "msg": "1539767936871440434",
    "end": 1787265361,
    "title": "Random  encounter",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HLPNHV": {
    "msg": "1539774685829664848",
@@ -6242,6 +6242,20 @@
    "end": 1787348402,
    "title": "Auto raffle Button",
    "items": 10,
+   "ended": false
+  },
+  "RBNS8W": {
+   "msg": "1540131329692143688",
+   "end": 1787352001,
+   "title": "5000+ Casual Games",
+   "items": 33,
+   "ended": false
+  },
+  "DJQEL1": {
+   "msg": "1540131336738570295",
+   "end": 1787351461,
+   "title": "Honesty",
+   "items": 1,
    "ended": false
   }
  },
