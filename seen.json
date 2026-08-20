@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "QCW5PE": {
-   "msg": "1536932500201283585",
-   "end": 1786589042,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
   "BNKLJV": {
    "msg": "1536940012204064819",
    "end": 1786590721,
@@ -5682,7 +5675,7 @@
    "end": 1787193661,
    "title": "Hale's Own Trials: Persian Persuader: Day 8",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YFUXC9": {
    "msg": "1539476682967089244",
@@ -6053,7 +6046,7 @@
    "end": 1787193722,
    "title": "i got antlers lvl 69 im im im im im im dream hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P3RZHF": {
    "msg": "1539650126287605912",
@@ -6102,7 +6095,7 @@
    "end": 1787194800,
    "title": "Tune of the day #313",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LVU3NG": {
    "msg": "1539657945741267135",
