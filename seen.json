@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "PMUEXL": {
-   "msg": "1536904562944909423",
-   "end": 1786583042,
-   "title": "Remember",
-   "items": 1,
-   "ended": true
-  },
   "SIF04G": {
    "msg": "1536924908335013949",
    "end": 1786587661,
@@ -455,13 +448,6 @@
    "items": 2,
    "ended": true
   },
-  "NZREGQ": {
-   "msg": "1537091042170380378",
-   "end": 1786582862,
-   "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
   "2GZA66": {
    "msg": "1537091047958642728",
    "end": 1786626000,
@@ -502,13 +488,6 @@
    "end": 1786627800,
    "title": "I",
    "items": 7,
-   "ended": true
-  },
-  "6OH4TZ": {
-   "msg": "1537098638038274120",
-   "end": 1786584600,
-   "title": "[Fallen Tributes/Night 7] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "QFLJQ9": {
@@ -5689,14 +5668,14 @@
    "end": 1787189222,
    "title": "I am bad with titles #144",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6ZMKUH": {
    "msg": "1539446483970166794",
    "end": 1787188200,
    "title": "Mixed Feelings",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B50P8J": {
    "msg": "1539457206905339916",
@@ -6508,6 +6487,20 @@
    "end": 1787272921,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #87 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "YQBNH3": {
+   "msg": "1539808862461239356",
+   "end": 1787274422,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #88 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "J5SE9U": {
+   "msg": "1539808870359113738",
+   "end": 1787274242,
+   "title": "Earlier this week i got a Strange brand loyalist from a gift randomly.",
+   "items": 4,
    "ended": false
   }
  },
