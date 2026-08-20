@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "HT9NE4": {
-   "msg": "1536968688408862721",
-   "end": 1786597861,
-   "title": "We definitely need more medic main! \u211654",
-   "items": 6,
-   "ended": true
-  },
-  "P1936W": {
-   "msg": "1536968695857807440",
-   "end": 1786597381,
-   "title": "Day 5 of asking for Slugma Chain emoticon",
-   "items": 3,
-   "ended": true
-  },
-  "PWS8J7": {
-   "msg": "1536970216473370684",
-   "end": 1786598281,
-   "title": "M (part two)",
-   "items": 1,
-   "ended": true
-  },
   "GT9A6K": {
    "msg": "1536977808881094666",
    "end": 1786600562,
@@ -754,13 +733,6 @@
    "end": 1786620602,
    "title": "\ud83e\uddc2\ud83c\udf0a A war without reason \ud83c\udf0a \ud83e\uddc2",
    "items": 1,
-   "ended": true
-  },
-  "VV2BE2": {
-   "msg": "1537249635582607401",
-   "end": 1786599002,
-   "title": "Some stuff + want to hear thoughts on this unusual combo",
-   "items": 5,
    "ended": true
   },
   "DHV1QR": {
@@ -5626,21 +5598,21 @@
    "end": 1787203022,
    "title": "Day 70 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W3EWFT": {
    "msg": "1539507810445041705",
    "end": 1787203621,
    "title": "Slugma b...... 12",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EKY8CA": {
    "msg": "1539507817029967882",
    "end": 1787203381,
    "title": "Day 65 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CZLAWP": {
    "msg": "1539514446735482920",
@@ -6480,6 +6452,13 @@
    "end": 1787286901,
    "title": "Hey brother \ud83d\ude2d\ud83d\ude4f",
    "items": 3,
+   "ended": false
+  },
+  "GSLCHX": {
+   "msg": "1539869268332650587",
+   "end": 1787289661,
+   "title": "Birthday raffle",
+   "items": 12,
    "ended": false
   }
  },
