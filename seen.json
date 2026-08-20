@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "9Y3JXD": {
-   "msg": "1537045720874618910",
-   "end": 1786615021,
-   "title": "seve. mspiwnakes",
-   "items": 8,
-   "ended": true
-  },
   "LXOHLL": {
    "msg": "1537051178960027689",
    "end": 1786616701,
@@ -5626,7 +5619,7 @@
    "end": 1787219821,
    "title": "i got my dream cat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6VDV75": {
    "msg": "1539580233437683715",
@@ -6116,7 +6109,7 @@
    "end": 1787219641,
    "title": "Meh. Just why not?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "OJH0J7": {
    "msg": "1539763572786073701",
@@ -6353,6 +6346,27 @@
    "msg": "1539929685197193226",
    "end": 1787259842,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SLHSN8": {
+   "msg": "1539936517365960795",
+   "end": 1787305501,
+   "title": "more MORE POMSONS",
+   "items": 49,
+   "ended": false
+  },
+  "PFEJLL": {
+   "msg": "1539936525817487431",
+   "end": 1787304961,
+   "title": "Hello! Have a great day!",
+   "items": 3,
+   "ended": false
+  },
+  "CJOBFV": {
+   "msg": "1539936535900856400",
+   "end": 1787304541,
+   "title": "Mr. Bubbly story",
    "items": 1,
    "ended": false
   }
