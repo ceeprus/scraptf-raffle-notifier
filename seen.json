@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "BNKLJV": {
-   "msg": "1536940012204064819",
-   "end": 1786590721,
-   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #70   \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "RBBL9I": {
-   "msg": "1536940027802689557",
-   "end": 1786590421,
-   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #69   \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "KJDOGF": {
    "msg": "1536947631446818907",
    "end": 1786593181,
@@ -5682,7 +5668,7 @@
    "end": 1787196061,
    "title": "Source of Sadness",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "L8PO07": {
    "msg": "1539484263840219263",
@@ -6508,6 +6494,20 @@
    "end": 1787278322,
    "title": "Downsizing Duplicates",
    "items": 10,
+   "ended": false
+  },
+  "E39I57": {
+   "msg": "1539837053381120020",
+   "end": 1787239261,
+   "title": "Raffling Scrap Till I'm Out #1008-9 (Make up raffle)",
+   "items": 2,
+   "ended": false
+  },
+  "EVRRT0": {
+   "msg": "1539837059999600760",
+   "end": 1787282349,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
