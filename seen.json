@@ -462,25 +462,11 @@
    "items": 15,
    "ended": true
   },
-  "2A255M": {
-   "msg": "1537400618317123725",
-   "end": 1786657021,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "XOIMH9": {
    "msg": "1537400627158585395",
    "end": 1786700161,
    "title": "I AM BACK",
    "items": 40,
-   "ended": true
-  },
-  "BAH76Y": {
-   "msg": "1537400634268057631",
-   "end": 1786656781,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "8V16U4": {
@@ -6270,6 +6256,20 @@
    "end": 1787303701,
    "title": "hi helol? hihi hello?helle?helo?he",
    "items": 19,
+   "ended": false
+  },
+  "TGZYLJ": {
+   "msg": "1540115926815604827",
+   "end": 1787305261,
+   "title": "raffly raffle",
+   "items": 3,
+   "ended": false
+  },
+  "7VUXET": {
+   "msg": "1540115936021979246",
+   "end": 1787348402,
+   "title": "Auto raffle Button",
+   "items": 10,
    "ended": false
   }
  },
