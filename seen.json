@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "RW2EXL": {
-   "msg": "1536887218675777587",
-   "end": 1786578602,
-   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #68   \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "PMUEXL": {
    "msg": "1536904562944909423",
    "end": 1786583042,
@@ -5710,7 +5703,7 @@
    "end": 1787184002,
    "title": "Caf\u00e9 Crit-A-Coffee #1761",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "XB0P5V": {
    "msg": "1539434493700734987",
@@ -6502,12 +6495,19 @@
    "title": "A  a day",
    "items": 1,
    "ended": false
+  },
+  "84VNTP": {
+   "msg": "1539786276029599865",
+   "end": 1787269802,
+   "title": "MvM Update Australium Vote Part 7: Pyro Primaries",
+   "items": 3,
+   "ended": false
   }
  },
  "megaraffle": {
-  "num": 1166,
-  "end": 1787184000,
-  "msg": "1538699101040935033",
+  "num": 1167,
+  "end": 1787443200,
+  "msg": "1539786298796285953",
   "ended": false
  }
 }
