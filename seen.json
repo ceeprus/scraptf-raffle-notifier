@@ -105,20 +105,6 @@
    "items": 8,
    "ended": true
   },
-  "GUG4HQ": {
-   "msg": "1536977816258744431",
-   "end": 1786600202,
-   "title": "Power Scale #7 Scrap.tf",
-   "items": 4,
-   "ended": true
-  },
-  "0ULM8K": {
-   "msg": "1536977823359832154",
-   "end": 1786600141,
-   "title": "We (Yes, WE) need a Slugma chain emote NOW! P.5",
-   "items": 8,
-   "ended": true
-  },
   "HVQJZM": {
    "msg": "1536990432804872302",
    "end": 1786602721,
@@ -845,13 +831,6 @@
    "end": 1786676821,
    "title": "Here have a tung tung tung",
    "items": 1,
-   "ended": true
-  },
-  "GAT852": {
-   "msg": "1537309986483601509",
-   "end": 1786600201,
-   "title": "My first raffle",
-   "items": 4,
    "ended": true
   },
   "DVEP4J": {
@@ -5619,14 +5598,14 @@
    "end": 1787205002,
    "title": "9th Scrappy.",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "4MF1HD": {
    "msg": "1539514453811404832",
    "end": 1787204641,
    "title": "Slugma art",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "ZKYAWP": {
    "msg": "1539521348483678208",
