@@ -98,24 +98,10 @@
    "items": 50,
    "ended": false
   },
-  "2VJ3I2": {
-   "msg": "1537068386683584533",
-   "end": 1786621922,
-   "title": "(still! (yes, still!)) Tipping all  raffles!",
-   "items": 5,
-   "ended": true
-  },
   "VHK8X9": {
    "msg": "1537075916566429796",
    "end": 1786622641,
    "title": "Go play Middle Earth: Shadow of War you filthy casual",
-   "items": 1,
-   "ended": true
-  },
-  "2RXNIN": {
-   "msg": "1537075923319394316",
-   "end": 1786622400,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": true
   },
@@ -5640,7 +5626,7 @@
    "end": 1787227200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J6LVE1": {
    "msg": "1539620187916206081",
@@ -6368,6 +6354,13 @@
    "end": 1787247061,
    "title": "I accidentally overpayed a bid on an auction :(",
    "items": 3,
+   "ended": false
+  },
+  "NFEL0Z": {
+   "msg": "1539967460113911879",
+   "end": 1787313600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
