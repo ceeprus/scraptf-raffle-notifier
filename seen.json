@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KYNI5O": {
-   "msg": "1537062970507665408",
-   "end": 1786620242,
-   "title": "Slugma Chain raffle #5",
-   "items": 1,
-   "ended": true
-  },
   "2VJ3I2": {
    "msg": "1537068386683584533",
    "end": 1786621922,
@@ -515,13 +508,6 @@
    "msg": "1537249618172317797",
    "end": 1786664882,
    "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "9ONVM8": {
-   "msg": "1537249626112008265",
-   "end": 1786620602,
-   "title": "\ud83e\uddc2\ud83c\udf0a A war without reason \ud83c\udf0a \ud83e\uddc2",
    "items": 1,
    "ended": true
   },
@@ -5647,7 +5633,7 @@
    "end": 1787225341,
    "title": "i am so sad i am so very very sad",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "PYCSAR": {
    "msg": "1539611581300867092",
