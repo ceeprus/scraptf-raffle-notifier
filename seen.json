@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "I8769F": {
-   "msg": "1536962705955622933",
-   "end": 1786596001,
-   "title": "Fish raffle",
-   "items": 1,
-   "ended": true
-  },
   "HT9NE4": {
    "msg": "1536968688408862721",
    "end": 1786597861,
@@ -6466,6 +6459,27 @@
    "end": 1787286301,
    "title": "We definitely need more medic main! \u211655",
    "items": 6,
+   "ended": false
+  },
+  "JMLHEN": {
+   "msg": "1539861755533201478",
+   "end": 1787287800,
+   "title": "Don't get stuck in a lollichop, especially a time traveling one",
+   "items": 1,
+   "ended": false
+  },
+  "3BIT03": {
+   "msg": "1539861762172780554",
+   "end": 1787287561,
+   "title": "Hi everyone, I'm back with a new lottery.",
+   "items": 3,
+   "ended": false
+  },
+  "JY0TQJ": {
+   "msg": "1539861774440992859",
+   "end": 1787286901,
+   "title": "Hey brother \ud83d\ude2d\ud83d\ude4f",
+   "items": 3,
    "ended": false
   }
  },
