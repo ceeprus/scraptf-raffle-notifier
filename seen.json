@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "38LRF3": {
-   "msg": "1537091022088310796",
-   "end": 1786627261,
-   "title": "my first raffle",
-   "items": 3,
-   "ended": true
-  },
-  "K3CC1F": {
-   "msg": "1537091029218496552",
-   "end": 1786627082,
-   "title": "\ud83c\udf0a Drown the Slugs, Fake Your Death + Make Some Noise!",
-   "items": 2,
-   "ended": true
-  },
   "4TDMA2": {
    "msg": "1537098597143945216",
    "end": 1786629361,
@@ -5633,7 +5619,7 @@
    "end": 1787232421,
    "title": "First Raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "R2RHT5": {
    "msg": "1539642785274138645",
@@ -6346,6 +6332,13 @@
    "msg": "1539982551354052681",
    "end": 1787315761,
    "title": "Daily Brass Beast #544",
+   "items": 1,
+   "ended": false
+  },
+  "9N3YAL": {
+   "msg": "1539989193088966776",
+   "end": 1787317200,
+   "title": "Vulpix is a Fire Type",
    "items": 1,
    "ended": false
   }
