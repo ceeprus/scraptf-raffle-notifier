@@ -112,20 +112,6 @@
    "items": 1,
    "ended": true
   },
-  "BT6RLU": {
-   "msg": "1537181622007369838",
-   "end": 1786647600,
-   "title": "slugma chain raffle #5",
-   "items": 3,
-   "ended": true
-  },
-  "D0S7X7": {
-   "msg": "1537181630475534436",
-   "end": 1786647482,
-   "title": "Special Delivery!",
-   "items": 20,
-   "ended": true
-  },
   "8O8OZ5": {
    "msg": "1537189184027238511",
    "end": 1786650841,
@@ -5619,7 +5605,7 @@
    "end": 1787251202,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PCW8JT": {
    "msg": "1539718269475487755",
@@ -6283,6 +6269,13 @@
    "msg": "1540064190415380501",
    "end": 1787335202,
    "title": "Daily raffle #351",
+   "items": 1,
+   "ended": false
+  },
+  "BSH8AE": {
+   "msg": "1540073155677130794",
+   "end": 1787338261,
+   "title": "Best half life npc winner:",
    "items": 1,
    "ended": false
   }
