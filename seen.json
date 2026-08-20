@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "EKQ37U": {
-   "msg": "1537211817061908541",
-   "end": 1786654800,
-   "title": "checkup #88 | OneShot",
-   "items": 1,
-   "ended": true
-  },
-  "WAL3LV": {
-   "msg": "1537211830676492458",
-   "end": 1786654501,
-   "title": "Quick reminder:",
-   "items": 1,
-   "ended": true
-  },
   "XOIXW0": {
    "msg": "1537226898277408979",
    "end": 1786658221,
@@ -5612,7 +5598,7 @@
    "end": 1787259241,
    "title": "I have a friend: Persona raffle (sort of)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S39AG5": {
    "msg": "1539740980264304734",
@@ -5626,7 +5612,7 @@
    "end": 1787259600,
    "title": "checkup #95 | Dream hat",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "E09XSF": {
    "msg": "1539748479281274971",
@@ -6067,7 +6053,7 @@
    "end": 1787259361,
    "title": "broken",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "8903US": {
    "msg": "1540012769976262716",
