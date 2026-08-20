@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "SIF04G": {
-   "msg": "1536924908335013949",
-   "end": 1786587661,
-   "title": "second raffle!",
-   "items": 2,
-   "ended": true
-  },
   "QCW5PE": {
    "msg": "1536932500201283585",
    "end": 1786589042,
@@ -6507,6 +6500,20 @@
    "msg": "1539819100262371460",
    "end": 1787277722,
    "title": "Caf\u00e9 Crit-A-Coffee #1762",
+   "items": 10,
+   "ended": false
+  },
+  "I0FR0X": {
+   "msg": "1539823962119479462",
+   "end": 1787236200,
+   "title": "Tune of the day #314",
+   "items": 1,
+   "ended": false
+  },
+  "DC2HNY": {
+   "msg": "1539823971707392070",
+   "end": 1787278322,
+   "title": "Downsizing Duplicates",
    "items": 10,
    "ended": false
   }
