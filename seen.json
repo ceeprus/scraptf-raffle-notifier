@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "E1MZRL": {
-   "msg": "1537143903885721731",
-   "end": 1786640400,
-   "title": "Daily raffle until TF2 gets a major update #589",
-   "items": 3,
-   "ended": true
-  },
-  "AQN6PE": {
-   "msg": "1537143910999003197",
-   "end": 1786640400,
-   "title": "Story Time",
-   "items": 3,
-   "ended": true
-  },
-  "WOOX4M": {
-   "msg": "1537143917026218075",
-   "end": 1786640162,
-   "title": "Raffle Spam Pandemic Of 2026",
-   "items": 1,
-   "ended": true
-  },
   "HOPYQN": {
    "msg": "1537150143214649355",
    "end": 1786640522,
@@ -425,13 +404,6 @@
    "end": 1786680481,
    "title": "we've all been stars one day in the past, which star do you think you were back there?",
    "items": 3,
-   "ended": true
-  },
-  "NOO6JX": {
-   "msg": "1537325086766534696",
-   "end": 1786639142,
-   "title": "Raffling Scrap Till I'm Out #1001-2 (Make up raffle)",
-   "items": 2,
    "ended": true
   },
   "6WS160": {
@@ -5640,7 +5612,7 @@
    "end": 1787244241,
    "title": "Most Joyous Friday To You",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H385O5": {
    "msg": "1539678828555804755",
@@ -5668,7 +5640,7 @@
    "end": 1787245200,
    "title": "Daily raffle until TF2 gets a major update #596",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "WTRVZ3": {
    "msg": "1539688080611606528",
@@ -6325,6 +6297,27 @@
    "msg": "1540034652272590928",
    "end": 1787328301,
    "title": "no.",
+   "items": 1,
+   "ended": false
+  },
+  "V0Y5M8": {
+   "msg": "1540042944214474892",
+   "end": 1787330701,
+   "title": "who is grabli304",
+   "items": 1,
+   "ended": false
+  },
+  "X7OQIX": {
+   "msg": "1540042952439504926",
+   "end": 1787330161,
+   "title": "My FIRST raffle ever!",
+   "items": 1,
+   "ended": false
+  },
+  "DNBIXW": {
+   "msg": "1540042959033213080",
+   "end": 1787329561,
+   "title": "CAREFUL BROTHER!! \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
