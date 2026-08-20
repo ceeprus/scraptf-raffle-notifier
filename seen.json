@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "IJ1PTV": {
-   "msg": "1537060816786952202",
-   "end": 1786619882,
-   "title": "nrgghh",
-   "items": 3,
-   "ended": true
-  },
-  "G2EQ7X": {
-   "msg": "1537060823476731955",
-   "end": 1786619821,
-   "title": "Daily Kit Fabricator #4",
-   "items": 1,
-   "ended": true
-  },
   "KYNI5O": {
    "msg": "1537062970507665408",
    "end": 1786620242,
@@ -5612,14 +5598,14 @@
    "end": 1787224261,
    "title": "Random raffle url until I found one #7",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3L10DH": {
    "msg": "1539593991819894825",
    "end": 1787224021,
    "title": "Grabli304's raffle\u2503Day 171",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LEUGNC": {
    "msg": "1539593998849671188",
@@ -5654,7 +5640,7 @@
    "end": 1787224921,
    "title": "gift of the day #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SW7RYU": {
    "msg": "1539601772136628237",
@@ -6368,6 +6354,20 @@
    "end": 1787309521,
    "title": "I'll try MvM again today",
    "items": 3,
+   "ended": false
+  },
+  "DFKSA9": {
+   "msg": "1539957851043405945",
+   "end": 1787310481,
+   "title": "Turn off my brain button",
+   "items": 1,
+   "ended": false
+  },
+  "W591CG": {
+   "msg": "1539957858102280252",
+   "end": 1787310000,
+   "title": "Now why would the vet do that?",
+   "items": 1,
    "ended": false
   }
  },
