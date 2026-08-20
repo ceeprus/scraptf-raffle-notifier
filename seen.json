@@ -833,13 +833,6 @@
    "items": 1,
    "ended": true
   },
-  "G86KS0": {
-   "msg": "1537497148923576391",
-   "end": 1786651921,
-   "title": "Then arose such a claymore",
-   "items": 1,
-   "ended": true
-  },
   "OVCXAN": {
    "msg": "1537497156741505045",
    "end": 1786723801,
@@ -6277,6 +6270,27 @@
    "end": 1787340721,
    "title": "CS2 Experience",
    "items": 2,
+   "ended": false
+  },
+  "VCCEWN": {
+   "msg": "1540092714270326877",
+   "end": 1787343061,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KBE7T5": {
+   "msg": "1540092723682476142",
+   "end": 1787342400,
+   "title": "We need more Engineer Mains! | #010",
+   "items": 6,
+   "ended": false
+  },
+  "U0Q46K": {
+   "msg": "1540092735665741945",
+   "end": 1787342161,
+   "title": "inv clear",
+   "items": 55,
    "ended": false
   }
  },
