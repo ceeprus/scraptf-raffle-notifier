@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KAFSLX": {
-   "msg": "1537000433380491347",
-   "end": 1786604942,
-   "title": "\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "3DI0NF": {
-   "msg": "1537000440863137872",
-   "end": 1786604701,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "XRIK4C": {
-   "msg": "1537000447834062850",
-   "end": 1786604521,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "RDBV74": {
    "msg": "1537007981621673984",
    "end": 1786607642,
@@ -5619,7 +5598,7 @@
    "end": 1787210461,
    "title": "i got my nightmare hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XFUUG7": {
    "msg": "1539544463654002718",
@@ -6417,6 +6396,13 @@
    "end": 1787289661,
    "title": "Birthday raffle",
    "items": 12,
+   "ended": false
+  },
+  "W3EIN0": {
+   "msg": "1539897648205660241",
+   "end": 1787295600,
+   "title": "[To F2P] Free stuff monthly raffle #8 / Rifa mensual de cosas gratis #8",
+   "items": 20,
    "ended": false
   }
  },
