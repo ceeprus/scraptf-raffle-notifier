@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "4TDMA2": {
-   "msg": "1537098597143945216",
-   "end": 1786629361,
-   "title": "I Drew Ts 16",
-   "items": 1,
-   "ended": true
-  },
-  "ADKPNQ": {
-   "msg": "1537098607860260984",
-   "end": 1786629301,
-   "title": "What's up with \ud83c\udf0a and  and  ?",
-   "items": 1,
-   "ended": true
-  },
-  "SHJ6O1": {
-   "msg": "1537098615502143549",
-   "end": 1786629122,
-   "title": "fun facts feat. slugs.",
-   "items": 3,
-   "ended": true
-  },
   "QFLJQ9": {
    "msg": "1537102124150947870",
    "end": 1786629961,
@@ -474,13 +453,6 @@
    "end": 1786669200,
    "title": "M (part three)",
    "items": 1,
-   "ended": true
-  },
-  "37BYLA": {
-   "msg": "1537279786932637787",
-   "end": 1786629061,
-   "title": "baahhhh baaaahhhhhhhhhhh bleeeeaat",
-   "items": 13,
    "ended": true
   },
   "OATWFL": {
@@ -5619,7 +5591,7 @@
    "end": 1787234400,
    "title": "Untitled raffle",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "2ZN57L": {
    "msg": "1539650113821999154",
@@ -6332,6 +6304,34 @@
    "msg": "1539989193088966776",
    "end": 1787317200,
    "title": "Vulpix is a Fire Type",
+   "items": 1,
+   "ended": false
+  },
+  "029RWG": {
+   "msg": "1539997682259468378",
+   "end": 1787320381,
+   "title": "slobgma",
+   "items": 1,
+   "ended": false
+  },
+  "QG9GA7": {
+   "msg": "1539997691705036902",
+   "end": 1787320021,
+   "title": "lazy slugma raffle",
+   "items": 6,
+   "ended": false
+  },
+  "9XMPTM": {
+   "msg": "1539997701582749877",
+   "end": 1787254682,
+   "title": "TAKE MY STUFF",
+   "items": 4,
+   "ended": false
+  },
+  "BAJ3KH": {
+   "msg": "1539997710340587560",
+   "end": 1787318821,
+   "title": "DON'T TELL HER ANYTHING",
    "items": 1,
    "ended": false
   }
