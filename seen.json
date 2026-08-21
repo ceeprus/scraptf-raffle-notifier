@@ -5297,7 +5297,7 @@
    "end": 1787341202,
    "title": "First raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "67FQXW": {
    "msg": "1540086326953513100",
@@ -5311,7 +5311,7 @@
    "end": 1787340721,
    "title": "CS2 Experience",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "VCCEWN": {
    "msg": "1540092714270326877",
@@ -6031,6 +6031,13 @@
    "msg": "1540443052634546358",
    "end": null,
    "title": "Algo para la people",
+   "items": 2,
+   "ended": false
+  },
+  "XAHZXF": {
+   "msg": "1540446668036771875",
+   "end": 1787426941,
+   "title": "Hii :3 This is my eleventh raffle, wow",
    "items": 2,
    "ended": false
   }
