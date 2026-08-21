@@ -112,13 +112,6 @@
    "items": 10,
    "ended": true
   },
-  "OR0DI1": {
-   "msg": "1537408140503425107",
-   "end": 1786701600,
-   "title": "Gifted Splendid Screen #3",
-   "items": 1,
-   "ended": true
-  },
   "C64SHI": {
    "msg": "1537414029616877609",
    "end": 1786704241,
@@ -5423,7 +5416,7 @@
    "end": 1787306400,
    "title": "Gifted Blutsauger #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2E21U0": {
    "msg": "1539951403739389992",
