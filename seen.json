@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FPU4SO": {
-   "msg": "1537400611358642176",
-   "end": 1786700461,
-   "title": "How to get into trading?",
-   "items": 15,
-   "ended": true
-  },
-  "XOIMH9": {
-   "msg": "1537400627158585395",
-   "end": 1786700161,
-   "title": "I AM BACK",
-   "items": 40,
-   "ended": true
-  },
   "8V16U4": {
    "msg": "1537408111340691516",
    "end": 1786702981,
@@ -5409,14 +5395,14 @@
    "end": 1787305501,
    "title": "more MORE POMSONS",
    "items": 49,
-   "ended": false
+   "ended": true
   },
   "PFEJLL": {
    "msg": "1539936525817487431",
    "end": 1787304961,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "CJOBFV": {
    "msg": "1539936535900856400",
@@ -5836,7 +5822,7 @@
    "end": 1787305261,
    "title": "raffly raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7VUXET": {
    "msg": "1540115936021979246",
@@ -5990,7 +5976,7 @@
    "end": 1787305802,
    "title": "Show me what you got guys",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YPROFA": {
    "msg": "1540209060648059022",
@@ -6179,13 +6165,20 @@
    "end": 1787306281,
    "title": "what a raffly raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "F84QIZ": {
    "msg": "1540286338039943188",
    "end": 1787389021,
    "title": "Hey, so...",
    "items": 2,
+   "ended": false
+  },
+  "KY72P8": {
+   "msg": "1540299021183352854",
+   "end": 1787390761,
+   "title": "Question",
+   "items": 1,
    "ended": false
   }
  },
