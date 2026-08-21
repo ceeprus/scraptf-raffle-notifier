@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9AHL7Z": {
-   "msg": "1537302423490793583",
-   "end": 1786677662,
-   "title": "something small",
-   "items": 2,
-   "ended": true
-  },
-  "TPLWLV": {
-   "msg": "1537302430218453104",
-   "end": 1786677662,
-   "title": "Raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NXHTXY": {
-   "msg": "1537302436081967124",
-   "end": 1786677602,
-   "title": "Looking for names for my Festivized Flash Fryer :3",
-   "items": 1,
-   "ended": true
-  },
-  "OBX34K": {
-   "msg": "1537302442147053578",
-   "end": 1786676821,
-   "title": "Here have a tung tung tung",
-   "items": 1,
-   "ended": true
-  },
   "DVEP4J": {
    "msg": "1537317511681409024",
    "end": 1786681202,
@@ -5577,7 +5549,7 @@
    "end": 1787282349,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "659CYD": {
    "msg": "1539846658832080916",
@@ -6228,6 +6200,13 @@
    "end": 1787365381,
    "title": "I Drew Ts 23",
    "items": 1,
+   "ended": false
+  },
+  "FH7H64": {
+   "msg": "1540200724728651808",
+   "end": 1787368681,
+   "title": "Caf\u00e9 Crit-A-Coffee #1763",
+   "items": 10,
    "ended": false
   }
  },
