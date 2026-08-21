@@ -98,39 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "FZQ6KF": {
-   "msg": "1537596881889267783",
-   "end": 1786748161,
-   "title": "Tipping all profiles without tips!",
-   "items": 1,
-   "ended": true
-  },
-  "SRLRHD": {
-   "msg": "1537596888512077904",
-   "end": 1786748101,
-   "title": "Earbuds Are Awful",
-   "items": 1,
-   "ended": true
-  },
-  "Y2Z22H": {
-   "msg": "1537596894845341777",
-   "end": 1786747681,
-   "title": "New Art - Sylveon Edition!",
-   "items": 1,
-   "ended": true
-  },
   "DBS5TY": {
    "msg": "1537604407557099653",
    "end": 1786748701,
    "title": "Recommending music in spanish #3 FAVORITE SONG SPECIAL",
    "items": 3,
-   "ended": true
-  },
-  "AYFFJD": {
-   "msg": "1537604416432115784",
-   "end": 1786748400,
-   "title": "A  a day",
-   "items": 1,
    "ended": true
   },
   "MVTXT5": {
@@ -5283,7 +5255,7 @@
    "end": 1787353200,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GFCIJP": {
    "msg": "1540145317608165428",
@@ -5997,6 +5969,27 @@
    "end": 1787438049,
    "title": "Best K-pop songs #1 (in my opinion and in no order)",
    "items": 3,
+   "ended": false
+  },
+  "BPAXUN": {
+   "msg": "1540495933840560181",
+   "end": 1787439121,
+   "title": "Best Portal npc winner:",
+   "items": 4,
+   "ended": false
+  },
+  "JPCG1N": {
+   "msg": "1540495941981966397",
+   "end": 1787439061,
+   "title": "INVASION! (Full Length SFM Project)",
+   "items": 14,
+   "ended": false
+  },
+  "AISCCC": {
+   "msg": "1540495949539840082",
+   "end": 1787438281,
+   "title": "today is my birthday",
+   "items": 20,
    "ended": false
   }
  },
