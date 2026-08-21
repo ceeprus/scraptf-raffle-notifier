@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "RACPEP": {
-   "msg": "1537264695474393169",
-   "end": 1786668002,
-   "title": "Hi everyone uwu",
-   "items": 2,
-   "ended": true
-  },
   "K1S345": {
    "msg": "1537267310753091615",
    "end": 1786669200,
@@ -5570,7 +5563,7 @@
    "end": 1787272501,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #86 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "85RT86": {
    "msg": "1539801365084373092",
@@ -5584,14 +5577,14 @@
    "end": 1787272981,
    "title": "guh",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "9PIQ98": {
    "msg": "1539801382696255518",
    "end": 1787272921,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #87 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YQBNH3": {
    "msg": "1539808862461239356",
@@ -6221,7 +6214,7 @@
    "end": 1787272501,
    "title": "Humorous Raffle Name",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "DEAQC4": {
    "msg": "1540156166783635566",
@@ -6235,6 +6228,13 @@
    "end": 1787358242,
    "title": "Easy Extras",
    "items": 6,
+   "ended": false
+  },
+  "U3PCHY": {
+   "msg": "1540160214769209436",
+   "end": 1787359021,
+   "title": "MvM Update Australium Vote Part 9: Pyro Melees",
+   "items": 3,
    "ended": false
   }
  },
