@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "P81L9V": {
-   "msg": "1537354169743052850",
-   "end": 1786690082,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #73 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "V33AG6": {
-   "msg": "1537354176093491210",
-   "end": 1786689902,
-   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #72 #SundownerSweep  \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "T0JPGY": {
-   "msg": "1537354183076745290",
-   "end": 1786689901,
-   "title": "[\ud83e\udd89] Hoot!",
-   "items": 1,
-   "ended": true
-  },
-  "JOGVJB": {
-   "msg": "1537354191662620683",
-   "end": 1786689781,
-   "title": "\ud83c\udf0a\ud83d\udc1f  Getting Down To It #71 #SundownerSweep  \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "3X8NRT": {
-   "msg": "1537354198050410526",
-   "end": 1786689661,
-   "title": "EVIL and MESSED UP noise maker SLOP raffle",
-   "items": 1,
-   "ended": true
-  },
   "9R2MFF": {
    "msg": "1537362808704860260",
    "end": 1786692181,
@@ -145,27 +110,6 @@
    "end": 1786691941,
    "title": "Im bored",
    "items": 9,
-   "ended": true
-  },
-  "I0N9OY": {
-   "msg": "1537362824693678110",
-   "end": 1786690741,
-   "title": "\ud83e\udd81 Entering the Cool Lion's Territory",
-   "items": 1,
-   "ended": true
-  },
-  "N0WDZP": {
-   "msg": "1537362833803575326",
-   "end": 1786690621,
-   "title": "Noise..",
-   "items": 1,
-   "ended": true
-  },
-  "QT7HHH": {
-   "msg": "1537362841386876998",
-   "end": 1786690502,
-   "title": "NOT a noiseslopslop raffle",
-   "items": 1,
    "ended": true
   },
   "4IUM0K": {
@@ -572,20 +516,6 @@
    "end": 1786732861,
    "title": "Kiestu's question regarding",
    "items": 1,
-   "ended": true
-  },
-  "VLOW3T": {
-   "msg": "1537536488038867065",
-   "end": 1786689361,
-   "title": "GAMBLE GAMBLE GAMBLEE!!!!",
-   "items": 8,
-   "ended": true
-  },
-  "PGPS3W": {
-   "msg": "1537536494758273164",
-   "end": 1786689301,
-   "title": "Who here is hungry?!",
-   "items": 6,
    "ended": true
   },
   "H6XIJR": {
@@ -5500,7 +5430,7 @@
    "end": 1787295600,
    "title": "[To F2P] Free stuff monthly raffle #8 / Rifa mensual de cosas gratis #8",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "W53CBU": {
    "msg": "1539907052359520278",
