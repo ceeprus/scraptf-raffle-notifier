@@ -5542,21 +5542,21 @@
    "end": 1787287800,
    "title": "Don't get stuck in a lollichop, especially a time traveling one",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3BIT03": {
    "msg": "1539861762172780554",
    "end": 1787287561,
    "title": "Hi everyone, I'm back with a new lottery.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "JY0TQJ": {
    "msg": "1539861774440992859",
    "end": 1787286901,
    "title": "Hey brother \ud83d\ude2d\ud83d\ude4f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GSLCHX": {
    "msg": "1539869268332650587",
@@ -6241,6 +6241,48 @@
    "msg": "1540216579441033347",
    "end": 1787328421,
    "title": "Raffling Scrap Till I'm Out #1010 (Tired)",
+   "items": 1,
+   "ended": false
+  },
+  "OZ0FKV": {
+   "msg": "1540224145646682112",
+   "end": 1787374200,
+   "title": "1/3",
+   "items": 1,
+   "ended": false
+  },
+  "TQG66M": {
+   "msg": "1540224154270171227",
+   "end": 1787374081,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #90 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "SMG3DA": {
+   "msg": "1540224163279798346",
+   "end": 1787374021,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #89 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "VRBWZF": {
+   "msg": "1540224170837803030",
+   "end": 1787373841,
+   "title": "????",
+   "items": 2,
+   "ended": false
+  },
+  "5XP7O7": {
+   "msg": "1540224178446143539",
+   "end": 1787373061,
+   "title": "Day 68 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "52ZMGS": {
+   "msg": "1540224185685770359",
+   "end": 1787372642,
+   "title": "Day 72 of Asking for a Follow Button",
    "items": 1,
    "ended": false
   }
