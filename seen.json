@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "5ZHGJV": {
-   "msg": "1537506291294015628",
-   "end": 1786725541,
-   "title": "Go play Dying Light you filthy causal",
-   "items": 1,
-   "ended": true
-  },
   "TIA7OE": {
    "msg": "1537512726715170946",
    "end": 1786726800,
@@ -5297,14 +5290,14 @@
    "end": 1787330701,
    "title": "who is grabli304",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X7OQIX": {
    "msg": "1540042952439504926",
    "end": 1787330161,
    "title": "My FIRST raffle ever!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DNBIXW": {
    "msg": "1540042959033213080",
@@ -5332,7 +5325,7 @@
    "end": 1787331541,
    "title": "I think I know who grabli304 is",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L8PPDZ": {
    "msg": "1540056232042172466",
@@ -6032,6 +6025,27 @@
    "end": 1787415001,
    "title": "\ufe0f",
    "items": 1,
+   "ended": false
+  },
+  "T9IVDZ": {
+   "msg": "1540405052420657313",
+   "end": 1787374081,
+   "title": "Saving up a scrap for a lucky guy",
+   "items": 1,
+   "ended": false
+  },
+  "BAI03W": {
+   "msg": "1540405058859040808",
+   "end": 1787416200,
+   "title": "VN devlog #48",
+   "items": 1,
+   "ended": false
+  },
+  "PU6DL5": {
+   "msg": "1540405065477652510",
+   "end": 1787415782,
+   "title": "Scrap.tf Birthdays - 21 August",
+   "items": 3,
    "ended": false
   }
  },
