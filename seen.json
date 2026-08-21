@@ -434,13 +434,6 @@
    "items": 1,
    "ended": true
   },
-  "FE9Q99": {
-   "msg": "1537687485407039498",
-   "end": 1786725000,
-   "title": "[DAY 10] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "H730MY": {
    "msg": "1537687494596763709",
    "end": 1786768141,
@@ -574,13 +567,6 @@
    "items": 1,
    "ended": true
   },
-  "OYG13G": {
-   "msg": "1537770436996374600",
-   "end": 1786724761,
-   "title": "sorry for my last raffle (abt festivizer)",
-   "items": 3,
-   "ended": true
-  },
   "4ZWUEK": {
    "msg": "1537770444139003924",
    "end": 1786745522,
@@ -712,13 +698,6 @@
    "end": 1786809600,
    "title": "Weekly  #102",
    "items": 4,
-   "ended": true
-  },
-  "IUP5XY": {
-   "msg": "1537853547742503022",
-   "end": 1786724941,
-   "title": "\ud83d\udc9aTake away my noisemakers#15\ud83d\udc9a",
-   "items": 50,
    "ended": true
   },
   "11M2H7": {
@@ -5332,7 +5311,7 @@
    "end": 1787329561,
    "title": "CAREFUL BROTHER!! \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZV7P50": {
    "msg": "1540050473325695090",
