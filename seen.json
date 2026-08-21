@@ -5339,14 +5339,14 @@
    "end": 1787321101,
    "title": "Bakaugan Battle Brawlers Soundtracks I like & discussion",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "61G7BF": {
    "msg": "1539999317253824653",
    "end": 1787321041,
    "title": "take my items",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "CYZJ93": {
    "msg": "1540005172019994716",
@@ -6116,6 +6116,13 @@
    "end": 1787406001,
    "title": "These are almost all the manufacturers I got over 16 tour",
    "items": 12,
+   "ended": false
+  },
+  "BGHNOI": {
+   "msg": "1540361114486050897",
+   "end": 1787407200,
+   "title": "Don't Fuck With The Chuck!",
+   "items": 30,
    "ended": false
   }
  },
