@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9A8QEA": {
-   "msg": "1537249610257666118",
-   "end": 1786664941,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "TKNDFE": {
-   "msg": "1537249618172317797",
-   "end": 1786664882,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
   "DHV1QR": {
    "msg": "1537257106149744771",
    "end": 1786666441,
@@ -5584,7 +5570,7 @@
    "end": 1787269802,
    "title": "MvM Update Australium Vote Part 7: Pyro Primaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "FG177U": {
    "msg": "1539793758772527125",
