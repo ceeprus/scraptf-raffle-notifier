@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "15JI25": {
-   "msg": "1537574203627274330",
-   "end": 1786741200,
-   "title": "checkup #89 | \"Let's make some noise\"-ahh raffle",
-   "items": 1,
-   "ended": true
-  },
   "FFVFP6": {
    "msg": "1537581768557990128",
    "end": 1786744261,
@@ -5318,7 +5311,7 @@
    "end": 1787346000,
    "title": "checkup #96 | Mossrock",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2H3TL0": {
    "msg": "1540108037996421210",
@@ -5332,14 +5325,14 @@
    "end": 1787345942,
    "title": "Most Joyous Friday To You",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6LM2M3": {
    "msg": "1540108051342827520",
    "end": 1787345641,
    "title": "Stupendium's Stupendous Song #24",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P1EKBV": {
    "msg": "1540110862314897488",
