@@ -462,13 +462,6 @@
    "items": 83,
    "ended": true
   },
-  "I9OCS2": {
-   "msg": "1537642194398347354",
-   "end": 1786714081,
-   "title": "My Favorite YTP",
-   "items": 1,
-   "ended": true
-  },
   "19YAZB": {
    "msg": "1537649721907089409",
    "end": 1786759681,
@@ -5367,7 +5360,7 @@
    "end": 1787318821,
    "title": "DON'T TELL HER ANYTHING",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "18F9ZI": {
    "msg": "1539999309599088772",
