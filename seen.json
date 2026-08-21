@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LUFEHJ": {
-   "msg": "1537460999953580163",
-   "end": 1786715221,
-   "title": "Untitled raffle",
-   "items": 18,
-   "ended": true
-  },
-  "4NQFWE": {
-   "msg": "1537461007549726820",
-   "end": 1786714802,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1504 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 13,
-   "ended": true
-  },
-  "RW8FDD": {
-   "msg": "1537464964552335360",
-   "end": 1786715581,
-   "title": "Mirror, mirror on the wall",
-   "items": 1,
-   "ended": true
-  },
   "YVGPH0": {
    "msg": "1537468499679641710",
    "end": 1786716962,
@@ -803,13 +782,6 @@
    "end": 1786797001,
    "title": "HELP ME!!!",
    "items": 9,
-   "ended": true
-  },
-  "6PSV5C": {
-   "msg": "1537808241755693196",
-   "end": 1786714981,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "41SRVZ": {
@@ -5339,14 +5311,14 @@
    "end": 1787320381,
    "title": "slobgma",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QG9GA7": {
    "msg": "1539997691705036902",
    "end": 1787320021,
    "title": "lazy slugma raffle",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "9XMPTM": {
    "msg": "1539997701582749877",
@@ -5745,7 +5717,7 @@
    "end": 1787320800,
    "title": "Tune of the day #316",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "50ASO7": {
    "msg": "1540186342170959932",
@@ -6130,6 +6102,20 @@
    "end": 1787403181,
    "title": "gift of the day #4",
    "items": 1,
+   "ended": false
+  },
+  "EC6254": {
+   "msg": "1540360042988179487",
+   "end": 1787406182,
+   "title": "Slugma raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZX6RAD": {
+   "msg": "1540360052764975114",
+   "end": 1787406001,
+   "title": "These are almost all the manufacturers I got over 16 tour",
+   "items": 12,
    "ended": false
   }
  },
