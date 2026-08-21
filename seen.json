@@ -119,13 +119,6 @@
    "items": 2,
    "ended": true
   },
-  "L0XGRL": {
-   "msg": "1537423259010736158",
-   "end": 1786705200,
-   "title": "I can't belive how cruel Chuck is!",
-   "items": 1,
-   "ended": true
-  },
   "3PJ22E": {
    "msg": "1537425459439079434",
    "end": 1786707362,
@@ -5409,7 +5402,7 @@
    "end": 1787310000,
    "title": "Now why would the vet do that?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZE9T08": {
    "msg": "1539964742058377329",
