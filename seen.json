@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "K1S345": {
-   "msg": "1537267310753091615",
-   "end": 1786669200,
-   "title": "Reminder to eat n' drink water if ye haven't yet #270",
-   "items": 5,
-   "ended": true
-  },
-  "O8QL7D": {
-   "msg": "1537267317321375774",
-   "end": 1786669200,
-   "title": "M (part three)",
-   "items": 1,
-   "ended": true
-  },
   "OATWFL": {
    "msg": "1537287309802864680",
    "end": 1786673281,
@@ -5570,7 +5556,7 @@
    "end": 1787273221,
    "title": "Something interesting i found online",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "HWPEZP": {
    "msg": "1539801375096180806",
