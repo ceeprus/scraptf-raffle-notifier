@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "H6XIJR": {
-   "msg": "1537544009143291976",
-   "end": 1786734661,
-   "title": "MVM DROP PRICE SPREADSHEET",
-   "items": 5,
-   "ended": true
-  },
   "U74XOU": {
    "msg": "1537559090094411909",
    "end": 1786739042,
@@ -614,13 +607,6 @@
    "end": 1786807801,
    "title": "[air]",
    "items": 1,
-   "ended": true
-  },
-  "T1F44C": {
-   "msg": "1537845936167067709",
-   "end": 1786735741,
-   "title": "Have entered over 100 raffels and havent won a single one",
-   "items": 4,
    "ended": true
   },
   "SYTCHF": {
@@ -5297,7 +5283,7 @@
    "end": 1787339581,
    "title": "Some",
    "items": 243,
-   "ended": false
+   "ended": true
   },
   "RAG2LG": {
    "msg": "1540086312764317756",
@@ -6039,6 +6025,13 @@
    "end": 1787423461,
    "title": "Kiestu crafting all the weapons #3",
    "items": 1,
+   "ended": false
+  },
+  "EPFLO5": {
+   "msg": "1540443052634546358",
+   "end": null,
+   "title": "Algo para la people",
+   "items": 2,
    "ended": false
   }
  },
