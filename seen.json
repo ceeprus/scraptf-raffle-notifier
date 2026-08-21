@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "BUYHFL": {
-   "msg": "1537476108658933830",
-   "end": 1786718221,
-   "title": "Memory Palace",
-   "items": 3,
-   "ended": true
-  },
-  "KLQAUJ": {
-   "msg": "1537476115982057553",
-   "end": 1786718221,
-   "title": "Daily Kit Fabricator #5",
-   "items": 1,
-   "ended": true
-  },
   "6TU8TO": {
    "msg": "1537483136101916802",
    "end": 1786720501,
@@ -6088,6 +6074,20 @@
    "end": 1787407200,
    "title": "Don't Fuck With The Chuck!",
    "items": 30,
+   "ended": false
+  },
+  "05ID48": {
+   "msg": "1540375145531580436",
+   "end": 1787410561,
+   "title": "Items appearing randomly in an environment unexpectedly...",
+   "items": 1,
+   "ended": false
+  },
+  "ZWKSTZ": {
+   "msg": "1540375154209595392",
+   "end": 1787409661,
+   "title": "What would you do if 30,000 shrimps invaded in your room?",
+   "items": 1,
    "ended": false
   }
  },
