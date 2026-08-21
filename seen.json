@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "DHV1QR": {
-   "msg": "1537257106149744771",
-   "end": 1786666441,
-   "title": "\ud83e\uddc2",
-   "items": 1,
-   "ended": true
-  },
-  "EFB1YZ": {
-   "msg": "1537257114190356624",
-   "end": 1786665721,
-   "title": "My second raffle \ud83e\udd14\ud83d\udc4d\ud83d\udc4d",
-   "items": 13,
-   "ended": true
-  },
   "RACPEP": {
    "msg": "1537264695474393169",
    "end": 1786668002,
@@ -5577,7 +5563,7 @@
    "end": 1787270761,
    "title": "MvM Update Australium Vote Part 8: Pyro Secondaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "6KFBN3": {
    "msg": "1539796867523551242",
@@ -6235,6 +6221,20 @@
    "end": 1787272501,
    "title": "Humorous Raffle Name",
    "items": 7,
+   "ended": false
+  },
+  "DEAQC4": {
+   "msg": "1540156166783635566",
+   "end": 1787358361,
+   "title": "Hale's Own Trials: Persian Persuader: Day 9",
+   "items": 1,
+   "ended": false
+  },
+  "TTYYVM": {
+   "msg": "1540156177801936978",
+   "end": 1787358242,
+   "title": "Easy Extras",
+   "items": 6,
    "ended": false
   }
  },
