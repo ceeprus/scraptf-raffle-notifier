@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6EUDYS": {
-   "msg": "1537589293919510590",
-   "end": 1786746121,
-   "title": "ruffles are cool",
-   "items": 3,
-   "ended": true
-  },
-  "5M0BV1": {
-   "msg": "1537589300319883364",
-   "end": 1786746002,
-   "title": "have any of you ever gotten something other than a weapon/crate from a random drop?",
-   "items": 1,
-   "ended": true
-  },
   "FZQ6KF": {
    "msg": "1537596881889267783",
    "end": 1786748161,
@@ -5990,6 +5976,27 @@
    "end": 1787435941,
    "title": "Hello! \ud83d\udc4b",
    "items": 4,
+   "ended": false
+  },
+  "EQ18MF": {
+   "msg": "1540488336769290355",
+   "end": 1787436579,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "NRBMB3": {
+   "msg": "1540488343064813621",
+   "end": 1787436481,
+   "title": "The Pain Train has no brakes",
+   "items": 6,
+   "ended": false
+  },
+  "J8SOCX": {
+   "msg": "1540488349184172062",
+   "end": 1787393101,
+   "title": "week of rainblower!",
+   "items": 1,
    "ended": false
   }
  },
