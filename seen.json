@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "TIA7OE": {
-   "msg": "1537512726715170946",
-   "end": 1786726800,
-   "title": "Getting Rid Of The",
-   "items": 1,
-   "ended": true
-  },
-  "OF7W3P": {
-   "msg": "1537512734088765490",
-   "end": 1786726800,
-   "title": "Daily raffle until TF2 gets a major update #590",
-   "items": 3,
-   "ended": true
-  },
   "AXNUIF": {
    "msg": "1537521413294919720",
    "end": 1786729621,
@@ -5318,7 +5304,7 @@
    "end": 1787331600,
    "title": "Daily raffle until TF2 gets a major update #597",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "MU6BVS": {
    "msg": "1540050496298156115",
