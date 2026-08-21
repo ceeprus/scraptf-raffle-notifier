@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YVGPH0": {
-   "msg": "1537468499679641710",
-   "end": 1786716962,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
-  "FGRG3R": {
-   "msg": "1537468507758010449",
-   "end": 1786716841,
-   "title": "I've been making raffles for 11 years",
-   "items": 1,
-   "ended": true
-  },
-  "XUR0Z6": {
-   "msg": "1537468514896707814",
-   "end": 1786716782,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "BUYHFL": {
    "msg": "1537476108658933830",
    "end": 1786718221,
@@ -130,20 +109,6 @@
    "msg": "1537476115982057553",
    "end": 1786718221,
    "title": "Daily Kit Fabricator #5",
-   "items": 1,
-   "ended": true
-  },
-  "J1XYQQ": {
-   "msg": "1537476122881695854",
-   "end": 1786717681,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator",
-   "items": 1,
-   "ended": true
-  },
-  "N4M8C6": {
-   "msg": "1537476129898766446",
-   "end": 1786717621,
-   "title": "i can't think of a title for this raffle 24\u2122",
    "items": 1,
    "ended": true
   },
@@ -5353,7 +5318,7 @@
    "end": 1787321702,
    "title": "Shot so bad I had to make a sfm out of it lmao",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "GC3GO5": {
    "msg": "1540012763533934673",
