@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FS8ZSB": {
-   "msg": "1537491185151512608",
-   "end": 1786722421,
-   "title": "you may or may not bother yourself with it",
-   "items": 3,
-   "ended": true
-  },
-  "G9IKD7": {
-   "msg": "1537491194190495824",
-   "end": 1786722001,
-   "title": "Casual Match",
-   "items": 3,
-   "ended": true
-  },
   "OVCXAN": {
    "msg": "1537497156741505045",
    "end": 1786723801,
@@ -404,20 +390,6 @@
    "end": 1786765562,
    "title": "Christmas is coming!!",
    "items": 3,
-   "ended": true
-  },
-  "QV56FL": {
-   "msg": "1537672375091331124",
-   "end": 1786722301,
-   "title": "I am new in all of this :3",
-   "items": 4,
-   "ended": true
-  },
-  "ONK7F4": {
-   "msg": "1537672383987581041",
-   "end": 1786721582,
-   "title": "Untitled raffle",
-   "items": 100,
    "ended": true
   },
   "H9C9L9": {
@@ -754,13 +726,6 @@
    "end": 1786735741,
    "title": "Have entered over 100 raffels and havent won a single one",
    "items": 4,
-   "ended": true
-  },
-  "Z3T0PO": {
-   "msg": "1537845943632920657",
-   "end": 1786722242,
-   "title": "\ud83d\udc9aTake away my noisemakers#14\ud83d\udc9a",
-   "items": 50,
    "ended": true
   },
   "SYTCHF": {
@@ -5325,14 +5290,14 @@
    "end": 1787327222,
    "title": "I accidentally overpayed a bid on an auction :( too",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1I5PM2": {
    "msg": "1540026732713615470",
    "end": 1787326682,
    "title": "its my Birthday :D and first raffle\ud83c\udf89\ud83c\udf89\ud83c\udf89",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H27MR7": {
    "msg": "1540027854731870259",
@@ -5346,7 +5311,7 @@
    "end": 1787327701,
    "title": "Mi segundo video de Tf2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8XVDB8": {
    "msg": "1540034628876902461",
@@ -6088,6 +6053,20 @@
    "end": 1787410802,
    "title": "8 mvm tours... like 12 or smth killstreak crates... and nothing...",
    "items": 50,
+   "ended": false
+  },
+  "SHZZPC": {
+   "msg": "1540389089218535545",
+   "end": 1787413681,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "RPHRH3": {
+   "msg": "1540389098945118299",
+   "end": 1787370362,
+   "title": "question",
+   "items": 3,
    "ended": false
   }
  },
