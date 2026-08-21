@@ -595,25 +595,11 @@
    "items": 1,
    "ended": true
   },
-  "F4NX1Q": {
-   "msg": "1537497169915809903",
-   "end": 1786680000,
-   "title": "Take a Bow",
-   "items": 1,
-   "ended": true
-  },
   "PEWZBC": {
    "msg": "1537497177327407114",
    "end": 1786723200,
    "title": "Scrap.tf Birthdays - 13 August",
    "items": 2,
-   "ended": true
-  },
-  "57T24Q": {
-   "msg": "1537497183526453410",
-   "end": 1786679761,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "2GGERT": {
@@ -5556,14 +5542,14 @@
    "end": 1787283900,
    "title": "Nothing In Particular",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HUFHWG": {
    "msg": "1539847719265374299",
    "end": 1787284800,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1511 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "4NZ92P": {
    "msg": "1539854163444367471",
@@ -5878,7 +5864,7 @@
    "end": 1787284800,
    "title": "[DAY 18] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7Y78DL": {
    "msg": "1540027862768418989",
@@ -6221,6 +6207,34 @@
    "end": 1787368921,
    "title": "Spiral Knights just dropped new content.",
    "items": 20,
+   "ended": false
+  },
+  "MVYNHN": {
+   "msg": "1540209039680610346",
+   "end": 1787371200,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1512 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 21,
+   "ended": false
+  },
+  "K6UH1B": {
+   "msg": "1540209047075164240",
+   "end": 1787371080,
+   "title": "Unraveling Threads",
+   "items": 1,
+   "ended": false
+  },
+  "SZFVHP": {
+   "msg": "1540209053794443296",
+   "end": 1787305802,
+   "title": "Show me what you got guys",
+   "items": 1,
+   "ended": false
+  },
+  "YPROFA": {
+   "msg": "1540209060648059022",
+   "end": 1787369941,
+   "title": "Stuff i found on the internet",
+   "items": 3,
    "ended": false
   }
  },
