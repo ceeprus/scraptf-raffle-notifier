@@ -5297,7 +5297,7 @@
    "end": 1787332561,
    "title": "The pass it forward raffle! (#15)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "MOF1PT": {
    "msg": "1540050484486742067",
@@ -6032,6 +6032,34 @@
    "end": 1787415782,
    "title": "Scrap.tf Birthdays - 21 August",
    "items": 3,
+   "ended": false
+  },
+  "U46TME": {
+   "msg": "1540412852106690721",
+   "end": 1787418961,
+   "title": "#DailySlugma",
+   "items": 1,
+   "ended": false
+  },
+  "01XN1X": {
+   "msg": "1540412859480145941",
+   "end": 1787418000,
+   "title": "Daily raffle until TF2 gets a major update #598",
+   "items": 3,
+   "ended": false
+  },
+  "FZP9X9": {
+   "msg": "1540412872088354926",
+   "end": 1787418000,
+   "title": "Guys",
+   "items": 3,
+   "ended": false
+  },
+  "DJSJ7B": {
+   "msg": "1540412879696560128",
+   "end": 1787417821,
+   "title": "awawawawa",
+   "items": 1,
    "ended": false
   }
  },
