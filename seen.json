@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "H1RCE6": {
-   "msg": "1537430805326987334",
-   "end": 1786708621,
-   "title": "I'm the one",
-   "items": 3,
-   "ended": true
-  },
-  "69T8L7": {
-   "msg": "1537430812264501351",
-   "end": 1786708501,
-   "title": "Whoever wins - give ME festivizer/or festivized weapon",
-   "items": 3,
-   "ended": true
-  },
-  "Y0OQG2": {
-   "msg": "1537430819621175386",
-   "end": 1786708442,
-   "title": "Fanumstein Rizzberg",
-   "items": 1,
-   "ended": true
-  },
   "4J28GQ": {
    "msg": "1537438302058184796",
    "end": 1786710302,
@@ -144,13 +123,6 @@
    "msg": "1537438323583221920",
    "end": 1786709582,
    "title": "Well, you can tell by the way I use my walk",
-   "items": 1,
-   "ended": true
-  },
-  "VGWX9Z": {
-   "msg": "1537438330659151954",
-   "end": 1786708800,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": true
   },
@@ -5388,7 +5360,7 @@
    "end": 1787313600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EH1SW2": {
    "msg": "1539974526304124928",
