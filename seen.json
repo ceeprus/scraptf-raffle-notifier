@@ -105,20 +105,6 @@
    "items": 4,
    "ended": true
   },
-  "BEDRFB": {
-   "msg": "1537423244913541150",
-   "end": 1786706641,
-   "title": "#SundownerSweep raffle",
-   "items": 1,
-   "ended": true
-  },
-  "KFNYJ3": {
-   "msg": "1537423252094197811",
-   "end": 1786706461,
-   "title": "Grabli304's raffle\u2503Day 165",
-   "items": 2,
-   "ended": true
-  },
   "3PJ22E": {
    "msg": "1537425459439079434",
    "end": 1786707362,
@@ -5395,7 +5381,7 @@
    "end": 1787310481,
    "title": "Turn off my brain button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W591CG": {
    "msg": "1539957858102280252",
@@ -6011,7 +5997,7 @@
    "end": 1787310722,
    "title": "I need help choosing a hat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GMMUW8": {
    "msg": "1540231653199454218",
@@ -6172,6 +6158,13 @@
    "end": 1787395441,
    "title": "Grabli304's raffle\u2503Day 173",
    "items": 2,
+   "ended": false
+  },
+  "AR0TJX": {
+   "msg": "1540320787234553897",
+   "end": 1787396400,
+   "title": "So that means...everyday is bad!",
+   "items": 1,
    "ended": false
   }
  },
