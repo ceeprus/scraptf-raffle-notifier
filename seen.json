@@ -5577,14 +5577,14 @@
    "end": 1787274422,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #88 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J5SE9U": {
    "msg": "1539808870359113738",
    "end": 1787274242,
    "title": "Earlier this week i got a Strange brand loyalist from a gift randomly.",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "BD637D": {
    "msg": "1539819090636705943",
@@ -6221,6 +6221,27 @@
    "end": 1787359021,
    "title": "MvM Update Australium Vote Part 9: Pyro Melees",
    "items": 3,
+   "ended": false
+  },
+  "0LIQRU": {
+   "msg": "1540171254223478924",
+   "end": 1787361662,
+   "title": "Slugma Chain raffle #12-14",
+   "items": 1,
+   "ended": false
+  },
+  "OYLKFA": {
+   "msg": "1540171260963852378",
+   "end": 1787360821,
+   "title": "MvM Update Australium Vote Part 10: Demoman Primaries",
+   "items": 3,
+   "ended": false
+  },
+  "XBAGN3": {
+   "msg": "1540171267955757107",
+   "end": 1787317382,
+   "title": "hi, it's my first raffle!",
+   "items": 2,
    "ended": false
   }
  },
