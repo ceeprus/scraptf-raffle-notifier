@@ -413,13 +413,6 @@
    "items": 1,
    "ended": true
   },
-  "4ZWUEK": {
-   "msg": "1537770444139003924",
-   "end": 1786745522,
-   "title": "Raffling Scrap Till I'm Out #1003 (Super lat raffle)",
-   "items": 1,
-   "ended": true
-  },
   "CBKE9M": {
    "msg": "1537770450640183306",
    "end": 1786788000,
@@ -5990,6 +5983,13 @@
    "end": 1787433781,
    "title": "I got som stuff so you can have them too!",
    "items": 41,
+   "ended": false
+  },
+  "HKQ395": {
+   "msg": "1540484215228076053",
+   "end": 1787435941,
+   "title": "Hello! \ud83d\udc4b",
+   "items": 4,
    "ended": false
   }
  },
