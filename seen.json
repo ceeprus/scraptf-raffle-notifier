@@ -5822,7 +5822,7 @@
    "end": 1787302800,
    "title": "[Night 18] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4CFM3T": {
    "msg": "1540108045227393104",
@@ -6150,6 +6150,41 @@
    "msg": "1540276961006456934",
    "end": 1787387041,
    "title": "Take Your Mask Off",
+   "items": 1,
+   "ended": false
+  },
+  "MD3DYB": {
+   "msg": "1540284529418182728",
+   "end": 1787344982,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CC2LC7": {
+   "msg": "1540284537215647775",
+   "end": 1787344861,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "EVDFKI": {
+   "msg": "1540284543964151849",
+   "end": 1787344681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "E7ID0Y": {
+   "msg": "1540284550897471538",
+   "end": 1787344501,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NHIBYN": {
+   "msg": "1540284557054705664",
+   "end": 1787344322,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
