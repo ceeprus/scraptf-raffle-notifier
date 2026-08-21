@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "DBS5TY": {
-   "msg": "1537604407557099653",
-   "end": 1786748701,
-   "title": "Recommending music in spanish #3 FAVORITE SONG SPECIAL",
-   "items": 3,
-   "ended": true
-  },
   "MVTXT5": {
    "msg": "1537611987155165224",
    "end": 1786751161,
@@ -5990,6 +5983,20 @@
    "end": 1787438281,
    "title": "today is my birthday",
    "items": 20,
+   "ended": false
+  },
+  "13MTIJ": {
+   "msg": "1540499531530240081",
+   "end": 1787439601,
+   "title": "I won my first raffle!",
+   "items": 2,
+   "ended": false
+  },
+  "JVJ8HY": {
+   "msg": "1540499538035478618",
+   "end": 1787439600,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
