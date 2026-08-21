@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Q8UGTE": {
-   "msg": "1537453410888978543",
-   "end": 1786712400,
-   "title": "(YTP) meet  guy",
-   "items": 1,
-   "ended": true
-  },
   "LUFEHJ": {
    "msg": "1537460999953580163",
    "end": 1786715221,
@@ -656,13 +649,6 @@
    "end": 1786776061,
    "title": "I'm now an irl pilot",
    "items": 9,
-   "ended": true
-  },
-  "UYC6FE": {
-   "msg": "1537715417244631091",
-   "end": 1786711082,
-   "title": "Pomson killstreak kombo",
-   "items": 4,
    "ended": true
   },
   "X8LO9G": {
@@ -5346,14 +5332,14 @@
    "end": 1787315761,
    "title": "Daily Brass Beast #544",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9N3YAL": {
    "msg": "1539989193088966776",
    "end": 1787317200,
    "title": "Vulpix is a Fire Type",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "029RWG": {
    "msg": "1539997682259468378",
@@ -6101,6 +6087,27 @@
    "msg": "1540336775816421437",
    "end": 1787400000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "KNPDDQ": {
+   "msg": "1540344928163602483",
+   "end": 1787403001,
+   "title": "Daily raffle #352",
+   "items": 1,
+   "ended": false
+  },
+  "5GSK1Z": {
+   "msg": "1540344936321257614",
+   "end": 1787337841,
+   "title": "Second raffle, thank you for your support!",
+   "items": 3,
+   "ended": false
+  },
+  "NHQ7CK": {
+   "msg": "1540344942428426291",
+   "end": 1787401982,
+   "title": "[!DAY 19!] Scrap tf HG",
    "items": 1,
    "ended": false
   }
