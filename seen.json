@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "4IUM0K": {
-   "msg": "1537370416912269373",
-   "end": 1786694162,
-   "title": "Take my Slop #5",
-   "items": 1,
-   "ended": true
-  },
-  "SWQ9SM": {
-   "msg": "1537370423392731156",
-   "end": 1786694042,
-   "title": "Take my Slop #4",
-   "items": 1,
-   "ended": true
-  },
-  "KEO5LZ": {
-   "msg": "1537370429700972614",
-   "end": 1786693861,
-   "title": "Take my Slop #3",
-   "items": 1,
-   "ended": true
-  },
-  "YSL48H": {
-   "msg": "1537370435904217120",
-   "end": 1786693681,
-   "title": "10 Rafles won",
-   "items": 1,
-   "ended": true
-  },
-  "0610LP": {
-   "msg": "1537374147792080937",
-   "end": 1786694282,
-   "title": "Take my Slop #6",
-   "items": 1,
-   "ended": true
-  },
   "1F5IFD": {
    "msg": "1537377921352736799",
    "end": 1786695841,
@@ -6186,6 +6151,13 @@
    "end": 1787382181,
    "title": "#SlugmaStaring",
    "items": 2,
+   "ended": false
+  },
+  "K6FHOQ": {
+   "msg": "1540269428514758666",
+   "end": 1787384641,
+   "title": "free stuff (comes with emotional package)",
+   "items": 6,
    "ended": false
   }
  },
