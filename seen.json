@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OVCXAN": {
-   "msg": "1537497156741505045",
-   "end": 1786723801,
-   "title": "\ud83c\udf0a",
-   "items": 1,
-   "ended": true
-  },
-  "2GGERT": {
-   "msg": "1537498684357353553",
-   "end": 1786724401,
-   "title": "\ud83d\udc1f\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "VMCD9X": {
-   "msg": "1537498691181482115",
-   "end": 1786724282,
-   "title": "Which operating system do you use? | NDR #12",
-   "items": 2,
-   "ended": true
-  },
   "5ZHGJV": {
    "msg": "1537506291294015628",
    "end": 1786725541,
@@ -5311,28 +5290,28 @@
    "end": 1787329142,
    "title": "i can't think of a title for this raffle 28\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IB1MS6": {
    "msg": "1540034636053487636",
    "end": 1787328842,
    "title": "Scrap.tf Birthdays - 20 August",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "D4HZOQ": {
    "msg": "1540034645754777681",
    "end": 1787328422,
    "title": "#17",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "I1SVKC": {
    "msg": "1540034652272590928",
    "end": 1787328301,
    "title": "no.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V0Y5M8": {
    "msg": "1540042944214474892",
@@ -5696,7 +5675,7 @@
    "end": 1787328421,
    "title": "Raffling Scrap Till I'm Out #1010 (Tired)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OZ0FKV": {
    "msg": "1540224145646682112",
@@ -6067,6 +6046,13 @@
    "end": 1787414400,
    "title": "Weekly  #103",
    "items": 4,
+   "ended": false
+  },
+  "19VMYB": {
+   "msg": "1540396467577954424",
+   "end": 1787415001,
+   "title": "\ufe0f",
+   "items": 1,
    "ended": false
   }
  },
