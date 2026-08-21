@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OATWFL": {
-   "msg": "1537287309802864680",
-   "end": 1786673281,
-   "title": "Can you guys please stop raffling noisemakers!!!!",
-   "items": 10,
-   "ended": true
-  },
-  "ZA1EVN": {
-   "msg": "1537287331801862255",
-   "end": 1786672921,
-   "title": "Whats happening with recent comunity events announced through steam news?",
-   "items": 36,
-   "ended": true
-  },
   "73PYX9": {
    "msg": "1537294893989372007",
    "end": 1786675501,
@@ -5584,14 +5570,14 @@
    "end": 1787278021,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8XQTSJ": {
    "msg": "1539819100262371460",
    "end": 1787277722,
    "title": "Caf\u00e9 Crit-A-Coffee #1762",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "I0FR0X": {
    "msg": "1539823962119479462",
@@ -5605,7 +5591,7 @@
    "end": 1787278322,
    "title": "Downsizing Duplicates",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "E39I57": {
    "msg": "1539837053381120020",
@@ -6241,6 +6227,20 @@
    "msg": "1540178844609286244",
    "end": 1787363101,
    "title": "Battle Cats Propaganda #1376",
+   "items": 1,
+   "ended": false
+  },
+  "MWFNKO": {
+   "msg": "1540183229548593152",
+   "end": 1787364361,
+   "title": "Can we destroy the month of September?",
+   "items": 3,
+   "ended": false
+  },
+  "F1RQWH": {
+   "msg": "1540183235567423498",
+   "end": 1787320800,
+   "title": "Tune of the day #316",
    "items": 1,
    "ended": false
   }
