@@ -714,13 +714,6 @@
    "items": 1,
    "ended": true
   },
-  "CANGYT": {
-   "msg": "1537886752969203802",
-   "end": 1786734061,
-   "title": "weeeeee",
-   "items": 1,
-   "ended": true
-  },
   "C0JG9I": {
    "msg": "1537891225322131607",
    "end": 1786817401,
@@ -5297,7 +5290,7 @@
    "end": 1787338861,
    "title": "Bau! Bau!",
    "items": 18,
-   "ended": false
+   "ended": true
   },
   "WMWNEC": {
    "msg": "1540080673522454620",
