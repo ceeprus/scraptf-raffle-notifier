@@ -504,13 +504,6 @@
    "items": 7,
    "ended": true
   },
-  "0QEPXG": {
-   "msg": "1537566688109793340",
-   "end": 1786696200,
-   "title": "[Fallen Tributes/Night 9] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "XTHMR4": {
    "msg": "1537574195943440404",
    "end": 1786741741,
@@ -6151,6 +6144,13 @@
    "end": 1787384641,
    "title": "free stuff (comes with emotional package)",
    "items": 6,
+   "ended": false
+  },
+  "9325C5": {
+   "msg": "1540276961006456934",
+   "end": 1787387041,
+   "title": "Take Your Mask Off",
+   "items": 1,
    "ended": false
   }
  },
