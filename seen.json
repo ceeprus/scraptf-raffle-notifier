@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KR3EW1": {
-   "msg": "1537393021757292647",
-   "end": 1786699081,
-   "title": "It's my scrapiversary!",
-   "items": 6,
-   "ended": true
-  },
-  "DPYJDZ": {
-   "msg": "1537394844702347264",
-   "end": 1786699561,
-   "title": "School grades!",
-   "items": 47,
-   "ended": true
-  },
   "FPU4SO": {
    "msg": "1537400611358642176",
    "end": 1786700461,
@@ -5437,7 +5423,7 @@
    "end": 1787304541,
    "title": "Mr. Bubbly story",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CT73WM": {
    "msg": "1539944159371202652",
@@ -5843,7 +5829,7 @@
    "end": 1787303701,
    "title": "hi helol? hihi hello?helle?helo?he",
    "items": 19,
-   "ended": false
+   "ended": true
   },
   "TGZYLJ": {
    "msg": "1540115926815604827",
