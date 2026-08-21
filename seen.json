@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "PEWZBC": {
-   "msg": "1537497177327407114",
-   "end": 1786723200,
-   "title": "Scrap.tf Birthdays - 13 August",
-   "items": 2,
-   "ended": true
-  },
   "2GGERT": {
    "msg": "1537498684357353553",
    "end": 1786724401,
@@ -6067,6 +6060,13 @@
    "end": 1787370362,
    "title": "question",
    "items": 3,
+   "ended": false
+  },
+  "O5FLL9": {
+   "msg": "1540390255910199296",
+   "end": 1787414400,
+   "title": "Weekly  #103",
+   "items": 4,
    "ended": false
   }
  },
