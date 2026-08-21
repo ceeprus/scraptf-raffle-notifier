@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "AXNUIF": {
-   "msg": "1537521413294919720",
-   "end": 1786729621,
-   "title": "Free Games Part 142 \u2022 Deponia",
-   "items": 1,
-   "ended": true
-  },
-  "3BSBOK": {
-   "msg": "1537521421817741396",
-   "end": 1786729081,
-   "title": "New soldier loadout",
-   "items": 1,
-   "ended": true
-  },
   "E66B46": {
    "msg": "1537527465512018022",
    "end": 1786730702,
@@ -579,13 +565,6 @@
    "end": 1786791361,
    "title": "Hi guys i need your help!",
    "items": 2,
-   "ended": true
-  },
-  "V22A5W": {
-   "msg": "1537793116646416495",
-   "end": 1786728901,
-   "title": "Do you like sandwiches?",
-   "items": 1,
    "ended": true
   },
   "0N4GFN": {
@@ -5318,14 +5297,14 @@
    "end": 1787333821,
    "title": "So many Uma Musume fans",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "2YJXTC": {
    "msg": "1540064190415380501",
    "end": 1787335202,
    "title": "Daily raffle #351",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BSH8AE": {
    "msg": "1540073155677130794",
