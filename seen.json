@@ -112,20 +112,6 @@
    "items": 1,
    "ended": true
   },
-  "J6ZX4Z": {
-   "msg": "1537559105500094604",
-   "end": 1786737601,
-   "title": "endless war theory",
-   "items": 2,
-   "ended": true
-  },
-  "ZSRKIV": {
-   "msg": "1537559112693317652",
-   "end": 1786737600,
-   "title": "We need more Engineer Mains! | #003",
-   "items": 7,
-   "ended": true
-  },
   "XTHMR4": {
    "msg": "1537574195943440404",
    "end": 1786741741,
@@ -5290,7 +5276,7 @@
    "end": 1787341621,
    "title": "Kiestu crafting all the weapons #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M4RS3I": {
    "msg": "1540086320213532713",
@@ -5325,14 +5311,14 @@
    "end": 1787342400,
    "title": "We need more Engineer Mains! | #010",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "U0Q46K": {
    "msg": "1540092735665741945",
    "end": 1787342161,
    "title": "inv clear",
    "items": 55,
-   "ended": false
+   "ended": true
   },
   "SVIDWI": {
    "msg": "1540108025656909834",
@@ -6039,6 +6025,13 @@
    "end": 1787426941,
    "title": "Hii :3 This is my eleventh raffle, wow",
    "items": 2,
+   "ended": false
+  },
+  "PCC0ZB": {
+   "msg": "1540450627656614070",
+   "end": 1787428261,
+   "title": "3 Scrap For 3 Wins",
+   "items": 3,
    "ended": false
   }
  },
