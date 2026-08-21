@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6TU8TO": {
-   "msg": "1537483136101916802",
-   "end": 1786720501,
-   "title": "my first raffle",
-   "items": 5,
-   "ended": true
-  },
   "FS8ZSB": {
    "msg": "1537491185151512608",
    "end": 1786722421,
@@ -117,20 +110,6 @@
    "end": 1786722001,
    "title": "Casual Match",
    "items": 3,
-   "ended": true
-  },
-  "L8B0RX": {
-   "msg": "1537491200918167572",
-   "end": 1786721400,
-   "title": "MK Poll #4 +  The Favorites of Music #275 & #276",
-   "items": 1,
-   "ended": true
-  },
-  "SEZCDZ": {
-   "msg": "1537491208010731591",
-   "end": 1786721221,
-   "title": "Daily Brass Beast #537",
-   "items": 1,
    "ended": true
   },
   "OVCXAN": {
@@ -5325,21 +5304,21 @@
    "end": 1787325722,
    "title": "It was worth it today!!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "K1Y3N5": {
    "msg": "1540020271472316510",
    "end": 1787325061,
    "title": "If you're wondering how to get handsome\u2122 like me, the best way is skin care.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9DXJ3W": {
    "msg": "1540020279076716654",
    "end": 1787324641,
    "title": "Day 1348 of asking for megaraffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "TN6DSZ": {
    "msg": "1540026725533224961",
@@ -6088,6 +6067,27 @@
    "end": 1787409661,
    "title": "What would you do if 30,000 shrimps invaded in your room?",
    "items": 1,
+   "ended": false
+  },
+  "SWFJP5": {
+   "msg": "1540382652782354492",
+   "end": 1787412600,
+   "title": "MK Poll #8 + The Favorites of Music #283 & #284",
+   "items": 1,
+   "ended": false
+  },
+  "Z1X7FH": {
+   "msg": "1540382661535862784",
+   "end": 1787412542,
+   "title": "the it",
+   "items": 10,
+   "ended": false
+  },
+  "MHO56E": {
+   "msg": "1540382671916761148",
+   "end": 1787410802,
+   "title": "8 mvm tours... like 12 or smth killstreak crates... and nothing...",
+   "items": 50,
    "ended": false
   }
  },
