@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "XTHMR4": {
-   "msg": "1537574195943440404",
-   "end": 1786741741,
-   "title": "+  =",
-   "items": 1,
-   "ended": true
-  },
   "FFVFP6": {
    "msg": "1537581768557990128",
    "end": 1786744261,
@@ -5304,7 +5297,7 @@
    "end": 1787346661,
    "title": "Most Joyous Daily weapons until Kiestu accidentally crafts a grabli304 Uma Musume update",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JFU5GR": {
    "msg": "1540108031910739968",
@@ -6032,6 +6025,13 @@
    "end": 1787428800,
    "title": "We need more Engineer Mains! | #011",
    "items": 6,
+   "ended": false
+  },
+  "V0ELBD": {
+   "msg": "1540469255445680259",
+   "end": 1787432400,
+   "title": "checkup #97 | things about this site",
+   "items": 1,
    "ended": false
   }
  },
