@@ -5304,7 +5304,7 @@
    "end": 1787343061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KBE7T5": {
    "msg": "1540092723682476142",
@@ -6032,6 +6032,27 @@
    "end": 1787428261,
    "title": "3 Scrap For 3 Wins",
    "items": 3,
+   "ended": false
+  },
+  "38KIZ7": {
+   "msg": "1540454290802614354",
+   "end": 1787385781,
+   "title": "Hey, that's pretty good",
+   "items": 2,
+   "ended": false
+  },
+  "MXCPT3": {
+   "msg": "1540454303116828714",
+   "end": 1787428801,
+   "title": "i think i lost a close friend of mine(first faffle btw)",
+   "items": 28,
+   "ended": false
+  },
+  "6C5OEQ": {
+   "msg": "1540454312252022895",
+   "end": 1787428800,
+   "title": "We need more Engineer Mains! | #011",
+   "items": 6,
    "ended": false
   }
  },
