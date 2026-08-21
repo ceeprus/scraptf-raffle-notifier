@@ -546,13 +546,6 @@
    "items": 1,
    "ended": true
   },
-  "TYJ67N": {
-   "msg": "1537460990889828352",
-   "end": 1786672201,
-   "title": "I Heard a  Was Running Wild.",
-   "items": 1,
-   "ended": true
-  },
   "LUFEHJ": {
    "msg": "1537460999953580163",
    "end": 1786715221,
@@ -6242,6 +6235,13 @@
    "end": 1787317382,
    "title": "hi, it's my first raffle!",
    "items": 2,
+   "ended": false
+  },
+  "IXLWB6": {
+   "msg": "1540178844609286244",
+   "end": 1787363101,
+   "title": "Battle Cats Propaganda #1376",
+   "items": 1,
    "ended": false
   }
  },
