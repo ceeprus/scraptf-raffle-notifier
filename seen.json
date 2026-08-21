@@ -413,27 +413,6 @@
    "items": 2,
    "ended": true
   },
-  "DRQIHD": {
-   "msg": "1537762918282821662",
-   "end": 1786743601,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NCNM2D": {
-   "msg": "1537762924561702912",
-   "end": 1786743362,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BTUEF9": {
-   "msg": "1537762930089795655",
-   "end": 1786743121,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "PJY7MQ": {
    "msg": "1537762936175464579",
    "end": 1786786202,
@@ -5325,7 +5304,7 @@
    "end": 1787348402,
    "title": "Auto raffle Button",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "RBNS8W": {
    "msg": "1540131329692143688",
@@ -6011,6 +5990,13 @@
    "end": 1787432400,
    "title": "checkup #97 | things about this site",
    "items": 1,
+   "ended": false
+  },
+  "8VP1I8": {
+   "msg": "1540477016200192031",
+   "end": 1787433781,
+   "title": "I got som stuff so you can have them too!",
+   "items": 41,
    "ended": false
   }
  },
