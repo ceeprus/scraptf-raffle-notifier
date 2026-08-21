@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "7V33J4": {
-   "msg": "1537536477079142441",
-   "end": 1786732861,
-   "title": "Kiestu's question regarding",
-   "items": 1,
-   "ended": true
-  },
   "H6XIJR": {
    "msg": "1537544009143291976",
    "end": 1786734661,
    "title": "MVM DROP PRICE SPREADSHEET",
    "items": 5,
-   "ended": true
-  },
-  "ZVRRJY": {
-   "msg": "1537544015870828655",
-   "end": 1786734000,
-   "title": "slugma chain raffle #6",
-   "items": 3,
    "ended": true
   },
   "U74XOU": {
@@ -5304,7 +5290,7 @@
    "end": 1787338261,
    "title": "Best half life npc winner:",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GLMU9R": {
    "msg": "1540075211657969784",
@@ -5864,7 +5850,7 @@
    "end": 1787337841,
    "title": "Second raffle, thank you for your support!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NHQ7CK": {
    "msg": "1540344942428426291",
@@ -6045,6 +6031,20 @@
    "msg": "1540426203335237743",
    "end": 1787421662,
    "title": "Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bBlog Spamton #4",
+   "items": 1,
+   "ended": false
+  },
+  "WQ3PV2": {
+   "msg": "1540435546755825664",
+   "end": 1787423882,
+   "title": "Mvm Update has a good chance of dropping soon...",
+   "items": 5,
+   "ended": false
+  },
+  "0NDBJ4": {
+   "msg": "1540435552774393887",
+   "end": 1787423461,
+   "title": "Kiestu crafting all the weapons #3",
    "items": 1,
    "ended": false
   }
