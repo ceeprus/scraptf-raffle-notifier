@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "3PJ22E": {
-   "msg": "1537425459439079434",
-   "end": 1786707362,
-   "title": "Epic man with epic face",
-   "items": 1,
-   "ended": true
-  },
   "H1RCE6": {
    "msg": "1537430805326987334",
    "end": 1786708621,
@@ -123,13 +116,6 @@
    "msg": "1537430819621175386",
    "end": 1786708442,
    "title": "Fanumstein Rizzberg",
-   "items": 1,
-   "ended": true
-  },
-  "Q88PJN": {
-   "msg": "1537430828274032741",
-   "end": 1786707961,
-   "title": "Bau! Bau!",
    "items": 1,
    "ended": true
   },
@@ -5388,7 +5374,7 @@
    "end": 1787312642,
    "title": "gift of the day #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E5X3HZ": {
    "msg": "1539964751227129957",
