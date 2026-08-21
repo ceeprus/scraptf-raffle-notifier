@@ -5731,7 +5731,7 @@
    "end": 1787317382,
    "title": "hi, it's my first raffle!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "IXLWB6": {
    "msg": "1540178844609286244",
@@ -6108,6 +6108,34 @@
    "msg": "1540344942428426291",
    "end": 1787401982,
    "title": "[!DAY 19!] Scrap tf HG",
+   "items": 1,
+   "ended": false
+  },
+  "DQ92XN": {
+   "msg": "1540351321557696624",
+   "end": 1787403841,
+   "title": "Daily Brass Beast #545",
+   "items": 1,
+   "ended": false
+  },
+  "2TWML1": {
+   "msg": "1540351327941697698",
+   "end": 1787403600,
+   "title": "The Scottish Engine That Conquered Canada - 'Dunrobin'",
+   "items": 1,
+   "ended": false
+  },
+  "DR48BD": {
+   "msg": "1540351335432458400",
+   "end": 1787403242,
+   "title": "STEAM COMMENTS TROLL #34",
+   "items": 1,
+   "ended": false
+  },
+  "LBQUAV": {
+   "msg": "1540351343573606523",
+   "end": 1787403181,
+   "title": "gift of the day #4",
    "items": 1,
    "ended": false
   }
