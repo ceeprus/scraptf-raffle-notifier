@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "EJMV8F": {
-   "msg": "1537347714805932062",
-   "end": 1786688221,
-   "title": "SLOP RAFFLE!!",
-   "items": 1,
-   "ended": true
-  },
-  "6CTTHB": {
-   "msg": "1537347722036650036",
-   "end": 1786688101,
-   "title": "Animal Friends",
-   "items": 2,
-   "ended": true
-  },
-  "NB4VLE": {
-   "msg": "1537347728248537149",
-   "end": 1786687922,
-   "title": "noise?",
-   "items": 2,
-   "ended": true
-  },
-  "Y85U68": {
-   "msg": "1537347735055761448",
-   "end": 1786687682,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0WQIHD": {
-   "msg": "1537347740600766545",
-   "end": 1786687262,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "P81L9V": {
    "msg": "1537354169743052850",
    "end": 1786690082,
@@ -165,13 +130,6 @@
    "msg": "1537354198050410526",
    "end": 1786689661,
    "title": "EVIL and MESSED UP noise maker SLOP raffle",
-   "items": 1,
-   "ended": true
-  },
-  "8RYXVP": {
-   "msg": "1537354204220366898",
-   "end": 1786688761,
-   "title": "noiseslop!!!!",
    "items": 1,
    "ended": true
   },
@@ -6291,6 +6249,13 @@
    "end": 1787374321,
    "title": "First Question",
    "items": 2,
+   "ended": false
+  },
+  "R8E05P": {
+   "msg": "1540246741683667025",
+   "end": 1787379482,
+   "title": ":bap Birthday #1",
+   "items": 1,
    "ended": false
   }
  },
