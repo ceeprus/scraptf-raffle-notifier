@@ -119,20 +119,6 @@
    "items": 1,
    "ended": true
   },
-  "8UB0LO": {
-   "msg": "1537596902827364522",
-   "end": 1786747381,
-   "title": "Equestria Forever",
-   "items": 53,
-   "ended": true
-  },
-  "TYT0Z9": {
-   "msg": "1537596910238564403",
-   "end": 1786747082,
-   "title": "opened some EVEN EVEN more spooky boxes",
-   "items": 49,
-   "ended": true
-  },
   "DBS5TY": {
    "msg": "1537604407557099653",
    "end": 1786748701,
@@ -5283,14 +5269,14 @@
    "end": 1787352001,
    "title": "5000+ Casual Games",
    "items": 33,
-   "ended": false
+   "ended": true
   },
   "DJQEL1": {
    "msg": "1540131336738570295",
    "end": 1787351461,
    "title": "Honesty",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E5HCFC": {
    "msg": "1540133553222717462",
@@ -5997,6 +5983,20 @@
    "end": 1787393101,
    "title": "week of rainblower!",
    "items": 1,
+   "ended": false
+  },
+  "5O6FIP": {
+   "msg": "1540492614065856522",
+   "end": 1787438054,
+   "title": "Best K-pop songs #2 (in my opinion and in no order)",
+   "items": 3,
+   "ended": false
+  },
+  "HDXI3G": {
+   "msg": "1540492620273557614",
+   "end": 1787438049,
+   "title": "Best K-pop songs #1 (in my opinion and in no order)",
+   "items": 3,
    "ended": false
   }
  },
