@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "C64SHI": {
-   "msg": "1537414029616877609",
-   "end": 1786704241,
-   "title": "#SlugmaSweep",
-   "items": 1,
-   "ended": true
-  },
-  "FTOIIH": {
-   "msg": "1537414036549804032",
-   "end": 1786704121,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
   "TRTSQ7": {
    "msg": "1537423236373942294",
    "end": 1786706761,
@@ -5402,14 +5388,14 @@
    "end": 1787309642,
    "title": "Mandatory Scrap.tf day raffle\u2122",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "2CAGY1": {
    "msg": "1539952367850758216",
    "end": 1787309521,
    "title": "I'll try MvM again today",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "DFKSA9": {
    "msg": "1539957851043405945",
@@ -6179,6 +6165,20 @@
    "end": 1787392800,
    "title": "Gifted Cozy Camper #3",
    "items": 1,
+   "ended": false
+  },
+  "A9NK9R": {
+   "msg": "1540314087416660009",
+   "end": 1787395621,
+   "title": "Most Joyous Friday To You",
+   "items": 1,
+   "ended": false
+  },
+  "UZJ6SD": {
+   "msg": "1540314094467289098",
+   "end": 1787395441,
+   "title": "Grabli304's raffle\u2503Day 173",
+   "items": 2,
    "ended": false
   }
  },
