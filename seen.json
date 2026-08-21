@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "4J28GQ": {
-   "msg": "1537438302058184796",
-   "end": 1786710302,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "RQEVYK": {
-   "msg": "1537438309213675644",
-   "end": 1786710121,
-   "title": "Pew pew",
-   "items": 1,
-   "ended": true
-  },
-  "OJRDNH": {
-   "msg": "1537438316230869032",
-   "end": 1786709762,
-   "title": "Hii :3     This is my seventh raffle, wow",
-   "items": 3,
-   "ended": true
-  },
-  "FHZ8LF": {
-   "msg": "1537438323583221920",
-   "end": 1786709582,
-   "title": "Well, you can tell by the way I use my walk",
-   "items": 1,
-   "ended": true
-  },
   "Q8UGTE": {
    "msg": "1537453410888978543",
    "end": 1786712400,
@@ -460,13 +432,6 @@
    "end": 1786752781,
    "title": "Who's your favorite UFC fighter that never became the undisputed champ?",
    "items": 3,
-   "ended": true
-  },
-  "QELG8V": {
-   "msg": "1537619500529094758",
-   "end": 1786709461,
-   "title": "First raffle",
-   "items": 4,
    "ended": true
   },
   "L18Z6W": {
@@ -5367,14 +5332,14 @@
    "end": 1787314141,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HM3V0G": {
    "msg": "1539974534508183562",
    "end": 1787313722,
    "title": "Hello",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "JAIGP8": {
    "msg": "1539982551354052681",
@@ -6115,6 +6080,27 @@
    "msg": "1540320787234553897",
    "end": 1787396400,
    "title": "So that means...everyday is bad!",
+   "items": 1,
+   "ended": false
+  },
+  "G6RD6A": {
+   "msg": "1540336763720048693",
+   "end": 1787401141,
+   "title": "lets be friends",
+   "items": 1,
+   "ended": false
+  },
+  "3JLV1O": {
+   "msg": "1540336770120556684",
+   "end": 1787400241,
+   "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "QV91SZ": {
+   "msg": "1540336775816421437",
+   "end": 1787400000,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
