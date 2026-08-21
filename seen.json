@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "8V16U4": {
-   "msg": "1537408111340691516",
-   "end": 1786702981,
-   "title": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0432\u0441\u0435\u043c \u0437\u0430\u0439\u043a\u0438 \u044d\u0442\u043e \u043c\u043e\u044f 1 \u043b\u043e\u0442\u0435\u0440\u0435\u044f",
-   "items": 2,
-   "ended": true
-  },
-  "TMXBY3": {
-   "msg": "1537408119720910918",
-   "end": 1786702381,
-   "title": "ITS ALMOT MY ANINVERSARY FOR TF2",
-   "items": 10,
-   "ended": true
-  },
   "C64SHI": {
    "msg": "1537414029616877609",
    "end": 1786704241,
@@ -124,20 +110,6 @@
    "end": 1786704121,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": true
-  },
-  "O3S5NQ": {
-   "msg": "1537414045106438164",
-   "end": 1786703281,
-   "title": "But first a quick message from our sponsor,",
-   "items": 1,
-   "ended": true
-  },
-  "R1M0O9": {
-   "msg": "1537414052593008690",
-   "end": 1786703101,
-   "title": "Comrade Joker presents you with a hand",
-   "items": 8,
    "ended": true
   },
   "TRTSQ7": {
@@ -5409,7 +5381,7 @@
    "end": 1787307781,
    "title": "Grabli304's raffle\u2503Day 172",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QOJOSF": {
    "msg": "1539944165930963064",
@@ -5423,7 +5395,7 @@
    "end": 1787308081,
    "title": "Some facts about me",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I4T154": {
    "msg": "1539952360867237971",
@@ -5990,7 +5962,7 @@
    "end": 1787307122,
    "title": "I have a dream, the Australium Ambassador",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GG8KVV": {
    "msg": "1540216571274858567",
@@ -6171,6 +6143,41 @@
    "msg": "1540299021183352854",
    "end": 1787390761,
    "title": "Question",
+   "items": 1,
+   "ended": false
+  },
+  "W49BK0": {
+   "msg": "1540306957800316959",
+   "end": 1787393462,
+   "title": "All We Are",
+   "items": 1,
+   "ended": false
+  },
+  "5LAIZD": {
+   "msg": "1540306964137902140",
+   "end": 1787393282,
+   "title": "#SlugmaShiny",
+   "items": 1,
+   "ended": false
+  },
+  "MELX7Z": {
+   "msg": "1540306970710642789",
+   "end": 1787393221,
+   "title": "r u ready...................",
+   "items": 1,
+   "ended": false
+  },
+  "O72IPU": {
+   "msg": "1540306977874509865",
+   "end": 1787392861,
+   "title": "It's me, Gordon! Leonard from middle school!\ud83c\udf0a\ud83d\udc1f",
+   "items": 2,
+   "ended": false
+  },
+  "A5QH3T": {
+   "msg": "1540306984400719922",
+   "end": 1787392800,
+   "title": "Gifted Cozy Camper #3",
    "items": 1,
    "ended": false
   }
