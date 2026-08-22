@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "RXDH0M": {
-   "msg": "1537966746580033616",
-   "end": 1786835581,
-   "title": "Power Scale  #8",
-   "items": 50,
-   "ended": true
-  },
   "L0V2QI": {
    "msg": "1537970164669222943",
    "end": 1786837081,
@@ -5919,6 +5912,20 @@
    "msg": "1540861221861855344",
    "end": 1787526061,
    "title": "Rambling of a loonatic",
+   "items": 1,
+   "ended": false
+  },
+  "VCII6L": {
+   "msg": "1540865820484440246",
+   "end": 1787527141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Z44FHS": {
+   "msg": "1540865828050837534",
+   "end": 1787527081,
+   "title": "My grandmother burned down her summer cottage.",
    "items": 1,
    "ended": false
   }
