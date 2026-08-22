@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "U3E7Z2": {
-   "msg": "1537619494229254194",
-   "end": 1786752781,
-   "title": "Who's your favorite UFC fighter that never became the undisputed champ?",
-   "items": 3,
-   "ended": true
-  },
   "L18Z6W": {
    "msg": "1537627092995407922",
    "end": 1786755062,
@@ -665,13 +658,6 @@
    "items": 14,
    "ended": true
   },
-  "DWU119": {
-   "msg": "1537951640470949998",
-   "end": 1786752601,
-   "title": "i dont know i felt like making a raffle lol",
-   "items": 44,
-   "ended": true
-  },
   "6LZMFC": {
    "msg": "1537951649853874228",
    "end": 1786831621,
@@ -705,13 +691,6 @@
    "end": 1786837081,
    "title": "333,333 Vaccinator Milestone Giveaway! (1 of 3)",
    "items": 18,
-   "ended": true
-  },
-  "BU2X1Y": {
-   "msg": "1537970181995892766",
-   "end": 1786752061,
-   "title": "\ud83d\udc9aTake away my noisemakers#6\ud83d\udc9a",
-   "items": 50,
    "ended": true
   },
   "K9P8VC": {
@@ -5248,14 +5227,14 @@
    "end": 1787358361,
    "title": "Hale's Own Trials: Persian Persuader: Day 9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TTYYVM": {
    "msg": "1540156177801936978",
    "end": 1787358242,
    "title": "Easy Extras",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "U3PCHY": {
    "msg": "1540160214769209436",
@@ -5983,6 +5962,20 @@
    "end": 1787439600,
    "title": "A  a day",
    "items": 1,
+   "ended": false
+  },
+  "7LR6EA": {
+   "msg": "1540518545744732290",
+   "end": 1787444701,
+   "title": "noise 407",
+   "items": 1,
+   "ended": false
+  },
+  "X0IVKY": {
+   "msg": "1540518554233733153",
+   "end": 1787400421,
+   "title": "First raffle kind of nervous",
+   "items": 11,
    "ended": false
   }
  },
