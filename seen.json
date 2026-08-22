@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "E8IW77": {
-   "msg": "1537898812230860873",
-   "end": 1786819382,
-   "title": "A sandvich a day keeps the doctor gay #69",
-   "items": 1,
-   "ended": true
-  },
   "FJNJCO": {
    "msg": "1537913914942296095",
    "end": 1786824000,
@@ -5332,14 +5325,14 @@
    "end": 1787423882,
    "title": "Mvm Update has a good chance of dropping soon...",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "0NDBJ4": {
    "msg": "1540435552774393887",
    "end": 1787423461,
    "title": "Kiestu crafting all the weapons #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EPFLO5": {
    "msg": "1540443052634546358",
@@ -5947,6 +5940,20 @@
    "msg": "1540786696503697500",
    "end": 1787508000,
    "title": "How to be better as a person",
+   "items": 1,
+   "ended": false
+  },
+  "1R8PVQ": {
+   "msg": "1540796525092020265",
+   "end": 1787509561,
+   "title": "Special Delivery",
+   "items": 20,
+   "ended": false
+  },
+  "QFLV7F": {
+   "msg": "1540796532373192724",
+   "end": 1787509442,
+   "title": "Yummers",
    "items": 1,
    "ended": false
   }
