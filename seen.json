@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "JWHF7C": {
-   "msg": "1537962345978929232",
-   "end": 1786834800,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "RXDH0M": {
    "msg": "1537966746580033616",
    "end": 1786835581,
@@ -5297,14 +5290,14 @@
    "end": 1787439121,
    "title": "Best Portal npc winner:",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "JPCG1N": {
    "msg": "1540495941981966397",
    "end": 1787439061,
    "title": "INVASION! (Full Length SFM Project)",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "AISCCC": {
    "msg": "1540495949539840082",
@@ -5318,14 +5311,14 @@
    "end": 1787439601,
    "title": "I won my first raffle!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "JVJ8HY": {
    "msg": "1540499538035478618",
    "end": 1787439600,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7LR6EA": {
    "msg": "1540518545744732290",
@@ -5899,6 +5892,27 @@
    "end": 1787523961,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "IWCLYT": {
+   "msg": "1540858314479509514",
+   "end": 1787526000,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "EQ8DW3": {
+   "msg": "1540858322926833715",
+   "end": 1787482441,
+   "title": "Tune of the day #317",
+   "items": 1,
+   "ended": false
+  },
+  "0RK3TJ": {
+   "msg": "1540858329704833134",
+   "end": 1787481961,
+   "title": "I am MilkManFromMars",
+   "items": 5,
    "ended": false
   }
  },
