@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "VAADO5": {
-   "msg": "1537778029034737695",
-   "end": 1786791600,
-   "title": "That beagle thinks he's so high and mighty!",
-   "items": 1,
-   "ended": true
-  },
-  "9V8BMO": {
-   "msg": "1537778035485442098",
-   "end": 1786791422,
-   "title": "Where is Sandvich?",
-   "items": 8,
-   "ended": true
-  },
-  "MXG9JU": {
-   "msg": "1537778043857412186",
-   "end": 1786791361,
-   "title": "Hi guys i need your help!",
-   "items": 2,
-   "ended": true
-  },
   "0N4GFN": {
    "msg": "1537800632860409867",
    "end": 1786795681,
@@ -5304,7 +5283,7 @@
    "end": 1787395621,
    "title": "Most Joyous Friday To You",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UZJ6SD": {
    "msg": "1540314094467289098",
@@ -5318,7 +5297,7 @@
    "end": 1787396400,
    "title": "So that means...everyday is bad!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G6RD6A": {
    "msg": "1540336763720048693",
@@ -5885,6 +5864,34 @@
    "end": 1787478841,
    "title": "Second Question",
    "items": 2,
+   "ended": false
+  },
+  "DHDTY7": {
+   "msg": "1540677120622334012",
+   "end": 1787482800,
+   "title": "Such form!",
+   "items": 1,
+   "ended": false
+  },
+  "0EGN6Z": {
+   "msg": "1540677128444448778",
+   "end": 1787482441,
+   "title": "second raffle and it's double the size",
+   "items": 2,
+   "ended": false
+  },
+  "A2IP3H": {
+   "msg": "1540677134949814292",
+   "end": 1787481662,
+   "title": "Grooviest Tracks #794",
+   "items": 2,
+   "ended": false
+  },
+  "1UA698": {
+   "msg": "1540677142029795349",
+   "end": 1787481601,
+   "title": "The pass it forward raffle! (#16)",
+   "items": 5,
    "ended": false
   }
  },
