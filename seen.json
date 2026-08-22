@@ -98,32 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "ZD7NMF": {
-   "msg": "1537947279267467394",
-   "end": 1786831501,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "7UWAEO": {
-   "msg": "1537947286666092566",
-   "end": 1786831381,
-   "title": "I thought",
-   "items": 1,
-   "ended": true
-  },
   "6WTP3E": {
    "msg": "1537951629733793895",
    "end": 1786832162,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1505 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 14,
-   "ended": true
-  },
-  "6LZMFC": {
-   "msg": "1537951649853874228",
-   "end": 1786831621,
-   "title": "Some good music recommendation",
-   "items": 10,
    "ended": true
   },
   "JWHF7C": {
@@ -5290,14 +5269,14 @@
    "end": 1787436579,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NRBMB3": {
    "msg": "1540488343064813621",
    "end": 1787436481,
    "title": "The Pain Train has no brakes",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "J8SOCX": {
    "msg": "1540488349184172062",
