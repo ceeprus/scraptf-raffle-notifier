@@ -378,13 +378,6 @@
    "items": 1,
    "ended": true
   },
-  "94ORUM": {
-   "msg": "1537933081107890217",
-   "end": 1786784400,
-   "title": "[DAY 11] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "N5E2SK": {
    "msg": "1537933088531685459",
    "end": 1786827481,
@@ -5290,7 +5283,7 @@
    "end": 1787389021,
    "title": "Hey, so...",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "KY72P8": {
    "msg": "1540299021183352854",
