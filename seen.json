@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "11M2H7": {
-   "msg": "1537856356256579596",
-   "end": 1786809902,
-   "title": "Daily Kit Fabricator #6",
-   "items": 1,
-   "ended": true
-  },
   "I21MKH": {
    "msg": "1537868651326214164",
    "end": 1786811162,
@@ -5353,7 +5346,7 @@
    "end": 1787415001,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T9IVDZ": {
    "msg": "1540405052420657313",
@@ -5934,6 +5927,34 @@
    "end": 1787499241,
    "title": "hello everyone",
    "items": 1,
+   "ended": false
+  },
+  "37R93U": {
+   "msg": "1540755776589799506",
+   "end": 1787501401,
+   "title": "I hate my immune system",
+   "items": 1,
+   "ended": false
+  },
+  "MZURO6": {
+   "msg": "1540755784806178867",
+   "end": 1787501341,
+   "title": "I Drew Ts 24",
+   "items": 1,
+   "ended": false
+  },
+  "EBJYUD": {
+   "msg": "1540755793710940220",
+   "end": 1787501041,
+   "title": "Untitled raffle",
+   "items": 4,
+   "ended": false
+  },
+  "ZERYCE": {
+   "msg": "1540755801751429272",
+   "end": 1787416322,
+   "title": "Untitled raffle",
+   "items": 40,
    "ended": false
   }
  },
