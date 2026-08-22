@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "EYOGY0": {
-   "msg": "1537762911907217428",
-   "end": 1786787581,
-   "title": "Grabli304's raffle\u2503Day 166",
-   "items": 2,
-   "ended": true
-  },
-  "CBKE9M": {
-   "msg": "1537770450640183306",
-   "end": 1786788000,
-   "title": "Gifted Blutsauger",
-   "items": 1,
-   "ended": true
-  },
   "VAADO5": {
    "msg": "1537778029034737695",
    "end": 1786791600,
@@ -5311,7 +5297,7 @@
    "end": 1787392800,
    "title": "Gifted Cozy Camper #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A9NK9R": {
    "msg": "1540314087416660009",
@@ -5885,6 +5871,20 @@
    "end": 1787473321,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #6",
    "items": 1,
+   "ended": false
+  },
+  "DU4SPN": {
+   "msg": "1540662016321257606",
+   "end": 1787478901,
+   "title": "Practical tips for a better mindset",
+   "items": 1,
+   "ended": false
+  },
+  "JUE12P": {
+   "msg": "1540662024374067296",
+   "end": 1787478841,
+   "title": "Second Question",
+   "items": 2,
    "ended": false
   }
  },
