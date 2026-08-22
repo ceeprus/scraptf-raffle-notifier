@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YGYET2": {
-   "msg": "1537672366769971210",
-   "end": 1786765562,
-   "title": "Christmas is coming!!",
-   "items": 3,
-   "ended": true
-  },
   "H9C9L9": {
    "msg": "1537679842160541758",
    "end": 1786767481,
@@ -5255,14 +5248,14 @@
    "end": 1787371200,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1512 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "K6UH1B": {
    "msg": "1540209047075164240",
    "end": 1787371080,
    "title": "Unraveling Threads",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SZFVHP": {
    "msg": "1540209053794443296",
@@ -5276,7 +5269,7 @@
    "end": 1787369941,
    "title": "Stuff i found on the internet",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "A1Z66L": {
    "msg": "1540216547451346956",
@@ -5668,7 +5661,7 @@
    "end": 1787370362,
    "title": "question",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "O5FLL9": {
    "msg": "1540390255910199296",
@@ -5927,6 +5920,27 @@
    "end": 1787454601,
    "title": "day one of trying to get a heavy lifer",
    "items": 1,
+   "ended": false
+  },
+  "GQ778H": {
+   "msg": "1540571429286846505",
+   "end": 1787457000,
+   "title": "Personal Recording",
+   "items": 1,
+   "ended": false
+  },
+  "IDGJ7Y": {
+   "msg": "1540571438816428082",
+   "end": 1787391721,
+   "title": "week of rainblower! + bonus",
+   "items": 3,
+   "ended": false
+  },
+  "R1OUX4": {
+   "msg": "1540571449964761168",
+   "end": 1787456161,
+   "title": "Please sign the waiver.",
+   "items": 50,
    "ended": false
   }
  },
