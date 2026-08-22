@@ -105,20 +105,6 @@
    "items": 2,
    "ended": true
   },
-  "3PDAER": {
-   "msg": "1537874516334739506",
-   "end": 1786813200,
-   "title": "Daily raffle until TF2 gets a major update #591",
-   "items": 3,
-   "ended": true
-  },
-  "23AO97": {
-   "msg": "1537874522735382613",
-   "end": 1786813200,
-   "title": "Hear me out",
-   "items": 1,
-   "ended": true
-  },
   "LB9B4D": {
    "msg": "1537876166487187526",
    "end": 1786814701,
@@ -5374,21 +5360,21 @@
    "end": 1787418000,
    "title": "Daily raffle until TF2 gets a major update #598",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "FZP9X9": {
    "msg": "1540412872088354926",
    "end": 1787418000,
    "title": "Guys",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "DJSJ7B": {
    "msg": "1540412879696560128",
    "end": 1787417821,
    "title": "awawawawa",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IXS2M3": {
    "msg": "1540426197341839380",
@@ -5955,6 +5941,13 @@
    "end": 1787503021,
    "title": "Scrap.tf Birthdays - 22 August",
    "items": 3,
+   "ended": false
+  },
+  "VDKDI6": {
+   "msg": "1540767718456954884",
+   "end": 1787503681,
+   "title": "the spire.",
+   "items": 1,
    "ended": false
   }
  },
