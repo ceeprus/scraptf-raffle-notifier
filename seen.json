@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "SAEQXR": {
-   "msg": "1537933072916553880",
-   "end": 1786827600,
-   "title": "checkup #90 |",
-   "items": 1,
-   "ended": true
-  },
-  "N5E2SK": {
-   "msg": "1537933088531685459",
-   "end": 1786827481,
-   "title": "Daily Brass Beast #538",
-   "items": 1,
-   "ended": true
-  },
   "HIKITW": {
    "msg": "1537936530696314930",
    "end": 1786828921,
@@ -578,13 +564,6 @@
    "msg": "1538203483210260611",
    "end": 1786892701,
    "title": "medigun scavengr hunt",
-   "items": 1,
-   "ended": true
-  },
-  "A48D8S": {
-   "msg": "1538203498561146952",
-   "end": 1786827421,
-   "title": "Update on the \"Free CS2 Stickers\" raffle",
    "items": 1,
    "ended": true
   },
@@ -5311,7 +5290,7 @@
    "end": 1787432400,
    "title": "checkup #97 | things about this site",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8VP1I8": {
    "msg": "1540477016200192031",
@@ -5920,6 +5899,27 @@
    "end": 1787451002,
    "title": "enginoor",
    "items": 2,
+   "ended": false
+  },
+  "27RQVU": {
+   "msg": "1540828117076156578",
+   "end": 1787518321,
+   "title": "Clearing Inventory 'cause of my Free Space Dilemma: The Raffle",
+   "items": 5,
+   "ended": false
+  },
+  "TO4EA7": {
+   "msg": "1540828124365979679",
+   "end": 1787518081,
+   "title": "Daily Brass Beast #546",
+   "items": 1,
+   "ended": false
+  },
+  "KETG87": {
+   "msg": "1540828132075114496",
+   "end": 1787474761,
+   "title": "week of rainblower!",
+   "items": 1,
    "ended": false
   }
  },
