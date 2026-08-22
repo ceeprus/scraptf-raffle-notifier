@@ -105,13 +105,6 @@
    "items": 2,
    "ended": true
   },
-  "PJY7MQ": {
-   "msg": "1537762936175464579",
-   "end": 1786786202,
-   "title": "Slugma_Art69",
-   "items": 1,
-   "ended": true
-  },
   "CBKE9M": {
    "msg": "1537770450640183306",
    "end": 1786788000,
@@ -5283,7 +5276,7 @@
    "end": 1787390761,
    "title": "Question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W49BK0": {
    "msg": "1540306957800316959",
