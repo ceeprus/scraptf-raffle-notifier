@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "5OW0U3": {
-   "msg": "1537627099299324046",
-   "end": 1786754461,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
-  "TAEQFC": {
-   "msg": "1537627105268080691",
-   "end": 1786753921,
-   "title": "I am bad with titles #143",
-   "items": 1,
-   "ended": true
-  },
   "BFFJ3W": {
    "msg": "1537629542041128962",
    "end": 1786755600,
@@ -5241,7 +5227,7 @@
    "end": 1787359021,
    "title": "MvM Update Australium Vote Part 9: Pyro Melees",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "0LIQRU": {
    "msg": "1540171254223478924",
