@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "I21MKH": {
-   "msg": "1537868651326214164",
-   "end": 1786811162,
-   "title": "Giving back because I have been lucky on here recently",
-   "items": 35,
-   "ended": true
-  },
   "2HG31Z": {
    "msg": "1537874509443375114",
    "end": 1786813621,
@@ -5360,14 +5353,14 @@
    "end": 1787416200,
    "title": "VN devlog #48",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PU6DL5": {
    "msg": "1540405065477652510",
    "end": 1787415782,
    "title": "Scrap.tf Birthdays - 21 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "U46TME": {
    "msg": "1540412852106690721",
