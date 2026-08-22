@@ -5290,7 +5290,7 @@
    "end": 1787403841,
    "title": "Daily Brass Beast #545",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2TWML1": {
    "msg": "1540351327941697698",
@@ -5899,6 +5899,20 @@
    "end": 1787488622,
    "title": "Chuck E. Cheese",
    "items": 2,
+   "ended": false
+  },
+  "Y7F0HR": {
+   "msg": "1540708954105974897",
+   "end": 1787490000,
+   "title": "Making the DENSEST sandwich with a HYDRAULIC PRESS",
+   "items": 2,
+   "ended": false
+  },
+  "0UYBRE": {
+   "msg": "1540708961139957852",
+   "end": 1787489941,
+   "title": "gift of the day #5",
+   "items": 1,
    "ended": false
   }
  },
