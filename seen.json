@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "0N4GFN": {
-   "msg": "1537800632860409867",
-   "end": 1786795681,
-   "title": "Hii :3     This is my eighth raffle, wow",
-   "items": 2,
-   "ended": true
-  },
-  "WZYG1X": {
-   "msg": "1537800644331839560",
-   "end": 1786795561,
-   "title": "Untitled raffle",
-   "items": 40,
-   "ended": true
-  },
-  "M3LB1Z": {
-   "msg": "1537800653466894407",
-   "end": 1786795261,
-   "title": "i can't think of a title for this raffle 25\u2122",
-   "items": 2,
-   "ended": true
-  },
   "0SZF07": {
    "msg": "1537803832480768050",
    "end": 1786797001,
@@ -5283,14 +5262,14 @@
    "end": 1787401141,
    "title": "lets be friends",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3JLV1O": {
    "msg": "1540336770120556684",
    "end": 1787400241,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QV91SZ": {
    "msg": "1540336775816421437",
@@ -5654,7 +5633,7 @@
    "end": 1787400421,
    "title": "First raffle kind of nervous",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "8B7TRD": {
    "msg": "1540556316681179156",
@@ -5891,6 +5870,13 @@
    "msg": "1540692226571771988",
    "end": 1787485801,
    "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "AZQIBW": {
+   "msg": "1540697224823054416",
+   "end": 1787486400,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
