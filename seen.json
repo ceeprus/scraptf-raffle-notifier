@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MMDEZH": {
-   "msg": "1537845921621082217",
-   "end": 1786807801,
-   "title": "[air]",
-   "items": 1,
-   "ended": true
-  },
   "SYTCHF": {
    "msg": "1537853522341658694",
    "end": 1786809600,
@@ -5332,14 +5325,14 @@
    "end": 1787412600,
    "title": "MK Poll #8 + The Favorites of Music #283 & #284",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z1X7FH": {
    "msg": "1540382661535862784",
    "end": 1787412542,
    "title": "the it",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "MHO56E": {
    "msg": "1540382671916761148",
@@ -5927,6 +5920,13 @@
    "end": 1787451302,
    "title": "My first raffle ever",
    "items": 20,
+   "ended": false
+  },
+  "UXLIYW": {
+   "msg": "1540745026903085058",
+   "end": 1787498341,
+   "title": "one of these things is not like the others",
+   "items": 100,
    "ended": false
   }
  },
