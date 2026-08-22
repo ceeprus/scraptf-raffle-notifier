@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "C0JG9I": {
-   "msg": "1537891225322131607",
-   "end": 1786817401,
-   "title": "just some random things",
-   "items": 6,
-   "ended": true
-  },
-  "0TFSAU": {
-   "msg": "1537891232435671154",
-   "end": 1786817281,
-   "title": "Bau! Bau!",
-   "items": 1,
-   "ended": true
-  },
   "E8IW77": {
    "msg": "1537898812230860873",
    "end": 1786819382,
@@ -425,13 +411,6 @@
    "end": 1786858142,
    "title": "Day 8 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": true
-  },
-  "RQ9W1M": {
-   "msg": "1538070147128885258",
-   "end": 1786817461,
-   "title": "Raffling Scrap Till I'm Out #1004 (Late raffle)",
-   "items": 1,
    "ended": true
   },
   "34SU9R": {
@@ -5346,7 +5325,7 @@
    "end": 1787421662,
    "title": "Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bBlog Spamton #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WQ3PV2": {
    "msg": "1540435546755825664",
@@ -5947,6 +5926,27 @@
    "msg": "1540778431824793712",
    "end": 1787506141,
    "title": "Kiestu crafting ALL the weapons.",
+   "items": 1,
+   "ended": false
+  },
+  "UO5T8B": {
+   "msg": "1540786679839854625",
+   "end": 1787508481,
+   "title": "Take my items #40",
+   "items": 5,
+   "ended": false
+  },
+  "QTN7MB": {
+   "msg": "1540786688262152243",
+   "end": 1787508061,
+   "title": "Why is every hat I try to sell is labeled as \"overstocked\"?",
+   "items": 1,
+   "ended": false
+  },
+  "ORDF84": {
+   "msg": "1540786696503697500",
+   "end": 1787508000,
+   "title": "How to be better as a person",
    "items": 1,
    "ended": false
   }
