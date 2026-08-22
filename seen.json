@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "HTXVSO": {
-   "msg": "1537883727521255454",
-   "end": 1786815301,
-   "title": "#SlugmaSweep",
-   "items": 1,
-   "ended": true
-  },
   "C0JG9I": {
    "msg": "1537891225322131607",
    "end": 1786817401,
@@ -5598,7 +5591,7 @@
    "end": 1787419861,
    "title": "Raffling Scrap Till I'm Out #1011 (Late raffle)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IFRY9K": {
    "msg": "1540601622944686112",
@@ -5947,6 +5940,20 @@
    "msg": "1540775224285339779",
    "end": 1787505781,
    "title": "i can't think of a title for this raffle 29\u2122",
+   "items": 1,
+   "ended": false
+  },
+  "F86UE9": {
+   "msg": "1540778424094822400",
+   "end": 1787506501,
+   "title": "I wonder how many times I've managed to break the rules so far.",
+   "items": 4,
+   "ended": false
+  },
+  "ZMIN9D": {
+   "msg": "1540778431824793712",
+   "end": 1787506141,
+   "title": "Kiestu crafting ALL the weapons.",
    "items": 1,
    "ended": false
   }
