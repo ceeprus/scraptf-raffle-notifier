@@ -378,13 +378,6 @@
    "items": 1,
    "ended": true
   },
-  "B4PZZ9": {
-   "msg": "1537966735452414004",
-   "end": 1786792981,
-   "title": "First Raffle!!!",
-   "items": 2,
-   "ended": true
-  },
   "RXDH0M": {
    "msg": "1537966746580033616",
    "end": 1786835581,
@@ -5898,6 +5891,13 @@
    "msg": "1540680168769851524",
    "end": 1787483282,
    "title": "Grabli304's raffle\u2503Day 174",
+   "items": 2,
+   "ended": false
+  },
+  "CESOVB": {
+   "msg": "1540684633954324531",
+   "end": 1787484121,
+   "title": "What did I miss?",
    "items": 2,
    "ended": false
   }
