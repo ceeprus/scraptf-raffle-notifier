@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "X8LO9G": {
-   "msg": "1537740237789200434",
-   "end": 1786781761,
-   "title": "Just got the schadenfreude taunt today !",
-   "items": 3,
-   "ended": true
-  },
   "58ELSC": {
    "msg": "1537747827952848976",
    "end": 1786782541,
@@ -369,13 +362,6 @@
    "end": 1786824901,
    "title": "mvm amirite",
    "items": 2,
-   "ended": true
-  },
-  "M0KDSG": {
-   "msg": "1537921453297762365",
-   "end": 1786781641,
-   "title": "More",
-   "items": 1,
    "ended": true
   },
   "ATUFU6": {
@@ -5647,7 +5633,7 @@
    "end": 1787385781,
    "title": "Hey, that's pretty good",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "MXCPT3": {
    "msg": "1540454303116828714",
