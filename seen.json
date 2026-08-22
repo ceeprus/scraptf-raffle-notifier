@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "2HG31Z": {
-   "msg": "1537874509443375114",
-   "end": 1786813621,
-   "title": "Bison",
-   "items": 2,
-   "ended": true
-  },
   "LB9B4D": {
    "msg": "1537876166487187526",
    "end": 1786814701,
@@ -5948,6 +5941,27 @@
    "end": 1787503681,
    "title": "the spire.",
    "items": 1,
+   "ended": false
+  },
+  "5APZYL": {
+   "msg": "1540770793355485194",
+   "end": 1787504581,
+   "title": "Your weekly non-official Scrap.tf news. [Week 234]",
+   "items": 4,
+   "ended": false
+  },
+  "I1WSYC": {
+   "msg": "1540770802700390450",
+   "end": 1787461261,
+   "title": "Slugpology for the delays.",
+   "items": 10,
+   "ended": false
+  },
+  "8Y5ZZL": {
+   "msg": "1540770811806224486",
+   "end": 1787504400,
+   "title": "Daily raffle until TF2 gets a major update #599",
+   "items": 3,
    "ended": false
   }
  },
