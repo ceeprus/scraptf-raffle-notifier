@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FJNJCO": {
-   "msg": "1537913914942296095",
-   "end": 1786824000,
-   "title": "Equestria 4ever",
-   "items": 54,
-   "ended": true
-  },
-  "7GGULP": {
-   "msg": "1537913922068418560",
-   "end": 1786824000,
-   "title": "We need more Engineer Mains! | #004",
-   "items": 6,
-   "ended": true
-  },
-  "SYS0FT": {
-   "msg": "1537913929332695060",
-   "end": 1786823581,
-   "title": "Does anyone want to trade for my unwanted engineer hat for 3 refined metal i really need the  urgently",
-   "items": 1,
-   "ended": true
-  },
   "E2OHMX": {
    "msg": "1537921446960038019",
    "end": 1786824901,
@@ -410,13 +389,6 @@
    "msg": "1538092450260848721",
    "end": 1786866061,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #73 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "2Z12SF": {
-   "msg": "1538095103011192893",
-   "end": 1786824000,
-   "title": "[Fallen Tributes/Night 11] Scrap tf HG",
    "items": 1,
    "ended": true
   },
@@ -5339,7 +5311,7 @@
    "end": 1787428261,
    "title": "3 Scrap For 3 Wins",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "38KIZ7": {
    "msg": "1540454290802614354",
@@ -5353,14 +5325,14 @@
    "end": 1787428801,
    "title": "i think i lost a close friend of mine(first faffle btw)",
    "items": 28,
-   "ended": false
+   "ended": true
   },
   "6C5OEQ": {
    "msg": "1540454312252022895",
    "end": 1787428800,
    "title": "We need more Engineer Mains! | #011",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "V0ELBD": {
    "msg": "1540469255445680259",
@@ -5948,6 +5920,27 @@
    "end": 1787511302,
    "title": "I CAST KINDNESS UPON THEE THREE",
    "items": 13,
+   "ended": false
+  },
+  "AW5G0O": {
+   "msg": "1540813024850485331",
+   "end": 1787514181,
+   "title": "\u041c\u043e\u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0442\u0440\u0435\u0439\u0434\u0438\u0442\u044c\u0441\u044f",
+   "items": 4,
+   "ended": false
+  },
+  "U11UMC": {
+   "msg": "1540813031175622880",
+   "end": 1787514122,
+   "title": "Yo imma write a novel",
+   "items": 1,
+   "ended": false
+  },
+  "R7AWT1": {
+   "msg": "1540813038519713853",
+   "end": 1787513881,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1513 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 22,
    "ended": false
   }
  },
