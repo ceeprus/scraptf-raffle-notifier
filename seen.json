@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "HIKITW": {
-   "msg": "1537936530696314930",
-   "end": 1786828921,
-   "title": "I got my 1st Strange",
-   "items": 1,
-   "ended": true
-  },
   "ZD7NMF": {
    "msg": "1537947279267467394",
    "end": 1786831501,
@@ -5297,7 +5290,7 @@
    "end": 1787433781,
    "title": "I got som stuff so you can have them too!",
    "items": 41,
-   "ended": false
+   "ended": true
   },
   "HKQ395": {
    "msg": "1540484215228076053",
@@ -5927,6 +5920,13 @@
    "end": 1787518800,
    "title": "checkup #98 | Music",
    "items": 1,
+   "ended": false
+  },
+  "GHEUCQ": {
+   "msg": "1540835635466735738",
+   "end": 1787519281,
+   "title": "big bunch o' craft hats and full moon cosmetics and a paint and a rare mvm part and a refined and a scrap for ya",
+   "items": 19,
    "ended": false
   }
  },
