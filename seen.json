@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "AIVB0D": {
-   "msg": "1537838431021830277",
-   "end": 1786805401,
-   "title": "for the hi you nosie \ud83d\ude03 :noise;",
-   "items": 21,
-   "ended": true
-  },
   "MMDEZH": {
    "msg": "1537845921621082217",
    "end": 1786807801,
@@ -5325,7 +5318,7 @@
    "end": 1787410561,
    "title": "Items appearing randomly in an environment unexpectedly...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZWKSTZ": {
    "msg": "1540375154209595392",
@@ -5353,7 +5346,7 @@
    "end": 1787410802,
    "title": "8 mvm tours... like 12 or smth killstreak crates... and nothing...",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "SHZZPC": {
    "msg": "1540389089218535545",
