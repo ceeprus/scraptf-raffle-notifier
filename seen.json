@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "41SRVZ": {
-   "msg": "1537815733239549972",
-   "end": 1786798800,
-   "title": "The License Plate Trick and its Consequences",
-   "items": 2,
-   "ended": true
-  },
   "0NLUJL": {
    "msg": "1537825525945475254",
    "end": 1786802582,
@@ -5276,7 +5269,7 @@
    "end": 1787403001,
    "title": "Daily raffle #352",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5GSK1Z": {
    "msg": "1540344936321257614",
@@ -5290,7 +5283,7 @@
    "end": 1787401982,
    "title": "[!DAY 19!] Scrap tf HG",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DQ92XN": {
    "msg": "1540351321557696624",
@@ -5304,21 +5297,21 @@
    "end": 1787403600,
    "title": "The Scottish Engine That Conquered Canada - 'Dunrobin'",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DR48BD": {
    "msg": "1540351335432458400",
    "end": 1787403242,
    "title": "STEAM COMMENTS TROLL #34",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LBQUAV": {
    "msg": "1540351343573606523",
    "end": 1787403181,
    "title": "gift of the day #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EC6254": {
    "msg": "1540360042988179487",
@@ -5794,7 +5787,7 @@
    "end": 1787402101,
    "title": "Zap Zap",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DWTNLT": {
    "msg": "1540645258663170058",
@@ -5884,6 +5877,27 @@
    "msg": "1540699735013335050",
    "end": 1787487393,
    "title": "[THE END] Scrap tf HG",
+   "items": 2,
+   "ended": false
+  },
+  "QH0NFK": {
+   "msg": "1540707314053423134",
+   "end": 1787489341,
+   "title": "Daily raffle #353",
+   "items": 1,
+   "ended": false
+  },
+  "OBNK2E": {
+   "msg": "1540707320470839426",
+   "end": 1787405941,
+   "title": "\u044f \u043f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a",
+   "items": 1,
+   "ended": false
+  },
+  "LSUHO7": {
+   "msg": "1540707326456111185",
+   "end": 1787488622,
+   "title": "Chuck E. Cheese",
    "items": 2,
    "ended": false
   }
