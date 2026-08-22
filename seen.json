@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6WTP3E": {
-   "msg": "1537951629733793895",
-   "end": 1786832162,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1505 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 14,
-   "ended": true
-  },
   "JWHF7C": {
    "msg": "1537962345978929232",
    "end": 1786834800,
@@ -5899,6 +5892,13 @@
    "end": 1787521321,
    "title": "i now have 5,000 hours in tf2",
    "items": 2,
+   "ended": false
+  },
+  "QC18OU": {
+   "msg": "1540850721354682470",
+   "end": 1787523961,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
