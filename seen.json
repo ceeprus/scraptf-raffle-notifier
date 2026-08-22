@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "19YAZB": {
-   "msg": "1537649721907089409",
-   "end": 1786759681,
-   "title": "Untitled raffle",
-   "items": 6,
-   "ended": true
-  },
   "QW1LC8": {
    "msg": "1537657277077790730",
    "end": 1786762381,
@@ -5234,7 +5227,7 @@
    "end": 1787364361,
    "title": "Can we destroy the month of September?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "F1RQWH": {
    "msg": "1540183235567423498",
