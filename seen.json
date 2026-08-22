@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "PBUTYZ": {
-   "msg": "1537687446282702930",
-   "end": 1786769521,
-   "title": "Raffle Log #98",
-   "items": 2,
-   "ended": true
-  },
-  "M84ZGV": {
-   "msg": "1537687456214679632",
-   "end": 1786769161,
-   "title": "Wario ware Glorp Juice",
-   "items": 3,
-   "ended": true
-  },
-  "30NKYO": {
-   "msg": "1537687465865904230",
-   "end": 1786769101,
-   "title": "Hale's Own Trials: Persian Persuader: Day 6",
-   "items": 1,
-   "ended": true
-  },
-  "9HMII8": {
-   "msg": "1537687472161431655",
-   "end": 1786768681,
-   "title": "give it a spin",
-   "items": 1,
-   "ended": true
-  },
-  "MDJOOY": {
-   "msg": "1537687478813851698",
-   "end": 1786768562,
-   "title": "Slugma Chain raffle #6-7 (OWO)",
-   "items": 1,
-   "ended": true
-  },
   "BLUMP3": {
    "msg": "1537702530203525122",
    "end": 1786772401,
@@ -5241,35 +5206,35 @@
    "end": 1787374200,
    "title": "1/3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TQG66M": {
    "msg": "1540224154270171227",
    "end": 1787374081,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #90 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SMG3DA": {
    "msg": "1540224163279798346",
    "end": 1787374021,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #89 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VRBWZF": {
    "msg": "1540224170837803030",
    "end": 1787373841,
    "title": "????",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5XP7O7": {
    "msg": "1540224178446143539",
    "end": 1787373061,
    "title": "Day 68 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "52ZMGS": {
    "msg": "1540224185685770359",
@@ -5304,14 +5269,14 @@
    "end": 1787374441,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #91 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5LQNO9": {
    "msg": "1540231672547512330",
    "end": 1787374321,
    "title": "First Question",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "R8E05P": {
    "msg": "1540246741683667025",
@@ -5619,7 +5584,7 @@
    "end": 1787374081,
    "title": "Saving up a scrap for a lucky guy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BAI03W": {
    "msg": "1540405058859040808",
@@ -5899,6 +5864,13 @@
    "end": 1787457961,
    "title": "Caf\u00e9 Crit-A-Coffee #1764",
    "items": 10,
+   "ended": false
+  },
+  "NJ4MY0": {
+   "msg": "1540585541085560973",
+   "end": 1787460600,
+   "title": "2/3",
+   "items": 1,
    "ended": false
   }
  },
