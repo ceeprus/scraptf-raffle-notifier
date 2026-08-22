@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "58ELSC": {
-   "msg": "1537747827952848976",
-   "end": 1786782541,
-   "title": "Hey you, you're finally awake.",
-   "items": 36,
-   "ended": true
-  },
-  "GN1RZC": {
-   "msg": "1537747834625859584",
-   "end": 1786782422,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "EYOGY0": {
    "msg": "1537762911907217428",
    "end": 1786787581,
@@ -5262,7 +5248,7 @@
    "end": 1787387041,
    "title": "Take Your Mask Off",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MD3DYB": {
    "msg": "1540284529418182728",
@@ -5898,6 +5884,20 @@
    "msg": "1540629600605053028",
    "end": 1787471281,
    "title": "Happy   + Spreading kindess",
+   "items": 1,
+   "ended": false
+  },
+  "2OYIM7": {
+   "msg": "1540639324121600120",
+   "end": 1787473262,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #5",
+   "items": 1,
+   "ended": false
+  },
+  "H63ROG": {
+   "msg": "1540639330442289182",
+   "end": 1787473141,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #4",
    "items": 1,
    "ended": false
   }
