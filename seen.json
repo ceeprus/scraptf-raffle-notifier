@@ -385,13 +385,6 @@
    "items": 1,
    "ended": true
   },
-  "EVYTE5": {
-   "msg": "1537996936106475530",
-   "end": 1786799461,
-   "title": "My third raffle or is it \ud83e\udd14\ud83e\udd14",
-   "items": 3,
-   "ended": true
-  },
   "6M43TW": {
    "msg": "1537996943450578994",
    "end": 1786842000,
@@ -5913,6 +5906,20 @@
    "end": 1787489941,
    "title": "gift of the day #5",
    "items": 1,
+   "ended": false
+  },
+  "NQKTXN": {
+   "msg": "1540714832330756246",
+   "end": 1787490722,
+   "title": "Space stealer!",
+   "items": 40,
+   "ended": false
+  },
+  "WQ70T8": {
+   "msg": "1540714838769143828",
+   "end": 1787490541,
+   "title": "Hello! Have a great day!",
+   "items": 3,
    "ended": false
   }
  },
