@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LB9B4D": {
-   "msg": "1537876166487187526",
-   "end": 1786814701,
-   "title": "I Drew Ts 18",
-   "items": 1,
-   "ended": true
-  },
-  "IU5SZQ": {
-   "msg": "1537876176838729768",
-   "end": 1786814401,
-   "title": "I Drew Ts 17",
-   "items": 1,
-   "ended": true
-  },
-  "0DFGOD": {
-   "msg": "1537876184870813777",
-   "end": 1786814222,
-   "title": "bananababababanannanaabshwhsux",
-   "items": 1,
-   "ended": true
-  },
   "4U8SQ5": {
    "msg": "1537883718771806208",
    "end": 1786816261,
@@ -5346,7 +5325,7 @@
    "end": 1787418961,
    "title": "#DailySlugma",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "01XN1X": {
    "msg": "1540412859480145941",
@@ -5962,6 +5941,13 @@
    "end": 1787504400,
    "title": "Daily raffle until TF2 gets a major update #599",
    "items": 3,
+   "ended": false
+  },
+  "YB049H": {
+   "msg": "1540775224285339779",
+   "end": 1787505781,
+   "title": "i can't think of a title for this raffle 29\u2122",
+   "items": 1,
    "ended": false
   }
  },
