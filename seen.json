@@ -119,13 +119,6 @@
    "items": 2,
    "ended": true
   },
-  "89IMEO": {
-   "msg": "1537800660462862397",
-   "end": 1786795200,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "0SZF07": {
    "msg": "1537803832480768050",
    "end": 1786797001,
@@ -579,13 +572,6 @@
    "end": 1786858142,
    "title": "Day 8 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": true
-  },
-  "MBOAJE": {
-   "msg": "1538064926663376897",
-   "end": 1786794901,
-   "title": "hai hello my first raffle",
-   "items": 4,
    "ended": true
   },
   "RQ9W1M": {
@@ -5311,7 +5297,7 @@
    "end": 1787400000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KNPDDQ": {
    "msg": "1540344928163602483",
@@ -5899,6 +5885,13 @@
    "end": 1787484121,
    "title": "What did I miss?",
    "items": 2,
+   "ended": false
+  },
+  "JB0R33": {
+   "msg": "1540692226571771988",
+   "end": 1787485801,
+   "title": "\ufe0f",
+   "items": 1,
    "ended": false
   }
  },
