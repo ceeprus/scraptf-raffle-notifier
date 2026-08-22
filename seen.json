@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "0SZF07": {
-   "msg": "1537803832480768050",
-   "end": 1786797001,
-   "title": "HELP ME!!!",
-   "items": 9,
-   "ended": true
-  },
   "41SRVZ": {
    "msg": "1537815733239549972",
    "end": 1786798800,
@@ -5878,6 +5871,20 @@
    "end": 1787486400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
+   "ended": false
+  },
+  "KAVTDS": {
+   "msg": "1540699728570744914",
+   "end": 1787487422,
+   "title": "Mvm Loot",
+   "items": 13,
+   "ended": false
+  },
+  "EU32A7": {
+   "msg": "1540699735013335050",
+   "end": 1787487393,
+   "title": "[THE END] Scrap tf HG",
+   "items": 2,
    "ended": false
   }
  },
