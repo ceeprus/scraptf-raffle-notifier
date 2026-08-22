@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "QW1LC8": {
-   "msg": "1537657277077790730",
-   "end": 1786762381,
-   "title": "Caf\u00e9 Crit-A-Coffee #1757",
-   "items": 10,
-   "ended": true
-  },
-  "RO5E6U": {
-   "msg": "1537657283520110652",
-   "end": 1786761901,
-   "title": "i'm tired of time traveling",
-   "items": 1,
-   "ended": true
-  },
   "GO8XRK": {
    "msg": "1537664803496271963",
    "end": 1786764000,
@@ -5927,6 +5913,13 @@
    "end": 1787400421,
    "title": "First raffle kind of nervous",
    "items": 11,
+   "ended": false
+  },
+  "8B7TRD": {
+   "msg": "1540556316681179156",
+   "end": 1787452921,
+   "title": "breaking the raffle drought",
+   "items": 1,
    "ended": false
   }
  },
