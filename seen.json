@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "BLUMP3": {
-   "msg": "1537702530203525122",
-   "end": 1786772401,
-   "title": "What's your dream loadout?",
-   "items": 2,
-   "ended": true
-  },
   "EWF9GP": {
    "msg": "1537710071633682542",
    "end": 1786774981,
@@ -5870,6 +5863,13 @@
    "msg": "1540585541085560973",
    "end": 1787460600,
    "title": "2/3",
+   "items": 1,
+   "ended": false
+  },
+  "TMW2I8": {
+   "msg": "1540599027890921653",
+   "end": 1787419861,
+   "title": "Raffling Scrap Till I'm Out #1011 (Late raffle)",
    "items": 1,
    "ended": false
   }
