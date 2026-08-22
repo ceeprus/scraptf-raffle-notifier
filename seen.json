@@ -5283,14 +5283,14 @@
    "end": 1787438054,
    "title": "Best K-pop songs #2 (in my opinion and in no order)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "HDXI3G": {
    "msg": "1540492620273557614",
    "end": 1787438049,
    "title": "Best K-pop songs #1 (in my opinion and in no order)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BPAXUN": {
    "msg": "1540495933840560181",
@@ -5311,7 +5311,7 @@
    "end": 1787438281,
    "title": "today is my birthday",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "13MTIJ": {
    "msg": "1540499531530240081",
