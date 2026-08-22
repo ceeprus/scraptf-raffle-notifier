@@ -819,13 +819,6 @@
    "items": 25,
    "ended": true
   },
-  "DSOP77": {
-   "msg": "1538298911058296934",
-   "end": 1786830781,
-   "title": "\ud83d\udc9aTake away my noisemakers#17\ud83d\udc9a",
-   "items": 49,
-   "ended": true
-  },
   "LKMW56": {
    "msg": "1538309319693701180",
    "end": 1786917600,
@@ -5290,7 +5283,7 @@
    "end": 1787435941,
    "title": "Hello! \ud83d\udc4b",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "EQ18MF": {
    "msg": "1540488336769290355",
@@ -5920,6 +5913,13 @@
    "end": 1787519281,
    "title": "big bunch o' craft hats and full moon cosmetics and a paint and a rare mvm part and a refined and a scrap for ya",
    "items": 19,
+   "ended": false
+  },
+  "JTNF9O": {
+   "msg": "1540843205719887954",
+   "end": 1787521321,
+   "title": "i now have 5,000 hours in tf2",
+   "items": 2,
    "ended": false
   }
  },
