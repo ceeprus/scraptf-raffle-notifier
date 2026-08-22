@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "SYTCHF": {
-   "msg": "1537853522341658694",
-   "end": 1786809600,
-   "title": "Scrap.tf Birthdays - 14 August",
-   "items": 1,
-   "ended": true
-  },
-  "P82O4A": {
-   "msg": "1537853535037825124",
-   "end": 1786809600,
-   "title": "Weekly  #102",
-   "items": 4,
-   "ended": true
-  },
   "11M2H7": {
    "msg": "1537856356256579596",
    "end": 1786809902,
@@ -5346,7 +5332,7 @@
    "end": 1787413681,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "RPHRH3": {
    "msg": "1540389098945118299",
@@ -5360,7 +5346,7 @@
    "end": 1787414400,
    "title": "Weekly  #103",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "19VMYB": {
    "msg": "1540396467577954424",
@@ -5941,7 +5927,7 @@
    "end": 1787413381,
    "title": "Untitled raffle",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "1LQYA8": {
    "msg": "1540748082298359901",
