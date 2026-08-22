@@ -5269,7 +5269,7 @@
    "end": 1787384641,
    "title": "free stuff (comes with emotional package)",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "9325C5": {
    "msg": "1540276961006456934",
@@ -5905,6 +5905,13 @@
    "msg": "1540624258722701364",
    "end": 1787468400,
    "title": "Anniversary",
+   "items": 1,
+   "ended": false
+  },
+  "MICOMQ": {
+   "msg": "1540629600605053028",
+   "end": 1787471281,
+   "title": "Happy   + Spreading kindess",
    "items": 1,
    "ended": false
   }
