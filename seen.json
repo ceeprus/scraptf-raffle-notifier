@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "0NLUJL": {
-   "msg": "1537825525945475254",
-   "end": 1786802582,
-   "title": "hopeful gambling",
-   "items": 1,
-   "ended": true
-  },
   "AIVB0D": {
    "msg": "1537838431021830277",
    "end": 1786805401,
@@ -5927,6 +5920,13 @@
    "end": 1787448661,
    "title": "A raffle because I changed my username",
    "items": 4,
+   "ended": false
+  },
+  "R58K97": {
+   "msg": "1540725385728237679",
+   "end": 1787494141,
+   "title": "Stupid Baka Raffle",
+   "items": 2,
    "ended": false
   }
  },
