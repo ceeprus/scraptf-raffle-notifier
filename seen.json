@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "L0V2QI": {
-   "msg": "1537970164669222943",
-   "end": 1786837081,
-   "title": "333,333 Vaccinator Milestone Giveaway! (1 of 3)",
-   "items": 18,
-   "ended": true
-  },
   "K9P8VC": {
    "msg": "1537974335619203174",
    "end": 1786838041,
@@ -116,13 +109,6 @@
    "msg": "1537974345983328266",
    "end": 1786837501,
    "title": "333,333 Vaccinator Milestone Giveaway! (3 of 3)",
-   "items": 18,
-   "ended": true
-  },
-  "RS6OX6": {
-   "msg": "1537974355894734858",
-   "end": 1786837262,
-   "title": "333,333 Vaccinator Milestone Giveaway! (2 of 3)",
    "items": 18,
    "ended": true
   },
@@ -5926,6 +5912,34 @@
    "msg": "1540865828050837534",
    "end": 1787527081,
    "title": "My grandmother burned down her summer cottage.",
+   "items": 1,
+   "ended": false
+  },
+  "KVDIJX": {
+   "msg": "1540868819088838797",
+   "end": 1787528461,
+   "title": "MvM Update Australium Vote Part 11: Demoman Secondaries",
+   "items": 3,
+   "ended": false
+  },
+  "G6FUS8": {
+   "msg": "1540868825153544254",
+   "end": 1787528041,
+   "title": "JAK JA KURWA KOCHAM DISCO POLO #176",
+   "items": 1,
+   "ended": false
+  },
+  "RH1T4Z": {
+   "msg": "1540868831465967617",
+   "end": 1787527561,
+   "title": "Terrible Terrence's Terrible Heer",
+   "items": 1,
+   "ended": false
+  },
+  "FQR9JS": {
+   "msg": "1540868838118268969",
+   "end": 1787527381,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
