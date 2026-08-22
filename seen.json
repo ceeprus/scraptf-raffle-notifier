@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "GO8XRK": {
-   "msg": "1537664803496271963",
-   "end": 1786764000,
-   "title": "Getting Somewhere",
-   "items": 1,
-   "ended": true
-  },
   "YGYET2": {
    "msg": "1537672366769971210",
    "end": 1786765562,
@@ -5241,21 +5234,21 @@
    "end": 1787368681,
    "title": "Caf\u00e9 Crit-A-Coffee #1763",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "2WZGQ0": {
    "msg": "1540201446815961109",
    "end": 1787369101,
    "title": "Day 13 of asking for Slugma Chain emoticon",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "GS88DE": {
    "msg": "1540201455405764608",
    "end": 1787368921,
    "title": "Spiral Knights just dropped new content.",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "MVYNHN": {
    "msg": "1540209039680610346",
@@ -5919,6 +5912,20 @@
    "msg": "1540556316681179156",
    "end": 1787452921,
    "title": "breaking the raffle drought",
+   "items": 1,
+   "ended": false
+  },
+  "LOJ72S": {
+   "msg": "1540563835499450428",
+   "end": 1787455202,
+   "title": "Scrapyard #192",
+   "items": 1,
+   "ended": false
+  },
+  "OPD21R": {
+   "msg": "1540563842147291156",
+   "end": 1787454601,
+   "title": "day one of trying to get a heavy lifer",
    "items": 1,
    "ended": false
   }
