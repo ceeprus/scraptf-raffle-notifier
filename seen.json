@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "EWF9GP": {
-   "msg": "1537710071633682542",
-   "end": 1786774981,
-   "title": "Day 7 of asking for Slugma Chain emoticon",
-   "items": 45,
-   "ended": true
-  },
-  "UAGNXA": {
-   "msg": "1537710078944354364",
-   "end": 1786774502,
-   "title": "Argentina is lovely at this time of year.",
-   "items": 1,
-   "ended": true
-  },
   "7GUEL0": {
    "msg": "1537715408168026192",
    "end": 1786776061,
@@ -5269,7 +5255,7 @@
    "end": 1787379482,
    "title": ":bap Birthday #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y7BZW8": {
    "msg": "1540261853702135811",
@@ -5619,7 +5605,7 @@
    "end": 1787379121,
    "title": "Feeling happy and so giving these for others",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "PNQ2WA": {
    "msg": "1540426203335237743",
