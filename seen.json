@@ -5311,14 +5311,14 @@
    "end": 1787406182,
    "title": "Slugma raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZX6RAD": {
    "msg": "1540360052764975114",
    "end": 1787406001,
    "title": "These are almost all the manufacturers I got over 16 tour",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "BGHNOI": {
    "msg": "1540361114486050897",
@@ -5885,7 +5885,7 @@
    "end": 1787405941,
    "title": "\u044f \u043f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LSUHO7": {
    "msg": "1540707326456111185",
@@ -5920,6 +5920,13 @@
    "end": 1787490541,
    "title": "Hello! Have a great day!",
    "items": 3,
+   "ended": false
+  },
+  "G3C3PS": {
+   "msg": "1540719601761914930",
+   "end": 1787448661,
+   "title": "A raffle because I changed my username",
+   "items": 4,
    "ended": false
   }
  },
