@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "E2OHMX": {
-   "msg": "1537921446960038019",
-   "end": 1786824901,
-   "title": "mvm amirite",
-   "items": 2,
-   "ended": true
-  },
-  "7IOKAX": {
-   "msg": "1537927129361027292",
-   "end": 1786825381,
-   "title": "Do you want some FREE CS2 stickers?",
-   "items": 1,
-   "ended": true
-  },
   "SAEQXR": {
    "msg": "1537933072916553880",
    "end": 1786827600,
@@ -795,13 +781,6 @@
    "msg": "1538271612325994557",
    "end": 1786908421,
    "title": "I'll be a better medic!",
-   "items": 1,
-   "ended": true
-  },
-  "SJIVID": {
-   "msg": "1538276288932876428",
-   "end": 1786824902,
-   "title": "Piss",
    "items": 1,
    "ended": true
   },
@@ -5934,6 +5913,13 @@
    "end": 1787513881,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1513 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 22,
+   "ended": false
+  },
+  "KQ1HVJ": {
+   "msg": "1540820540053258411",
+   "end": 1787451002,
+   "title": "enginoor",
+   "items": 2,
    "ended": false
   }
  },
