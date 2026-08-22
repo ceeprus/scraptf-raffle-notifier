@@ -665,13 +665,6 @@
    "items": 150,
    "ended": true
   },
-  "AGD27R": {
-   "msg": "1538080025608462388",
-   "end": 1786783922,
-   "title": "I love insomnia",
-   "items": 2,
-   "ended": true
-  },
   "WD0E76": {
    "msg": "1538092443486912562",
    "end": 1786866301,
@@ -5898,6 +5891,20 @@
    "msg": "1540639330442289182",
    "end": 1787473141,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #4",
+   "items": 1,
+   "ended": false
+  },
+  "7KKPDR": {
+   "msg": "1540645252443152385",
+   "end": 1787402101,
+   "title": "Zap Zap",
+   "items": 1,
+   "ended": false
+  },
+  "DWTNLT": {
+   "msg": "1540645258663170058",
+   "end": 1787473321,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #6",
    "items": 1,
    "ended": false
   }
