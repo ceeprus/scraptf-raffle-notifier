@@ -371,13 +371,6 @@
    "items": 1,
    "ended": true
   },
-  "SMBJMP": {
-   "msg": "1537825531825750036",
-   "end": 1786759200,
-   "title": "[Fallen Tributes/Night 10] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "AIVB0D": {
    "msg": "1537838431021830277",
    "end": 1786805401,
@@ -5234,7 +5227,7 @@
    "end": 1787363101,
    "title": "Battle Cats Propaganda #1376",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MWFNKO": {
    "msg": "1540183229548593152",
