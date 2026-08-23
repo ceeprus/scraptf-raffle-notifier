@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "NPI9EK": {
-   "msg": "1538246105072930849",
-   "end": 1786902242,
-   "title": "Daily raffle #346",
-   "items": 1,
-   "ended": true
-  },
   "FW0WWL": {
    "msg": "1538249880416550942",
    "end": 1786903862,
@@ -116,13 +109,6 @@
    "msg": "1538249890067390557",
    "end": 1786903622,
    "title": "Music Discovery #1",
-   "items": 1,
-   "ended": true
-  },
-  "4X3SN5": {
-   "msg": "1538249896274960404",
-   "end": 1786903200,
-   "title": "#SlugmaSweep",
    "items": 1,
    "ended": true
   },
@@ -606,13 +592,6 @@
    "msg": "1538578284261150762",
    "end": 1786981621,
    "title": "a lot of things i wanted to say",
-   "items": 1,
-   "ended": true
-  },
-  "V1VLEK": {
-   "msg": "1538578291290804314",
-   "end": 1786902301,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5150,7 +5129,7 @@
    "end": 1787508000,
    "title": "How to be better as a person",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1R8PVQ": {
    "msg": "1540796525092020265",
@@ -6991,6 +6970,27 @@
    "end": 1787592602,
    "title": "huh ft. Kendrick Lamar",
    "items": 5,
+   "ended": false
+  },
+  "LWRBA7": {
+   "msg": "1541145202004074606",
+   "end": 1787594102,
+   "title": "And another one",
+   "items": 1,
+   "ended": false
+  },
+  "4W4RFC": {
+   "msg": "1541145209444765837",
+   "end": 1787593321,
+   "title": "The humble noise maker:",
+   "items": 1,
+   "ended": false
+  },
+  "6C7JX0": {
+   "msg": "1541145216336007228",
+   "end": 1787528101,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
