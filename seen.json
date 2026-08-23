@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Z4NMOA": {
-   "msg": "1538048114366095400",
-   "end": 1786855381,
-   "title": "Waluigi time",
-   "items": 2,
-   "ended": true
-  },
-  "M8TRTR": {
-   "msg": "1538048120787832882",
-   "end": 1786854914,
-   "title": "Calling some old heads (respectfully) here in the Scap.tf community",
-   "items": 3,
-   "ended": true
-  },
   "9FOICT": {
    "msg": "1538053949687332894",
    "end": 1786856942,
@@ -5199,7 +5185,7 @@
    "end": 1787460600,
    "title": "2/3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TMW2I8": {
    "msg": "1540599027890921653",
@@ -5843,7 +5829,7 @@
    "end": 1787460181,
    "title": "Take it, Spongebob",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "T22NDI": {
    "msg": "1540935629112737843",
