@@ -98,38 +98,10 @@
    "items": 50,
    "ended": false
   },
-  "AGJ6OP": {
-   "msg": "1538034729641582662",
-   "end": 1786852201,
-   "title": "I'm back at TF2",
-   "items": 1,
-   "ended": true
-  },
-  "IXCX4P": {
-   "msg": "1538034736910307489",
-   "end": 1786852081,
-   "title": "I'm quitting TF2",
-   "items": 1,
-   "ended": true
-  },
-  "TUKLE0": {
-   "msg": "1538034743356952617",
-   "end": 1786851602,
-   "title": "Hello! This raffle is just a jumble of random thoughts and is minimally proofread, so they might make sense or not and do need context to understand Enjoy!",
-   "items": 1,
-   "ended": true
-  },
   "LTE4E1": {
    "msg": "1538042218164781188",
    "end": 1786853101,
    "title": "rufleee",
-   "items": 1,
-   "ended": true
-  },
-  "GUSX9H": {
-   "msg": "1538042224401580174",
-   "end": 1786852620,
-   "title": "Recorded Warning",
    "items": 1,
    "ended": true
   },
@@ -5206,7 +5178,7 @@
    "end": 1787457000,
    "title": "Personal Recording",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IDGJ7Y": {
    "msg": "1540571438816428082",
@@ -5220,7 +5192,7 @@
    "end": 1787456161,
    "title": "Please sign the waiver.",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "BO9ZXU": {
    "msg": "1540578929247785031",
@@ -5521,7 +5493,7 @@
    "end": 1787456461,
    "title": "Detergente y Parentesco",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "FMB7ST": {
    "msg": "1540748075910561855",
@@ -5871,6 +5843,27 @@
    "end": 1787539021,
    "title": "top 10 people on this website",
    "items": 1,
+   "ended": false
+  },
+  "V83IFD": {
+   "msg": "1540933806389985280",
+   "end": 1787543341,
+   "title": "Hope everyone has a nice eep",
+   "items": 1,
+   "ended": false
+  },
+  "WHVKB1": {
+   "msg": "1540933813083836506",
+   "end": 1787543042,
+   "title": "Daily Scrap  #1",
+   "items": 1,
+   "ended": false
+  },
+  "7SJRKF": {
+   "msg": "1540933821296418846",
+   "end": 1787460181,
+   "title": "Take it, Spongebob",
+   "items": 8,
    "ended": false
   }
  },
