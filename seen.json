@@ -525,13 +525,6 @@
    "items": 1,
    "ended": true
   },
-  "KDM2RI": {
-   "msg": "1538510306697945128",
-   "end": 1786899961,
-   "title": "cool hat i got in auction",
-   "items": 1,
-   "ended": true
-  },
   "S2OHF0": {
    "msg": "1538517889185882333",
    "end": 1786968000,
@@ -5122,7 +5115,7 @@
    "end": 1787504581,
    "title": "Your weekly non-official Scrap.tf news. [Week 234]",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "I1WSYC": {
    "msg": "1540770802700390450",
@@ -6956,6 +6949,20 @@
    "end": 1787589781,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "CVEM4M": {
+   "msg": "1541133163420717146",
+   "end": null,
+   "title": "Completo italiano + bebida = almuerzo",
+   "items": 6,
+   "ended": false
+  },
+  "ITE2J3": {
+   "msg": "1541133170702032996",
+   "end": 1787590501,
+   "title": "Grooviest Tracks #793",
+   "items": 2,
    "ended": false
   }
  },
