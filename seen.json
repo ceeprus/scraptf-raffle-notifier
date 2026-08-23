@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9LNLH7": {
-   "msg": "1538143104731717673",
-   "end": 1786878000,
-   "title": "I thought such things would be right up your alley!",
-   "items": 1,
-   "ended": true
-  },
   "FS6Q0E": {
    "msg": "1538147919289385072",
    "end": 1786879441,
@@ -768,13 +761,6 @@
    "end": 1786964101,
    "title": "Grabli304's raffle\u2503Day 168",
    "items": 2,
-   "ended": true
-  },
-  "UDB3AL": {
-   "msg": "1538502791260143700",
-   "end": 1786878062,
-   "title": "unclaimed item",
-   "items": 1,
    "ended": true
   },
   "SWJDNY": {
@@ -5178,14 +5164,14 @@
    "end": 1787482800,
    "title": "Such form!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0EGN6Z": {
    "msg": "1540677128444448778",
    "end": 1787482441,
    "title": "second raffle and it's double the size",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "A2IP3H": {
    "msg": "1540677134949814292",
@@ -5556,7 +5542,7 @@
    "end": 1787482441,
    "title": "Tune of the day #317",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0RK3TJ": {
    "msg": "1540858329704833134",
@@ -6431,6 +6417,62 @@
    "end": 1787568361,
    "title": "I heard you like",
    "items": 1,
+   "ended": false
+  },
+  "PUFMJU": {
+   "msg": "1541039515060142160",
+   "end": 1787525701,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IN7P9D": {
+   "msg": "1541039522370953288",
+   "end": 1787525642,
+   "title": "Hey guys, how are you guys doing today?",
+   "items": 4,
+   "ended": false
+  },
+  "M08XB7": {
+   "msg": "1541039529350266930",
+   "end": 1787525521,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZEK46R": {
+   "msg": "1541039539001368656",
+   "end": 1787568602,
+   "title": "People who call others \"Larpers\" are so annoying",
+   "items": 1,
+   "ended": false
+  },
+  "DKJ4GD": {
+   "msg": "1541039547826307102",
+   "end": 1787525402,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XPZRC5": {
+   "msg": "1541039554004525068",
+   "end": 1787525222,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "E2AGUQ": {
+   "msg": "1541039560467812483",
+   "end": 1787568422,
+   "title": "Unable to enter Raffle",
+   "items": 2,
+   "ended": false
+  },
+  "3HQNFA": {
+   "msg": "1541039577236635719",
+   "end": 1787568422,
+   "title": "Untitled raffle",
+   "items": 3,
    "ended": false
   }
  },
