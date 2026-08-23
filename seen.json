@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CXWZ7D": {
-   "msg": "1538125313089736754",
-   "end": 1786873562,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "VHIFHM": {
    "msg": "1538128566175137792",
    "end": 1786874642,
@@ -6354,6 +6347,34 @@
    "end": 1787563261,
    "title": "lollipop and three candy canes",
    "items": 4,
+   "ended": false
+  },
+  "GE38S5": {
+   "msg": "1541021670754492517",
+   "end": 1787564341,
+   "title": "Think mark, think!",
+   "items": 84,
+   "ended": false
+  },
+  "JQVWBG": {
+   "msg": "1541021677708779580",
+   "end": 1787521081,
+   "title": "Take it",
+   "items": 5,
+   "ended": false
+  },
+  "J9RLW0": {
+   "msg": "1541021684218208276",
+   "end": 1787563982,
+   "title": "Jessie",
+   "items": 48,
+   "ended": false
+  },
+  "54FMP9": {
+   "msg": "1541021690941800468",
+   "end": 1787563861,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
