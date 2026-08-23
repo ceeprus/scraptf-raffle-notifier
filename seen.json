@@ -5080,7 +5080,7 @@
    "end": 1787519281,
    "title": "big bunch o' craft hats and full moon cosmetics and a paint and a rare mvm part and a refined and a scrap for ya",
    "items": 19,
-   "ended": false
+   "ended": true
   },
   "JTNF9O": {
    "msg": "1540843205719887954",
@@ -7215,6 +7215,13 @@
    "end": 1787604241,
    "title": "So much !",
    "items": 1,
+   "ended": false
+  },
+  "OGQUUG": {
+   "msg": "1541193618021285898",
+   "end": 1787605261,
+   "title": "Untitled raffle",
+   "items": 12,
    "ended": false
   }
  },
