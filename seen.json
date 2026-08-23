@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FS6Q0E": {
-   "msg": "1538147919289385072",
-   "end": 1786879441,
-   "title": "Question",
-   "items": 1,
-   "ended": true
-  },
   "ZS08XU": {
    "msg": "1538155500737142924",
    "end": 1786880281,
@@ -495,13 +488,6 @@
    "end": 1786923061,
    "title": "CAPITAL TITLE",
    "items": 4,
-   "ended": true
-  },
-  "SJQGS3": {
-   "msg": "1538331863783968789",
-   "end": 1786879741,
-   "title": "sans tf2",
-   "items": 10,
    "ended": true
   },
   "7G1NJY": {
@@ -5199,7 +5185,7 @@
    "end": 1787484121,
    "title": "What did I miss?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "JB0R33": {
    "msg": "1540692226571771988",
@@ -6522,6 +6508,62 @@
    "end": 1787525882,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "EUE8L8": {
+   "msg": "1541047009232949338",
+   "end": 1787570941,
+   "title": "Ronsom 6000",
+   "items": 1,
+   "ended": false
+  },
+  "0ZH1GO": {
+   "msg": "1541047015440646274",
+   "end": 1787570641,
+   "title": "Noise",
+   "items": 1,
+   "ended": false
+  },
+  "P8C5C1": {
+   "msg": "1541047021274660894",
+   "end": 1787570582,
+   "title": "A day of",
+   "items": 1,
+   "ended": false
+  },
+  "5BR6PZ": {
+   "msg": "1541047027247349802",
+   "end": 1787569981,
+   "title": "Some  !!!",
+   "items": 1,
+   "ended": false
+  },
+  "VK6TLY": {
+   "msg": "1541047033899515911",
+   "end": 1787569922,
+   "title": "Daily raffle #354",
+   "items": 1,
+   "ended": false
+  },
+  "N1NBLT": {
+   "msg": "1541047041122238474",
+   "end": 1787569861,
+   "title": "Make",
+   "items": 1,
+   "ended": false
+  },
+  "JZ62VL": {
+   "msg": "1541047048000770078",
+   "end": 1787569802,
+   "title": "#NoiseOut",
+   "items": 1,
+   "ended": false
+  },
+  "5GMIOV": {
+   "msg": "1541047054795669585",
+   "end": 1787569741,
+   "title": "geeettttttt noised on!!",
+   "items": 27,
    "ended": false
   }
  },
