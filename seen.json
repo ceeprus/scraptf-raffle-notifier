@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "34SU9R": {
-   "msg": "1538080018754838548",
-   "end": 1786863122,
-   "title": "BIRTHDAYYYY 22",
-   "items": 150,
-   "ended": true
-  },
   "WD0E76": {
    "msg": "1538092443486912562",
    "end": 1786866301,
@@ -5192,14 +5185,14 @@
    "end": 1787468102,
    "title": "Got my first australium",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LYCVAV": {
    "msg": "1540616730030637087",
    "end": 1787467561,
    "title": "red bullsquid",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AR9IMU": {
    "msg": "1540616737832173608",
@@ -5227,7 +5220,7 @@
    "end": 1787468400,
    "title": "Anniversary",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MICOMQ": {
    "msg": "1540629600605053028",
@@ -5850,6 +5843,90 @@
    "end": 1787552521,
    "title": "Little Good Bye Gift:)",
    "items": 13,
+   "ended": false
+  },
+  "4L4F0H": {
+   "msg": "1540979104281665576",
+   "end": 1787554800,
+   "title": "Untitled raffle",
+   "items": 20,
+   "ended": false
+  },
+  "ECZ46Q": {
+   "msg": "1540979111185358968",
+   "end": 1787554682,
+   "title": "1 BILLION NOISE MAKERS",
+   "items": 1,
+   "ended": false
+  },
+  "JUXJFY": {
+   "msg": "1540979117581934663",
+   "end": 1787554681,
+   "title": "#NoiseSweep",
+   "items": 1,
+   "ended": false
+  },
+  "7HQRXM": {
+   "msg": "1540979125341126678",
+   "end": 1787554622,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "RUHF8R": {
+   "msg": "1540979133771939871",
+   "end": 1787554501,
+   "title": "RELEASE THE NOISE MAKERS!",
+   "items": 1,
+   "ended": false
+  },
+  "BGTC8Z": {
+   "msg": "1540979140902264852",
+   "end": 1787554501,
+   "title": "Finally",
+   "items": 1,
+   "ended": false
+  },
+  "FGSB55": {
+   "msg": "1540979147864670298",
+   "end": 1787554381,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "41BCFM": {
+   "msg": "1540979155225546892",
+   "end": 1787554322,
+   "title": "Day 14 of asking for Slugma Chain emoticon",
+   "items": 13,
+   "ended": false
+  },
+  "O2GBWA": {
+   "msg": "1540979161668001862",
+   "end": 1787554261,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "8T2E0S": {
+   "msg": "1540979168412700733",
+   "end": 1787554082,
+   "title": "Technical difficulties",
+   "items": 1,
+   "ended": false
+  },
+  "Z7ZF68": {
+   "msg": "1540979174335062027",
+   "end": 1787553721,
+   "title": "I'm tipping all noise maker raffles until this raffle ends as long as the raffle lasts 24 hours and the maximum entries is set to 2000 or more",
+   "items": 1,
+   "ended": false
+  },
+  "KKUB3P": {
+   "msg": "1540979181389742080",
+   "end": 1787553181,
+   "title": "I owe everyone an apology!",
+   "items": 1,
    "ended": false
   }
  },
