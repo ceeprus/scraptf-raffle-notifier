@@ -112,20 +112,6 @@
    "items": 3,
    "ended": true
   },
-  "VQAAYH": {
-   "msg": "1538048129067122749",
-   "end": 1786854600,
-   "title": "Days",
-   "items": 80,
-   "ended": true
-  },
-  "SAFK6U": {
-   "msg": "1538048135312445460",
-   "end": 1786854541,
-   "title": "What's it take to call your brother",
-   "items": 1,
-   "ended": true
-  },
   "9FOICT": {
    "msg": "1538053949687332894",
    "end": 1786856942,
@@ -5864,6 +5850,20 @@
    "end": 1787543762,
    "title": "A Night Out",
    "items": 1,
+   "ended": false
+  },
+  "VJCQL3": {
+   "msg": "1540941345626136687",
+   "end": null,
+   "title": "Don't have too much time to deploing all of that noise",
+   "items": 8,
+   "ended": false
+  },
+  "O1SJY2": {
+   "msg": "1540941354010677360",
+   "end": 1787545202,
+   "title": "Untitled raffle",
+   "items": 100,
    "ended": false
   }
  },
