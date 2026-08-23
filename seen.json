@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "IXUMX6": {
-   "msg": "1538182875952976003",
-   "end": 1786887661,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
-  "IIVP62": {
-   "msg": "1538182886057050184",
-   "end": 1786887482,
-   "title": "Hoi!",
-   "items": 20,
-   "ended": true
-  },
-  "KV0V6W": {
-   "msg": "1538185700988686366",
-   "end": 1786888021,
-   "title": "Where do you all come from? Im' from Thailand :D",
-   "items": 5,
-   "ended": true
-  },
   "V0JFHZ": {
    "msg": "1538188873006583980",
    "end": 1786889521,
@@ -518,13 +497,6 @@
    "items": 2,
    "ended": true
   },
-  "Q3BKM5": {
-   "msg": "1538366909848887336",
-   "end": 1786887962,
-   "title": "bag with money giveaway",
-   "items": 1,
-   "ended": true
-  },
   "V65UB6": {
    "msg": "1538370833804951614",
    "end": 1786932481,
@@ -649,13 +621,6 @@
    "end": 1786950602,
    "title": "A Story",
    "items": 10,
-   "ended": true
-  },
-  "AS1SXT": {
-   "msg": "1538455197070786570",
-   "end": 1786887181,
-   "title": "Gift",
-   "items": 5,
    "ended": true
   },
   "Q7B42E": {
@@ -6739,6 +6704,90 @@
    "end": 1787577182,
    "title": "i really need an answer",
    "items": 1,
+   "ended": false
+  },
+  "MPNKCM": {
+   "msg": "1541082371758096547",
+   "end": 1787579161,
+   "title": "make some noise",
+   "items": 1,
+   "ended": false
+  },
+  "0700EK": {
+   "msg": "1541082378108149843",
+   "end": 1787579101,
+   "title": "More noise",
+   "items": 1,
+   "ended": false
+  },
+  "PBSMWC": {
+   "msg": "1541082384378757301",
+   "end": 1787579041,
+   "title": "Noys",
+   "items": 1,
+   "ended": false
+  },
+  "BIA7NC": {
+   "msg": "1541082391383375922",
+   "end": 1787578621,
+   "title": "Noise",
+   "items": 3,
+   "ended": false
+  },
+  "MWHBIS": {
+   "msg": "1541082397963976815",
+   "end": 1787578441,
+   "title": "Noise",
+   "items": 3,
+   "ended": false
+  },
+  "SUQ9BD": {
+   "msg": "1541082404515619048",
+   "end": 1787535181,
+   "title": "Addiction",
+   "items": 50,
+   "ended": false
+  },
+  "LUW2TJ": {
+   "msg": "1541082412006506639",
+   "end": 1787578202,
+   "title": "epic man comeback",
+   "items": 1,
+   "ended": false
+  },
+  "DBUIC2": {
+   "msg": "1541082418927112212",
+   "end": 1787578202,
+   "title": "Noise",
+   "items": 3,
+   "ended": false
+  },
+  "NZ11L8": {
+   "msg": "1541082425583468564",
+   "end": 1787578141,
+   "title": "The pass it forward raffle! (#17)",
+   "items": 3,
+   "ended": false
+  },
+  "WM3V7O": {
+   "msg": "1541082431480926369",
+   "end": 1787577961,
+   "title": "Noise.TF2",
+   "items": 1,
+   "ended": false
+  },
+  "1GC27D": {
+   "msg": "1541082439936385114",
+   "end": 1787513102,
+   "title": "Take it",
+   "items": 27,
+   "ended": false
+  },
+  "Q1AOPY": {
+   "msg": "1541082448463527956",
+   "end": 1787577902,
+   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #7 \u0438 #8\ud83d\udd25",
+   "items": 4,
    "ended": false
   }
  },
