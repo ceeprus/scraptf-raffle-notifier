@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "R0UKFL": {
-   "msg": "1538004507332583474",
-   "end": 1786844041,
-   "title": "2nd Strange :D",
-   "items": 1,
-   "ended": true
-  },
   "SQNN79": {
    "msg": "1538019630142980127",
    "end": 1786847762,
@@ -369,13 +362,6 @@
    "end": 1786887482,
    "title": "Hoi!",
    "items": 20,
-   "ended": true
-  },
-  "N1XMU3": {
-   "msg": "1538185694453694616",
-   "end": 1786845001,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "KV0V6W": {
@@ -5549,7 +5535,7 @@
    "end": 1787448661,
    "title": "A raffle because I changed my username",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "R58K97": {
    "msg": "1540725385728237679",
@@ -5905,6 +5891,13 @@
    "msg": "1540896026053976184",
    "end": 1787534281,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MJHO8G": {
+   "msg": "1540903620361592903",
+   "end": 1787535661,
+   "title": "I wonder how many times I've won from Terrible Terrence's Tune of the  MvM Update. Yummers",
    "items": 1,
    "ended": false
   }
