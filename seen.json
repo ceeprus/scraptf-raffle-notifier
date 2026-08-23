@@ -5087,7 +5087,7 @@
    "end": 1787521321,
    "title": "i now have 5,000 hours in tf2",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QC18OU": {
    "msg": "1540850721354682470",
@@ -5871,7 +5871,7 @@
    "end": 1787521081,
    "title": "Take it",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "J9RLW0": {
    "msg": "1541021684218208276",
@@ -7250,6 +7250,27 @@
    "end": 1787605621,
    "title": "1st Raffle",
    "items": 9,
+   "ended": false
+  },
+  "GLRA5Q": {
+   "msg": "1541201105822941224",
+   "end": 1787607181,
+   "title": "A chance to get rid of my noisemakers? Dont have to tell me twice",
+   "items": 2,
+   "ended": false
+  },
+  "M0S92H": {
+   "msg": "1541201111430463599",
+   "end": 1787563862,
+   "title": "Noise.TF4",
+   "items": 1,
+   "ended": false
+  },
+  "9S5ZLM": {
+   "msg": "1541201118447669312",
+   "end": 1787607001,
+   "title": "Untitled raffle",
+   "items": 5,
    "ended": false
   }
  },
