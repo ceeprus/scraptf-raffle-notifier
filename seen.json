@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "UYN948": {
-   "msg": "1538331854351114361",
-   "end": 1786923061,
-   "title": "CAPITAL TITLE",
-   "items": 4,
-   "ended": true
-  },
   "VQOIF9": {
    "msg": "1538344217804410971",
    "end": 1786924322,
@@ -5094,14 +5087,14 @@
    "end": 1787528461,
    "title": "MvM Update Australium Vote Part 11: Demoman Secondaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "G6FUS8": {
    "msg": "1540868825153544254",
    "end": 1787528041,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #176",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RH1T4Z": {
    "msg": "1540868831465967617",
@@ -6809,7 +6802,7 @@
    "end": 1787528101,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "72KYJE": {
    "msg": "1541149061086969887",
