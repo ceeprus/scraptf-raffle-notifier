@@ -784,13 +784,6 @@
    "items": 1,
    "ended": true
   },
-  "Q6OT1V": {
-   "msg": "1538412184743321670",
-   "end": 1786859641,
-   "title": "raffle name",
-   "items": 2,
-   "ended": true
-  },
   "DQ3S3Z": {
    "msg": "1538419703872229446",
    "end": 1786901400,
@@ -5178,21 +5171,21 @@
    "end": 1787464261,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #94 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HBTO0C": {
    "msg": "1540601631287148594",
    "end": 1787464142,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #93 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6Q3LVL": {
    "msg": "1540601640493514794",
    "end": 1787463961,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #92 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "69CGGG": {
    "msg": "1540616722799796314",
@@ -5836,6 +5829,20 @@
    "end": 1787548921,
    "title": "Question #68",
    "items": 1,
+   "ended": false
+  },
+  "LA3ANS": {
+   "msg": "1540964002220351550",
+   "end": 1787550301,
+   "title": "bim bim bom",
+   "items": 1,
+   "ended": false
+  },
+  "IR8NV2": {
+   "msg": "1540964011426717787",
+   "end": 1787549641,
+   "title": "Graveyard Raffle (#14)",
+   "items": 12,
    "ended": false
   }
  },
