@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FW0WWL": {
-   "msg": "1538249880416550942",
-   "end": 1786903862,
-   "title": "fire impersonator",
-   "items": 5,
-   "ended": true
-  },
-  "JB0K9J": {
-   "msg": "1538249890067390557",
-   "end": 1786903622,
-   "title": "Music Discovery #1",
-   "items": 1,
-   "ended": true
-  },
   "8ZEJXR": {
    "msg": "1538259432692261005",
    "end": 1786905361,
@@ -5115,14 +5101,14 @@
    "end": 1787508481,
    "title": "Take my items #40",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "QTN7MB": {
    "msg": "1540786688262152243",
    "end": 1787508061,
    "title": "Why is every hat I try to sell is labeled as \"overstocked\"?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ORDF84": {
    "msg": "1540786696503697500",
@@ -6991,6 +6977,20 @@
    "end": 1787528101,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "72KYJE": {
+   "msg": "1541149061086969887",
+   "end": 1787594642,
+   "title": "Raffling the thing",
+   "items": 1,
+   "ended": false
+  },
+  "DU7FJA": {
+   "msg": "1541149067718037536",
+   "end": 1787594642,
+   "title": "So much noise @-@",
+   "items": 3,
    "ended": false
   }
  },
