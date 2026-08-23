@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LKMW56": {
-   "msg": "1538309319693701180",
-   "end": 1786917600,
-   "title": "checkup #91 | Busy...",
-   "items": 1,
-   "ended": true
-  },
   "4H0MTQ": {
    "msg": "1538321604420051034",
    "end": 1786921082,
@@ -7271,6 +7264,20 @@
    "end": 1787607001,
    "title": "Untitled raffle",
    "items": 5,
+   "ended": false
+  },
+  "8MRO94": {
+   "msg": "1541205592536784896",
+   "end": 1787607902,
+   "title": "can i get a :3",
+   "items": 7,
+   "ended": false
+  },
+  "VTUAC0": {
+   "msg": "1541205598522056795",
+   "end": 1787607600,
+   "title": "checkup #99 | Team Fortress' birthday",
+   "items": 1,
    "ended": false
   }
  },
