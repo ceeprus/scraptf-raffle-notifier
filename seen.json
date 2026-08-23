@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "7XQCUH": {
-   "msg": "1538170607605391380",
-   "end": 1786884061,
-   "title": "hello my name is Epic man with epic face.",
-   "items": 1,
-   "ended": true
-  },
-  "47QDUD": {
-   "msg": "1538171839811952672",
-   "end": 1786885200,
-   "title": "08/15/2006",
-   "items": 1,
-   "ended": true
-  },
   "IXUMX6": {
    "msg": "1538182875952976003",
    "end": 1786887661,
@@ -697,13 +683,6 @@
    "msg": "1538461928907604008",
    "end": 1786953421,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #77 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "C7L223": {
-   "msg": "1538470953305112617",
-   "end": 1786883701,
-   "title": "Raffle Name",
    "items": 1,
    "ended": true
   },
@@ -5199,7 +5178,7 @@
    "end": 1787489341,
    "title": "Daily raffle #353",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OBNK2E": {
    "msg": "1540707320470839426",
@@ -5213,21 +5192,21 @@
    "end": 1787488622,
    "title": "Chuck E. Cheese",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "Y7F0HR": {
    "msg": "1540708954105974897",
    "end": 1787490000,
    "title": "Making the DENSEST sandwich with a HYDRAULIC PRESS",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0UYBRE": {
    "msg": "1540708961139957852",
    "end": 1787489941,
    "title": "gift of the day #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NQKTXN": {
    "msg": "1540714832330756246",
@@ -6634,6 +6613,90 @@
    "end": 1787572800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
+   "ended": false
+  },
+  "RKEUCU": {
+   "msg": "1541069697997611029",
+   "end": null,
+   "title": "quick question",
+   "items": 1,
+   "ended": false
+  },
+  "I1EATA": {
+   "msg": "1541069706469842944",
+   "end": 1787575741,
+   "title": "i got my dream noise.",
+   "items": 16,
+   "ended": false
+  },
+  "OF9FGE": {
+   "msg": "1541069714837479475",
+   "end": 1787575501,
+   "title": "More noise...",
+   "items": 1,
+   "ended": false
+  },
+  "SVRL98": {
+   "msg": "1541069726371938334",
+   "end": 1787575441,
+   "title": "I don't know what to write",
+   "items": 1,
+   "ended": false
+  },
+  "HOEBWA": {
+   "msg": "1541069732076068865",
+   "end": 1787575261,
+   "title": "idk",
+   "items": 1,
+   "ended": false
+  },
+  "T3XWS0": {
+   "msg": "1541069738971635722",
+   "end": 1787575202,
+   "title": "fiends falling out the sky",
+   "items": 2,
+   "ended": false
+  },
+  "Q7KBX3": {
+   "msg": "1541069745439113276",
+   "end": 1787575142,
+   "title": "Grabli304's raffle\u2503Day 175",
+   "items": 2,
+   "ended": false
+  },
+  "NBU7CP": {
+   "msg": "1541069752196399116",
+   "end": 1787575081,
+   "title": "abc",
+   "items": 1,
+   "ended": false
+  },
+  "907TCX": {
+   "msg": "1541069759548756120",
+   "end": 1787531101,
+   "title": "Raffling Scrap Till I'm Out #1012 (Super late raffle)",
+   "items": 1,
+   "ended": false
+  },
+  "MZ5UFC": {
+   "msg": "1541069766041542716",
+   "end": 1787574181,
+   "title": "Noise",
+   "items": 1,
+   "ended": false
+  },
+  "4VBT4R": {
+   "msg": "1541069771846586398",
+   "end": null,
+   "title": "I don't know what is it",
+   "items": 1,
+   "ended": false
+  },
+  "87EAFF": {
+   "msg": "1541069779031425125",
+   "end": 1787574061,
+   "title": "I'M MAKING NOISE",
+   "items": 2,
    "ended": false
   }
  },
