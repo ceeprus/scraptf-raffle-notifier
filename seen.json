@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "53K7ZQ": {
-   "msg": "1538132813247938560",
-   "end": 1786875721,
-   "title": "I've changed my profile entirely.",
-   "items": 1,
-   "ended": true
-  },
   "2SHDLD": {
    "msg": "1538136518617468948",
    "end": 1786876802,
@@ -6431,6 +6424,13 @@
    "end": 1787565241,
    "title": "i hate noisemakers",
    "items": 2,
+   "ended": false
+  },
+  "KWEUKG": {
+   "msg": "1541031929648775198",
+   "end": 1787566682,
+   "title": "Second raffle",
+   "items": 1,
    "ended": false
   }
  },
