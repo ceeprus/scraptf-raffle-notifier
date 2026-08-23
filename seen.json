@@ -98,39 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "WRXOI0": {
-   "msg": "1538208325169188935",
-   "end": 1786893721,
-   "title": "333,333 Vaccinator Milestone Giveaway! (1 of 3) (Rerun)",
-   "items": 18,
-   "ended": true
-  },
   "K2UNOS": {
    "msg": "1538211308405526609",
    "end": 1786894381,
    "title": "I have a question",
    "items": 2,
-   "ended": true
-  },
-  "UHMT8H": {
-   "msg": "1538211317197053982",
-   "end": 1786894201,
-   "title": "333,333 Vaccinator Milestone Giveaway! (3 of 3) (Rerun)",
-   "items": 18,
-   "ended": true
-  },
-  "OUWBWW": {
-   "msg": "1538211323060555876",
-   "end": 1786894200,
-   "title": "MK Poll #5 + The Favorites of Music #277 & #278",
-   "items": 1,
-   "ended": true
-  },
-  "26WFTS": {
-   "msg": "1538211331889696849",
-   "end": 1786893961,
-   "title": "333,333 Vaccinator Milestone Giveaway! (2 of 3) (Rerun)",
-   "items": 18,
    "ended": true
   },
   "FAKDEU": {
@@ -473,20 +445,6 @@
    "msg": "1538382009020326030",
    "end": 1786934041,
    "title": "Markiplier is streaming FNaF World",
-   "items": 1,
-   "ended": true
-  },
-  "EM00DU": {
-   "msg": "1538388125670187079",
-   "end": 1786893361,
-   "title": "hats for yall",
-   "items": 5,
-   "ended": true
-  },
-  "HPZRXO": {
-   "msg": "1538388131915497542",
-   "end": 1786893241,
-   "title": "Unclaimed Item",
    "items": 1,
    "ended": true
   },
@@ -5164,7 +5122,7 @@
    "end": 1787498341,
    "title": "one of these things is not like the others",
    "items": 100,
-   "ended": false
+   "ended": true
   },
   "LU638T": {
    "msg": "1540748066846412961",
@@ -6123,7 +6081,7 @@
    "end": 1787498941,
    "title": "My 1-st RAFFLE",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "JUORJZ": {
    "msg": "1541016825926520953",
@@ -6907,6 +6865,27 @@
    "end": 1787540701,
    "title": "team fortress series is 30 years old",
    "items": 5,
+   "ended": false
+  },
+  "QSAA1L": {
+   "msg": "1541107421722714163",
+   "end": 1787541541,
+   "title": "Happy Bday TF2!",
+   "items": 10,
+   "ended": false
+  },
+  "SL0I21": {
+   "msg": "1541107428190330920",
+   "end": 1787584621,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5VHZQH": {
+   "msg": "1541107434372735086",
+   "end": 1787584561,
+   "title": "\u02d2\ufe5a\u02ce\u02ca\u02d7)\u02d2\ufe5a)\u02d2\u02ce\u02ca\u02d7\ufe5a)\u02d2\ufe5a)\u02ce\u02ca\u02d7\u02d2\ufe5a)\u02ce\u02ca\u02d7",
+   "items": 1,
    "ended": false
   }
  },
