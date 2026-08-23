@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "P93KSN": {
-   "msg": "1538241508392566875",
-   "end": 1786901522,
-   "title": "I Drew Ts 19",
-   "items": 1,
-   "ended": true
-  },
   "NPI9EK": {
    "msg": "1538246105072930849",
    "end": 1786902242,
@@ -5129,7 +5122,7 @@
    "end": 1787506501,
    "title": "I wonder how many times I've managed to break the rules so far.",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "ZMIN9D": {
    "msg": "1540778431824793712",
@@ -6984,6 +6977,20 @@
    "end": 1787591341,
    "title": "Marvelous Sunday",
    "items": 1,
+   "ended": false
+  },
+  "G760HP": {
+   "msg": "1541140497911914636",
+   "end": 1787592841,
+   "title": "NOISE NOISE NOISE",
+   "items": 2,
+   "ended": false
+  },
+  "HBGZ9W": {
+   "msg": "1541140507642691645",
+   "end": 1787592602,
+   "title": "huh ft. Kendrick Lamar",
+   "items": 5,
    "ended": false
   }
  },
