@@ -5213,7 +5213,7 @@
    "end": 1787473141,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7KKPDR": {
    "msg": "1540645252443152385",
@@ -6073,6 +6073,69 @@
    "msg": "1540992675245727744",
    "end": 1787556181,
    "title": "We need LESS pyro mains #1",
+   "items": 1,
+   "ended": false
+  },
+  "P9WJN9": {
+   "msg": "1540998817741152326",
+   "end": 1787559361,
+   "title": "i'm a noisyboi",
+   "items": 1,
+   "ended": false
+  },
+  "IXJJIM": {
+   "msg": "1540998823458119771",
+   "end": 1787559061,
+   "title": "Make a noise",
+   "items": 1,
+   "ended": false
+  },
+  "35D4A2": {
+   "msg": "1540998829225156668",
+   "end": 1787558881,
+   "title": "My english is wery well",
+   "items": 1,
+   "ended": false
+  },
+  "G4993Z": {
+   "msg": "1540998834686005301",
+   "end": 1787558701,
+   "title": "who would have thought",
+   "items": 1,
+   "ended": false
+  },
+  "MEAZB6": {
+   "msg": "1540998841556275270",
+   "end": 1787558581,
+   "title": "mario :D",
+   "items": 1,
+   "ended": false
+  },
+  "6AVOLF": {
+   "msg": "1540998847562514512",
+   "end": 1787558401,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "48U07Q": {
+   "msg": "1540998853463904308",
+   "end": 1787558161,
+   "title": "The world needs more Reindoonicorns! (#592)",
+   "items": 1,
+   "ended": false
+  },
+  "NLZ9NH": {
+   "msg": "1540998860250288249",
+   "end": 1787558161,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9GKY6K": {
+   "msg": "1540998866588143646",
+   "end": 1787514901,
+   "title": "Noise.TF",
    "items": 1,
    "ended": false
   }
