@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "5QMYPX": {
-   "msg": "1538291395100413992",
-   "end": 1786913761,
-   "title": "Almost 100 Fallen Engineer Mains Milestone until Equestria gets a major Special Delivery of Slugma",
-   "items": 1,
-   "ended": true
-  },
-  "K85E69": {
-   "msg": "1538291406123307152",
-   "end": 1786913521,
-   "title": "[MVM] Graveyard Raffle (#13)",
-   "items": 25,
-   "ended": true
-  },
   "LKMW56": {
    "msg": "1538309319693701180",
    "end": 1786917600,
@@ -5066,14 +5052,14 @@
    "end": 1787518321,
    "title": "Clearing Inventory 'cause of my Free Space Dilemma: The Raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "TO4EA7": {
    "msg": "1540828124365979679",
    "end": 1787518081,
    "title": "Daily Brass Beast #546",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KETG87": {
    "msg": "1540828132075114496",
@@ -5087,7 +5073,7 @@
    "end": 1787518800,
    "title": "checkup #98 | Music",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GHEUCQ": {
    "msg": "1540835635466735738",
@@ -7221,6 +7207,13 @@
    "msg": "1541186761990865096",
    "end": 1787602921,
    "title": "Road to raffle veteran!",
+   "items": 1,
+   "ended": false
+  },
+  "PDXAOY": {
+   "msg": "1541190500772487299",
+   "end": 1787604241,
+   "title": "So much !",
    "items": 1,
    "ended": false
   }
