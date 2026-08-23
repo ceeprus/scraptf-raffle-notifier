@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "XVRPH2": {
-   "msg": "1538271598614941707",
-   "end": 1786908721,
-   "title": "Raffle 2, Take em all",
-   "items": 19,
-   "ended": true
-  },
-  "RUGKXP": {
-   "msg": "1538276295153160364",
-   "end": 1786909021,
-   "title": "Make some",
-   "items": 1,
-   "ended": true
-  },
   "RPATRQ": {
    "msg": "1538279229572128788",
    "end": 1786910400,
@@ -5094,14 +5080,14 @@
    "end": 1787514122,
    "title": "Yo imma write a novel",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R7AWT1": {
    "msg": "1540813038519713853",
    "end": 1787513881,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1513 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 22,
-   "ended": false
+   "ended": true
   },
   "KQ1HVJ": {
    "msg": "1540820540053258411",
@@ -7068,6 +7054,34 @@
    "end": 1787598722,
    "title": "Something a Little More Refined",
    "items": 5,
+   "ended": false
+  },
+  "7ONXPU": {
+   "msg": "1541170871346143242",
+   "end": 1787557141,
+   "title": "DO YOU WANT NOISE !!",
+   "items": 2,
+   "ended": false
+  },
+  "GUCTBM": {
+   "msg": "1541170880795771002",
+   "end": 1787557141,
+   "title": "Lets make some noise!",
+   "items": 2,
+   "ended": false
+  },
+  "1ZNDOP": {
+   "msg": "1541170889847079073",
+   "end": 1787600161,
+   "title": "Noise time",
+   "items": 2,
+   "ended": false
+  },
+  "JMRB58": {
+   "msg": "1541170896482472027",
+   "end": 1787556721,
+   "title": "FINAL !",
+   "items": 1,
    "ended": false
   }
  },
