@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "TPX4YN": {
-   "msg": "1537996929240404058",
-   "end": 1786843261,
-   "title": "This is what I come back to?",
-   "items": 1,
-   "ended": true
-  },
   "R0UKFL": {
    "msg": "1538004507332583474",
    "end": 1786844041,
    "title": "2nd Strange :D",
    "items": 1,
-   "ended": true
-  },
-  "Y6BE15": {
-   "msg": "1538004515343695945",
-   "end": 1786843681,
-   "title": "What was the strangest username you  guys have ever seen in tf2?",
-   "items": 3,
    "ended": true
   },
   "SQNN79": {
@@ -371,13 +357,6 @@
    "items": 1,
    "ended": true
   },
-  "B6Z4H3": {
-   "msg": "1538178116147749024",
-   "end": 1786842481,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "IXUMX6": {
    "msg": "1538182875952976003",
    "end": 1786887661,
@@ -390,13 +369,6 @@
    "end": 1786887482,
    "title": "Hoi!",
    "items": 20,
-   "ended": true
-  },
-  "K3ROO4": {
-   "msg": "1538182892507893892",
-   "end": 1786843800,
-   "title": "[DAY 12] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "N1XMU3": {
@@ -5927,6 +5899,13 @@
    "end": 1787531461,
    "title": "Hello!",
    "items": 2,
+   "ended": false
+  },
+  "9KXMM2": {
+   "msg": "1540896026053976184",
+   "end": 1787534281,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
