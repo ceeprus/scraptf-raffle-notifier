@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9FOICT": {
-   "msg": "1538053949687332894",
-   "end": 1786856942,
-   "title": "Raffle Log #99",
-   "items": 2,
-   "ended": true
-  },
-  "T4MHQ3": {
-   "msg": "1538057316853743658",
-   "end": 1786857661,
-   "title": "henlo",
-   "items": 20,
-   "ended": true
-  },
-  "E0T45D": {
-   "msg": "1538061787168247819",
-   "end": 1786858142,
-   "title": "Day 8 of asking for Slugma Chain emoticon",
-   "items": 3,
-   "ended": true
-  },
   "34SU9R": {
    "msg": "1538080018754838548",
    "end": 1786863122,
@@ -5528,7 +5507,7 @@
    "end": 1787461261,
    "title": "Slugpology for the delays.",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "8Y5ZZL": {
    "msg": "1540770811806224486",
@@ -5850,6 +5829,13 @@
    "end": 1787545202,
    "title": "Untitled raffle",
    "items": 100,
+   "ended": false
+  },
+  "G1KVM5": {
+   "msg": "1540956416544866304",
+   "end": 1787548921,
+   "title": "Question #68",
+   "items": 1,
    "ended": false
   }
  },
