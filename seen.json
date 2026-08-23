@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "SQNN79": {
-   "msg": "1538019630142980127",
-   "end": 1786847762,
-   "title": "Do not make my mistake",
-   "items": 2,
-   "ended": true
-  },
   "5HJHSM": {
    "msg": "1538021979808866355",
    "end": 1786849501,
@@ -5220,7 +5213,7 @@
    "end": 1787452921,
    "title": "breaking the raffle drought",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LOJ72S": {
    "msg": "1540563835499450428",
@@ -5891,6 +5884,20 @@
    "msg": "1540903620361592903",
    "end": 1787535661,
    "title": "I wonder how many times I've won from Terrible Terrence's Tune of the  MvM Update. Yummers",
+   "items": 1,
+   "ended": false
+  },
+  "1BMJMD": {
+   "msg": "1540918711580368986",
+   "end": 1787539922,
+   "title": "I enjoy playing Terraria, My name is Silva",
+   "items": 3,
+   "ended": false
+  },
+  "8WCWSX": {
+   "msg": "1540918717679140945",
+   "end": 1787539021,
+   "title": "top 10 people on this website",
    "items": 1,
    "ended": false
   }
