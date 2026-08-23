@@ -119,13 +119,6 @@
    "items": 182,
    "ended": true
   },
-  "N11UL6": {
-   "msg": "1538264880736641096",
-   "end": 1786906682,
-   "title": "hey",
-   "items": 20,
-   "ended": true
-  },
   "XVRPH2": {
    "msg": "1538271598614941707",
    "end": 1786908721,
@@ -5122,7 +5115,7 @@
    "end": 1787511302,
    "title": "I CAST KINDNESS UPON THEE THREE",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "AW5G0O": {
    "msg": "1540813024850485331",
@@ -7061,6 +7054,13 @@
    "end": 1787596200,
    "title": "I CAST KINDNESS UPON THEE THREE",
    "items": 5,
+   "ended": false
+  },
+  "NP6Q7I": {
+   "msg": "1541160305479127275",
+   "end": 1787597641,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
