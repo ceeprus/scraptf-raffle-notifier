@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "17UXDL": {
-   "msg": "1538287580997492836",
-   "end": 1786912502,
-   "title": "JAK JA KURWA KOCHAM DISCO POLO #175",
-   "items": 1,
-   "ended": true
-  },
   "5QMYPX": {
    "msg": "1538291395100413992",
    "end": 1786913761,
@@ -7194,6 +7187,41 @@
    "end": 1787602322,
    "title": "Noise (because yes)",
    "items": 20,
+   "ended": false
+  },
+  "DZJ6IW": {
+   "msg": "1541186729556574290",
+   "end": 1787604001,
+   "title": "STEAM COMMENTS #53",
+   "items": 1,
+   "ended": false
+  },
+  "KSHZP4": {
+   "msg": "1541186740818284590",
+   "end": 1787603581,
+   "title": "Daily raffle until TF2 gets a major update #600",
+   "items": 6,
+   "ended": false
+  },
+  "DUMMCI": {
+   "msg": "1541186748149932053",
+   "end": 1787560261,
+   "title": "Happy birthday, TF2!",
+   "items": 3,
+   "ended": false
+  },
+  "28T4QO": {
+   "msg": "1541186754466291734",
+   "end": 1787603162,
+   "title": "why hasnt scrap added  yet",
+   "items": 1,
+   "ended": false
+  },
+  "EZJDQV": {
+   "msg": "1541186761990865096",
+   "end": 1787602921,
+   "title": "Road to raffle veteran!",
+   "items": 1,
    "ended": false
   }
  },
