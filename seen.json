@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "RPATRQ": {
-   "msg": "1538279229572128788",
-   "end": 1786910400,
-   "title": "We need more Engineer Mains! | #005",
-   "items": 6,
-   "ended": true
-  },
-  "D7YSQC": {
-   "msg": "1538279239634255872",
-   "end": 1786910400,
-   "title": "Equestria Forever",
-   "items": 53,
-   "ended": true
-  },
-  "2CQ60S": {
-   "msg": "1538279245854285945",
-   "end": 1786910222,
-   "title": "Noise",
-   "items": 1,
-   "ended": true
-  },
   "17UXDL": {
    "msg": "1538287580997492836",
    "end": 1786912502,
@@ -515,13 +494,6 @@
    "msg": "1538578284261150762",
    "end": 1786981621,
    "title": "a lot of things i wanted to say",
-   "items": 1,
-   "ended": true
-  },
-  "NNRRDK": {
-   "msg": "1538578297611489300",
-   "end": 1786909381,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5073,7 +5045,7 @@
    "end": 1787514181,
    "title": "\u041c\u043e\u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0442\u0440\u0435\u0439\u0434\u0438\u0442\u044c\u0441\u044f",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "U11UMC": {
    "msg": "1540813031175622880",
@@ -5668,7 +5640,7 @@
    "end": 1787514901,
    "title": "Noise.TF",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DARNBN": {
    "msg": "1541001719448870992",
@@ -6515,7 +6487,7 @@
    "end": 1787514841,
    "title": "Great Style!",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "89AALI": {
    "msg": "1541084820975919166",
@@ -7081,6 +7053,41 @@
    "msg": "1541170896482472027",
    "end": 1787556721,
    "title": "FINAL !",
+   "items": 1,
+   "ended": false
+  },
+  "I7FJS7": {
+   "msg": "1541175392596009021",
+   "end": 1787601541,
+   "title": "AMA and i'll ignore you.",
+   "items": 1,
+   "ended": false
+  },
+  "VNYQS0": {
+   "msg": "1541175398866620497",
+   "end": 1787601181,
+   "title": "my honest opinion on \ud83e\uddc5",
+   "items": 1,
+   "ended": false
+  },
+  "4U481R": {
+   "msg": "1541175404985974865",
+   "end": 1787600821,
+   "title": "So many raffles! Have another one!",
+   "items": 1,
+   "ended": false
+  },
+  "5EV4YZ": {
+   "msg": "1541175412523016375",
+   "end": 1787600461,
+   "title": "moment",
+   "items": 1,
+   "ended": false
+  },
+  "7OXOAB": {
+   "msg": "1541175418760069202",
+   "end": 1787600401,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
