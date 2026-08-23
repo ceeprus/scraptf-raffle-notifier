@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "V0JFHZ": {
-   "msg": "1538188873006583980",
-   "end": 1786889521,
-   "title": "I joined my 600,000th public raffle",
-   "items": 1,
-   "ended": true
-  },
   "FH6N6J": {
    "msg": "1538193218380767244",
    "end": 1786890181,
@@ -5185,7 +5178,7 @@
    "end": 1787494141,
    "title": "Stupid Baka Raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "52AWES": {
    "msg": "1540729963651797047",
@@ -6830,6 +6823,13 @@
    "end": 1787579221,
    "title": "Noize",
    "items": 1,
+   "ended": false
+  },
+  "DXBIH1": {
+   "msg": "1541088327476973599",
+   "end": 1787536801,
+   "title": "Unclaimed Items",
+   "items": 3,
    "ended": false
   }
  },
