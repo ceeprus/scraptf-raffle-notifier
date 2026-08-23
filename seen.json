@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LXK358": {
-   "msg": "1537984898290290758",
-   "end": 1786840801,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "TPX4YN": {
    "msg": "1537996929240404058",
    "end": 1786843261,
@@ -5941,6 +5934,13 @@
    "end": 1787529181,
    "title": "MvM Update Australium Vote Part 12: Demoman Melees",
    "items": 3,
+   "ended": false
+  },
+  "UKX48C": {
+   "msg": "1540885037145391164",
+   "end": 1787531461,
+   "title": "Hello!",
+   "items": 2,
    "ended": false
   }
  },
