@@ -5080,14 +5080,14 @@
    "end": 1787527141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z44FHS": {
    "msg": "1540865828050837534",
    "end": 1787527081,
    "title": "My grandmother burned down her summer cottage.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KVDIJX": {
    "msg": "1540868819088838797",
@@ -5108,14 +5108,14 @@
    "end": 1787527561,
    "title": "Terrible Terrence's Terrible Heer",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FQR9JS": {
    "msg": "1540868838118268969",
    "end": 1787527381,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YCLKYI": {
    "msg": "1540880930388975716",
@@ -7326,6 +7326,13 @@
    "msg": "1541223590131802214",
    "end": 1787612400,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "XLPIP6": {
+   "msg": "1541228206529450075",
+   "end": 1787613781,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
