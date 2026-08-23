@@ -623,13 +623,6 @@
    "items": 1,
    "ended": true
   },
-  "ZHUPQM": {
-   "msg": "1538600900300509255",
-   "end": 1786904281,
-   "title": "Wowza",
-   "items": 1,
-   "ended": true
-  },
   "T5J82D": {
    "msg": "1538600907426496522",
    "end": 1786986961,
@@ -5122,14 +5115,14 @@
    "end": 1787509561,
    "title": "Special Delivery",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "QFLV7F": {
    "msg": "1540796532373192724",
    "end": 1787509442,
    "title": "Yummers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SBA3WZ": {
    "msg": "1540801933793697903",
@@ -6991,6 +6984,48 @@
    "end": 1787594642,
    "title": "So much noise @-@",
    "items": 3,
+   "ended": false
+  },
+  "46YQGQ": {
+   "msg": "1541152734986641478",
+   "end": 1787595661,
+   "title": "Take it",
+   "items": 1,
+   "ended": false
+  },
+  "N2ZYKY": {
+   "msg": "1541152744579145799",
+   "end": 1787595542,
+   "title": "I've lost everything I had (in tf2)",
+   "items": 12,
+   "ended": false
+  },
+  "MNQGZI": {
+   "msg": "1541152751419924540",
+   "end": 1787512441,
+   "title": "WHYYYYYYYYYYY",
+   "items": 1,
+   "ended": false
+  },
+  "UWUFS4": {
+   "msg": "1541152758147711026",
+   "end": 1787595061,
+   "title": "Raffling the thing",
+   "items": 1,
+   "ended": false
+  },
+  "UKJMB6": {
+   "msg": "1541152766225809510",
+   "end": 1787594941,
+   "title": "Raffling the thing",
+   "items": 1,
+   "ended": false
+  },
+  "TUJKNG": {
+   "msg": "1541152772911669279",
+   "end": 1787594821,
+   "title": "i can't think of a title for this raffle 30\u2122",
+   "items": 2,
    "ended": false
   }
  },
