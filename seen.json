@@ -5073,7 +5073,7 @@
    "end": 1787526061,
    "title": "Rambling of a loonatic",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VCII6L": {
    "msg": "1540865820484440246",
@@ -7312,6 +7312,20 @@
    "msg": "1541220703578361886",
    "end": 1787611441,
    "title": "Make some noise",
+   "items": 1,
+   "ended": false
+  },
+  "YWMTU0": {
+   "msg": "1541223581135011941",
+   "end": 1787612881,
+   "title": "Raffling a  every time I win a  #79",
+   "items": 1,
+   "ended": false
+  },
+  "751E2D": {
+   "msg": "1541223590131802214",
+   "end": 1787612400,
+   "title": "A  a day",
    "items": 1,
    "ended": false
   }
