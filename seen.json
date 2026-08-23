@@ -119,13 +119,6 @@
    "items": 2,
    "ended": true
   },
-  "F2BYTL": {
-   "msg": "1538321625714393129",
-   "end": 1786920061,
-   "title": "Grooviest Tracks #795",
-   "items": 2,
-   "ended": true
-  },
   "KDMNHH": {
    "msg": "1538324486665936926",
    "end": 1786921200,
@@ -7313,6 +7306,27 @@
    "end": 1787609341,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "TX4ODP": {
+   "msg": "1541216735527440484",
+   "end": 1787610842,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "V0LRMN": {
+   "msg": "1541216743328972912",
+   "end": 1787610721,
+   "title": "Untitled raffle",
+   "items": 21,
+   "ended": false
+  },
+  "LE059U": {
+   "msg": "1541216750534926348",
+   "end": 1787567521,
+   "title": "Take this. Donut want them.",
+   "items": 14,
    "ended": false
   }
  },
