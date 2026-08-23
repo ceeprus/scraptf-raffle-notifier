@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "WD0E76": {
-   "msg": "1538092443486912562",
-   "end": 1786866301,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #75 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "Y11W8P": {
-   "msg": "1538092450260848721",
-   "end": 1786866061,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #73 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "IKATCW": {
-   "msg": "1538095110859006042",
-   "end": 1786866601,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #76 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "EXW7MM": {
    "msg": "1538102619120078898",
    "end": 1786868522,
@@ -5227,7 +5206,7 @@
    "end": 1787471281,
    "title": "Happy   + Spreading kindess",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2OYIM7": {
    "msg": "1540639324121600120",
@@ -6011,6 +5990,97 @@
    "end": 1787554861,
    "title": "Dynamite Mario Notice Me Senpapi",
    "items": 3,
+   "ended": false
+  },
+  "ZVU6AP": {
+   "msg": "1540992581452828707",
+   "end": 1787557562,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "C6O0U2": {
+   "msg": "1540992589258297404",
+   "end": 1787557381,
+   "title": "Noise?",
+   "items": 1,
+   "ended": false
+  },
+  "EEJ224": {
+   "msg": "1540992595176587314",
+   "end": 1787557261,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6XEBV8": {
+   "msg": "1540992600834707551",
+   "end": 1787557202,
+   "title": "\u0410 \u0437\u0430\u0447\u0435\u043c \u0432\u043e\u043e\u0431\u0449\u0435 \u043d\u0443\u0436\u043d\u0430 \u044d\u0442\u0430 \u0448\u0442\u0443\u043a\u0430",
+   "items": 3,
+   "ended": false
+  },
+  "H3Y11F": {
+   "msg": "1540992607994519573",
+   "end": 1787557082,
+   "title": "It's a noise maker apocalypse!",
+   "items": 1,
+   "ended": false
+  },
+  "0L3FL8": {
+   "msg": "1540992621801902121",
+   "end": 1787556901,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MBGN7X": {
+   "msg": "1540992627762012210",
+   "end": 1787556842,
+   "title": "500 noise makers",
+   "items": 1,
+   "ended": false
+  },
+  "FTJCTM": {
+   "msg": "1540992634049405028",
+   "end": 1787556721,
+   "title": "First raffle!",
+   "items": 1,
+   "ended": false
+  },
+  "DJ9MGM": {
+   "msg": "1540992640282140695",
+   "end": 1787556482,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "CPWKZ0": {
+   "msg": "1540992646892355665",
+   "end": 1787556301,
+   "title": "Noise",
+   "items": 1,
+   "ended": false
+  },
+  "PXQBVS": {
+   "msg": "1540992653095735407",
+   "end": 1787556301,
+   "title": "Weekly Noisemaker Raffle #4... or well... Until I run out of noise makers",
+   "items": 1,
+   "ended": false
+  },
+  "WKAE30": {
+   "msg": "1540992659827462194",
+   "end": 1787556181,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "DWC60Y": {
+   "msg": "1540992675245727744",
+   "end": 1787556181,
+   "title": "We need LESS pyro mains #1",
+   "items": 1,
    "ended": false
   }
  },
