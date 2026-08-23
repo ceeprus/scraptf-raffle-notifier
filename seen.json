@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FH6N6J": {
-   "msg": "1538193218380767244",
-   "end": 1786890181,
-   "title": "New name?",
-   "items": 1,
-   "ended": true
-  },
-  "UKRP6T": {
-   "msg": "1538193225494302741",
-   "end": 1786889821,
-   "title": "My first raffle | \u041c\u043e\u0439 \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u043e\u0437\u044b\u0433\u0440\u044b\u0448",
-   "items": 5,
-   "ended": true
-  },
   "P0KLBK": {
    "msg": "1538200797538418708",
    "end": 1786891741,
@@ -6830,6 +6816,27 @@
    "end": 1787536801,
    "title": "Unclaimed Items",
    "items": 3,
+   "ended": false
+  },
+  "ZGB4JO": {
+   "msg": "1541092308328513546",
+   "end": 1787581201,
+   "title": "HAPPY BIRTHDAY TF2!!",
+   "items": 6,
+   "ended": false
+  },
+  "BFDUTD": {
+   "msg": "1541092314783682581",
+   "end": 1787581082,
+   "title": "2000 hours on this god forsaken game",
+   "items": 2,
+   "ended": false
+  },
+  "LXHCT0": {
+   "msg": "1541092323125895239",
+   "end": 1787580481,
+   "title": "Untitled raffle",
+   "items": 9,
    "ended": false
   }
  },
