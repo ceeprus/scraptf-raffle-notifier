@@ -5206,14 +5206,14 @@
    "end": 1787469841,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "29YBOK": {
    "msg": "1540624249763528867",
    "end": 1787469481,
    "title": "top of people i like on this site",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T2DVQB": {
    "msg": "1540624258722701364",
@@ -5927,6 +5927,90 @@
    "end": 1787553181,
    "title": "I owe everyone an apology!",
    "items": 1,
+   "ended": false
+  },
+  "RSH481": {
+   "msg": "1540986622219264010",
+   "end": 1787556001,
+   "title": "cat noise 3",
+   "items": 2,
+   "ended": false
+  },
+  "UMHDPG": {
+   "msg": "1540986628242145281",
+   "end": 1787555581,
+   "title": "Attention! 3/3",
+   "items": 1,
+   "ended": false
+  },
+  "SMSLBN": {
+   "msg": "1540986634349187093",
+   "end": 1787555461,
+   "title": "cat noise 2",
+   "items": 1,
+   "ended": false
+  },
+  "U9FVH5": {
+   "msg": "1540986640116359188",
+   "end": 1787555402,
+   "title": "Noisy noisy",
+   "items": 1,
+   "ended": false
+  },
+  "FZZ56N": {
+   "msg": "1540986646386712658",
+   "end": 1787555402,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "BM5YJ5": {
+   "msg": "1540986653844185149",
+   "end": 1787555281,
+   "title": "Time to make some noise I think",
+   "items": 10,
+   "ended": false
+  },
+  "E2BZ46": {
+   "msg": "1540986659888308254",
+   "end": 1787512021,
+   "title": "cat noise",
+   "items": 1,
+   "ended": false
+  },
+  "Y64WI2": {
+   "msg": "1540986666422894654",
+   "end": 1787555161,
+   "title": "There's more",
+   "items": 1,
+   "ended": false
+  },
+  "U1YOPW": {
+   "msg": "1540986673347829770",
+   "end": 1787555101,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "HDKTLW": {
+   "msg": "1540986679899324497",
+   "end": 1787554922,
+   "title": "Untitled raffle",
+   "items": 7,
+   "ended": false
+  },
+  "47H1ZS": {
+   "msg": "1540986685670690827",
+   "end": 1787554922,
+   "title": "MAKERS NOISE RAFFLE",
+   "items": 1,
+   "ended": false
+  },
+  "M736RU": {
+   "msg": "1540986692301881386",
+   "end": 1787554861,
+   "title": "Dynamite Mario Notice Me Senpapi",
+   "items": 3,
    "ended": false
   }
  },
