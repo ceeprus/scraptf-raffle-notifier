@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "EEVL20": {
-   "msg": "1538231000981700629",
-   "end": 1786898642,
-   "title": "Scrap.tf Birthdays - 15 August",
-   "items": 6,
-   "ended": true
-  },
-  "2EFV80": {
-   "msg": "1538231010813018273",
-   "end": 1786898461,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1506 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 15,
-   "ended": true
-  },
   "VAI6R9": {
    "msg": "1538234160290992330",
    "end": 1786899601,
@@ -5136,14 +5122,14 @@
    "end": 1787503021,
    "title": "Scrap.tf Birthdays - 22 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VDKDI6": {
    "msg": "1540767718456954884",
    "end": 1787503681,
    "title": "the spire.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5APZYL": {
    "msg": "1540770793355485194",
@@ -6906,6 +6892,62 @@
    "msg": "1541122524195065877",
    "end": 1787588101,
    "title": "i just wanna win a raffle :'(",
+   "items": 1,
+   "ended": false
+  },
+  "R0VF28": {
+   "msg": "1541127035185795102",
+   "end": 1787589661,
+   "title": "Noisemania",
+   "items": 1,
+   "ended": false
+  },
+  "0DWGUJ": {
+   "msg": "1541127042152800276",
+   "end": 1787589541,
+   "title": "Mama Mia",
+   "items": 1,
+   "ended": false
+  },
+  "3GSTG6": {
+   "msg": "1541127048200847441",
+   "end": 1787589541,
+   "title": "Noisy",
+   "items": 1,
+   "ended": false
+  },
+  "V4IW23": {
+   "msg": "1541127053947179028",
+   "end": 1787589482,
+   "title": "Noisy",
+   "items": 1,
+   "ended": false
+  },
+  "UVUDSK": {
+   "msg": "1541127060238499931",
+   "end": 1787589361,
+   "title": "Noisy",
+   "items": 1,
+   "ended": false
+  },
+  "SQZA42": {
+   "msg": "1541127066164924526",
+   "end": 1787589241,
+   "title": "1st Raffle, admist all this spam lmao",
+   "items": 1,
+   "ended": false
+  },
+  "824MNC": {
+   "msg": "1541127072842252308",
+   "end": 1787589241,
+   "title": "Noisy",
+   "items": 1,
+   "ended": false
+  },
+  "V17IDU": {
+   "msg": "1541127078437593159",
+   "end": 1787589002,
+   "title": "200+ Public raffles god damn!",
    "items": 1,
    "ended": false
   }
