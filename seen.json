@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "5HJHSM": {
-   "msg": "1538021979808866355",
-   "end": 1786849501,
-   "title": "Read at your own risk NOTE POLITICS",
-   "items": 2,
-   "ended": true
-  },
-  "TSS3QS": {
-   "msg": "1538021987325050911",
-   "end": 1786849261,
-   "title": "The world needs more Reindoonicorns! (#591)",
-   "items": 1,
-   "ended": true
-  },
-  "2M721R": {
-   "msg": "1538027119865757786",
-   "end": 1786850101,
-   "title": "something awesome happened",
-   "items": 1,
-   "ended": true
-  },
   "AGJ6OP": {
    "msg": "1538034729641582662",
    "end": 1786852201,
@@ -5220,14 +5199,14 @@
    "end": 1787455202,
    "title": "Scrapyard #192",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OPD21R": {
    "msg": "1540563842147291156",
    "end": 1787454601,
    "title": "day one of trying to get a heavy lifer",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GQ778H": {
    "msg": "1540571429286846505",
