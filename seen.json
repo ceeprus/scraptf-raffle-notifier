@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "EXW7MM": {
-   "msg": "1538102619120078898",
-   "end": 1786868522,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #74 #SundownerSweep\ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "PEZC8O": {
    "msg": "1538114328576790649",
    "end": 1786870561,
@@ -494,13 +487,6 @@
    "msg": "1538287580997492836",
    "end": 1786912502,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #175",
-   "items": 1,
-   "ended": true
-  },
-  "PIUNBX": {
-   "msg": "1538287590615289987",
-   "end": 1786869000,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -5206,7 +5192,7 @@
    "end": 1787473262,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H63ROG": {
    "msg": "1540639330442289182",
@@ -5227,7 +5213,7 @@
    "end": 1787473321,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DU4SPN": {
    "msg": "1540662016321257606",
@@ -6136,6 +6122,20 @@
    "msg": "1540998866588143646",
    "end": 1787514901,
    "title": "Noise.TF",
+   "items": 1,
+   "ended": false
+  },
+  "DARNBN": {
+   "msg": "1541001719448870992",
+   "end": 1787559902,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4ENDMK": {
+   "msg": "1541001726386245734",
+   "end": 1787559902,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
