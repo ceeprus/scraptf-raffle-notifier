@@ -105,20 +105,6 @@
    "items": 19,
    "ended": true
   },
-  "OOXQPJ": {
-   "msg": "1538271605304725578",
-   "end": 1786908601,
-   "title": "a bit of noise never killed anyone #43",
-   "items": 2,
-   "ended": true
-  },
-  "705KN7": {
-   "msg": "1538271612325994557",
-   "end": 1786908421,
-   "title": "I'll be a better medic!",
-   "items": 1,
-   "ended": true
-  },
   "RUGKXP": {
    "msg": "1538276295153160364",
    "end": 1786909021,
@@ -6515,7 +6501,7 @@
    "end": 1787513102,
    "title": "Take it",
    "items": 27,
-   "ended": false
+   "ended": true
   },
   "Q1AOPY": {
    "msg": "1541082448463527956",
@@ -7047,6 +7033,41 @@
    "end": 1787598000,
    "title": "#34 Weekly dose of Polish songs",
    "items": 1,
+   "ended": false
+  },
+  "TSK4D1": {
+   "msg": "1541167823269658765",
+   "end": 1787599321,
+   "title": "Make some noise",
+   "items": 1,
+   "ended": false
+  },
+  "ET8I82": {
+   "msg": "1541167829989072986",
+   "end": 1787599261,
+   "title": "Q&A answers",
+   "items": 1,
+   "ended": false
+  },
+  "IN5RSE": {
+   "msg": "1541167836729311272",
+   "end": 1787599082,
+   "title": "Make some noise",
+   "items": 1,
+   "ended": false
+  },
+  "2K9VGX": {
+   "msg": "1541167843410706442",
+   "end": 1787598962,
+   "title": "Make some noise",
+   "items": 1,
+   "ended": false
+  },
+  "R2M8XV": {
+   "msg": "1541167851728273498",
+   "end": 1787598722,
+   "title": "Something a Little More Refined",
+   "items": 5,
    "ended": false
   }
  },
