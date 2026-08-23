@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "2SHDLD": {
-   "msg": "1538136518617468948",
-   "end": 1786876802,
-   "title": "Random wasp I drew",
-   "items": 2,
-   "ended": true
-  },
   "9LNLH7": {
    "msg": "1538143104731717673",
    "end": 1786878000,
@@ -5199,14 +5192,14 @@
    "end": 1787481662,
    "title": "Grooviest Tracks #794",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "1UA698": {
    "msg": "1540677142029795349",
    "end": 1787481601,
    "title": "The pass it forward raffle! (#16)",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "FB57PQ": {
    "msg": "1540680168769851524",
@@ -5570,7 +5563,7 @@
    "end": 1787481961,
    "title": "I am MilkManFromMars",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "KSCOUC": {
    "msg": "1540861221861855344",
@@ -6430,6 +6423,13 @@
    "msg": "1541031929648775198",
    "end": 1787566682,
    "title": "Second raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TIDQ25": {
+   "msg": "1541036237287329863",
+   "end": 1787568361,
+   "title": "I heard you like",
    "items": 1,
    "ended": false
   }
