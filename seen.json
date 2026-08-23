@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "K9P8VC": {
-   "msg": "1537974335619203174",
-   "end": 1786838041,
-   "title": "\ud83d\udc1f \ud83c\udf0a #SundownerSweep \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "7CX6AU": {
-   "msg": "1537974345983328266",
-   "end": 1786837501,
-   "title": "333,333 Vaccinator Milestone Giveaway! (3 of 3)",
-   "items": 18,
-   "ended": true
-  },
   "LXK358": {
    "msg": "1537984898290290758",
    "end": 1786840801,
@@ -5945,9 +5931,9 @@
   }
  },
  "megaraffle": {
-  "num": 1167,
-  "end": 1787443200,
-  "msg": "1539786298796285953",
+  "num": 1168,
+  "end": 1787702400,
+  "msg": "1540873437155950644",
   "ended": false
  }
 }
