@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "P0KLBK": {
-   "msg": "1538200797538418708",
-   "end": 1786891741,
-   "title": "wuh buh guh",
-   "items": 3,
-   "ended": true
-  },
   "Z2ATG3": {
    "msg": "1538203483210260611",
    "end": 1786892701,
@@ -6864,6 +6857,55 @@
    "msg": "1541096351511617607",
    "end": 1787581801,
    "title": "I don't need this",
+   "items": 1,
+   "ended": false
+  },
+  "SXKRLK": {
+   "msg": "1541099914606674042",
+   "end": 1787583600,
+   "title": "You're listening to SPICE FM (47)",
+   "items": 5,
+   "ended": false
+  },
+  "3AT68X": {
+   "msg": "1541099926300393592",
+   "end": 1787583121,
+   "title": "ref with extra steps",
+   "items": 1,
+   "ended": false
+  },
+  "OLQOR1": {
+   "msg": "1541099935443845330",
+   "end": 1787583062,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SUZ5SB": {
+   "msg": "1541099943572406402",
+   "end": 1787582941,
+   "title": "Latest art I wish to share",
+   "items": 4,
+   "ended": false
+  },
+  "2J0KQZ": {
+   "msg": "1541099950287364167",
+   "end": 1787582881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "C6L6GH": {
+   "msg": "1541099963348557834",
+   "end": 1787582702,
+   "title": "getting pretty loud around here",
+   "items": 3,
+   "ended": false
+  },
+  "WXIJYT": {
+   "msg": "1541099972756377744",
+   "end": 1787582702,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
