@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Z2ATG3": {
-   "msg": "1538203483210260611",
-   "end": 1786892701,
-   "title": "medigun scavengr hunt",
-   "items": 1,
-   "ended": true
-  },
   "WRXOI0": {
    "msg": "1538208325169188935",
    "end": 1786893721,
@@ -6907,6 +6900,13 @@
    "end": 1787582702,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "5213NW": {
+   "msg": "1541103079271956630",
+   "end": 1787540701,
+   "title": "team fortress series is 30 years old",
+   "items": 5,
    "ended": false
   }
  },
