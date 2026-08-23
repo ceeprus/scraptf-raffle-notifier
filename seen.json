@@ -5213,14 +5213,14 @@
    "end": 1787490722,
    "title": "Space stealer!",
    "items": 40,
-   "ended": false
+   "ended": true
   },
   "WQ70T8": {
    "msg": "1540714838769143828",
    "end": 1787490541,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "G3C3PS": {
    "msg": "1540719601761914930",
@@ -6725,6 +6725,20 @@
    "end": 1787575981,
    "title": "Regular raffle too",
    "items": 3,
+   "ended": false
+  },
+  "VHK1IH": {
+   "msg": "1541077218728615967",
+   "end": 1787577241,
+   "title": "Cleaning out my backpack",
+   "items": 1,
+   "ended": false
+  },
+  "ZZU5OJ": {
+   "msg": "1541077225661669496",
+   "end": 1787577182,
+   "title": "i really need an answer",
+   "items": 1,
    "ended": false
   }
  },
