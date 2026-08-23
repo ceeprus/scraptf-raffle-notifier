@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OWUAEG": {
-   "msg": "1538238502003671090",
-   "end": 1786900681,
-   "title": "Hello Scrap.tf! First time here",
-   "items": 1,
-   "ended": true
-  },
   "P93KSN": {
    "msg": "1538241508392566875",
    "end": 1786901522,
@@ -431,13 +424,6 @@
    "msg": "1538411422403534918",
    "end": 1786941661,
    "title": "Kiestu has drank a liquefied brownie and ice cream drink",
-   "items": 1,
-   "ended": true
-  },
-  "DQ3S3Z": {
-   "msg": "1538419703872229446",
-   "end": 1786901400,
-   "title": "[DAY 13] Scrap tf HG",
    "items": 1,
    "ended": true
   },
@@ -5136,7 +5122,7 @@
    "end": 1787505781,
    "title": "i can't think of a title for this raffle 29\u2122",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F86UE9": {
    "msg": "1540778424094822400",
@@ -5150,7 +5136,7 @@
    "end": 1787506141,
    "title": "Kiestu crafting ALL the weapons.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UO5T8B": {
    "msg": "1540786679839854625",
@@ -6963,6 +6949,41 @@
    "end": 1787590501,
    "title": "Grooviest Tracks #793",
    "items": 2,
+   "ended": false
+  },
+  "8QOCGG": {
+   "msg": "1541137608510414879",
+   "end": 1787592002,
+   "title": "First Raffle + Noise-mania",
+   "items": 1,
+   "ended": false
+  },
+  "KM1TJ7": {
+   "msg": "1541137615611363559",
+   "end": 1787591941,
+   "title": "thingamajig",
+   "items": 1,
+   "ended": false
+  },
+  "PHP5UE": {
+   "msg": "1541137622343098480",
+   "end": 1787591821,
+   "title": "Scrap Album: Side 1",
+   "items": 1,
+   "ended": false
+  },
+  "SP5KT8": {
+   "msg": "1541137628890398792",
+   "end": 1787591401,
+   "title": "stay away",
+   "items": 1,
+   "ended": false
+  },
+  "AE4TRW": {
+   "msg": "1541137634762555443",
+   "end": 1787591341,
+   "title": "Marvelous Sunday",
+   "items": 1,
    "ended": false
   }
  },
