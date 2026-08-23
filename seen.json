@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "PEZC8O": {
-   "msg": "1538114328576790649",
-   "end": 1786870561,
-   "title": "I See You",
-   "items": 1,
-   "ended": true
-  },
   "CXWZ7D": {
    "msg": "1538125313089736754",
    "end": 1786873562,
@@ -6178,6 +6171,34 @@
    "msg": "1541007899327991848",
    "end": 1787560321,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "W68XUT": {
+   "msg": "1541009303878762571",
+   "end": 1787561641,
+   "title": "\u041d\u0435\u0443\u0436\u0435\u043b\u0438 \u0432\u0441\u0451 \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e \u0445\u043e\u0440\u043e\u0448\u043e",
+   "items": 1,
+   "ended": false
+  },
+  "P8FFBE": {
+   "msg": "1541009311428386877",
+   "end": 1787561581,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #9",
+   "items": 1,
+   "ended": false
+  },
+  "87TVKO": {
+   "msg": "1541009319812665396",
+   "end": 1787561461,
+   "title": "Thank Mr. Mario",
+   "items": 2,
+   "ended": false
+  },
+  "5RPJVG": {
+   "msg": "1541009327081394247",
+   "end": 1787561401,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #8",
    "items": 1,
    "ended": false
   }
