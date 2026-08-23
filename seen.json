@@ -714,13 +714,6 @@
    "items": 1,
    "ended": true
   },
-  "8IUQJO": {
-   "msg": "1538283816404131893",
-   "end": 1786838942,
-   "title": "Almost 100 tours with no Aussie",
-   "items": 50,
-   "ended": true
-  },
   "17UXDL": {
    "msg": "1538287580997492836",
    "end": 1786912502,
@@ -795,13 +788,6 @@
    "msg": "1538324492802334851",
    "end": 1786921142,
    "title": "Win a Raffle, Make a Raffle! 3",
-   "items": 1,
-   "ended": true
-  },
-  "LW30SM": {
-   "msg": "1538329104560955423",
-   "end": 1786839601,
-   "title": "Something",
    "items": 1,
    "ended": true
   },
@@ -5290,7 +5276,7 @@
    "end": 1787444701,
    "title": "noise 407",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X0IVKY": {
    "msg": "1540518554233733153",
@@ -5927,6 +5913,34 @@
    "end": 1787527381,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "YCLKYI": {
+   "msg": "1540880930388975716",
+   "end": 1787530681,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "2R8NUV": {
+   "msg": "1540880937833992352",
+   "end": 1787530442,
+   "title": "Item won from megaraffle",
+   "items": 1,
+   "ended": false
+  },
+  "Y37HKQ": {
+   "msg": "1540880948508233748",
+   "end": 1787446381,
+   "title": "Post your favorite music",
+   "items": 48,
+   "ended": false
+  },
+  "7JSHWY": {
+   "msg": "1540880955659780146",
+   "end": 1787529181,
+   "title": "MvM Update Australium Vote Part 12: Demoman Melees",
+   "items": 3,
    "ended": false
   }
  },
