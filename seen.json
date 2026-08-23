@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "VAI6R9": {
-   "msg": "1538234160290992330",
-   "end": 1786899601,
-   "title": "First raffle, rando stuff!",
-   "items": 50,
-   "ended": true
-  },
-  "Z6NSHJ": {
-   "msg": "1538234168016896091",
-   "end": 1786899600,
-   "title": "Daily raffle until TF2 gets a major update #592",
-   "items": 3,
-   "ended": true
-  },
   "OWUAEG": {
    "msg": "1538238502003671090",
    "end": 1786900681,
@@ -5150,7 +5136,7 @@
    "end": 1787504400,
    "title": "Daily raffle until TF2 gets a major update #599",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "YB049H": {
    "msg": "1540775224285339779",
@@ -6948,6 +6934,27 @@
    "msg": "1541127078437593159",
    "end": 1787589002,
    "title": "200+ Public raffles god damn!",
+   "items": 1,
+   "ended": false
+  },
+  "5ZQUEC": {
+   "msg": "1541130114199457884",
+   "end": 1787590082,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0VS5H1": {
+   "msg": "1541130121669517354",
+   "end": 1787589962,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WT7CGW": {
+   "msg": "1541130132712988783",
+   "end": 1787589781,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
