@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "LTE4E1": {
-   "msg": "1538042218164781188",
-   "end": 1786853101,
-   "title": "rufleee",
-   "items": 1,
-   "ended": true
-  },
   "Z4NMOA": {
    "msg": "1538048114366095400",
    "end": 1786855381,
@@ -5213,7 +5206,7 @@
    "end": 1787457961,
    "title": "Caf\u00e9 Crit-A-Coffee #1764",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "NJ4MY0": {
    "msg": "1540585541085560973",
@@ -5864,6 +5857,13 @@
    "end": 1787460181,
    "title": "Take it, Spongebob",
    "items": 8,
+   "ended": false
+  },
+  "T22NDI": {
+   "msg": "1540935629112737843",
+   "end": 1787543762,
+   "title": "A Night Out",
+   "items": 1,
    "ended": false
   }
  },
