@@ -476,13 +476,6 @@
    "items": 4,
    "ended": true
   },
-  "7G1NJY": {
-   "msg": "1538344206601420852",
-   "end": 1786882862,
-   "title": "stuff",
-   "items": 5,
-   "ended": true
-  },
   "VQOIF9": {
    "msg": "1538344217804410971",
    "end": 1786924322,
@@ -5192,14 +5185,14 @@
    "end": 1787487422,
    "title": "Mvm Loot",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "EU32A7": {
    "msg": "1540699735013335050",
    "end": 1787487393,
    "title": "[THE END] Scrap tf HG",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QH0NFK": {
    "msg": "1540707314053423134",
@@ -6620,6 +6613,27 @@
    "end": 1787572381,
    "title": "Preference Survey",
    "items": 10,
+   "ended": false
+  },
+  "4L1OAN": {
+   "msg": "1541059681936482365",
+   "end": 1787573941,
+   "title": "50 Noise Producers",
+   "items": 50,
+   "ended": false
+  },
+  "4K7JLO": {
+   "msg": "1541059688773193809",
+   "end": 1787572862,
+   "title": "Untitled raffle",
+   "items": 13,
+   "ended": false
+  },
+  "HKUNQ2": {
+   "msg": "1541059694771310692",
+   "end": 1787572800,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
    "ended": false
   }
  },
