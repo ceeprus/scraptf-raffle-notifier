@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "GPY6ZL": {
-   "msg": "1538160333800210504",
-   "end": 1786881600,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "7XQCUH": {
    "msg": "1538170607605391380",
    "end": 1786884061,
@@ -5185,14 +5178,14 @@
    "end": 1787485801,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AZQIBW": {
    "msg": "1540697224823054416",
    "end": 1787486400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KAVTDS": {
    "msg": "1540699728570744914",
@@ -6585,6 +6578,48 @@
    "end": 1787571181,
    "title": "\ud83c\udf0a \ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "5RFROS": {
+   "msg": "1541054596699529229",
+   "end": 1787572741,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "L3AI0G": {
+   "msg": "1541054603813068810",
+   "end": 1787572621,
+   "title": "Bring The Noise!",
+   "items": 1,
+   "ended": false
+  },
+  "J713M1": {
+   "msg": "1541054613439123526",
+   "end": 1787572501,
+   "title": "We need LESS pyro mains #2 #antinoise",
+   "items": 1,
+   "ended": false
+  },
+  "1EEVNF": {
+   "msg": "1541054624574869546",
+   "end": 1787529301,
+   "title": "mariooooooooooooooooooooooooooo mariooooooooooooooooooooooooooooooooo",
+   "items": 1,
+   "ended": false
+  },
+  "F950ML": {
+   "msg": "1541054632887980032",
+   "end": 1787572501,
+   "title": "Who is Noisemaker?",
+   "items": 1,
+   "ended": false
+  },
+  "YTA8D3": {
+   "msg": "1541054642555723887",
+   "end": 1787572381,
+   "title": "Preference Survey",
+   "items": 10,
    "ended": false
   }
  },
