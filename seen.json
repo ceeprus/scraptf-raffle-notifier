@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "6M43TW": {
-   "msg": "1537996943450578994",
-   "end": 1786842000,
-   "title": "Reminder to eat n' drink water if ye haven't yet #272",
-   "items": 5,
-   "ended": true
-  },
-  "BAZ3UC": {
-   "msg": "1537996950509719593",
-   "end": 1786842000,
-   "title": "17th Birthday yippee  \ud83c\udf89",
-   "items": 10,
-   "ended": true
-  },
   "R0UKFL": {
    "msg": "1538004507332583474",
    "end": 1786844041,
@@ -5927,7 +5913,7 @@
    "end": 1787446381,
    "title": "Post your favorite music",
    "items": 48,
-   "ended": false
+   "ended": true
   },
   "7JSHWY": {
    "msg": "1540880955659780146",
