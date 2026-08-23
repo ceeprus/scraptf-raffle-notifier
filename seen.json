@@ -5570,7 +5570,7 @@
    "end": 1787474761,
    "title": "week of rainblower!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "405ZP3": {
    "msg": "1540831173746368552",
@@ -6135,6 +6135,48 @@
   "4ENDMK": {
    "msg": "1541001726386245734",
    "end": 1787559902,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1KLCRB": {
+   "msg": "1541007869925654568",
+   "end": 1787561221,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #7",
+   "items": 1,
+   "ended": false
+  },
+  "4FWAGY": {
+   "msg": "1541007875722444880",
+   "end": 1787560981,
+   "title": "wow",
+   "items": 1,
+   "ended": false
+  },
+  "Z15CFS": {
+   "msg": "1541007881267183679",
+   "end": 1787560801,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "IBUX9T": {
+   "msg": "1541007887365840967",
+   "end": 1787560501,
+   "title": "Take my Noise",
+   "items": 1,
+   "ended": false
+  },
+  "6UHGZ6": {
+   "msg": "1541007893497782332",
+   "end": 1787560442,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5OH9VT": {
+   "msg": "1541007899327991848",
+   "end": 1787560321,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
