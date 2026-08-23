@@ -5087,7 +5087,7 @@
    "end": 1787523961,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IWCLYT": {
    "msg": "1540858314479509514",
@@ -7284,6 +7284,34 @@
    "msg": "1541208540998537296",
    "end": 1787609102,
    "title": "once in a while",
+   "items": 1,
+   "ended": false
+  },
+  "Y2NWLQ": {
+   "msg": "1541213109086191719",
+   "end": 1787609641,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0XGKKQ": {
+   "msg": "1541213115746623529",
+   "end": 1787609522,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RQLQUB": {
+   "msg": "1541213121916571678",
+   "end": 1787609461,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GR99LY": {
+   "msg": "1541213127314768024",
+   "end": 1787609341,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
