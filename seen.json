@@ -112,13 +112,6 @@
    "items": 5,
    "ended": true
   },
-  "8HWK49": {
-   "msg": "1538347763031613490",
-   "end": 1786926242,
-   "title": "slugma chain raffle #8",
-   "items": 3,
-   "ended": true
-  },
   "6Q8NB3": {
    "msg": "1538359310243991652",
    "end": 1786928521,
@@ -5108,14 +5101,14 @@
    "end": 1787530681,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "2R8NUV": {
    "msg": "1540880937833992352",
    "end": 1787530442,
    "title": "Item won from megaraffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y37HKQ": {
    "msg": "1540880948508233748",
@@ -6235,7 +6228,7 @@
    "end": 1787531101,
    "title": "Raffling Scrap Till I'm Out #1012 (Super late raffle)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MZ5UFC": {
    "msg": "1541069766041542716",
@@ -7320,6 +7313,20 @@
    "end": 1787613781,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "P71HU4": {
+   "msg": "1541243315716886601",
+   "end": 1787552761,
+   "title": "muahahahahaha",
+   "items": 1,
+   "ended": false
+  },
+  "JHCYSU": {
+   "msg": "1541243322784284733",
+   "end": 1787617441,
+   "title": "Happy B-Day tf2",
+   "items": 11,
    "ended": false
   }
  },
