@@ -5080,14 +5080,14 @@
    "end": 1787550301,
    "title": "bim bim bom",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IR8NV2": {
    "msg": "1540964011426717787",
    "end": 1787549641,
    "title": "Graveyard Raffle (#14)",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "S6G7R8": {
    "msg": "1540971526851924039",
@@ -7439,6 +7439,34 @@
    "end": 1787590802,
    "title": "Raffling Scrap Till I'm Out #1013 (Quick)",
    "items": 1,
+   "ended": false
+  },
+  "Q1UMEB": {
+   "msg": "1541326251472588891",
+   "end": 1787636821,
+   "title": "\u2014",
+   "items": 1,
+   "ended": false
+  },
+  "XNPHEY": {
+   "msg": "1541326258569351189",
+   "end": 1787636581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KC50RT": {
+   "msg": "1541326265896665148",
+   "end": 1787636401,
+   "title": "1 172 200",
+   "items": 1,
+   "ended": false
+  },
+  "RPFIC7": {
+   "msg": "1541326273635291158",
+   "end": 1787635681,
+   "title": "[coollion]  First raffle. [coollion]",
+   "items": 2,
    "ended": false
   }
  },
