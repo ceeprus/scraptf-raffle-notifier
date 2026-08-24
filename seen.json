@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Q7XNLX": {
-   "msg": "1538555605244055562",
-   "end": 1786976702,
-   "title": "Noise Maker - Winter Holiday",
-   "items": 52,
-   "ended": true
-  },
-  "P28RCG": {
-   "msg": "1538555613016236193",
-   "end": 1786976282,
-   "title": "Repairs.",
-   "items": 3,
-   "ended": true
-  },
   "M7I9F9": {
    "msg": "1538566151422869585",
    "end": 1786978921,
@@ -361,13 +347,6 @@
    "msg": "1538729296653459517",
    "end": 1787016421,
    "title": "Hotels are NOT REAL",
-   "items": 1,
-   "ended": true
-  },
-  "8VSYTZ": {
-   "msg": "1538736789118910525",
-   "end": 1786976341,
-   "title": "Lost my Childest account, lets start again",
    "items": 1,
    "ended": true
   },
@@ -6137,21 +6116,21 @@
    "end": 1787581201,
    "title": "HAPPY BIRTHDAY TF2!!",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "BFDUTD": {
    "msg": "1541092314783682581",
    "end": 1787581082,
    "title": "2000 hours on this god forsaken game",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LXHCT0": {
    "msg": "1541092323125895239",
    "end": 1787580481,
    "title": "Untitled raffle",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "AO0YNV": {
    "msg": "1541096332150964344",
@@ -6179,7 +6158,7 @@
    "end": 1787581801,
    "title": "I don't need this",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SXKRLK": {
    "msg": "1541099914606674042",
@@ -7648,6 +7627,13 @@
    "msg": "1541439681701478531",
    "end": 1787662800,
    "title": "Low effort raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LPMU6X": {
+   "msg": "1541454723520139315",
+   "end": 1787667482,
+   "title": "gassy",
    "items": 1,
    "ended": false
   }
