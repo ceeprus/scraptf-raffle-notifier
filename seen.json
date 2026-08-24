@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "PDGWRE": {
-   "msg": "1538661296394997872",
-   "end": 1787001961,
-   "title": "#33 Weekly dose of Polish songs",
-   "items": 1,
-   "ended": true
-  },
   "EG4XY7": {
    "msg": "1538668879897821374",
    "end": 1787003461,
@@ -368,20 +361,6 @@
    "msg": "1538850082101796894",
    "end": 1787002442,
    "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #82 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "8F6NKM": {
-   "msg": "1538850088787513456",
-   "end": 1787002141,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #81 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "9T20B0": {
-   "msg": "1538850094953013268",
-   "end": 1787001901,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #80 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": true
   },
@@ -6669,7 +6648,7 @@
    "end": 1787607001,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "8MRO94": {
    "msg": "1541205592536784896",
@@ -7698,6 +7677,13 @@
    "end": 1787691600,
    "title": "checkup #100 | The 1 hundredth entry",
    "items": 2,
+   "ended": false
+  },
+  "H19XKG": {
+   "msg": "1541560428822401138",
+   "end": 1787649181,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
