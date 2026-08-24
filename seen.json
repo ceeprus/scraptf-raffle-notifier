@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "8GITP6": {
-   "msg": "1538502781281767507",
-   "end": 1786964101,
-   "title": "Grabli304's raffle\u2503Day 168",
-   "items": 2,
-   "ended": true
-  },
-  "SWJDNY": {
-   "msg": "1538505615876563025",
-   "end": 1786964400,
-   "title": "You'll hear her voice and you WILL like it!!!",
-   "items": 1,
-   "ended": true
-  },
-  "6J9STQ": {
-   "msg": "1538505621580550145",
-   "end": 1786964342,
-   "title": "Give me some songs!!!",
-   "items": 1,
-   "ended": true
-  },
   "S2OHF0": {
    "msg": "1538517889185882333",
    "end": 1786968000,
@@ -5689,7 +5668,7 @@
    "end": 1787568361,
    "title": "I heard you like",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PUFMJU": {
    "msg": "1541039515060142160",
@@ -5717,7 +5696,7 @@
    "end": 1787568602,
    "title": "People who call others \"Larpers\" are so annoying",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DKJ4GD": {
    "msg": "1541039547826307102",
@@ -5738,14 +5717,14 @@
    "end": 1787568422,
    "title": "Unable to enter Raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "3HQNFA": {
    "msg": "1541039577236635719",
    "end": 1787568422,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VKZSQK": {
    "msg": "1541042548661817354",
@@ -5780,14 +5759,14 @@
    "end": 1787569200,
    "title": "Yeah! You should stay around and watch it grow!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AL5ZVJ": {
    "msg": "1541042578697224223",
    "end": 1787569141,
    "title": "Bucking Bronco",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NOSI4S": {
    "msg": "1541042586029002772",
@@ -7047,7 +7026,7 @@
    "end": 1787567521,
    "title": "Take this. Donut want them.",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "JMUJIZ": {
    "msg": "1541220690043338782",
@@ -7564,6 +7543,34 @@
    "msg": "1541393848771813408",
    "end": 1787608622,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "YJCC4Q": {
+   "msg": "1541401892423467039",
+   "end": 1787654401,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6CGGVU": {
+   "msg": "1541401902326227036",
+   "end": 1787654342,
+   "title": "Grabli304's raffle\u2503Day 176",
+   "items": 2,
+   "ended": false
+  },
+  "XDGV43": {
+   "msg": "1541401909565460530",
+   "end": 1787654342,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #100 \ud83c\udf0a\ud83d\udc1f",
+   "items": 10,
+   "ended": false
+  },
+  "72UQS0": {
+   "msg": "1541401918541406219",
+   "end": 1787654221,
+   "title": "Daily Brass Beast #548",
    "items": 1,
    "ended": false
   }
