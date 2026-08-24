@@ -5367,21 +5367,21 @@
    "end": 1787561221,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #7",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4FWAGY": {
    "msg": "1541007875722444880",
    "end": 1787560981,
    "title": "wow",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z15CFS": {
    "msg": "1541007881267183679",
    "end": 1787560801,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "IBUX9T": {
    "msg": "1541007887365840967",
@@ -5409,28 +5409,28 @@
    "end": 1787561641,
    "title": "\u041d\u0435\u0443\u0436\u0435\u043b\u0438 \u0432\u0441\u0451 \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e \u0445\u043e\u0440\u043e\u0448\u043e",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P8FFBE": {
    "msg": "1541009311428386877",
    "end": 1787561581,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "87TVKO": {
    "msg": "1541009319812665396",
    "end": 1787561461,
    "title": "Thank Mr. Mario",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5RPJVG": {
    "msg": "1541009327081394247",
    "end": 1787561401,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #8",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "232OGG": {
    "msg": "1541013987334819953",
@@ -5549,7 +5549,7 @@
    "end": 1787561941,
    "title": "Best Idea for a movie",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8K5946": {
    "msg": "1541016820474052608",
@@ -7529,6 +7529,20 @@
    "msg": "1541364142538227742",
    "end": 1787644802,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HICAV0": {
+   "msg": "1541371708039106632",
+   "end": 1787647141,
+   "title": "\u200b\u200b\u200b\u200bI won't tip every raffle that has  in his title \u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+   "items": 1,
+   "ended": false
+  },
+  "E1ZJBQ": {
+   "msg": "1541371714624032818",
+   "end": 1787646841,
+   "title": "There's...",
    "items": 1,
    "ended": false
   }
