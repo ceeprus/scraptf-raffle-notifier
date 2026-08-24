@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "52ZWLA": {
-   "msg": "1538461915045691442",
-   "end": 1786953782,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #79 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "9Q8IK4": {
    "msg": "1538470961119109190",
    "end": 1786955581,
@@ -5304,35 +5297,35 @@
    "end": 1787559361,
    "title": "i'm a noisyboi",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IXJJIM": {
    "msg": "1540998823458119771",
    "end": 1787559061,
    "title": "Make a noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "35D4A2": {
    "msg": "1540998829225156668",
    "end": 1787558881,
    "title": "My english is wery well",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G4993Z": {
    "msg": "1540998834686005301",
    "end": 1787558701,
    "title": "who would have thought",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MEAZB6": {
    "msg": "1540998841556275270",
    "end": 1787558581,
    "title": "mario :D",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6AVOLF": {
    "msg": "1540998847562514512",
@@ -5367,14 +5360,14 @@
    "end": 1787559902,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4ENDMK": {
    "msg": "1541001726386245734",
    "end": 1787559902,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1KLCRB": {
    "msg": "1541007869925654568",
@@ -7522,6 +7515,27 @@
    "msg": "1541356636688351302",
    "end": 1787642941,
    "title": "First Raffle + AMA",
+   "items": 1,
+   "ended": false
+  },
+  "UN1HK8": {
+   "msg": "1541364125618405447",
+   "end": 1787645761,
+   "title": "Raffling  till Im not poor #1",
+   "items": 1,
+   "ended": false
+  },
+  "N11HFZ": {
+   "msg": "1541364135164510319",
+   "end": 1787644802,
+   "title": "Kick Player: Salmon_Man69? (accused of scamming)",
+   "items": 5,
+   "ended": false
+  },
+  "H1V8GQ": {
+   "msg": "1541364142538227742",
+   "end": 1787644802,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
