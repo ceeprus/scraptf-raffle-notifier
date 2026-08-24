@@ -6508,7 +6508,7 @@
    "end": 1787600161,
    "title": "Noise time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "JMRB58": {
    "msg": "1541170896482472027",
@@ -6536,21 +6536,21 @@
    "end": 1787600821,
    "title": "So many raffles! Have another one!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5EV4YZ": {
    "msg": "1541175412523016375",
    "end": 1787600461,
    "title": "moment",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7OXOAB": {
    "msg": "1541175418760069202",
    "end": 1787600401,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B18XW0": {
    "msg": "1541178338897305611",
@@ -7726,6 +7726,13 @@
    "end": 1787685300,
    "title": "Snowfall Advice",
    "items": 2,
+   "ended": false
+  },
+  "8JT6VS": {
+   "msg": "1541535530955710515",
+   "end": 1787686621,
+   "title": "I haven't made a raffle in a while",
+   "items": 8,
    "ended": false
   }
  },
