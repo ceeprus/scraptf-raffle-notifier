@@ -98,24 +98,10 @@
    "items": 50,
    "ended": false
   },
-  "OBU7QO": {
-   "msg": "1538612208538353782",
-   "end": 1786990081,
-   "title": "art I've received 4",
-   "items": 3,
-   "ended": true
-  },
   "LHAXR6": {
    "msg": "1538615995156144129",
    "end": 1786991342,
    "title": "art I made 5",
-   "items": 3,
-   "ended": true
-  },
-  "OZI634": {
-   "msg": "1538616004568023140",
-   "end": 1786991161,
-   "title": "art I made 4",
    "items": 3,
    "ended": true
   },
@@ -6382,28 +6368,28 @@
    "end": 1787594642,
    "title": "Raffling the thing",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DU7FJA": {
    "msg": "1541149067718037536",
    "end": 1787594642,
    "title": "So much noise @-@",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "46YQGQ": {
    "msg": "1541152734986641478",
    "end": 1787595661,
    "title": "Take it",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N2ZYKY": {
    "msg": "1541152744579145799",
    "end": 1787595542,
    "title": "I've lost everything I had (in tf2)",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "MNQGZI": {
    "msg": "1541152751419924540",
@@ -6417,21 +6403,21 @@
    "end": 1787595061,
    "title": "Raffling the thing",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UKJMB6": {
    "msg": "1541152766225809510",
    "end": 1787594941,
    "title": "Raffling the thing",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TUJKNG": {
    "msg": "1541152772911669279",
    "end": 1787594821,
    "title": "i can't think of a title for this raffle 30\u2122",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LJE48W": {
    "msg": "1541158721315405857",
@@ -7649,7 +7635,7 @@
    "end": 1787595542,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NBUUYO": {
    "msg": "1541500028840058911",
