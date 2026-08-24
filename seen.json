@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CE7YGB": {
-   "msg": "1538686604703436901",
-   "end": 1787007600,
-   "title": "a  a day",
-   "items": 1,
-   "ended": true
-  },
   "J7WX5J": {
    "msg": "1538694088352735312",
    "end": 1787009101,
@@ -6676,7 +6669,7 @@
    "end": 1787611982,
    "title": "Stupid Baka Raffle #2",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XK79SO": {
    "msg": "1541220696724602990",
@@ -6704,7 +6697,7 @@
    "end": 1787612400,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XLPIP6": {
    "msg": "1541228206529450075",
@@ -7509,7 +7502,7 @@
    "end": 1787612101,
    "title": "sup!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "8JFT03": {
    "msg": "1541522712273625148",
@@ -7683,6 +7676,13 @@
    "msg": "1541580457647546499",
    "end": 1787698081,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1SJR20": {
+   "msg": "1541583095881408716",
+   "end": 1787698622,
+   "title": "Raffling a  every time I win a  #80",
    "items": 1,
    "ended": false
   }
