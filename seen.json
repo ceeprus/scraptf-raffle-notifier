@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "5HFONS": {
-   "msg": "1538596273995645082",
-   "end": 1786985941,
-   "title": "I Drew Ts 20",
-   "items": 1,
-   "ended": true
-  },
   "T5J82D": {
    "msg": "1538600907426496522",
    "end": 1786986961,
@@ -6249,49 +6242,49 @@
    "end": 1787589661,
    "title": "Noisemania",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0DWGUJ": {
    "msg": "1541127042152800276",
    "end": 1787589541,
    "title": "Mama Mia",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3GSTG6": {
    "msg": "1541127048200847441",
    "end": 1787589541,
    "title": "Noisy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V4IW23": {
    "msg": "1541127053947179028",
    "end": 1787589482,
    "title": "Noisy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UVUDSK": {
    "msg": "1541127060238499931",
    "end": 1787589361,
    "title": "Noisy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SQZA42": {
    "msg": "1541127066164924526",
    "end": 1787589241,
    "title": "1st Raffle, admist all this spam lmao",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "824MNC": {
    "msg": "1541127072842252308",
    "end": 1787589241,
    "title": "Noisy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V17IDU": {
    "msg": "1541127078437593159",
@@ -6305,21 +6298,21 @@
    "end": 1787590082,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0VS5H1": {
    "msg": "1541130121669517354",
    "end": 1787589962,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WT7CGW": {
    "msg": "1541130132712988783",
    "end": 1787589781,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CVEM4M": {
    "msg": "1541133163420717146",
@@ -6333,7 +6326,7 @@
    "end": 1787590501,
    "title": "Grooviest Tracks #793",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8QOCGG": {
    "msg": "1541137608510414879",
@@ -7187,7 +7180,7 @@
    "end": 1787590802,
    "title": "Raffling Scrap Till I'm Out #1013 (Quick)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q1UMEB": {
    "msg": "1541326251472588891",
@@ -7662,6 +7655,13 @@
    "msg": "1541484914006818876",
    "end": 1787674921,
    "title": "\ud83c\udf0a \ud83d\udc1f  Best Barney (from Black Mesa) winner:",
+   "items": 1,
+   "ended": false
+  },
+  "5WP1Y3": {
+   "msg": "1541492509618733076",
+   "end": 1787675821,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
