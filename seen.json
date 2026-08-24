@@ -7208,7 +7208,7 @@
    "end": 1787608622,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YJCC4Q": {
    "msg": "1541401892423467039",
@@ -7663,6 +7663,20 @@
    "end": 1787693641,
    "title": "Kiestu crafting ALL the weapons #6",
    "items": 1,
+   "ended": false
+  },
+  "X3Y6QX": {
+   "msg": "1541567992469655693",
+   "end": 1787694962,
+   "title": "gift of the day #7",
+   "items": 1,
+   "ended": false
+  },
+  "9HQO19": {
+   "msg": "1541568012325359769",
+   "end": 1787615581,
+   "title": "Feed my pretties! FEED!",
+   "items": 20,
    "ended": false
   }
  },
