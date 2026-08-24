@@ -105,20 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "7FY1MV": {
-   "msg": "1538461922603573248",
-   "end": 1786953541,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #78 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "N0KHUT": {
-   "msg": "1538461928907604008",
-   "end": 1786953421,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #77 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "9Q8IK4": {
    "msg": "1538470961119109190",
    "end": 1786955581,
@@ -5227,42 +5213,42 @@
    "end": 1787557562,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C6O0U2": {
    "msg": "1540992589258297404",
    "end": 1787557381,
    "title": "Noise?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EEJ224": {
    "msg": "1540992595176587314",
    "end": 1787557261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6XEBV8": {
    "msg": "1540992600834707551",
    "end": 1787557202,
    "title": "\u0410 \u0437\u0430\u0447\u0435\u043c \u0432\u043e\u043e\u0431\u0449\u0435 \u043d\u0443\u0436\u043d\u0430 \u044d\u0442\u0430 \u0448\u0442\u0443\u043a\u0430",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "H3Y11F": {
    "msg": "1540992607994519573",
    "end": 1787557082,
    "title": "It's a noise maker apocalypse!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0L3FL8": {
    "msg": "1540992621801902121",
    "end": 1787556901,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MBGN7X": {
    "msg": "1540992627762012210",
@@ -5353,21 +5339,21 @@
    "end": 1787558401,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "48U07Q": {
    "msg": "1540998853463904308",
    "end": 1787558161,
    "title": "The world needs more Reindoonicorns! (#592)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NLZ9NH": {
    "msg": "1540998860250288249",
    "end": 1787558161,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9GKY6K": {
    "msg": "1540998866588143646",
@@ -6767,14 +6753,14 @@
    "end": 1787557141,
    "title": "DO YOU WANT NOISE !!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "GUCTBM": {
    "msg": "1541170880795771002",
    "end": 1787557141,
    "title": "Lets make some noise!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "1ZNDOP": {
    "msg": "1541170889847079073",
@@ -7508,6 +7494,34 @@
    "msg": "1541349041521172490",
    "end": 1787641141,
    "title": "Getting back into TF after many years away",
+   "items": 1,
+   "ended": false
+  },
+  "RXMV1P": {
+   "msg": "1541356609689616394",
+   "end": 1787644381,
+   "title": "Mad Dog Monday #265",
+   "items": 2,
+   "ended": false
+  },
+  "3Z4NF5": {
+   "msg": "1541356618896379964",
+   "end": 1787644081,
+   "title": "Evil things",
+   "items": 3,
+   "ended": false
+  },
+  "RON0FP": {
+   "msg": "1541356629495390258",
+   "end": 1787643661,
+   "title": "Something Funny",
+   "items": 10,
+   "ended": false
+  },
+  "7X8QCM": {
+   "msg": "1541356636688351302",
+   "end": 1787642941,
+   "title": "First Raffle + AMA",
    "items": 1,
    "ended": false
   }
