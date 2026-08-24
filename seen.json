@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "01QVU4": {
-   "msg": "1538581578781950136",
-   "end": 1786983001,
-   "title": "My favourite characters in JJK (i dunno if spoilers) (rerun)",
-   "items": 4,
-   "ended": true
-  },
-  "T0BSK3": {
-   "msg": "1538590119488000135",
-   "end": 1786984141,
-   "title": "Daily raffle #347",
-   "items": 1,
-   "ended": true
-  },
   "5HFONS": {
    "msg": "1538596273995645082",
    "end": 1786985941,
@@ -6242,21 +6228,21 @@
    "end": 1787588281,
    "title": "Noise maker",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MNQLLY": {
    "msg": "1541122518218178580",
    "end": 1787588221,
    "title": "get away",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BS8AXR": {
    "msg": "1541122524195065877",
    "end": 1787588101,
    "title": "i just wanna win a raffle :'(",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R0VF28": {
    "msg": "1541127035185795102",
@@ -6312,7 +6298,7 @@
    "end": 1787589002,
    "title": "200+ Public raffles god damn!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5ZQUEC": {
    "msg": "1541130114199457884",
@@ -7669,6 +7655,13 @@
    "msg": "1541478367835070516",
    "end": 1787673600,
    "title": "Weekly  #74",
+   "items": 1,
+   "ended": false
+  },
+  "4DMLH3": {
+   "msg": "1541484914006818876",
+   "end": 1787674921,
+   "title": "\ud83c\udf0a \ud83d\udc1f  Best Barney (from Black Mesa) winner:",
    "items": 1,
    "ended": false
   }
