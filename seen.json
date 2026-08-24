@@ -630,13 +630,6 @@
    "items": 1,
    "ended": true
   },
-  "AL3TMH": {
-   "msg": "1538842516093149305",
-   "end": 1786961642,
-   "title": "candy cane",
-   "items": 1,
-   "ended": true
-  },
   "0QQIT5": {
    "msg": "1538842523089371259",
    "end": 1787044381,
@@ -5647,28 +5640,28 @@
    "end": 1787566441,
    "title": "I am bad with titles #145",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4JIP9D": {
    "msg": "1541027832266887249",
    "end": 1787566141,
    "title": "Look, Morty!",
    "items": 51,
-   "ended": false
+   "ended": true
   },
   "WINRGW": {
    "msg": "1541027838805938186",
    "end": 1787565661,
    "title": "All about balance",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z0DLNR": {
    "msg": "1541027845046931508",
    "end": 1787565661,
    "title": "gift of the day #6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "72N19B": {
    "msg": "1541027851971854366",
@@ -5689,7 +5682,7 @@
    "end": 1787566682,
    "title": "Second raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TIDQ25": {
    "msg": "1541036237287329863",
@@ -7334,7 +7327,7 @@
    "end": 1787566561,
    "title": "Reinforced Scrap Mini-Game",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "T9JUWX": {
    "msg": "1541303734074744945",
@@ -7542,6 +7535,34 @@
   "U72VJV": {
    "msg": "1541386802206744626",
    "end": 1787608141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "OKH8BL": {
+   "msg": "1541393829876473896",
+   "end": 1787652661,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #99 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "RB9NE6": {
+   "msg": "1541393836046295142",
+   "end": 1787652482,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #98 \ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "G9LZWU": {
+   "msg": "1541393842610245632",
+   "end": 1787652000,
+   "title": "Gifted Righteous Bison #4",
+   "items": 1,
+   "ended": false
+  },
+  "IX5OO2": {
+   "msg": "1541393848771813408",
+   "end": 1787608622,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
