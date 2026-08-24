@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CIYP78": {
-   "msg": "1538608487540465674",
-   "end": 1786989001,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "OBU7QO": {
    "msg": "1538612208538353782",
    "end": 1786990081,
@@ -6354,7 +6347,7 @@
    "end": 1787592841,
    "title": "NOISE NOISE NOISE",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "HBGZ9W": {
    "msg": "1541140507642691645",
@@ -6368,14 +6361,14 @@
    "end": 1787594102,
    "title": "And another one",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4W4RFC": {
    "msg": "1541145209444765837",
    "end": 1787593321,
    "title": "The humble noise maker:",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6C7JX0": {
    "msg": "1541145216336007228",
