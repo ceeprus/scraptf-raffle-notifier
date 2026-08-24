@@ -5731,21 +5731,21 @@
    "end": 1787569622,
    "title": "Let's",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0I6BDH": {
    "msg": "1541042554517196860",
    "end": 1787569501,
    "title": "Merry christmas",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "J9LWHT": {
    "msg": "1541042559990898730",
    "end": 1787569441,
    "title": "Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ETFJUF": {
    "msg": "1541042565971972186",
@@ -5780,56 +5780,56 @@
    "end": 1787570941,
    "title": "Ronsom 6000",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0ZH1GO": {
    "msg": "1541047015440646274",
    "end": 1787570641,
    "title": "Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P8C5C1": {
    "msg": "1541047021274660894",
    "end": 1787570582,
    "title": "A day of",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5BR6PZ": {
    "msg": "1541047027247349802",
    "end": 1787569981,
    "title": "Some  !!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VK6TLY": {
    "msg": "1541047033899515911",
    "end": 1787569922,
    "title": "Daily raffle #354",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N1NBLT": {
    "msg": "1541047041122238474",
    "end": 1787569861,
    "title": "Make",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JZ62VL": {
    "msg": "1541047048000770078",
    "end": 1787569802,
    "title": "#NoiseOut",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5GMIOV": {
    "msg": "1541047054795669585",
    "end": 1787569741,
    "title": "geeettttttt noised on!!",
    "items": 27,
-   "ended": false
+   "ended": true
   },
   "9O56TU": {
    "msg": "1541050043812024340",
@@ -7571,6 +7571,20 @@
    "msg": "1541401918541406219",
    "end": 1787654221,
    "title": "Daily Brass Beast #548",
+   "items": 1,
+   "ended": false
+  },
+  "19PGXU": {
+   "msg": "1541409415364743231",
+   "end": 1787657041,
+   "title": "The drunkard set",
+   "items": 2,
+   "ended": false
+  },
+  "WRP9LL": {
+   "msg": "1541409422163705867",
+   "end": 1787655600,
+   "title": "We don't give enough appreciation for the guy that invented the sky color!",
    "items": 1,
    "ended": false
   }
