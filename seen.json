@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "66PFGA": {
-   "msg": "1538676400821764267",
-   "end": 1787004781,
-   "title": "Tricks I learned from a plumber #1",
-   "items": 2,
-   "ended": true
-  },
   "P5HIHN": {
    "msg": "1538679801085296852",
    "end": 1787006461,
@@ -6641,35 +6634,35 @@
    "end": 1787609102,
    "title": "once in a while",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y2NWLQ": {
    "msg": "1541213109086191719",
    "end": 1787609641,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0XGKKQ": {
    "msg": "1541213115746623529",
    "end": 1787609522,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RQLQUB": {
    "msg": "1541213121916571678",
    "end": 1787609461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GR99LY": {
    "msg": "1541213127314768024",
    "end": 1787609341,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TX4ODP": {
    "msg": "1541216735527440484",
@@ -7677,6 +7670,20 @@
    "end": 1787615581,
    "title": "Feed my pretties! FEED!",
    "items": 20,
+   "ended": false
+  },
+  "L3BSIP": {
+   "msg": "1541572004661166130",
+   "end": 1787652961,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2AZR68": {
+   "msg": "1541572011174928465",
+   "end": 1787652722,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
