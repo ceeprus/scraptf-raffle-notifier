@@ -5591,14 +5591,14 @@
    "end": 1787563982,
    "title": "Jessie",
    "items": 48,
-   "ended": false
+   "ended": true
   },
   "54FMP9": {
    "msg": "1541021690941800468",
    "end": 1787563861,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "US3417": {
    "msg": "1541024406279688294",
@@ -6977,7 +6977,7 @@
    "end": 1787563862,
    "title": "Noise.TF4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9S5ZLM": {
    "msg": "1541201118447669312",
@@ -7530,6 +7530,13 @@
    "end": 1787646841,
    "title": "There's...",
    "items": 1,
+   "ended": false
+  },
+  "G1LA1F": {
+   "msg": "1541380892948439090",
+   "end": 1787650201,
+   "title": "Hii :3 This is my thirteenth raffle, wow",
+   "items": 4,
    "ended": false
   }
  },
