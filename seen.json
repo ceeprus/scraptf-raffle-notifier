@@ -6620,14 +6620,14 @@
    "end": 1787604001,
    "title": "STEAM COMMENTS #53",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KSHZP4": {
    "msg": "1541186740818284590",
    "end": 1787603581,
    "title": "Daily raffle until TF2 gets a major update #600",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "DUMMCI": {
    "msg": "1541186748149932053",
@@ -6655,7 +6655,7 @@
    "end": 1787604241,
    "title": "So much !",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OGQUUG": {
    "msg": "1541193618021285898",
@@ -7705,6 +7705,13 @@
    "end": 1787646002,
    "title": "Unclaimed......",
    "items": 4,
+   "ended": false
+  },
+  "NMTQC2": {
+   "msg": "1541551685837656075",
+   "end": 1787690761,
+   "title": "\ud83d\udc1f  Song of today   \ud83d\udc1f",
+   "items": 1,
    "ended": false
   }
  },
