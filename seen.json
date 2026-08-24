@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9Q8IK4": {
-   "msg": "1538470961119109190",
-   "end": 1786955581,
-   "title": "MvM Update Australium Vote Part 1: Scout Primaries",
-   "items": 3,
-   "ended": true
-  },
   "2SQLBS": {
    "msg": "1538480106824015913",
    "end": 1786957981,
@@ -5395,21 +5388,21 @@
    "end": 1787560501,
    "title": "Take my Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6UHGZ6": {
    "msg": "1541007893497782332",
    "end": 1787560442,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5OH9VT": {
    "msg": "1541007899327991848",
    "end": 1787560321,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W68XUT": {
    "msg": "1541009303878762571",
@@ -6928,7 +6921,7 @@
    "end": 1787560261,
    "title": "Happy birthday, TF2!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "28T4QO": {
    "msg": "1541186754466291734",
