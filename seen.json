@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6Q8NB3": {
-   "msg": "1538359310243991652",
-   "end": 1786928521,
-   "title": "what happend with to tf2r?",
-   "items": 1,
-   "ended": true
-  },
   "CDW3KG": {
    "msg": "1538366897068707840",
    "end": 1786931821,
@@ -5115,7 +5108,7 @@
    "end": 1787534281,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MJHO8G": {
    "msg": "1540903620361592903",
@@ -7320,6 +7313,62 @@
    "end": 1787618822,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1514 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 23,
+   "ended": false
+  },
+  "D9M3R0": {
+   "msg": "1541258421049761875",
+   "end": 1787541901,
+   "title": "Dragon's Sand",
+   "items": 2,
+   "ended": false
+  },
+  "I4A2QQ": {
+   "msg": "1541258428146516099",
+   "end": 1787620861,
+   "title": "Raffling a Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bPride Blog every time I once in a while win A chance to get rid of my noisemakers?",
+   "items": 1,
+   "ended": false
+  },
+  "JUCJNH": {
+   "msg": "1541258434299564032",
+   "end": 1787620742,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9EDDRE": {
+   "msg": "1541258441455304714",
+   "end": 1787619721,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TBCN29": {
+   "msg": "1541258447297978399",
+   "end": 1787619661,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IHA7D9": {
+   "msg": "1541258453803208826",
+   "end": 1787619602,
+   "title": "Kiestu crafting ALL the weapons #5",
+   "items": 1,
+   "ended": false
+  },
+  "3I685C": {
+   "msg": "1541258459889270834",
+   "end": 1787619541,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "VZGCWV": {
+   "msg": "1541258467136905238",
+   "end": 1787619482,
+   "title": "Daily Hat #78",
+   "items": 1,
    "ended": false
   }
  },
