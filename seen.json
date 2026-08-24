@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "S2OHF0": {
-   "msg": "1538517889185882333",
-   "end": 1786968000,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "58VWQ0": {
    "msg": "1538532991125561345",
    "end": 1786971181,
@@ -5857,21 +5850,21 @@
    "end": 1787572741,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "L3AI0G": {
    "msg": "1541054603813068810",
    "end": 1787572621,
    "title": "Bring The Noise!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J713M1": {
    "msg": "1541054613439123526",
    "end": 1787572501,
    "title": "We need LESS pyro mains #2 #antinoise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1EEVNF": {
    "msg": "1541054624574869546",
@@ -5885,14 +5878,14 @@
    "end": 1787572501,
    "title": "Who is Noisemaker?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YTA8D3": {
    "msg": "1541054642555723887",
    "end": 1787572381,
    "title": "Preference Survey",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "4L1OAN": {
    "msg": "1541059681936482365",
@@ -5913,7 +5906,7 @@
    "end": 1787572800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RKEUCU": {
    "msg": "1541069697997611029",
@@ -7585,6 +7578,20 @@
    "msg": "1541414461749989527",
    "end": 1787657400,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "F6D8R5": {
+   "msg": "1541417006346145883",
+   "end": 1787658482,
+   "title": "Specialized Killstreak Unarmed Combat Kit Fabricator",
+   "items": 2,
+   "ended": false
+  },
+  "9F6JDH": {
+   "msg": "1541417014441152622",
+   "end": 1787658361,
+   "title": "Vibin",
    "items": 1,
    "ended": false
   }
