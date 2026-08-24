@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "2Q8MBD": {
-   "msg": "1538517896710463588",
-   "end": 1786967281,
-   "title": "A joke. I don\u2019t know whether you\u2019ll understand or not. Whatever. Here we go.",
-   "items": 2,
-   "ended": true
-  },
   "58VWQ0": {
    "msg": "1538532991125561345",
    "end": 1786971181,
@@ -5836,28 +5829,28 @@
    "end": 1787571541,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7OE0ZZ": {
    "msg": "1541050052770926702",
    "end": 1787571361,
    "title": "Untitled raffle",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "KR93L1": {
    "msg": "1541050059398058130",
    "end": 1787571302,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "49QTNC": {
    "msg": "1541050066779766825",
    "end": 1787571181,
    "title": "\ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5RFROS": {
    "msg": "1541054596699529229",
@@ -7585,6 +7578,13 @@
    "msg": "1541409422163705867",
    "end": 1787655600,
    "title": "We don't give enough appreciation for the guy that invented the sky color!",
+   "items": 1,
+   "ended": false
+  },
+  "0657SV": {
+   "msg": "1541414461749989527",
+   "end": 1787657400,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
