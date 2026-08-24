@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "NDDCBE": {
-   "msg": "1538388137925939220",
-   "end": 1786936322,
-   "title": "Daily Kit Fabricator #7",
-   "items": 1,
-   "ended": true
-  },
   "HAK1Z9": {
    "msg": "1538397104375070741",
    "end": 1786938481,
@@ -6459,14 +6452,14 @@
    "end": 1787540701,
    "title": "team fortress series is 30 years old",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "QSAA1L": {
    "msg": "1541107421722714163",
    "end": 1787541541,
    "title": "Happy Bday TF2!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "SL0I21": {
    "msg": "1541107428190330920",
@@ -7264,7 +7257,7 @@
    "end": 1787541901,
    "title": "Dragon's Sand",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "I4A2QQ": {
    "msg": "1541258428146516099",
@@ -7390,6 +7383,27 @@
    "end": 1787624941,
    "title": "(still! (but not for much longer!)) Tipping all  raffles!",
    "items": 5,
+   "ended": false
+  },
+  "2X10GO": {
+   "msg": "1541288314932437015",
+   "end": null,
+   "title": "gay",
+   "items": 1,
+   "ended": false
+  },
+  "WOZ0W9": {
+   "msg": "1541288322541031534",
+   "end": 1787626921,
+   "title": "Radio Silence",
+   "items": 1,
+   "ended": false
+  },
+  "TSRV7K": {
+   "msg": "1541288328576376852",
+   "end": 1787626861,
+   "title": "we need my noisemaker mains! #503928289",
+   "items": 1,
    "ended": false
   }
  },
