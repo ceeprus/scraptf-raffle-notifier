@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "G9UMG5": {
-   "msg": "1538631094981763183",
-   "end": 1786994221,
-   "title": "Smitten",
-   "items": 3,
-   "ended": true
-  },
-  "N9M5MA": {
-   "msg": "1538633751851044936",
-   "end": 1786995000,
-   "title": "Brief conversation with Spamton",
-   "items": 3,
-   "ended": true
-  },
   "TY7PNF": {
    "msg": "1538641464718794763",
    "end": 1786996801,
@@ -6473,35 +6459,35 @@
    "end": 1787599321,
    "title": "Make some noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ET8I82": {
    "msg": "1541167829989072986",
    "end": 1787599261,
    "title": "Q&A answers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IN5RSE": {
    "msg": "1541167836729311272",
    "end": 1787599082,
    "title": "Make some noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2K9VGX": {
    "msg": "1541167843410706442",
    "end": 1787598962,
    "title": "Make some noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R2M8XV": {
    "msg": "1541167851728273498",
    "end": 1787598722,
    "title": "Something a Little More Refined",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "7ONXPU": {
    "msg": "1541170871346143242",
@@ -7719,6 +7705,27 @@
    "end": 1787684341,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "6RGXMK": {
+   "msg": "1541530234992599071",
+   "end": 1787685841,
+   "title": "300 Raffle Wins",
+   "items": 1,
+   "ended": false
+  },
+  "42RI23": {
+   "msg": "1541530242202730576",
+   "end": 1787685601,
+   "title": "Weird",
+   "items": 1,
+   "ended": false
+  },
+  "GTTUJR": {
+   "msg": "1541530249450225724",
+   "end": 1787685300,
+   "title": "Snowfall Advice",
+   "items": 2,
    "ended": false
   }
  },
