@@ -5892,14 +5892,14 @@
    "end": 1787573941,
    "title": "50 Noise Producers",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "4K7JLO": {
    "msg": "1541059688773193809",
    "end": 1787572862,
    "title": "Untitled raffle",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "HKUNQ2": {
    "msg": "1541059694771310692",
@@ -5976,7 +5976,7 @@
    "end": 1787574181,
    "title": "Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4VBT4R": {
    "msg": "1541069771846586398",
@@ -5990,7 +5990,7 @@
    "end": 1787574061,
    "title": "I'M MAKING NOISE",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "JH0118": {
    "msg": "1541071655013453924",
@@ -7592,6 +7592,62 @@
    "msg": "1541417014441152622",
    "end": 1787658361,
    "title": "Vibin",
+   "items": 1,
+   "ended": false
+  },
+  "6R3O3F": {
+   "msg": "1541424231680712744",
+   "end": 1787660401,
+   "title": "MvM Update Australium Vote Part 13: Heavy Primaries",
+   "items": 3,
+   "ended": false
+  },
+  "TGRMR2": {
+   "msg": "1541424238525677720",
+   "end": 1787659981,
+   "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "8QBQLG": {
+   "msg": "1541424245001683074",
+   "end": 1787659441,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CY9EH7": {
+   "msg": "1541424259333619857",
+   "end": 1787659261,
+   "title": "Question #71",
+   "items": 1,
+   "ended": false
+  },
+  "HEEK0Y": {
+   "msg": "1541424265721553066",
+   "end": 1787659201,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "93NPT5": {
+   "msg": "1541424272059142215",
+   "end": 1787659200,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "DXRLNA": {
+   "msg": "1541424278413512778",
+   "end": 1787659142,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1DRZ10": {
+   "msg": "1541424286869233755",
+   "end": 1787659021,
+   "title": "Question #70",
    "items": 1,
    "ended": false
   }
