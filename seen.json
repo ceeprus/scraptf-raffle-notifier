@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "E6CY4G": {
-   "msg": "1538540500829868133",
-   "end": 1786972622,
-   "title": "End of Line",
-   "items": 3,
-   "ended": true
-  },
-  "7MN2VL": {
-   "msg": "1538545523194331196",
-   "end": 1786973400,
-   "title": "Question 4 You",
-   "items": 20,
-   "ended": true
-  },
   "Z2IYCL": {
    "msg": "1538551430065954867",
    "end": 1786975200,
@@ -375,13 +361,6 @@
    "msg": "1538729283915087992",
    "end": 1787017561,
    "title": "absolute no life",
-   "items": 1,
-   "ended": true
-  },
-  "QRA3KB": {
-   "msg": "1538729290106011821",
-   "end": 1786973341,
-   "title": "Bedtime question",
    "items": 1,
    "ended": true
   },
@@ -5976,7 +5955,7 @@
    "end": 1787576462,
    "title": "Holy Mackerel",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3BIA3O": {
    "msg": "1541071662236303391",
@@ -6004,14 +5983,14 @@
    "end": 1787577241,
    "title": "Cleaning out my backpack",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZZU5OJ": {
    "msg": "1541077225661669496",
    "end": 1787577182,
    "title": "i really need an answer",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MPNKCM": {
    "msg": "1541082371758096547",
@@ -6060,28 +6039,28 @@
    "end": 1787578202,
    "title": "epic man comeback",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DBUIC2": {
    "msg": "1541082418927112212",
    "end": 1787578202,
    "title": "Noise",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "NZ11L8": {
    "msg": "1541082425583468564",
    "end": 1787578141,
    "title": "The pass it forward raffle! (#17)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "WM3V7O": {
    "msg": "1541082431480926369",
    "end": 1787577961,
    "title": "Noise.TF2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1GC27D": {
    "msg": "1541082439936385114",
@@ -6095,7 +6074,7 @@
    "end": 1787577902,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #7 \u0438 #8\ud83d\udd25",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "7CBQFV": {
    "msg": "1541084797798060123",
@@ -7138,7 +7117,7 @@
    "end": 1787578081,
    "title": "Ham",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VHKGAS": {
    "msg": "1541270169517817887",
@@ -7641,6 +7620,41 @@
    "msg": "1541432132516319304",
    "end": 1787661241,
    "title": "Team Graveyard: The Scout",
+   "items": 1,
+   "ended": false
+  },
+  "L84OBK": {
+   "msg": "1541439651871457390",
+   "end": 1787664361,
+   "title": "Happy Birthday to My Brother's Sister",
+   "items": 2,
+   "ended": false
+  },
+  "LV3NDG": {
+   "msg": "1541439659475738724",
+   "end": 1787664121,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "U275LH": {
+   "msg": "1541439668174725212",
+   "end": 1787663402,
+   "title": "HB Team Fortress",
+   "items": 4,
+   "ended": false
+  },
+  "UKZK47": {
+   "msg": "1541439675263361146",
+   "end": 1787662802,
+   "title": "Second Raffle  : \ud83d\udd0a",
+   "items": 1,
+   "ended": false
+  },
+  "D7KUNX": {
+   "msg": "1541439681701478531",
+   "end": 1787662800,
+   "title": "Low effort raffle",
    "items": 1,
    "ended": false
   }
