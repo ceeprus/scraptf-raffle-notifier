@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "ZJCYLI": {
-   "msg": "1538573826097676451",
-   "end": 1786981082,
-   "title": "First raffle",
-   "items": 13,
-   "ended": true
-  },
-  "K4GVFV": {
-   "msg": "1538578284261150762",
-   "end": 1786981621,
-   "title": "a lot of things i wanted to say",
-   "items": 1,
-   "ended": true
-  },
   "01QVU4": {
    "msg": "1538581578781950136",
    "end": 1786983001,
@@ -6221,7 +6207,7 @@
    "end": 1787586061,
    "title": "What games are you looking forward to for the fall sale",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "CJXBYL": {
    "msg": "1541110772485197994",
@@ -7656,12 +7642,33 @@
    "end": 1787587021,
    "title": "100% win",
    "items": 77,
-   "ended": false
+   "ended": true
   },
   "II235K": {
    "msg": "1541469628654551130",
    "end": 1787669582,
    "title": "TF2 Birthday Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "PWJUZZ": {
+   "msg": "1541477414545260734",
+   "end": 1787671981,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "E86I4D": {
+   "msg": "1541477422694928385",
+   "end": 1787671921,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "P586KM": {
+   "msg": "1541477430244413531",
+   "end": 1787671682,
+   "title": "Today I changed my pfp and today is TF2's bday!",
    "items": 1,
    "ended": false
   }
