@@ -5577,7 +5577,7 @@
    "end": 1787564341,
    "title": "Think mark, think!",
    "items": 84,
-   "ended": false
+   "ended": true
   },
   "JQVWBG": {
    "msg": "1541021677708779580",
@@ -5605,42 +5605,42 @@
    "end": 1787565122,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "X2SY15": {
    "msg": "1541024413259137085",
    "end": 1787565002,
    "title": "I'm bad at love!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OGHEPO": {
    "msg": "1541024418644365333",
    "end": 1787565002,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #96 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H8H13O": {
    "msg": "1541024425279758417",
    "end": 1787564701,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #95 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JF97AO": {
    "msg": "1541024430543867946",
    "end": 1787564642,
    "title": "Rate the Heavy Loadout",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "78NQAC": {
    "msg": "1541024436201857035",
    "end": 1787564522,
    "title": "what r ur thoughts on the game rn",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "Y98IXN": {
    "msg": "1541027821990707290",
@@ -5675,14 +5675,14 @@
    "end": 1787565361,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #97 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "867WC9": {
    "msg": "1541027858556784670",
    "end": 1787565241,
    "title": "i hate noisemakers",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "KWEUKG": {
    "msg": "1541031929648775198",
@@ -7537,6 +7537,13 @@
    "end": 1787650201,
    "title": "Hii :3 This is my thirteenth raffle, wow",
    "items": 4,
+   "ended": false
+  },
+  "U72VJV": {
+   "msg": "1541386802206744626",
+   "end": 1787608141,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
