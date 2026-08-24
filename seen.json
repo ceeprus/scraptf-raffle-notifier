@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "T5J82D": {
-   "msg": "1538600907426496522",
-   "end": 1786986961,
-   "title": "Daily Brass Beast #540",
-   "items": 1,
-   "ended": true
-  },
-  "PCB4XJ": {
-   "msg": "1538603682231484507",
-   "end": 1786987861,
-   "title": "Daily raffle until TF2 gets a major update #593",
-   "items": 3,
-   "ended": true
-  },
   "CIYP78": {
    "msg": "1538608487540465674",
    "end": 1786989001,
@@ -6333,35 +6319,35 @@
    "end": 1787592002,
    "title": "First Raffle + Noise-mania",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KM1TJ7": {
    "msg": "1541137615611363559",
    "end": 1787591941,
    "title": "thingamajig",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PHP5UE": {
    "msg": "1541137622343098480",
    "end": 1787591821,
    "title": "Scrap Album: Side 1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SP5KT8": {
    "msg": "1541137628890398792",
    "end": 1787591401,
    "title": "stay away",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AE4TRW": {
    "msg": "1541137634762555443",
    "end": 1787591341,
    "title": "Marvelous Sunday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G760HP": {
    "msg": "1541140497911914636",
@@ -6375,7 +6361,7 @@
    "end": 1787592602,
    "title": "huh ft. Kendrick Lamar",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "LWRBA7": {
    "msg": "1541145202004074606",
@@ -7663,6 +7649,55 @@
    "end": 1787675821,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "KQ70QA": {
+   "msg": "1541500021676052570",
+   "end": 1787595542,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NBUUYO": {
+   "msg": "1541500028840058911",
+   "end": 1787678102,
+   "title": "bleh bones",
+   "items": 2,
+   "ended": false
+  },
+  "QMKE3X": {
+   "msg": "1541500036158980237",
+   "end": 1787677921,
+   "title": "Free game! #61 - Dokimon Quest",
+   "items": 2,
+   "ended": false
+  },
+  "19QICF": {
+   "msg": "1541500043192959017",
+   "end": 1787677802,
+   "title": "well uhh",
+   "items": 4,
+   "ended": false
+  },
+  "V7RYEZ": {
+   "msg": "1541500050155511969",
+   "end": 1787677201,
+   "title": "TF2 30th Anniversary",
+   "items": 1,
+   "ended": false
+  },
+  "OJJ656": {
+   "msg": "1541500060704178227",
+   "end": 1787677200,
+   "title": "Daily raffle until TF2 gets a major update #601",
+   "items": 3,
+   "ended": false
+  },
+  "5CCMX5": {
+   "msg": "1541500072917737483",
+   "end": 1787677081,
+   "title": "take my items",
+   "items": 6,
    "ended": false
   }
  },
