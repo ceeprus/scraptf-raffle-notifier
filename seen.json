@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Z2IYCL": {
-   "msg": "1538551430065954867",
-   "end": 1786975200,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
   "Q7XNLX": {
    "msg": "1538555605244055562",
    "end": 1786976702,
@@ -5997,35 +5990,35 @@
    "end": 1787579161,
    "title": "make some noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0700EK": {
    "msg": "1541082378108149843",
    "end": 1787579101,
    "title": "More noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PBSMWC": {
    "msg": "1541082384378757301",
    "end": 1787579041,
    "title": "Noys",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BIA7NC": {
    "msg": "1541082391383375922",
    "end": 1787578621,
    "title": "Noise",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "MWHBIS": {
    "msg": "1541082397963976815",
    "end": 1787578441,
    "title": "Noise",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "SUQ9BD": {
    "msg": "1541082404515619048",
@@ -6081,14 +6074,14 @@
    "end": 1787579762,
    "title": "They're gone",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "99A2TP": {
    "msg": "1541084804584439868",
    "end": 1787579641,
    "title": "NOISEEEEE",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SJ9ZO8": {
    "msg": "1541084815242166432",
@@ -6102,35 +6095,35 @@
    "end": 1787579641,
    "title": "To Earn The Right To Work \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QXSZEX": {
    "msg": "1541084827401453688",
    "end": 1787579461,
    "title": "To Earn The Right To Work \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7P1SWV": {
    "msg": "1541084834045235281",
    "end": 1787579401,
    "title": "To Earn The Right To Work \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7WJ2S0": {
    "msg": "1541084841184067614",
    "end": 1787579282,
    "title": "Noice",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E89T3M": {
    "msg": "1541084846993178787",
    "end": 1787579221,
    "title": "Noize",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DXBIH1": {
    "msg": "1541088327476973599",
@@ -7124,7 +7117,7 @@
    "end": 1787580000,
    "title": "Tune of the day #319",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TBFSJW": {
    "msg": "1541281114067439707",
