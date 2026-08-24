@@ -6690,7 +6690,7 @@
    "end": 1787612881,
    "title": "Raffling a  every time I win a  #79",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "751E2D": {
    "msg": "1541223590131802214",
@@ -7683,6 +7683,27 @@
    "msg": "1541583095881408716",
    "end": 1787698622,
    "title": "Raffling a  every time I win a  #80",
+   "items": 1,
+   "ended": false
+  },
+  "J5SEQU": {
+   "msg": "1541586743642296441",
+   "end": 1787698982,
+   "title": "Raffling a  every time I win a  #81",
+   "items": 1,
+   "ended": false
+  },
+  "DO3H7F": {
+   "msg": "1541586750806163596",
+   "end": 1787698861,
+   "title": "Burnt out",
+   "items": 1,
+   "ended": false
+  },
+  "GGIOP1": {
+   "msg": "1541586757211127858",
+   "end": 1787698800,
+   "title": "A  a day",
    "items": 1,
    "ended": false
   }
