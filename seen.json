@@ -98,24 +98,10 @@
    "items": 50,
    "ended": false
   },
-  "V65UB6": {
-   "msg": "1538370833804951614",
-   "end": 1786932481,
-   "title": "Mazekest, who is she for me?",
-   "items": 1,
-   "ended": true
-  },
   "GHGLUB": {
    "msg": "1538374408488620116",
    "end": 1786933442,
    "title": "humanmusic",
-   "items": 1,
-   "ended": true
-  },
-  "UT8MTR": {
-   "msg": "1538374415753154642",
-   "end": 1786932602,
-   "title": "Ragebaiting posidon",
    "items": 1,
    "ended": true
   },
@@ -7375,6 +7361,13 @@
    "msg": "1541266019409207367",
    "end": 1787578081,
    "title": "Ham",
+   "items": 1,
+   "ended": false
+  },
+  "VHKGAS": {
+   "msg": "1541270169517817887",
+   "end": 1787580000,
+   "title": "Tune of the day #319",
    "items": 1,
    "ended": false
   }
