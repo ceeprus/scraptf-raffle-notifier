@@ -6564,7 +6564,7 @@
    "end": 1787602861,
    "title": "noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XALALV": {
    "msg": "1541182919727648848",
@@ -6641,14 +6641,14 @@
    "end": 1787603162,
    "title": "why hasnt scrap added  yet",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EZJDQV": {
    "msg": "1541186761990865096",
    "end": 1787602921,
    "title": "Road to raffle veteran!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PDXAOY": {
    "msg": "1541190500772487299",
@@ -7698,6 +7698,13 @@
    "end": 1787644081,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "HICFS0": {
+   "msg": "1541545301196677211",
+   "end": 1787646002,
+   "title": "Unclaimed......",
+   "items": 4,
    "ended": false
   }
  },
