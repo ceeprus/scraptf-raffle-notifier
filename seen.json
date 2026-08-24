@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "58VWQ0": {
-   "msg": "1538532991125561345",
-   "end": 1786971181,
-   "title": "#SlugmaSweep",
-   "items": 1,
-   "ended": true
-  },
-  "YV08SE": {
-   "msg": "1538534629617705021",
-   "end": 1786971601,
-   "title": "\u0422\u0432\u043e\u0439 \u0433\u043e\u043b\u043e\u0441",
-   "items": 1,
-   "ended": true
-  },
-  "ORJJD4": {
-   "msg": "1538534636982902844",
-   "end": 1786971600,
-   "title": "8 for 1 Sunday",
-   "items": 8,
-   "ended": true
-  },
   "E6CY4G": {
    "msg": "1538540500829868133",
    "end": 1786972622,
@@ -5920,49 +5899,49 @@
    "end": 1787575741,
    "title": "i got my dream noise.",
    "items": 16,
-   "ended": false
+   "ended": true
   },
   "OF9FGE": {
    "msg": "1541069714837479475",
    "end": 1787575501,
    "title": "More noise...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SVRL98": {
    "msg": "1541069726371938334",
    "end": 1787575441,
    "title": "I don't know what to write",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HOEBWA": {
    "msg": "1541069732076068865",
    "end": 1787575261,
    "title": "idk",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T3XWS0": {
    "msg": "1541069738971635722",
    "end": 1787575202,
    "title": "fiends falling out the sky",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "Q7KBX3": {
    "msg": "1541069745439113276",
    "end": 1787575142,
    "title": "Grabli304's raffle\u2503Day 175",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "NBU7CP": {
    "msg": "1541069752196399116",
    "end": 1787575081,
    "title": "abc",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "907TCX": {
    "msg": "1541069759548756120",
@@ -6004,21 +5983,21 @@
    "end": 1787576400,
    "title": "8 for 1 Sunday",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "8PEF82": {
    "msg": "1541071669173420123",
    "end": 1787576162,
    "title": "beautiful noise",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LK2V80": {
    "msg": "1541071674647117875",
    "end": 1787575981,
    "title": "Regular raffle too",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VHK1IH": {
    "msg": "1541077218728615967",
@@ -7648,6 +7627,20 @@
    "msg": "1541424286869233755",
    "end": 1787659021,
    "title": "Question #70",
+   "items": 1,
+   "ended": false
+  },
+  "YW5F03": {
+   "msg": "1541432121174925452",
+   "end": 1787661361,
+   "title": "MvM Update Australium Vote Part 14: Heavy Secondaries",
+   "items": 3,
+   "ended": false
+  },
+  "OJKINF": {
+   "msg": "1541432132516319304",
+   "end": 1787661241,
+   "title": "Team Graveyard: The Scout",
    "items": 1,
    "ended": false
   }
