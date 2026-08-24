@@ -98,32 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "O9J2EL": {
-   "msg": "1538382009020326030",
-   "end": 1786934041,
-   "title": "Markiplier is streaming FNaF World",
-   "items": 1,
-   "ended": true
-  },
   "NDDCBE": {
    "msg": "1538388137925939220",
    "end": 1786936322,
    "title": "Daily Kit Fabricator #7",
    "items": 1,
-   "ended": true
-  },
-  "R1XO2I": {
-   "msg": "1538388143848300585",
-   "end": 1786935661,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "70XL39": {
-   "msg": "1538388150169378928",
-   "end": 1786935541,
-   "title": "2000 Raffies",
-   "items": 2,
    "ended": true
   },
   "HAK1Z9": {
@@ -5087,14 +5066,14 @@
    "end": 1787539922,
    "title": "I enjoy playing Terraria, My name is Silva",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8WCWSX": {
    "msg": "1540918717679140945",
    "end": 1787539021,
    "title": "top 10 people on this website",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V83IFD": {
    "msg": "1540933806389985280",
@@ -7362,6 +7341,55 @@
    "end": 1787580000,
    "title": "Tune of the day #319",
    "items": 1,
+   "ended": false
+  },
+  "TBFSJW": {
+   "msg": "1541281114067439707",
+   "end": 1787626500,
+   "title": "Mutual Fiend",
+   "items": 1,
+   "ended": false
+  },
+  "PTC0AR": {
+   "msg": "1541281121180852346",
+   "end": 1787625901,
+   "title": "NOISE",
+   "items": 1,
+   "ended": false
+  },
+  "CH0FDS": {
+   "msg": "1541281127795265676",
+   "end": 1787625541,
+   "title": "Come on, feel the noise",
+   "items": 1,
+   "ended": false
+  },
+  "48LUCT": {
+   "msg": "1541281134204420146",
+   "end": 1787625421,
+   "title": "I'm still tipping every raffle with  in it's name",
+   "items": 1,
+   "ended": false
+  },
+  "41E46A": {
+   "msg": "1541281141133287506",
+   "end": 1787625421,
+   "title": "Come on, feel the noise",
+   "items": 1,
+   "ended": false
+  },
+  "DD3ZYO": {
+   "msg": "1541281147588444200",
+   "end": 1787625301,
+   "title": "Come on, feel the noise",
+   "items": 1,
+   "ended": false
+  },
+  "GUZYQC": {
+   "msg": "1541281154550730755",
+   "end": 1787624941,
+   "title": "(still! (but not for much longer!)) Tipping all  raffles!",
+   "items": 5,
    "ended": false
   }
  },
