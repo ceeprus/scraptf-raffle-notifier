@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "P5HIHN": {
-   "msg": "1538679801085296852",
-   "end": 1787006461,
-   "title": "The gods strike back",
-   "items": 1,
-   "ended": true
-  },
-  "XNZWJH": {
-   "msg": "1538683973884969070",
-   "end": 1787006821,
-   "title": "Meow",
-   "items": 1,
-   "ended": true
-  },
   "CE7YGB": {
    "msg": "1538686604703436901",
    "end": 1787007600,
@@ -6669,14 +6655,14 @@
    "end": 1787610842,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V0LRMN": {
    "msg": "1541216743328972912",
    "end": 1787610721,
    "title": "Untitled raffle",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "LE059U": {
    "msg": "1541216750534926348",
@@ -6697,14 +6683,14 @@
    "end": 1787611621,
    "title": "Hello! Have a great day!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "FMZTKN": {
    "msg": "1541220703578361886",
    "end": 1787611441,
    "title": "Make some noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YWMTU0": {
    "msg": "1541223581135011941",
@@ -7689,6 +7675,13 @@
   "KDRET3": {
    "msg": "1541575521102467132",
    "end": 1787653081,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XWXMJM": {
+   "msg": "1541580457647546499",
+   "end": 1787698081,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
