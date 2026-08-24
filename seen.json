@@ -301,13 +301,6 @@
    "items": 13,
    "ended": true
   },
-  "55W3LA": {
-   "msg": "1538573832514969600",
-   "end": 1786937400,
-   "title": "[Fallen Tributes/Night 13] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "K4GVFV": {
    "msg": "1538578284261150762",
    "end": 1786981621,
@@ -6487,7 +6480,7 @@
    "end": 1787542200,
    "title": "Tune of the day #318",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LJYNSK": {
    "msg": "1541110781582639114",
@@ -7404,6 +7397,13 @@
    "end": 1787626861,
    "title": "we need my noisemaker mains! #503928289",
    "items": 1,
+   "ended": false
+  },
+  "U7BQ7B": {
+   "msg": "1541288610479874188",
+   "end": 1787628421,
+   "title": "SCRAPPY cow day",
+   "items": 5,
    "ended": false
   }
  },
