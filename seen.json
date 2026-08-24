@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "EG4XY7": {
-   "msg": "1538668879897821374",
-   "end": 1787003461,
-   "title": "Music Discovery #2",
-   "items": 1,
-   "ended": true
-  },
-  "ARWNCU": {
-   "msg": "1538668886239485952",
-   "end": 1787003400,
-   "title": "checkup #92 | Scritchy Scratchy",
-   "items": 1,
-   "ended": true
-  },
-  "027UCX": {
-   "msg": "1538668894942789682",
-   "end": 1787003161,
-   "title": "Six year Scrappy",
-   "items": 50,
-   "ended": true
-  },
   "66PFGA": {
    "msg": "1538676400821764267",
    "end": 1787004781,
@@ -355,13 +334,6 @@
    "end": 1787044202,
    "title": "support SLUGMA",
    "items": 2,
-   "ended": true
-  },
-  "9WNV19": {
-   "msg": "1538850082101796894",
-   "end": 1787002442,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #82 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
    "ended": true
   },
   "AK33QG": {
@@ -6634,7 +6606,7 @@
    "end": 1787607181,
    "title": "A chance to get rid of my noisemakers? Dont have to tell me twice",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "M0S92H": {
    "msg": "1541201111430463599",
@@ -6655,14 +6627,14 @@
    "end": 1787607902,
    "title": "can i get a :3",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "VTUAC0": {
    "msg": "1541205598522056795",
    "end": 1787607600,
    "title": "checkup #99 | Team Fortress' birthday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TUTLV6": {
    "msg": "1541208540998537296",
@@ -7208,7 +7180,7 @@
    "end": 1787608141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OKH8BL": {
    "msg": "1541393829876473896",
@@ -7683,6 +7655,13 @@
    "msg": "1541560428822401138",
    "end": 1787649181,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CKQAD0": {
+   "msg": "1541565533462200321",
+   "end": 1787693641,
+   "title": "Kiestu crafting ALL the weapons #6",
    "items": 1,
    "ended": false
   }
