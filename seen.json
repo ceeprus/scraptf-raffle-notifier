@@ -5080,84 +5080,84 @@
    "end": 1787554800,
    "title": "Untitled raffle",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "ECZ46Q": {
    "msg": "1540979111185358968",
    "end": 1787554682,
    "title": "1 BILLION NOISE MAKERS",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JUXJFY": {
    "msg": "1540979117581934663",
    "end": 1787554681,
    "title": "#NoiseSweep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7HQRXM": {
    "msg": "1540979125341126678",
    "end": 1787554622,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RUHF8R": {
    "msg": "1540979133771939871",
    "end": 1787554501,
    "title": "RELEASE THE NOISE MAKERS!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BGTC8Z": {
    "msg": "1540979140902264852",
    "end": 1787554501,
    "title": "Finally",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FGSB55": {
    "msg": "1540979147864670298",
    "end": 1787554381,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "41BCFM": {
    "msg": "1540979155225546892",
    "end": 1787554322,
    "title": "Day 14 of asking for Slugma Chain emoticon",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "O2GBWA": {
    "msg": "1540979161668001862",
    "end": 1787554261,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8T2E0S": {
    "msg": "1540979168412700733",
    "end": 1787554082,
    "title": "Technical difficulties",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z7ZF68": {
    "msg": "1540979174335062027",
    "end": 1787553721,
    "title": "I'm tipping all noise maker raffles until this raffle ends as long as the raffle lasts 24 hours and the maximum entries is set to 2000 or more",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KKUB3P": {
    "msg": "1540979181389742080",
    "end": 1787553181,
    "title": "I owe everyone an apology!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RSH481": {
    "msg": "1540986622219264010",
@@ -7453,6 +7453,41 @@
    "end": 1787637902,
    "title": "Time for a different approach.",
    "items": 1,
+   "ended": false
+  },
+  "47H9U5": {
+   "msg": "1541341507200749588",
+   "end": 1787640902,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "VA0RBL": {
+   "msg": "1541341514439987321",
+   "end": 1787640841,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UVL15Z": {
+   "msg": "1541341520739700885",
+   "end": 1787640181,
+   "title": "Music to my ears",
+   "items": 1,
+   "ended": false
+  },
+  "LR1BFY": {
+   "msg": "1541341526561660949",
+   "end": 1787640138,
+   "title": "Noise pollution",
+   "items": 1,
+   "ended": false
+  },
+  "Y1IU02": {
+   "msg": "1541341533679386664",
+   "end": 1787639461,
+   "title": "Day 15 of asking for Slugma Chain emoticon",
+   "items": 5,
    "ended": false
   }
  },
