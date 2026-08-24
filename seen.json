@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "HAK1Z9": {
-   "msg": "1538397104375070741",
-   "end": 1786938481,
-   "title": "My Favorite Hat",
-   "items": 1,
-   "ended": true
-  },
-  "QXN6LU": {
-   "msg": "1538397114357260462",
-   "end": 1786937641,
-   "title": "Caf\u00e9 Crit-A-Coffee #1758",
-   "items": 10,
-   "ended": true
-  },
-  "S1VMX1": {
-   "msg": "1538398453686870117",
-   "end": 1786939141,
-   "title": "Repairs",
-   "items": 1,
-   "ended": true
-  },
   "K3L20K": {
    "msg": "1538411422403534918",
    "end": 1786941661,
@@ -5066,14 +5045,14 @@
    "end": 1787543341,
    "title": "Hope everyone has a nice eep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WHVKB1": {
    "msg": "1540933813083836506",
    "end": 1787543042,
    "title": "Daily Scrap  #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7SJRKF": {
    "msg": "1540933821296418846",
@@ -5087,7 +5066,7 @@
    "end": 1787543762,
    "title": "A Night Out",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VJCQL3": {
    "msg": "1540941345626136687",
@@ -7404,6 +7383,20 @@
    "end": 1787628421,
    "title": "SCRAPPY cow day",
    "items": 5,
+   "ended": false
+  },
+  "G99QRR": {
+   "msg": "1541296199598874625",
+   "end": 1787629202,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "7NONH2": {
+   "msg": "1541296207035633694",
+   "end": 1787629082,
+   "title": "?",
+   "items": 3,
    "ended": false
   }
  },
