@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Q7B42E": {
-   "msg": "1538455208034828289",
-   "end": 1786951922,
-   "title": "Slugma Chain raffle #8-9",
-   "items": 1,
-   "ended": true
-  },
   "52ZWLA": {
    "msg": "1538461915045691442",
    "end": 1786953782,
@@ -5276,14 +5269,14 @@
    "end": 1787556842,
    "title": "500 noise makers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FTJCTM": {
    "msg": "1540992634049405028",
    "end": 1787556721,
    "title": "First raffle!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DJ9MGM": {
    "msg": "1540992640282140695",
@@ -6795,7 +6788,7 @@
    "end": 1787556721,
    "title": "FINAL !",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I7FJS7": {
    "msg": "1541175392596009021",
