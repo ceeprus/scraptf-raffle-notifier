@@ -6417,35 +6417,35 @@
    "end": 1787597221,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JZ30NN": {
    "msg": "1541158727917371583",
    "end": 1787597101,
    "title": "First raffles !!! \u200b\u200b\u200b\u200b\u200b\u200b\u200b",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HKPORO": {
    "msg": "1541158734523539677",
    "end": 1787596921,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "88UPIF": {
    "msg": "1541158746997395567",
    "end": 1787596501,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8H6XGD": {
    "msg": "1541158753058033714",
    "end": 1787596381,
    "title": "Beep Beep! (First Raffle)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VIBUP5": {
    "msg": "1541158759794212964",
@@ -6459,14 +6459,14 @@
    "end": 1787597641,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HFB0C4": {
    "msg": "1541164079849152512",
    "end": 1787598000,
    "title": "#34 Weekly dose of Polish songs",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TSK4D1": {
    "msg": "1541167823269658765",
@@ -7670,6 +7670,41 @@
    "end": 1787677081,
    "title": "take my items",
    "items": 6,
+   "ended": false
+  },
+  "TFZVHX": {
+   "msg": "1541522705944416338",
+   "end": 1787612101,
+   "title": "sup!",
+   "items": 10,
+   "ended": false
+  },
+  "8JFT03": {
+   "msg": "1541522712273625148",
+   "end": 1787683981,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "X58WZI": {
+   "msg": "1541522719798071318",
+   "end": 1787683141,
+   "title": "Bau! Bau!",
+   "items": 1,
+   "ended": false
+  },
+  "6D89A5": {
+   "msg": "1541522728333615146",
+   "end": 1787682600,
+   "title": "I CAST KINDNESS UPON THEE... NINE???",
+   "items": 9,
+   "ended": false
+  },
+  "79YFSH": {
+   "msg": "1541522736919093358",
+   "end": 1787682181,
+   "title": "ref with extra steps #2",
+   "items": 1,
    "ended": false
   }
  },
