@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "VQOIF9": {
-   "msg": "1538344217804410971",
-   "end": 1786924322,
-   "title": "Gift from me to you guys!",
-   "items": 3,
-   "ended": true
-  },
   "R5Y9KL": {
    "msg": "1538347748099624981",
    "end": 1786927201,
@@ -5136,7 +5129,7 @@
    "end": 1787529181,
    "title": "MvM Update Australium Vote Part 12: Demoman Melees",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "UKX48C": {
    "msg": "1540885037145391164",
@@ -6144,7 +6137,7 @@
    "end": 1787529301,
    "title": "mariooooooooooooooooooooooooooo mariooooooooooooooooooooooooooooooooo",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F950ML": {
    "msg": "1541054632887980032",
