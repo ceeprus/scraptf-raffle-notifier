@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "M7I9F9": {
-   "msg": "1538566151422869585",
-   "end": 1786978921,
-   "title": "It's sundaaaayyy!",
-   "items": 20,
-   "ended": true
-  },
-  "3MAVEX": {
-   "msg": "1538570702406295614",
-   "end": 1786980001,
-   "title": "Marvelous Sunday",
-   "items": 1,
-   "ended": true
-  },
   "ZJCYLI": {
    "msg": "1538573826097676451",
    "end": 1786981082,
@@ -355,13 +341,6 @@
    "end": 1787018881,
    "title": "Caf\u00e9 Crit-A-Coffee #1759",
    "items": 10,
-   "ended": true
-  },
-  "5F8QGN": {
-   "msg": "1538750553847234572",
-   "end": 1786979222,
-   "title": "Raffling Scrap Till I'm Out #1006 (Bleh)",
-   "items": 1,
    "ended": true
   },
   "DX3IXE": {
@@ -6228,14 +6207,14 @@
    "end": 1787584621,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5VHZQH": {
    "msg": "1541107434372735086",
    "end": 1787584561,
    "title": "\u02d2\ufe5a\u02ce\u02ca\u02d7)\u02d2\ufe5a)\u02d2\u02ce\u02ca\u02d7\ufe5a)\u02d2\ufe5a)\u02ce\u02ca\u02d7\u02d2\ufe5a)\u02ce\u02ca\u02d7",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TR2INQ": {
    "msg": "1541110765799481466",
@@ -6263,7 +6242,7 @@
    "end": 1787585101,
    "title": "niceeeee",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "UW5SKM": {
    "msg": "1541118393003016332",
@@ -7648,6 +7627,41 @@
    "msg": "1541455225402040330",
    "end": 1787667721,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P10L93": {
+   "msg": "1541469599059550350",
+   "end": 1787670002,
+   "title": "It's a dog-eat-dog world out there...",
+   "items": 1,
+   "ended": false
+  },
+  "612VDY": {
+   "msg": "1541469605615116289",
+   "end": 1787626800,
+   "title": "Tune of the day #320!",
+   "items": 1,
+   "ended": false
+  },
+  "QPA6R8": {
+   "msg": "1541469613823627374",
+   "end": 1787670000,
+   "title": "You're listening to SPICE FM (48)",
+   "items": 3,
+   "ended": false
+  },
+  "BEEZTK": {
+   "msg": "1541469622220361759",
+   "end": 1787587021,
+   "title": "100% win",
+   "items": 77,
+   "ended": false
+  },
+  "II235K": {
+   "msg": "1541469628654551130",
+   "end": 1787669582,
+   "title": "TF2 Birthday Raffle",
    "items": 1,
    "ended": false
   }
