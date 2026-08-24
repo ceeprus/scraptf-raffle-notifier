@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CDW3KG": {
-   "msg": "1538366897068707840",
-   "end": 1786931821,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "0T3ZBG": {
-   "msg": "1538366903242719403",
-   "end": 1786931281,
-   "title": "yeehaw",
-   "items": 2,
-   "ended": true
-  },
   "V65UB6": {
    "msg": "1538370833804951614",
    "end": 1786932481,
@@ -5115,7 +5101,7 @@
    "end": 1787535661,
    "title": "I wonder how many times I've won from Terrible Terrence's Tune of the  MvM Update. Yummers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1BMJMD": {
    "msg": "1540918711580368986",
@@ -6305,7 +6291,7 @@
    "end": 1787535181,
    "title": "Addiction",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "LUW2TJ": {
    "msg": "1541082412006506639",
@@ -6410,7 +6396,7 @@
    "end": 1787536801,
    "title": "Unclaimed Items",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "ZGB4JO": {
    "msg": "1541092308328513546",
@@ -7368,6 +7354,27 @@
    "msg": "1541258467136905238",
    "end": 1787619482,
    "title": "Daily Hat #78",
+   "items": 1,
+   "ended": false
+  },
+  "PDQOD7": {
+   "msg": "1541266003269386250",
+   "end": 1787622842,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "2A77HC": {
+   "msg": "1541266011653939251",
+   "end": 1787622061,
+   "title": "Bison",
+   "items": 2,
+   "ended": false
+  },
+  "S06A12": {
+   "msg": "1541266019409207367",
+   "end": 1787578081,
+   "title": "Ham",
    "items": 1,
    "ended": false
   }
