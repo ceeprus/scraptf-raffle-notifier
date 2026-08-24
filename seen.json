@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "K3L20K": {
-   "msg": "1538411422403534918",
-   "end": 1786941661,
-   "title": "Kiestu has drank a liquefied brownie and ice cream drink",
-   "items": 1,
-   "ended": true
-  },
   "KD3WEY": {
    "msg": "1538433260877783040",
    "end": 1786946761,
@@ -299,13 +292,6 @@
    "end": 1786982521,
    "title": "Scrap.tf Birthdays - 16 August",
    "items": 2,
-   "ended": true
-  },
-  "V400NV": {
-   "msg": "1538590112323993613",
-   "end": 1786941541,
-   "title": "First Raffle! :D",
-   "items": 3,
    "ended": true
   },
   "T0BSK3": {
@@ -7439,6 +7425,13 @@
    "end": 1787631121,
    "title": "choklat",
    "items": 1,
+   "ended": false
+  },
+  "MT1U12": {
+   "msg": "1541311290239098894",
+   "end": 1787632802,
+   "title": "1 Winner, 1 Loser. . .",
+   "items": 2,
    "ended": false
   }
  },
