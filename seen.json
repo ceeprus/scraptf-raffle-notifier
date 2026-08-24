@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "J7WX5J": {
-   "msg": "1538694088352735312",
-   "end": 1787009101,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "RLF7PL": {
    "msg": "1538706601391825026",
    "end": 1787011741,
@@ -6704,7 +6697,7 @@
    "end": 1787613781,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P71HU4": {
    "msg": "1541243315716886601",
@@ -7705,6 +7698,13 @@
    "end": 1787698800,
    "title": "A  a day",
    "items": 1,
+   "ended": false
+  },
+  "WFTRKV": {
+   "msg": "1541590597448507503",
+   "end": 1787699941,
+   "title": "The Future",
+   "items": 37,
    "ended": false
   }
  },
