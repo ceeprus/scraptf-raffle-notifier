@@ -105,13 +105,6 @@
    "items": 4,
    "ended": true
   },
-  "GUJNHC": {
-   "msg": "1538581585950023733",
-   "end": 1786982521,
-   "title": "Scrap.tf Birthdays - 16 August",
-   "items": 2,
-   "ended": true
-  },
   "T0BSK3": {
    "msg": "1538590119488000135",
    "end": 1786984141,
@@ -6235,14 +6228,14 @@
    "end": 1787587381,
    "title": "67 raffles won",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "YCC3NS": {
    "msg": "1541118399919296625",
    "end": 1787587261,
    "title": "Scrap.tf Birthdays - 23 August",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "3GIATS": {
    "msg": "1541122511024955414",
@@ -7669,6 +7662,13 @@
    "msg": "1541477430244413531",
    "end": 1787671682,
    "title": "Today I changed my pfp and today is TF2's bday!",
+   "items": 1,
+   "ended": false
+  },
+  "MEKIFE": {
+   "msg": "1541478367835070516",
+   "end": 1787673600,
+   "title": "Weekly  #74",
    "items": 1,
    "ended": false
   }
