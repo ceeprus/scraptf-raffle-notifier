@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KD3WEY": {
-   "msg": "1538433260877783040",
-   "end": 1786946761,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "KPDZMY": {
-   "msg": "1538442401675223112",
-   "end": 1786948081,
-   "title": "Day 9 of asking for Slugma Chain emoticon",
-   "items": 30,
-   "ended": true
-  },
   "5M2MF1": {
    "msg": "1538449901367595038",
    "end": 1786950602,
@@ -348,13 +334,6 @@
    "end": 1786991161,
    "title": "art I made 4",
    "items": 3,
-   "ended": true
-  },
-  "BWNJG8": {
-   "msg": "1538616013480927253",
-   "end": 1786947842,
-   "title": "First Raffle",
-   "items": 1,
    "ended": true
   },
   "28YN2T": {
@@ -5094,7 +5073,7 @@
    "end": 1787552521,
    "title": "Little Good Bye Gift:)",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "4L4F0H": {
    "msg": "1540979104281665576",
@@ -7187,7 +7166,7 @@
    "end": 1787552761,
    "title": "muahahahahaha",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JHCYSU": {
    "msg": "1541243322784284733",
@@ -7467,6 +7446,13 @@
    "end": 1787635681,
    "title": "[coollion]  First raffle. [coollion]",
    "items": 2,
+   "ended": false
+  },
+  "TXOG6L": {
+   "msg": "1541333915233558560",
+   "end": 1787637902,
+   "title": "Time for a different approach.",
+   "items": 1,
    "ended": false
   }
  },
