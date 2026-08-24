@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "5M2MF1": {
-   "msg": "1538449901367595038",
-   "end": 1786950602,
-   "title": "A Story",
-   "items": 10,
-   "ended": true
-  },
   "Q7B42E": {
    "msg": "1538455208034828289",
    "end": 1786951922,
@@ -334,13 +327,6 @@
    "end": 1786991161,
    "title": "art I made 4",
    "items": 3,
-   "ended": true
-  },
-  "28YN2T": {
-   "msg": "1538627070496735253",
-   "end": 1786950602,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "G9UMG5": {
@@ -5164,42 +5150,42 @@
    "end": 1787556001,
    "title": "cat noise 3",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UMHDPG": {
    "msg": "1540986628242145281",
    "end": 1787555581,
    "title": "Attention! 3/3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SMSLBN": {
    "msg": "1540986634349187093",
    "end": 1787555461,
    "title": "cat noise 2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U9FVH5": {
    "msg": "1540986640116359188",
    "end": 1787555402,
    "title": "Noisy noisy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FZZ56N": {
    "msg": "1540986646386712658",
    "end": 1787555402,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "BM5YJ5": {
    "msg": "1540986653844185149",
    "end": 1787555281,
    "title": "Time to make some noise I think",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "E2BZ46": {
    "msg": "1540986659888308254",
@@ -5213,35 +5199,35 @@
    "end": 1787555161,
    "title": "There's more",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U1YOPW": {
    "msg": "1540986673347829770",
    "end": 1787555101,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "HDKTLW": {
    "msg": "1540986679899324497",
    "end": 1787554922,
    "title": "Untitled raffle",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "47H1ZS": {
    "msg": "1540986685670690827",
    "end": 1787554922,
    "title": "MAKERS NOISE RAFFLE",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M736RU": {
    "msg": "1540986692301881386",
    "end": 1787554861,
    "title": "Dynamite Mario Notice Me Senpapi",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "ZVU6AP": {
    "msg": "1540992581452828707",
@@ -5304,35 +5290,35 @@
    "end": 1787556482,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "CPWKZ0": {
    "msg": "1540992646892355665",
    "end": 1787556301,
    "title": "Noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PXQBVS": {
    "msg": "1540992653095735407",
    "end": 1787556301,
    "title": "Weekly Noisemaker Raffle #4... or well... Until I run out of noise makers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WKAE30": {
    "msg": "1540992659827462194",
    "end": 1787556181,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "DWC60Y": {
    "msg": "1540992675245727744",
    "end": 1787556181,
    "title": "We need LESS pyro mains #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P9WJN9": {
    "msg": "1540998817741152326",
@@ -7488,6 +7474,48 @@
    "end": 1787639461,
    "title": "Day 15 of asking for Slugma Chain emoticon",
    "items": 5,
+   "ended": false
+  },
+  "5N24N9": {
+   "msg": "1541349009367507044",
+   "end": 1787642282,
+   "title": "7 Days till my Birthday",
+   "items": 1,
+   "ended": false
+  },
+  "P39QZT": {
+   "msg": "1541349015906418758",
+   "end": 1787641742,
+   "title": "Hi I'm Epic_Man69",
+   "items": 1,
+   "ended": false
+  },
+  "UYULEL": {
+   "msg": "1541349023242518558",
+   "end": 1787641321,
+   "title": "Question #69",
+   "items": 1,
+   "ended": false
+  },
+  "CUN9OH": {
+   "msg": "1541349029559013417",
+   "end": 1787641261,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "N2YSI1": {
+   "msg": "1541349035116601436",
+   "end": 1787641200,
+   "title": "Your weakness sickens me...",
+   "items": 1,
+   "ended": false
+  },
+  "1K4MT6": {
+   "msg": "1541349041521172490",
+   "end": 1787641141,
+   "title": "Getting back into TF after many years away",
+   "items": 1,
    "ended": false
   }
  },
