@@ -5080,7 +5080,7 @@
    "end": 1787545202,
    "title": "Untitled raffle",
    "items": 100,
-   "ended": false
+   "ended": true
   },
   "G1KVM5": {
    "msg": "1540956416544866304",
@@ -7397,6 +7397,27 @@
    "end": 1787629082,
    "title": "?",
    "items": 3,
+   "ended": false
+  },
+  "428DM6": {
+   "msg": "1541301420136071228",
+   "end": 1787630941,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8DY6CN": {
+   "msg": "1541301427140431883",
+   "end": 1787630400,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1515 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 24,
+   "ended": false
+  },
+  "S4EVF3": {
+   "msg": "1541301434967007295",
+   "end": 1787630101,
+   "title": "Caf\u00e9 Crit-A-Coffee #1765",
+   "items": 11,
    "ended": false
   }
  },
