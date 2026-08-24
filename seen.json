@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "9PPCY3": {
-   "msg": "1538661311590957067",
-   "end": 1787001241,
-   "title": "Don't get stuck in a loop, especially a time traveling one",
-   "items": 1,
-   "ended": true
-  },
   "EG4XY7": {
    "msg": "1538668879897821374",
    "end": 1787003461,
@@ -357,20 +350,6 @@
    "items": 3,
    "ended": true
   },
-  "TCAFLX": {
-   "msg": "1538842502398869625",
-   "end": 1787001542,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "KSKPH9": {
-   "msg": "1538842509302829057",
-   "end": 1787001361,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "0QQIT5": {
    "msg": "1538842523089371259",
    "end": 1787044381,
@@ -378,32 +357,11 @@
    "items": 3,
    "ended": true
   },
-  "U5OPB0": {
-   "msg": "1538842529586221066",
-   "end": 1787001181,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "CQVRBX": {
-   "msg": "1538842536016216174",
-   "end": 1787001061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "PO72Z0": {
    "msg": "1538842543653912609",
    "end": 1787044202,
    "title": "support SLUGMA",
    "items": 2,
-   "ended": true
-  },
-  "4T23EW": {
-   "msg": "1538842550805332058",
-   "end": 1787000881,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "9WNV19": {
@@ -6662,35 +6620,35 @@
    "end": 1787605261,
    "title": "Untitled raffle",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "ITHW3X": {
    "msg": "1541198014226632746",
    "end": 1787606341,
    "title": "My First Good MVM Drop",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "JPX47K": {
    "msg": "1541198020555837471",
    "end": 1787606281,
    "title": "You have to read this, it's very important.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UNZSHU": {
    "msg": "1541198027841085484",
    "end": 1787605802,
    "title": "Go make some noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1C6JMM": {
    "msg": "1541198038511522044",
    "end": 1787605621,
    "title": "1st Raffle",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "GLRA5Q": {
    "msg": "1541201105822941224",
@@ -7712,6 +7670,34 @@
    "end": 1787690761,
    "title": "\ud83d\udc1f  Song of today   \ud83d\udc1f",
    "items": 1,
+   "ended": false
+  },
+  "GXPH0H": {
+   "msg": "1541558282618150924",
+   "end": 1787649122,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4SOO19": {
+   "msg": "1541558288540246067",
+   "end": 1787649002,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IKW3ZH": {
+   "msg": "1541558295146401832",
+   "end": 1787691721,
+   "title": "Hey, it\u2019s me, it\u2019s VERITY! \ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "4TTR9R": {
+   "msg": "1541558302222196857",
+   "end": 1787691600,
+   "title": "checkup #100 | The 1 hundredth entry",
+   "items": 2,
    "ended": false
   }
  },
