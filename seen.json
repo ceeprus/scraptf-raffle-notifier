@@ -6151,7 +6151,7 @@
    "end": 1787581921,
    "title": "Noise.TF3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7AMNVV": {
    "msg": "1541096351511617607",
@@ -7634,6 +7634,20 @@
    "msg": "1541454723520139315",
    "end": 1787667482,
    "title": "gassy",
+   "items": 1,
+   "ended": false
+  },
+  "94HCPX": {
+   "msg": "1541455218749870221",
+   "end": 1787668261,
+   "title": "Hi all Today is TF2's birthday.",
+   "items": 3,
+   "ended": false
+  },
+  "EPVQS9": {
+   "msg": "1541455225402040330",
+   "end": 1787667721,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
