@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "9WAJDN": {
-   "msg": "1538953666520678400",
-   "end": 1787071501,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "P8FOFK": {
    "msg": "1538960235140485185",
    "end": 1787072821,
    "title": "i dont fucking win in raffles, so i created this one",
    "items": 1,
-   "ended": true
-  },
-  "BWUA5D": {
-   "msg": "1538960241822142599",
-   "end": 1787072400,
-   "title": "Daily raffle until TF2 gets a major update #594",
-   "items": 3,
    "ended": true
   },
   "174AU8": {
@@ -6928,7 +6914,7 @@
    "end": 1787675821,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KQ70QA": {
    "msg": "1541500021676052570",
@@ -6963,21 +6949,21 @@
    "end": 1787677201,
    "title": "TF2 30th Anniversary",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OJJ656": {
    "msg": "1541500060704178227",
    "end": 1787677200,
    "title": "Daily raffle until TF2 gets a major update #601",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "5CCMX5": {
    "msg": "1541500072917737483",
    "end": 1787677081,
    "title": "take my items",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "TFZVHX": {
    "msg": "1541522705944416338",
@@ -8118,6 +8104,55 @@
    "end": 1787760000,
    "title": "Scrap.tf Birthdays - 25 August",
    "items": 2,
+   "ended": false
+  },
+  "E17B9O": {
+   "msg": "1541854917235445810",
+   "end": 1787763600,
+   "title": "Daily raffle until TF2 gets a major update #602",
+   "items": 3,
+   "ended": false
+  },
+  "VPBL8F": {
+   "msg": "1541854925229924474",
+   "end": 1787762581,
+   "title": "Bread\ud83c\udf5e bread bread bread",
+   "items": 7,
+   "ended": false
+  },
+  "T1S0VE": {
+   "msg": "1541854933907677235",
+   "end": 1787762462,
+   "title": "I Drew Ts 25 pt 2",
+   "items": 1,
+   "ended": false
+  },
+  "3YOTAY": {
+   "msg": "1541854941356883968",
+   "end": 1787762342,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ODNWI7": {
+   "msg": "1541854948856438815",
+   "end": 1787762221,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3WMWL9": {
+   "msg": "1541854954376138783",
+   "end": 1787762101,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "R2XLBE": {
+   "msg": "1541854961149681694",
+   "end": 1787761921,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
