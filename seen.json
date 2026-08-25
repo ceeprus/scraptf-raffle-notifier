@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "TIMLVU": {
-   "msg": "1538842494442410016",
-   "end": 1787044801,
-   "title": "MvM Update Australium Vote Part 4: Soldier Primaries",
-   "items": 3,
-   "ended": true
-  },
-  "0QQIT5": {
-   "msg": "1538842523089371259",
-   "end": 1787044381,
-   "title": "MvM Update Australium Vote Part 3: Scout Melees",
-   "items": 3,
-   "ended": true
-  },
-  "PO72Z0": {
-   "msg": "1538842543653912609",
-   "end": 1787044202,
-   "title": "support SLUGMA",
-   "items": 2,
-   "ended": true
-  },
   "AK33QG": {
    "msg": "1538855636689883226",
    "end": 1787047562,
@@ -7369,14 +7348,14 @@
    "end": 1787649122,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4SOO19": {
    "msg": "1541558288540246067",
    "end": 1787649002,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IKW3ZH": {
    "msg": "1541558295146401832",
@@ -7397,7 +7376,7 @@
    "end": 1787649181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CKQAD0": {
    "msg": "1541565533462200321",
@@ -7843,6 +7822,34 @@
   "4X4DB2": {
    "msg": "1541734144122421359",
    "end": 1787732821,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "V3DEEY": {
+   "msg": "1541740366007369788",
+   "end": 1787736181,
+   "title": "\ud83c\udf3c L\u1d0f\u1d00\u1d05\u026a\u0274\u0262...\ud83c\udf3c",
+   "items": 16,
+   "ended": false
+  },
+  "RFGE0P": {
+   "msg": "1541740373024575589",
+   "end": 1787735881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "K7TEJ0": {
+   "msg": "1541740387817750598",
+   "end": 1787735222,
+   "title": "how much time did yall spend playing not like shit on each class?",
+   "items": 1,
+   "ended": false
+  },
+  "W3W2GY": {
+   "msg": "1541740395900174376",
+   "end": 1787734502,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
