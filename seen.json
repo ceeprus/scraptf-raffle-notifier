@@ -7509,7 +7509,7 @@
    "end": 1787664661,
    "title": "Tips for the first 50 raffles: HERE I COME, SAN FRANCISCO!",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "V6PH2D": {
    "msg": "1541712917987328080",
@@ -8019,6 +8019,55 @@
    "msg": "1541801697129799720",
    "end": 1787748841,
    "title": "\ud83c\udf0a\ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "OFVD9Q": {
+   "msg": "1541809601543016508",
+   "end": 1787752081,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4H7870": {
+   "msg": "1541809609763856484",
+   "end": 1787751901,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5LKC4I": {
+   "msg": "1541809615988326481",
+   "end": 1787751781,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0WDRGK": {
+   "msg": "1541809623206469767",
+   "end": 1787751181,
+   "title": "\ud83d\udc2cRandom music 1\ud83d\udc2c",
+   "items": 2,
+   "ended": false
+  },
+  "LM8XG2": {
+   "msg": "1541809630584242287",
+   "end": 1787707742,
+   "title": "HERE I COME, SAN FRANCISCO!",
+   "items": 1,
+   "ended": false
+  },
+  "ZWUNSR": {
+   "msg": "1541809637869748316",
+   "end": 1787750821,
+   "title": "Today i felt like",
+   "items": 1,
+   "ended": false
+  },
+  "BO1RYC": {
+   "msg": "1541809644924833903",
+   "end": 1787750642,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
