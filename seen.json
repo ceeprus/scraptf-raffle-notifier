@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MTPIMQ": {
-   "msg": "1539013687451320450",
-   "end": 1787086081,
-   "title": "Sometimes People Need To Stop Talking (Yap)",
-   "items": 3,
-   "ended": true
-  },
   "YYLC2H": {
    "msg": "1539016173121699841",
    "end": 1787086800,
@@ -6935,7 +6928,7 @@
    "end": 1787690761,
    "title": "\ud83d\udc1f  Song of today   \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GXPH0H": {
    "msg": "1541558282618150924",
@@ -8165,6 +8158,48 @@
   "42VS0Y": {
    "msg": "1541907709237137421",
    "end": 1787775782,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4Y3HIR": {
+   "msg": "1541913291377606697",
+   "end": 1787776922,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FIMQBO": {
+   "msg": "1541913301997322290",
+   "end": 1787776861,
+   "title": "30000 and 1 raffles entered",
+   "items": 8,
+   "ended": false
+  },
+  "MHBD3H": {
+   "msg": "1541913314521522236",
+   "end": 1787733541,
+   "title": "Jesus Christ loves you :]",
+   "items": 47,
+   "ended": false
+  },
+  "CVHEP1": {
+   "msg": "1541913321551429722",
+   "end": 1787776200,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UIKK1P": {
+   "msg": "1541913326995513455",
+   "end": 1787776200,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "X6ZEUZ": {
+   "msg": "1541913335111618660",
+   "end": 1787776200,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
