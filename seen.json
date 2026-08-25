@@ -7642,7 +7642,7 @@
    "end": 1787615581,
    "title": "Feed my pretties! FEED!",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "L3BSIP": {
    "msg": "1541572004661166130",
@@ -7705,6 +7705,20 @@
    "end": 1787699941,
    "title": "The Future",
    "items": 37,
+   "ended": false
+  },
+  "UHVQC0": {
+   "msg": "1541598212740358246",
+   "end": 1787701801,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CUQO68": {
+   "msg": "1541598219858088007",
+   "end": 1787701441,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
