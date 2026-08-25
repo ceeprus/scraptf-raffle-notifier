@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "AK33QG": {
-   "msg": "1538855636689883226",
-   "end": 1787047562,
-   "title": "gift of the day #1",
-   "items": 1,
-   "ended": true
-  },
-  "CFYS3R": {
-   "msg": "1538857597086597180",
-   "end": 1787048642,
-   "title": "Grabli304's raffle\u2503Day 169",
-   "items": 2,
-   "ended": true
-  },
-  "XAPQRC": {
-   "msg": "1538857605651365898",
-   "end": 1787048581,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "F55Q6O": {
    "msg": "1538869315804074006",
    "end": 1787051101,
@@ -432,13 +411,6 @@
    "end": 1787089681,
    "title": "What's your guys favorite paint?",
    "items": 2,
-   "ended": true
-  },
-  "ON92IU": {
-   "msg": "1539038781582086226",
-   "end": 1787048641,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "UXRUCX": {
@@ -6900,14 +6872,14 @@
    "end": 1787652661,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #99 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RB9NE6": {
    "msg": "1541393836046295142",
    "end": 1787652482,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #98 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G9LZWU": {
    "msg": "1541393842610245632",
@@ -7397,21 +7369,21 @@
    "end": 1787652961,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2AZR68": {
    "msg": "1541572011174928465",
    "end": 1787652722,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KDRET3": {
    "msg": "1541575521102467132",
    "end": 1787653081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XWXMJM": {
    "msg": "1541580457647546499",
@@ -7885,6 +7857,62 @@
   "9N9TTU": {
    "msg": "1541748756708462613",
    "end": 1787736362,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "EXCOAT": {
+   "msg": "1541756712300584981",
+   "end": 1787696701,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LLVWAS": {
+   "msg": "1541756721515597884",
+   "end": 1787739601,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "K9OHC8": {
+   "msg": "1541756728012574801",
+   "end": 1787739181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ERS03N": {
+   "msg": "1541756733913825321",
+   "end": 1787739001,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6APYRQ": {
+   "msg": "1541756740742422570",
+   "end": 1787738881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LX85Z6": {
+   "msg": "1541756748090581082",
+   "end": 1787738881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2FIT6G": {
+   "msg": "1541756754277306418",
+   "end": 1787738581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5MCFBG": {
+   "msg": "1541756761319669821",
+   "end": 1787738341,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
