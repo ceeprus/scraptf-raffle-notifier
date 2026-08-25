@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MCTVTW": {
-   "msg": "1538880280297869402",
-   "end": 1787053561,
-   "title": "This cowboy is now a husband!",
-   "items": 3,
-   "ended": true
-  },
   "JH2LHR": {
    "msg": "1538886308024426496",
    "end": 1787055542,
@@ -6914,14 +6907,14 @@
    "end": 1787658482,
    "title": "Specialized Killstreak Unarmed Combat Kit Fabricator",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "9F6JDH": {
    "msg": "1541417014441152622",
    "end": 1787658361,
    "title": "Vibin",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6R3O3F": {
    "msg": "1541424231680712744",
@@ -7936,6 +7929,20 @@
    "end": 1787742000,
    "title": "...I've never heard of such things.",
    "items": 1,
+   "ended": false
+  },
+  "UFQEQW": {
+   "msg": "1541777064468676808",
+   "end": 1787744041,
+   "title": "Business is at an all time low...",
+   "items": 5,
+   "ended": false
+  },
+  "THIL70": {
+   "msg": "1541777071007596645",
+   "end": 1787700362,
+   "title": "I don't get the point of these.",
+   "items": 3,
    "ended": false
   }
  },
