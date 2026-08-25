@@ -6809,14 +6809,14 @@
    "end": 1787626921,
    "title": "Radio Silence",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TSRV7K": {
    "msg": "1541288328576376852",
    "end": 1787626861,
    "title": "we need my noisemaker mains! #503928289",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U7BQ7B": {
    "msg": "1541288610479874188",
@@ -7733,6 +7733,34 @@
    "end": 1787710681,
    "title": "Caf\u00e9 Crit-A-Coffee #1766",
    "items": 10,
+   "ended": false
+  },
+  "XN5K8R": {
+   "msg": "1541649431793770576",
+   "end": 1787714521,
+   "title": "Bau! Bau!",
+   "items": 8,
+   "ended": false
+  },
+  "2S5F3D": {
+   "msg": "1541649437804339273",
+   "end": 1787714161,
+   "title": "Living A Little",
+   "items": 1,
+   "ended": false
+  },
+  "N5WCCC": {
+   "msg": "1541649446444597440",
+   "end": 1787713200,
+   "title": "20 years old today",
+   "items": 10,
+   "ended": false
+  },
+  "5HOJ8G": {
+   "msg": "1541649452509692015",
+   "end": 1787712841,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
