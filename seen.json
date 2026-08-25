@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "I46821": {
-   "msg": "1538976866457878529",
-   "end": 1787076602,
-   "title": "BECOME ONE OF US!",
-   "items": 3,
-   "ended": true
-  },
-  "KLBZLA": {
-   "msg": "1538985981477396520",
-   "end": 1787077502,
-   "title": "Kiestu's Oil Spill question",
-   "items": 1,
-   "ended": true
-  },
   "8US49J": {
    "msg": "1538987298505621514",
    "end": 1787079662,
@@ -6970,7 +6956,7 @@
    "end": 1787682181,
    "title": "ref with extra steps #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7IDJ9A": {
    "msg": "1541524838210867231",
@@ -7327,7 +7313,7 @@
    "end": 1787682301,
    "title": "#SlugmaSleep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HAR9F8": {
    "msg": "1541696305112293377",
@@ -8167,6 +8153,27 @@
    "end": 1787765642,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "XL8K18": {
+   "msg": "1541876249012732045",
+   "end": 1787768461,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "632SIJ": {
+   "msg": "1541876256159834254",
+   "end": 1787702702,
+   "title": "have u guys ever gotten smth from the incinerator",
+   "items": 2,
+   "ended": false
+  },
+  "N19V54": {
+   "msg": "1541876262572662918",
+   "end": 1787767021,
+   "title": "The pass it forward raffle! (#18)",
+   "items": 2,
    "ended": false
   }
  },
