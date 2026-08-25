@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "P2HC38": {
-   "msg": "1538924136020058163",
-   "end": 1787064182,
-   "title": "Everything ain't what it seems",
-   "items": 1,
-   "ended": true
-  },
   "IK4UQB": {
    "msg": "1538929642088562779",
    "end": 1787066041,
@@ -117,13 +110,6 @@
    "end": 1787065442,
    "title": "Color No. 216-190-216",
    "items": 2,
-   "ended": true
-  },
-  "6GLN4L": {
-   "msg": "1538929672233164831",
-   "end": 1787065261,
-   "title": "Yo mama so fat",
-   "items": 6,
    "ended": true
   },
   "X684QE": {
@@ -404,13 +390,6 @@
    "end": 1787106121,
    "title": "Caf\u00e9 Crit-A-Coffee #1760",
    "items": 10,
-   "ended": true
-  },
-  "MBITNC": {
-   "msg": "1539106787674816563",
-   "end": 1787064842,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "DGOPRG": {
@@ -6942,7 +6921,7 @@
    "end": 1787668261,
    "title": "Hi all Today is TF2's birthday.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "EPVQS9": {
    "msg": "1541455225402040330",
@@ -6956,7 +6935,7 @@
    "end": 1787670002,
    "title": "It's a dog-eat-dog world out there...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "612VDY": {
    "msg": "1541469605615116289",
@@ -6970,7 +6949,7 @@
    "end": 1787670000,
    "title": "You're listening to SPICE FM (48)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BEEZTK": {
    "msg": "1541469622220361759",
@@ -6984,7 +6963,7 @@
    "end": 1787669582,
    "title": "TF2 Birthday Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PWJUZZ": {
    "msg": "1541477414545260734",
@@ -8088,6 +8067,34 @@
   "5DQVOJ": {
    "msg": "1541817133766414457",
    "end": 1787754001,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UDRFZY": {
+   "msg": "1541824707924598905",
+   "end": 1787755321,
+   "title": "I Drew Ts 25",
+   "items": 1,
+   "ended": false
+  },
+  "Q86I9O": {
+   "msg": "1541824730359660628",
+   "end": 1787711821,
+   "title": "I\u2019ll tip every raffle have 1 flowery voicelines.! (1/50 raffles)",
+   "items": 20,
+   "ended": false
+  },
+  "V2DZLF": {
+   "msg": "1541824740115611719",
+   "end": 1787754542,
+   "title": "What is your favorite war paint?",
+   "items": 2,
+   "ended": false
+  },
+  "19FJCZ": {
+   "msg": "1541824747350925415",
+   "end": 1787754361,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
