@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "GP2QQE": {
-   "msg": "1539027890128031865",
-   "end": 1787089261,
-   "title": "Toast",
-   "items": 22,
-   "ended": true
-  },
-  "U4AQR1": {
-   "msg": "1539031305407303730",
-   "end": 1787089681,
-   "title": "What's your guys favorite paint?",
-   "items": 2,
-   "ended": true
-  },
   "5MC5EE": {
    "msg": "1539053876685054052",
    "end": 1787095201,
@@ -6949,7 +6935,7 @@
    "end": 1787693641,
    "title": "Kiestu crafting ALL the weapons #6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X3Y6QX": {
    "msg": "1541567992469655693",
@@ -8265,6 +8251,13 @@
    "end": 1787779081,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "G7N2SH": {
+   "msg": "1541927850188214323",
+   "end": 1787779981,
+   "title": "Have these.",
+   "items": 133,
    "ended": false
   }
  },
