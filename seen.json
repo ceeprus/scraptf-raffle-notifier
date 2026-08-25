@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "DX3IXE": {
-   "msg": "1538759474519736422",
-   "end": 1787024221,
-   "title": "Have you ever won a Megaraffle?",
-   "items": 1,
-   "ended": true
-  },
-  "QTGVLV": {
-   "msg": "1538761681625284690",
-   "end": 1787025300,
-   "title": "Old Wounds",
-   "items": 1,
-   "ended": true
-  },
   "AC5CAI": {
    "msg": "1538766997612138526",
    "end": 1787026321,
@@ -6830,14 +6816,14 @@
    "end": 1787629202,
    "title": "Untitled raffle",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "7NONH2": {
    "msg": "1541296207035633694",
    "end": 1787629082,
    "title": "?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "428DM6": {
    "msg": "1541301420136071228",
@@ -6851,14 +6837,14 @@
    "end": 1787630400,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1515 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 24,
-   "ended": false
+   "ended": true
   },
   "S4EVF3": {
    "msg": "1541301434967007295",
    "end": 1787630101,
    "title": "Caf\u00e9 Crit-A-Coffee #1765",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "445QPO": {
    "msg": "1541303718308220938",
@@ -7761,6 +7747,20 @@
    "end": 1787712841,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "B7LDPS": {
+   "msg": "1541658585652658256",
+   "end": 1787672641,
+   "title": "Raffling Scrap Till I'm Out #1014 (Tired)",
+   "items": 1,
+   "ended": false
+  },
+  "39A6V5": {
+   "msg": "1541658593768775701",
+   "end": 1787714762,
+   "title": "scrapaholics, BITCH",
+   "items": 7,
    "ended": false
   }
  },
