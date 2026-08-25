@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "F55Q6O": {
-   "msg": "1538869315804074006",
-   "end": 1787051101,
-   "title": "my first happy scrappy (and my story)",
-   "items": 1,
-   "ended": true
-  },
   "2P6N7S": {
    "msg": "1538872696010444821",
    "end": 1787051941,
    "title": "The bots are back",
    "items": 4,
-   "ended": true
-  },
-  "0ZDPNN": {
-   "msg": "1538872703593746512",
-   "end": 1787051822,
-   "title": "First raffle",
-   "items": 5,
    "ended": true
   },
   "MCTVTW": {
@@ -404,13 +390,6 @@
    "end": 1787089681,
    "title": "What's your guys favorite paint?",
    "items": 2,
-   "ended": true
-  },
-  "UXRUCX": {
-   "msg": "1539049758612525088",
-   "end": 1787050981,
-   "title": "combine it, or not",
-   "items": 5,
    "ended": true
   },
   "5MC5EE": {
@@ -7942,6 +7921,27 @@
    "msg": "1541764331081965709",
    "end": 1787740562,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MVJ701": {
+   "msg": "1541768771616645133",
+   "end": 1787699101,
+   "title": "KA-BOOM thing",
+   "items": 1,
+   "ended": false
+  },
+  "66EJGE": {
+   "msg": "1541768777849372692",
+   "end": 1787742181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6SDP3N": {
+   "msg": "1541768783989837824",
+   "end": 1787742000,
+   "title": "...I've never heard of such things.",
    "items": 1,
    "ended": false
   }
