@@ -105,13 +105,6 @@
    "items": 3,
    "ended": true
   },
-  "SHLAO5": {
-   "msg": "1538976893834109010",
-   "end": 1787075762,
-   "title": "Daily Brass Beast #541",
-   "items": 1,
-   "ended": true
-  },
   "KLBZLA": {
    "msg": "1538985981477396520",
    "end": 1787077502,
@@ -8160,7 +8153,7 @@
    "end": 1787680502,
    "title": "Create Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UTHBUY": {
    "msg": "1541867956584058910",
