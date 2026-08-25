@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "8US49J": {
-   "msg": "1538987298505621514",
-   "end": 1787079662,
-   "title": "MvM Mondays",
-   "items": 2,
-   "ended": true
-  },
-  "DGXTC4": {
-   "msg": "1538993499397955636",
-   "end": 1787080021,
-   "title": "Data Harvesting",
-   "items": 2,
-   "ended": true
-  },
   "3EB14B": {
    "msg": "1538997992584122369",
    "end": 1787081282,
@@ -6956,7 +6942,7 @@
    "end": 1787684521,
    "title": "Since love raffles died #511",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "II1PGZ": {
    "msg": "1541524847241330779",
@@ -8173,6 +8159,13 @@
    "msg": "1541885087992389703",
    "end": 1787769722,
    "title": "STEAM COMMENT #36",
+   "items": 1,
+   "ended": false
+  },
+  "ZB5ECC": {
+   "msg": "1541886641969307669",
+   "end": 1787770800,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
