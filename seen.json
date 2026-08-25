@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "IK4UQB": {
-   "msg": "1538929642088562779",
-   "end": 1787066041,
-   "title": "i can't think of a title for this raffle 27\u2122",
-   "items": 1,
-   "ended": true
-  },
-  "X684QE": {
-   "msg": "1538933096311816303",
-   "end": 1787066461,
-   "title": "A reminder for life",
-   "items": 1,
-   "ended": true
-  },
   "OVFBXE": {
    "msg": "1538937242591035453",
    "end": 1787067722,
@@ -130,13 +116,6 @@
    "msg": "1538937258118217768",
    "end": 1787067601,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BC2MPJ": {
-   "msg": "1538937265886330970",
-   "end": 1787067000,
-   "title": "MK Poll #6 + The Favorites of Music #279 & #280",
    "items": 1,
    "ended": true
   },
@@ -390,13 +369,6 @@
    "end": 1787109961,
    "title": "Cat pic #6 + NOT Random Question #37 (Nothing)",
    "items": 2,
-   "ended": true
-  },
-  "0JRVEF": {
-   "msg": "1539114302022221885",
-   "end": 1787066701,
-   "title": "Raffling Scrap Till I'm Out #1007 (Tired)",
-   "items": 1,
    "ended": true
   },
   "YSMAUF": {
@@ -6977,7 +6949,7 @@
    "end": 1787671682,
    "title": "Today I changed my pfp and today is TF2's bday!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MEKIFE": {
    "msg": "1541478367835070516",
@@ -8111,6 +8083,20 @@
    "end": 1787756400,
    "title": "You're listening to SPICE FM (49)",
    "items": 3,
+   "ended": false
+  },
+  "C1WGYP": {
+   "msg": "1541832216105975849",
+   "end": 1787757421,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "JLZBI7": {
+   "msg": "1541832224393920574",
+   "end": 1787756761,
+   "title": "red bullsquid",
+   "items": 5,
    "ended": false
   }
  },
