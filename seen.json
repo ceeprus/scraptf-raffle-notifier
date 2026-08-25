@@ -6697,7 +6697,7 @@
    "end": 1787618822,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1514 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 23,
-   "ended": false
+   "ended": true
   },
   "D9M3R0": {
    "msg": "1541258421049761875",
@@ -6739,21 +6739,21 @@
    "end": 1787619602,
    "title": "Kiestu crafting ALL the weapons #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3I685C": {
    "msg": "1541258459889270834",
    "end": 1787619541,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VZGCWV": {
    "msg": "1541258467136905238",
    "end": 1787619482,
    "title": "Daily Hat #78",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PDQOD7": {
    "msg": "1541266003269386250",
@@ -7689,6 +7689,20 @@
   "CUQO68": {
    "msg": "1541598219858088007",
    "end": 1787701441,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZOMSIO": {
+   "msg": "1541613291443331112",
+   "end": 1787633461,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1U9JMH": {
+   "msg": "1541613297697038356",
+   "end": 1787661301,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
