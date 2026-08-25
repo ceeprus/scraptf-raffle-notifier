@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "QPOJ2S": {
-   "msg": "1538812292823777301",
-   "end": 1787038081,
-   "title": "drawing #4",
-   "items": 1,
-   "ended": true
-  },
-  "45L3UG": {
-   "msg": "1538812299824070757",
-   "end": 1787037661,
-   "title": "Mad Dog Monday #264",
-   "items": 2,
-   "ended": true
-  },
   "MXRIQJ": {
    "msg": "1538815741443186768",
    "end": 1787038382,
@@ -6844,28 +6830,28 @@
    "end": 1787642282,
    "title": "7 Days till my Birthday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P39QZT": {
    "msg": "1541349015906418758",
    "end": 1787641742,
    "title": "Hi I'm Epic_Man69",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UYULEL": {
    "msg": "1541349023242518558",
    "end": 1787641321,
    "title": "Question #69",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CUN9OH": {
    "msg": "1541349029559013417",
    "end": 1787641261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N2YSI1": {
    "msg": "1541349035116601436",
@@ -6907,7 +6893,7 @@
    "end": 1787642941,
    "title": "First Raffle + AMA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UN1HK8": {
    "msg": "1541364125618405447",
