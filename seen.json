@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MVWLUK": {
-   "msg": "1538782087652450314",
-   "end": 1787030762,
-   "title": "Wario Ware for peace (Unless it becomes profitable again)",
-   "items": 2,
-   "ended": true
-  },
-  "16KBDS": {
-   "msg": "1538782093385932833",
-   "end": 1787030341,
-   "title": "Weekly Noisemaker Raffle #3... or well... Until I run out of noise makers",
-   "items": 1,
-   "ended": true
-  },
   "E7DTPA": {
    "msg": "1538788976104579154",
    "end": 1787032081,
@@ -6865,7 +6851,7 @@
    "end": 1787635681,
    "title": "[coollion]  First raffle. [coollion]",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TXOG6L": {
    "msg": "1541333915233558560",
@@ -7733,6 +7719,27 @@
    "end": 1787718601,
    "title": "Its my birthday day!",
    "items": 1,
+   "ended": false
+  },
+  "DCI2OF": {
+   "msg": "1541681204548599870",
+   "end": 1787721841,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "LRH5DI": {
+   "msg": "1541681212832219237",
+   "end": 1787721661,
+   "title": "Unclaimed",
+   "items": 1,
+   "ended": false
+  },
+  "KNZ3N5": {
+   "msg": "1541681219140325437",
+   "end": 1787720641,
+   "title": "Old Shotguns need a new home",
+   "items": 2,
    "ended": false
   }
  },
