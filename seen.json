@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OVFBXE": {
-   "msg": "1538937242591035453",
-   "end": 1787067722,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "QLRPK5": {
-   "msg": "1538937250568605797",
-   "end": 1787067608,
-   "title": "Don't get stuck in a loop, especially a time traveling one",
-   "items": 1,
-   "ended": true
-  },
-  "UD5V0Z": {
-   "msg": "1538937258118217768",
-   "end": 1787067601,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "UUEOW9": {
-   "msg": "1538944810386325631",
-   "end": 1787068800,
-   "title": "Weekly  #73",
-   "items": 1,
-   "ended": true
-  },
-  "E6TGWD": {
-   "msg": "1538944819236175912",
-   "end": 1787068800,
-   "title": "Scrap.tf Birthdays - 17 August",
-   "items": 3,
-   "ended": true
-  },
   "FW36ZW": {
    "msg": "1538948196103889007",
    "end": 1787069402,
@@ -6935,14 +6900,14 @@
    "end": 1787671981,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "E86I4D": {
    "msg": "1541477422694928385",
    "end": 1787671921,
    "title": "Untitled raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "P586KM": {
    "msg": "1541477430244413531",
@@ -6956,7 +6921,7 @@
    "end": 1787673600,
    "title": "Weekly  #74",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4DMLH3": {
    "msg": "1541484914006818876",
@@ -7362,7 +7327,7 @@
    "end": 1787672641,
    "title": "Raffling Scrap Till I'm Out #1014 (Tired)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "39A6V5": {
    "msg": "1541658593768775701",
@@ -8097,6 +8062,27 @@
    "end": 1787756761,
    "title": "red bullsquid",
    "items": 5,
+   "ended": false
+  },
+  "YTSPBU": {
+   "msg": "1541839799844077619",
+   "end": 1787759221,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6CUY5H": {
+   "msg": "1541839808572297326",
+   "end": 1787758681,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "8VOR3P": {
+   "msg": "1541839815090372739",
+   "end": 1787758200,
+   "title": "MK Poll #10 + The Favorites of Music #287 & #288",
+   "items": 1,
    "ended": false
   }
  },
