@@ -700,13 +700,6 @@
    "items": 21,
    "ended": true
   },
-  "BBWAZG": {
-   "msg": "1539316856991522986",
-   "end": 1787078461,
-   "title": "Title",
-   "items": 46,
-   "ended": true
-  },
   "71ZFTN": {
    "msg": "1539316863740153879",
    "end": 1787157302,
@@ -6935,14 +6928,14 @@
    "end": 1787683981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X58WZI": {
    "msg": "1541522719798071318",
    "end": 1787683141,
    "title": "Bau! Bau!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6D89A5": {
    "msg": "1541522728333615146",
@@ -6970,7 +6963,7 @@
    "end": 1787684341,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6RGXMK": {
    "msg": "1541530234992599071",
@@ -8174,6 +8167,13 @@
    "end": 1787767021,
    "title": "The pass it forward raffle! (#18)",
    "items": 2,
+   "ended": false
+  },
+  "357K8R": {
+   "msg": "1541885087992389703",
+   "end": 1787769722,
+   "title": "STEAM COMMENT #36",
+   "items": 1,
    "ended": false
   }
  },
