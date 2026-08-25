@@ -385,13 +385,6 @@
    "items": 1,
    "ended": true
   },
-  "AXRX7G": {
-   "msg": "1538895395436892262",
-   "end": 1787013482,
-   "title": "More  !!!",
-   "items": 1,
-   "ended": true
-  },
   "A3PEFP": {
    "msg": "1538898626246475856",
    "end": 1787058000,
@@ -6697,7 +6690,7 @@
    "end": 1787617981,
    "title": "Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bBlog Spamton #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4ZM7Z5": {
    "msg": "1541250901023395942",
