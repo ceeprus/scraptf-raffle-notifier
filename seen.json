@@ -6977,7 +6977,7 @@
    "end": 1787698081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1SJR20": {
    "msg": "1541583095881408716",
@@ -8286,6 +8286,34 @@
    "end": 1787783281,
    "title": "I basically ran out of cool things to give away.",
    "items": 2,
+   "ended": false
+  },
+  "1YCLHG": {
+   "msg": "1541943233796378774",
+   "end": 1787783881,
+   "title": "Best game of all time 2039 pro edition winner:",
+   "items": 1,
+   "ended": false
+  },
+  "GALP7W": {
+   "msg": "1541943241149259888",
+   "end": 1787783581,
+   "title": "Something.",
+   "items": 1,
+   "ended": false
+  },
+  "FYC73Y": {
+   "msg": "1541943249193672785",
+   "end": 1787783521,
+   "title": "The Second Second Banana banana pootis",
+   "items": 2,
+   "ended": false
+  },
+  "ELJ2L9": {
+   "msg": "1541943256055808051",
+   "end": 1787783461,
+   "title": "gamescom ONL 2026 Games Announced",
+   "items": 1,
    "ended": false
   }
  },
