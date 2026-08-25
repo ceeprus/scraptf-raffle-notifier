@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "E7DTPA": {
-   "msg": "1538788976104579154",
-   "end": 1787032081,
-   "title": "Daily Kit Fabricator #8",
-   "items": 1,
-   "ended": true
-  },
-  "51UVS8": {
-   "msg": "1538788983612510270",
-   "end": 1787031841,
-   "title": "SLUGMA SUPPORT",
-   "items": 3,
-   "ended": true
-  },
   "VYIF0B": {
    "msg": "1538797208458235914",
    "end": 1787032562,
@@ -6830,21 +6816,21 @@
    "end": 1787636821,
    "title": "\u2014",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XNPHEY": {
    "msg": "1541326258569351189",
    "end": 1787636581,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KC50RT": {
    "msg": "1541326265896665148",
    "end": 1787636401,
    "title": "1 172 200",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RPFIC7": {
    "msg": "1541326273635291158",
