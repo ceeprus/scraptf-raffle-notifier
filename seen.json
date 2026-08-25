@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "5MC5EE": {
-   "msg": "1539053876685054052",
-   "end": 1787095201,
-   "title": "Baby how you doing?",
-   "items": 1,
-   "ended": true
-  },
   "6V5XQC": {
    "msg": "1539057291519729785",
    "end": 1787095861,
@@ -648,13 +641,6 @@
    "msg": "1539322956105130185",
    "end": 1787158682,
    "title": "I think I got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "TUT5VP": {
-   "msg": "1539330891283701801",
-   "end": 1787095801,
-   "title": "Someone got my dream hat.",
    "items": 1,
    "ended": true
   },
@@ -7012,7 +6998,7 @@
    "end": 1787699941,
    "title": "The Future",
    "items": 37,
-   "ended": false
+   "ended": true
   },
   "UHVQC0": {
    "msg": "1541598212740358246",
@@ -7572,7 +7558,7 @@
    "end": 1787700362,
    "title": "I don't get the point of these.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "N2AEDQ": {
    "msg": "1541786706636967986",
@@ -8314,6 +8300,13 @@
    "end": 1787783461,
    "title": "gamescom ONL 2026 Games Announced",
    "items": 1,
+   "ended": false
+  },
+  "OJXDLG": {
+   "msg": "1541952989986824202",
+   "end": 1787743081,
+   "title": "Saw the fifth spy frag on yt today",
+   "items": 5,
    "ended": false
   }
  },
