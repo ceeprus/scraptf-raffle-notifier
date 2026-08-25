@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "AC5CAI": {
-   "msg": "1538766997612138526",
-   "end": 1787026321,
-   "title": "17 August",
-   "items": 7,
-   "ended": true
-  },
   "MGHSAI": {
    "msg": "1538774575138078800",
    "end": 1787028842,
@@ -6830,7 +6823,7 @@
    "end": 1787630941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8DY6CN": {
    "msg": "1541301427140431883",
@@ -6851,7 +6844,7 @@
    "end": 1787631602,
    "title": "Happy Birthday to My Brother",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "VHE1K2": {
    "msg": "1541303727728627812",
@@ -6865,7 +6858,7 @@
    "end": 1787631121,
    "title": "choklat",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MT1U12": {
    "msg": "1541311290239098894",
@@ -7761,6 +7754,13 @@
    "end": 1787714762,
    "title": "scrapaholics, BITCH",
    "items": 7,
+   "ended": false
+  },
+  "0JFW5Z": {
+   "msg": "1541666102063665166",
+   "end": 1787718002,
+   "title": "Just take it \u211617",
+   "items": 124,
    "ended": false
   }
  },
