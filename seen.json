@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "3EB14B": {
-   "msg": "1538997992584122369",
-   "end": 1787081282,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1508 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 17,
-   "ended": true
-  },
-  "GK82HO": {
-   "msg": "1538997999173374092",
-   "end": 1787081222,
-   "title": "It's been a while",
-   "items": 1,
-   "ended": true
-  },
   "N8ZKSE": {
    "msg": "1539004923344068688",
    "end": 1787083200,
@@ -6956,21 +6942,21 @@
    "end": 1787685841,
    "title": "300 Raffle Wins",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "42RI23": {
    "msg": "1541530242202730576",
    "end": 1787685601,
    "title": "Weird",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GTTUJR": {
    "msg": "1541530249450225724",
    "end": 1787685300,
    "title": "Snowfall Advice",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8JT6VS": {
    "msg": "1541535530955710515",
@@ -8104,7 +8090,7 @@
    "end": 1787684881,
    "title": "Got Milk?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2W45TI": {
    "msg": "1541862405577908421",
@@ -8166,6 +8152,34 @@
    "msg": "1541886641969307669",
    "end": 1787770800,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "D3O553": {
+   "msg": "1541892596291346592",
+   "end": 1787772181,
+   "title": "Cars i made. Which One Is the best?",
+   "items": 1,
+   "ended": false
+  },
+  "M4FQ7S": {
+   "msg": "1541892609382027274",
+   "end": 1787772001,
+   "title": "inv clear again",
+   "items": 20,
+   "ended": false
+  },
+  "MIKVAT": {
+   "msg": "1541892616176664616",
+   "end": 1787771700,
+   "title": "Snowfall Soundtrack #30",
+   "items": 2,
+   "ended": false
+  },
+  "S0Z93J": {
+   "msg": "1541892624313745500",
+   "end": 1787771041,
+   "title": "Raffling a  every time I win a  #82",
    "items": 1,
    "ended": false
   }
