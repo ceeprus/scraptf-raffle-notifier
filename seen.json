@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FW36ZW": {
-   "msg": "1538948196103889007",
-   "end": 1787069402,
-   "title": "78k Entered",
-   "items": 1,
-   "ended": true
-  },
   "9WAJDN": {
    "msg": "1538953666520678400",
    "end": 1787071501,
@@ -6928,7 +6921,7 @@
    "end": 1787674921,
    "title": "\ud83c\udf0a \ud83d\udc1f  Best Barney (from Black Mesa) winner:",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5WP1Y3": {
    "msg": "1541492509618733076",
@@ -8083,6 +8076,48 @@
    "end": 1787758200,
    "title": "MK Poll #10 + The Favorites of Music #287 & #288",
    "items": 1,
+   "ended": false
+  },
+  "3FA4J8": {
+   "msg": "1541847310592385025",
+   "end": 1787761381,
+   "title": "grabli304",
+   "items": 1,
+   "ended": false
+  },
+  "YREVGD": {
+   "msg": "1541847319643824198",
+   "end": 1787760601,
+   "title": "Super Creative Title",
+   "items": 1,
+   "ended": false
+  },
+  "V2R70K": {
+   "msg": "1541847327566860318",
+   "end": 1787760541,
+   "title": "i can't think of a title for this raffle 31\u2122",
+   "items": 1,
+   "ended": false
+  },
+  "9SSD9I": {
+   "msg": "1541847334177214504",
+   "end": 1787760421,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IAMQNS": {
+   "msg": "1541847345749295164",
+   "end": 1787760421,
+   "title": "46 tour no Australium weapons",
+   "items": 9,
+   "ended": false
+  },
+  "F1PPX3": {
+   "msg": "1541847353412292718",
+   "end": 1787760000,
+   "title": "Scrap.tf Birthdays - 25 August",
+   "items": 2,
    "ended": false
   }
  },
