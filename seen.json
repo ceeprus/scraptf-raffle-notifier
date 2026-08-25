@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "A3PEFP": {
-   "msg": "1538898626246475856",
-   "end": 1787058000,
-   "title": "SMONK - Super Ghostbusters Animated",
-   "items": 1,
-   "ended": true
-  },
   "CF0C1L": {
    "msg": "1538902911092789249",
    "end": 1787058781,
@@ -390,20 +383,6 @@
    "end": 1787098022,
    "title": "Win a Raffle, Make a Raffle! 4",
    "items": 1,
-   "ended": true
-  },
-  "GPUIAR": {
-   "msg": "1539071937203015723",
-   "end": 1787056682,
-   "title": "Went back here again after a while",
-   "items": 4,
-   "ended": true
-  },
-  "QPY7V7": {
-   "msg": "1539071944291524723",
-   "end": 1787056321,
-   "title": "My first raffle",
-   "items": 2,
    "ended": true
   },
   "1FQRLD": {
@@ -6935,14 +6914,14 @@
    "end": 1787661361,
    "title": "MvM Update Australium Vote Part 14: Heavy Secondaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "OJKINF": {
    "msg": "1541432132516319304",
    "end": 1787661241,
    "title": "Team Graveyard: The Scout",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L84OBK": {
    "msg": "1541439651871457390",
@@ -6970,14 +6949,14 @@
    "end": 1787662802,
    "title": "Second Raffle  : \ud83d\udd0a",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D7KUNX": {
    "msg": "1541439681701478531",
    "end": 1787662800,
    "title": "Low effort raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LPMU6X": {
    "msg": "1541454723520139315",
@@ -7369,7 +7348,7 @@
    "end": 1787661301,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RU5SRH": {
    "msg": "1541620806587777027",
@@ -7956,6 +7935,69 @@
    "msg": "1541786776622858281",
    "end": 1787745361,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4090BG": {
+   "msg": "1541794502191218881",
+   "end": 1787748541,
+   "title": "Chat\u203c\ufe0f",
+   "items": 2,
+   "ended": false
+  },
+  "GE26ID": {
+   "msg": "1541794509225197738",
+   "end": 1787748302,
+   "title": "Team Graveyard: The Soldier",
+   "items": 1,
+   "ended": false
+  },
+  "CX3CHC": {
+   "msg": "1541794515558469702",
+   "end": 1787748241,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KKHYB6": {
+   "msg": "1541794521208062063",
+   "end": 1787748181,
+   "title": "\ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "2XGAAR": {
+   "msg": "1541794528225394829",
+   "end": 1787748001,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HY2MUR": {
+   "msg": "1541794534227181738",
+   "end": 1787747642,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XVI12F": {
+   "msg": "1541794540027912232",
+   "end": 1787747461,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "U68O5S": {
+   "msg": "1541794545854054461",
+   "end": 1787747282,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "93XNW3": {
+   "msg": "1541794552011034774",
+   "end": 1787747042,
+   "title": "I  Lied",
    "items": 1,
    "ended": false
   }
