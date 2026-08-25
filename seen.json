@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "YZH44X": {
-   "msg": "1538855643069292645",
-   "end": 1787047200,
-   "title": "Gifted Amputator #9",
-   "items": 1,
-   "ended": true
-  },
   "CFYS3R": {
    "msg": "1538857597086597180",
    "end": 1787048642,
@@ -6921,7 +6914,7 @@
    "end": 1787652000,
    "title": "Gifted Righteous Bison #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IX5OO2": {
    "msg": "1541393848771813408",
