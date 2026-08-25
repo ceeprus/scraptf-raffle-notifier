@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "KOHJ1A": {
-   "msg": "1538869322972397660",
-   "end": 1787050800,
-   "title": "AAUGH!!! That beagle threw!",
-   "items": 1,
-   "ended": true
-  },
   "2P6N7S": {
    "msg": "1538872696010444821",
    "end": 1787051941,
@@ -6900,28 +6893,28 @@
    "end": 1787654401,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6CGGVU": {
    "msg": "1541401902326227036",
    "end": 1787654342,
    "title": "Grabli304's raffle\u2503Day 176",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XDGV43": {
    "msg": "1541401909565460530",
    "end": 1787654342,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #100 \ud83c\udf0a\ud83d\udc1f",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "72UQS0": {
    "msg": "1541401918541406219",
    "end": 1787654221,
    "title": "Daily Brass Beast #548",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "19PGXU": {
    "msg": "1541409415364743231",
@@ -6935,7 +6928,7 @@
    "end": 1787655600,
    "title": "We don't give enough appreciation for the guy that invented the sky color!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0657SV": {
    "msg": "1541414461749989527",
@@ -7913,6 +7906,41 @@
   "5MCFBG": {
    "msg": "1541756761319669821",
    "end": 1787738341,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZUF4FU": {
+   "msg": "1541764302422409316",
+   "end": 1787741642,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #10",
+   "items": 1,
+   "ended": false
+  },
+  "2491TG": {
+   "msg": "1541764308533256303",
+   "end": 1787741461,
+   "title": "Best song remix",
+   "items": 1,
+   "ended": false
+  },
+  "5YD0WS": {
+   "msg": "1541764315458310176",
+   "end": 1787741161,
+   "title": "Grabli304's raffle\u2503Day 177",
+   "items": 2,
+   "ended": false
+  },
+  "1WHCG5": {
+   "msg": "1541764322638954537",
+   "end": 1787740801,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XDR359": {
+   "msg": "1541764331081965709",
+   "end": 1787740562,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
