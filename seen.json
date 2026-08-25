@@ -126,13 +126,6 @@
    "items": 1,
    "ended": true
   },
-  "ZT21B2": {
-   "msg": "1538886337304985702",
-   "end": 1787054400,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "A3PEFP": {
    "msg": "1538898626246475856",
    "end": 1787058000,
@@ -6949,28 +6942,28 @@
    "end": 1787659201,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "93NPT5": {
    "msg": "1541424272059142215",
    "end": 1787659200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DXRLNA": {
    "msg": "1541424278413512778",
    "end": 1787659142,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1DRZ10": {
    "msg": "1541424286869233755",
    "end": 1787659021,
    "title": "Question #70",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YW5F03": {
    "msg": "1541432121174925452",
