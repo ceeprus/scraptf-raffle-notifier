@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "A0FYID": {
-   "msg": "1539020299373121597",
-   "end": 1787087341,
-   "title": "Tricks I learned from a plumber #2",
-   "items": 2,
-   "ended": true
-  },
   "GP2QQE": {
    "msg": "1539027890128031865",
    "end": 1787089261,
@@ -6942,7 +6935,7 @@
    "end": 1787691721,
    "title": "Hey, it\u2019s me, it\u2019s VERITY! \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4TTR9R": {
    "msg": "1541558302222196857",
@@ -8216,6 +8209,55 @@
    "end": 1787777581,
    "title": "PUNCH PUNCH PUNCH PUNCH PUNCH PUNCH",
    "items": 3,
+   "ended": false
+  },
+  "SB9RHC": {
+   "msg": "1541919900849807482",
+   "end": 1787778901,
+   "title": "\u0420\u041e\u0437\u044b\u0433\u0440\u044b\u0448\u044c",
+   "items": 2,
+   "ended": false
+  },
+  "R6K5A5": {
+   "msg": "1541919909720629370",
+   "end": 1787778662,
+   "title": "Played a tour",
+   "items": 2,
+   "ended": false
+  },
+  "F3FW5S": {
+   "msg": "1541919918159560765",
+   "end": 1787778482,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NMFOZZ": {
+   "msg": "1541919924434374707",
+   "end": 1787778301,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1PDWJ4": {
+   "msg": "1541919932961394851",
+   "end": 1787778181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NLKHFS": {
+   "msg": "1541919941542809751",
+   "end": 1787778122,
+   "title": "MvM Mondays",
+   "items": 3,
+   "ended": false
+  },
+  "8JN95Z": {
+   "msg": "1541919948329189416",
+   "end": 1787777941,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
