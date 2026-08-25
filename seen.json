@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "JH2LHR": {
-   "msg": "1538886308024426496",
-   "end": 1787055542,
-   "title": "Hello this is my first raffle",
-   "items": 1,
-   "ended": true
-  },
-  "5NXHKC": {
-   "msg": "1538886318526824509",
-   "end": 1787055061,
-   "title": "My first raffle",
-   "items": 21,
-   "ended": true
-  },
-  "GX1UGF": {
-   "msg": "1538886323979423805",
-   "end": 1787054941,
-   "title": "Silver Spring",
-   "items": 1,
-   "ended": true
-  },
-  "LJLPXF": {
-   "msg": "1538886330950619176",
-   "end": 1787054638,
-   "title": "(Don't lick) The Lollichop",
-   "items": 1,
-   "ended": true
-  },
   "A3PEFP": {
    "msg": "1538898626246475856",
    "end": 1787058000,
@@ -656,13 +628,6 @@
    "end": 1787127721,
    "title": "gift of the day #2",
    "items": 1,
-   "ended": true
-  },
-  "QHOSRP": {
-   "msg": "1539189792149868545",
-   "end": 1787055062,
-   "title": "hats I dont use",
-   "items": 4,
    "ended": true
   },
   "WA9T4A": {
@@ -6914,28 +6879,28 @@
    "end": 1787660401,
    "title": "MvM Update Australium Vote Part 13: Heavy Primaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TGRMR2": {
    "msg": "1541424238525677720",
    "end": 1787659981,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8QBQLG": {
    "msg": "1541424245001683074",
    "end": 1787659441,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CY9EH7": {
    "msg": "1541424259333619857",
    "end": 1787659261,
    "title": "Question #71",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HEEK0Y": {
    "msg": "1541424265721553066",
@@ -7936,6 +7901,62 @@
    "end": 1787700362,
    "title": "I don't get the point of these.",
    "items": 3,
+   "ended": false
+  },
+  "N2AEDQ": {
+   "msg": "1541786706636967986",
+   "end": 1787746681,
+   "title": "I'm a  now",
+   "items": 1,
+   "ended": false
+  },
+  "HQSYQU": {
+   "msg": "1541786713330950215",
+   "end": 1787746081,
+   "title": "Do you like TF2 comics?",
+   "items": 1,
+   "ended": false
+  },
+  "34YYRD": {
+   "msg": "1541786719706152960",
+   "end": 1787745961,
+   "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "B3BZFX": {
+   "msg": "1541786745803120732",
+   "end": 1787702581,
+   "title": "Heavy Loadout | Advice needed",
+   "items": 14,
+   "ended": false
+  },
+  "82O15R": {
+   "msg": "1541786755039232120",
+   "end": 1787745600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "XLD05P": {
+   "msg": "1541786763893407795",
+   "end": 1787745541,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KH3GLG": {
+   "msg": "1541786771006693558",
+   "end": 1787745481,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6KZ2JQ": {
+   "msg": "1541786776622858281",
+   "end": 1787745361,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
