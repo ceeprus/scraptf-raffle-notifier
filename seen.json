@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YKNA3A": {
-   "msg": "1538729283915087992",
-   "end": 1787017561,
-   "title": "absolute no life",
-   "items": 1,
-   "ended": true
-  },
   "7JYY8R": {
    "msg": "1538736796941160542",
    "end": 1787018881,
@@ -6739,14 +6732,14 @@
    "end": 1787622842,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "2A77HC": {
    "msg": "1541266011653939251",
    "end": 1787622061,
    "title": "Bison",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "S06A12": {
    "msg": "1541266019409207367",
@@ -7704,6 +7697,20 @@
    "msg": "1541620821855051826",
    "end": 1787705941,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0X1331": {
+   "msg": "1541628382540996628",
+   "end": 1787708881,
+   "title": "Free game",
+   "items": 1,
+   "ended": false
+  },
+  "6NAOQ5": {
+   "msg": "1541628389545349231",
+   "end": 1787707921,
+   "title": "Daily Hat #79",
    "items": 1,
    "ended": false
   }
