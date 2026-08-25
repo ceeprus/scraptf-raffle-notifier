@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YYLC2H": {
-   "msg": "1539016173121699841",
-   "end": 1787086800,
-   "title": "checkup #93 | Nothing to say",
-   "items": 1,
-   "ended": true
-  },
   "A0FYID": {
    "msg": "1539020299373121597",
    "end": 1787087341,
@@ -6956,7 +6949,7 @@
    "end": 1787691600,
    "title": "checkup #100 | The 1 hundredth entry",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "H19XKG": {
    "msg": "1541560428822401138",
@@ -8202,6 +8195,27 @@
    "end": 1787776200,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "OMIWHJ": {
+   "msg": "1541915286981185546",
+   "end": 1787777761,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P6XUOY": {
+   "msg": "1541915299824279672",
+   "end": 1787777701,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UKMLCB": {
+   "msg": "1541915307382411306",
+   "end": 1787777581,
+   "title": "PUNCH PUNCH PUNCH PUNCH PUNCH PUNCH",
+   "items": 3,
    "ended": false
   }
  },
