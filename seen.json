@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CF0C1L": {
-   "msg": "1538902911092789249",
-   "end": 1787058781,
-   "title": "24,773 Raffles Entered,  149 Raffles Won.",
-   "items": 17,
-   "ended": true
-  },
-  "MN9HJ2": {
-   "msg": "1538902921528213585",
-   "end": 1787058602,
-   "title": "3,000 Items Raffled",
-   "items": 14,
-   "ended": true
-  },
   "D4Z0JE": {
    "msg": "1538917773508612177",
    "end": 1787062621,
@@ -6928,21 +6914,21 @@
    "end": 1787664361,
    "title": "Happy Birthday to My Brother's Sister",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "LV3NDG": {
    "msg": "1541439659475738724",
    "end": 1787664121,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U275LH": {
    "msg": "1541439668174725212",
    "end": 1787663402,
    "title": "HB Team Fortress",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "UKZK47": {
    "msg": "1541439675263361146",
@@ -7998,6 +7984,41 @@
    "msg": "1541794552011034774",
    "end": 1787747042,
    "title": "I  Lied",
+   "items": 1,
+   "ended": false
+  },
+  "8T7AQ6": {
+   "msg": "1541801670164488202",
+   "end": 1787750041,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "8R5TZL": {
+   "msg": "1541801678196441150",
+   "end": 1787749922,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "K04B1E": {
+   "msg": "1541801684278317128",
+   "end": 1787749261,
+   "title": "100",
+   "items": 1,
+   "ended": false
+  },
+  "CUU8Z0": {
+   "msg": "1541801690121117876",
+   "end": 1787749200,
+   "title": "Top Gear Tuesday: Clarkson's Luxurious Bog",
+   "items": 2,
+   "ended": false
+  },
+  "DT5MPQ": {
+   "msg": "1541801697129799720",
+   "end": 1787748841,
+   "title": "\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": false
   }
