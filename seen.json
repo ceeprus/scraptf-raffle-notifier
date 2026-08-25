@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MGHSAI": {
-   "msg": "1538774575138078800",
-   "end": 1787028842,
-   "title": "Won this in the megaraffle",
-   "items": 1,
-   "ended": true
-  },
-  "85FM8L": {
-   "msg": "1538774582075330672",
-   "end": 1787028662,
-   "title": "I'm pretty sure it's slugma day 9",
-   "items": 1,
-   "ended": true
-  },
-  "SDBTK5": {
-   "msg": "1538774589000130601",
-   "end": 1787028541,
-   "title": "Day 63 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "AUDL5Q": {
-   "msg": "1538774597124755536",
-   "end": 1787028481,
-   "title": "(Raffle #3_) What are your Halloween plans?",
-   "items": 1,
-   "ended": true
-  },
-  "T3ADRC": {
-   "msg": "1538774602887594015",
-   "end": 1787028361,
-   "title": "Day 68 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
   "MVWLUK": {
    "msg": "1538782087652450314",
    "end": 1787030762,
@@ -6865,7 +6830,7 @@
    "end": 1787632802,
    "title": "1 Winner, 1 Loser. . .",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "IQSZYH": {
    "msg": "1541313380953096293",
@@ -7642,7 +7607,7 @@
    "end": 1787633461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1U9JMH": {
    "msg": "1541613297697038356",
@@ -7761,6 +7726,13 @@
    "end": 1787718002,
    "title": "Just take it \u211617",
    "items": 124,
+   "ended": false
+  },
+  "QCQ3BY": {
+   "msg": "1541673686464204810",
+   "end": 1787718601,
+   "title": "Its my birthday day!",
+   "items": 1,
    "ended": false
   }
  },
