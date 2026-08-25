@@ -6949,7 +6949,7 @@
    "end": 1787667721,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P10L93": {
    "msg": "1541469599059550350",
@@ -8068,6 +8068,27 @@
    "msg": "1541814620291858463",
    "end": 1787753041,
    "title": "Greed.",
+   "items": 1,
+   "ended": false
+  },
+  "APN36V": {
+   "msg": "1541817121166856202",
+   "end": 1787754241,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UIQP0B": {
+   "msg": "1541817126984228975",
+   "end": 1787754182,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5DQVOJ": {
+   "msg": "1541817133766414457",
+   "end": 1787754001,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
