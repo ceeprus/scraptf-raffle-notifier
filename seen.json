@@ -7453,7 +7453,7 @@
    "end": 1787696701,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LLVWAS": {
    "msg": "1541756721515597884",
@@ -8272,6 +8272,20 @@
    "end": 1787781181,
    "title": "Untitled raffle",
    "items": 20,
+   "ended": false
+  },
+  "O682KS": {
+   "msg": "1541937895273664622",
+   "end": 1787740202,
+   "title": "Mrs. Train",
+   "items": 10,
+   "ended": false
+  },
+  "RQ8L92": {
+   "msg": "1541937902718550057",
+   "end": 1787783281,
+   "title": "I basically ran out of cool things to give away.",
+   "items": 2,
    "ended": false
   }
  },
