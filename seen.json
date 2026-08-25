@@ -6886,7 +6886,7 @@
    "end": 1787645761,
    "title": "Raffling  till Im not poor #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N11HFZ": {
    "msg": "1541364135164510319",
@@ -7362,7 +7362,7 @@
    "end": 1787646002,
    "title": "Unclaimed......",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "NMTQC2": {
    "msg": "1541551685837656075",
@@ -7732,6 +7732,69 @@
    "msg": "1541719020753915917",
    "end": 1787729761,
    "title": "Random Street View of the day #1",
+   "items": 1,
+   "ended": false
+  },
+  "9T13PT": {
+   "msg": "1541726510799392838",
+   "end": 1787732581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TOQPPK": {
+   "msg": "1541726519028748378",
+   "end": 1787732341,
+   "title": "0w0",
+   "items": 1,
+   "ended": false
+  },
+  "BN7MNN": {
+   "msg": "1541726526142418965",
+   "end": 1787732221,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ARMLJ4": {
+   "msg": "1541726532047999107",
+   "end": 1787731981,
+   "title": "\u200b\u200b\u200b\u200b\u200b",
+   "items": 1,
+   "ended": false
+  },
+  "ANCVBR": {
+   "msg": "1541726537924087868",
+   "end": 1787731801,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5AO5FJ": {
+   "msg": "1541726545020723200",
+   "end": 1787731561,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Y1L9G0": {
+   "msg": "1541726551161307136",
+   "end": 1787688000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1WEFX4": {
+   "msg": "1541726557142388766",
+   "end": 1787688000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Y0HIXI": {
+   "msg": "1541726563123601462",
+   "end": 1787688000,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
