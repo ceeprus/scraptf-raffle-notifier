@@ -413,20 +413,6 @@
    "items": 3,
    "ended": true
   },
-  "3X1JQT": {
-   "msg": "1538976873131016344",
-   "end": 1787033161,
-   "title": "Bison",
-   "items": 1,
-   "ended": true
-  },
-  "0CXSI0": {
-   "msg": "1538976881112645662",
-   "end": 1787033042,
-   "title": "TaKe THesE StuFF",
-   "items": 4,
-   "ended": true
-  },
   "SHLAO5": {
    "msg": "1538976893834109010",
    "end": 1787075762,
@@ -6830,7 +6816,7 @@
    "end": 1787637902,
    "title": "Time for a different approach.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "47H9U5": {
    "msg": "1541341507200749588",
@@ -7711,6 +7697,20 @@
    "msg": "1541681219140325437",
    "end": 1787720641,
    "title": "Old Shotguns need a new home",
+   "items": 2,
+   "ended": false
+  },
+  "SX4V75": {
+   "msg": "1541696298070179841",
+   "end": 1787682301,
+   "title": "#SlugmaSleep",
+   "items": 1,
+   "ended": false
+  },
+  "HAR9F8": {
+   "msg": "1541696305112293377",
+   "end": 1787725442,
+   "title": "hey guys guess what",
    "items": 2,
    "ended": false
   }
