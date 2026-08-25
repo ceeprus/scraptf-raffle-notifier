@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "D4Z0JE": {
-   "msg": "1538917773508612177",
-   "end": 1787062621,
-   "title": "BLAH BLAH BLAH 'BOUT TRAUMA",
-   "items": 1,
-   "ended": true
-  },
   "P2HC38": {
    "msg": "1538924136020058163",
    "end": 1787064182,
@@ -411,13 +404,6 @@
    "end": 1787106121,
    "title": "Caf\u00e9 Crit-A-Coffee #1760",
    "items": 10,
-   "ended": true
-  },
-  "DS6MSB": {
-   "msg": "1539099210840936558",
-   "end": 1787062261,
-   "title": "First Raffle:>>",
-   "items": 4,
    "ended": true
   },
   "MBITNC": {
@@ -6949,7 +6935,7 @@
    "end": 1787667482,
    "title": "gassy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "94HCPX": {
    "msg": "1541455218749870221",
@@ -8068,6 +8054,20 @@
    "msg": "1541809644924833903",
    "end": 1787750642,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LM308R": {
+   "msg": "1541814613241495612",
+   "end": 1787710321,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SABTQB": {
+   "msg": "1541814620291858463",
+   "end": 1787753041,
+   "title": "Greed.",
    "items": 1,
    "ended": false
   }
