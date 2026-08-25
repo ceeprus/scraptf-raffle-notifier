@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6V5XQC": {
-   "msg": "1539057291519729785",
-   "end": 1787095861,
-   "title": "Raffling a  every time I win a  #78",
-   "items": 1,
-   "ended": true
-  },
   "P8FJK4": {
    "msg": "1539061473836531784",
    "end": 1787097421,
@@ -7012,7 +7005,7 @@
    "end": 1787701441,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZOMSIO": {
    "msg": "1541613291443331112",
