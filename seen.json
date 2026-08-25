@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "7JYY8R": {
-   "msg": "1538736796941160542",
-   "end": 1787018881,
-   "title": "Caf\u00e9 Crit-A-Coffee #1759",
-   "items": 10,
-   "ended": true
-  },
   "DX3IXE": {
    "msg": "1538759474519736422",
    "end": 1787024221,
@@ -7711,6 +7704,20 @@
    "msg": "1541628389545349231",
    "end": 1787707921,
    "title": "Daily Hat #79",
+   "items": 1,
+   "ended": false
+  },
+  "WRD1AX": {
+   "msg": "1541631570883117078",
+   "end": 1787710022,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "36KHP7": {
+   "msg": "1541631577858117723",
+   "end": 1787709601,
+   "title": "We need more sniper main",
    "items": 1,
    "ended": false
   }
