@@ -6795,7 +6795,7 @@
    "end": 1787624941,
    "title": "(still! (but not for much longer!)) Tipping all  raffles!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "2X10GO": {
    "msg": "1541288314932437015",
@@ -7719,6 +7719,20 @@
    "end": 1787709601,
    "title": "We need more sniper main",
    "items": 1,
+   "ended": false
+  },
+  "AP1KEM": {
+   "msg": "1541635915175165963",
+   "end": 1787710921,
+   "title": "Beautiful TF2 Moment",
+   "items": 1,
+   "ended": false
+  },
+  "G607CQ": {
+   "msg": "1541635927288324118",
+   "end": 1787710681,
+   "title": "Caf\u00e9 Crit-A-Coffee #1766",
+   "items": 10,
    "ended": false
   }
  },
