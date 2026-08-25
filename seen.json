@@ -6991,14 +6991,14 @@
    "end": 1787698982,
    "title": "Raffling a  every time I win a  #81",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DO3H7F": {
    "msg": "1541586750806163596",
    "end": 1787698861,
    "title": "Burnt out",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GGIOP1": {
    "msg": "1541586757211127858",
@@ -7544,7 +7544,7 @@
    "end": 1787699101,
    "title": "KA-BOOM thing",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "66EJGE": {
    "msg": "1541768777849372692",
