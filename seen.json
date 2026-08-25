@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "N8ZKSE": {
-   "msg": "1539004923344068688",
-   "end": 1787083200,
-   "title": "We need more Engineer Mains! | #007",
-   "items": 6,
-   "ended": true
-  },
   "MTPIMQ": {
    "msg": "1539013687451320450",
    "end": 1787086081,
@@ -361,13 +354,6 @@
    "msg": "1539189783585234985",
    "end": 1787127721,
    "title": "gift of the day #2",
-   "items": 1,
-   "ended": true
-  },
-  "WA9T4A": {
-   "msg": "1539189799360008223",
-   "end": 1787083200,
-   "title": "[Fallen Tributes/Night 15] Scrap tf HG",
    "items": 1,
    "ended": true
   },
@@ -7362,21 +7348,21 @@
    "end": 1787688000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1WEFX4": {
    "msg": "1541726557142388766",
    "end": 1787688000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y0HIXI": {
    "msg": "1541726563123601462",
    "end": 1787688000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2DFT5Z": {
    "msg": "1541734090628407336",
