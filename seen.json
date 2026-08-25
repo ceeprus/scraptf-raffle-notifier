@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MXRIQJ": {
-   "msg": "1538815741443186768",
-   "end": 1787038382,
-   "title": "Raffle",
-   "items": 3,
-   "ended": true
-  },
   "HRHC2T": {
    "msg": "1538834976424853524",
    "end": 1787042281,
@@ -7690,6 +7683,27 @@
    "msg": "1541703889919680594",
    "end": 1787726582,
    "title": "Question #72",
+   "items": 1,
+   "ended": false
+  },
+  "FX7ZEK": {
+   "msg": "1541712898005536790",
+   "end": 1787729522,
+   "title": "Question #73",
+   "items": 1,
+   "ended": false
+  },
+  "X93PGW": {
+   "msg": "1541712909728481290",
+   "end": 1787664661,
+   "title": "Tips for the first 50 raffles: HERE I COME, SAN FRANCISCO!",
+   "items": 15,
+   "ended": false
+  },
+  "V6PH2D": {
+   "msg": "1541712917987328080",
+   "end": 1787729041,
+   "title": "Slugma Chain raffle #15-16",
    "items": 1,
    "ended": false
   }
