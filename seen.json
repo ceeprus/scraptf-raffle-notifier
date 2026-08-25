@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "2P6N7S": {
-   "msg": "1538872696010444821",
-   "end": 1787051941,
-   "title": "The bots are back",
-   "items": 4,
-   "ended": true
-  },
   "MCTVTW": {
    "msg": "1538880280297869402",
    "end": 1787053561,
@@ -6900,7 +6893,7 @@
    "end": 1787657041,
    "title": "The drunkard set",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "WRP9LL": {
    "msg": "1541409422163705867",
@@ -6914,7 +6907,7 @@
    "end": 1787657400,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F6D8R5": {
    "msg": "1541417006346145883",
