@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YR7ZRB": {
-   "msg": "1538802715554222142",
-   "end": 1787035201,
-   "title": "Birthday!",
-   "items": 3,
-   "ended": true
-  },
-  "KJH1XQ": {
-   "msg": "1538802721899941958",
-   "end": 1787035081,
-   "title": "lolz",
-   "items": 1,
-   "ended": true
-  },
   "QPOJ2S": {
    "msg": "1538812292823777301",
    "end": 1787038081,
@@ -6823,28 +6809,28 @@
    "end": 1787640902,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VA0RBL": {
    "msg": "1541341514439987321",
    "end": 1787640841,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UVL15Z": {
    "msg": "1541341520739700885",
    "end": 1787640181,
    "title": "Music to my ears",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LR1BFY": {
    "msg": "1541341526561660949",
    "end": 1787640138,
    "title": "Noise pollution",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y1IU02": {
    "msg": "1541341533679386664",
@@ -6886,14 +6872,14 @@
    "end": 1787641200,
    "title": "Your weakness sickens me...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1K4MT6": {
    "msg": "1541349041521172490",
    "end": 1787641141,
    "title": "Getting back into TF after many years away",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RXMV1P": {
    "msg": "1541356609689616394",
@@ -7712,6 +7698,13 @@
    "end": 1787725442,
    "title": "hey guys guess what",
    "items": 2,
+   "ended": false
+  },
+  "F775TO": {
+   "msg": "1541703889919680594",
+   "end": 1787726582,
+   "title": "Question #72",
+   "items": 1,
    "ended": false
   }
  },
