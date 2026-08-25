@@ -350,45 +350,10 @@
    "items": 2,
    "ended": true
   },
-  "VV6CPG": {
-   "msg": "1539182198614392905",
-   "end": 1787082241,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "PWG01J": {
-   "msg": "1539182206323523626",
-   "end": 1787082061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "IG94CH": {
-   "msg": "1539182214456156191",
-   "end": 1787081941,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "8PCKN8": {
-   "msg": "1539182221276225538",
-   "end": 1787081762,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "TZKCXS": {
    "msg": "1539182228284637285",
    "end": 1787124901,
    "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "W1AK4X": {
-   "msg": "1539182234748198933",
-   "end": 1787081522,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -6963,7 +6928,7 @@
    "end": 1787686621,
    "title": "I haven't made a raffle in a while",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "NFQVV7": {
    "msg": "1541537813462392862",
@@ -8180,6 +8145,13 @@
    "msg": "1541892624313745500",
    "end": 1787771041,
    "title": "Raffling a  every time I win a  #82",
+   "items": 1,
+   "ended": false
+  },
+  "7YRH09": {
+   "msg": "1541898289018966117",
+   "end": 1787772841,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
