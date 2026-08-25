@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "P8FOFK": {
-   "msg": "1538960235140485185",
-   "end": 1787072821,
-   "title": "i dont fucking win in raffles, so i created this one",
-   "items": 1,
-   "ended": true
-  },
-  "174AU8": {
-   "msg": "1538963290049482765",
-   "end": 1787073481,
-   "title": "I Drew Ts 21",
-   "items": 1,
-   "ended": true
-  },
   "K9Q1VS": {
    "msg": "1538968866909200395",
    "end": 1787075341,
@@ -6928,21 +6914,21 @@
    "end": 1787678102,
    "title": "bleh bones",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "QMKE3X": {
    "msg": "1541500036158980237",
    "end": 1787677921,
    "title": "Free game! #61 - Dokimon Quest",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "19QICF": {
    "msg": "1541500043192959017",
    "end": 1787677802,
    "title": "well uhh",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "V7RYEZ": {
    "msg": "1541500050155511969",
@@ -8151,6 +8137,27 @@
   "R2XLBE": {
    "msg": "1541854961149681694",
    "end": 1787761921,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FDV78T": {
+   "msg": "1541862393012027444",
+   "end": 1787764381,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "7PQK8K": {
+   "msg": "1541862399483576351",
+   "end": 1787684881,
+   "title": "Got Milk?",
+   "items": 1,
+   "ended": false
+  },
+  "2W45TI": {
+   "msg": "1541862405577908421",
+   "end": 1787763902,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
