@@ -427,13 +427,6 @@
    "items": 6,
    "ended": true
   },
-  "L3O7MK": {
-   "msg": "1539004929396711555",
-   "end": 1787040000,
-   "title": "[DAY 15] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "MTPIMQ": {
    "msg": "1539013687451320450",
    "end": 1787086081,
@@ -6865,21 +6858,21 @@
    "end": 1787644381,
    "title": "Mad Dog Monday #265",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "3Z4NF5": {
    "msg": "1541356618896379964",
    "end": 1787644081,
    "title": "Evil things",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "RON0FP": {
    "msg": "1541356629495390258",
    "end": 1787643661,
    "title": "Something Funny",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "7X8QCM": {
    "msg": "1541356636688351302",
@@ -6900,14 +6893,14 @@
    "end": 1787644802,
    "title": "Kick Player: Salmon_Man69? (accused of scamming)",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "H1V8GQ": {
    "msg": "1541364142538227742",
    "end": 1787644802,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HICAV0": {
    "msg": "1541371708039106632",
@@ -7362,7 +7355,7 @@
    "end": 1787644081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HICFS0": {
    "msg": "1541545301196677211",
@@ -7704,6 +7697,41 @@
    "msg": "1541712917987328080",
    "end": 1787729041,
    "title": "Slugma Chain raffle #15-16",
+   "items": 1,
+   "ended": false
+  },
+  "ZYTVC3": {
+   "msg": "1541718993625415770",
+   "end": 1787730601,
+   "title": "*NOICE*",
+   "items": 1,
+   "ended": false
+  },
+  "FJYXYP": {
+   "msg": "1541719000558469120",
+   "end": 1787730541,
+   "title": "EPIC MAN WITH EPIC FACE IS DEAD!!!!!",
+   "items": 2,
+   "ended": false
+  },
+  "KWFDSS": {
+   "msg": "1541719006933819432",
+   "end": 1787730301,
+   "title": "I'm tipping all raffles with  in their title until this raffle ends as long as the raffle lasts 24 hours and the maximum entries is set to 3000 or more",
+   "items": 1,
+   "ended": false
+  },
+  "Y22XUR": {
+   "msg": "1541719013409955960",
+   "end": 1787730002,
+   "title": "\u0421\u0443\u043a\u0430 \u0442\u044b \u043a\u043e\u043d\u0447\u0435\u043d\u0430\u044f, \u043a\u043e\u0437\u043b\u0438\u043d\u0430 \u0442\u044b \u0451\u0431\u0430\u043d\u0430\u044f, \u0434\u0438\u0431\u0438\u043b \u0442\u044b \u0451\u0431\u0430\u043d\u044b\u0439, \u0431\u043b\u044f\u0442\u044c. \u0422\u044b \u0433\u0430\u043d\u0434\u043e\u043d, \u0431\u043b\u044f\u0442\u044c, \u043f\u043e\u043d\u044f\u043b?! \u0422\u044b \u0441\u0443\u043a\u0430, \u0441\u0443\u0447\u0430\u0440\u0430, \u0431\u043b\u044f\u0442\u044c!",
+   "items": 1,
+   "ended": false
+  },
+  "SC2PYD": {
+   "msg": "1541719020753915917",
+   "end": 1787729761,
+   "title": "Random Street View of the day #1",
    "items": 1,
    "ended": false
   }
