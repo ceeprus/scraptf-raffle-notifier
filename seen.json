@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "VOXYCL": {
-   "msg": "1538929656596791337",
-   "end": 1787065442,
-   "title": "Color No. 216-190-216",
-   "items": 2,
-   "ended": true
-  },
   "X684QE": {
    "msg": "1538933096311816303",
    "end": 1787066461,
@@ -8097,6 +8090,27 @@
    "end": 1787754361,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "OET19J": {
+   "msg": "1541827511070101644",
+   "end": 1787756641,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "7JXP1I": {
+   "msg": "1541827517982445678",
+   "end": 1787713200,
+   "title": "Tune of the day #321",
+   "items": 1,
+   "ended": false
+  },
+  "DZLX9D": {
+   "msg": "1541827526513655848",
+   "end": 1787756400,
+   "title": "You're listening to SPICE FM (49)",
+   "items": 3,
    "ended": false
   }
  },
