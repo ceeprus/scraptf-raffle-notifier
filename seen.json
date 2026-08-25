@@ -6942,7 +6942,7 @@
    "end": 1787694962,
    "title": "gift of the day #7",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9HQO19": {
    "msg": "1541568012325359769",
@@ -8258,6 +8258,20 @@
    "end": 1787779981,
    "title": "Have these.",
    "items": 133,
+   "ended": false
+  },
+  "VFU0UI": {
+   "msg": "1541930407430201354",
+   "end": 1787781242,
+   "title": "more mvm loot",
+   "items": 9,
+   "ended": false
+  },
+  "UZHWCM": {
+   "msg": "1541930421577850890",
+   "end": 1787781181,
+   "title": "Untitled raffle",
+   "items": 20,
    "ended": false
   }
  },
