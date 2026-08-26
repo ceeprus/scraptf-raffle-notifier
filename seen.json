@@ -7110,35 +7110,35 @@
    "end": 1787738221,
    "title": "You're listening to \"Beautiful Reminder to Just eat n' drink Unclaimed  water Since love raffles died\"",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VR122H": {
    "msg": "1541748730578079805",
    "end": 1787737981,
    "title": "It's been a real long while since i made a raffle!",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "1BF5GJ": {
    "msg": "1541748736659689545",
    "end": 1787737741,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0I8HBJ": {
    "msg": "1541748743383293972",
    "end": 1787737682,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NJ9ULL": {
    "msg": "1541748748722642975",
    "end": 1787737261,
    "title": "GTA 6 LEAK FOR FREE!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9N9TTU": {
    "msg": "1541748756708462613",
@@ -7201,7 +7201,7 @@
    "end": 1787738341,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZUF4FU": {
    "msg": "1541764302422409316",
@@ -8328,6 +8328,34 @@
    "end": 1787822881,
    "title": "Waffle maker",
    "items": 2,
+   "ended": false
+  },
+  "JYUVMY": {
+   "msg": "1542111587924451369",
+   "end": 1787824800,
+   "title": "Gifted Rescue Ranger #6",
+   "items": 1,
+   "ended": false
+  },
+  "CFEQ1X": {
+   "msg": "1542111595818262623",
+   "end": 1787824081,
+   "title": "The world needs more Reindoonicorns! (#593)",
+   "items": 1,
+   "ended": false
+  },
+  "MRV83K": {
+   "msg": "1542111603195904020",
+   "end": 1787823662,
+   "title": "\u041f\u0440\u043e\u0448\u0451\u043b \u0440\u0434\u04402 \u0432 15 \u0444\u043f\u0441 \u043d\u0430 \u043a\u043b\u0430\u0432\u0435 \u0438 \u043c\u044b\u0448\u043a\u0435, \u043c\u043e\u0436\u043d\u043e \u043b\u0438 \u0441\u0447\u0438\u0442\u0430\u0442\u044c \u044d\u0442\u043e \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u0435\u043c",
+   "items": 1,
+   "ended": false
+  },
+  "FSULWB": {
+   "msg": "1542111609663787008",
+   "end": 1787823002,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
