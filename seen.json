@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "T69GWX": {
-   "msg": "1539333263586369608",
-   "end": 1787162161,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #84 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "PZDPFY": {
-   "msg": "1539333269814906900",
-   "end": 1787161802,
-   "title": "i got my dream scrap.",
-   "items": 1,
-   "ended": true
-  },
-  "O5NVA4": {
-   "msg": "1539333275733069906",
-   "end": 1787161802,
-   "title": "\ud83c\udf0a\ud83d\udc1fGetting Down To It #83 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "VR754M": {
    "msg": "1539339126828957706",
    "end": 1787163301,
@@ -7404,14 +7383,14 @@
    "end": 1787765821,
    "title": "Flowers blooms in your heart  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "50TA2I": {
    "msg": "1541867962624114788",
    "end": 1787765642,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XL8K18": {
    "msg": "1541876249012732045",
@@ -7432,7 +7411,7 @@
    "end": 1787767021,
    "title": "The pass it forward raffle! (#18)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "357K8R": {
    "msg": "1541885087992389703",
@@ -8293,6 +8272,34 @@
    "end": 1787849941,
    "title": "We definitely need more medic main! \u211656",
    "items": 6,
+   "ended": false
+  },
+  "MQROFO": {
+   "msg": "1542232405438369824",
+   "end": 1787852761,
+   "title": "What do i even put",
+   "items": 1,
+   "ended": false
+  },
+  "O7VLEP": {
+   "msg": "1542232414900977795",
+   "end": 1787852642,
+   "title": "Poll update  \ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "IVG5CT": {
+   "msg": "1542232422064726177",
+   "end": 1787852461,
+   "title": "raffling till Im not poor #2",
+   "items": 1,
+   "ended": false
+  },
+  "HS0L2P": {
+   "msg": "1542232433338884157",
+   "end": 1787851682,
+   "title": "MvM Update Australium Vote Part 15: Heavy Melees",
+   "items": 3,
    "ended": false
   }
  },
