@@ -7306,21 +7306,21 @@
    "end": 1787750041,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8R5TZL": {
    "msg": "1541801678196441150",
    "end": 1787749922,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K04B1E": {
    "msg": "1541801684278317128",
    "end": 1787749261,
    "title": "100",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CUU8Z0": {
    "msg": "1541801690121117876",
@@ -7376,14 +7376,14 @@
    "end": 1787750821,
    "title": "Today i felt like",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BO1RYC": {
    "msg": "1541809644924833903",
    "end": 1787750642,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LM308R": {
    "msg": "1541814613241495612",
@@ -8348,6 +8348,27 @@
    "msg": "1542156915025518673",
    "end": 1787833561,
    "title": "raffle name",
+   "items": 1,
+   "ended": false
+  },
+  "6RPVQV": {
+   "msg": "1542164394170122400",
+   "end": 1787836381,
+   "title": "question  \ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "154Y65": {
+   "msg": "1542164402244030515",
+   "end": 1787792761,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "QU4ECZ": {
+   "msg": "1542164409986711604",
+   "end": 1787835600,
+   "title": "Klaxon Horns - What makes them sound like that?",
    "items": 1,
    "ended": false
   }
