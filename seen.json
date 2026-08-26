@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6EIN8R": {
-   "msg": "1539217686301773908",
-   "end": 1787134261,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #3",
-   "items": 1,
-   "ended": true
-  },
   "Q602WN": {
    "msg": "1539225757262422076",
    "end": 1787136181,
@@ -7159,42 +7152,42 @@
    "end": 1787739601,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K9OHC8": {
    "msg": "1541756728012574801",
    "end": 1787739181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ERS03N": {
    "msg": "1541756733913825321",
    "end": 1787739001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6APYRQ": {
    "msg": "1541756740742422570",
    "end": 1787738881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LX85Z6": {
    "msg": "1541756748090581082",
    "end": 1787738881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2FIT6G": {
    "msg": "1541756754277306418",
    "end": 1787738581,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5MCFBG": {
    "msg": "1541756761319669821",
@@ -8355,6 +8348,20 @@
    "msg": "1542111609663787008",
    "end": 1787823002,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "DPWC6G": {
+   "msg": "1542117797688250399",
+   "end": 1787825701,
+   "title": "Hello again, everyone.",
+   "items": 5,
+   "ended": false
+  },
+  "CH8LNX": {
+   "msg": "1542117804231364618",
+   "end": 1787824981,
+   "title": "gift of the day #8",
    "items": 1,
    "ended": false
   }
