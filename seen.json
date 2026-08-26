@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "C7QCNA": {
-   "msg": "1539099189412368536",
-   "end": 1787106302,
-   "title": "Misplaced Fabricators",
-   "items": 4,
-   "ended": true
-  },
-  "46HW5C": {
-   "msg": "1539099203048054865",
-   "end": 1787106121,
-   "title": "Caf\u00e9 Crit-A-Coffee #1760",
-   "items": 10,
-   "ended": true
-  },
   "DGOPRG": {
    "msg": "1539114294086733925",
    "end": 1787109961,
@@ -6998,7 +6984,7 @@
    "end": 1787710921,
    "title": "Beautiful TF2 Moment",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G607CQ": {
    "msg": "1541635927288324118",
