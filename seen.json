@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "XJLS2M": {
-   "msg": "1539308052501762128",
-   "end": 1787155981,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "PV71P0": {
-   "msg": "1539310581675196508",
-   "end": 1787156461,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "FSN3LY": {
-   "msg": "1539310587392041010",
-   "end": 1787156402,
-   "title": "i got my dream antlers.",
-   "items": 1,
-   "ended": true
-  },
-  "WSWODG": {
-   "msg": "1539310599085752321",
-   "end": 1787156162,
-   "title": "It's mah birthday hell yeah!!!",
-   "items": 7,
-   "ended": true
-  },
   "YZCGRD": {
    "msg": "1539316845599924296",
    "end": 1787157841,
@@ -145,20 +117,6 @@
    "end": 1787157242,
    "title": "They got their dream hat.",
    "items": 1,
-   "ended": true
-  },
-  "PHXNZF": {
-   "msg": "1539316877300469922",
-   "end": 1787156941,
-   "title": "i didn't get my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "6ADTHI": {
-   "msg": "1539316885596672011",
-   "end": 1787156941,
-   "title": "i got my dream lollichop.",
-   "items": 9,
    "ended": true
   },
   "DFBJO6": {
@@ -7390,7 +7348,7 @@
    "end": 1787761381,
    "title": "grabli304",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YREVGD": {
    "msg": "1541847319643824198",
@@ -7992,7 +7950,7 @@
    "end": 1787761802,
    "title": "Raffling Scrap Till I'm Out #1015 (Pokemon)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YDYK6O": {
    "msg": "1542042307132395600",
@@ -8347,6 +8305,13 @@
   "2VK7DI": {
    "msg": "1542202250905260032",
    "end": 1787842861,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BN3K04": {
+   "msg": "1542209680523399198",
+   "end": 1787847661,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
