@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "C38GB8": {
-   "msg": "1539129390535806988",
-   "end": 1787113021,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1509 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 18,
-   "ended": true
-  },
   "B9UPVZ": {
    "msg": "1539136827561222225",
    "end": 1787115002,
@@ -425,13 +418,6 @@
    "end": 1787156162,
    "title": "It's mah birthday hell yeah!!!",
    "items": 7,
-   "ended": true
-  },
-  "8IJG7F": {
-   "msg": "1539310605595451503",
-   "end": 1787112961,
-   "title": "i got my dream hat.",
-   "items": 1,
    "ended": true
   },
   "YZCGRD": {
@@ -7005,14 +6991,14 @@
    "end": 1787718002,
    "title": "Just take it \u211617",
    "items": 124,
-   "ended": false
+   "ended": true
   },
   "QCQ3BY": {
    "msg": "1541673686464204810",
    "end": 1787718601,
    "title": "Its my birthday day!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DCI2OF": {
    "msg": "1541681204548599870",
@@ -8335,6 +8321,20 @@
    "end": 1787801221,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "YHDJX3": {
+   "msg": "1542028489127886858",
+   "end": 1787804821,
+   "title": "Why do people hate F2Ps?",
+   "items": 3,
+   "ended": false
+  },
+  "EXNUJC": {
+   "msg": "1542028496920903820",
+   "end": 1787803200,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1517 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 26,
    "ended": false
   }
  },
