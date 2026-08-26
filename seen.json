@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "FXETZB": {
-   "msg": "1539170385239482468",
-   "end": 1787122921,
-   "title": "Waluigi time",
-   "items": 2,
-   "ended": true
-  },
-  "YHR02X": {
-   "msg": "1539174709936128111",
-   "end": 1787123881,
-   "title": "1st year in scrap.tf!",
-   "items": 2,
-   "ended": true
-  },
   "TZKCXS": {
    "msg": "1539182228284637285",
    "end": 1787124901,
@@ -6984,7 +6970,7 @@
    "end": 1787729041,
    "title": "Slugma Chain raffle #15-16",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZYTVC3": {
    "msg": "1541718993625415770",
@@ -8314,6 +8300,27 @@
    "end": 1787810761,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "6NRCU9": {
+   "msg": "1542073793525194832",
+   "end": 1787814781,
+   "title": "1500th public raffle created",
+   "items": 1,
+   "ended": false
+  },
+  "G6XS9G": {
+   "msg": "1542073801792167988",
+   "end": 1787814541,
+   "title": "Question #74",
+   "items": 1,
+   "ended": false
+  },
+  "DIP5U1": {
+   "msg": "1542073810461917235",
+   "end": 1787770800,
+   "title": "It is",
+   "items": 10,
    "ended": false
   }
  },
