@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "DFBJO6": {
-   "msg": "1539322923112857670",
-   "end": 1787159701,
-   "title": "I dont need this anymore",
-   "items": 3,
-   "ended": true
-  },
-  "GFSDP4": {
-   "msg": "1539322930239111198",
-   "end": 1787159521,
-   "title": "Daily raffle until TF2 gets a major update #595",
-   "items": 3,
-   "ended": true
-  },
-  "KCNB3W": {
-   "msg": "1539322937017114624",
-   "end": 1787159401,
-   "title": "I got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "HVNR49": {
-   "msg": "1539322944826777662",
-   "end": 1787159161,
-   "title": "I won key here is part from key",
-   "items": 50,
-   "ended": true
-  },
-  "N94JI1": {
-   "msg": "1539322950673506334",
-   "end": 1787159161,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
   "T69GWX": {
    "msg": "1539333263586369608",
    "end": 1787162161,
@@ -7411,7 +7376,7 @@
    "end": 1787764381,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7PQK8K": {
    "msg": "1541862399483576351",
@@ -7425,7 +7390,7 @@
    "end": 1787763902,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GDQKVK": {
    "msg": "1541867949118197850",
@@ -8307,6 +8272,27 @@
    "end": 1787847841,
    "title": "Scrap.tf Birthdays - 26 August",
    "items": 1,
+   "ended": false
+  },
+  "5HA3RZ": {
+   "msg": "1542224794077102242",
+   "end": 1787850962,
+   "title": "raffle without reason",
+   "items": 3,
+   "ended": false
+  },
+  "LO1OBH": {
+   "msg": "1542224803249913896",
+   "end": 1787850721,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "QNP9L8": {
+   "msg": "1542224810359128214",
+   "end": 1787849941,
+   "title": "We definitely need more medic main! \u211656",
+   "items": 6,
    "ended": false
   }
  },
