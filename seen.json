@@ -532,13 +532,6 @@
    "items": 1,
    "ended": true
   },
-  "X55XSI": {
-   "msg": "1539382024136167494",
-   "end": 1787130421,
-   "title": "i got a hat",
-   "items": 1,
-   "ended": true
-  },
   "OLUXTU": {
    "msg": "1539382031442514042",
    "end": 1787173200,
@@ -551,13 +544,6 @@
    "end": 1787174701,
    "title": "Hey guys it's me Silvye Glitterhoofs also known as Silva",
    "items": 3,
-   "ended": true
-  },
-  "S0XFC5": {
-   "msg": "1539386100223705201",
-   "end": 1787130842,
-   "title": "Scrap.tf Site Suggestion",
-   "items": 1,
    "ended": true
   },
   "PNLSHI": {
@@ -7096,21 +7082,21 @@
    "end": 1787736181,
    "title": "\ud83c\udf3c L\u1d0f\u1d00\u1d05\u026a\u0274\u0262...\ud83c\udf3c",
    "items": 16,
-   "ended": false
+   "ended": true
   },
   "RFGE0P": {
    "msg": "1541740373024575589",
    "end": 1787735881,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K7TEJ0": {
    "msg": "1541740387817750598",
    "end": 1787735222,
    "title": "how much time did yall spend playing not like shit on each class?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W3W2GY": {
    "msg": "1541740395900174376",
@@ -7159,7 +7145,7 @@
    "end": 1787736362,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EXCOAT": {
    "msg": "1541756712300584981",
@@ -8335,6 +8321,13 @@
    "end": 1787819341,
    "title": "I was born to run and party like it was 1999",
    "items": 1,
+   "ended": false
+  },
+  "P6RQWO": {
+   "msg": "1542103998352465941",
+   "end": 1787822881,
+   "title": "Waffle maker",
+   "items": 2,
    "ended": false
   }
  },
