@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "DGOPRG": {
-   "msg": "1539114294086733925",
-   "end": 1787109961,
-   "title": "Cat pic #6 + NOT Random Question #37 (Nothing)",
-   "items": 2,
-   "ended": true
-  },
-  "YSMAUF": {
-   "msg": "1539114310758965339",
-   "end": 1787109421,
-   "title": "Shame...",
-   "items": 2,
-   "ended": true
-  },
   "CRBJ4L": {
    "msg": "1539121875580625017",
    "end": 1787111461,
@@ -6991,14 +6977,14 @@
    "end": 1787714521,
    "title": "Bau! Bau!",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "2S5F3D": {
    "msg": "1541649437804339273",
    "end": 1787714161,
    "title": "Living A Little",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N5WCCC": {
    "msg": "1541649446444597440",
@@ -7026,7 +7012,7 @@
    "end": 1787714762,
    "title": "scrapaholics, BITCH",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "0JFW5Z": {
    "msg": "1541666102063665166",
@@ -8320,6 +8306,27 @@
    "msg": "1542005932244869250",
    "end": 1787797561,
    "title": "Day 78 of Asking for a Follow Button",
+   "items": 1,
+   "ended": false
+  },
+  "PVCYSG": {
+   "msg": "1542013393815339008",
+   "end": 1787801041,
+   "title": "Day 16 of asking for Slugma Chain emoticon",
+   "items": 12,
+   "ended": false
+  },
+  "YOSL9L": {
+   "msg": "1542013400245207192",
+   "end": 1787800800,
+   "title": "Living Without Choice",
+   "items": 1,
+   "ended": false
+  },
+  "SZBWT3": {
+   "msg": "1542013408671440926",
+   "end": 1787799481,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
