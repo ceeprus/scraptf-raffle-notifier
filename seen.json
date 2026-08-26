@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CRBJ4L": {
-   "msg": "1539121875580625017",
-   "end": 1787111461,
-   "title": "Slugma Chain raffle #10-11",
-   "items": 1,
-   "ended": true
-  },
-  "THNC2F": {
-   "msg": "1539121882027008103",
-   "end": 1787111400,
-   "title": "Vested Interests",
-   "items": 1,
-   "ended": true
-  },
   "C38GB8": {
    "msg": "1539129390535806988",
    "end": 1787113021,
@@ -8326,6 +8312,27 @@
   "SZBWT3": {
    "msg": "1542013408671440926",
    "end": 1787799481,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "DEM73A": {
+   "msg": "1542020987921502248",
+   "end": 1787802362,
+   "title": "Caf\u00e9 Crit-A-Coffee #1767",
+   "items": 10,
+   "ended": false
+  },
+  "9BJEAM": {
+   "msg": "1542020996217839627",
+   "end": 1787801402,
+   "title": "Hey Hey Hey! Be a dear and take this from me!",
+   "items": 4,
+   "ended": false
+  },
+  "TRSDU0": {
+   "msg": "1542021003066998884",
+   "end": 1787801221,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
