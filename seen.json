@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "PNLSHI": {
-   "msg": "1539393666773295174",
-   "end": 1787176441,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "0HWZCN": {
-   "msg": "1539393673622720523",
-   "end": 1787175541,
-   "title": "Steam comments #82",
-   "items": 11,
-   "ended": true
-  },
   "HXYQV9": {
    "msg": "1539408761503092816",
    "end": 1787179921,
@@ -628,13 +614,6 @@
    "end": 1787240761,
    "title": "Starchion`s Art #21 [CHROMAKOPIA+] + Special edition",
    "items": 1,
-   "ended": true
-  },
-  "9DXH0U": {
-   "msg": "1539665503881269270",
-   "end": 1787175422,
-   "title": "i got my dream accesory",
-   "items": 2,
    "ended": true
   },
   "QYDEOV": {
@@ -7446,21 +7425,21 @@
    "end": 1787779981,
    "title": "Have these.",
    "items": 133,
-   "ended": false
+   "ended": true
   },
   "VFU0UI": {
    "msg": "1541930407430201354",
    "end": 1787781242,
    "title": "more mvm loot",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "UZHWCM": {
    "msg": "1541930421577850890",
    "end": 1787781181,
    "title": "Untitled raffle",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "O682KS": {
    "msg": "1541937895273664622",
@@ -8306,6 +8285,27 @@
    "msg": "1542285211902148619",
    "end": 1787864400,
    "title": "checkup #102 | Dominations (Medic)",
+   "items": 1,
+   "ended": false
+  },
+  "PG79HA": {
+   "msg": "1542292773980471488",
+   "end": 1787867221,
+   "title": "Kiestu crafting ALL the weapons #8",
+   "items": 1,
+   "ended": false
+  },
+  "4147L6": {
+   "msg": "1542292782645772349",
+   "end": 1787866981,
+   "title": "\"Wh- what is your favorite block in Minecraft?\"",
+   "items": 3,
+   "ended": false
+  },
+  "CKR25J": {
+   "msg": "1542292792892461148",
+   "end": 1787866142,
+   "title": "\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0\ud83e\udea0",
    "items": 1,
    "ended": false
   }
