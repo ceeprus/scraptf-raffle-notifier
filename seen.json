@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "DSZ0SM": {
-   "msg": "1539249120013848707",
-   "end": 1787141581,
-   "title": "Grabli304's raffle\u2503Day 170",
-   "items": 2,
-   "ended": true
-  },
   "IN711V": {
    "msg": "1539257785294790827",
    "end": 1787142662,
    "title": "Spooky taunt for a spooky class",
    "items": 1,
-   "ended": true
-  },
-  "NIMRQD": {
-   "msg": "1539257793859686542",
-   "end": 1787142241,
-   "title": "Untitled raffle",
-   "items": 4,
    "ended": true
   },
   "43005S": {
@@ -558,13 +544,6 @@
    "end": 1787184961,
    "title": "TAKE MY STUFF",
    "items": 3,
-   "ended": true
-  },
-  "0WFODO": {
-   "msg": "1539431386941751386",
-   "end": 1787141641,
-   "title": "i got my dream noise maker",
-   "items": 1,
    "ended": true
   },
   "LIYR31": {
@@ -7229,21 +7208,21 @@
    "end": 1787746681,
    "title": "I'm a  now",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HQSYQU": {
    "msg": "1541786713330950215",
    "end": 1787746081,
    "title": "Do you like TF2 comics?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "34YYRD": {
    "msg": "1541786719706152960",
    "end": 1787745961,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B3BZFX": {
    "msg": "1541786745803120732",
@@ -7334,14 +7313,14 @@
    "end": 1787747282,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "93XNW3": {
    "msg": "1541794552011034774",
    "end": 1787747042,
    "title": "I  Lied",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8T7AQ6": {
    "msg": "1541801670164488202",
@@ -8230,7 +8209,7 @@
    "end": 1787746981,
    "title": "Crit-a-Gunboats",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0KJR36": {
    "msg": "1542088896001740902",
@@ -8334,6 +8313,34 @@
    "msg": "1542141787135811667",
    "end": 1787830921,
    "title": "today i saw her for the first time this summer",
+   "items": 1,
+   "ended": false
+  },
+  "E42545": {
+   "msg": "1542149289596428339",
+   "end": 1787833201,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2I3QMZ": {
+   "msg": "1542149296902643723",
+   "end": 1787832961,
+   "title": "#SlugmaSweep",
+   "items": 6,
+   "ended": false
+  },
+  "AMDSBI": {
+   "msg": "1542149303630299268",
+   "end": 1787832421,
+   "title": "Pootis",
+   "items": 1,
+   "ended": false
+  },
+  "NKPTYS": {
+   "msg": "1542149309754249278",
+   "end": 1787832000,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
