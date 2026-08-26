@@ -98,25 +98,11 @@
    "items": 50,
    "ended": false
   },
-  "KGJUIK": {
-   "msg": "1539239372270870660",
-   "end": 1787139182,
-   "title": "Re-Raffle !!!",
-   "items": 1,
-   "ended": true
-  },
   "DSZ0SM": {
    "msg": "1539249120013848707",
    "end": 1787141581,
    "title": "Grabli304's raffle\u2503Day 170",
    "items": 2,
-   "ended": true
-  },
-  "LIWN0O": {
-   "msg": "1539249127399886969",
-   "end": 1787140800,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
    "ended": true
   },
   "IN711V": {
@@ -7229,7 +7215,7 @@
    "end": 1787744041,
    "title": "Business is at an all time low...",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "THIL70": {
    "msg": "1541777071007596645",
@@ -7271,28 +7257,28 @@
    "end": 1787745600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XLD05P": {
    "msg": "1541786763893407795",
    "end": 1787745541,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KH3GLG": {
    "msg": "1541786771006693558",
    "end": 1787745481,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6KZ2JQ": {
    "msg": "1541786776622858281",
    "end": 1787745361,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4090BG": {
    "msg": "1541794502191218881",
@@ -8341,6 +8327,13 @@
    "msg": "1542134191389548556",
    "end": 1787828400,
    "title": "...it could be considered.",
+   "items": 1,
+   "ended": false
+  },
+  "PTW2J7": {
+   "msg": "1542141787135811667",
+   "end": 1787830921,
+   "title": "today i saw her for the first time this summer",
    "items": 1,
    "ended": false
   }
