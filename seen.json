@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MOUZ4A": {
-   "msg": "1539231663597293670",
-   "end": 1787137202,
-   "title": "I Re-Raffle it.",
-   "items": 1,
-   "ended": true
-  },
   "9M2WVN": {
    "msg": "1539235084991856651",
    "end": 1787137861,
@@ -7236,7 +7229,7 @@
    "end": 1787742000,
    "title": "...I've never heard of such things.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UFQEQW": {
    "msg": "1541777064468676808",
