@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "P8FJK4": {
-   "msg": "1539061473836531784",
-   "end": 1787097421,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "4LA2VL": {
-   "msg": "1539061483189698740",
-   "end": 1787097122,
-   "title": "I can make a Fortnite rhyme with banana",
-   "items": 1,
-   "ended": true
-  },
-  "WLO1T1": {
-   "msg": "1539061491720781876",
-   "end": 1787096821,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
   "K2IY7E": {
    "msg": "1539069000162615356",
    "end": 1787099402,
@@ -6998,7 +6977,7 @@
    "end": 1787701801,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CUQO68": {
    "msg": "1541598219858088007",
@@ -8304,9 +8283,9 @@
   }
  },
  "megaraffle": {
-  "num": 1168,
-  "end": 1787702400,
-  "msg": "1540873437155950644",
+  "num": 1169,
+  "end": 1787961600,
+  "msg": "1541960610340806782",
   "ended": false
  }
 }
