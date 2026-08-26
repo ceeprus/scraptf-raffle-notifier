@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "21QL8W": {
-   "msg": "1539348386753548369",
-   "end": 1787164801,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "LCUPVQ": {
-   "msg": "1539348393329954858",
-   "end": 1787164261,
-   "title": "my dream hats getting me",
-   "items": 1,
-   "ended": true
-  },
-  "TRC6BT": {
-   "msg": "1539349533937508467",
-   "end": 1787165941,
-   "title": "Giving away Free hats / Regalando Gorros del TF2 #1",
-   "items": 2,
-   "ended": true
-  },
-  "YLZYGV": {
-   "msg": "1539349542456008786",
-   "end": 1787165881,
-   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #5 \u0438 #6",
-   "items": 4,
-   "ended": true
-  },
-  "8DQCTO": {
-   "msg": "1539349549389189130",
-   "end": 1787165881,
-   "title": "you got your dream what? \ud83e\udd28",
-   "items": 1,
-   "ended": true
-  },
   "BCACN8": {
    "msg": "1539355873242251405",
    "end": 1787167141,
@@ -397,13 +362,6 @@
    "end": 1787207162,
    "title": "The pass it forward raffle! (#14)  I\u2019m back!",
    "items": 4,
-   "ended": true
-  },
-  "5RK8CI": {
-   "msg": "1539534433952997417",
-   "end": 1787166000,
-   "title": "It is",
-   "items": 10,
    "ended": true
   },
   "A8LJXV": {
@@ -7397,14 +7355,14 @@
    "end": 1787769722,
    "title": "STEAM COMMENT #36",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZB5ECC": {
    "msg": "1541886641969307669",
    "end": 1787770800,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "D3O553": {
    "msg": "1541892596291346592",
@@ -7915,7 +7873,7 @@
    "end": 1787770800,
    "title": "It is",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "ZU772B": {
    "msg": "1542088889723002880",
@@ -8293,6 +8251,41 @@
    "end": 1787854681,
    "title": "MvM Update Australium Vote Part 16: Engineer Primaries",
    "items": 3,
+   "ended": false
+  },
+  "7IZB7C": {
+   "msg": "1542247482296373268",
+   "end": 1787857141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "YRRP2Y": {
+   "msg": "1542247491716513904",
+   "end": 1787855881,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "TGYHD4": {
+   "msg": "1542247498033401968",
+   "end": 1787855701,
+   "title": "raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LLV8WN": {
+   "msg": "1542247505620897913",
+   "end": 1787855521,
+   "title": "Your weekly non-official Scrap.tf news. [Week 235]",
+   "items": 4,
+   "ended": false
+  },
+  "TL21W8": {
+   "msg": "1542247513350869183",
+   "end": 1787855401,
+   "title": "raffle",
+   "items": 1,
    "ended": false
   }
  },
