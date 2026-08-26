@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "TZKCXS": {
-   "msg": "1539182228284637285",
-   "end": 1787124901,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
   "T5DXZO": {
    "msg": "1539189783585234985",
    "end": 1787127721,
@@ -6956,7 +6949,7 @@
    "end": 1787729522,
    "title": "Question #73",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X93PGW": {
    "msg": "1541712909728481290",
@@ -7005,7 +6998,7 @@
    "end": 1787729761,
    "title": "Random Street View of the day #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9T13PT": {
    "msg": "1541726510799392838",
