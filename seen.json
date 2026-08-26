@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "IN711V": {
-   "msg": "1539257785294790827",
-   "end": 1787142662,
-   "title": "Spooky taunt for a spooky class",
-   "items": 1,
-   "ended": true
-  },
   "43005S": {
    "msg": "1539263273151504506",
    "end": 1787144400,
@@ -7306,7 +7299,7 @@
    "end": 1787747461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U68O5S": {
    "msg": "1541794545854054461",
