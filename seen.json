@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OC4FHU": {
-   "msg": "1539386093927931987",
-   "end": 1787174701,
-   "title": "Hey guys it's me Silvye Glitterhoofs also known as Silva",
-   "items": 3,
-   "ended": true
-  },
   "PNLSHI": {
    "msg": "1539393666773295174",
    "end": 1787176441,
@@ -7390,42 +7383,42 @@
    "end": 1787778901,
    "title": "\u0420\u041e\u0437\u044b\u0433\u0440\u044b\u0448\u044c",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "R6K5A5": {
    "msg": "1541919909720629370",
    "end": 1787778662,
    "title": "Played a tour",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "F3FW5S": {
    "msg": "1541919918159560765",
    "end": 1787778482,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NMFOZZ": {
    "msg": "1541919924434374707",
    "end": 1787778301,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1PDWJ4": {
    "msg": "1541919932961394851",
    "end": 1787778181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NLKHFS": {
    "msg": "1541919941542809751",
    "end": 1787778122,
    "title": "MvM Mondays",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8JN95Z": {
    "msg": "1541919948329189416",
@@ -7439,14 +7432,14 @@
    "end": 1787779501,
    "title": "checkup #101 | The dreaded map contracts",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B6E0C1": {
    "msg": "1541922808626417764",
    "end": 1787779081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G7N2SH": {
    "msg": "1541927850188214323",
@@ -8286,6 +8279,34 @@
    "end": 1787862417,
    "title": "Cody",
    "items": 4,
+   "ended": false
+  },
+  "VT1JYN": {
+   "msg": "1542285192448966786",
+   "end": 1787865722,
+   "title": "First raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P7BU6Y": {
+   "msg": "1542285198819983562",
+   "end": 1787865002,
+   "title": "horrific and traumatic experience that happened to me as a noob",
+   "items": 1,
+   "ended": false
+  },
+  "65UU2K": {
+   "msg": "1542285205530746985",
+   "end": 1787864522,
+   "title": "i can't think of a title for this raffle 32\u2122",
+   "items": 1,
+   "ended": false
+  },
+  "ZXI4FF": {
+   "msg": "1542285211902148619",
+   "end": 1787864400,
+   "title": "checkup #102 | Dominations (Medic)",
+   "items": 1,
    "ended": false
   }
  },
