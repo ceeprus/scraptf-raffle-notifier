@@ -357,13 +357,6 @@
    "items": 3,
    "ended": true
   },
-  "HQ5CRT": {
-   "msg": "1539287975861424169",
-   "end": 1787108400,
-   "title": "[DAY 16] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "ZMJWP9": {
    "msg": "1539287983273025617",
    "end": 1787151062,
@@ -7012,14 +7005,14 @@
    "end": 1787713200,
    "title": "20 years old today",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "5HOJ8G": {
    "msg": "1541649452509692015",
    "end": 1787712841,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B7LDPS": {
    "msg": "1541658585652658256",
@@ -7712,7 +7705,7 @@
    "end": 1787711821,
    "title": "I\u2019ll tip every raffle have 1 flowery voicelines.! (1/50 raffles)",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "V2DZLF": {
    "msg": "1541824740115611719",
@@ -7740,7 +7733,7 @@
    "end": 1787713200,
    "title": "Tune of the day #321",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DZLX9D": {
    "msg": "1541827526513655848",
@@ -8278,6 +8271,55 @@
    "msg": "1541990777951883315",
    "end": 1787793961,
    "title": "Daily Hat #80",
+   "items": 1,
+   "ended": false
+  },
+  "ITALEY": {
+   "msg": "1542005885101015112",
+   "end": 1787799241,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0L74NV": {
+   "msg": "1542005895246905455",
+   "end": 1787799121,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "PRNPRR": {
+   "msg": "1542005901496422400",
+   "end": 1787799002,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "74DC5O": {
+   "msg": "1542005907074846801",
+   "end": 1787798461,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AR0AQH": {
+   "msg": "1542005914943623239",
+   "end": 1787797861,
+   "title": "Sliggidy Slugman??? #20",
+   "items": 1,
+   "ended": false
+  },
+  "B7UYVI": {
+   "msg": "1542005922799558708",
+   "end": 1787797801,
+   "title": "Day 74 of Asking for Mystery Raffles",
+   "items": 1,
+   "ended": false
+  },
+  "Y5S8JT": {
+   "msg": "1542005932244869250",
+   "end": 1787797561,
+   "title": "Day 78 of Asking for a Follow Button",
    "items": 1,
    "ended": false
   }
