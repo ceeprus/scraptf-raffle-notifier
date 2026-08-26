@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "K2IY7E": {
-   "msg": "1539069000162615356",
-   "end": 1787099402,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "DKWJZO": {
-   "msg": "1539069006462586990",
-   "end": 1787098022,
-   "title": "Win a Raffle, Make a Raffle! 4",
-   "items": 1,
-   "ended": true
-  },
   "1FQRLD": {
    "msg": "1539076581614682343",
    "end": 1787100481,
@@ -7558,7 +7544,7 @@
    "end": 1787702581,
    "title": "Heavy Loadout | Advice needed",
    "items": 14,
-   "ended": false
+   "ended": true
   },
   "82O15R": {
    "msg": "1541786755039232120",
@@ -7999,7 +7985,7 @@
    "end": 1787702702,
    "title": "have u guys ever gotten smth from the incinerator",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "N19V54": {
    "msg": "1541876262572662918",
