@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OLUXTU": {
-   "msg": "1539382031442514042",
-   "end": 1787173200,
-   "title": "checkup #94 | Steam Profile Backgrounds",
-   "items": 1,
-   "ended": true
-  },
   "OC4FHU": {
    "msg": "1539386093927931987",
    "end": 1787174701,
@@ -347,20 +340,6 @@
    "msg": "1539552209337851916",
    "end": 1787213522,
    "title": "I got my nightmare hat",
-   "items": 1,
-   "ended": true
-  },
-  "KQE47P": {
-   "msg": "1539555111037313064",
-   "end": 1787171642,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "PCDHAV": {
-   "msg": "1539555119140577290",
-   "end": 1787171461,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -620,13 +599,6 @@
    "msg": "1539657939151753328",
    "end": 1787194800,
    "title": "Tune of the day #313",
-   "items": 1,
-   "ended": true
-  },
-  "LVU3NG": {
-   "msg": "1539657945741267135",
-   "end": 1787173021,
-   "title": "My first raffle",
    "items": 1,
    "ended": true
   },
@@ -7355,14 +7327,14 @@
    "end": 1787776922,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FIMQBO": {
    "msg": "1541913301997322290",
    "end": 1787776861,
    "title": "30000 and 1 raffles entered",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "MHBD3H": {
    "msg": "1541913314521522236",
@@ -7397,21 +7369,21 @@
    "end": 1787777761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P6XUOY": {
    "msg": "1541915299824279672",
    "end": 1787777701,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UKMLCB": {
    "msg": "1541915307382411306",
    "end": 1787777581,
    "title": "PUNCH PUNCH PUNCH PUNCH PUNCH PUNCH",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "SB9RHC": {
    "msg": "1541919900849807482",
@@ -7460,7 +7432,7 @@
    "end": 1787777941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4CVMB2": {
    "msg": "1541922799248212039",
@@ -8034,7 +8006,7 @@
    "end": 1787776381,
    "title": "Happy Scrappy?",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "XYWZZO": {
    "msg": "1542202205376094209",
@@ -8251,6 +8223,69 @@
    "end": 1787859481,
    "title": "bunch of bullshet",
    "items": 19,
+   "ended": false
+  },
+  "YOSAHN": {
+   "msg": "1542277687668641873",
+   "end": 1787863801,
+   "title": "raffle without reason",
+   "items": 2,
+   "ended": false
+  },
+  "Q5KIOW": {
+   "msg": "1542277694681522236",
+   "end": 1787863502,
+   "title": "raffle without reason",
+   "items": 1,
+   "ended": false
+  },
+  "02ZNLQ": {
+   "msg": "1542277701459509319",
+   "end": 1787819941,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "13US17": {
+   "msg": "1542277708363464764",
+   "end": 1787863082,
+   "title": "You are no longer black, or brown, or yellow or red!",
+   "items": 1,
+   "ended": false
+  },
+  "77VK4S": {
+   "msg": "1542277714952716359",
+   "end": 1787863022,
+   "title": "Daily raffle until TF2 gets a major update #603",
+   "items": 3,
+   "ended": false
+  },
+  "RA086W": {
+   "msg": "1542277721512484979",
+   "end": 1787819761,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BKNYR1": {
+   "msg": "1542277728294670366",
+   "end": 1787819641,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "YNGX3K": {
+   "msg": "1542277736389677179",
+   "end": 1787862422,
+   "title": "raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MEYSU9": {
+   "msg": "1542277742739984384",
+   "end": 1787862417,
+   "title": "Cody",
+   "items": 4,
    "ended": false
   }
  },
