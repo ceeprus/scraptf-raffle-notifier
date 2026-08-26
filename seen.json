@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "I8PWHY": {
-   "msg": "1539091677434875915",
-   "end": 1787103241,
-   "title": "Out of backpack space again",
-   "items": 10,
-   "ended": true
-  },
   "I5ZNJX": {
    "msg": "1539094073829359626",
    "end": 1787104862,
@@ -361,13 +354,6 @@
    "msg": "1539280410876448848",
    "end": 1787148121,
    "title": "Bright shinning.",
-   "items": 1,
-   "ended": true
-  },
-  "R2JJYH": {
-   "msg": "1539280417637531808",
-   "end": 1787104800,
-   "title": "Tune of the day #311",
    "items": 1,
    "ended": true
   },
@@ -6991,14 +6977,14 @@
    "end": 1787708881,
    "title": "Free game",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6NAOQ5": {
    "msg": "1541628389545349231",
    "end": 1787707921,
    "title": "Daily Hat #79",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WRD1AX": {
    "msg": "1541631570883117078",
@@ -7012,7 +6998,7 @@
    "end": 1787709601,
    "title": "We need more sniper main",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AP1KEM": {
    "msg": "1541635915175165963",
@@ -8307,6 +8293,13 @@
    "end": 1787792400,
    "title": "Reminder to eat n' drink water if ye haven't yet #275",
    "items": 5,
+   "ended": false
+  },
+  "KZHR48": {
+   "msg": "1541990777951883315",
+   "end": 1787793961,
+   "title": "Daily Hat #80",
+   "items": 1,
    "ended": false
   }
  },
