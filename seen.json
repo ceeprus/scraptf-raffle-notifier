@@ -98,72 +98,9 @@
    "items": 50,
    "ended": false
   },
-  "4JYW5X": {
-   "msg": "1539295486186356736",
-   "end": 1787152381,
-   "title": "First raffle",
-   "items": 1,
-   "ended": true
-  },
-  "3OXTPW": {
-   "msg": "1539295504335245455",
-   "end": 1787152142,
-   "title": "Sometimes Grabli304 Needs To Stop Spamtons Brass Beast Re-Raffle",
-   "items": 1,
-   "ended": true
-  },
-  "V78E1H": {
-   "msg": "1539295511323082823",
-   "end": 1787151961,
-   "title": "free at last",
-   "items": 1,
-   "ended": true
-  },
-  "ICO1YK": {
-   "msg": "1539296292792959026",
-   "end": 1787153041,
-   "title": "I have a question about Re:Zero \u2013 Starting Life in Another World.",
-   "items": 16,
-   "ended": true
-  },
-  "92QCTN": {
-   "msg": "1539303077310373959",
-   "end": 1787154301,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "JR8S2C": {
-   "msg": "1539303086445559839",
-   "end": 1787154002,
-   "title": "First Raffle",
-   "items": 11,
-   "ended": true
-  },
-  "JSUUAY": {
-   "msg": "1539303093349654650",
-   "end": 1787154002,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "HT82U9": {
-   "msg": "1539303100764913797",
-   "end": 1787153941,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
   "XJLS2M": {
    "msg": "1539308052501762128",
    "end": 1787155981,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "5CF3KE": {
-   "msg": "1539308061209137252",
-   "end": 1787155200,
    "title": "i got my dream hat.",
    "items": 1,
    "ended": true
@@ -7397,7 +7334,7 @@
    "end": 1787756641,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7JXP1I": {
    "msg": "1541827517982445678",
@@ -7418,35 +7355,35 @@
    "end": 1787757421,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JLZBI7": {
    "msg": "1541832224393920574",
    "end": 1787756761,
    "title": "red bullsquid",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "YTSPBU": {
    "msg": "1541839799844077619",
    "end": 1787759221,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6CUY5H": {
    "msg": "1541839808572297326",
    "end": 1787758681,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8VOR3P": {
    "msg": "1541839815090372739",
    "end": 1787758200,
    "title": "MK Poll #10 + The Favorites of Music #287 & #288",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3FA4J8": {
    "msg": "1541847310592385025",
@@ -7488,7 +7425,7 @@
    "end": 1787760000,
    "title": "Scrap.tf Birthdays - 25 August",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "E17B9O": {
    "msg": "1541854917235445810",
@@ -8363,6 +8300,55 @@
    "end": 1787776381,
    "title": "Happy Scrappy?",
    "items": 6,
+   "ended": false
+  },
+  "XYWZZO": {
+   "msg": "1542202205376094209",
+   "end": 1787801642,
+   "title": "First Raffle : Free Killstreaks if you want em",
+   "items": 15,
+   "ended": false
+  },
+  "A0HK06": {
+   "msg": "1542202215337426975",
+   "end": 1787844721,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FA44TJ": {
+   "msg": "1542202221859446907",
+   "end": 1787844421,
+   "title": "Raffle Name",
+   "items": 1,
+   "ended": false
+  },
+  "DDKQNE": {
+   "msg": "1542202231732965426",
+   "end": 1787843221,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "13LDO0": {
+   "msg": "1542202238397841408",
+   "end": 1787843161,
+   "title": "Raffling a  every time I win a  #83",
+   "items": 1,
+   "ended": false
+  },
+  "UUPPWN": {
+   "msg": "1542202244483522572",
+   "end": 1787842981,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2VK7DI": {
+   "msg": "1542202250905260032",
+   "end": 1787842861,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
