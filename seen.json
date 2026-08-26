@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "VR754M": {
-   "msg": "1539339126828957706",
-   "end": 1787163301,
-   "title": "Your weekly non-official Scrap.tf news. [Week 233]",
-   "items": 4,
-   "ended": true
-  },
-  "QG5O80": {
-   "msg": "1539340792282488844",
-   "end": 1787163781,
-   "title": "i got my dream hat.",
-   "items": 2,
-   "ended": true
-  },
   "21QL8W": {
    "msg": "1539348386753548369",
    "end": 1787164801,
@@ -7390,7 +7376,7 @@
    "end": 1787768461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "632SIJ": {
    "msg": "1541876256159834254",
@@ -8300,6 +8286,13 @@
    "end": 1787853602,
    "title": "Some raffler Raffler\u2122 names I have misread",
    "items": 15,
+   "ended": false
+  },
+  "XQDC84": {
+   "msg": "1542239908196782121",
+   "end": 1787854681,
+   "title": "MvM Update Australium Vote Part 16: Engineer Primaries",
+   "items": 3,
    "ended": false
   }
  },
