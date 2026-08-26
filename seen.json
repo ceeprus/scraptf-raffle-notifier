@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KFVHNC": {
-   "msg": "1539359947308142754",
-   "end": 1787167861,
-   "title": "Kiestu's question about keeping records of raffles.",
-   "items": 1,
-   "ended": true
-  },
-  "4TOY1D": {
-   "msg": "1539366608399507496",
-   "end": 1787169602,
-   "title": "I got my nightmare hat",
-   "items": 1,
-   "ended": true
-  },
-  "9HA2OK": {
-   "msg": "1539366614900678716",
-   "end": 1787169600,
-   "title": "We need more Engineer Mains! | #008",
-   "items": 7,
-   "ended": true
-  },
-  "4S9NFZ": {
-   "msg": "1539366621628604558",
-   "end": 1787169482,
-   "title": "I got my dream raffle",
-   "items": 6,
-   "ended": true
-  },
-  "3U2PQF": {
-   "msg": "1539366628213657610",
-   "end": 1787169421,
-   "title": "Im too poor to put good item (first raffle btw)",
-   "items": 1,
-   "ended": true
-  },
   "OLUXTU": {
    "msg": "1539382031442514042",
    "end": 1787173200,
@@ -7376,7 +7341,7 @@
    "end": 1787772841,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "467R92": {
    "msg": "1541904576783851620",
@@ -8286,6 +8251,27 @@
    "end": 1787857201,
    "title": "AI",
    "items": 1,
+   "ended": false
+  },
+  "VC8S3A": {
+   "msg": "1542262579358081166",
+   "end": 1787860502,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1RPXJM": {
+   "msg": "1542262585485688964",
+   "end": 1787859541,
+   "title": "They gave me back my noisemaker bro",
+   "items": 6,
+   "ended": false
+  },
+  "XDX64F": {
+   "msg": "1542262592645505115",
+   "end": 1787859481,
+   "title": "bunch of bullshet",
+   "items": 19,
    "ended": false
   }
  },
