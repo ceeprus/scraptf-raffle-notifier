@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "B9UPVZ": {
-   "msg": "1539136827561222225",
-   "end": 1787115002,
-   "title": "Hm, seems a bit much...",
-   "items": 1,
-   "ended": true
-  },
-  "X8XKXA": {
-   "msg": "1539136834800582717",
-   "end": 1787114822,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "MY7DY4": {
    "msg": "1539144478676361226",
    "end": 1787116321,
@@ -8335,6 +8321,13 @@
    "end": 1787803200,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1517 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 26,
+   "ended": false
+  },
+  "85T9QM": {
+   "msg": "1542036078586892288",
+   "end": 1787761802,
+   "title": "Raffling Scrap Till I'm Out #1015 (Pokemon)",
+   "items": 1,
    "ended": false
   }
  },
