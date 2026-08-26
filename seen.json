@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "43005S": {
-   "msg": "1539263273151504506",
-   "end": 1787144400,
-   "title": "Top Gear Tuesday: The Stig's Formula 1 Lap",
-   "items": 2,
-   "ended": true
-  },
-  "9T5YY2": {
-   "msg": "1539263279258673153",
-   "end": 1787144340,
-   "title": "08/18/1978",
-   "items": 1,
-   "ended": true
-  },
   "CC8KRQ": {
    "msg": "1539280397828100288",
    "end": 1787149562,
@@ -7257,42 +7243,42 @@
    "end": 1787748541,
    "title": "Chat\u203c\ufe0f",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "GE26ID": {
    "msg": "1541794509225197738",
    "end": 1787748302,
    "title": "Team Graveyard: The Soldier",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CX3CHC": {
    "msg": "1541794515558469702",
    "end": 1787748241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KKHYB6": {
    "msg": "1541794521208062063",
    "end": 1787748181,
    "title": "\ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2XGAAR": {
    "msg": "1541794528225394829",
    "end": 1787748001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HY2MUR": {
    "msg": "1541794534227181738",
    "end": 1787747642,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XVI12F": {
    "msg": "1541794540027912232",
@@ -7341,14 +7327,14 @@
    "end": 1787749200,
    "title": "Top Gear Tuesday: Clarkson's Luxurious Bog",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "DT5MPQ": {
    "msg": "1541801697129799720",
    "end": 1787748841,
    "title": "\ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OFVD9Q": {
    "msg": "1541809601543016508",
@@ -8334,6 +8320,34 @@
    "msg": "1542149309754249278",
    "end": 1787832000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "CT1P5Q": {
+   "msg": "1542156891461914667",
+   "end": 1787791682,
+   "title": "\ud834\udd1eCisn\u2019t Moll\u266c",
+   "items": 25,
+   "ended": false
+  },
+  "KDIBGD": {
+   "msg": "1542156898323669165",
+   "end": 1787834102,
+   "title": "who need this",
+   "items": 1,
+   "ended": false
+  },
+  "NXXXL4": {
+   "msg": "1542156905248591872",
+   "end": 1787834041,
+   "title": "Grabli304's raffle\u2503Day 178",
+   "items": 2,
+   "ended": false
+  },
+  "IQB038": {
+   "msg": "1542156915025518673",
+   "end": 1787833561,
+   "title": "raffle name",
    "items": 1,
    "ended": false
   }
