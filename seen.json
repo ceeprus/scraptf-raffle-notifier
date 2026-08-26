@@ -119,13 +119,6 @@
    "items": 1,
    "ended": true
   },
-  "5KD31U": {
-   "msg": "1539280424545816739",
-   "end": 1787147821,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
   "RHBURO": {
    "msg": "1539287604254744636",
    "end": 1787150941,
@@ -7341,7 +7334,7 @@
    "end": 1787752081,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4H7870": {
    "msg": "1541809609763856484",
@@ -8369,6 +8362,20 @@
    "msg": "1542164409986711604",
    "end": 1787835600,
    "title": "Klaxon Horns - What makes them sound like that?",
+   "items": 1,
+   "ended": false
+  },
+  "2Y563S": {
+   "msg": "1542171994261291100",
+   "end": 1787838661,
+   "title": "Team Graveyard: The Pyro",
+   "items": 1,
+   "ended": false
+  },
+  "GASE5F": {
+   "msg": "1542172000666001521",
+   "end": 1787838601,
+   "title": "\ufe0f",
    "items": 1,
    "ended": false
   }
