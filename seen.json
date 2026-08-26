@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "XFFNG3": {
-   "msg": "1539197378131656745",
-   "end": 1787129401,
-   "title": "Daily Kit Fabricator #9",
-   "items": 1,
-   "ended": true
-  },
   "6EIN8R": {
    "msg": "1539217686301773908",
    "end": 1787134261,
@@ -536,13 +529,6 @@
    "msg": "1539366628213657610",
    "end": 1787169421,
    "title": "Im too poor to put good item (first raffle btw)",
-   "items": 1,
-   "ended": true
-  },
-  "YIBXAB": {
-   "msg": "1539378573683589240",
-   "end": 1787129282,
-   "title": "normal",
    "items": 1,
    "ended": true
   },
@@ -7054,28 +7040,28 @@
    "end": 1787734321,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L0OWKA": {
    "msg": "1541734097720713277",
    "end": 1787734261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O4NWYE": {
    "msg": "1541734104654151691",
    "end": 1787733482,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A4IAV9": {
    "msg": "1541734112895701033",
    "end": 1787733241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PX3S2Y": {
    "msg": "1541734119661240320",
@@ -7131,7 +7117,7 @@
    "end": 1787734502,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AP2405": {
    "msg": "1541748722679947305",
@@ -7873,7 +7859,7 @@
    "end": 1787733541,
    "title": "Jesus Christ loves you :]",
    "items": 47,
-   "ended": false
+   "ended": true
   },
   "CVHEP1": {
    "msg": "1541913321551429722",
@@ -8335,6 +8321,20 @@
    "end": 1787817661,
    "title": "Daily  supply",
    "items": 171,
+   "ended": false
+  },
+  "B6MLOJ": {
+   "msg": "1542096479827791953",
+   "end": 1787820901,
+   "title": "have a nice day!",
+   "items": 1,
+   "ended": false
+  },
+  "L3CKQD": {
+   "msg": "1542096486484148305",
+   "end": 1787819341,
+   "title": "I was born to run and party like it was 1999",
+   "items": 1,
    "ended": false
   }
  },
