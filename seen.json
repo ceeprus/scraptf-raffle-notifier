@@ -329,13 +329,6 @@
    "items": 1,
    "ended": true
   },
-  "MR6U5C": {
-   "msg": "1539552182288908319",
-   "end": 1787171101,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "SMTKAF": {
    "msg": "1539552196239298660",
    "end": 1787213941,
@@ -375,13 +368,6 @@
    "msg": "1539555125683691581",
    "end": 1787214601,
    "title": "I got my nightmare Noise Maker",
-   "items": 1,
-   "ended": true
-  },
-  "TEZHW0": {
-   "msg": "1539555133132636230",
-   "end": 1787171282,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -7355,7 +7341,7 @@
    "end": 1787775961,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "42VS0Y": {
    "msg": "1541907709237137421",
@@ -7390,21 +7376,21 @@
    "end": 1787776200,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UIKK1P": {
    "msg": "1541913326995513455",
    "end": 1787776200,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X6ZEUZ": {
    "msg": "1541913335111618660",
    "end": 1787776200,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OMIWHJ": {
    "msg": "1541915286981185546",
