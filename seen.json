@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "1FQRLD": {
-   "msg": "1539076581614682343",
-   "end": 1787100481,
-   "title": "GOOD VIBRATIONS",
-   "items": 1,
-   "ended": true
-  },
-  "1A6SHG": {
-   "msg": "1539084084607713300",
-   "end": 1787100781,
-   "title": "GOOD VIBRATIONS",
-   "items": 1,
-   "ended": true
-  },
   "I8PWHY": {
    "msg": "1539091677434875915",
    "end": 1787103241,
@@ -355,13 +341,6 @@
    "end": 1787144340,
    "title": "08/18/1978",
    "items": 1,
-   "ended": true
-  },
-  "PB35VT": {
-   "msg": "1539263288255324293",
-   "end": 1787101021,
-   "title": "God is Good",
-   "items": 50,
    "ended": true
   },
   "CC8KRQ": {
@@ -6991,21 +6970,21 @@
    "end": 1787706001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1O3R66": {
    "msg": "1541620814896431224",
    "end": 1787706000,
    "title": "Reminder to eat n' drink water if ye haven't yet #274",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "ZI9KQB": {
    "msg": "1541620821855051826",
    "end": 1787705941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0X1331": {
    "msg": "1541628382540996628",
@@ -8299,6 +8278,20 @@
    "msg": "1541971728383742043",
    "end": 1787790661,
    "title": "HERE KIESTU DANCES, SAN FRANDISCO!",
+   "items": 1,
+   "ended": false
+  },
+  "O4Q6ML": {
+   "msg": "1541975681028853830",
+   "end": 1787791502,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1516 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 25,
+   "ended": false
+  },
+  "0OB2WE": {
+   "msg": "1541975687408128000",
+   "end": 1787791261,
+   "title": "Kiestu crafting ALL the weapons #7",
    "items": 1,
    "ended": false
   }
