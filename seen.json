@@ -105,13 +105,6 @@
    "items": 4,
    "ended": true
   },
-  "Y24EG6": {
-   "msg": "1539339133410086993",
-   "end": 1787162521,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #85 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "QG5O80": {
    "msg": "1539340792282488844",
    "end": 1787163781,
@@ -8300,6 +8293,13 @@
    "end": 1787851682,
    "title": "MvM Update Australium Vote Part 15: Heavy Melees",
    "items": 3,
+   "ended": false
+  },
+  "2JHGKG": {
+   "msg": "1542234821110005811",
+   "end": 1787853602,
+   "title": "Some raffler Raffler\u2122 names I have misread",
+   "items": 15,
    "ended": false
   }
  },
