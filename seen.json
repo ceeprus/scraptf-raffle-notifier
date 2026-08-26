@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "I5ZNJX": {
-   "msg": "1539094073829359626",
-   "end": 1787104862,
-   "title": "found my first australium in mvm",
-   "items": 40,
-   "ended": true
-  },
   "C7QCNA": {
    "msg": "1539099189412368536",
    "end": 1787106302,
@@ -6991,7 +6984,7 @@
    "end": 1787710022,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "36KHP7": {
    "msg": "1541631577858117723",
@@ -7012,7 +7005,7 @@
    "end": 1787710681,
    "title": "Caf\u00e9 Crit-A-Coffee #1766",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "XN5K8R": {
    "msg": "1541649431793770576",
@@ -7691,7 +7684,7 @@
    "end": 1787710321,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SABTQB": {
    "msg": "1541814620291858463",
