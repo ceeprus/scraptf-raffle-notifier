@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "Q8ZD1M": {
-   "msg": "1539419500783607881",
-   "end": 1787182682,
-   "title": "red bullsquid",
-   "items": 1,
-   "ended": true
-  },
   "S29C0B": {
    "msg": "1539431380063359106",
    "end": 1787184961,
@@ -8278,6 +8271,13 @@
    "msg": "1542315389675901039",
    "end": 1787871600,
    "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "77KAKX": {
+   "msg": "1542320887142031491",
+   "end": 1787874182,
+   "title": "Funny unclaimed noise",
    "items": 1,
    "ended": false
   }
