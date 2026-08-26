@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "X2YHOC": {
-   "msg": "1539158746603716688",
-   "end": 1787119441,
-   "title": "YOU can ask everything about ME #666 [\ud801\udd63]",
-   "items": 1,
-   "ended": true
-  },
   "RH1QNU": {
    "msg": "1539167178811514970",
    "end": 1787122261,
@@ -6984,7 +6977,7 @@
    "end": 1787725442,
    "title": "hey guys guess what",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "F775TO": {
    "msg": "1541703889919680594",
@@ -8326,6 +8319,20 @@
   "8UAMEM": {
    "msg": "1542043595165536286",
    "end": 1787808181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FY6Q10": {
+   "msg": "1542058698233487433",
+   "end": 1787811181,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "HCQWMT": {
+   "msg": "1542058704113901620",
+   "end": 1787810761,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
