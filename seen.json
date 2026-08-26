@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "BCACN8": {
-   "msg": "1539355873242251405",
-   "end": 1787167141,
-   "title": "i got my dream hat",
-   "items": 1,
-   "ended": true
-  },
-  "L0JL2P": {
-   "msg": "1539355880921763932",
-   "end": 1787167022,
-   "title": "dreams and hats.",
-   "items": 3,
-   "ended": true
-  },
-  "BA39VE": {
-   "msg": "1539355888756854784",
-   "end": 1787166961,
-   "title": "I dreamt about my gotten hat.",
-   "items": 12,
-   "ended": true
-  },
   "KFVHNC": {
    "msg": "1539359947308142754",
    "end": 1787167861,
@@ -7369,28 +7348,28 @@
    "end": 1787772181,
    "title": "Cars i made. Which One Is the best?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "M4FQ7S": {
    "msg": "1541892609382027274",
    "end": 1787772001,
    "title": "inv clear again",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "MIKVAT": {
    "msg": "1541892616176664616",
    "end": 1787771700,
    "title": "Snowfall Soundtrack #30",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "S0Z93J": {
    "msg": "1541892624313745500",
    "end": 1787771041,
    "title": "Raffling a  every time I win a  #82",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "7YRH09": {
    "msg": "1541898289018966117",
@@ -8285,6 +8264,27 @@
    "msg": "1542247513350869183",
    "end": 1787855401,
    "title": "raffle",
+   "items": 1,
+   "ended": false
+  },
+  "K4C85R": {
+   "msg": "1542255006151872592",
+   "end": 1787858462,
+   "title": "Daily Brass Beast #550",
+   "items": 1,
+   "ended": false
+  },
+  "F7MWQO": {
+   "msg": "1542255013810802698",
+   "end": 1787858100,
+   "title": "Profiles of The Day #132",
+   "items": 2,
+   "ended": false
+  },
+  "RZE1VF": {
+   "msg": "1542255020651581472",
+   "end": 1787857201,
+   "title": "AI",
    "items": 1,
    "ended": false
   }
