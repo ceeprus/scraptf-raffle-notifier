@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "RHBURO": {
-   "msg": "1539287604254744636",
-   "end": 1787150941,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "CIPGER": {
-   "msg": "1539287610311180409",
-   "end": 1787150281,
-   "title": "yeppie yay, 10 years on scrap.tf",
-   "items": 3,
-   "ended": true
-  },
-  "ZMJWP9": {
-   "msg": "1539287983273025617",
-   "end": 1787151062,
-   "title": "Daily raffle #349",
-   "items": 1,
-   "ended": true
-  },
   "4JYW5X": {
    "msg": "1539295486186356736",
    "end": 1787152381,
@@ -7390,7 +7369,7 @@
    "end": 1787755321,
    "title": "I Drew Ts 25",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q86I9O": {
    "msg": "1541824730359660628",
@@ -7432,7 +7411,7 @@
    "end": 1787756400,
    "title": "You're listening to SPICE FM (49)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "C1WGYP": {
    "msg": "1541832216105975849",
@@ -8356,6 +8335,34 @@
    "end": 1787839861,
    "title": "Does the schooling system do enough to encourage students to give things a go, accept potential failures and mistakes without judgement from fellow peers and staff members?",
    "items": 1,
+   "ended": false
+  },
+  "MRQGD1": {
+   "msg": "1542187126890831913",
+   "end": 1787842800,
+   "title": "You're listening to SPICE FM (50)",
+   "items": 6,
+   "ended": false
+  },
+  "YWBCRE": {
+   "msg": "1542187135694799010",
+   "end": 1787842681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "QBV6TR": {
+   "msg": "1542187145928638574",
+   "end": 1787842321,
+   "title": "Ja-Orange!",
+   "items": 1,
+   "ended": false
+  },
+  "SOOFOL": {
+   "msg": "1542187153730306169",
+   "end": 1787776381,
+   "title": "Happy Scrappy?",
+   "items": 6,
    "ended": false
   }
  },
