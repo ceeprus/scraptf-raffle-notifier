@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CC8KRQ": {
-   "msg": "1539280397828100288",
-   "end": 1787149562,
-   "title": "stu   ff",
-   "items": 10,
-   "ended": true
-  },
-  "1TP4IK": {
-   "msg": "1539280404274479184",
-   "end": 1787149322,
-   "title": "Thinking about playing my first ToD",
-   "items": 1,
-   "ended": true
-  },
-  "WHJSUK": {
-   "msg": "1539280410876448848",
-   "end": 1787148121,
-   "title": "Bright shinning.",
-   "items": 1,
-   "ended": true
-  },
   "RHBURO": {
    "msg": "1539287604254744636",
    "end": 1787150941,
@@ -564,13 +543,6 @@
    "msg": "1539457206905339916",
    "end": 1787191561,
    "title": "migrane",
-   "items": 1,
-   "ended": true
-  },
-  "1M5ONZ": {
-   "msg": "1539461564246269982",
-   "end": 1787149800,
-   "title": "Tune of the day #312",
    "items": 1,
    "ended": true
   },
@@ -7390,28 +7362,28 @@
    "end": 1787753041,
    "title": "Greed.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "APN36V": {
    "msg": "1541817121166856202",
    "end": 1787754241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UIQP0B": {
    "msg": "1541817126984228975",
    "end": 1787754182,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5DQVOJ": {
    "msg": "1541817133766414457",
    "end": 1787754001,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UDRFZY": {
    "msg": "1541824707924598905",
@@ -7432,14 +7404,14 @@
    "end": 1787754542,
    "title": "What is your favorite war paint?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "19FJCZ": {
    "msg": "1541824747350925415",
    "end": 1787754361,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OET19J": {
    "msg": "1541827511070101644",
@@ -8376,6 +8348,13 @@
    "msg": "1542172000666001521",
    "end": 1787838601,
    "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "U9TA7C": {
+   "msg": "1542179504817049710",
+   "end": 1787839861,
+   "title": "Does the schooling system do enough to encourage students to give things a go, accept potential failures and mistakes without judgement from fellow peers and staff members?",
    "items": 1,
    "ended": false
   }
