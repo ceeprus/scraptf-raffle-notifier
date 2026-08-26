@@ -7684,7 +7684,7 @@
    "end": 1787707742,
    "title": "HERE I COME, SAN FRANCISCO!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZWUNSR": {
    "msg": "1541809637869748316",
@@ -8293,6 +8293,20 @@
    "end": 1787791261,
    "title": "Kiestu crafting ALL the weapons #7",
    "items": 1,
+   "ended": false
+  },
+  "N568B5": {
+   "msg": "1541983181333332038",
+   "end": 1787793602,
+   "title": "More tours, more fabricators",
+   "items": 20,
+   "ended": false
+  },
+  "IYUTW2": {
+   "msg": "1541983189449441280",
+   "end": 1787792400,
+   "title": "Reminder to eat n' drink water if ye haven't yet #275",
+   "items": 5,
    "ended": false
   }
  },
