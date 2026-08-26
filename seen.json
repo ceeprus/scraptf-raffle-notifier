@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YZCGRD": {
-   "msg": "1539316845599924296",
-   "end": 1787157841,
-   "title": "I got a leather jacket the other day and it's pretty sweet!",
-   "items": 21,
-   "ended": true
-  },
-  "71ZFTN": {
-   "msg": "1539316863740153879",
-   "end": 1787157302,
-   "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "RD3LV3": {
-   "msg": "1539316871411794062",
-   "end": 1787157242,
-   "title": "They got their dream hat.",
-   "items": 1,
-   "ended": true
-  },
   "DFBJO6": {
    "msg": "1539322923112857670",
    "end": 1787159701,
@@ -151,13 +130,6 @@
    "msg": "1539322950673506334",
    "end": 1787159161,
    "title": "i got my dream hat.",
-   "items": 1,
-   "ended": true
-  },
-  "RK76TP": {
-   "msg": "1539322956105130185",
-   "end": 1787158682,
-   "title": "I think I got my dream hat.",
    "items": 1,
    "ended": true
   },
@@ -7390,49 +7362,49 @@
    "end": 1787763600,
    "title": "Daily raffle until TF2 gets a major update #602",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "VPBL8F": {
    "msg": "1541854925229924474",
    "end": 1787762581,
    "title": "Bread\ud83c\udf5e bread bread bread",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "T1S0VE": {
    "msg": "1541854933907677235",
    "end": 1787762462,
    "title": "I Drew Ts 25 pt 2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3YOTAY": {
    "msg": "1541854941356883968",
    "end": 1787762342,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ODNWI7": {
    "msg": "1541854948856438815",
    "end": 1787762221,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3WMWL9": {
    "msg": "1541854954376138783",
    "end": 1787762101,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R2XLBE": {
    "msg": "1541854961149681694",
    "end": 1787761921,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FDV78T": {
    "msg": "1541862393012027444",
@@ -8313,6 +8285,27 @@
    "msg": "1542209680523399198",
    "end": 1787847661,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SPKFIT": {
+   "msg": "1542217294116028436",
+   "end": 1787848981,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LVOI2V": {
+   "msg": "1542217301536014458",
+   "end": 1787804762,
+   "title": "Unclaimed Item",
+   "items": 1,
+   "ended": false
+  },
+  "0WEZAN": {
+   "msg": "1542217307949113375",
+   "end": 1787847841,
+   "title": "Scrap.tf Birthdays - 26 August",
    "items": 1,
    "ended": false
   }
