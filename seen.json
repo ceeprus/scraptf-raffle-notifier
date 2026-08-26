@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9M2WVN": {
-   "msg": "1539235084991856651",
-   "end": 1787137861,
-   "title": "Daily Brass Beast #542",
-   "items": 1,
-   "ended": true
-  },
   "KGJUIK": {
    "msg": "1539239372270870660",
    "end": 1787139182,
@@ -7222,7 +7215,7 @@
    "end": 1787742181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6SDP3N": {
    "msg": "1541768783989837824",
@@ -7992,7 +7985,7 @@
    "end": 1787743081,
    "title": "Saw the fifth spy frag on yt today",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "GNE7ZH": {
    "msg": "1541971697555603486",
@@ -8341,6 +8334,13 @@
    "msg": "1542117804231364618",
    "end": 1787824981,
    "title": "gift of the day #8",
+   "items": 1,
+   "ended": false
+  },
+  "YVM8Q3": {
+   "msg": "1542134191389548556",
+   "end": 1787828400,
+   "title": "...it could be considered.",
    "items": 1,
    "ended": false
   }
