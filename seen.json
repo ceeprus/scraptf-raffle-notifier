@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "0NKKZD": {
-   "msg": "1539491791311605921",
-   "end": 1787198822,
-   "title": "Go My Noiselings",
-   "items": 3,
-   "ended": true
-  },
   "9DY9IM": {
    "msg": "1539506879196176385",
    "end": 1787203022,
@@ -481,13 +474,6 @@
    "end": 1787241600,
    "title": "Scrap.tf Birthdays - 19 August",
    "items": 5,
-   "ended": true
-  },
-  "0MSYO8": {
-   "msg": "1539672975249244300",
-   "end": 1787199841,
-   "title": "Something to get more antlers with",
-   "items": 6,
    "ended": true
   },
   "HKQ815": {
@@ -7502,7 +7488,7 @@
    "end": 1787804821,
    "title": "Why do people hate F2Ps?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "EXNUJC": {
    "msg": "1542028496920903820",
@@ -7894,7 +7880,7 @@
    "end": 1787804762,
    "title": "Unclaimed Item",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0WEZAN": {
    "msg": "1542217307949113375",
@@ -8236,6 +8222,27 @@
    "msg": "1542383366370893864",
    "end": 1787888881,
    "title": "Back to school.....",
+   "items": 1,
+   "ended": false
+  },
+  "WQRIN0": {
+   "msg": "1542390882874163230",
+   "end": 1787890981,
+   "title": "Bot Verification...",
+   "items": 2,
+   "ended": false
+  },
+  "BGYJ1T": {
+   "msg": "1542390893028573214",
+   "end": 1787889481,
+   "title": "Caf\u00e9 Crit-A-Coffee #1768",
+   "items": 10,
+   "ended": false
+  },
+  "QNYF6K": {
+   "msg": "1542390900058226731",
+   "end": 1787889361,
+   "title": "Locked & Loaded",
    "items": 1,
    "ended": false
   }
