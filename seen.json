@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "MCRK73": {
-   "msg": "1539685128534761492",
-   "end": 1787245442,
-   "title": "Jesus Christ can save you",
-   "items": 10,
-   "ended": true
-  },
-  "NH7PDF": {
-   "msg": "1539685136608661565",
-   "end": 1787245321,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
   "WTRVZ3": {
    "msg": "1539688080611606528",
    "end": 1787246642,
@@ -8258,6 +8244,13 @@
    "end": 1787934362,
    "title": "Last 3 matches played, there was a cheater.",
    "items": 1,
+   "ended": false
+  },
+  "5MJW2S": {
+   "msg": "1542581632505090100",
+   "end": 1787936641,
+   "title": "3 days...",
+   "items": 2,
    "ended": false
   }
  },
