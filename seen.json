@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "7R6JEQ": {
-   "msg": "1539565674450518097",
-   "end": 1787217361,
-   "title": "Jesus Christ loves you",
-   "items": 22,
-   "ended": true
-  },
-  "FNR5K0": {
-   "msg": "1539565681610199040",
-   "end": 1787217001,
-   "title": "SRY for not much i hope to do more l8ter",
-   "items": 1,
-   "ended": true
-  },
-  "MK131H": {
-   "msg": "1539567277534351420",
-   "end": 1787217722,
-   "title": "i got my slugma.",
-   "items": 1,
-   "ended": true
-  },
-  "2Q5G63": {
-   "msg": "1539567286887915561",
-   "end": 1787217482,
-   "title": "You're crazy.",
-   "items": 2,
-   "ended": true
-  },
   "7EYA3Q": {
    "msg": "1539574855895093282",
    "end": 1787219821,
@@ -7495,7 +7467,7 @@
    "end": 1787822881,
    "title": "Waffle maker",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "JYUVMY": {
    "msg": "1542111587924451369",
@@ -7523,7 +7495,7 @@
    "end": 1787823002,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DPWC6G": {
    "msg": "1542117797688250399",
@@ -8272,6 +8244,27 @@
    "end": 1787905802,
    "title": "I am new on public Raffles but I just Wana join to this community",
    "items": 5,
+   "ended": false
+  },
+  "5ZMVOJ": {
+   "msg": "1542466386679562260",
+   "end": 1787824081,
+   "title": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043b\u043e\u0442 \u043f\u043e\u043b\u0435\u0442\u0435\u043b",
+   "items": 27,
+   "ended": false
+  },
+  "JL64UZ": {
+   "msg": "1542466395155996712",
+   "end": 1787908201,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #12",
+   "items": 1,
+   "ended": false
+  },
+  "DDDNXW": {
+   "msg": "1542466403796258856",
+   "end": 1787908082,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #11",
+   "items": 1,
    "ended": false
   }
  },
