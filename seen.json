@@ -105,39 +105,11 @@
    "items": 1,
    "ended": false
   },
-  "ADU57Z": {
-   "msg": "1539665488370598009",
-   "end": 1787241121,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1510 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 19,
-   "ended": true
-  },
-  "4GSHJL": {
-   "msg": "1539665497090556037",
-   "end": 1787240761,
-   "title": "Starchion`s Art #21 [CHROMAKOPIA+] + Special edition",
-   "items": 1,
-   "ended": true
-  },
-  "QYDEOV": {
-   "msg": "1539665510743015524",
-   "end": 1787240101,
-   "title": "IT\u2019S BUGS, BRO",
-   "items": 2,
-   "ended": true
-  },
   "XWVYOS": {
    "msg": "1539670389037338667",
    "end": 1787242021,
    "title": "one day",
    "items": 1,
-   "ended": true
-  },
-  "KPNZET": {
-   "msg": "1539670398306750624",
-   "end": 1787241600,
-   "title": "Scrap.tf Birthdays - 19 August",
-   "items": 5,
    "ended": true
   },
   "HKQ815": {
@@ -7453,7 +7425,7 @@
    "end": 1787844721,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FA44TJ": {
    "msg": "1542202221859446907",
@@ -8292,6 +8264,13 @@
    "msg": "1542557014373175360",
    "end": 1787928781,
    "title": "Whay do we think of neon white",
+   "items": 1,
+   "ended": false
+  },
+  "6DBCW7": {
+   "msg": "1542564590297288784",
+   "end": 1787931000,
+   "title": "MK Poll #11 + The Favorites of Music #289 & #290",
    "items": 1,
    "ended": false
   }
