@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "YFUXC9": {
-   "msg": "1539476682967089244",
-   "end": 1787196061,
-   "title": "Source of Sadness",
-   "items": 3,
-   "ended": true
-  },
   "L8PO07": {
    "msg": "1539484263840219263",
    "end": 1787197441,
@@ -7481,14 +7474,14 @@
    "end": 1787801041,
    "title": "Day 16 of asking for Slugma Chain emoticon",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "YOSL9L": {
    "msg": "1542013400245207192",
    "end": 1787800800,
    "title": "Living Without Choice",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SZBWT3": {
    "msg": "1542013408671440926",
@@ -7509,14 +7502,14 @@
    "end": 1787801402,
    "title": "Hey Hey Hey! Be a dear and take this from me!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "TRSDU0": {
    "msg": "1542021003066998884",
    "end": 1787801221,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YHDJX3": {
    "msg": "1542028489127886858",
