@@ -105,13 +105,6 @@
    "items": 1,
    "ended": true
   },
-  "UJW5YR": {
-   "msg": "1539587911131996180",
-   "end": 1787221441,
-   "title": "DON'T TELL HER ANYTHING",
-   "items": 1,
-   "ended": true
-  },
   "FGAWQW": {
    "msg": "1539593984354156675",
    "end": 1787224261,
@@ -7481,14 +7474,14 @@
    "end": 1787825701,
    "title": "Hello again, everyone.",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "CH8LNX": {
    "msg": "1542117804231364618",
    "end": 1787824981,
    "title": "gift of the day #8",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YVM8Q3": {
    "msg": "1542134191389548556",
@@ -8243,6 +8236,13 @@
    "msg": "1542466403796258856",
    "end": 1787908082,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #11",
+   "items": 1,
+   "ended": false
+  },
+  "8OMEX7": {
+   "msg": "1542481485888487474",
+   "end": 1787911200,
+   "title": "Gifted Righteous Bison #5",
    "items": 1,
    "ended": false
   }
