@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "WLUPOT": {
-   "msg": "1539678820330905682",
-   "end": 1787244241,
-   "title": "Most Joyous Friday To You",
-   "items": 1,
-   "ended": true
-  },
   "MCRK73": {
    "msg": "1539685128534761492",
    "end": 1787245442,
@@ -124,13 +117,6 @@
    "end": 1787245321,
    "title": "raffle",
    "items": 4,
-   "ended": true
-  },
-  "YWAD8R": {
-   "msg": "1539685142631546910",
-   "end": 1787245200,
-   "title": "Daily raffle until TF2 gets a major update #596",
-   "items": 3,
    "ended": true
   },
   "WTRVZ3": {
@@ -7439,7 +7425,7 @@
    "end": 1787848981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LVOI2V": {
    "msg": "1542217301536014458",
@@ -7474,7 +7460,7 @@
    "end": 1787849941,
    "title": "We definitely need more medic main! \u211656",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "MQROFO": {
    "msg": "1542232405438369824",
@@ -7817,7 +7803,7 @@
    "end": 1787849582,
    "title": "The Giftapults of Giving",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "33VZBX": {
    "msg": "1542398475071791154",
@@ -8258,6 +8244,20 @@
    "end": 1787933401,
    "title": "Random items",
    "items": 6,
+   "ended": false
+  },
+  "HRNR9X": {
+   "msg": "1542579681059147838",
+   "end": 1787935741,
+   "title": "KS kritzkreig",
+   "items": 1,
+   "ended": false
+  },
+  "ZFM97R": {
+   "msg": "1542579693608501329",
+   "end": 1787934362,
+   "title": "Last 3 matches played, there was a cheater.",
+   "items": 1,
    "ended": false
   }
  },
