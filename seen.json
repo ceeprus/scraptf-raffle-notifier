@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "OF8QM1": {
-   "msg": "1539587902395261068",
-   "end": 1787222702,
-   "title": "I GOT MY DREAM HAT (REAL)",
-   "items": 1,
-   "ended": true
-  },
   "FGAWQW": {
    "msg": "1539593984354156675",
    "end": 1787224261,
@@ -117,27 +110,6 @@
    "end": 1787224021,
    "title": "Grabli304's raffle\u2503Day 171",
    "items": 2,
-   "ended": true
-  },
-  "Y5DFRA": {
-   "msg": "1539594005312970812",
-   "end": 1787223600,
-   "title": "Huh... is that how they vent?",
-   "items": 1,
-   "ended": true
-  },
-  "6N39G9": {
-   "msg": "1539594015064727612",
-   "end": 1787223270,
-   "title": "10 Year Scrapversary (also first raffle)",
-   "items": 290,
-   "ended": true
-  },
-  "5IY7SA": {
-   "msg": "1539594023088562229",
-   "end": 1787223241,
-   "title": "Raffle number 17!",
-   "items": 5,
    "ended": true
   },
   "05UIQA": {
@@ -7488,7 +7460,7 @@
    "end": 1787828400,
    "title": "...it could be considered.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PTW2J7": {
    "msg": "1542141787135811667",
@@ -8244,6 +8216,48 @@
    "end": 1787911200,
    "title": "Gifted Righteous Bison #5",
    "items": 1,
+   "ended": false
+  },
+  "MV67QA": {
+   "msg": "1542489070700339281",
+   "end": 1787914442,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #106 \ud83c\udf0a\ud83d\udc1f",
+   "items": 3,
+   "ended": false
+  },
+  "HR8HYY": {
+   "msg": "1542489077067153440",
+   "end": 1787914321,
+   "title": "First Raffle!! :)))) !!!!!! :)",
+   "items": 1,
+   "ended": false
+  },
+  "J9J4YM": {
+   "msg": "1542489083249696858",
+   "end": 1787914202,
+   "title": "no min",
+   "items": 5,
+   "ended": false
+  },
+  "GTP1DV": {
+   "msg": "1542489089654259784",
+   "end": 1787914141,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #105 \ud83c\udf0a\ud83d\udc1f",
+   "items": 3,
+   "ended": false
+  },
+  "Q6C4KJ": {
+   "msg": "1542489096927187015",
+   "end": 1787914082,
+   "title": "Daily Brass Beast #551",
+   "items": 1,
+   "ended": false
+  },
+  "2VS94T": {
+   "msg": "1542489105102012468",
+   "end": 1787914082,
+   "title": "Grabli304's raffle\u2503Day 179",
+   "items": 2,
    "ended": false
   }
  },
