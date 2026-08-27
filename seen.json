@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "PCW8JT": {
-   "msg": "1539718269475487755",
-   "end": 1787252941,
-   "title": "i got a weapon",
-   "items": 1,
-   "ended": true
-  },
   "1J0AD7": {
    "msg": "1539722405197385791",
    "end": 1787254862,
@@ -124,13 +117,6 @@
    "end": 1787254262,
    "title": "I'm maybe getting my indifference hat...",
    "items": 1,
-   "ended": true
-  },
-  "0YJX4F": {
-   "msg": "1539722418577477793",
-   "end": 1787253781,
-   "title": "COOKING",
-   "items": 2,
    "ended": true
   },
   "XBH2P6": {
@@ -376,20 +362,6 @@
    "end": 1787295600,
    "title": "[To F2P] Free stuff monthly raffle #8 / Rifa mensual de cosas gratis #8",
    "items": 20,
-   "ended": true
-  },
-  "W53CBU": {
-   "msg": "1539907052359520278",
-   "end": 1787253961,
-   "title": "I have a new hyperfixation",
-   "items": 5,
-   "ended": true
-  },
-  "RYO7C5": {
-   "msg": "1539907059837833247",
-   "end": 1787253846,
-   "title": "[Fallen Tributes/Night 17] Scrap tf HG",
-   "items": 1,
    "ended": true
   },
   "O8U6KT": {
@@ -7481,14 +7453,14 @@
    "end": 1787858462,
    "title": "Daily Brass Beast #550",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F7MWQO": {
    "msg": "1542255013810802698",
    "end": 1787858100,
    "title": "Profiles of The Day #132",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RZE1VF": {
    "msg": "1542255020651581472",
@@ -8334,6 +8306,20 @@
    "msg": "1542609882916724756",
    "end": 1787941800,
    "title": "Slop or Not",
+   "items": 2,
+   "ended": false
+  },
+  "5HVNSL": {
+   "msg": "1542617378062340228",
+   "end": 1787944321,
+   "title": "HELP ME CHOOSE",
+   "items": 2,
+   "ended": false
+  },
+  "HS0M35": {
+   "msg": "1542617387726016553",
+   "end": 1787944021,
+   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u043a\u0430\u0440\u0442\u044b | 2 (\u0418 \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u043c\u043d\u0435 \u043d\u0443\u0436\u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c..)",
    "items": 2,
    "ended": false
   }
