@@ -7460,14 +7460,14 @@
    "end": 1787867221,
    "title": "Kiestu crafting ALL the weapons #8",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4147L6": {
    "msg": "1542292782645772349",
    "end": 1787866981,
    "title": "\"Wh- what is your favorite block in Minecraft?\"",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "CKR25J": {
    "msg": "1542292792892461148",
@@ -8229,6 +8229,34 @@
    "msg": "1542647559837978724",
    "end": 1787950921,
    "title": "Who is your favourite flower from Deltarune?",
+   "items": 1,
+   "ended": false
+  },
+  "ZCAX2H": {
+   "msg": "1542655164828094646",
+   "end": 1787953441,
+   "title": "\u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0433\u043e\u0432\u0430\u0440\u044e \u0441\u043f\u0430\u0441\u0438\u0431\u043e",
+   "items": 1,
+   "ended": false
+  },
+  "CX3MTG": {
+   "msg": "1542655172692549703",
+   "end": 1787953322,
+   "title": "\u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0433\u043e\u0432\u0430\u0440\u044e \u0441\u043f\u0430\u0441\u0438\u0431\u043e",
+   "items": 1,
+   "ended": false
+  },
+  "5JIMJT": {
+   "msg": "1542655183388151840",
+   "end": 1787888341,
+   "title": "Take MY item",
+   "items": 1,
+   "ended": false
+  },
+  "5B2BIE": {
+   "msg": "1542655190828720138",
+   "end": 1787952421,
+   "title": "If you have a yes then you have a yes",
    "items": 1,
    "ended": false
   }
