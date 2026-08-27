@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "CZLAWP": {
-   "msg": "1539514446735482920",
-   "end": 1787205002,
-   "title": "9th Scrappy.",
-   "items": 5,
-   "ended": true
-  },
-  "4MF1HD": {
-   "msg": "1539514453811404832",
-   "end": 1787204641,
-   "title": "Slugma art",
-   "items": 10,
-   "ended": true
-  },
   "ZKYAWP": {
    "msg": "1539521348483678208",
    "end": 1787206802,
@@ -8265,6 +8251,13 @@
    "end": 1787893561,
    "title": "I'm grabli304 and I'm evil",
    "items": 2,
+   "ended": false
+  },
+  "CRSELJ": {
+   "msg": "1542412097781235752",
+   "end": 1787895483,
+   "title": "Key giveway + consolation prize [ F2P / POOR PLAYERS PLEASE ]",
+   "items": 21,
    "ended": false
   }
  },
