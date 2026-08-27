@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "SMTKAF": {
-   "msg": "1539552196239298660",
-   "end": 1787213941,
-   "title": "You got your dream hat?",
-   "items": 1,
-   "ended": true
-  },
-  "NAF0EF": {
-   "msg": "1539552202564177981",
-   "end": 1787213762,
-   "title": "pmzn6",
-   "items": 50,
-   "ended": true
-  },
-  "N0Y4ET": {
-   "msg": "1539552209337851916",
-   "end": 1787213522,
-   "title": "I got my nightmare hat",
-   "items": 1,
-   "ended": true
-  },
-  "ZPDL5I": {
-   "msg": "1539555125683691581",
-   "end": 1787214601,
-   "title": "I got my nightmare Noise Maker",
-   "items": 1,
-   "ended": true
-  },
   "6QLBL8": {
    "msg": "1539559781004480572",
    "end": 1787215381,
@@ -550,13 +522,6 @@
    "msg": "1539729965267034152",
    "end": 1787255762,
    "title": "I just got my dream taunt and jungle pass",
-   "items": 1,
-   "ended": true
-  },
-  "ACIDQJ": {
-   "msg": "1539733362842013787",
-   "end": 1787213762,
-   "title": "I received a hat that I hate (Raffle #2",
    "items": 1,
    "ended": true
   },
@@ -7509,28 +7474,28 @@
    "end": 1787818862,
    "title": "John Walten Files",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "CVBLBW": {
    "msg": "1542088901554868295",
    "end": 1787818561,
    "title": "The tipping situation is insane",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TP4TO5": {
    "msg": "1542088910677606472",
    "end": 1787818321,
    "title": "Obtainable, unobtainable items",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "60IJPV": {
    "msg": "1542088917808058390",
    "end": 1787817661,
    "title": "Daily  supply",
    "items": 171,
-   "ended": false
+   "ended": true
   },
   "B6MLOJ": {
    "msg": "1542096479827791953",
@@ -7544,7 +7509,7 @@
    "end": 1787819341,
    "title": "I was born to run and party like it was 1999",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P6RQWO": {
    "msg": "1542103998352465941",
@@ -8258,6 +8223,20 @@
    "end": 1787900222,
    "title": "Day 17 of asking for Slugma Chain emoticon",
    "items": 20,
+   "ended": false
+  },
+  "I6QKMT": {
+   "msg": "1542451285993853029",
+   "end": 1787905562,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #104 \ud83c\udf0a\ud83d\udc1f",
+   "items": 10,
+   "ended": false
+  },
+  "XKPLDB": {
+   "msg": "1542451294919462913",
+   "end": 1787903942,
+   "title": "Hello There",
+   "items": 12,
    "ended": false
   }
  },
