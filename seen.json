@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "ZKYAWP": {
-   "msg": "1539521348483678208",
-   "end": 1787206802,
-   "title": "All clear",
-   "items": 1,
-   "ended": true
-  },
-  "XTREIT": {
-   "msg": "1539529562940112926",
-   "end": 1787207162,
-   "title": "The pass it forward raffle! (#14)  I\u2019m back!",
-   "items": 4,
-   "ended": true
-  },
   "A8LJXV": {
    "msg": "1539534442610171994",
    "end": 1787209142,
@@ -7502,14 +7488,14 @@
    "end": 1787811181,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "HCQWMT": {
    "msg": "1542058704113901620",
    "end": 1787810761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6NRCU9": {
    "msg": "1542073793525194832",
@@ -8251,6 +8237,27 @@
    "end": 1787895483,
    "title": "Key giveway + consolation prize [ F2P / POOR PLAYERS PLEASE ]",
    "items": 21,
+   "ended": false
+  },
+  "9BE7SN": {
+   "msg": "1542421070873763920",
+   "end": 1787898182,
+   "title": "Question",
+   "items": 1,
+   "ended": false
+  },
+  "8096VP": {
+   "msg": "1542421079073497118",
+   "end": 1787897521,
+   "title": "Random Street View of the day #3",
+   "items": 1,
+   "ended": false
+  },
+  "N5N0BP": {
+   "msg": "1542421091115466782",
+   "end": 1787897282,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
