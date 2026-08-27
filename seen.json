@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "2ZN57L": {
-   "msg": "1539650113821999154",
-   "end": 1787237042,
-   "title": "i got my hat in a dream",
-   "items": 1,
-   "ended": true
-  },
-  "P3RZHF": {
-   "msg": "1539650126287605912",
-   "end": 1787236802,
-   "title": "Got my first Australium drop from MVM at Tour No.104",
-   "items": 7,
-   "ended": true
-  },
-  "A7DUXR": {
-   "msg": "1539650134172893204",
-   "end": 1787236681,
-   "title": "i got my dream bat",
-   "items": 1,
-   "ended": true
-  },
   "D5QPU8": {
    "msg": "1539657909124997231",
    "end": 1787238601,
@@ -137,13 +116,6 @@
    "msg": "1539657923897073775",
    "end": 1787238181,
    "title": "1k raffles entered",
-   "items": 1,
-   "ended": true
-  },
-  "25L8KW": {
-   "msg": "1539657930792640682",
-   "end": 1787238002,
-   "title": "If going out of your way to ruin other people's happiness or things that they enjoy just to troll and get your kicks and that is your life's philosophy, then shame on you!",
    "items": 1,
    "ended": true
   },
@@ -7488,21 +7460,21 @@
    "end": 1787842800,
    "title": "You're listening to SPICE FM (50)",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "YWBCRE": {
    "msg": "1542187135694799010",
    "end": 1787842681,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QBV6TR": {
    "msg": "1542187145928638574",
    "end": 1787842321,
    "title": "Ja-Orange!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SOOFOL": {
    "msg": "1542187153730306169",
@@ -8328,6 +8300,13 @@
    "end": 1787925600,
    "title": "Untitled raffle",
    "items": 10,
+   "ended": false
+  },
+  "4BDNAV": {
+   "msg": "1542549491268460545",
+   "end": 1787927701,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
