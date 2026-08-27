@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "MJ51E2": {
-   "msg": "1539469161074393088",
-   "end": 1787193661,
-   "title": "Hale's Own Trials: Persian Persuader: Day 8",
-   "items": 1,
-   "ended": true
-  },
   "YFUXC9": {
    "msg": "1539476682967089244",
    "end": 1787196061,
@@ -413,13 +406,6 @@
    "items": 1,
    "ended": true
   },
-  "F0MQKV": {
-   "msg": "1539650120264458260",
-   "end": 1787193722,
-   "title": "i got antlers lvl 69 im im im im im im dream hat",
-   "items": 1,
-   "ended": true
-  },
   "P3RZHF": {
    "msg": "1539650126287605912",
    "end": 1787236802,
@@ -459,13 +445,6 @@
    "msg": "1539657930792640682",
    "end": 1787238002,
    "title": "If going out of your way to ruin other people's happiness or things that they enjoy just to troll and get your kicks and that is your life's philosophy, then shame on you!",
-   "items": 1,
-   "ended": true
-  },
-  "FRK9A9": {
-   "msg": "1539657939151753328",
-   "end": 1787194800,
-   "title": "Tune of the day #313",
    "items": 1,
    "ended": true
   },
@@ -7453,35 +7432,35 @@
    "end": 1787799241,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0L74NV": {
    "msg": "1542005895246905455",
    "end": 1787799121,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PRNPRR": {
    "msg": "1542005901496422400",
    "end": 1787799002,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "74DC5O": {
    "msg": "1542005907074846801",
    "end": 1787798461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AR0AQH": {
    "msg": "1542005914943623239",
    "end": 1787797861,
    "title": "Sliggidy Slugman??? #20",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B7UYVI": {
    "msg": "1542005922799558708",
@@ -7516,7 +7495,7 @@
    "end": 1787799481,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DEM73A": {
    "msg": "1542020987921502248",
