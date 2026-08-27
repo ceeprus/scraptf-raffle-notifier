@@ -105,46 +105,11 @@
    "items": 1,
    "ended": false
   },
-  "XWVYOS": {
-   "msg": "1539670389037338667",
-   "end": 1787242021,
-   "title": "one day",
-   "items": 1,
-   "ended": true
-  },
-  "HKQ815": {
-   "msg": "1539672982480355462",
-   "end": 1787242741,
-   "title": "My first raffle",
-   "items": 1,
-   "ended": true
-  },
-  "9CKCID": {
-   "msg": "1539672989346431127",
-   "end": 1787242561,
-   "title": "#16",
-   "items": 4,
-   "ended": true
-  },
-  "CP8ZEG": {
-   "msg": "1539672996455784508",
-   "end": 1787242534,
-   "title": "(Don't lick) The Time Loop",
-   "items": 1,
-   "ended": true
-  },
   "WLUPOT": {
    "msg": "1539678820330905682",
    "end": 1787244241,
    "title": "Most Joyous Friday To You",
    "items": 1,
-   "ended": true
-  },
-  "H385O5": {
-   "msg": "1539678828555804755",
-   "end": 1787243402,
-   "title": "\ud83c\udf20",
-   "items": 3,
    "ended": true
   },
   "MCRK73": {
@@ -7467,7 +7432,7 @@
    "end": 1787847661,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SPKFIT": {
    "msg": "1542217294116028436",
@@ -7488,7 +7453,7 @@
    "end": 1787847841,
    "title": "Scrap.tf Birthdays - 26 August",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5HA3RZ": {
    "msg": "1542224794077102242",
@@ -8272,6 +8237,27 @@
    "end": 1787931000,
    "title": "MK Poll #11 + The Favorites of Music #289 & #290",
    "items": 1,
+   "ended": false
+  },
+  "I49UX7": {
+   "msg": "1542572086063792158",
+   "end": 1787934182,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6LWHOW": {
+   "msg": "1542572092904575108",
+   "end": 1787934061,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CJ7BB2": {
+   "msg": "1542572101225947199",
+   "end": 1787933401,
+   "title": "Random items",
+   "items": 6,
    "ended": false
   }
  },
