@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "B50P8J": {
-   "msg": "1539457206905339916",
-   "end": 1787191561,
-   "title": "migrane",
-   "items": 1,
-   "ended": true
-  },
   "MJ51E2": {
    "msg": "1539469161074393088",
    "end": 1787193661,
@@ -7495,14 +7488,14 @@
    "end": 1787797801,
    "title": "Day 74 of Asking for Mystery Raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y5S8JT": {
    "msg": "1542005932244869250",
    "end": 1787797561,
    "title": "Day 78 of Asking for a Follow Button",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PVCYSG": {
    "msg": "1542013393815339008",
@@ -8265,6 +8258,20 @@
    "end": 1787837221,
    "title": "Unclaimed",
    "items": 1,
+   "ended": false
+  },
+  "EWLWAY": {
+   "msg": "1542360680886313071",
+   "end": 1787883722,
+   "title": "The Best Place in the World",
+   "items": 1,
+   "ended": false
+  },
+  "RNPE2C": {
+   "msg": "1542360689883222076",
+   "end": 1787882582,
+   "title": "15000 entered",
+   "items": 10,
    "ended": false
   }
  },
