@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "KGZGZX": {
-   "msg": "1539627677936263288",
-   "end": 1787232481,
-   "title": "there is a group of people i hate on this site",
-   "items": 1,
-   "ended": true
-  },
-  "UU8L22": {
-   "msg": "1539627687939801088",
-   "end": 1787232421,
-   "title": "First Raffle",
-   "items": 10,
-   "ended": true
-  },
   "R2RHT5": {
    "msg": "1539642785274138645",
    "end": 1787234400,
@@ -7474,7 +7460,7 @@
    "end": 1787836381,
    "title": "question  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "154Y65": {
    "msg": "1542164402244030515",
@@ -7929,7 +7915,7 @@
    "end": 1787837221,
    "title": "Unclaimed",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EWLWAY": {
    "msg": "1542360680886313071",
@@ -8300,6 +8286,41 @@
    "end": 1787920441,
    "title": "frozen arrowhead",
    "items": 3,
+   "ended": false
+  },
+  "2SLRR5": {
+   "msg": "1542526788398223381",
+   "end": 1787923621,
+   "title": "I guess it's time for my lore.",
+   "items": 3,
+   "ended": false
+  },
+  "4XITTS": {
+   "msg": "1542526796422062163",
+   "end": 1787923021,
+   "title": "guide how to $\u00a9@m people",
+   "items": 3,
+   "ended": false
+  },
+  "N2V09S": {
+   "msg": "1542526802881282170",
+   "end": 1787922602,
+   "title": "\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "69RN24": {
+   "msg": "1542526810087227413",
+   "end": 1787922541,
+   "title": "\u30d5\u30c8\u30b9\u30c8",
+   "items": 2,
+   "ended": false
+  },
+  "13TWBV": {
+   "msg": "1542526816864960592",
+   "end": 1787922000,
+   "title": "Crashing a Train at 100 mph (160 km/h) for Science",
+   "items": 1,
    "ended": false
   }
  },
