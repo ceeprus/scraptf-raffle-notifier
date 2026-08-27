@@ -98,34 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "S29C0B": {
-   "msg": "1539431380063359106",
-   "end": 1787184961,
-   "title": "TAKE MY STUFF",
-   "items": 3,
-   "ended": true
-  },
-  "LIYR31": {
-   "msg": "1539431393292062891",
-   "end": 1787184301,
-   "title": "its a rainy day where i am",
-   "items": 1,
-   "ended": true
-  },
-  "5IPFMI": {
-   "msg": "1539431399617073162",
-   "end": 1787184062,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
-  "XB0P5V": {
-   "msg": "1539434493700734987",
-   "end": 1787185802,
-   "title": "Pok\u00e9Journey #2 - Let's Go Shiny Hunting and super lucky encounter",
-   "items": 3,
-   "ended": true
-  },
   "SYO95M": {
    "msg": "1539446475828887552",
    "end": 1787189222,
@@ -8285,6 +8257,27 @@
    "msg": "1542322997380259850",
    "end": 1787874301,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "A4I6L1": {
+   "msg": "1542330492412493847",
+   "end": 1787875861,
+   "title": "(k)night rider",
+   "items": 1,
+   "ended": false
+  },
+  "C8B4WO": {
+   "msg": "1542330499681222781",
+   "end": 1787875861,
+   "title": "Daily Hat #81",
+   "items": 1,
+   "ended": false
+  },
+  "AMLLXP": {
+   "msg": "1542330507201749012",
+   "end": 1787875681,
+   "title": "I'm better off alone anyway.  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
    "ended": false
   }
