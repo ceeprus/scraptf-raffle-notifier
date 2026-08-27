@@ -105,31 +105,10 @@
    "items": 1,
    "ended": false
   },
-  "WTRVZ3": {
-   "msg": "1539688080611606528",
-   "end": 1787246642,
-   "title": "I drew Ts 22",
-   "items": 1,
-   "ended": true
-  },
-  "VDL32T": {
-   "msg": "1539688090677809253",
-   "end": 1787246581,
-   "title": "Milk duel",
-   "items": 3,
-   "ended": true
-  },
   "502QK7": {
    "msg": "1539692354586411059",
    "end": 1787248021,
    "title": "i got my dream theater",
-   "items": 1,
-   "ended": true
-  },
-  "EWHA7M": {
-   "msg": "1539692361767190529",
-   "end": 1787246941,
-   "title": "Daily raffle #350",
    "items": 1,
    "ended": true
   },
@@ -7432,14 +7411,14 @@
    "end": 1787850962,
    "title": "raffle without reason",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "LO1OBH": {
    "msg": "1542224803249913896",
    "end": 1787850721,
    "title": "raffle",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "QNP9L8": {
    "msg": "1542224810359128214",
@@ -7474,7 +7453,7 @@
    "end": 1787851682,
    "title": "MvM Update Australium Vote Part 15: Heavy Melees",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "2JHGKG": {
    "msg": "1542234821110005811",
@@ -7803,7 +7782,7 @@
    "end": 1787851561,
    "title": "Raffling Scrap Till I'm Out #1016 (Late raffle)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZY1OFU": {
    "msg": "1542405977901633627",
@@ -8251,6 +8230,20 @@
    "end": 1787936641,
    "title": "3 days...",
    "items": 2,
+   "ended": false
+  },
+  "78E9MB": {
+   "msg": "1542587184907817084",
+   "end": 1787937301,
+   "title": "A force to be reckoned with",
+   "items": 2,
+   "ended": false
+  },
+  "CEMTXA": {
+   "msg": "1542587192407228537",
+   "end": 1787937190,
+   "title": "Daily raffle until TF2 gets a major update #604",
+   "items": 3,
    "ended": false
   }
  },
