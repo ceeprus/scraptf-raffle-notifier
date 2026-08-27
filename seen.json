@@ -504,13 +504,6 @@
    "items": 10,
    "ended": true
   },
-  "I0FR0X": {
-   "msg": "1539823962119479462",
-   "end": 1787236200,
-   "title": "Tune of the day #314",
-   "items": 1,
-   "ended": true
-  },
   "DC2HNY": {
    "msg": "1539823971707392070",
    "end": 1787278322,
@@ -7488,7 +7481,7 @@
    "end": 1787839861,
    "title": "Does the schooling system do enough to encourage students to give things a go, accept potential failures and mistakes without judgement from fellow peers and staff members?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MRQGD1": {
    "msg": "1542187126890831913",
@@ -8321,6 +8314,20 @@
    "end": 1787924639,
    "title": "So, chapter one is out",
    "items": 1,
+   "ended": false
+  },
+  "EAI59S": {
+   "msg": "1542541895438180425",
+   "end": 1787926381,
+   "title": "Team Graveyard: The Demoman",
+   "items": 1,
+   "ended": false
+  },
+  "YA6RDI": {
+   "msg": "1542541905894842468",
+   "end": 1787925600,
+   "title": "Untitled raffle",
+   "items": 10,
    "ended": false
   }
  },
