@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "XMEJL0": {
-   "msg": "1539703177690087474",
-   "end": 1787250302,
-   "title": "Needles are ouchie",
-   "items": 1,
-   "ended": true
-  },
   "PNSH6G": {
    "msg": "1539710639830868008",
    "end": 1787251202,
@@ -7453,7 +7446,7 @@
    "end": 1787854681,
    "title": "MvM Update Australium Vote Part 16: Engineer Primaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7IZB7C": {
    "msg": "1542247482296373268",
@@ -7488,7 +7481,7 @@
    "end": 1787855401,
    "title": "raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K4C85R": {
    "msg": "1542255006151872592",
@@ -8292,6 +8285,41 @@
    "msg": "1542594843400736813",
    "end": 1787938142,
    "title": "I'm going to sleep",
+   "items": 1,
+   "ended": false
+  },
+  "BN26QO": {
+   "msg": "1542602287095095306",
+   "end": 1787941441,
+   "title": "\ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "F3B2FY": {
+   "msg": "1542602301133291742",
+   "end": 1787941381,
+   "title": "First raffle!",
+   "items": 2,
+   "ended": false
+  },
+  "0P5GLM": {
+   "msg": "1542602307521482832",
+   "end": 1787897941,
+   "title": "\ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "FBOY2W": {
+   "msg": "1542602314873966783",
+   "end": 1787940661,
+   "title": "Just take it \u211618",
+   "items": 243,
+   "ended": false
+  },
+  "3RMM54": {
+   "msg": "1542602322096562306",
+   "end": 1787939941,
+   "title": "awawawawa",
    "items": 1,
    "ended": false
   }
