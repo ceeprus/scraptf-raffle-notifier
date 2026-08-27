@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "502QK7": {
-   "msg": "1539692354586411059",
-   "end": 1787248021,
-   "title": "i got my dream theater",
-   "items": 1,
-   "ended": true
-  },
   "XMEJL0": {
    "msg": "1539703177690087474",
    "end": 1787250302,
@@ -523,13 +516,6 @@
    "end": 1787312642,
    "title": "gift of the day #4",
    "items": 1,
-   "ended": true
-  },
-  "E5X3HZ": {
-   "msg": "1539964751227129957",
-   "end": 1787247061,
-   "title": "I accidentally overpayed a bid on an auction :(",
-   "items": 3,
    "ended": true
   },
   "NFEL0Z": {
@@ -7432,21 +7418,21 @@
    "end": 1787852761,
    "title": "What do i even put",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O7VLEP": {
    "msg": "1542232414900977795",
    "end": 1787852642,
    "title": "Poll update  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IVG5CT": {
    "msg": "1542232422064726177",
    "end": 1787852461,
    "title": "raffling till Im not poor #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HS0L2P": {
    "msg": "1542232433338884157",
@@ -7460,7 +7446,7 @@
    "end": 1787853602,
    "title": "Some raffler Raffler\u2122 names I have misread",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "XQDC84": {
    "msg": "1542239908196782121",
@@ -8244,6 +8230,69 @@
    "end": 1787937190,
    "title": "Daily raffle until TF2 gets a major update #604",
    "items": 3,
+   "ended": false
+  },
+  "AE8U68": {
+   "msg": "1542594772126929026",
+   "end": 1787896501,
+   "title": "Killstreaks for you? Perhaps",
+   "items": 8,
+   "ended": false
+  },
+  "S5JRSC": {
+   "msg": "1542594779345326172",
+   "end": 1787939641,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RKERT1": {
+   "msg": "1542594793983443097",
+   "end": 1787939101,
+   "title": "Something is coming in three days",
+   "items": 1,
+   "ended": false
+  },
+  "Y3CG4J": {
+   "msg": "1542594801063567420",
+   "end": 1787938801,
+   "title": "Scrap.tf Birthdays - 27 August",
+   "items": 6,
+   "ended": false
+  },
+  "KFATZT": {
+   "msg": "1542594812715470899",
+   "end": 1787938621,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RLPLPU": {
+   "msg": "1542594823033462795",
+   "end": 1787938502,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MKMCPN": {
+   "msg": "1542594830704844951",
+   "end": 1787938381,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "W44MVB": {
+   "msg": "1542594836950163476",
+   "end": 1787938201,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "89MDL9": {
+   "msg": "1542594843400736813",
+   "end": 1787938142,
+   "title": "I'm going to sleep",
+   "items": 1,
    "ended": false
   }
  },
