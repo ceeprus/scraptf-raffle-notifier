@@ -105,41 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "1J0AD7": {
-   "msg": "1539722405197385791",
-   "end": 1787254862,
-   "title": "Untitled raffle",
-   "items": 10,
-   "ended": true
-  },
-  "NRSCEC": {
-   "msg": "1539722412067782737",
-   "end": 1787254262,
-   "title": "I'm maybe getting my indifference hat...",
-   "items": 1,
-   "ended": true
-  },
-  "XBH2P6": {
-   "msg": "1539725868874600528",
-   "end": 1787255341,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "AZAV81": {
-   "msg": "1539729955515138149",
-   "end": 1787256000,
-   "title": "We need more Engineer Mains! | #009",
-   "items": 6,
-   "ended": true
-  },
-  "UE6DBO": {
-   "msg": "1539729965267034152",
-   "end": 1787255762,
-   "title": "I just got my dream taunt and jungle pass",
-   "items": 1,
-   "ended": true
-  },
   "ZE70G0": {
    "msg": "1539738638756356136",
    "end": 1787258521,
@@ -523,13 +488,6 @@
    "end": 1787320021,
    "title": "lazy slugma raffle",
    "items": 6,
-   "ended": true
-  },
-  "9XMPTM": {
-   "msg": "1539997701582749877",
-   "end": 1787254682,
-   "title": "TAKE MY STUFF",
-   "items": 4,
    "ended": true
   },
   "BAJ3KH": {
@@ -7474,21 +7432,21 @@
    "end": 1787860502,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1RPXJM": {
    "msg": "1542262585485688964",
    "end": 1787859541,
    "title": "They gave me back my noisemaker bro",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "XDX64F": {
    "msg": "1542262592645505115",
    "end": 1787859481,
    "title": "bunch of bullshet",
    "items": 19,
-   "ended": false
+   "ended": true
   },
   "YOSAHN": {
    "msg": "1542277687668641873",
@@ -8321,6 +8279,20 @@
    "end": 1787944021,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u043a\u0430\u0440\u0442\u044b | 2 (\u0418 \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u043c\u043d\u0435 \u043d\u0443\u0436\u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c..)",
    "items": 2,
+   "ended": false
+  },
+  "Q4HGPH": {
+   "msg": "1542624961867284613",
+   "end": 1787945581,
+   "title": "Thank you all for your support!",
+   "items": 1,
+   "ended": false
+  },
+  "GA4BAN": {
+   "msg": "1542624972995043428",
+   "end": 1787945402,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1518 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 27,
    "ended": false
   }
  },
