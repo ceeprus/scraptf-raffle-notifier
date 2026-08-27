@@ -119,13 +119,6 @@
    "items": 3,
    "ended": true
   },
-  "IPHXFF": {
-   "msg": "1539431408852795392",
-   "end": 1787184002,
-   "title": "Caf\u00e9 Crit-A-Coffee #1761",
-   "items": 10,
-   "ended": true
-  },
   "XB0P5V": {
    "msg": "1539434493700734987",
    "end": 1787185802,
@@ -8278,6 +8271,20 @@
    "msg": "1542320887142031491",
    "end": 1787874182,
    "title": "Funny unclaimed noise",
+   "items": 1,
+   "ended": false
+  },
+  "BTBROH": {
+   "msg": "1542322990119780412",
+   "end": 1787874721,
+   "title": "eye",
+   "items": 1,
+   "ended": false
+  },
+  "Y1WKOP": {
+   "msg": "1542322997380259850",
+   "end": 1787874301,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
