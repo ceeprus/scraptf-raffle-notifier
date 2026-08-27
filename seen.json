@@ -98,41 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "D5QPU8": {
-   "msg": "1539657909124997231",
-   "end": 1787238601,
-   "title": "\ud83e\udd73Its My Birthday:)\ud83e\udd73",
-   "items": 1,
-   "ended": true
-  },
-  "V9GJGH": {
-   "msg": "1539657917152886878",
-   "end": 1787238421,
-   "title": "\ud83c\udf0a\ud83d\udc1f   I LOVE",
-   "items": 2,
-   "ended": true
-  },
-  "7832HB": {
-   "msg": "1539657923897073775",
-   "end": 1787238181,
-   "title": "1k raffles entered",
-   "items": 1,
-   "ended": true
-  },
-  "WBDGBO": {
-   "msg": "1539658935643148418",
-   "end": 1787239800,
-   "title": "MK Poll #6 + The Favorites of Music #281 & #282",
-   "items": 1,
-   "ended": true
-  },
-  "JS8ZX2": {
-   "msg": "1539658942202773515",
-   "end": 1787239621,
-   "title": "Whats up with all the antlers being given away",
-   "items": 3,
-   "ended": true
-  },
   "GJW5ZC": {
    "msg": "1539658948578115715",
    "end": null,
@@ -481,13 +446,6 @@
    "end": 1787278322,
    "title": "Downsizing Duplicates",
    "items": 10,
-   "ended": true
-  },
-  "E39I57": {
-   "msg": "1539837053381120020",
-   "end": 1787239261,
-   "title": "Raffling Scrap Till I'm Out #1008-9 (Make up raffle)",
-   "items": 2,
    "ended": true
   },
   "EVRRT0": {
@@ -7502,35 +7460,35 @@
    "end": 1787844421,
    "title": "Raffle Name",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DDKQNE": {
    "msg": "1542202231732965426",
    "end": 1787843221,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "13LDO0": {
    "msg": "1542202238397841408",
    "end": 1787843161,
    "title": "Raffling a  every time I win a  #83",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UUPPWN": {
    "msg": "1542202244483522572",
    "end": 1787842981,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2VK7DI": {
    "msg": "1542202250905260032",
    "end": 1787842861,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BN3K04": {
    "msg": "1542209680523399198",
@@ -8306,6 +8264,34 @@
    "msg": "1542549491268460545",
    "end": 1787927701,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3YQCBB": {
+   "msg": "1542556992088973422",
+   "end": 1787864881,
+   "title": "This sandwich is only for Fredleys. This sandwich is only for real Fredleys, and there's a drink too.",
+   "items": 2,
+   "ended": false
+  },
+  "7WJQ0V": {
+   "msg": "1542556998372036688",
+   "end": 1787929200,
+   "title": "You're listening to SPICE FM (51)",
+   "items": 3,
+   "ended": false
+  },
+  "XUQQ7I": {
+   "msg": "1542557005774983179",
+   "end": 1787885761,
+   "title": "\u041c\u043d\u0435 \u0431\u043e\u043b\u0438\u0442 \u0433\u043e\u0440\u043b\u043e",
+   "items": 8,
+   "ended": false
+  },
+  "CHVEF2": {
+   "msg": "1542557014373175360",
+   "end": 1787928781,
+   "title": "Whay do we think of neon white",
    "items": 1,
    "ended": false
   }
