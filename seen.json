@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "PYCSAR": {
-   "msg": "1539611581300867092",
-   "end": 1787227200,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "K1PN7L": {
    "msg": "1539620195348381838",
    "end": 1787228881,
@@ -7439,7 +7432,7 @@
    "end": 1787830921,
    "title": "today i saw her for the first time this summer",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E42545": {
    "msg": "1542149289596428339",
@@ -7467,7 +7460,7 @@
    "end": 1787832000,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CT1P5Q": {
    "msg": "1542156891461914667",
@@ -8265,6 +8258,27 @@
    "end": 1787914621,
    "title": "i can't think of a title for this raffle 32",
    "items": 1,
+   "ended": false
+  },
+  "PWQJZD": {
+   "msg": "1542504172862177351",
+   "end": 1787917742,
+   "title": "Question #75",
+   "items": 1,
+   "ended": false
+  },
+  "GUQ6BD": {
+   "msg": "1542504179124404258",
+   "end": 1787916421,
+   "title": "gift of the day #9",
+   "items": 1,
+   "ended": false
+  },
+  "UAIOAJ": {
+   "msg": "1542504185956933684",
+   "end": 1787916302,
+   "title": "Heavy Bigfoot set, it my second Raffle",
+   "items": 3,
    "ended": false
   }
  },
