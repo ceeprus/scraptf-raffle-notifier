@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "L8PO07": {
-   "msg": "1539484263840219263",
-   "end": 1787197441,
-   "title": "something happend",
-   "items": 1,
-   "ended": true
-  },
-  "WI0KZ7": {
-   "msg": "1539484272325435402",
-   "end": 1787197441,
-   "title": "You've got mail!",
-   "items": 8,
-   "ended": true
-  },
   "0NKKZD": {
    "msg": "1539491791311605921",
    "end": 1787198822,
@@ -7495,7 +7481,7 @@
    "end": 1787802362,
    "title": "Caf\u00e9 Crit-A-Coffee #1767",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "9BJEAM": {
    "msg": "1542020996217839627",
@@ -7523,7 +7509,7 @@
    "end": 1787803200,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1517 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 26,
-   "ended": false
+   "ended": true
   },
   "85T9QM": {
    "msg": "1542036078586892288",
@@ -7845,7 +7831,7 @@
    "end": 1787801642,
    "title": "First Raffle : Free Killstreaks if you want em",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "A0HK06": {
    "msg": "1542202215337426975",
@@ -8244,6 +8230,13 @@
    "end": 1787882582,
    "title": "15000 entered",
    "items": 10,
+   "ended": false
+  },
+  "635Y5A": {
+   "msg": "1542383366370893864",
+   "end": 1787888881,
+   "title": "Back to school.....",
+   "items": 1,
    "ended": false
   }
  },
