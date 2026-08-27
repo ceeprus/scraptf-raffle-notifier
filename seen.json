@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "PNSH6G": {
-   "msg": "1539710639830868008",
-   "end": 1787251202,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "PCW8JT": {
    "msg": "1539718269475487755",
    "end": 1787252941,
@@ -7453,28 +7446,28 @@
    "end": 1787857141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YRRP2Y": {
    "msg": "1542247491716513904",
    "end": 1787855881,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "TGYHD4": {
    "msg": "1542247498033401968",
    "end": 1787855701,
    "title": "raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LLV8WN": {
    "msg": "1542247505620897913",
    "end": 1787855521,
    "title": "Your weekly non-official Scrap.tf news. [Week 235]",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "TL21W8": {
    "msg": "1542247513350869183",
@@ -7502,7 +7495,7 @@
    "end": 1787857201,
    "title": "AI",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VC8S3A": {
    "msg": "1542262579358081166",
@@ -8321,6 +8314,27 @@
    "end": 1787939941,
    "title": "awawawawa",
    "items": 1,
+   "ended": false
+  },
+  "R1ILBZ": {
+   "msg": "1542609869486432379",
+   "end": 1787899201,
+   "title": "Unclaimed Items",
+   "items": 7,
+   "ended": false
+  },
+  "E2902Z": {
+   "msg": "1542609876448977016",
+   "end": 1787942221,
+   "title": "After 5000 raffles",
+   "items": 1,
+   "ended": false
+  },
+  "T7TZGH": {
+   "msg": "1542609882916724756",
+   "end": 1787941800,
+   "title": "Slop or Not",
+   "items": 2,
    "ended": false
   }
  },
