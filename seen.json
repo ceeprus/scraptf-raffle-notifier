@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "K3WBCP": {
-   "msg": "1539626105856860200",
-   "end": 1787230800,
-   "title": "Why does Monaco Exist?",
-   "items": 1,
-   "ended": true
-  },
   "KGZGZX": {
    "msg": "1539627677936263288",
    "end": 1787232481,
@@ -7460,14 +7453,14 @@
    "end": 1787834102,
    "title": "who need this",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NXXXL4": {
    "msg": "1542156905248591872",
    "end": 1787834041,
    "title": "Grabli304's raffle\u2503Day 178",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "IQB038": {
    "msg": "1542156915025518673",
@@ -7495,7 +7488,7 @@
    "end": 1787835600,
    "title": "Klaxon Horns - What makes them sound like that?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2Y563S": {
    "msg": "1542171994261291100",
@@ -8118,7 +8111,7 @@
    "end": 1787834282,
    "title": "I'm making a lottery so that one player gets something he doesn't need.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R2WSKF": {
    "msg": "1542458918029230142",
@@ -8300,6 +8293,13 @@
    "end": 1787918161,
    "title": "Question #76",
    "items": 1,
+   "ended": false
+  },
+  "AQC567": {
+   "msg": "1542519284939366532",
+   "end": 1787920441,
+   "title": "frozen arrowhead",
+   "items": 3,
    "ended": false
   }
  },
