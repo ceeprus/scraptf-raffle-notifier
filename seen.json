@@ -7439,7 +7439,7 @@
    "end": 1787872322,
    "title": "Bone.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TMK3T9": {
    "msg": "1542315389675901039",
@@ -7775,7 +7775,7 @@
    "end": 1787872262,
    "title": "Why aren't the item drops untradable????",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HC0O2Y": {
    "msg": "1542496582149083217",
@@ -8215,6 +8215,20 @@
    "msg": "1542655190828720138",
    "end": 1787952421,
    "title": "If you have a yes then you have a yes",
+   "items": 1,
+   "ended": false
+  },
+  "CV2Q3X": {
+   "msg": "1542677774043451452",
+   "end": 1787959201,
+   "title": "Kiestu crafting ALL the weapons #9",
+   "items": 1,
+   "ended": false
+  },
+  "TB7HBH": {
+   "msg": "1542677782633513000",
+   "end": 1787958301,
+   "title": "Battle Cats Propaganda #1377",
    "items": 1,
    "ended": false
   }
