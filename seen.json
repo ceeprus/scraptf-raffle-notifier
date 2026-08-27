@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "SYO95M": {
-   "msg": "1539446475828887552",
-   "end": 1787189222,
-   "title": "I am bad with titles #144",
-   "items": 1,
-   "ended": true
-  },
-  "6ZMKUH": {
-   "msg": "1539446483970166794",
-   "end": 1787188200,
-   "title": "Mixed Feelings",
-   "items": 1,
-   "ended": true
-  },
   "B50P8J": {
    "msg": "1539457206905339916",
    "end": 1787191561,
@@ -7453,7 +7439,7 @@
    "end": 1787793602,
    "title": "More tours, more fabricators",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "IYUTW2": {
    "msg": "1541983189449441280",
@@ -7467,7 +7453,7 @@
    "end": 1787793961,
    "title": "Daily Hat #80",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ITALEY": {
    "msg": "1542005885101015112",
@@ -7831,7 +7817,7 @@
    "end": 1787792761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QU4ECZ": {
    "msg": "1542164409986711604",
@@ -8271,6 +8257,13 @@
    "msg": "1542330507201749012",
    "end": 1787875681,
    "title": "I'm better off alone anyway.  \ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "4MV259": {
+   "msg": "1542345574441947269",
+   "end": 1787837221,
+   "title": "Unclaimed",
    "items": 1,
    "ended": false
   }
