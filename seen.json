@@ -98,27 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "9DY9IM": {
-   "msg": "1539506879196176385",
-   "end": 1787203022,
-   "title": "Day 70 of Asking for a Follow Button",
-   "items": 1,
-   "ended": true
-  },
-  "W3EWFT": {
-   "msg": "1539507810445041705",
-   "end": 1787203621,
-   "title": "Slugma b...... 12",
-   "items": 1,
-   "ended": true
-  },
-  "EKY8CA": {
-   "msg": "1539507817029967882",
-   "end": 1787203381,
-   "title": "Day 65 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
   "CZLAWP": {
    "msg": "1539514446735482920",
    "end": 1787205002,
@@ -7509,35 +7488,35 @@
    "end": 1787807821,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #102 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9XT7GL": {
    "msg": "1542042313130377317",
    "end": 1787807642,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #101 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0A9WCL": {
    "msg": "1542043583056449556",
    "end": 1787808301,
    "title": "Random Street View of the day #2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3RT5YO": {
    "msg": "1542043589104902215",
    "end": 1787808241,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #103 \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8UAMEM": {
    "msg": "1542043595165536286",
    "end": 1787808181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FY6Q10": {
    "msg": "1542058698233487433",
@@ -8258,6 +8237,34 @@
    "end": 1787891521,
    "title": "Good news everyone",
    "items": 1,
+   "ended": false
+  },
+  "66JAV2": {
+   "msg": "1542405970964254790",
+   "end": 1787851561,
+   "title": "Raffling Scrap Till I'm Out #1016 (Late raffle)",
+   "items": 1,
+   "ended": false
+  },
+  "ZY1OFU": {
+   "msg": "1542405977901633627",
+   "end": 1787894462,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GE0A9V": {
+   "msg": "1542405985287540847",
+   "end": 1787893981,
+   "title": "450 tips given milestone reached",
+   "items": 5,
+   "ended": false
+  },
+  "GSMZCV": {
+   "msg": "1542405991474401311",
+   "end": 1787893561,
+   "title": "I'm grabli304 and I'm evil",
+   "items": 2,
    "ended": false
   }
  },
