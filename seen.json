@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "7EYA3Q": {
-   "msg": "1539574855895093282",
-   "end": 1787219821,
-   "title": "i got my dream cat",
-   "items": 1,
-   "ended": true
-  },
-  "6VDV75": {
-   "msg": "1539580233437683715",
-   "end": 1787220000,
-   "title": "Gifted Sun-on-a-stick",
-   "items": 1,
-   "ended": true
-  },
   "OF8QM1": {
    "msg": "1539587902395261068",
    "end": 1787222702,
@@ -523,13 +509,6 @@
    "end": 1787263741,
    "title": "Tour 304 Another Aussie",
    "items": 19,
-   "ended": true
-  },
-  "QKP5JX": {
-   "msg": "1539759674319044708",
-   "end": 1787219641,
-   "title": "Meh. Just why not?",
-   "items": 3,
    "ended": true
   },
   "OJH0J7": {
@@ -7474,21 +7453,21 @@
    "end": 1787824800,
    "title": "Gifted Rescue Ranger #6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CFEQ1X": {
    "msg": "1542111595818262623",
    "end": 1787824081,
    "title": "The world needs more Reindoonicorns! (#593)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MRV83K": {
    "msg": "1542111603195904020",
    "end": 1787823662,
    "title": "\u041f\u0440\u043e\u0448\u0451\u043b \u0440\u0434\u04402 \u0432 15 \u0444\u043f\u0441 \u043d\u0430 \u043a\u043b\u0430\u0432\u0435 \u0438 \u043c\u044b\u0448\u043a\u0435, \u043c\u043e\u0436\u043d\u043e \u043b\u0438 \u0441\u0447\u0438\u0442\u0430\u0442\u044c \u044d\u0442\u043e \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u0435\u043c",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FSULWB": {
    "msg": "1542111609663787008",
@@ -8251,7 +8230,7 @@
    "end": 1787824081,
    "title": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043b\u043e\u0442 \u043f\u043e\u043b\u0435\u0442\u0435\u043b",
    "items": 27,
-   "ended": false
+   "ended": true
   },
   "JL64UZ": {
    "msg": "1542466395155996712",
