@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "6QLBL8": {
-   "msg": "1539559781004480572",
-   "end": 1787215381,
-   "title": "I didn't get my dream hat",
-   "items": 12,
-   "ended": true
-  },
-  "S58OLU": {
-   "msg": "1539559788365488188",
-   "end": 1787215021,
-   "title": "i got my favourite block in minecraft",
-   "items": 1,
-   "ended": true
-  },
   "7R6JEQ": {
    "msg": "1539565674450518097",
    "end": 1787217361,
@@ -123,13 +109,6 @@
    "msg": "1539565681610199040",
    "end": 1787217001,
    "title": "SRY for not much i hope to do more l8ter",
-   "items": 1,
-   "ended": true
-  },
-  "T5NDWX": {
-   "msg": "1539565688337727518",
-   "end": 1787216221,
-   "title": "Daily Kit Fabricator #10",
    "items": 1,
    "ended": true
   },
@@ -7502,7 +7481,7 @@
    "end": 1787820901,
    "title": "have a nice day!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L3CKQD": {
    "msg": "1542096486484148305",
@@ -7936,7 +7915,7 @@
    "end": 1787819941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "13US17": {
    "msg": "1542277708363464764",
@@ -7957,14 +7936,14 @@
    "end": 1787819761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BKNYR1": {
    "msg": "1542277728294670366",
    "end": 1787819641,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YNGX3K": {
    "msg": "1542277736389677179",
@@ -8237,6 +8216,62 @@
    "end": 1787903942,
    "title": "Hello There",
    "items": 12,
+   "ended": false
+  },
+  "A5OPAH": {
+   "msg": "1542458880053874709",
+   "end": 1787907600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3VIE9D": {
+   "msg": "1542458887704158209",
+   "end": 1787907600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3X6RNV": {
+   "msg": "1542458896541687818",
+   "end": 1787907541,
+   "title": "i g   m  d     h  .",
+   "items": 1,
+   "ended": false
+  },
+  "KBCO1G": {
+   "msg": "1542458902514376745",
+   "end": 1787906941,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BXXWZK": {
+   "msg": "1542458910307262534",
+   "end": 1787834282,
+   "title": "I'm making a lottery so that one player gets something he doesn't need.",
+   "items": 1,
+   "ended": false
+  },
+  "R2WSKF": {
+   "msg": "1542458918029230142",
+   "end": 1787863082,
+   "title": "\u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0434\u0435\u043b\u0430\u044e \u043b\u043e\u0442\u0435\u0440\u0435\u044e",
+   "items": 1,
+   "ended": false
+  },
+  "01L6FA": {
+   "msg": "1542458924450578544",
+   "end": 1787906161,
+   "title": "Imagine the situation:",
+   "items": 4,
+   "ended": false
+  },
+  "V5AR69": {
+   "msg": "1542458931341824080",
+   "end": 1787905802,
+   "title": "I am new on public Raffles but I just Wana join to this community",
+   "items": 5,
    "ended": false
   }
  },
