@@ -98,13 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "GTMAT7": {
-   "msg": "1539537067455938600",
-   "end": 1787210461,
-   "title": "i got my nightmare hat",
-   "items": 1,
-   "ended": true
-  },
   "XFUUG7": {
    "msg": "1539544463654002718",
    "end": 1787212442,
@@ -7495,14 +7488,14 @@
    "end": 1787814781,
    "title": "1500th public raffle created",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "G6XS9G": {
    "msg": "1542073801792167988",
    "end": 1787814541,
    "title": "Question #74",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DIP5U1": {
    "msg": "1542073810461917235",
@@ -8251,6 +8244,27 @@
    "end": 1787897282,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "LQ1VGG": {
+   "msg": "1542436193004949554",
+   "end": 1787901302,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZLPEI0": {
+   "msg": "1542436200240128031",
+   "end": 1787901121,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "C2IF12": {
+   "msg": "1542436212382367815",
+   "end": 1787900222,
+   "title": "Day 17 of asking for Slugma Chain emoticon",
+   "items": 20,
    "ended": false
   }
  },
