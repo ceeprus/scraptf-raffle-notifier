@@ -98,20 +98,6 @@
    "items": 50,
    "ended": false
   },
-  "K1PN7L": {
-   "msg": "1539620195348381838",
-   "end": 1787228881,
-   "title": "ssssssss",
-   "items": 1,
-   "ended": true
-  },
-  "RSQR4P": {
-   "msg": "1539620203082813473",
-   "end": 1787228821,
-   "title": "Data Harvesting #3",
-   "items": 2,
-   "ended": true
-  },
   "K3WBCP": {
    "msg": "1539626105856860200",
    "end": 1787230800,
@@ -7439,21 +7425,21 @@
    "end": 1787833201,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2I3QMZ": {
    "msg": "1542149296902643723",
    "end": 1787832961,
    "title": "#SlugmaSweep",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "AMDSBI": {
    "msg": "1542149303630299268",
    "end": 1787832421,
    "title": "Pootis",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NKPTYS": {
    "msg": "1542149309754249278",
@@ -7488,7 +7474,7 @@
    "end": 1787833561,
    "title": "raffle name",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6RPVQV": {
    "msg": "1542164394170122400",
@@ -8279,6 +8265,41 @@
    "end": 1787916302,
    "title": "Heavy Bigfoot set, it my second Raffle",
    "items": 3,
+   "ended": false
+  },
+  "52VNP2": {
+   "msg": "1542511682666889238",
+   "end": 1787919362,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CP2YJW": {
+   "msg": "1542511690866884678",
+   "end": 1787919242,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0WM2TA": {
+   "msg": "1542511706323026002",
+   "end": 1787919121,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GTCK9A": {
+   "msg": "1542511714749120602",
+   "end": 1787918400,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "CINW7F": {
+   "msg": "1542511720956829697",
+   "end": 1787918161,
+   "title": "Question #76",
+   "items": 1,
    "ended": false
   }
  },
