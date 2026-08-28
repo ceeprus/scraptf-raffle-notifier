@@ -7572,14 +7572,14 @@
    "end": 1787941441,
    "title": "\ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F3B2FY": {
    "msg": "1542602301133291742",
    "end": 1787941381,
    "title": "First raffle!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "0P5GLM": {
    "msg": "1542602307521482832",
@@ -7593,7 +7593,7 @@
    "end": 1787940661,
    "title": "Just take it \u211618",
    "items": 243,
-   "ended": false
+   "ended": true
   },
   "3RMM54": {
    "msg": "1542602322096562306",
@@ -7621,7 +7621,7 @@
    "end": 1787941800,
    "title": "Slop or Not",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5HVNSL": {
    "msg": "1542617378062340228",
@@ -7915,7 +7915,7 @@
    "end": 1787941501,
    "title": "Another Killstreaks Raffle",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "VTDREA": {
    "msg": "1542798563262861316",
@@ -8370,6 +8370,20 @@
    "end": 1787960761,
    "title": "I don't want this",
    "items": 1,
+   "ended": false
+  },
+  "EF54QW": {
+   "msg": "1542964663329751043",
+   "end": 1788027842,
+   "title": "Daily Brass Beast #552",
+   "items": 1,
+   "ended": false
+  },
+  "SAIEYL": {
+   "msg": "1542964670804009045",
+   "end": 1788027781,
+   "title": "Guys",
+   "items": 3,
    "ended": false
   }
  },
