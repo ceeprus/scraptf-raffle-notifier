@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "659CYD": {
-   "msg": "1539846658832080916",
-   "end": 1787283900,
-   "title": "Nothing In Particular",
-   "items": 1,
-   "ended": true
-  },
-  "HUFHWG": {
-   "msg": "1539847719265374299",
-   "end": 1787284800,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1511 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 20,
-   "ended": true
-  },
   "4NZ92P": {
    "msg": "1539854163444367471",
    "end": 1787286301,
@@ -347,13 +333,6 @@
    "msg": "1540026732713615470",
    "end": 1787326682,
    "title": "its my Birthday :D and first raffle\ud83c\udf89\ud83c\udf89\ud83c\udf89",
-   "items": 1,
-   "ended": true
-  },
-  "H27MR7": {
-   "msg": "1540027854731870259",
-   "end": 1787284800,
-   "title": "[DAY 18] Scrap tf HG",
    "items": 1,
    "ended": true
   },
@@ -7418,7 +7397,7 @@
    "end": 1787888881,
    "title": "Back to school.....",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WQRIN0": {
    "msg": "1542390882874163230",
@@ -7432,14 +7411,14 @@
    "end": 1787889481,
    "title": "Caf\u00e9 Crit-A-Coffee #1768",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "QNYF6K": {
    "msg": "1542390900058226731",
    "end": 1787889361,
    "title": "Locked & Loaded",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RZS6P0": {
    "msg": "1542398468834730026",
@@ -8111,7 +8090,7 @@
    "end": 1787888341,
    "title": "Take MY item",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5B2BIE": {
    "msg": "1542655190828720138",
@@ -8173,6 +8152,27 @@
    "msg": "1542738156787339355",
    "end": 1787900281,
    "title": "You dare.",
+   "items": 1,
+   "ended": false
+  },
+  "5EW0SC": {
+   "msg": "1542745765984870431",
+   "end": 1787975700,
+   "title": "Bunker Busting",
+   "items": 1,
+   "ended": false
+  },
+  "EYI2OL": {
+   "msg": "1542745772699688970",
+   "end": 1787975221,
+   "title": "fire's few days hiatus",
+   "items": 3,
+   "ended": false
+  },
+  "R79F4X": {
+   "msg": "1542745779381207066",
+   "end": 1787974561,
+   "title": "Just have a drink and you'll feel better!",
    "items": 1,
    "ended": false
   }
