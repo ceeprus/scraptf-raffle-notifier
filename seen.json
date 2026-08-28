@@ -119,13 +119,6 @@
    "items": 6,
    "ended": true
   },
-  "BAJ3KH": {
-   "msg": "1539997710340587560",
-   "end": 1787318821,
-   "title": "DON'T TELL HER ANYTHING",
-   "items": 1,
-   "ended": true
-  },
   "18F9ZI": {
    "msg": "1539999309599088772",
    "end": 1787321101,
@@ -425,13 +418,6 @@
    "end": 1787360821,
    "title": "MvM Update Australium Vote Part 10: Demoman Primaries",
    "items": 3,
-   "ended": true
-  },
-  "XBAGN3": {
-   "msg": "1540171267955757107",
-   "end": 1787317382,
-   "title": "hi, it's my first raffle!",
-   "items": 2,
    "ended": true
   },
   "IXLWB6": {
@@ -7544,28 +7530,28 @@
    "end": 1787923621,
    "title": "I guess it's time for my lore.",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "4XITTS": {
    "msg": "1542526796422062163",
    "end": 1787923021,
    "title": "guide how to $\u00a9@m people",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "N2V09S": {
    "msg": "1542526802881282170",
    "end": 1787922602,
    "title": "\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "69RN24": {
    "msg": "1542526810087227413",
    "end": 1787922541,
    "title": "\u30d5\u30c8\u30b9\u30c8",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "13TWBV": {
    "msg": "1542526816864960592",
@@ -8286,6 +8272,20 @@
    "end": 1788006541,
    "title": "Inventory Starter Kit",
    "items": 14,
+   "ended": false
+  },
+  "DNSZ27": {
+   "msg": "1542889172426301450",
+   "end": 1788010202,
+   "title": "gift of the day #10",
+   "items": 1,
+   "ended": false
+  },
+  "X8B3SU": {
+   "msg": "1542889179896086588",
+   "end": 1788009481,
+   "title": "Team Graveyard: The Heavy",
+   "items": 1,
    "ended": false
   }
  },
