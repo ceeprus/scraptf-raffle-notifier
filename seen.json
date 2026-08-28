@@ -119,13 +119,6 @@
    "items": 3,
    "ended": true
   },
-  "CJOBFV": {
-   "msg": "1539936535900856400",
-   "end": 1787304541,
-   "title": "Mr. Bubbly story",
-   "items": 1,
-   "ended": true
-  },
   "CT73WM": {
    "msg": "1539944159371202652",
    "end": 1787307781,
@@ -474,13 +467,6 @@
    "end": 1787345641,
    "title": "Stupendium's Stupendous Song #24",
    "items": 1,
-   "ended": true
-  },
-  "P1EKBV": {
-   "msg": "1540110862314897488",
-   "end": 1787303701,
-   "title": "hi helol? hihi hello?helle?helo?he",
-   "items": 19,
    "ended": true
   },
   "TGZYLJ": {
@@ -7537,14 +7523,14 @@
    "end": 1787908201,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #12",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DDDNXW": {
    "msg": "1542466403796258856",
    "end": 1787908082,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #11",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8OMEX7": {
    "msg": "1542481485888487474",
