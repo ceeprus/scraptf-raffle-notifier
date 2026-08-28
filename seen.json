@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "GSLCHX": {
-   "msg": "1539869268332650587",
-   "end": 1787289661,
-   "title": "Birthday raffle",
-   "items": 12,
-   "ended": true
-  },
   "W3EIN0": {
    "msg": "1539897648205660241",
    "end": 1787295600,
@@ -7418,21 +7411,21 @@
    "end": 1787894462,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GE0A9V": {
    "msg": "1542405985287540847",
    "end": 1787893981,
    "title": "450 tips given milestone reached",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "GSMZCV": {
    "msg": "1542405991474401311",
    "end": 1787893561,
    "title": "I'm grabli304 and I'm evil",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "CRSELJ": {
    "msg": "1542412097781235752",
@@ -8202,6 +8195,13 @@
    "end": 1787978401,
    "title": "jeeeffffff",
    "items": 10,
+   "ended": false
+  },
+  "NB411P": {
+   "msg": "1542768382149922858",
+   "end": 1787980321,
+   "title": "The Peppermint Patty fan has been here for 6 years.",
+   "items": 20,
    "ended": false
   }
  },
