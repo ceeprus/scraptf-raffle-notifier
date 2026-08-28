@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "4NZ92P": {
-   "msg": "1539854163444367471",
-   "end": 1787286301,
-   "title": "We definitely need more medic main! \u211655",
-   "items": 6,
-   "ended": true
-  },
   "JMLHEN": {
    "msg": "1539861755533201478",
    "end": 1787287800,
@@ -7404,7 +7397,7 @@
    "end": 1787890981,
    "title": "Bot Verification...",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "BGYJ1T": {
    "msg": "1542390893028573214",
@@ -8174,6 +8167,20 @@
    "end": 1787974561,
    "title": "Just have a drink and you'll feel better!",
    "items": 1,
+   "ended": false
+  },
+  "J34I2M": {
+   "msg": "1542753270475268146",
+   "end": 1787976721,
+   "title": "AZ Chike - Look Like My Mama ft. Tyler, The Creator",
+   "items": 1,
+   "ended": false
+  },
+  "2CTI4E": {
+   "msg": "1542753278884847656",
+   "end": 1787976000,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1519 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 28,
    "ended": false
   }
  },
