@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "SVIDWI": {
-   "msg": "1540108025656909834",
-   "end": 1787346661,
-   "title": "Most Joyous Daily weapons until Kiestu accidentally crafts a grabli304 Uma Musume update",
-   "items": 1,
-   "ended": true
-  },
   "7VUXET": {
    "msg": "1540115936021979246",
    "end": 1787348402,
@@ -7544,7 +7537,7 @@
    "end": 1787950921,
    "title": "Who is your favourite flower from Deltarune?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZCAX2H": {
    "msg": "1542655164828094646",
@@ -7572,7 +7565,7 @@
    "end": 1787952421,
    "title": "If you have a yes then you have a yes",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CV2Q3X": {
    "msg": "1542677774043451452",
@@ -8314,6 +8307,20 @@
    "end": 1788031922,
    "title": "do you have the time",
    "items": 2,
+   "ended": false
+  },
+  "KFKM7W": {
+   "msg": "1543009968691871744",
+   "end": 1788038701,
+   "title": "be slugma to me.",
+   "items": 1,
+   "ended": false
+  },
+  "ZM0KEJ": {
+   "msg": "1543009975180460052",
+   "end": 1788037200,
+   "title": "checkup #103 | Contract related question",
+   "items": 1,
    "ended": false
   }
  },
