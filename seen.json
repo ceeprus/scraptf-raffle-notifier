@@ -105,46 +105,11 @@
    "items": 1,
    "ended": false
   },
-  "RAG2LG": {
-   "msg": "1540086312764317756",
-   "end": 1787341621,
-   "title": "Kiestu crafting all the weapons #2",
-   "items": 1,
-   "ended": true
-  },
-  "M4RS3I": {
-   "msg": "1540086320213532713",
-   "end": 1787341202,
-   "title": "First raffle",
-   "items": 3,
-   "ended": true
-  },
-  "4SEJ2B": {
-   "msg": "1540086333488234591",
-   "end": 1787340721,
-   "title": "CS2 Experience",
-   "items": 2,
-   "ended": true
-  },
   "VCCEWN": {
    "msg": "1540092714270326877",
    "end": 1787343061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "KBE7T5": {
-   "msg": "1540092723682476142",
-   "end": 1787342400,
-   "title": "We need more Engineer Mains! | #010",
-   "items": 6,
-   "ended": true
-  },
-  "U0Q46K": {
-   "msg": "1540092735665741945",
-   "end": 1787342161,
-   "title": "inv clear",
-   "items": 55,
    "ended": true
   },
   "SVIDWI": {
@@ -7614,7 +7579,7 @@
    "end": 1787945581,
    "title": "Thank you all for your support!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GA4BAN": {
    "msg": "1542624972995043428",
@@ -8390,6 +8355,27 @@
    "msg": "1542979808185684138",
    "end": 1788030541,
    "title": "raffle with reason",
+   "items": 2,
+   "ended": false
+  },
+  "WBSMCJ": {
+   "msg": "1542987465176912022",
+   "end": 1788032341,
+   "title": "Most Joyous Friday To You",
+   "items": 1,
+   "ended": false
+  },
+  "H5KC6Y": {
+   "msg": "1542987473779687605",
+   "end": 1788031981,
+   "title": "Raffling a  every time I win a  #85",
+   "items": 1,
+   "ended": false
+  },
+  "O3UQF2": {
+   "msg": "1542987480934907994",
+   "end": 1788031922,
+   "title": "do you have the time",
    "items": 2,
    "ended": false
   }
