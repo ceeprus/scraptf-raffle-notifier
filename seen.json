@@ -105,34 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "6KFBN3": {
-   "msg": "1539796867523551242",
-   "end": 1787272501,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #86 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "85RT86": {
-   "msg": "1539801365084373092",
-   "end": 1787273221,
-   "title": "Something interesting i found online",
-   "items": 4,
-   "ended": true
-  },
-  "HWPEZP": {
-   "msg": "1539801375096180806",
-   "end": 1787272981,
-   "title": "guh",
-   "items": 20,
-   "ended": true
-  },
-  "9PIQ98": {
-   "msg": "1539801382696255518",
-   "end": 1787272921,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #87 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "YQBNH3": {
    "msg": "1539808862461239356",
    "end": 1787274422,
@@ -670,13 +642,6 @@
    "end": 1787353200,
    "title": "A  a day",
    "items": 1,
-   "ended": true
-  },
-  "GFCIJP": {
-   "msg": "1540145317608165428",
-   "end": 1787272501,
-   "title": "Humorous Raffle Name",
-   "items": 7,
    "ended": true
   },
   "DEAQC4": {
@@ -8230,6 +8195,13 @@
    "end": 1787961721,
    "title": "Birthday Raffle!",
    "items": 11,
+   "ended": false
+  },
+  "CEWGFO": {
+   "msg": "1542700464334966895",
+   "end": 1787964121,
+   "title": "Where is your sword?",
+   "items": 1,
    "ended": false
   }
  },
