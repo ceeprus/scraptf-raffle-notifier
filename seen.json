@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "JAIGP8": {
-   "msg": "1539982551354052681",
-   "end": 1787315761,
-   "title": "Daily Brass Beast #544",
-   "items": 1,
-   "ended": true
-  },
-  "9N3YAL": {
-   "msg": "1539989193088966776",
-   "end": 1787317200,
-   "title": "Vulpix is a Fire Type",
-   "items": 1,
-   "ended": true
-  },
   "029RWG": {
    "msg": "1539997682259468378",
    "end": 1787320381,
@@ -7551,7 +7537,7 @@
    "end": 1787920441,
    "title": "frozen arrowhead",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "2SLRR5": {
    "msg": "1542526788398223381",
@@ -7586,7 +7572,7 @@
    "end": 1787922000,
    "title": "Crashing a Train at 100 mph (160 km/h) for Science",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MK9T2W": {
    "msg": "1542534372354297856",
@@ -8286,6 +8272,20 @@
    "end": 1788004800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
+   "ended": false
+  },
+  "PW3N12": {
+   "msg": "1542881656111632497",
+   "end": 1788008400,
+   "title": "The Tree That Almost Started a War",
+   "items": 1,
+   "ended": false
+  },
+  "ZSFSUK": {
+   "msg": "1542881677729202196",
+   "end": 1788006541,
+   "title": "Inventory Starter Kit",
+   "items": 14,
    "ended": false
   }
  },
