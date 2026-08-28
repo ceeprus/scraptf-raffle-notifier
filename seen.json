@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "FG177U": {
-   "msg": "1539793758772527125",
-   "end": 1787270761,
-   "title": "MvM Update Australium Vote Part 8: Pyro Secondaries",
-   "items": 3,
-   "ended": true
-  },
   "6KFBN3": {
    "msg": "1539796867523551242",
    "end": 1787272501,
@@ -7467,21 +7460,21 @@
    "end": 1787875861,
    "title": "(k)night rider",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C8B4WO": {
    "msg": "1542330499681222781",
    "end": 1787875861,
    "title": "Daily Hat #81",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AMLLXP": {
    "msg": "1542330507201749012",
    "end": 1787875681,
    "title": "I'm better off alone anyway.  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4MV259": {
    "msg": "1542345574441947269",
@@ -8223,6 +8216,20 @@
    "end": 1787958301,
    "title": "Battle Cats Propaganda #1377",
    "items": 1,
+   "ended": false
+  },
+  "HTXON9": {
+   "msg": "1542692869473574983",
+   "end": 1787961841,
+   "title": "Mi tercer video de Tf2",
+   "items": 1,
+   "ended": false
+  },
+  "PYHQ5J": {
+   "msg": "1542692884065816717",
+   "end": 1787961721,
+   "title": "Birthday Raffle!",
+   "items": 11,
    "ended": false
   }
  },
