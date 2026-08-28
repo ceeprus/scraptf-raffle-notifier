@@ -105,32 +105,11 @@
    "items": 1,
    "ended": false
   },
-  "SLHSN8": {
-   "msg": "1539936517365960795",
-   "end": 1787305501,
-   "title": "more MORE POMSONS",
-   "items": 49,
-   "ended": true
-  },
-  "PFEJLL": {
-   "msg": "1539936525817487431",
-   "end": 1787304961,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "CT73WM": {
    "msg": "1539944159371202652",
    "end": 1787307781,
    "title": "Grabli304's raffle\u2503Day 172",
    "items": 2,
-   "ended": true
-  },
-  "QOJOSF": {
-   "msg": "1539944165930963064",
-   "end": 1787306400,
-   "title": "Gifted Blutsauger #2",
-   "items": 1,
    "ended": true
   },
   "2E21U0": {
@@ -469,13 +448,6 @@
    "items": 1,
    "ended": true
   },
-  "TGZYLJ": {
-   "msg": "1540115926815604827",
-   "end": 1787305261,
-   "title": "raffly raffle",
-   "items": 3,
-   "ended": true
-  },
   "7VUXET": {
    "msg": "1540115936021979246",
    "end": 1787348402,
@@ -613,13 +585,6 @@
    "msg": "1540209047075164240",
    "end": 1787371080,
    "title": "Unraveling Threads",
-   "items": 1,
-   "ended": true
-  },
-  "SZFVHP": {
-   "msg": "1540209053794443296",
-   "end": 1787305802,
-   "title": "Show me what you got guys",
    "items": 1,
    "ended": true
   },
@@ -803,13 +768,6 @@
    "end": 1787344322,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "Q9V93O": {
-   "msg": "1540286330926534656",
-   "end": 1787306281,
-   "title": "what a raffly raffle",
-   "items": 2,
    "ended": true
   },
   "F84QIZ": {
@@ -7537,7 +7495,7 @@
    "end": 1787911200,
    "title": "Gifted Righteous Bison #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MV67QA": {
    "msg": "1542489070700339281",
