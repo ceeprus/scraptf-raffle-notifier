@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "YQBNH3": {
-   "msg": "1539808862461239356",
-   "end": 1787274422,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #88 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "J5SE9U": {
-   "msg": "1539808870359113738",
-   "end": 1787274242,
-   "title": "Earlier this week i got a Strange brand loyalist from a gift randomly.",
-   "items": 4,
-   "ended": true
-  },
   "BD637D": {
    "msg": "1539819090636705943",
    "end": 1787278021,
@@ -8202,6 +8188,13 @@
    "end": 1787964121,
    "title": "Where is your sword?",
    "items": 1,
+   "ended": false
+  },
+  "T4ZFTU": {
+   "msg": "1542707975486185536",
+   "end": 1787965200,
+   "title": "Reminder to eat n' drink water if ye haven't yet #276",
+   "items": 5,
    "ended": false
   }
  },
