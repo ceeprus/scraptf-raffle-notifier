@@ -7432,7 +7432,7 @@
    "end": 1787895483,
    "title": "Key giveway + consolation prize [ F2P / POOR PLAYERS PLEASE ]",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "9BE7SN": {
    "msg": "1542421070873763920",
@@ -7873,7 +7873,7 @@
    "end": 1787896501,
    "title": "Killstreaks for you? Perhaps",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "S5JRSC": {
    "msg": "1542594779345326172",
@@ -8202,6 +8202,27 @@
    "end": 1787980321,
    "title": "The Peppermint Patty fan has been here for 6 years.",
    "items": 20,
+   "ended": false
+  },
+  "6NDLAP": {
+   "msg": "1542775970807947284",
+   "end": 1787981941,
+   "title": "Bone 2: Electric Boogaloo",
+   "items": 1,
+   "ended": false
+  },
+  "JRX50G": {
+   "msg": "1542775977288138884",
+   "end": 1787938681,
+   "title": "Raffling Scrap Till I'm Out #1017 (Late raffle V2)",
+   "items": 1,
+   "ended": false
+  },
+  "VQMY93": {
+   "msg": "1542775982925156466",
+   "end": 1787981582,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
