@@ -105,31 +105,10 @@
    "items": 1,
    "ended": false
   },
-  "I4T154": {
-   "msg": "1539952360867237971",
-   "end": 1787309642,
-   "title": "Mandatory Scrap.tf day raffle\u2122",
-   "items": 4,
-   "ended": true
-  },
-  "2CAGY1": {
-   "msg": "1539952367850758216",
-   "end": 1787309521,
-   "title": "I'll try MvM again today",
-   "items": 3,
-   "ended": true
-  },
   "DFKSA9": {
    "msg": "1539957851043405945",
    "end": 1787310481,
    "title": "Turn off my brain button",
-   "items": 1,
-   "ended": true
-  },
-  "W591CG": {
-   "msg": "1539957858102280252",
-   "end": 1787310000,
-   "title": "Now why would the vet do that?",
    "items": 1,
    "ended": true
   },
@@ -7481,42 +7460,42 @@
    "end": 1787914442,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #106 \ud83c\udf0a\ud83d\udc1f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "HR8HYY": {
    "msg": "1542489077067153440",
    "end": 1787914321,
    "title": "First Raffle!! :)))) !!!!!! :)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J9J4YM": {
    "msg": "1542489083249696858",
    "end": 1787914202,
    "title": "no min",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "GTP1DV": {
    "msg": "1542489089654259784",
    "end": 1787914141,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #105 \ud83c\udf0a\ud83d\udc1f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "Q6C4KJ": {
    "msg": "1542489096927187015",
    "end": 1787914082,
    "title": "Daily Brass Beast #551",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2VS94T": {
    "msg": "1542489105102012468",
    "end": 1787914082,
    "title": "Grabli304's raffle\u2503Day 179",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "YTQ21B": {
    "msg": "1542496575513694258",
@@ -7537,21 +7516,21 @@
    "end": 1787914800,
    "title": "What are newspapers?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SQ88KW": {
    "msg": "1542496595902205983",
    "end": 1787914681,
    "title": "\u0435\u0449\u0435 \u043b\u043e\u0442\u0435\u0440\u0435\u044f",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "KPU4UY": {
    "msg": "1542496601908715574",
    "end": 1787914621,
    "title": "i can't think of a title for this raffle 32",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PWQJZD": {
    "msg": "1542504172862177351",
@@ -8243,6 +8222,27 @@
    "msg": "1542843895770128415",
    "end": 1787997541,
    "title": "1 chudmaker",
+   "items": 1,
+   "ended": false
+  },
+  "WEPGSX": {
+   "msg": "1542851480103555174",
+   "end": 1788000901,
+   "title": "The world needs more Reindoonicorns! (#596)",
+   "items": 1,
+   "ended": false
+  },
+  "ZXXAZH": {
+   "msg": "1542851487175020657",
+   "end": 1788000482,
+   "title": "The world needs more Reindoonicorns! (#595)",
+   "items": 1,
+   "ended": false
+  },
+  "DKKL7Z": {
+   "msg": "1542851495035404408",
+   "end": 1788000002,
+   "title": "The world needs more Reindoonicorns! (#594)",
    "items": 1,
    "ended": false
   }
