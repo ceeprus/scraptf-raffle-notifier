@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "84VNTP": {
-   "msg": "1539786276029599865",
-   "end": 1787269802,
-   "title": "MvM Update Australium Vote Part 7: Pyro Primaries",
-   "items": 3,
-   "ended": true
-  },
   "FG177U": {
    "msg": "1539793758772527125",
    "end": 1787270761,
@@ -7453,21 +7446,21 @@
    "end": 1787874182,
    "title": "Funny unclaimed noise",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BTBROH": {
    "msg": "1542322990119780412",
    "end": 1787874721,
    "title": "eye",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y1WKOP": {
    "msg": "1542322997380259850",
    "end": 1787874301,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A4I6L1": {
    "msg": "1542330492412493847",
