@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "CT73WM": {
-   "msg": "1539944159371202652",
-   "end": 1787307781,
-   "title": "Grabli304's raffle\u2503Day 172",
-   "items": 2,
-   "ended": true
-  },
-  "2E21U0": {
-   "msg": "1539951403739389992",
-   "end": 1787308081,
-   "title": "Some facts about me",
-   "items": 1,
-   "ended": true
-  },
   "I4T154": {
    "msg": "1539952360867237971",
    "end": 1787309642,
@@ -600,13 +586,6 @@
    "end": 1787372161,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": true
-  },
-  "6MMGVR": {
-   "msg": "1540216554833059872",
-   "end": 1787307122,
-   "title": "I have a dream, the Australium Ambassador",
-   "items": 1,
    "ended": true
   },
   "GG8KVV": {
@@ -8243,6 +8222,27 @@
    "msg": "1542821324093792296",
    "end": 1787992561,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WT4R8H": {
+   "msg": "1542843879307616266",
+   "end": 1787998621,
+   "title": "Grabli304's raffle\u2503Day 180",
+   "items": 2,
+   "ended": false
+  },
+  "RP0FKB": {
+   "msg": "1542843889499643987",
+   "end": 1787998142,
+   "title": "Something about today",
+   "items": 3,
+   "ended": false
+  },
+  "WV35IN": {
+   "msg": "1542843895770128415",
+   "end": 1787997541,
+   "title": "1 chudmaker",
    "items": 1,
    "ended": false
   }
