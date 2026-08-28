@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "L8PPDZ": {
-   "msg": "1540056232042172466",
-   "end": 1787333821,
-   "title": "So many Uma Musume fans",
-   "items": 6,
-   "ended": true
-  },
-  "2YJXTC": {
-   "msg": "1540064190415380501",
-   "end": 1787335202,
-   "title": "Daily raffle #351",
-   "items": 1,
-   "ended": true
-  },
   "BSH8AE": {
    "msg": "1540073155677130794",
    "end": 1787338261,
@@ -7530,42 +7516,42 @@
    "end": 1787939641,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RKERT1": {
    "msg": "1542594793983443097",
    "end": 1787939101,
    "title": "Something is coming in three days",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Y3CG4J": {
    "msg": "1542594801063567420",
    "end": 1787938801,
    "title": "Scrap.tf Birthdays - 27 August",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "KFATZT": {
    "msg": "1542594812715470899",
    "end": 1787938621,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RLPLPU": {
    "msg": "1542594823033462795",
    "end": 1787938502,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MKMCPN": {
    "msg": "1542594830704844951",
    "end": 1787938381,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "W44MVB": {
    "msg": "1542594836950163476",
@@ -7614,7 +7600,7 @@
    "end": 1787939941,
    "title": "awawawawa",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R1ILBZ": {
    "msg": "1542609869486432379",
@@ -7866,7 +7852,7 @@
    "end": 1787938681,
    "title": "Raffling Scrap Till I'm Out #1017 (Late raffle V2)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VQMY93": {
    "msg": "1542775982925156466",
@@ -8055,7 +8041,7 @@
    "end": 1787939101,
    "title": "I'm got unbanned!!!!! Raffle #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NJ52H5": {
    "msg": "1542874078917034095",
@@ -8370,6 +8356,20 @@
    "end": 1788022800,
    "title": "Daily raffle until TF2 gets a major update #605",
    "items": 3,
+   "ended": false
+  },
+  "5GT33C": {
+   "msg": "1542957141881655350",
+   "end": 1787961061,
+   "title": "take that",
+   "items": 2,
+   "ended": false
+  },
+  "G0C7O4": {
+   "msg": "1542957148709986406",
+   "end": 1787960761,
+   "title": "I don't want this",
+   "items": 1,
    "ended": false
   }
  },
