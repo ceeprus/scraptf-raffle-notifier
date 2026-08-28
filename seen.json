@@ -105,39 +105,11 @@
    "items": 1,
    "ended": false
   },
-  "V0Y5M8": {
-   "msg": "1540042944214474892",
-   "end": 1787330701,
-   "title": "who is grabli304",
-   "items": 1,
-   "ended": true
-  },
-  "X7OQIX": {
-   "msg": "1540042952439504926",
-   "end": 1787330161,
-   "title": "My FIRST raffle ever!",
-   "items": 1,
-   "ended": true
-  },
   "ZV7P50": {
    "msg": "1540050473325695090",
    "end": 1787332561,
    "title": "The pass it forward raffle! (#15)",
    "items": 3,
-   "ended": true
-  },
-  "MOF1PT": {
-   "msg": "1540050484486742067",
-   "end": 1787331600,
-   "title": "Daily raffle until TF2 gets a major update #597",
-   "items": 3,
-   "ended": true
-  },
-  "MU6BVS": {
-   "msg": "1540050496298156115",
-   "end": 1787331541,
-   "title": "I think I know who grabli304 is",
-   "items": 1,
    "ended": true
   },
   "L8PPDZ": {
@@ -7523,7 +7495,7 @@
    "end": 1787935741,
    "title": "KS kritzkreig",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZFM97R": {
    "msg": "1542579693608501329",
@@ -8356,6 +8328,41 @@
    "end": 1788019200,
    "title": "Scrap.tf Birthdays - 28 August",
    "items": 2,
+   "ended": false
+  },
+  "5DZEHG": {
+   "msg": "1542942056224129134",
+   "end": 1788022561,
+   "title": "#slugnation updates day 14.1",
+   "items": 1,
+   "ended": false
+  },
+  "RBMDZ6": {
+   "msg": "1542942064499630212",
+   "end": 1788022561,
+   "title": "making an elephant out of a fly on the wall",
+   "items": 5,
+   "ended": false
+  },
+  "HRQGND": {
+   "msg": "1542942073903255692",
+   "end": 1788022501,
+   "title": "be mean to me.",
+   "items": 4,
+   "ended": false
+  },
+  "FSB0G7": {
+   "msg": "1542942080739836026",
+   "end": 1788021902,
+   "title": "Kiestu crafting ALL the weapons #10",
+   "items": 1,
+   "ended": false
+  },
+  "264I0U": {
+   "msg": "1542942091246706738",
+   "end": 1788021301,
+   "title": "Xpresselevator2hell\u3002",
+   "items": 80,
    "ended": false
   }
  },
