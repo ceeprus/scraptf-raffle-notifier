@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "18F9ZI": {
-   "msg": "1539999309599088772",
-   "end": 1787321101,
-   "title": "Bakaugan Battle Brawlers Soundtracks I like & discussion",
-   "items": 2,
-   "ended": true
-  },
-  "61G7BF": {
-   "msg": "1539999317253824653",
-   "end": 1787321041,
-   "title": "take my items",
-   "items": 3,
-   "ended": true
-  },
-  "CYZJ93": {
-   "msg": "1540005172019994716",
-   "end": 1787321702,
-   "title": "Shot so bad I had to make a sfm out of it lmao",
-   "items": 8,
-   "ended": true
-  },
   "UV2M4A": {
    "msg": "1540020264115503226",
    "end": 1787325722,
@@ -7551,7 +7530,7 @@
    "end": 1787926381,
    "title": "Team Graveyard: The Demoman",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YA6RDI": {
    "msg": "1542541905894842468",
@@ -8279,6 +8258,34 @@
    "end": 1788010501,
    "title": "4th australium",
    "items": 6,
+   "ended": false
+  },
+  "BBXOWO": {
+   "msg": "1542904279449210970",
+   "end": 1788012781,
+   "title": "\ufe0f\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "2V2PCB": {
+   "msg": "1542904286126542899",
+   "end": 1788012000,
+   "title": "be nice to me.",
+   "items": 1,
+   "ended": false
+  },
+  "DCZ5L4": {
+   "msg": "1542904293294743592",
+   "end": 1788012000,
+   "title": "be nice to me.",
+   "items": 1,
+   "ended": false
+  },
+  "BJ1K27": {
+   "msg": "1542904302912143502",
+   "end": 1788011762,
+   "title": "Only OG's remembers.",
+   "items": 1,
    "ended": false
   }
  },
