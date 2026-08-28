@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "W3EIN0": {
-   "msg": "1539897648205660241",
-   "end": 1787295600,
-   "title": "[To F2P] Free stuff monthly raffle #8 / Rifa mensual de cosas gratis #8",
-   "items": 20,
-   "ended": true
-  },
   "SLHSN8": {
    "msg": "1539936517365960795",
    "end": 1787305501,
@@ -7474,7 +7467,7 @@
    "end": 1787900222,
    "title": "Day 17 of asking for Slugma Chain emoticon",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "I6QKMT": {
    "msg": "1542451285993853029",
@@ -7971,7 +7964,7 @@
    "end": 1787899201,
    "title": "Unclaimed Items",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "E2902Z": {
    "msg": "1542609876448977016",
@@ -8118,7 +8111,7 @@
    "end": 1787900281,
    "title": "You dare.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5EW0SC": {
    "msg": "1542745765984870431",
@@ -8251,6 +8244,34 @@
    "end": 1787983022,
    "title": "Grateful",
    "items": 1,
+   "ended": false
+  },
+  "I6WH3P": {
+   "msg": "1542791068758573106",
+   "end": 1787986381,
+   "title": "Feeling lucky today",
+   "items": 3,
+   "ended": false
+  },
+  "3LLBMQ": {
+   "msg": "1542791077365293066",
+   "end": 1787985781,
+   "title": "Just got my first unusual scammed",
+   "items": 8,
+   "ended": false
+  },
+  "MMEX67": {
+   "msg": "1542791085447843902",
+   "end": 1787985602,
+   "title": "Random Street View of the day #4",
+   "items": 1,
+   "ended": false
+  },
+  "N6S23Z": {
+   "msg": "1542791093756891257",
+   "end": 1787941501,
+   "title": "Another Killstreaks Raffle",
+   "items": 13,
    "ended": false
   }
  },
