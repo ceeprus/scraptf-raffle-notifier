@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "BSH8AE": {
-   "msg": "1540073155677130794",
-   "end": 1787338261,
-   "title": "Best half life npc winner:",
-   "items": 1,
-   "ended": true
-  },
-  "GLMU9R": {
-   "msg": "1540075211657969784",
-   "end": 1787338861,
-   "title": "Bau! Bau!",
-   "items": 18,
-   "ended": true
-  },
   "WMWNEC": {
    "msg": "1540080673522454620",
    "end": 1787339581,
@@ -579,13 +565,6 @@
    "end": 1787403001,
    "title": "Daily raffle #352",
    "items": 1,
-   "ended": true
-  },
-  "5GSK1Z": {
-   "msg": "1540344936321257614",
-   "end": 1787337841,
-   "title": "Second raffle, thank you for your support!",
-   "items": 3,
    "ended": true
   },
   "NHQ7CK": {
@@ -7614,7 +7593,7 @@
    "end": 1787942221,
    "title": "After 5000 raffles",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T7TZGH": {
    "msg": "1542609882916724756",
@@ -8384,6 +8363,20 @@
    "end": 1788027781,
    "title": "Guys",
    "items": 3,
+   "ended": false
+  },
+  "F1N577": {
+   "msg": "1542972269826154637",
+   "end": 1787964301,
+   "title": "The Wrong Train",
+   "items": 2,
+   "ended": false
+  },
+  "UXFWTE": {
+   "msg": "1542972288746520607",
+   "end": 1788028742,
+   "title": "Have these",
+   "items": 26,
    "ended": false
   }
  },
