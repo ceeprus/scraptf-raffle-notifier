@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "VCCEWN": {
-   "msg": "1540092714270326877",
-   "end": 1787343061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "SVIDWI": {
    "msg": "1540108025656909834",
    "end": 1787346661,
@@ -7593,14 +7586,14 @@
    "end": 1787948761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JGER8Y": {
    "msg": "1542632481654710352",
    "end": 1787947562,
    "title": "We lost Optimus Prime today!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "O8SDRC": {
    "msg": "1542647559837978724",
