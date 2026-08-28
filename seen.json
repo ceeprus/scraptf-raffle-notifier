@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "EVRRT0": {
-   "msg": "1539837059999600760",
-   "end": 1787282349,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "659CYD": {
    "msg": "1539846658832080916",
    "end": 1787283900,
@@ -8174,6 +8167,13 @@
    "end": 1787970061,
    "title": "#SlugmaSweeeeeeeeeeeeeeeeeeeeeeeeeeeeeep",
    "items": 10,
+   "ended": false
+  },
+  "P6E8T0": {
+   "msg": "1542738156787339355",
+   "end": 1787900281,
+   "title": "You dare.",
+   "items": 1,
    "ended": false
   }
  },
