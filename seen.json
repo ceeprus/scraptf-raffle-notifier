@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "029RWG": {
-   "msg": "1539997682259468378",
-   "end": 1787320381,
-   "title": "slobgma",
-   "items": 1,
-   "ended": true
-  },
-  "QG9GA7": {
-   "msg": "1539997691705036902",
-   "end": 1787320021,
-   "title": "lazy slugma raffle",
-   "items": 6,
-   "ended": true
-  },
   "18F9ZI": {
    "msg": "1539999309599088772",
    "end": 1787321101,
@@ -432,13 +418,6 @@
    "end": 1787364361,
    "title": "Can we destroy the month of September?",
    "items": 3,
-   "ended": true
-  },
-  "F1RQWH": {
-   "msg": "1540183235567423498",
-   "end": 1787320800,
-   "title": "Tune of the day #316",
-   "items": 1,
    "ended": true
   },
   "50ASO7": {
@@ -7565,7 +7544,7 @@
    "end": 1787924639,
    "title": "So, chapter one is out",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EAI59S": {
    "msg": "1542541895438180425",
@@ -7579,7 +7558,7 @@
    "end": 1787925600,
    "title": "Untitled raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "4BDNAV": {
    "msg": "1542549491268460545",
@@ -8286,6 +8265,20 @@
    "end": 1788009481,
    "title": "Team Graveyard: The Heavy",
    "items": 1,
+   "ended": false
+  },
+  "XLQQN8": {
+   "msg": "1542896765592670291",
+   "end": null,
+   "title": "\"Be careful, it's my first time...\"",
+   "items": 18,
+   "ended": false
+  },
+  "81666T": {
+   "msg": "1542896775684431978",
+   "end": 1788010501,
+   "title": "4th australium",
+   "items": 6,
    "ended": false
   }
  },
