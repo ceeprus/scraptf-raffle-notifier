@@ -7453,14 +7453,14 @@
    "end": 1787901302,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZLPEI0": {
    "msg": "1542436200240128031",
    "end": 1787901121,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C2IF12": {
    "msg": "1542436212382367815",
@@ -8272,6 +8272,13 @@
    "end": 1787941501,
    "title": "Another Killstreaks Raffle",
    "items": 13,
+   "ended": false
+  },
+  "VTDREA": {
+   "msg": "1542798563262861316",
+   "end": 1787944082,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
