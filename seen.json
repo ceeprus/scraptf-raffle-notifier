@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "EH1SW2": {
-   "msg": "1539974526304124928",
-   "end": 1787314141,
-   "title": "\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "HM3V0G": {
-   "msg": "1539974534508183562",
-   "end": 1787313722,
-   "title": "Hello",
-   "items": 7,
-   "ended": true
-  },
   "JAIGP8": {
    "msg": "1539982551354052681",
    "end": 1787315761,
@@ -7530,21 +7516,21 @@
    "end": 1787919362,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CP2YJW": {
    "msg": "1542511690866884678",
    "end": 1787919242,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0WM2TA": {
    "msg": "1542511706323026002",
    "end": 1787919121,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GTCK9A": {
    "msg": "1542511714749120602",
@@ -8257,6 +8243,48 @@
    "msg": "1542866579317063700",
    "end": 1787939101,
    "title": "I'm got unbanned!!!!! Raffle #4",
+   "items": 1,
+   "ended": false
+  },
+  "NJ52H5": {
+   "msg": "1542874078917034095",
+   "end": 1788006421,
+   "title": "Latest raffle",
+   "items": 5,
+   "ended": false
+  },
+  "9EPQDW": {
+   "msg": "1542874086831685662",
+   "end": 1788006121,
+   "title": "Any games you think are \"unique\" in gameplay?",
+   "items": 2,
+   "ended": false
+  },
+  "C9FZZP": {
+   "msg": "1542874094653931581",
+   "end": 1788005881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IIH5FD": {
+   "msg": "1542874101645975663",
+   "end": 1788005341,
+   "title": "slopmaker raffle..?",
+   "items": 1,
+   "ended": false
+  },
+  "UZPLFC": {
+   "msg": "1542874108625289286",
+   "end": 1787961901,
+   "title": "Cat piss",
+   "items": 1,
+   "ended": false
+  },
+  "T9OCYW": {
+   "msg": "1542874116976283648",
+   "end": 1788004800,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
