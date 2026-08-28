@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "JMLHEN": {
-   "msg": "1539861755533201478",
-   "end": 1787287800,
-   "title": "Don't get stuck in a lollichop, especially a time traveling one",
-   "items": 1,
-   "ended": true
-  },
-  "3BIT03": {
-   "msg": "1539861762172780554",
-   "end": 1787287561,
-   "title": "Hi everyone, I'm back with a new lottery.",
-   "items": 3,
-   "ended": true
-  },
-  "JY0TQJ": {
-   "msg": "1539861774440992859",
-   "end": 1787286901,
-   "title": "Hey brother \ud83d\ude2d\ud83d\ude4f",
-   "items": 3,
-   "ended": true
-  },
   "GSLCHX": {
    "msg": "1539869268332650587",
    "end": 1787289661,
@@ -7425,7 +7404,7 @@
    "end": 1787891521,
    "title": "Good news everyone",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "66JAV2": {
    "msg": "1542405970964254790",
@@ -8181,6 +8160,48 @@
    "end": 1787976000,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1519 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 28,
+   "ended": false
+  },
+  "5FKI67": {
+   "msg": "1542760886836396138",
+   "end": 1787979361,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "VG9S6X": {
+   "msg": "1542760894273159231",
+   "end": 1787979301,
+   "title": "Question #78",
+   "items": 1,
+   "ended": false
+  },
+  "RC5APE": {
+   "msg": "1542760901562867782",
+   "end": 1787979002,
+   "title": "Question #77",
+   "items": 1,
+   "ended": false
+  },
+  "ZCUXQN": {
+   "msg": "1542760909934694490",
+   "end": 1787978641,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WRUBKI": {
+   "msg": "1542760919149314139",
+   "end": 1787978581,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "IBZZBU": {
+   "msg": "1542760930981453875",
+   "end": 1787978401,
+   "title": "jeeeffffff",
+   "items": 10,
    "ended": false
   }
  },
