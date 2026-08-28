@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "DFKSA9": {
-   "msg": "1539957851043405945",
-   "end": 1787310481,
-   "title": "Turn off my brain button",
-   "items": 1,
-   "ended": true
-  },
   "ZE9T08": {
    "msg": "1539964742058377329",
    "end": 1787312642,
@@ -627,13 +620,6 @@
    "msg": "1540231639844786247",
    "end": 1787375761,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GCP6PC": {
-   "msg": "1540231646635233320",
-   "end": 1787310722,
-   "title": "I need help choosing a hat",
    "items": 1,
    "ended": true
   },
@@ -7509,7 +7495,7 @@
    "end": 1787914981,
    "title": "Most Joyous Friday To You",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EG5VJB": {
    "msg": "1542496589480992868",
@@ -7544,14 +7530,14 @@
    "end": 1787916421,
    "title": "gift of the day #9",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UAIOAJ": {
    "msg": "1542504185956933684",
    "end": 1787916302,
    "title": "Heavy Bigfoot set, it my second Raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "52VNP2": {
    "msg": "1542511682666889238",
@@ -8243,6 +8229,34 @@
    "msg": "1542851495035404408",
    "end": 1788000002,
    "title": "The world needs more Reindoonicorns! (#594)",
+   "items": 1,
+   "ended": false
+  },
+  "C2GOWZ": {
+   "msg": "1542858969129943190",
+   "end": 1788001621,
+   "title": "The world needs more Reindoonicorns! (#598)",
+   "items": 1,
+   "ended": false
+  },
+  "FPXR1U": {
+   "msg": "1542858976004284478",
+   "end": 1788001261,
+   "title": "Huo-Long heater",
+   "items": 1,
+   "ended": false
+  },
+  "FM0N5B": {
+   "msg": "1542858982950182913",
+   "end": 1788001202,
+   "title": "The world needs more Reindoonicorns! (#597)",
+   "items": 1,
+   "ended": false
+  },
+  "KOHSO0": {
+   "msg": "1542858988817883167",
+   "end": 1788001200,
+   "title": "Tough teacher, huh?",
    "items": 1,
    "ended": false
   }
