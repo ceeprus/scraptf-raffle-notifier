@@ -420,13 +420,6 @@
    "items": 3,
    "ended": true
   },
-  "67FQXW": {
-   "msg": "1540086326953513100",
-   "end": 1787297701,
-   "title": "I have no idea what to write (Raffle #3)",
-   "items": 2,
-   "ended": true
-  },
   "4SEJ2B": {
    "msg": "1540086333488234591",
    "end": 1787340721,
@@ -7481,7 +7474,7 @@
    "end": 1787903942,
    "title": "Hello There",
    "items": 12,
-   "ended": false
+   "ended": true
   },
   "A5OPAH": {
    "msg": "1542458880053874709",
@@ -8279,6 +8272,13 @@
    "end": 1787944082,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "R47AJD": {
+   "msg": "1542806163748560977",
+   "end": 1787989561,
+   "title": "Noise btw [LIMITED OFFER: 100% WIN]",
+   "items": 152,
    "ended": false
   }
  },
