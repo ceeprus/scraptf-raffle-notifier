@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "BD637D": {
-   "msg": "1539819090636705943",
-   "end": 1787278021,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "8XQTSJ": {
-   "msg": "1539819100262371460",
-   "end": 1787277722,
-   "title": "Caf\u00e9 Crit-A-Coffee #1762",
-   "items": 10,
-   "ended": true
-  },
-  "DC2HNY": {
-   "msg": "1539823971707392070",
-   "end": 1787278322,
-   "title": "Downsizing Duplicates",
-   "items": 10,
-   "ended": true
-  },
   "EVRRT0": {
    "msg": "1539837059999600760",
    "end": 1787282349,
@@ -341,13 +320,6 @@
    "end": 1787321702,
    "title": "Shot so bad I had to make a sfm out of it lmao",
    "items": 8,
-   "ended": true
-  },
-  "8903US": {
-   "msg": "1540012769976262716",
-   "end": 1787279400,
-   "title": "Tune of the day #315",
-   "items": 1,
    "ended": true
   },
   "UV2M4A": {
@@ -7439,14 +7411,14 @@
    "end": 1787883722,
    "title": "The Best Place in the World",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RNPE2C": {
    "msg": "1542360689883222076",
    "end": 1787882582,
    "title": "15000 entered",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "635Y5A": {
    "msg": "1542383366370893864",
@@ -8195,6 +8167,13 @@
    "end": 1787965200,
    "title": "Reminder to eat n' drink water if ye haven't yet #276",
    "items": 5,
+   "ended": false
+  },
+  "LEG6VV": {
+   "msg": "1542723081083027457",
+   "end": 1787970061,
+   "title": "#SlugmaSweeeeeeeeeeeeeeeeeeeeeeeeeeeeeep",
+   "items": 10,
    "ended": false
   }
  },
