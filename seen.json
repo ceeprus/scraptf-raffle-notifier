@@ -105,34 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "8XVDB8": {
-   "msg": "1540034628876902461",
-   "end": 1787329142,
-   "title": "i can't think of a title for this raffle 28\u2122",
-   "items": 1,
-   "ended": true
-  },
-  "IB1MS6": {
-   "msg": "1540034636053487636",
-   "end": 1787328842,
-   "title": "Scrap.tf Birthdays - 20 August",
-   "items": 4,
-   "ended": true
-  },
-  "D4HZOQ": {
-   "msg": "1540034645754777681",
-   "end": 1787328422,
-   "title": "#17",
-   "items": 5,
-   "ended": true
-  },
-  "I1SVKC": {
-   "msg": "1540034652272590928",
-   "end": 1787328301,
-   "title": "no.",
-   "items": 1,
-   "ended": true
-  },
   "V0Y5M8": {
    "msg": "1540042944214474892",
    "end": 1787330701,
@@ -144,13 +116,6 @@
    "msg": "1540042952439504926",
    "end": 1787330161,
    "title": "My FIRST raffle ever!",
-   "items": 1,
-   "ended": true
-  },
-  "DNBIXW": {
-   "msg": "1540042959033213080",
-   "end": 1787329561,
-   "title": "CAREFUL BROTHER!! \ud83c\udf0a\ud83d\udc1f",
    "items": 1,
    "ended": true
   },
@@ -424,13 +389,6 @@
    "msg": "1540216571274858567",
    "end": 1787371741,
    "title": "Day 10 of the Japan trip",
-   "items": 1,
-   "ended": true
-  },
-  "62KWE8": {
-   "msg": "1540216579441033347",
-   "end": 1787328421,
-   "title": "Raffling Scrap Till I'm Out #1010 (Tired)",
    "items": 1,
    "ended": true
   },
@@ -7544,21 +7502,21 @@
    "end": 1787934182,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6LWHOW": {
    "msg": "1542572092904575108",
    "end": 1787934061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CJ7BB2": {
    "msg": "1542572101225947199",
    "end": 1787933401,
    "title": "Random items",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "HRNR9X": {
    "msg": "1542579681059147838",
@@ -7572,7 +7530,7 @@
    "end": 1787934362,
    "title": "Last 3 matches played, there was a cheater.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5MJW2S": {
    "msg": "1542581632505090100",
@@ -8356,6 +8314,48 @@
    "end": 1788017941,
    "title": "epic",
    "items": 5,
+   "ended": false
+  },
+  "L50CKR": {
+   "msg": "1542934466383843350",
+   "end": 1788020761,
+   "title": "be mean to me.",
+   "items": 1,
+   "ended": false
+  },
+  "Z1MRZQ": {
+   "msg": "1542934473560170548",
+   "end": 1788020641,
+   "title": "nice to be me.",
+   "items": 1,
+   "ended": false
+  },
+  "2YDXG4": {
+   "msg": "1542934480694677564",
+   "end": 1788019922,
+   "title": "p-please... just be nice to me...",
+   "items": 1,
+   "ended": false
+  },
+  "QK7NH8": {
+   "msg": "1542934488940675095",
+   "end": 1788019621,
+   "title": "manga?",
+   "items": 3,
+   "ended": false
+  },
+  "3TDIJI": {
+   "msg": "1542934498344312883",
+   "end": 1788019200,
+   "title": "Weekly  #104",
+   "items": 4,
+   "ended": false
+  },
+  "J2I000": {
+   "msg": "1542934506733051965",
+   "end": 1788019200,
+   "title": "Scrap.tf Birthdays - 28 August",
+   "items": 2,
    "ended": false
   }
  },
