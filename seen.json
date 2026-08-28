@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "ZV7P50": {
-   "msg": "1540050473325695090",
-   "end": 1787332561,
-   "title": "The pass it forward raffle! (#15)",
-   "items": 3,
-   "ended": true
-  },
   "L8PPDZ": {
    "msg": "1540056232042172466",
    "end": 1787333821,
@@ -7509,21 +7502,21 @@
    "end": 1787936641,
    "title": "3 days...",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "78E9MB": {
    "msg": "1542587184907817084",
    "end": 1787937301,
    "title": "A force to be reckoned with",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "CEMTXA": {
    "msg": "1542587192407228537",
    "end": 1787937190,
    "title": "Daily raffle until TF2 gets a major update #604",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "AE8U68": {
    "msg": "1542594772126929026",
@@ -7579,14 +7572,14 @@
    "end": 1787938201,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "89MDL9": {
    "msg": "1542594843400736813",
    "end": 1787938142,
    "title": "I'm going to sleep",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BN26QO": {
    "msg": "1542602287095095306",
@@ -8363,6 +8356,20 @@
    "end": 1788021301,
    "title": "Xpresselevator2hell\u3002",
    "items": 80,
+   "ended": false
+  },
+  "32MAQT": {
+   "msg": "1542949560719122575",
+   "end": 1788022981,
+   "title": "hit a certain milestone",
+   "items": 20,
+   "ended": false
+  },
+  "CVAPFX": {
+   "msg": "1542949567518220288",
+   "end": 1788022800,
+   "title": "Daily raffle until TF2 gets a major update #605",
+   "items": 3,
    "ended": false
   }
  },
