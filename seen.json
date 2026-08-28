@@ -462,13 +462,6 @@
    "items": 1,
    "ended": true
   },
-  "2H3TL0": {
-   "msg": "1540108037996421210",
-   "end": 1787302800,
-   "title": "[Night 18] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "4CFM3T": {
    "msg": "1540108045227393104",
    "end": 1787345942,
@@ -7481,28 +7474,28 @@
    "end": 1787907600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3VIE9D": {
    "msg": "1542458887704158209",
    "end": 1787907600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3X6RNV": {
    "msg": "1542458896541687818",
    "end": 1787907541,
    "title": "i g   m  d     h  .",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KBCO1G": {
    "msg": "1542458902514376745",
    "end": 1787906941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BXXWZK": {
    "msg": "1542458910307262534",
@@ -7523,7 +7516,7 @@
    "end": 1787906161,
    "title": "Imagine the situation:",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "V5AR69": {
    "msg": "1542458931341824080",
@@ -8279,6 +8272,34 @@
    "end": 1787989561,
    "title": "Noise btw [LIMITED OFFER: 100% WIN]",
    "items": 152,
+   "ended": false
+  },
+  "50LAFU": {
+   "msg": "1542821284046700574",
+   "end": 1787993581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BONSE3": {
+   "msg": "1542821304544137286",
+   "end": 1787993401,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0RAR7S": {
+   "msg": "1542821313016500305",
+   "end": 1787992681,
+   "title": "What Beats Rock? #1",
+   "items": 3,
+   "ended": false
+  },
+  "6A1LRX": {
+   "msg": "1542821324093792296",
+   "end": 1787992561,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
