@@ -7551,7 +7551,7 @@
    "end": 1787958301,
    "title": "Battle Cats Propaganda #1377",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HTXON9": {
    "msg": "1542692869473574983",
@@ -8314,6 +8314,13 @@
    "end": 1788041402,
    "title": "MvM Update Australium Vote Part 17: Engineer Secondaries",
    "items": 3,
+   "ended": false
+  },
+  "1CZRL5": {
+   "msg": "1543037217356644352",
+   "end": 1788044400,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
