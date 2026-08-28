@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "ZE9T08": {
-   "msg": "1539964742058377329",
-   "end": 1787312642,
-   "title": "gift of the day #4",
-   "items": 1,
-   "ended": true
-  },
-  "NFEL0Z": {
-   "msg": "1539967460113911879",
-   "end": 1787313600,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "EH1SW2": {
    "msg": "1539974526304124928",
    "end": 1787314141,
@@ -7523,7 +7509,7 @@
    "end": 1787917742,
    "title": "Question #75",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GUQ6BD": {
    "msg": "1542504179124404258",
@@ -7565,14 +7551,14 @@
    "end": 1787918400,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CINW7F": {
    "msg": "1542511720956829697",
    "end": 1787918161,
    "title": "Question #76",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AQC567": {
    "msg": "1542519284939366532",
@@ -8257,6 +8243,20 @@
    "msg": "1542858988817883167",
    "end": 1788001200,
    "title": "Tough teacher, huh?",
+   "items": 1,
+   "ended": false
+  },
+  "4V8S27": {
+   "msg": "1542866570798174220",
+   "end": 1787961362,
+   "title": "hi",
+   "items": 2,
+   "ended": false
+  },
+  "5RSPFV": {
+   "msg": "1542866579317063700",
+   "end": 1787939101,
+   "title": "I'm got unbanned!!!!! Raffle #4",
    "items": 1,
    "ended": false
   }
