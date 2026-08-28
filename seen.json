@@ -7544,7 +7544,7 @@
    "end": 1787927701,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3YQCBB": {
    "msg": "1542556992088973422",
@@ -7558,7 +7558,7 @@
    "end": 1787929200,
    "title": "You're listening to SPICE FM (51)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "XUQQ7I": {
    "msg": "1542557005774983179",
@@ -7572,7 +7572,7 @@
    "end": 1787928781,
    "title": "Whay do we think of neon white",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6DBCW7": {
    "msg": "1542564590297288784",
@@ -8285,6 +8285,48 @@
    "msg": "1542904302912143502",
    "end": 1788011762,
    "title": "Only OG's remembers.",
+   "items": 1,
+   "ended": false
+  },
+  "CXDGBH": {
+   "msg": "1542911867502985308",
+   "end": 1788014882,
+   "title": "be nice to me.",
+   "items": 1,
+   "ended": false
+  },
+  "R6Y7VG": {
+   "msg": "1542911876948828200",
+   "end": 1788014461,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XWXG6Z": {
+   "msg": "1542911885098229861",
+   "end": 1787970600,
+   "title": "Tune of the day #322",
+   "items": 1,
+   "ended": false
+  },
+  "DYVGVC": {
+   "msg": "1542911892308103329",
+   "end": 1787970600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LGN79L": {
+   "msg": "1542911899966898247",
+   "end": 1787970600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WTPQ1S": {
+   "msg": "1542911909378924710",
+   "end": 1787970600,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
