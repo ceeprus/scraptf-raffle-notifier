@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "UV2M4A": {
-   "msg": "1540020264115503226",
-   "end": 1787325722,
-   "title": "It was worth it today!!",
-   "items": 5,
-   "ended": true
-  },
-  "K1Y3N5": {
-   "msg": "1540020271472316510",
-   "end": 1787325061,
-   "title": "If you're wondering how to get handsome\u2122 like me, the best way is skin care.",
-   "items": 1,
-   "ended": true
-  },
-  "9DXJ3W": {
-   "msg": "1540020279076716654",
-   "end": 1787324641,
-   "title": "Day 1348 of asking for megaraffle",
-   "items": 5,
-   "ended": true
-  },
   "TN6DSZ": {
    "msg": "1540026725533224961",
    "end": 1787327222,
@@ -7579,7 +7558,7 @@
    "end": 1787931000,
    "title": "MK Poll #11 + The Favorites of Music #289 & #290",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I49UX7": {
    "msg": "1542572086063792158",
@@ -8328,6 +8307,41 @@
    "end": 1787970600,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "H9PR5H": {
+   "msg": "1542919366973329588",
+   "end": 1788016981,
+   "title": "be nice to me.",
+   "items": 1,
+   "ended": false
+  },
+  "9LL7F0": {
+   "msg": "1542919373981884519",
+   "end": 1788015902,
+   "title": "be nice to me.",
+   "items": 1,
+   "ended": false
+  },
+  "MKDYWJ": {
+   "msg": "1542919382009647195",
+   "end": 1788015600,
+   "title": "Something is coming in two days",
+   "items": 1,
+   "ended": false
+  },
+  "JZK7PR": {
+   "msg": "1542919389643407480",
+   "end": 1788015600,
+   "title": "You're listening to SPICE FM (52)",
+   "items": 3,
+   "ended": false
+  },
+  "1I3Y1H": {
+   "msg": "1542919398304514140",
+   "end": 1787972221,
+   "title": "Wu-Tang is for the children!!",
+   "items": 4,
    "ended": false
   }
  },
