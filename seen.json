@@ -7439,21 +7439,21 @@
    "end": 1787898182,
    "title": "Question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8096VP": {
    "msg": "1542421079073497118",
    "end": 1787897521,
    "title": "Random Street View of the day #3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N5N0BP": {
    "msg": "1542421091115466782",
    "end": 1787897282,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LQ1VGG": {
    "msg": "1542436193004949554",
@@ -7950,7 +7950,7 @@
    "end": 1787897941,
    "title": "\ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FBOY2W": {
    "msg": "1542602314873966783",
@@ -8222,6 +8222,34 @@
    "msg": "1542775982925156466",
    "end": 1787981582,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "EBOW0H": {
+   "msg": "1542783476288192573",
+   "end": 1787984102,
+   "title": "I just woke up + my dream",
+   "items": 5,
+   "ended": false
+  },
+  "KFMNU7": {
+   "msg": "1542783485528248371",
+   "end": 1787983141,
+   "title": "Waluigi time Deluxe edition",
+   "items": 3,
+   "ended": false
+  },
+  "03BXCG": {
+   "msg": "1542783492348313621",
+   "end": 1787983141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1PBH8F": {
+   "msg": "1542783500598509662",
+   "end": 1787983022,
+   "title": "Grateful",
    "items": 1,
    "ended": false
   }
