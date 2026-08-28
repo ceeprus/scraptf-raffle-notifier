@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "WMWNEC": {
-   "msg": "1540080673522454620",
-   "end": 1787339581,
-   "title": "Some",
-   "items": 243,
-   "ended": true
-  },
   "RAG2LG": {
    "msg": "1540086312764317756",
    "end": 1787341621,
@@ -7607,14 +7600,14 @@
    "end": 1787944321,
    "title": "HELP ME CHOOSE",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "HS0M35": {
    "msg": "1542617387726016553",
    "end": 1787944021,
    "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u043a\u0430\u0440\u0442\u044b | 2 (\u0418 \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u043c\u043d\u0435 \u043d\u0443\u0436\u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c..)",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "Q4HGPH": {
    "msg": "1542624961867284613",
@@ -7628,7 +7621,7 @@
    "end": 1787945402,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1518 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 27,
-   "ended": false
+   "ended": true
   },
   "4LUZNA": {
    "msg": "1542632474335641640",
@@ -7901,7 +7894,7 @@
    "end": 1787944082,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R47AJD": {
    "msg": "1542806163748560977",
@@ -8377,6 +8370,27 @@
    "end": 1788028742,
    "title": "Have these",
    "items": 26,
+   "ended": false
+  },
+  "XQDCR0": {
+   "msg": "1542979787855896677",
+   "end": 1788031261,
+   "title": "Raffling a  every time I win a  #84",
+   "items": 1,
+   "ended": false
+  },
+  "8ERH9P": {
+   "msg": "1542979797502922773",
+   "end": 1788030781,
+   "title": "Something interesting!",
+   "items": 3,
+   "ended": false
+  },
+  "EQEYWC": {
+   "msg": "1542979808185684138",
+   "end": 1788030541,
+   "title": "raffle with reason",
+   "items": 2,
    "ended": false
   }
  },
