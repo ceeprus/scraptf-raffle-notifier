@@ -105,34 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "W49BK0": {
-   "msg": "1540306957800316959",
-   "end": 1787393462,
-   "title": "All We Are",
-   "items": 1,
-   "ended": true
-  },
-  "5LAIZD": {
-   "msg": "1540306964137902140",
-   "end": 1787393282,
-   "title": "#SlugmaShiny",
-   "items": 1,
-   "ended": true
-  },
-  "MELX7Z": {
-   "msg": "1540306970710642789",
-   "end": 1787393221,
-   "title": "r u ready...................",
-   "items": 1,
-   "ended": true
-  },
-  "O72IPU": {
-   "msg": "1540306977874509865",
-   "end": 1787392861,
-   "title": "It's me, Gordon! Leonard from middle school!\ud83c\udf0a\ud83d\udc1f",
-   "items": 2,
-   "ended": true
-  },
   "A9NK9R": {
    "msg": "1540314087416660009",
    "end": 1787395621,
@@ -427,13 +399,6 @@
    "items": 6,
    "ended": true
   },
-  "J8SOCX": {
-   "msg": "1540488349184172062",
-   "end": 1787393101,
-   "title": "week of rainblower!",
-   "items": 1,
-   "ended": true
-  },
   "5O6FIP": {
    "msg": "1540492614065856522",
    "end": 1787438054,
@@ -530,20 +495,6 @@
    "end": 1787456161,
    "title": "Please sign the waiver.",
    "items": 50,
-   "ended": true
-  },
-  "BO9ZXU": {
-   "msg": "1540578929247785031",
-   "end": 1787393522,
-   "title": "Gifted Quick-Fix",
-   "items": 1,
-   "ended": true
-  },
-  "PTLQXU": {
-   "msg": "1540578936419782797",
-   "end": 1787393341,
-   "title": "Gifted Tomislav",
-   "items": 1,
    "ended": true
   },
   "0DVG5K": {
@@ -7523,14 +7474,14 @@
    "end": 1787998621,
    "title": "Grabli304's raffle\u2503Day 180",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "RP0FKB": {
    "msg": "1542843889499643987",
    "end": 1787998142,
    "title": "Something about today",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "WV35IN": {
    "msg": "1542843895770128415",
@@ -8321,6 +8272,27 @@
    "end": 1787998621,
    "title": "winter",
    "items": 15,
+   "ended": true
+  },
+  "TNAIF8": {
+   "msg": "1543206257689624687",
+   "end": 1788085321,
+   "title": "im annoying",
+   "items": 1,
+   "ended": false
+  },
+  "0OT8BM": {
+   "msg": "1543206264329342997",
+   "end": 1788084541,
+   "title": "uhm",
+   "items": 1,
+   "ended": false
+  },
+  "0LS1EL": {
+   "msg": "1543206271665045595",
+   "end": 1788083642,
+   "title": "First raffle",
+   "items": 2,
    "ended": false
   }
  },
