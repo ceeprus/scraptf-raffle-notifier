@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "HKQ395": {
-   "msg": "1540484215228076053",
-   "end": 1787435941,
-   "title": "Hello! \ud83d\udc4b",
-   "items": 4,
-   "ended": true
-  },
   "EQ18MF": {
    "msg": "1540488336769290355",
    "end": 1787436579,
@@ -8412,7 +8405,7 @@
    "end": 1788040621,
    "title": "I am bored and i want to open 2 crates what cheap crates should i open.",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "DX15KS": {
    "msg": "1543372347891781754",
