@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "19VMYB": {
-   "msg": "1540396467577954424",
-   "end": 1787415001,
-   "title": "\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "BAI03W": {
-   "msg": "1540405058859040808",
-   "end": 1787416200,
-   "title": "VN devlog #48",
-   "items": 1,
-   "ended": true
-  },
-  "PU6DL5": {
-   "msg": "1540405065477652510",
-   "end": 1787415782,
-   "title": "Scrap.tf Birthdays - 21 August",
-   "items": 3,
-   "ended": true
-  },
   "U46TME": {
    "msg": "1540412852106690721",
    "end": 1787418961,
@@ -7600,28 +7579,28 @@
    "end": 1788020761,
    "title": "be mean to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z1MRZQ": {
    "msg": "1542934473560170548",
    "end": 1788020641,
    "title": "nice to be me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2YDXG4": {
    "msg": "1542934480694677564",
    "end": 1788019922,
    "title": "p-please... just be nice to me...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QK7NH8": {
    "msg": "1542934488940675095",
    "end": 1788019621,
    "title": "manga?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "3TDIJI": {
    "msg": "1542934498344312883",
@@ -8356,6 +8335,20 @@
    "end": 1788105301,
    "title": "SO MUCH NOISE",
    "items": 50,
+   "ended": false
+  },
+  "OR0U36": {
+   "msg": "1543296844006952980",
+   "end": 1788064021,
+   "title": "Untitled raffle",
+   "items": 3,
+   "ended": false
+  },
+  "EPIH6G": {
+   "msg": "1543296852512739339",
+   "end": 1788105600,
+   "title": "Scrap.tf Birthdays - 29 August",
+   "items": 1,
    "ended": false
   }
  },
