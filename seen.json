@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "05ID48": {
-   "msg": "1540375145531580436",
-   "end": 1787410561,
-   "title": "Items appearing randomly in an environment unexpectedly...",
-   "items": 1,
-   "ended": true
-  },
-  "ZWKSTZ": {
-   "msg": "1540375154209595392",
-   "end": 1787409661,
-   "title": "What would you do if 30,000 shrimps invaded in your room?",
-   "items": 1,
-   "ended": true
-  },
   "SWFJP5": {
    "msg": "1540382652782354492",
    "end": 1787412600,
@@ -131,13 +117,6 @@
    "end": 1787412542,
    "title": "the it",
    "items": 10,
-   "ended": true
-  },
-  "MHO56E": {
-   "msg": "1540382671916761148",
-   "end": 1787410802,
-   "title": "8 mvm tours... like 12 or smth killstreak crates... and nothing...",
-   "items": 50,
    "ended": true
   },
   "SHZZPC": {
@@ -7544,14 +7523,14 @@
    "end": 1788014882,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "R6Y7VG": {
    "msg": "1542911876948828200",
    "end": 1788014461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XWXG6Z": {
    "msg": "1542911885098229861",
@@ -7600,14 +7579,14 @@
    "end": 1788015600,
    "title": "Something is coming in two days",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JZK7PR": {
    "msg": "1542919389643407480",
    "end": 1788015600,
    "title": "You're listening to SPICE FM (52)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "1I3Y1H": {
    "msg": "1542919398304514140",
@@ -7922,7 +7901,7 @@
    "end": 1788014221,
    "title": "I told you to forget me, but you stayed by my side..",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "YZRBKF": {
    "msg": "1543093051461992568",
@@ -8355,6 +8334,20 @@
    "msg": "1543266645823459359",
    "end": 1788055561,
    "title": "Raffling Scrap Till I'm Out #1018 (Super late raffle)",
+   "items": 1,
+   "ended": false
+  },
+  "XXR8EC": {
+   "msg": "1543274228655329430",
+   "end": 1788100441,
+   "title": "\ufe0f\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "9CNQVC": {
+   "msg": "1543274235152044123",
+   "end": 1788056702,
+   "title": "1 Day....",
    "items": 1,
    "ended": false
   }
