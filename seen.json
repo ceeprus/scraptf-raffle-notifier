@@ -119,13 +119,6 @@
    "items": 1,
    "ended": true
   },
-  "QV91SZ": {
-   "msg": "1540336775816421437",
-   "end": 1787400000,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "KNPDDQ": {
    "msg": "1540344928163602483",
    "end": 1787403001,
@@ -7572,7 +7565,7 @@
    "end": 1788004800,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PW3N12": {
    "msg": "1542881656111632497",
@@ -8209,7 +8202,7 @@
    "end": 1788003481,
    "title": "My First Raffle!",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "VJ0JQ0": {
    "msg": "1543183658762903592",
@@ -8327,6 +8320,27 @@
    "msg": "1543221347545653299",
    "end": 1788088502,
    "title": "Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "75KKPS": {
+   "msg": "1543228931132366950",
+   "end": 1788011461,
+   "title": "I don't know",
+   "items": 2,
+   "ended": false
+  },
+  "TMWX0M": {
+   "msg": "1543228939571302471",
+   "end": 1788090302,
+   "title": "noise",
+   "items": 5,
+   "ended": false
+  },
+  "YPUELS": {
+   "msg": "1543228945787527218",
+   "end": 1788089882,
+   "title": "Stuttering in MvM",
    "items": 1,
    "ended": false
   }
