@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "V0ELBD": {
-   "msg": "1540469255445680259",
-   "end": 1787432400,
-   "title": "checkup #97 | things about this site",
-   "items": 1,
-   "ended": true
-  },
   "8VP1I8": {
    "msg": "1540477016200192031",
    "end": 1787433781,
@@ -7670,7 +7663,7 @@
    "end": 1788037200,
    "title": "checkup #103 | Contract related question",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BUHL1D": {
    "msg": "1543017574026186864",
@@ -8286,7 +8279,7 @@
    "end": 1788035461,
    "title": "I got 2 of this hats so you can have my extra",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BZNG32": {
    "msg": "1543311951717998794",
