@@ -105,45 +105,10 @@
    "items": 1,
    "ended": false
   },
-  "KNPDDQ": {
-   "msg": "1540344928163602483",
-   "end": 1787403001,
-   "title": "Daily raffle #352",
-   "items": 1,
-   "ended": true
-  },
-  "NHQ7CK": {
-   "msg": "1540344942428426291",
-   "end": 1787401982,
-   "title": "[!DAY 19!] Scrap tf HG",
-   "items": 1,
-   "ended": true
-  },
   "DQ92XN": {
    "msg": "1540351321557696624",
    "end": 1787403841,
    "title": "Daily Brass Beast #545",
-   "items": 1,
-   "ended": true
-  },
-  "2TWML1": {
-   "msg": "1540351327941697698",
-   "end": 1787403600,
-   "title": "The Scottish Engine That Conquered Canada - 'Dunrobin'",
-   "items": 1,
-   "ended": true
-  },
-  "DR48BD": {
-   "msg": "1540351335432458400",
-   "end": 1787403242,
-   "title": "STEAM COMMENTS TROLL #34",
-   "items": 1,
-   "ended": true
-  },
-  "LBQUAV": {
-   "msg": "1540351343573606523",
-   "end": 1787403181,
-   "title": "gift of the day #4",
    "items": 1,
    "ended": true
   },
@@ -550,13 +515,6 @@
    "msg": "1540639330442289182",
    "end": 1787473141,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #4",
-   "items": 1,
-   "ended": true
-  },
-  "7KKPDR": {
-   "msg": "1540645252443152385",
-   "end": 1787402101,
-   "title": "Zap Zap",
    "items": 1,
    "ended": true
   },
@@ -7551,7 +7509,7 @@
    "end": 1788008400,
    "title": "The Tree That Almost Started a War",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZSFSUK": {
    "msg": "1542881677729202196",
@@ -8341,6 +8299,34 @@
    "msg": "1543236472105336934",
    "end": 1788091200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "25RAX7": {
+   "msg": "1543244031671144479",
+   "end": 1788093842,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "S8FJYK": {
+   "msg": "1543244050017161216",
+   "end": 1788093721,
+   "title": "Graveyard Raffle (#15)",
+   "items": 3,
+   "ended": false
+  },
+  "E1ERUA": {
+   "msg": "1543244059148161054",
+   "end": 1788093601,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NPHZE7": {
+   "msg": "1543244065540276305",
+   "end": 1788093542,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
