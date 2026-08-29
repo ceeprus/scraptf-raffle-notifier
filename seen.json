@@ -7481,7 +7481,7 @@
    "end": 1787981941,
    "title": "Bone 2: Electric Boogaloo",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JRX50G": {
    "msg": "1542775977288138884",
@@ -7495,7 +7495,7 @@
    "end": 1787981582,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EBOW0H": {
    "msg": "1542783476288192573",
@@ -7509,21 +7509,21 @@
    "end": 1787983141,
    "title": "Waluigi time Deluxe edition",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "03BXCG": {
    "msg": "1542783492348313621",
    "end": 1787983141,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1PBH8F": {
    "msg": "1542783500598509662",
    "end": 1787983022,
    "title": "Grateful",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "I6WH3P": {
    "msg": "1542791068758573106",
@@ -8272,6 +8272,13 @@
    "end": 1788067021,
    "title": "a bit of noise never killed anyone #44",
    "items": 2,
+   "ended": false
+  },
+  "KIO32Y": {
+   "msg": "1543138363626889287",
+   "end": 1788067922,
+   "title": "Only for grabli304",
+   "items": 126,
    "ended": false
   }
  },
