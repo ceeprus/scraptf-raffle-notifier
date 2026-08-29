@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "XAHZXF": {
-   "msg": "1540446668036771875",
-   "end": 1787426941,
-   "title": "Hii :3 This is my eleventh raffle, wow",
-   "items": 2,
-   "ended": true
-  },
   "PCC0ZB": {
    "msg": "1540450627656614070",
    "end": 1787428261,
@@ -7649,21 +7642,21 @@
    "end": 1788031261,
    "title": "Raffling a  every time I win a  #84",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8ERH9P": {
    "msg": "1542979797502922773",
    "end": 1788030781,
    "title": "Something interesting!",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "EQEYWC": {
    "msg": "1542979808185684138",
    "end": 1788030541,
    "title": "raffle with reason",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "WBSMCJ": {
    "msg": "1542987465176912022",
@@ -8391,6 +8384,20 @@
    "end": 1788114721,
    "title": "a bit of noise never killed anyone #45",
    "items": 2,
+   "ended": false
+  },
+  "2C2Y17": {
+   "msg": "1543342154825605133",
+   "end": 1788074581,
+   "title": "Some piss belts from King Tonka",
+   "items": 50,
+   "ended": false
+  },
+  "YJYVKB": {
+   "msg": "1543342165961211945",
+   "end": 1788116821,
+   "title": "Untitled raffle",
+   "items": 3,
    "ended": false
   }
  },
