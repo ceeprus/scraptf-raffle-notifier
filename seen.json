@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "SHZZPC": {
-   "msg": "1540389089218535545",
-   "end": 1787413681,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
-  "O5FLL9": {
-   "msg": "1540390255910199296",
-   "end": 1787414400,
-   "title": "Weekly  #103",
-   "items": 4,
-   "ended": true
-  },
   "19VMYB": {
    "msg": "1540396467577954424",
    "end": 1787415001,
@@ -621,13 +607,6 @@
    "end": 1787456461,
    "title": "Detergente y Parentesco",
    "items": 2,
-   "ended": true
-  },
-  "FMB7ST": {
-   "msg": "1540748075910561855",
-   "end": 1787413381,
-   "title": "Untitled raffle",
-   "items": 21,
    "ended": true
   },
   "1LQYA8": {
@@ -7586,7 +7565,7 @@
    "end": 1788018721,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "E5ZWY8": {
    "msg": "1542926970407493632",
@@ -7600,7 +7579,7 @@
    "end": 1788018301,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "75KD2Y": {
    "msg": "1542926984848343150",
@@ -7649,14 +7628,14 @@
    "end": 1788019200,
    "title": "Weekly  #104",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "J2I000": {
    "msg": "1542934506733051965",
    "end": 1788019200,
    "title": "Scrap.tf Birthdays - 28 August",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5DZEHG": {
    "msg": "1542942056224129134",
@@ -8370,6 +8349,13 @@
    "end": 1788103800,
    "title": "MK Poll #12 + The Favorites of Music #291 & #292",
    "items": 1,
+   "ended": false
+  },
+  "COENY3": {
+   "msg": "1543289355487944784",
+   "end": 1788105301,
+   "title": "SO MUCH NOISE",
+   "items": 50,
    "ended": false
   }
  },
