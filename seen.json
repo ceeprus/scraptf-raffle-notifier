@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "N7WASN": {
-   "msg": "1540231639844786247",
-   "end": 1787375761,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "R8E05P": {
    "msg": "1540246741683667025",
    "end": 1787379482,
@@ -7481,7 +7474,7 @@
    "end": 1787980321,
    "title": "The Peppermint Patty fan has been here for 6 years.",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "6NDLAP": {
    "msg": "1542775970807947284",
@@ -8153,7 +8146,7 @@
    "end": 1787980502,
    "title": "bonked",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "PVCQ6W": {
    "msg": "1543070363838320681",
@@ -8271,6 +8264,13 @@
    "msg": "1543115667098566708",
    "end": 1788062882,
    "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "18SMH6": {
+   "msg": "1543130753142096024",
+   "end": 1788067021,
+   "title": "a bit of noise never killed anyone #44",
    "items": 2,
    "ended": false
   }
