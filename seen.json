@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "KY72P8": {
-   "msg": "1540299021183352854",
-   "end": 1787390761,
-   "title": "Question",
-   "items": 1,
-   "ended": true
-  },
   "W49BK0": {
    "msg": "1540306957800316959",
    "end": 1787393462,
@@ -8313,6 +8306,27 @@
    "msg": "1543183665587298344",
    "end": 1788078481,
    "title": "RESERVE SHOOTER FOR PYROMAN",
+   "items": 1,
+   "ended": false
+  },
+  "YWU36Q": {
+   "msg": "1543191200637517924",
+   "end": 1788039000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FY028M": {
+   "msg": "1543191207906119682",
+   "end": 1788039000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3QZWBR": {
+   "msg": "1543191215061860496",
+   "end": 1788039000,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
