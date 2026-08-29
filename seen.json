@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "PNQ2WA": {
-   "msg": "1540426203335237743",
-   "end": 1787421662,
-   "title": "Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bBlog Spamton #4",
-   "items": 1,
-   "ended": true
-  },
   "WQ3PV2": {
    "msg": "1540435546755825664",
    "end": 1787423882,
@@ -7642,14 +7635,14 @@
    "end": 1788027842,
    "title": "Daily Brass Beast #552",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SAIEYL": {
    "msg": "1542964670804009045",
    "end": 1788027781,
    "title": "Guys",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "F1N577": {
    "msg": "1542972269826154637",
@@ -8363,6 +8356,34 @@
    "end": 1788110641,
    "title": "is there anywhere I can get free tf2 items?",
    "items": 1,
+   "ended": false
+  },
+  "IF8DE5": {
+   "msg": "1543327062217990335",
+   "end": 1788113822,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UXM9C1": {
+   "msg": "1543327068073234506",
+   "end": 1788113701,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZBNDG5": {
+   "msg": "1543327074494845111",
+   "end": 1788113581,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "S53CSI": {
+   "msg": "1543327082229137448",
+   "end": 1788112861,
+   "title": "I have entered 6969 raffles",
+   "items": 21,
    "ended": false
   }
  },
