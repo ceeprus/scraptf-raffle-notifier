@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "DQ92XN": {
-   "msg": "1540351321557696624",
-   "end": 1787403841,
-   "title": "Daily Brass Beast #545",
-   "items": 1,
-   "ended": true
-  },
   "EC6254": {
    "msg": "1540360042988179487",
    "end": 1787406182,
@@ -7523,14 +7516,14 @@
    "end": 1788010202,
    "title": "gift of the day #10",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X8B3SU": {
    "msg": "1542889179896086588",
    "end": 1788009481,
    "title": "Team Graveyard: The Heavy",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XLQQN8": {
    "msg": "1542896765592670291",
@@ -8090,7 +8083,7 @@
    "end": 1788009841,
    "title": "\u0420\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0438 \u043a\u0430\u043a\u0438\u0435-\u0442\u043e?  \u041c\u043e\u0436\u043d\u043e \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "NH3PM9": {
    "msg": "1543160954014146661",
@@ -8327,6 +8320,34 @@
    "msg": "1543244065540276305",
    "end": 1788093542,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6XVIEE": {
+   "msg": "1543251543799631912",
+   "end": 1788095821,
+   "title": "I've made new friends.  \ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "FDGOKX": {
+   "msg": "1543251554197315604",
+   "end": 1788023282,
+   "title": "Heyooo",
+   "items": 7,
+   "ended": false
+  },
+  "A4BK6W": {
+   "msg": "1543251565719322774",
+   "end": 1788095042,
+   "title": "Veri cool raffle",
+   "items": 10,
+   "ended": false
+  },
+  "6EFQX0": {
+   "msg": "1543251571951804416",
+   "end": 1788094800,
+   "title": "The Legendary Exploits of Bum Farto",
    "items": 1,
    "ended": false
   }
