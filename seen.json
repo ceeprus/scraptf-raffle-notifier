@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "MWFNKO": {
-   "msg": "1540183229548593152",
-   "end": 1787364361,
-   "title": "Can we destroy the month of September?",
-   "items": 3,
-   "ended": true
-  },
-  "50ASO7": {
-   "msg": "1540186342170959932",
-   "end": 1787365502,
-   "title": "I remember one day, maybe was the first day of my life",
-   "items": 5,
-   "ended": true
-  },
-  "ZZCJS2": {
-   "msg": "1540186350274216056",
-   "end": 1787365381,
-   "title": "I Drew Ts 23",
-   "items": 1,
-   "ended": true
-  },
   "FH7H64": {
    "msg": "1540200724728651808",
    "end": 1787368681,
@@ -7544,7 +7523,7 @@
    "end": 1787970061,
    "title": "#SlugmaSweeeeeeeeeeeeeeeeeeeeeeeeeeeeeep",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "P6E8T0": {
    "msg": "1542738156787339355",
@@ -7971,28 +7950,28 @@
    "end": 1787970600,
    "title": "Tune of the day #322",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DYVGVC": {
    "msg": "1542911892308103329",
    "end": 1787970600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LGN79L": {
    "msg": "1542911899966898247",
    "end": 1787970600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WTPQ1S": {
    "msg": "1542911909378924710",
    "end": 1787970600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H9PR5H": {
    "msg": "1542919366973329588",
