@@ -7516,21 +7516,21 @@
    "end": 1787986381,
    "title": "Feeling lucky today",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "3LLBMQ": {
    "msg": "1542791077365293066",
    "end": 1787985781,
    "title": "Just got my first unusual scammed",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "MMEX67": {
    "msg": "1542791085447843902",
    "end": 1787985602,
    "title": "Random Street View of the day #4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N6S23Z": {
    "msg": "1542791093756891257",
@@ -8139,7 +8139,7 @@
    "end": 1787986802,
    "title": "Unclaimed Items",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "WIE8JI": {
    "msg": "1543070372394700832",
@@ -8279,6 +8279,13 @@
    "end": 1788069362,
    "title": "crab",
    "items": 16,
+   "ended": false
+  },
+  "74RHHJ": {
+   "msg": "1543153459250069544",
+   "end": 1788072722,
+   "title": "I got a new computer case. I felt like sharing.",
+   "items": 1,
    "ended": false
   }
  },
