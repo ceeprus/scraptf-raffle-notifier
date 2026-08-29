@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "SWFJP5": {
-   "msg": "1540382652782354492",
-   "end": 1787412600,
-   "title": "MK Poll #8 + The Favorites of Music #283 & #284",
-   "items": 1,
-   "ended": true
-  },
-  "Z1X7FH": {
-   "msg": "1540382661535862784",
-   "end": 1787412542,
-   "title": "the it",
-   "items": 10,
-   "ended": true
-  },
   "SHZZPC": {
    "msg": "1540389089218535545",
    "end": 1787413681,
@@ -7565,14 +7551,14 @@
    "end": 1788016981,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9LL7F0": {
    "msg": "1542919373981884519",
    "end": 1788015902,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MKDYWJ": {
    "msg": "1542919382009647195",
@@ -8349,6 +8335,34 @@
    "end": 1788056702,
    "title": "1 Day....",
    "items": 1,
+   "ended": false
+  },
+  "ERH57N": {
+   "msg": "1543281781686403072",
+   "end": 1788103322,
+   "title": "stuff",
+   "items": 33,
+   "ended": false
+  },
+  "IMJ1X8": {
+   "msg": "1543281790096248912",
+   "end": 1788102000,
+   "title": "Something is coming in a day",
+   "items": 1,
+   "ended": false
+  },
+  "F131J0": {
+   "msg": "1543281797725421655",
+   "end": 1788058800,
+   "title": "Tune of the day #323",
+   "items": 1,
+   "ended": false
+  },
+  "KISE3A": {
+   "msg": "1543281806131077230",
+   "end": 1788102000,
+   "title": "You're listening to SPICE FM (53)",
+   "items": 3,
    "ended": false
   }
  },
