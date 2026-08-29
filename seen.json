@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "PCC0ZB": {
-   "msg": "1540450627656614070",
-   "end": 1787428261,
-   "title": "3 Scrap For 3 Wins",
-   "items": 3,
-   "ended": true
-  },
-  "MXCPT3": {
-   "msg": "1540454303116828714",
-   "end": 1787428801,
-   "title": "i think i lost a close friend of mine(first faffle btw)",
-   "items": 28,
-   "ended": true
-  },
-  "6C5OEQ": {
-   "msg": "1540454312252022895",
-   "end": 1787428800,
-   "title": "We need more Engineer Mains! | #011",
-   "items": 6,
-   "ended": true
-  },
   "V0ELBD": {
    "msg": "1540469255445680259",
    "end": 1787432400,
@@ -7663,21 +7642,21 @@
    "end": 1788032341,
    "title": "Most Joyous Friday To You",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "H5KC6Y": {
    "msg": "1542987473779687605",
    "end": 1788031981,
    "title": "Raffling a  every time I win a  #85",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "O3UQF2": {
    "msg": "1542987480934907994",
    "end": 1788031922,
    "title": "do you have the time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "KFKM7W": {
    "msg": "1543009968691871744",
@@ -7936,7 +7915,7 @@
    "end": 1788032821,
    "title": "first raffle!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "JMYNH9": {
    "msg": "1543168576482185237",
@@ -8398,6 +8377,34 @@
    "end": 1788116821,
    "title": "Untitled raffle",
    "items": 3,
+   "ended": false
+  },
+  "2YZGUP": {
+   "msg": "1543349755202240542",
+   "end": 1788119401,
+   "title": "Gas passers",
+   "items": 49,
+   "ended": false
+  },
+  "BQVOFS": {
+   "msg": "1543349766614687804",
+   "end": 1788119401,
+   "title": "top 20 people i HATE on this website.",
+   "items": 1,
+   "ended": false
+  },
+  "VRWMM6": {
+   "msg": "1543349773615243345",
+   "end": 1788119221,
+   "title": "Kiestu crafting ALL the weapons #11",
+   "items": 1,
+   "ended": false
+  },
+  "XGXE3P": {
+   "msg": "1543349780179058748",
+   "end": 1788119101,
+   "title": "what cosmetics are you guys tryna get right now?",
+   "items": 1,
    "ended": false
   }
  },
