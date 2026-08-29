@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "8VP1I8": {
-   "msg": "1540477016200192031",
-   "end": 1787433781,
-   "title": "I got som stuff so you can have them too!",
-   "items": 41,
-   "ended": true
-  },
   "HKQ395": {
    "msg": "1540484215228076053",
    "end": 1787435941,
@@ -7656,7 +7649,7 @@
    "end": 1788038701,
    "title": "be slugma to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZM0KEJ": {
    "msg": "1543009975180460052",
@@ -7950,21 +7943,21 @@
    "end": 1788039000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FY028M": {
    "msg": "1543191207906119682",
    "end": 1788039000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3QZWBR": {
    "msg": "1543191215061860496",
    "end": 1788039000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RN0CQW": {
    "msg": "1543198742474133524",
@@ -8419,6 +8412,27 @@
    "end": 1788040621,
    "title": "I am bored and i want to open 2 crates what cheap crates should i open.",
    "items": 6,
+   "ended": false
+  },
+  "DX15KS": {
+   "msg": "1543372347891781754",
+   "end": 1788082202,
+   "title": "Unable to enter raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FRGQA3": {
+   "msg": "1543372354900594799",
+   "end": 1788124321,
+   "title": "Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BWB93D": {
+   "msg": "1543372361095450674",
+   "end": 1788123600,
+   "title": "checkup #104 | Something",
+   "items": 1,
    "ended": false
   }
  },
