@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "MVYNHN": {
-   "msg": "1540209039680610346",
-   "end": 1787371200,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1512 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 21,
-   "ended": true
-  },
-  "K6UH1B": {
-   "msg": "1540209047075164240",
-   "end": 1787371080,
-   "title": "Unraveling Threads",
-   "items": 1,
-   "ended": true
-  },
-  "YPROFA": {
-   "msg": "1540209060648059022",
-   "end": 1787369941,
-   "title": "Stuff i found on the internet",
-   "items": 3,
-   "ended": true
-  },
   "A1Z66L": {
    "msg": "1540216547451346956",
    "end": 1787372161,
@@ -439,13 +418,6 @@
    "end": 1787413681,
    "title": "raffle",
    "items": 4,
-   "ended": true
-  },
-  "RPHRH3": {
-   "msg": "1540389098945118299",
-   "end": 1787370362,
-   "title": "question",
-   "items": 3,
    "ended": true
   },
   "O5FLL9": {
@@ -7516,21 +7488,21 @@
    "end": 1787975700,
    "title": "Bunker Busting",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EYI2OL": {
    "msg": "1542745772699688970",
    "end": 1787975221,
    "title": "fire's few days hiatus",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "R79F4X": {
    "msg": "1542745779381207066",
    "end": 1787974561,
    "title": "Just have a drink and you'll feel better!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J34I2M": {
    "msg": "1542753270475268146",
@@ -7544,7 +7516,7 @@
    "end": 1787976000,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1519 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 28,
-   "ended": false
+   "ended": true
   },
   "5FKI67": {
    "msg": "1542760886836396138",
@@ -8328,6 +8300,48 @@
    "end": 1787994000,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "56XMLZ": {
+   "msg": "1543108136070815844",
+   "end": 1788062101,
+   "title": "Gotta love free hats",
+   "items": 60,
+   "ended": false
+  },
+  "B3V6W8": {
+   "msg": "1543108146564825158",
+   "end": 1788062041,
+   "title": "Caf\u00e9 Crit-A-Coffee #1769",
+   "items": 10,
+   "ended": false
+  },
+  "2CEV94": {
+   "msg": "1543108153896599585",
+   "end": 1788061921,
+   "title": "An Update; Inconsistent uploads (important?)",
+   "items": 1,
+   "ended": false
+  },
+  "GMILZD": {
+   "msg": "1543108161853063190",
+   "end": 1788061681,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #109 \ud83c\udf0a\ud83d\udc1f",
+   "items": 3,
+   "ended": false
+  },
+  "DAQTYI": {
+   "msg": "1543108168639455363",
+   "end": 1788060841,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #108 \ud83c\udf0a\ud83d\udc1f",
+   "items": 3,
+   "ended": false
+  },
+  "B58S00": {
+   "msg": "1543108176050659328",
+   "end": 1788060601,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #107 \ud83c\udf0a\ud83d\udc1f",
+   "items": 3,
    "ended": false
   }
  },
