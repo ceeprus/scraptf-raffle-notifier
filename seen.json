@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "A1Z66L": {
-   "msg": "1540216547451346956",
-   "end": 1787372161,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "OZ0FKV": {
    "msg": "1540224145646682112",
    "end": 1787374200,
@@ -144,13 +137,6 @@
    "msg": "1540224178446143539",
    "end": 1787373061,
    "title": "Day 68 of Asking for Mystery Raffles",
-   "items": 1,
-   "ended": true
-  },
-  "52ZMGS": {
-   "msg": "1540224185685770359",
-   "end": 1787372642,
-   "title": "Day 72 of Asking for a Follow Button",
    "items": 1,
    "ended": true
   },
@@ -8342,6 +8328,13 @@
    "end": 1788062400,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1520 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 29,
+   "ended": false
+  },
+  "P6SZ30": {
+   "msg": "1543115667098566708",
+   "end": 1788062882,
+   "title": "Waluigi time",
+   "items": 2,
    "ended": false
   }
  },
