@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "EQ18MF": {
-   "msg": "1540488336769290355",
-   "end": 1787436579,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "NRBMB3": {
-   "msg": "1540488343064813621",
-   "end": 1787436481,
-   "title": "The Pain Train has no brakes",
-   "items": 6,
-   "ended": true
-  },
   "5O6FIP": {
    "msg": "1540492614065856522",
    "end": 1787438054,
@@ -7663,14 +7649,14 @@
    "end": 1788042241,
    "title": "MvM Update Australium Vote Part 18: Engineer Melees",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "WX8UX1": {
    "msg": "1543025061139845205",
    "end": 1788041402,
    "title": "MvM Update Australium Vote Part 17: Engineer Secondaries",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "1CZRL5": {
    "msg": "1543037217356644352",
@@ -8020,7 +8006,7 @@
    "end": 1788042482,
    "title": "Another wave of Killstreak Kits",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "LK72V7": {
    "msg": "1543217377876123669",
@@ -8425,6 +8411,27 @@
    "msg": "1543372361095450674",
    "end": 1788123600,
    "title": "checkup #104 | Something",
+   "items": 1,
+   "ended": false
+  },
+  "UH1BFS": {
+   "msg": "1543387461810655252",
+   "end": 1788084000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AD3EP7": {
+   "msg": "1543387468374605825",
+   "end": 1788084000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "N07DI9": {
+   "msg": "1543387475119055028",
+   "end": 1788084000,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
