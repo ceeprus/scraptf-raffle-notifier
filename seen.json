@@ -7873,7 +7873,7 @@
    "end": 1787961362,
    "title": "hi",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "5RSPFV": {
    "msg": "1542866579317063700",
@@ -8202,14 +8202,14 @@
    "end": 1787961061,
    "title": "take that",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "G0C7O4": {
    "msg": "1542957148709986406",
    "end": 1787960761,
    "title": "I don't want this",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EF54QW": {
    "msg": "1542964663329751043",
@@ -8322,12 +8322,19 @@
    "title": "A  a day",
    "items": 1,
    "ended": false
+  },
+  "FB2H0K": {
+   "msg": "1543047758334918707",
+   "end": 1788047581,
+   "title": "I quit",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
-  "num": 1169,
-  "end": 1787961600,
-  "msg": "1541960610340806782",
+  "num": 1170,
+  "end": 1788220800,
+  "msg": "1543047792602382428",
   "ended": false
  }
 }
