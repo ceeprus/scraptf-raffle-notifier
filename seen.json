@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "DEAQC4": {
-   "msg": "1540156166783635566",
-   "end": 1787358361,
-   "title": "Hale's Own Trials: Persian Persuader: Day 9",
-   "items": 1,
-   "ended": true
-  },
-  "TTYYVM": {
-   "msg": "1540156177801936978",
-   "end": 1787358242,
-   "title": "Easy Extras",
-   "items": 6,
-   "ended": true
-  },
   "U3PCHY": {
    "msg": "1540160214769209436",
    "end": 1787359021,
@@ -7558,14 +7544,14 @@
    "end": 1787961841,
    "title": "Mi tercer video de Tf2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PYHQ5J": {
    "msg": "1542692884065816717",
    "end": 1787961721,
    "title": "Birthday Raffle!",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "CEWGFO": {
    "msg": "1542700464334966895",
@@ -7915,7 +7901,7 @@
    "end": 1787961901,
    "title": "Cat piss",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T9OCYW": {
    "msg": "1542874116976283648",
@@ -8327,6 +8313,20 @@
    "msg": "1543047758334918707",
    "end": 1788047581,
    "title": "I quit",
+   "items": 1,
+   "ended": false
+  },
+  "ZZ5H3W": {
+   "msg": "1543055271566385345",
+   "end": 1788049321,
+   "title": "Another #slugposting raffle",
+   "items": 1,
+   "ended": false
+  },
+  "A057V6": {
+   "msg": "1543055287819304991",
+   "end": 1788049083,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
