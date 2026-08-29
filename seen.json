@@ -7516,7 +7516,7 @@
    "end": 1788012781,
    "title": "\ufe0f\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2V2PCB": {
    "msg": "1542904286126542899",
@@ -8341,6 +8341,20 @@
    "msg": "1543259148437946379",
    "end": 1788096901,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HHV90S": {
+   "msg": "1543266639234211912",
+   "end": 1788098882,
+   "title": "everyones help is needed",
+   "items": 4,
+   "ended": false
+  },
+  "9R6CFO": {
+   "msg": "1543266645823459359",
+   "end": 1788055561,
+   "title": "Raffling Scrap Till I'm Out #1018 (Super late raffle)",
    "items": 1,
    "ended": false
   }
