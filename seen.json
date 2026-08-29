@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "U46TME": {
-   "msg": "1540412852106690721",
-   "end": 1787418961,
-   "title": "#DailySlugma",
-   "items": 1,
-   "ended": true
-  },
   "PNQ2WA": {
    "msg": "1540426203335237743",
    "end": 1787421662,
@@ -7628,7 +7621,7 @@
    "end": 1788022981,
    "title": "hit a certain milestone",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "CVAPFX": {
    "msg": "1542949567518220288",
@@ -8202,7 +8195,7 @@
    "end": 1788023282,
    "title": "Heyooo",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "A4BK6W": {
    "msg": "1543251565719322774",
@@ -8349,6 +8342,27 @@
    "end": 1788035461,
    "title": "I got 2 of this hats so you can have my extra",
    "items": 1,
+   "ended": false
+  },
+  "BZNG32": {
+   "msg": "1543311951717998794",
+   "end": 1788110161,
+   "title": "definitely lost smth",
+   "items": 5,
+   "ended": false
+  },
+  "6054CN": {
+   "msg": "1543311958898507847",
+   "end": 1788109261,
+   "title": "Asking for slugma chain emoticon day 14.2",
+   "items": 1,
+   "ended": false
+  },
+  "9MFCP8": {
+   "msg": "1543311966666358924",
+   "end": 1788109200,
+   "title": "Daily raffle until TF2 gets a major update #606",
+   "items": 3,
    "ended": false
   }
  },
