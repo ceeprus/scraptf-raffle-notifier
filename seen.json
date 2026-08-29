@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "0LIQRU": {
-   "msg": "1540171254223478924",
-   "end": 1787361662,
-   "title": "Slugma Chain raffle #12-14",
-   "items": 1,
-   "ended": true
-  },
-  "OYLKFA": {
-   "msg": "1540171260963852378",
-   "end": 1787360821,
-   "title": "MvM Update Australium Vote Part 10: Demoman Primaries",
-   "items": 3,
-   "ended": true
-  },
   "IXLWB6": {
    "msg": "1540178844609286244",
    "end": 1787363101,
@@ -8321,6 +8307,27 @@
    "end": 1788049083,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "PBY920": {
+   "msg": "1543070356032589935",
+   "end": 1787980502,
+   "title": "bonked",
+   "items": 11,
+   "ended": false
+  },
+  "PVCQ6W": {
+   "msg": "1543070363838320681",
+   "end": 1787986802,
+   "title": "Unclaimed Items",
+   "items": 5,
+   "ended": false
+  },
+  "WIE8JI": {
+   "msg": "1543070372394700832",
+   "end": 1788051600,
+   "title": "Reminder to eat n' drink water if ye haven't yet #277",
+   "items": 5,
    "ended": false
   }
  },
