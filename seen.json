@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "K6FHOQ": {
-   "msg": "1540269428514758666",
-   "end": 1787384641,
-   "title": "free stuff (comes with emotional package)",
-   "items": 6,
-   "ended": true
-  },
   "9325C5": {
    "msg": "1540276961006456934",
    "end": 1787387041,
@@ -7537,7 +7530,7 @@
    "end": 1787989561,
    "title": "Noise btw [LIMITED OFFER: 100% WIN]",
    "items": 152,
-   "ended": false
+   "ended": true
   },
   "50LAFU": {
    "msg": "1542821284046700574",
@@ -8293,6 +8286,41 @@
    "end": 1788073382,
    "title": "Question #79",
    "items": 1,
+   "ended": false
+  },
+  "R7R80N": {
+   "msg": "1543168556034826353",
+   "end": 1788076322,
+   "title": "winter",
+   "items": 50,
+   "ended": false
+  },
+  "X3W2IN": {
+   "msg": "1543168563999940638",
+   "end": 1788032821,
+   "title": "first raffle!",
+   "items": 4,
+   "ended": false
+  },
+  "JMYNH9": {
+   "msg": "1543168576482185237",
+   "end": 1788075721,
+   "title": "Hello",
+   "items": 23,
+   "ended": false
+  },
+  "B6B3AX": {
+   "msg": "1543168583461380136",
+   "end": 1788075601,
+   "title": "Introvert",
+   "items": 1,
+   "ended": false
+  },
+  "WN8CM0": {
+   "msg": "1543168590193369158",
+   "end": 1788003481,
+   "title": "My First Raffle!",
+   "items": 2,
    "ended": false
   }
  },
