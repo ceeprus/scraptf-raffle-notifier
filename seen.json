@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "IXLWB6": {
-   "msg": "1540178844609286244",
-   "end": 1787363101,
-   "title": "Battle Cats Propaganda #1376",
-   "items": 1,
-   "ended": true
-  },
   "MWFNKO": {
    "msg": "1540183229548593152",
    "end": 1787364361,
@@ -8328,6 +8321,13 @@
    "end": 1788051600,
    "title": "Reminder to eat n' drink water if ye haven't yet #277",
    "items": 5,
+   "ended": false
+  },
+  "44DFD8": {
+   "msg": "1543077950876942396",
+   "end": 1788055021,
+   "title": "Do you think?",
+   "items": 3,
    "ended": false
   }
  },
