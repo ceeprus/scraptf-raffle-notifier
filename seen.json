@@ -112,55 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "5O6FIP": {
-   "msg": "1540492614065856522",
-   "end": 1787438054,
-   "title": "Best K-pop songs #2 (in my opinion and in no order)",
-   "items": 3,
-   "ended": true
-  },
-  "HDXI3G": {
-   "msg": "1540492620273557614",
-   "end": 1787438049,
-   "title": "Best K-pop songs #1 (in my opinion and in no order)",
-   "items": 3,
-   "ended": true
-  },
-  "BPAXUN": {
-   "msg": "1540495933840560181",
-   "end": 1787439121,
-   "title": "Best Portal npc winner:",
-   "items": 4,
-   "ended": true
-  },
-  "JPCG1N": {
-   "msg": "1540495941981966397",
-   "end": 1787439061,
-   "title": "INVASION! (Full Length SFM Project)",
-   "items": 14,
-   "ended": true
-  },
-  "AISCCC": {
-   "msg": "1540495949539840082",
-   "end": 1787438281,
-   "title": "today is my birthday",
-   "items": 20,
-   "ended": true
-  },
-  "13MTIJ": {
-   "msg": "1540499531530240081",
-   "end": 1787439601,
-   "title": "I won my first raffle!",
-   "items": 2,
-   "ended": true
-  },
-  "JVJ8HY": {
-   "msg": "1540499538035478618",
-   "end": 1787439600,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "7LR6EA": {
    "msg": "1540518545744732290",
    "end": 1787444701,
@@ -7663,7 +7614,7 @@
    "end": 1788044400,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FB2H0K": {
    "msg": "1543047758334918707",
@@ -8433,6 +8384,13 @@
    "end": 1788084000,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "2MHVJL": {
+   "msg": "1543395025952579635",
+   "end": 1788129061,
+   "title": "Blackimus has dropped a new episode of The Scratched Universe!!",
+   "items": 10,
    "ended": false
   }
  },
