@@ -105,20 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "WQ3PV2": {
-   "msg": "1540435546755825664",
-   "end": 1787423882,
-   "title": "Mvm Update has a good chance of dropping soon...",
-   "items": 5,
-   "ended": true
-  },
-  "0NDBJ4": {
-   "msg": "1540435552774393887",
-   "end": 1787423461,
-   "title": "Kiestu crafting all the weapons #3",
-   "items": 1,
-   "ended": true
-  },
   "EPFLO5": {
    "msg": "1540443052634546358",
    "end": null,
@@ -7656,7 +7642,7 @@
    "end": 1788028742,
    "title": "Have these",
    "items": 26,
-   "ended": false
+   "ended": true
   },
   "XQDCR0": {
    "msg": "1542979787855896677",
@@ -8384,6 +8370,27 @@
    "end": 1788112861,
    "title": "I have entered 6969 raffles",
    "items": 21,
+   "ended": false
+  },
+  "N6ANBP": {
+   "msg": "1543334638871642113",
+   "end": 1788115802,
+   "title": "Hello! Have a great day!",
+   "items": 3,
+   "ended": false
+  },
+  "9EFYF1": {
+   "msg": "1543334648594300969",
+   "end": 1788115381,
+   "title": "JAK JA KURWA KOCHAM DISCO POLO #177",
+   "items": 1,
+   "ended": false
+  },
+  "890AVT": {
+   "msg": "1543334655074369666",
+   "end": 1788114721,
+   "title": "a bit of noise never killed anyone #45",
+   "items": 2,
    "ended": false
   }
  },
