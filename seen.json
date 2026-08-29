@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "EC6254": {
-   "msg": "1540360042988179487",
-   "end": 1787406182,
-   "title": "Slugma raffle",
-   "items": 1,
-   "ended": true
-  },
-  "ZX6RAD": {
-   "msg": "1540360052764975114",
-   "end": 1787406001,
-   "title": "These are almost all the manufacturers I got over 16 tour",
-   "items": 12,
-   "ended": true
-  },
-  "BGHNOI": {
-   "msg": "1540361114486050897",
-   "end": 1787407200,
-   "title": "Don't Fuck With The Chuck!",
-   "items": 30,
-   "ended": true
-  },
   "05ID48": {
    "msg": "1540375145531580436",
    "end": 1787410561,
@@ -606,13 +585,6 @@
    "msg": "1540707314053423134",
    "end": 1787489341,
    "title": "Daily raffle #353",
-   "items": 1,
-   "ended": true
-  },
-  "OBNK2E": {
-   "msg": "1540707320470839426",
-   "end": 1787405941,
-   "title": "\u044f \u043f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a",
    "items": 1,
    "ended": true
   },
@@ -7537,7 +7509,7 @@
    "end": 1788010501,
    "title": "4th australium",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "BBXOWO": {
    "msg": "1542904279449210970",
@@ -7551,21 +7523,21 @@
    "end": 1788012000,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DCZ5L4": {
    "msg": "1542904293294743592",
    "end": 1788012000,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BJ1K27": {
    "msg": "1542904302912143502",
    "end": 1788011762,
    "title": "Only OG's remembers.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CXDGBH": {
    "msg": "1542911867502985308",
@@ -8258,7 +8230,7 @@
    "end": 1788011461,
    "title": "I don't know",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "TMWX0M": {
    "msg": "1543228939571302471",
@@ -8348,6 +8320,27 @@
    "msg": "1543251571951804416",
    "end": 1788094800,
    "title": "The Legendary Exploits of Bum Farto",
+   "items": 1,
+   "ended": false
+  },
+  "ON8Y4M": {
+   "msg": "1543259134265131009",
+   "end": 1788097082,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "DG0QRY": {
+   "msg": "1543259141030674463",
+   "end": 1788097022,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5CMGEZ": {
+   "msg": "1543259148437946379",
+   "end": 1788096901,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
