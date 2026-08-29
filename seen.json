@@ -8006,7 +8006,7 @@
    "end": 1787972221,
    "title": "Wu-Tang is for the children!!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "QAOKBD": {
    "msg": "1542926958814560436",
@@ -8307,6 +8307,20 @@
    "end": 1788055021,
    "title": "Do you think?",
    "items": 3,
+   "ended": false
+  },
+  "13TGCP": {
+   "msg": "1543093044784660570",
+   "end": 1788014221,
+   "title": "I told you to forget me, but you stayed by my side..",
+   "items": 50,
+   "ended": false
+  },
+  "YZRBKF": {
+   "msg": "1543093051461992568",
+   "end": 1788057241,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
