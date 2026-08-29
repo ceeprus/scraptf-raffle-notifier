@@ -105,27 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "A9NK9R": {
-   "msg": "1540314087416660009",
-   "end": 1787395621,
-   "title": "Most Joyous Friday To You",
-   "items": 1,
-   "ended": true
-  },
-  "UZJ6SD": {
-   "msg": "1540314094467289098",
-   "end": 1787395441,
-   "title": "Grabli304's raffle\u2503Day 173",
-   "items": 2,
-   "ended": true
-  },
-  "AR0TJX": {
-   "msg": "1540320787234553897",
-   "end": 1787396400,
-   "title": "So that means...everyday is bad!",
-   "items": 1,
-   "ended": true
-  },
   "G6RD6A": {
    "msg": "1540336763720048693",
    "end": 1787401141,
@@ -7495,21 +7474,21 @@
    "end": 1788000901,
    "title": "The world needs more Reindoonicorns! (#596)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZXXAZH": {
    "msg": "1542851487175020657",
    "end": 1788000482,
    "title": "The world needs more Reindoonicorns! (#595)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DKKL7Z": {
    "msg": "1542851495035404408",
    "end": 1788000002,
    "title": "The world needs more Reindoonicorns! (#594)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "C2GOWZ": {
    "msg": "1542858969129943190",
@@ -7530,14 +7509,14 @@
    "end": 1788001202,
    "title": "The world needs more Reindoonicorns! (#597)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KOHSO0": {
    "msg": "1542858988817883167",
    "end": 1788001200,
    "title": "Tough teacher, huh?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4V8S27": {
    "msg": "1542866570798174220",
@@ -8293,6 +8272,48 @@
    "end": 1788083642,
    "title": "First raffle",
    "items": 2,
+   "ended": false
+  },
+  "1510SI": {
+   "msg": "1543213841783980072",
+   "end": 1788087302,
+   "title": "Hello",
+   "items": 2,
+   "ended": false
+  },
+  "HAQW4R": {
+   "msg": "1543213870967947295",
+   "end": 1788086462,
+   "title": "SIMULATION #16,472",
+   "items": 15,
+   "ended": false
+  },
+  "XE06UN": {
+   "msg": "1543213877653934183",
+   "end": 1788086162,
+   "title": "so, whats the deal with these things?",
+   "items": 3,
+   "ended": false
+  },
+  "E4SJKV": {
+   "msg": "1543213884540715008",
+   "end": 1788086162,
+   "title": "Grabli304's raffle\u2503Day 181",
+   "items": 2,
+   "ended": false
+  },
+  "8JLOY4": {
+   "msg": "1543213891339690055",
+   "end": 1788086041,
+   "title": "im loving",
+   "items": 1,
+   "ended": false
+  },
+  "EBY3LR": {
+   "msg": "1543213898935574659",
+   "end": 1788042482,
+   "title": "Another wave of Killstreak Kits",
+   "items": 13,
    "ended": false
   }
  },
