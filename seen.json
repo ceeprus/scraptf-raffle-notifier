@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "U3PCHY": {
-   "msg": "1540160214769209436",
-   "end": 1787359021,
-   "title": "MvM Update Australium Vote Part 9: Pyro Melees",
-   "items": 3,
-   "ended": true
-  },
   "0LIQRU": {
    "msg": "1540171254223478924",
    "end": 1787361662,
@@ -7558,14 +7551,14 @@
    "end": 1787964121,
    "title": "Where is your sword?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "T4ZFTU": {
    "msg": "1542707975486185536",
    "end": 1787965200,
    "title": "Reminder to eat n' drink water if ye haven't yet #276",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "LEG6VV": {
    "msg": "1542723081083027457",
@@ -8216,7 +8209,7 @@
    "end": 1787964301,
    "title": "The Wrong Train",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UXFWTE": {
    "msg": "1542972288746520607",
