@@ -7495,14 +7495,14 @@
    "end": 1788001621,
    "title": "The world needs more Reindoonicorns! (#598)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FPXR1U": {
    "msg": "1542858976004284478",
    "end": 1788001261,
    "title": "Huo-Long heater",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FM0N5B": {
    "msg": "1542858982950182913",
@@ -8314,6 +8314,13 @@
    "end": 1788042482,
    "title": "Another wave of Killstreak Kits",
    "items": 13,
+   "ended": false
+  },
+  "LK72V7": {
+   "msg": "1543217377876123669",
+   "end": 1788087600,
+   "title": "No way, my name is 19!",
+   "items": 1,
    "ended": false
   }
  },
