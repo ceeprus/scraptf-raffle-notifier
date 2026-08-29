@@ -112,27 +112,6 @@
    "items": 1,
    "ended": true
   },
-  "01XN1X": {
-   "msg": "1540412859480145941",
-   "end": 1787418000,
-   "title": "Daily raffle until TF2 gets a major update #598",
-   "items": 3,
-   "ended": true
-  },
-  "FZP9X9": {
-   "msg": "1540412872088354926",
-   "end": 1787418000,
-   "title": "Guys",
-   "items": 3,
-   "ended": true
-  },
-  "DJSJ7B": {
-   "msg": "1540412879696560128",
-   "end": 1787417821,
-   "title": "awawawawa",
-   "items": 1,
-   "ended": true
-  },
   "PNQ2WA": {
    "msg": "1540426203335237743",
    "end": 1787421662,
@@ -614,13 +593,6 @@
    "end": 1787501041,
    "title": "Untitled raffle",
    "items": 4,
-   "ended": true
-  },
-  "ZERYCE": {
-   "msg": "1540755801751429272",
-   "end": 1787416322,
-   "title": "Untitled raffle",
-   "items": 40,
    "ended": true
   },
   "ZUAOOL": {
@@ -7621,35 +7593,35 @@
    "end": 1788022561,
    "title": "#slugnation updates day 14.1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RBMDZ6": {
    "msg": "1542942064499630212",
    "end": 1788022561,
    "title": "making an elephant out of a fly on the wall",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "HRQGND": {
    "msg": "1542942073903255692",
    "end": 1788022501,
    "title": "be mean to me.",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "FSB0G7": {
    "msg": "1542942080739836026",
    "end": 1788021902,
    "title": "Kiestu crafting ALL the weapons #10",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "264I0U": {
    "msg": "1542942091246706738",
    "end": 1788021301,
    "title": "Xpresselevator2hell\u3002",
    "items": 80,
-   "ended": false
+   "ended": true
   },
   "32MAQT": {
    "msg": "1542949560719122575",
@@ -7663,7 +7635,7 @@
    "end": 1788022800,
    "title": "Daily raffle until TF2 gets a major update #605",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "5GT33C": {
    "msg": "1542957141881655350",
@@ -8348,6 +8320,34 @@
    "msg": "1543296852512739339",
    "end": 1788105600,
    "title": "Scrap.tf Birthdays - 29 August",
+   "items": 1,
+   "ended": false
+  },
+  "TVXFXK": {
+   "msg": "1543304456857194660",
+   "end": 1788108782,
+   "title": "hey",
+   "items": 1,
+   "ended": false
+  },
+  "LTOX02": {
+   "msg": "1543304466864808077",
+   "end": 1788108541,
+   "title": "Team Graveyard: The Engineer",
+   "items": 1,
+   "ended": false
+  },
+  "BKMGZH": {
+   "msg": "1543304473655640215",
+   "end": 1788107941,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GAD9YI": {
+   "msg": "1543304480286711890",
+   "end": 1788035461,
+   "title": "I got 2 of this hats so you can have my extra",
    "items": 1,
    "ended": false
   }
