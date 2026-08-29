@@ -7607,14 +7607,14 @@
    "end": 1788018061,
    "title": "be nice to me.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JXQ588": {
    "msg": "1542926992599416967",
    "end": 1788017941,
    "title": "epic",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "L50CKR": {
    "msg": "1542934466383843350",
@@ -8363,6 +8363,13 @@
    "end": 1788102000,
    "title": "You're listening to SPICE FM (53)",
    "items": 3,
+   "ended": false
+  },
+  "4D92KJ": {
+   "msg": "1543284705690910762",
+   "end": 1788103800,
+   "title": "MK Poll #12 + The Favorites of Music #291 & #292",
+   "items": 1,
    "ended": false
   }
  },
