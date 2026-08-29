@@ -105,13 +105,6 @@
    "items": 1,
    "ended": false
   },
-  "R8E05P": {
-   "msg": "1540246741683667025",
-   "end": 1787379482,
-   "title": ":bap Birthday #1",
-   "items": 1,
-   "ended": true
-  },
   "Y7BZW8": {
    "msg": "1540261853702135811",
    "end": 1787382242,
@@ -390,13 +383,6 @@
    "end": 1787417821,
    "title": "awawawawa",
    "items": 1,
-   "ended": true
-  },
-  "IXS2M3": {
-   "msg": "1540426197341839380",
-   "end": 1787379121,
-   "title": "Feeling happy and so giving these for others",
-   "items": 5,
    "ended": true
   },
   "PNQ2WA": {
@@ -7502,7 +7488,7 @@
    "end": 1787984102,
    "title": "I just woke up + my dream",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "KFMNU7": {
    "msg": "1542783485528248371",
@@ -8279,6 +8265,20 @@
    "end": 1788067922,
    "title": "Only for grabli304",
    "items": 126,
+   "ended": false
+  },
+  "WTA7L4": {
+   "msg": "1543145847103946903",
+   "end": 1788069961,
+   "title": "Random Street View of the day #5",
+   "items": 1,
+   "ended": false
+  },
+  "QKBVLA": {
+   "msg": "1543145859179487313",
+   "end": 1788069362,
+   "title": "crab",
+   "items": 16,
    "ended": false
   }
  },
