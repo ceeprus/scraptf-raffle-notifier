@@ -133,13 +133,6 @@
    "items": 2,
    "ended": true
   },
-  "A5QH3T": {
-   "msg": "1540306984400719922",
-   "end": 1787392800,
-   "title": "Gifted Cozy Camper #3",
-   "items": 1,
-   "ended": true
-  },
   "A9NK9R": {
    "msg": "1540314087416660009",
    "end": 1787395621,
@@ -530,13 +523,6 @@
    "end": 1787457000,
    "title": "Personal Recording",
    "items": 1,
-   "ended": true
-  },
-  "IDGJ7Y": {
-   "msg": "1540571438816428082",
-   "end": 1787391721,
-   "title": "week of rainblower! + bonus",
-   "items": 3,
    "ended": true
   },
   "R1OUX4": {
@@ -7551,7 +7537,7 @@
    "end": 1787997541,
    "title": "1 chudmaker",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WEPGSX": {
    "msg": "1542851480103555174",
@@ -8328,6 +8314,13 @@
    "end": 1788039000,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "RN0CQW": {
+   "msg": "1543198742474133524",
+   "end": 1787998621,
+   "title": "winter",
+   "items": 15,
    "ended": false
   }
  },
