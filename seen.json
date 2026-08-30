@@ -392,13 +392,6 @@
    "items": 4,
    "ended": true
   },
-  "I1WSYC": {
-   "msg": "1540770802700390450",
-   "end": 1787461261,
-   "title": "Slugpology for the delays.",
-   "items": 10,
-   "ended": true
-  },
   "8Y5ZZL": {
    "msg": "1540770811806224486",
    "end": 1787504400,
@@ -7670,7 +7663,7 @@
    "end": 1788067021,
    "title": "a bit of noise never killed anyone #44",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "KIO32Y": {
    "msg": "1543138363626889287",
