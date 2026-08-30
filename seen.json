@@ -112,32 +112,11 @@
    "items": 2,
    "ended": false
   },
-  "5APZYL": {
-   "msg": "1540770793355485194",
-   "end": 1787504581,
-   "title": "Your weekly non-official Scrap.tf news. [Week 234]",
-   "items": 4,
-   "ended": true
-  },
-  "YB049H": {
-   "msg": "1540775224285339779",
-   "end": 1787505781,
-   "title": "i can't think of a title for this raffle 29\u2122",
-   "items": 1,
-   "ended": true
-  },
   "F86UE9": {
    "msg": "1540778424094822400",
    "end": 1787506501,
    "title": "I wonder how many times I've managed to break the rules so far.",
    "items": 4,
-   "ended": true
-  },
-  "ZMIN9D": {
-   "msg": "1540778431824793712",
-   "end": 1787506141,
-   "title": "Kiestu crafting ALL the weapons.",
-   "items": 1,
    "ended": true
   },
   "UO5T8B": {
@@ -7796,14 +7775,14 @@
    "end": 1788110161,
    "title": "definitely lost smth",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "6054CN": {
    "msg": "1543311958898507847",
    "end": 1788109261,
    "title": "Asking for slugma chain emoticon day 14.2",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9MFCP8": {
    "msg": "1543311966666358924",
@@ -7817,7 +7796,7 @@
    "end": 1788110641,
    "title": "is there anywhere I can get free tf2 items?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IF8DE5": {
    "msg": "1543327062217990335",
