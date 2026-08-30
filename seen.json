@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "AW5G0O": {
-   "msg": "1540813024850485331",
-   "end": 1787514181,
-   "title": "\u041c\u043e\u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0442\u0440\u0435\u0439\u0434\u0438\u0442\u044c\u0441\u044f",
-   "items": 4,
-   "ended": true
-  },
-  "U11UMC": {
-   "msg": "1540813031175622880",
-   "end": 1787514122,
-   "title": "Yo imma write a novel",
-   "items": 1,
-   "ended": true
-  },
-  "R7AWT1": {
-   "msg": "1540813038519713853",
-   "end": 1787513881,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1513 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 22,
-   "ended": true
-  },
   "27RQVU": {
    "msg": "1540828117076156578",
    "end": 1787518321,
@@ -655,13 +634,6 @@
    "msg": "1540998860250288249",
    "end": 1787558161,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "9GKY6K": {
-   "msg": "1540998866588143646",
-   "end": 1787514901,
-   "title": "Noise.TF",
    "items": 1,
    "ended": true
   },
@@ -1489,13 +1461,6 @@
    "end": 1787579641,
    "title": "NOISEEEEE",
    "items": 1,
-   "ended": true
-  },
-  "SJ9ZO8": {
-   "msg": "1541084815242166432",
-   "end": 1787514841,
-   "title": "Great Style!",
-   "items": 11,
    "ended": true
   },
   "89AALI": {
@@ -7796,28 +7761,28 @@
    "end": 1788119401,
    "title": "Gas passers",
    "items": 49,
-   "ended": false
+   "ended": true
   },
   "BQVOFS": {
    "msg": "1543349766614687804",
    "end": 1788119401,
    "title": "top 20 people i HATE on this website.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VRWMM6": {
    "msg": "1543349773615243345",
    "end": 1788119221,
    "title": "Kiestu crafting ALL the weapons #11",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XGXE3P": {
    "msg": "1543349780179058748",
    "end": 1788119101,
    "title": "what cosmetics are you guys tryna get right now?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TI3KCM": {
    "msg": "1543357245147058337",
@@ -8391,7 +8356,7 @@
    "end": 1788118741,
    "title": "i am",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8XN3UJ": {
    "msg": "1543651745358684271",
@@ -8538,6 +8503,20 @@
    "end": 1788203521,
    "title": "just some random stuff",
    "items": 6,
+   "ended": false
+  },
+  "8941H2": {
+   "msg": "1543712124906373182",
+   "end": 1788205321,
+   "title": "Hello",
+   "items": 4,
+   "ended": false
+  },
+  "11ZJNC": {
+   "msg": "1543712132221370478",
+   "end": 1788204242,
+   "title": "Do you want to know something?",
+   "items": 2,
    "ended": false
   }
  },
