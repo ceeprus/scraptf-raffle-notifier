@@ -378,13 +378,6 @@
    "items": 3,
    "ended": true
   },
-  "G3C3PS": {
-   "msg": "1540719601761914930",
-   "end": 1787448661,
-   "title": "A raffle because I changed my username",
-   "items": 4,
-   "ended": true
-  },
   "R58K97": {
    "msg": "1540725385728237679",
    "end": 1787494141,
@@ -7649,7 +7642,7 @@
    "end": 1788055021,
    "title": "Do you think?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "13TGCP": {
    "msg": "1543093044784660570",
@@ -8432,6 +8425,20 @@
    "msg": "1543432747606089801",
    "end": 1788138121,
    "title": "I finally recovered all my stolen items.",
+   "items": 1,
+   "ended": false
+  },
+  "2JSM88": {
+   "msg": "1543440333772300361",
+   "end": 1788140582,
+   "title": "1234 raffles entered YAYAYAYAYA BABY",
+   "items": 5,
+   "ended": false
+  },
+  "K7Y7NF": {
+   "msg": "1543440341108002917",
+   "end": 1788140101,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
