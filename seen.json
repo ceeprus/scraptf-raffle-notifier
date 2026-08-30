@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "R58K97": {
-   "msg": "1540725385728237679",
-   "end": 1787494141,
-   "title": "Stupid Baka Raffle",
-   "items": 2,
-   "ended": true
-  },
   "UXLIYW": {
    "msg": "1540745026903085058",
    "end": 1787498341,
@@ -7754,7 +7747,7 @@
    "end": 1788098882,
    "title": "everyones help is needed",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "9R6CFO": {
    "msg": "1543266645823459359",
@@ -8433,6 +8426,41 @@
    "end": 1788184141,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1521 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 30,
+   "ended": false
+  },
+  "QBXK0Y": {
+   "msg": "1543629021718249503",
+   "end": 1788186542,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "DCOJP3": {
+   "msg": "1543629028571877519",
+   "end": 1788185281,
+   "title": "noise 408",
+   "items": 1,
+   "ended": false
+  },
+  "5XQK49": {
+   "msg": "1543629035022852186",
+   "end": 1788184862,
+   "title": "\ufe0f\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "TQ0WMS": {
+   "msg": "1543629042274664468",
+   "end": 1788184800,
+   "title": "Happy Birthday to \ud83c\udf1f",
+   "items": 20,
+   "ended": false
+  },
+  "MUTBI2": {
+   "msg": "1543629048322727937",
+   "end": 1788184800,
+   "title": "It's my BIRTHDAY!!!!  pt.1",
+   "items": 1,
    "ended": false
   }
  },
