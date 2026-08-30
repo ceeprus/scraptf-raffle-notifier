@@ -7796,7 +7796,7 @@
    "end": 1788121021,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "2DJR8R": {
    "msg": "1543357266391212165",
@@ -8517,6 +8517,13 @@
    "end": 1788204242,
    "title": "Do you want to know something?",
    "items": 2,
+   "ended": false
+  },
+  "UB1W1W": {
+   "msg": "1543719641174511666",
+   "end": 1788164221,
+   "title": "Just another Killstreak Raffle",
+   "items": 13,
    "ended": false
   }
  },
