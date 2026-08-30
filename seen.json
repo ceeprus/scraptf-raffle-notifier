@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "KAVTDS": {
-   "msg": "1540699728570744914",
-   "end": 1787487422,
-   "title": "Mvm Loot",
-   "items": 13,
-   "ended": true
-  },
-  "EU32A7": {
-   "msg": "1540699735013335050",
-   "end": 1787487393,
-   "title": "[THE END] Scrap tf HG",
-   "items": 2,
-   "ended": true
-  },
   "QH0NFK": {
    "msg": "1540707314053423134",
    "end": 1787489341,
@@ -7712,14 +7698,14 @@
    "end": 1788092761,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PAL1BC": {
    "msg": "1543236461778960405",
    "end": 1788092702,
    "title": "\u0411\u0443\u0434\u044c\u0442\u0435 \u0431\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u044b | Be vigilant",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "LDQAFL": {
    "msg": "1543236472105336934",
@@ -8384,7 +8370,7 @@
    "end": 1788092642,
    "title": "free gift",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OQ6ZB1": {
    "msg": "1543568676215857272",
@@ -8425,6 +8411,13 @@
    "msg": "1543591329785847838",
    "end": 1788176162,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "VMNT5Z": {
+   "msg": "1543598835970867240",
+   "end": 1788177600,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
    "ended": false
   }
