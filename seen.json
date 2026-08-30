@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "8B7TRD": {
-   "msg": "1540556316681179156",
-   "end": 1787452921,
-   "title": "breaking the raffle drought",
-   "items": 1,
-   "ended": true
-  },
   "LOJ72S": {
    "msg": "1540563835499450428",
    "end": 1787455202,
@@ -8104,7 +8097,7 @@
    "end": 1788058800,
    "title": "Tune of the day #323",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "KISE3A": {
    "msg": "1543281806131077230",
