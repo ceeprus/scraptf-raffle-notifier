@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "1LQYA8": {
-   "msg": "1540748082298359901",
-   "end": 1787499241,
-   "title": "hello everyone",
-   "items": 1,
-   "ended": true
-  },
   "37R93U": {
    "msg": "1540755776589799506",
    "end": 1787501401,
@@ -7796,7 +7789,7 @@
    "end": 1788105301,
    "title": "SO MUCH NOISE",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "OR0U36": {
    "msg": "1543296844006952980",
@@ -7810,7 +7803,7 @@
    "end": 1788105600,
    "title": "Scrap.tf Birthdays - 29 August",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TVXFXK": {
    "msg": "1543304456857194660",
@@ -8517,6 +8510,34 @@
    "end": 1788187921,
    "title": "A raffle dedicated to an amazing person",
    "items": 2,
+   "ended": false
+  },
+  "7HQEFI": {
+   "msg": "1543651729139310653",
+   "end": 1788191041,
+   "title": "Daily Brass Beast #553",
+   "items": 1,
+   "ended": false
+  },
+  "LGLJL6": {
+   "msg": "1543651736881729556",
+   "end": 1788118741,
+   "title": "i am",
+   "items": 3,
+   "ended": false
+  },
+  "8XN3UJ": {
+   "msg": "1543651745358684271",
+   "end": 1788146702,
+   "title": "favourite song right now?",
+   "items": 1,
+   "ended": false
+  },
+  "X7RSST": {
+   "msg": "1543651751482101900",
+   "end": 1788189841,
+   "title": "Weekly Noisemaker Raffle #5... or well... Until I run out of noise makers",
+   "items": 1,
    "ended": false
   }
  },
