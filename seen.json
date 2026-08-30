@@ -8146,7 +8146,7 @@
    "end": 1788082202,
    "title": "Unable to enter raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FRGQA3": {
    "msg": "1543372354900594799",
@@ -8405,6 +8405,20 @@
    "end": 1788165902,
    "title": "NZ9UK4",
    "items": 1,
+   "ended": false
+  },
+  "6CQ7TB": {
+   "msg": "1543553540352380968",
+   "end": 1788168002,
+   "title": "Today is Starchion's Birthday",
+   "items": 1,
+   "ended": false
+  },
+  "P9O2TI": {
+   "msg": "1543553551375142932",
+   "end": 1788166681,
+   "title": "Window Maker?",
+   "items": 2,
    "ended": false
   }
  },
