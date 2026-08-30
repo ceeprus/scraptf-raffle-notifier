@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "7LR6EA": {
-   "msg": "1540518545744732290",
-   "end": 1787444701,
-   "title": "noise 407",
-   "items": 1,
-   "ended": true
-  },
   "8B7TRD": {
    "msg": "1540556316681179156",
    "end": 1787452921,
@@ -7628,14 +7621,14 @@
    "end": 1788049321,
    "title": "Another #slugposting raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A057V6": {
    "msg": "1543055287819304991",
    "end": 1788049083,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PBY920": {
    "msg": "1543070356032589935",
@@ -8405,6 +8398,13 @@
    "end": 1788130800,
    "title": "A  a day",
    "items": 1,
+   "ended": false
+  },
+  "SF4TPI": {
+   "msg": "1543417644492001345",
+   "end": 1788134461,
+   "title": "yeah",
+   "items": 32,
    "ended": false
   }
  },
