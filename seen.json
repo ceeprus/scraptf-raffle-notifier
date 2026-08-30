@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "69CGGG": {
-   "msg": "1540616722799796314",
-   "end": 1787468102,
-   "title": "Got my first australium",
-   "items": 2,
-   "ended": true
-  },
-  "LYCVAV": {
-   "msg": "1540616730030637087",
-   "end": 1787467561,
-   "title": "red bullsquid",
-   "items": 1,
-   "ended": true
-  },
   "V66A6U": {
    "msg": "1540624242083627018",
    "end": 1787469841,
@@ -137,13 +123,6 @@
    "msg": "1540624249763528867",
    "end": 1787469481,
    "title": "top of people i like on this site",
-   "items": 1,
-   "ended": true
-  },
-  "T2DVQB": {
-   "msg": "1540624258722701364",
-   "end": 1787468400,
-   "title": "Anniversary",
    "items": 1,
    "ended": true
   },
@@ -7663,7 +7642,7 @@
    "end": 1788072722,
    "title": "I got a new computer case. I felt like sharing.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FB8K1M": {
    "msg": "1543160947823222795",
@@ -8419,6 +8398,20 @@
    "end": 1788156661,
    "title": "ooo yeah the macho man yeah the ma-cho maN yEAH.",
    "items": 2,
+   "ended": false
+  },
+  "BTH33R": {
+   "msg": "1543515838521409536",
+   "end": 1788159421,
+   "title": "Hii :3 This is my 14th raffle, wow!!",
+   "items": 5,
+   "ended": false
+  },
+  "1TMHJM": {
+   "msg": "1543515845563650199",
+   "end": 1788086342,
+   "title": "Spice is drunk",
+   "items": 1,
    "ended": false
   }
  },
