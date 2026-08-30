@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "UXLIYW": {
-   "msg": "1540745026903085058",
-   "end": 1787498341,
-   "title": "one of these things is not like the others",
-   "items": 100,
-   "ended": true
-  },
   "1LQYA8": {
    "msg": "1540748082298359901",
    "end": 1787499241,
@@ -999,13 +992,6 @@
    "end": 1787561941,
    "title": "Best Idea for a movie",
    "items": 2,
-   "ended": true
-  },
-  "8K5946": {
-   "msg": "1541016820474052608",
-   "end": 1787498941,
-   "title": "My 1-st RAFFLE",
-   "items": 5,
    "ended": true
   },
   "JUORJZ": {
@@ -7775,7 +7761,7 @@
    "end": 1788103322,
    "title": "stuff",
    "items": 33,
-   "ended": false
+   "ended": true
   },
   "IMJ1X8": {
    "msg": "1543281790096248912",
@@ -7803,7 +7789,7 @@
    "end": 1788103800,
    "title": "MK Poll #12 + The Favorites of Music #291 & #292",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "COENY3": {
    "msg": "1543289355487944784",
@@ -8489,6 +8475,48 @@
    "end": 1788186782,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "BSAM87": {
+   "msg": "1543644135854968922",
+   "end": 1788189181,
+   "title": "I couldn\u2019t craft the AWP :(",
+   "items": 1,
+   "ended": false
+  },
+  "J3SPKS": {
+   "msg": "1543644142918172752",
+   "end": 1788188522,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SOO06U": {
+   "msg": "1543644159221702687",
+   "end": 1788188462,
+   "title": "IT'S SHOW TIME!!",
+   "items": 17,
+   "ended": false
+  },
+  "LGACK4": {
+   "msg": "1543644169036239008",
+   "end": 1788188400,
+   "title": "You're listening to SPICE FM (54)",
+   "items": 3,
+   "ended": false
+  },
+  "BN8HKV": {
+   "msg": "1543644176208498840",
+   "end": 1788188342,
+   "title": "Dedicated To A True BALLER",
+   "items": 1,
+   "ended": false
+  },
+  "A94XSL": {
+   "msg": "1543644184391716914",
+   "end": 1788187921,
+   "title": "A raffle dedicated to an amazing person",
+   "items": 2,
    "ended": false
   }
  },
