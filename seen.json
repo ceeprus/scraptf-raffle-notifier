@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "KSCOUC": {
-   "msg": "1540861221861855344",
-   "end": 1787526061,
-   "title": "Rambling of a loonatic",
-   "items": 1,
-   "ended": true
-  },
-  "VCII6L": {
-   "msg": "1540865820484440246",
-   "end": 1787527141,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "Z44FHS": {
-   "msg": "1540865828050837534",
-   "end": 1787527081,
-   "title": "My grandmother burned down her summer cottage.",
-   "items": 1,
-   "ended": true
-  },
   "KVDIJX": {
    "msg": "1540868819088838797",
    "end": 1787528461,
@@ -144,20 +123,6 @@
    "msg": "1540868825153544254",
    "end": 1787528041,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #176",
-   "items": 1,
-   "ended": true
-  },
-  "RH1T4Z": {
-   "msg": "1540868831465967617",
-   "end": 1787527561,
-   "title": "Terrible Terrence's Terrible Heer",
-   "items": 1,
-   "ended": true
-  },
-  "FQR9JS": {
-   "msg": "1540868838118268969",
-   "end": 1787527381,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -7761,7 +7726,7 @@
    "end": 1788131041,
    "title": "yapping about mvm drops",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "0I1IYO": {
    "msg": "1543402551863676959",
@@ -8503,6 +8468,34 @@
    "end": 1788215400,
    "title": "473 tips given during  Season 2026!",
    "items": 1,
+   "ended": false
+  },
+  "3XQSBU": {
+   "msg": "1543764922012536923",
+   "end": 1788218521,
+   "title": "IT IS HATSUNE MIKU'S BIRTHDAY",
+   "items": 2,
+   "ended": false
+  },
+  "PFCR3W": {
+   "msg": "1543764930237571183",
+   "end": 1788217918,
+   "title": "#SlugmaArea51",
+   "items": 1,
+   "ended": false
+  },
+  "UHZV9Z": {
+   "msg": "1543764939343401052",
+   "end": 1788217200,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "WC8DHQ": {
+   "msg": "1543764945731068065",
+   "end": 1788216961,
+   "title": "qwg",
+   "items": 3,
    "ended": false
   }
  },
