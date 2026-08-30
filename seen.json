@@ -119,13 +119,6 @@
    "items": 5,
    "ended": true
   },
-  "QTN7MB": {
-   "msg": "1540786688262152243",
-   "end": 1787508061,
-   "title": "Why is every hat I try to sell is labeled as \"overstocked\"?",
-   "items": 1,
-   "ended": true
-  },
   "1R8PVQ": {
    "msg": "1540796525092020265",
    "end": 1787509561,
@@ -7810,7 +7803,7 @@
    "end": 1788112861,
    "title": "I have entered 6969 raffles",
    "items": 21,
-   "ended": false
+   "ended": true
   },
   "N6ANBP": {
    "msg": "1543334638871642113",
