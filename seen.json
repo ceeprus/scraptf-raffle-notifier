@@ -112,34 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "QH0NFK": {
-   "msg": "1540707314053423134",
-   "end": 1787489341,
-   "title": "Daily raffle #353",
-   "items": 1,
-   "ended": true
-  },
-  "LSUHO7": {
-   "msg": "1540707326456111185",
-   "end": 1787488622,
-   "title": "Chuck E. Cheese",
-   "items": 2,
-   "ended": true
-  },
-  "Y7F0HR": {
-   "msg": "1540708954105974897",
-   "end": 1787490000,
-   "title": "Making the DENSEST sandwich with a HYDRAULIC PRESS",
-   "items": 2,
-   "ended": true
-  },
-  "0UYBRE": {
-   "msg": "1540708961139957852",
-   "end": 1787489941,
-   "title": "gift of the day #5",
-   "items": 1,
-   "ended": true
-  },
   "NQKTXN": {
    "msg": "1540714832330756246",
    "end": 1787490722,
@@ -7719,28 +7691,28 @@
    "end": 1788093842,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S8FJYK": {
    "msg": "1543244050017161216",
    "end": 1788093721,
    "title": "Graveyard Raffle (#15)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "E1ERUA": {
    "msg": "1543244059148161054",
    "end": 1788093601,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NPHZE7": {
    "msg": "1543244065540276305",
    "end": 1788093542,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6XVIEE": {
    "msg": "1543251543799631912",
@@ -7768,7 +7740,7 @@
    "end": 1788094800,
    "title": "The Legendary Exploits of Bum Farto",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ON8Y4M": {
    "msg": "1543259134265131009",
@@ -8418,6 +8390,27 @@
    "msg": "1543598835970867240",
    "end": 1788177600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "471P8Z": {
+   "msg": "1543606425584935033",
+   "end": 1788180721,
+   "title": "Been playing lots of Borderlands 2",
+   "items": 2,
+   "ended": false
+  },
+  "6RNMT5": {
+   "msg": "1543606450012823604",
+   "end": 1788180541,
+   "title": "raffle",
+   "items": 7,
+   "ended": false
+  },
+  "B8MKBT": {
+   "msg": "1543606459143553044",
+   "end": 1788180422,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
