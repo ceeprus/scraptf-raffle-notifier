@@ -112,32 +112,11 @@
    "items": 2,
    "ended": false
   },
-  "ZUAOOL": {
-   "msg": "1540764197363777586",
-   "end": 1787503021,
-   "title": "Scrap.tf Birthdays - 22 August",
-   "items": 3,
-   "ended": true
-  },
-  "VDKDI6": {
-   "msg": "1540767718456954884",
-   "end": 1787503681,
-   "title": "the spire.",
-   "items": 1,
-   "ended": true
-  },
   "5APZYL": {
    "msg": "1540770793355485194",
    "end": 1787504581,
    "title": "Your weekly non-official Scrap.tf news. [Week 234]",
    "items": 4,
-   "ended": true
-  },
-  "8Y5ZZL": {
-   "msg": "1540770811806224486",
-   "end": 1787504400,
-   "title": "Daily raffle until TF2 gets a major update #599",
-   "items": 3,
    "ended": true
   },
   "YB049H": {
@@ -7789,21 +7768,21 @@
    "end": 1788108782,
    "title": "hey",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LTOX02": {
    "msg": "1543304466864808077",
    "end": 1788108541,
    "title": "Team Graveyard: The Engineer",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BKMGZH": {
    "msg": "1543304473655640215",
    "end": 1788107941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GAD9YI": {
    "msg": "1543304480286711890",
@@ -7831,7 +7810,7 @@
    "end": 1788109200,
    "title": "Daily raffle until TF2 gets a major update #606",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "Q93DIK": {
    "msg": "1543319536046968834",
@@ -8538,6 +8517,34 @@
    "end": 1788192000,
    "title": "Scrap.tf Birthdays - 30 August",
    "items": 4,
+   "ended": false
+  },
+  "QW0UYR": {
+   "msg": "1543666821381619743",
+   "end": 1788194942,
+   "title": "Let's all write a song",
+   "items": 2,
+   "ended": false
+  },
+  "8SWPD8": {
+   "msg": "1543666832903241828",
+   "end": 1788194281,
+   "title": "First september...",
+   "items": 3,
+   "ended": false
+  },
+  "81CEK9": {
+   "msg": "1543666840532815973",
+   "end": 1788193922,
+   "title": "Adriatic's scrap therapy 25",
+   "items": 4,
+   "ended": false
+  },
+  "H5SC0P": {
+   "msg": "1543666853207875714",
+   "end": 1788193441,
+   "title": "Wishing everyone a good mood    :D",
+   "items": 7,
    "ended": false
   }
  },
