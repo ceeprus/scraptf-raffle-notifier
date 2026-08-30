@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "DU4SPN": {
-   "msg": "1540662016321257606",
-   "end": 1787478901,
-   "title": "Practical tips for a better mindset",
-   "items": 1,
-   "ended": true
-  },
-  "JUE12P": {
-   "msg": "1540662024374067296",
-   "end": 1787478841,
-   "title": "Second Question",
-   "items": 2,
-   "ended": true
-  },
   "DHDTY7": {
    "msg": "1540677120622334012",
    "end": 1787482800,
@@ -7712,7 +7698,7 @@
    "end": 1788083642,
    "title": "First raffle",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "1510SI": {
    "msg": "1543213841783980072",
@@ -8167,21 +8153,21 @@
    "end": 1788084000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AD3EP7": {
    "msg": "1543387468374605825",
    "end": 1788084000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "N07DI9": {
    "msg": "1543387475119055028",
    "end": 1788084000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2MHVJL": {
    "msg": "1543395025952579635",
@@ -8419,6 +8405,27 @@
    "end": 1788166681,
    "title": "Window Maker?",
    "items": 2,
+   "ended": false
+  },
+  "3NED4O": {
+   "msg": "1543561125243785218",
+   "end": 1788090781,
+   "title": "400+ entered raffles and 0 wins",
+   "items": 1,
+   "ended": false
+  },
+  "BHIYHF": {
+   "msg": "1543561132583952395",
+   "end": 1788169441,
+   "title": "Random Street View of the day #6",
+   "items": 1,
+   "ended": false
+  },
+  "YB2AB2": {
+   "msg": "1543561142784368720",
+   "end": 1788168782,
+   "title": "100%",
+   "items": 82,
    "ended": false
   }
  },
