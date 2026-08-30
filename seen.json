@@ -7761,7 +7761,7 @@
    "end": 1788100441,
    "title": "\ufe0f\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9CNQVC": {
    "msg": "1543274235152044123",
@@ -7782,7 +7782,7 @@
    "end": 1788102000,
    "title": "Something is coming in a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "F131J0": {
    "msg": "1543281797725421655",
@@ -7796,7 +7796,7 @@
    "end": 1788102000,
    "title": "You're listening to SPICE FM (53)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "4D92KJ": {
    "msg": "1543284705690910762",
@@ -8460,6 +8460,34 @@
    "msg": "1543629048322727937",
    "end": 1788184800,
    "title": "It's my BIRTHDAY!!!!  pt.1",
+   "items": 1,
+   "ended": false
+  },
+  "PORU5F": {
+   "msg": "1543636633717309490",
+   "end": 1788187321,
+   "title": "...rof elffaR yadhtriB",
+   "items": 3,
+   "ended": false
+  },
+  "XB69V0": {
+   "msg": "1543636640021479585",
+   "end": 1788186902,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6WEPBW": {
+   "msg": "1543636647047069806",
+   "end": 1788186841,
+   "title": "Team Graveyard: The Medic",
+   "items": 1,
+   "ended": false
+  },
+  "10I92F": {
+   "msg": "1543636655221772431",
+   "end": 1788186782,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
