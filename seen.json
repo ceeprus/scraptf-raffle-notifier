@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "QC18OU": {
-   "msg": "1540850721354682470",
-   "end": 1787523961,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "IWCLYT": {
    "msg": "1540858314479509514",
    "end": 1787526000,
@@ -8069,21 +8062,21 @@
    "end": 1788129000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4FWIGY": {
    "msg": "1543568650118766713",
    "end": 1788129000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WUOIZP": {
    "msg": "1543568660004606025",
    "end": 1788129000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8NSPRQ": {
    "msg": "1543568667722260502",
@@ -8538,6 +8531,13 @@
    "end": 1788212701,
    "title": "Feeling life too simple",
    "items": 10,
+   "ended": false
+  },
+  "ILFX7J": {
+   "msg": "1543749862737186877",
+   "end": 1788142682,
+   "title": ". . .",
+   "items": 3,
    "ended": false
   }
  },
