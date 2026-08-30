@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "JB0R33": {
-   "msg": "1540692226571771988",
-   "end": 1787485801,
-   "title": "\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "AZQIBW": {
-   "msg": "1540697224823054416",
-   "end": 1787486400,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
   "KAVTDS": {
    "msg": "1540699728570744914",
    "end": 1787487422,
@@ -7712,14 +7698,14 @@
    "end": 1788090302,
    "title": "noise",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "YPUELS": {
    "msg": "1543228945787527218",
    "end": 1788089882,
    "title": "Stuttering in MvM",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JI4IF6": {
    "msg": "1543236452542976012",
@@ -7740,7 +7726,7 @@
    "end": 1788091200,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "25RAX7": {
    "msg": "1543244031671144479",
@@ -8356,7 +8342,7 @@
    "end": 1788090781,
    "title": "400+ entered raffles and 0 wins",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BHIYHF": {
    "msg": "1543561132583952395",
@@ -8432,6 +8418,13 @@
    "msg": "1543583748388290590",
    "end": 1788174000,
    "title": "Ha! That beagle with his jokes that I...don't understand...",
+   "items": 1,
+   "ended": false
+  },
+  "GLXT50": {
+   "msg": "1543591329785847838",
+   "end": 1788176162,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
