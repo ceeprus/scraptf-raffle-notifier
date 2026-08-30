@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "IWCLYT": {
-   "msg": "1540858314479509514",
-   "end": 1787526000,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
   "KSCOUC": {
    "msg": "1540861221861855344",
    "end": 1787526061,
@@ -945,45 +938,10 @@
    "items": 1,
    "ended": true
   },
-  "PUFMJU": {
-   "msg": "1541039515060142160",
-   "end": 1787525701,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "IN7P9D": {
-   "msg": "1541039522370953288",
-   "end": 1787525642,
-   "title": "Hey guys, how are you guys doing today?",
-   "items": 4,
-   "ended": true
-  },
-  "M08XB7": {
-   "msg": "1541039529350266930",
-   "end": 1787525521,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "ZEK46R": {
    "msg": "1541039539001368656",
    "end": 1787568602,
    "title": "People who call others \"Larpers\" are so annoying",
-   "items": 1,
-   "ended": true
-  },
-  "DKJ4GD": {
-   "msg": "1541039547826307102",
-   "end": 1787525402,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "XPZRC5": {
-   "msg": "1541039554004525068",
-   "end": 1787525222,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -1040,13 +998,6 @@
    "msg": "1541042578697224223",
    "end": 1787569141,
    "title": "Bucking Bronco",
-   "items": 1,
-   "ended": true
-  },
-  "NOSI4S": {
-   "msg": "1541042586029002772",
-   "end": 1787525882,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -7803,7 +7754,7 @@
    "end": 1788129061,
    "title": "Blackimus has dropped a new episode of The Scratched Universe!!",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "PM2RO2": {
    "msg": "1543402545458712577",
@@ -7817,7 +7768,7 @@
    "end": 1788130800,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SF4TPI": {
    "msg": "1543417644492001345",
@@ -8538,6 +8489,20 @@
    "end": 1788142682,
    "title": ". . .",
    "items": 3,
+   "ended": false
+  },
+  "YT0Z4Q": {
+   "msg": "1543757436366880889",
+   "end": 1788215581,
+   "title": ". . .",
+   "items": 3,
+   "ended": false
+  },
+  "16ECCN": {
+   "msg": "1543757445682302987",
+   "end": 1788215400,
+   "title": "473 tips given during  Season 2026!",
+   "items": 1,
    "ended": false
   }
  },
