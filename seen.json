@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "NQKTXN": {
-   "msg": "1540714832330756246",
-   "end": 1787490722,
-   "title": "Space stealer!",
-   "items": 40,
-   "ended": true
-  },
-  "WQ70T8": {
-   "msg": "1540714838769143828",
-   "end": 1787490541,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
   "R58K97": {
    "msg": "1540725385728237679",
    "end": 1787494141,
@@ -7719,7 +7705,7 @@
    "end": 1788095821,
    "title": "I've made new friends.  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FDGOKX": {
    "msg": "1543251554197315604",
@@ -7733,7 +7719,7 @@
    "end": 1788095042,
    "title": "Veri cool raffle",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "6EFQX0": {
    "msg": "1543251571951804416",
@@ -8412,6 +8398,27 @@
    "end": 1788180422,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "V0WMGQ": {
+   "msg": "1543613949264535552",
+   "end": 1788181862,
+   "title": "Got my second Australium drop from MVM at Tour No.119",
+   "items": 7,
+   "ended": false
+  },
+  "45T3MD": {
+   "msg": "1543613956302708736",
+   "end": 1788181381,
+   "title": "hiii guys!",
+   "items": 4,
+   "ended": false
+  },
+  "X091MJ": {
+   "msg": "1543613966213841107",
+   "end": 1788181200,
+   "title": "8 for 1 Sunday",
+   "items": 8,
    "ended": false
   }
  },
