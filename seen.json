@@ -112,34 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "DHDTY7": {
-   "msg": "1540677120622334012",
-   "end": 1787482800,
-   "title": "Such form!",
-   "items": 1,
-   "ended": true
-  },
-  "0EGN6Z": {
-   "msg": "1540677128444448778",
-   "end": 1787482441,
-   "title": "second raffle and it's double the size",
-   "items": 2,
-   "ended": true
-  },
-  "A2IP3H": {
-   "msg": "1540677134949814292",
-   "end": 1787481662,
-   "title": "Grooviest Tracks #794",
-   "items": 2,
-   "ended": true
-  },
-  "1UA698": {
-   "msg": "1540677142029795349",
-   "end": 1787481601,
-   "title": "The pass it forward raffle! (#16)",
-   "items": 5,
-   "ended": true
-  },
   "FB57PQ": {
    "msg": "1540680168769851524",
    "end": 1787483282,
@@ -425,20 +397,6 @@
    "end": 1787526000,
    "title": "A  a day",
    "items": 1,
-   "ended": true
-  },
-  "EQ8DW3": {
-   "msg": "1540858322926833715",
-   "end": 1787482441,
-   "title": "Tune of the day #317",
-   "items": 1,
-   "ended": true
-  },
-  "0RK3TJ": {
-   "msg": "1540858329704833134",
-   "end": 1787481961,
-   "title": "I am MilkManFromMars",
-   "items": 5,
    "ended": true
   },
   "KSCOUC": {
@@ -7705,35 +7663,35 @@
    "end": 1788087302,
    "title": "Hello",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "HAQW4R": {
    "msg": "1543213870967947295",
    "end": 1788086462,
    "title": "SIMULATION #16,472",
    "items": 15,
-   "ended": false
+   "ended": true
   },
   "XE06UN": {
    "msg": "1543213877653934183",
    "end": 1788086162,
    "title": "so, whats the deal with these things?",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "E4SJKV": {
    "msg": "1543213884540715008",
    "end": 1788086162,
    "title": "Grabli304's raffle\u2503Day 181",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8JLOY4": {
    "msg": "1543213891339690055",
    "end": 1788086041,
    "title": "im loving",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "EBY3LR": {
    "msg": "1543213898935574659",
@@ -7747,7 +7705,7 @@
    "end": 1788087600,
    "title": "No way, my name is 19!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Z7O02F": {
    "msg": "1543221347545653299",
@@ -8349,7 +8307,7 @@
    "end": 1788086342,
    "title": "Spice is drunk",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HM5HMY": {
    "msg": "1543523332564193312",
@@ -8468,6 +8426,13 @@
    "end": 1788170461,
    "title": "What Beats Rock? #3 (Not actually rock anymore)",
    "items": 4,
+   "ended": false
+  },
+  "VO94EB": {
+   "msg": "1543576214856536074",
+   "end": 1788173162,
+   "title": "P0PM0M",
+   "items": 1,
    "ended": false
   }
  },
