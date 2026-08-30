@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "LOJ72S": {
-   "msg": "1540563835499450428",
-   "end": 1787455202,
-   "title": "Scrapyard #192",
-   "items": 1,
-   "ended": true
-  },
-  "OPD21R": {
-   "msg": "1540563842147291156",
-   "end": 1787454601,
-   "title": "day one of trying to get a heavy lifer",
-   "items": 1,
-   "ended": true
-  },
   "GQ778H": {
    "msg": "1540571429286846505",
    "end": 1787457000,
@@ -7642,7 +7628,7 @@
    "end": 1788059700,
    "title": "Negative Readings",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9R6ZGH": {
    "msg": "1543100559312035970",
@@ -7705,7 +7691,7 @@
    "end": 1788060601,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #107 \ud83c\udf0a\ud83d\udc1f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "FI5IQP": {
    "msg": "1543111548619460619",
