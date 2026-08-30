@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "GQ778H": {
-   "msg": "1540571429286846505",
-   "end": 1787457000,
-   "title": "Personal Recording",
-   "items": 1,
-   "ended": true
-  },
-  "R1OUX4": {
-   "msg": "1540571449964761168",
-   "end": 1787456161,
-   "title": "Please sign the waiver.",
-   "items": 50,
-   "ended": true
-  },
   "0DVG5K": {
    "msg": "1540578950609117235",
    "end": 1787457961,
@@ -369,13 +355,6 @@
    "end": 1787498341,
    "title": "one of these things is not like the others",
    "items": 100,
-   "ended": true
-  },
-  "LU638T": {
-   "msg": "1540748066846412961",
-   "end": 1787456461,
-   "title": "Detergente y Parentesco",
-   "items": 2,
    "ended": true
   },
   "1LQYA8": {
@@ -7656,35 +7635,35 @@
    "end": 1788062101,
    "title": "Gotta love free hats",
    "items": 60,
-   "ended": false
+   "ended": true
   },
   "B3V6W8": {
    "msg": "1543108146564825158",
    "end": 1788062041,
    "title": "Caf\u00e9 Crit-A-Coffee #1769",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "2CEV94": {
    "msg": "1543108153896599585",
    "end": 1788061921,
    "title": "An Update; Inconsistent uploads (important?)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GMILZD": {
    "msg": "1543108161853063190",
    "end": 1788061681,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #109 \ud83c\udf0a\ud83d\udc1f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "DAQTYI": {
    "msg": "1543108168639455363",
    "end": 1788060841,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #108 \ud83c\udf0a\ud83d\udc1f",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "B58S00": {
    "msg": "1543108176050659328",
@@ -7698,7 +7677,7 @@
    "end": 1788062400,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1520 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 29,
-   "ended": false
+   "ended": true
   },
   "P6SZ30": {
    "msg": "1543115667098566708",
@@ -8425,6 +8404,13 @@
    "msg": "1543447878603640864",
    "end": 1788098580,
    "title": "Raffling Scrap Till I'm Out #1019 (Tired)",
+   "items": 1,
+   "ended": false
+  },
+  "TQ5YFL": {
+   "msg": "1543470532710899772",
+   "end": 1788148141,
+   "title": "I NEED MORE Yakuza 0 TRACKS",
    "items": 1,
    "ended": false
   }
