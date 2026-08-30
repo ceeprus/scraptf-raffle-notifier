@@ -7733,21 +7733,21 @@
    "end": 1788097082,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DG0QRY": {
    "msg": "1543259141030674463",
    "end": 1788097022,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5CMGEZ": {
    "msg": "1543259148437946379",
    "end": 1788096901,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "HHV90S": {
    "msg": "1543266639234211912",
@@ -8419,6 +8419,20 @@
    "end": 1788181200,
    "title": "8 for 1 Sunday",
    "items": 8,
+   "ended": false
+  },
+  "RXZ19P": {
+   "msg": "1543621528292302958",
+   "end": 1788184261,
+   "title": "1,500 Raffles Entered!!!",
+   "items": 1,
+   "ended": false
+  },
+  "1FJFN5": {
+   "msg": "1543621538081673377",
+   "end": 1788184141,
+   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1521 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+   "items": 30,
    "ended": false
   }
  },
