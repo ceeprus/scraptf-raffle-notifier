@@ -700,13 +700,6 @@
    "items": 1,
    "ended": true
   },
-  "Y37HKQ": {
-   "msg": "1540880948508233748",
-   "end": 1787446381,
-   "title": "Post your favorite music",
-   "items": 48,
-   "ended": true
-  },
   "7JSHWY": {
    "msg": "1540880955659780146",
    "end": 1787529181,
@@ -7649,7 +7642,7 @@
    "end": 1788051600,
    "title": "Reminder to eat n' drink water if ye haven't yet #277",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "44DFD8": {
    "msg": "1543077950876942396",
@@ -8405,6 +8398,34 @@
    "end": 1788134461,
    "title": "yeah",
    "items": 32,
+   "ended": false
+  },
+  "HQERZ9": {
+   "msg": "1543425234990792776",
+   "end": 1788138002,
+   "title": "Daily Hat #82",
+   "items": 1,
+   "ended": false
+  },
+  "REQJAX": {
+   "msg": "1543425242964299816",
+   "end": 1788138000,
+   "title": "Reminder to eat n' drink water if ye haven't yet #278",
+   "items": 5,
+   "ended": false
+  },
+  "Z7CAKS": {
+   "msg": "1543425251965411410",
+   "end": 1788137941,
+   "title": "Daily Black Boxes #157",
+   "items": 8,
+   "ended": false
+  },
+  "HH41C4": {
+   "msg": "1543425264669827123",
+   "end": 1788071401,
+   "title": "Funny :3",
+   "items": 6,
    "ended": false
   }
  },
