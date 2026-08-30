@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "27RQVU": {
-   "msg": "1540828117076156578",
-   "end": 1787518321,
-   "title": "Clearing Inventory 'cause of my Free Space Dilemma: The Raffle",
-   "items": 5,
-   "ended": true
-  },
-  "TO4EA7": {
-   "msg": "1540828124365979679",
-   "end": 1787518081,
-   "title": "Daily Brass Beast #546",
-   "items": 1,
-   "ended": true
-  },
-  "405ZP3": {
-   "msg": "1540831173746368552",
-   "end": 1787518800,
-   "title": "checkup #98 | Music",
-   "items": 1,
-   "ended": true
-  },
   "GHEUCQ": {
    "msg": "1540835635466735738",
    "end": 1787519281,
@@ -7824,7 +7803,7 @@
    "end": 1788123600,
    "title": "checkup #104 | Something",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UH1BFS": {
    "msg": "1543387461810655252",
@@ -8524,6 +8503,20 @@
    "end": 1788164221,
    "title": "Just another Killstreak Raffle",
    "items": 13,
+   "ended": false
+  },
+  "HSOKKV": {
+   "msg": "1543727227659755623",
+   "end": 1788209101,
+   "title": "Use more gun",
+   "items": 1,
+   "ended": false
+  },
+  "B0K1OP": {
+   "msg": "1543727234785747024",
+   "end": 1788208141,
+   "title": "Marvelous Sunday",
+   "items": 1,
    "ended": false
   }
  },
