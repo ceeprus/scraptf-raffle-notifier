@@ -126,13 +126,6 @@
    "items": 1,
    "ended": true
   },
-  "AR9IMU": {
-   "msg": "1540616737832173608",
-   "end": 1787466601,
-   "title": "Being slightly or just a little more above the middle of the pack in terms of skill level in anything you do in a hierarchy is the best place to be. I'll explain why and get banned doing so!",
-   "items": 4,
-   "ended": true
-  },
   "V66A6U": {
    "msg": "1540624242083627018",
    "end": 1787469841,
@@ -7656,7 +7649,7 @@
    "end": 1788069961,
    "title": "Random Street View of the day #5",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QKBVLA": {
    "msg": "1543145859179487313",
@@ -8314,7 +8307,7 @@
    "end": 1788071401,
    "title": "Funny :3",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "YW6XU8": {
    "msg": "1543432747606089801",
@@ -8419,6 +8412,13 @@
    "end": 1788154141,
    "title": "Cone Hat Cone Hat",
    "items": 1,
+   "ended": false
+  },
+  "Q9ME3Z": {
+   "msg": "1543508238673117207",
+   "end": 1788156661,
+   "title": "ooo yeah the macho man yeah the ma-cho maN yEAH.",
+   "items": 2,
    "ended": false
   }
  },
