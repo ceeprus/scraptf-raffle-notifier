@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "FB57PQ": {
-   "msg": "1540680168769851524",
-   "end": 1787483282,
-   "title": "Grabli304's raffle\u2503Day 174",
-   "items": 2,
-   "ended": true
-  },
-  "CESOVB": {
-   "msg": "1540684633954324531",
-   "end": 1787484121,
-   "title": "What did I miss?",
-   "items": 2,
-   "ended": true
-  },
   "JB0R33": {
    "msg": "1540692226571771988",
    "end": 1787485801,
@@ -7712,7 +7698,7 @@
    "end": 1788088502,
    "title": "Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "75KKPS": {
    "msg": "1543228931132366950",
@@ -8432,6 +8418,20 @@
    "msg": "1543576214856536074",
    "end": 1788173162,
    "title": "P0PM0M",
+   "items": 1,
+   "ended": false
+  },
+  "OUOSS7": {
+   "msg": "1543583741308309514",
+   "end": 1788174422,
+   "title": "mvm high roll drop",
+   "items": 26,
+   "ended": false
+  },
+  "2K3YY5": {
+   "msg": "1543583748388290590",
+   "end": 1788174000,
+   "title": "Ha! That beagle with his jokes that I...don't understand...",
    "items": 1,
    "ended": false
   }
