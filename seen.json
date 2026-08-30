@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "IFRY9K": {
-   "msg": "1540601622944686112",
-   "end": 1787464261,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #94 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "HBTO0C": {
-   "msg": "1540601631287148594",
-   "end": 1787464142,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #93 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "6Q3LVL": {
-   "msg": "1540601640493514794",
-   "end": 1787463961,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #92 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "69CGGG": {
    "msg": "1540616722799796314",
    "end": 1787468102,
@@ -7670,7 +7649,7 @@
    "end": 1788067922,
    "title": "Only for grabli304",
    "items": 126,
-   "ended": false
+   "ended": true
   },
   "WTA7L4": {
    "msg": "1543145847103946903",
@@ -7684,7 +7663,7 @@
    "end": 1788069362,
    "title": "crab",
    "items": 16,
-   "ended": false
+   "ended": true
   },
   "74RHHJ": {
    "msg": "1543153459250069544",
@@ -8433,6 +8412,13 @@
    "end": 1788150782,
    "title": "Caf\u00e9 Crit-A-Coffee #1770",
    "items": 11,
+   "ended": false
+  },
+  "R8E35E": {
+   "msg": "1543500730625695907",
+   "end": 1788154141,
+   "title": "Cone Hat Cone Hat",
+   "items": 1,
    "ended": false
   }
  },
