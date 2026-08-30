@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "F86UE9": {
-   "msg": "1540778424094822400",
-   "end": 1787506501,
-   "title": "I wonder how many times I've managed to break the rules so far.",
-   "items": 4,
-   "ended": true
-  },
   "UO5T8B": {
    "msg": "1540786679839854625",
    "end": 1787508481,
@@ -130,13 +123,6 @@
    "msg": "1540786688262152243",
    "end": 1787508061,
    "title": "Why is every hat I try to sell is labeled as \"overstocked\"?",
-   "items": 1,
-   "ended": true
-  },
-  "ORDF84": {
-   "msg": "1540786696503697500",
-   "end": 1787508000,
-   "title": "How to be better as a person",
    "items": 1,
    "ended": true
   },
@@ -8524,6 +8510,34 @@
    "end": 1788193441,
    "title": "Wishing everyone a good mood    :D",
    "items": 7,
+   "ended": false
+  },
+  "0E27N9": {
+   "msg": "1543681926383009894",
+   "end": 1788198181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FJ2WI2": {
+   "msg": "1543681933915988148",
+   "end": 1788198062,
+   "title": "Daily raffle until TF2 gets a major update #607",
+   "items": 3,
+   "ended": false
+  },
+  "ANKV1V": {
+   "msg": "1543681942547988696",
+   "end": 1788197941,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4NZSW6": {
+   "msg": "1543681949510533260",
+   "end": 1788197821,
+   "title": "All steam 2000-2013 games got leaked",
+   "items": 3,
    "ended": false
   }
  },
