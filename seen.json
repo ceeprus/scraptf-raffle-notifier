@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "0DVG5K": {
-   "msg": "1540578950609117235",
-   "end": 1787457961,
-   "title": "Caf\u00e9 Crit-A-Coffee #1764",
-   "items": 10,
-   "ended": true
-  },
   "NJ4MY0": {
    "msg": "1540585541085560973",
    "end": 1787460600,
@@ -7684,7 +7677,7 @@
    "end": 1788062882,
    "title": "Waluigi time",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "18SMH6": {
    "msg": "1543130753142096024",
@@ -8090,7 +8083,7 @@
    "end": 1788064021,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "EPIH6G": {
    "msg": "1543296852512739339",
@@ -8412,6 +8405,48 @@
    "end": 1788148141,
    "title": "I NEED MORE Yakuza 0 TRACKS",
    "items": 1,
+   "ended": false
+  },
+  "IF48MA": {
+   "msg": "1543478050824392734",
+   "end": 1788149882,
+   "title": "Item won from other raffle",
+   "items": 1,
+   "ended": false
+  },
+  "E5BVG5": {
+   "msg": "1543478062497136750",
+   "end": 1788106022,
+   "title": "Untitled raffle",
+   "items": 20,
+   "ended": false
+  },
+  "PSDEMR": {
+   "msg": "1543478070172717218",
+   "end": 1788149222,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #112 \ud83c\udf0a\ud83d\udc1f",
+   "items": 6,
+   "ended": false
+  },
+  "BDGAK6": {
+   "msg": "1543478078305599488",
+   "end": 1788148682,
+   "title": "Alone",
+   "items": 1,
+   "ended": false
+  },
+  "4OHK85": {
+   "msg": "1543478085981311076",
+   "end": 1788148682,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #111 \ud83c\udf0a\ud83d\udc1f",
+   "items": 6,
+   "ended": false
+  },
+  "D6PFEF": {
+   "msg": "1543478093233004575",
+   "end": 1788148501,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #110 \ud83c\udf0a\ud83d\udc1f",
+   "items": 6,
    "ended": false
   }
  },
