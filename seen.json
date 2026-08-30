@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "JTNF9O": {
-   "msg": "1540843205719887954",
-   "end": 1787521321,
-   "title": "i now have 5,000 hours in tf2",
-   "items": 2,
-   "ended": true
-  },
   "QC18OU": {
    "msg": "1540850721354682470",
    "end": 1787523961,
@@ -845,13 +838,6 @@
    "end": 1787564341,
    "title": "Think mark, think!",
    "items": 84,
-   "ended": true
-  },
-  "JQVWBG": {
-   "msg": "1541021677708779580",
-   "end": 1787521081,
-   "title": "Take it",
-   "items": 5,
    "ended": true
   },
   "J9RLW0": {
@@ -8524,6 +8510,34 @@
    "end": 1788211141,
    "title": "Your weekly non-official Scrap.tf news. [Week 236]",
    "items": 4,
+   "ended": false
+  },
+  "PKC6WH": {
+   "msg": "1543742332946354327",
+   "end": 1788213602,
+   "title": "1 2 3",
+   "items": 50,
+   "ended": false
+  },
+  "B5LPAU": {
+   "msg": "1543742341431427143",
+   "end": 1788213600,
+   "title": "checkup #105 | Something 2: The sequel",
+   "items": 1,
+   "ended": false
+  },
+  "0AGP61": {
+   "msg": "1543742355608309770",
+   "end": 1788213122,
+   "title": "Being alive is grinding me down",
+   "items": 11,
+   "ended": false
+  },
+  "OQPL24": {
+   "msg": "1543742377984790728",
+   "end": 1788212701,
+   "title": "Feeling life too simple",
+   "items": 10,
    "ended": false
   }
  },
