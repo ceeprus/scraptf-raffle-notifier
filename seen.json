@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "GHEUCQ": {
-   "msg": "1540835635466735738",
-   "end": 1787519281,
-   "title": "big bunch o' craft hats and full moon cosmetics and a paint and a rare mvm part and a refined and a scrap for ya",
-   "items": 19,
-   "ended": true
-  },
   "JTNF9O": {
    "msg": "1540843205719887954",
    "end": 1787521321,
@@ -7796,7 +7789,7 @@
    "end": 1788124321,
    "title": "Raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BWB93D": {
    "msg": "1543372361095450674",
@@ -8517,6 +8510,13 @@
    "end": 1788208141,
    "title": "Marvelous Sunday",
    "items": 1,
+   "ended": false
+  },
+  "QW4HRZ": {
+   "msg": "1543731519971921920",
+   "end": 1788210302,
+   "title": "100 hours in TF2 raffle! \u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b And some info too",
+   "items": 9,
    "ended": false
   }
  },
