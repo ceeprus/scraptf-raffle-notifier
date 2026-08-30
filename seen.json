@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "UO5T8B": {
-   "msg": "1540786679839854625",
-   "end": 1787508481,
-   "title": "Take my items #40",
-   "items": 5,
-   "ended": true
-  },
-  "1R8PVQ": {
-   "msg": "1540796525092020265",
-   "end": 1787509561,
-   "title": "Special Delivery",
-   "items": 20,
-   "ended": true
-  },
-  "QFLV7F": {
-   "msg": "1540796532373192724",
-   "end": 1787509442,
-   "title": "Yummers",
-   "items": 1,
-   "ended": true
-  },
   "SBA3WZ": {
    "msg": "1540801933793697903",
    "end": 1787511302,
@@ -7782,21 +7761,21 @@
    "end": 1788113822,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UXM9C1": {
    "msg": "1543327068073234506",
    "end": 1788113701,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZBNDG5": {
    "msg": "1543327074494845111",
    "end": 1788113581,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S53CSI": {
    "msg": "1543327082229137448",
@@ -8531,6 +8510,13 @@
    "end": 1788197821,
    "title": "All steam 2000-2013 games got leaked",
    "items": 3,
+   "ended": false
+  },
+  "6EVCMD": {
+   "msg": "1543689424662167613",
+   "end": 1788199141,
+   "title": "Story Time #1",
+   "items": 1,
    "ended": false
   }
  },
