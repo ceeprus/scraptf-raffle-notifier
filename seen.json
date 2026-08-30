@@ -7684,14 +7684,14 @@
    "end": 1788085321,
    "title": "im annoying",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0OT8BM": {
    "msg": "1543206264329342997",
    "end": 1788084541,
    "title": "uhm",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0LS1EL": {
    "msg": "1543206271665045595",
@@ -8426,6 +8426,48 @@
    "end": 1788168782,
    "title": "100%",
    "items": 82,
+   "ended": false
+  },
+  "QKERDG": {
+   "msg": "1543568641432485908",
+   "end": 1788129000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4FWIGY": {
+   "msg": "1543568650118766713",
+   "end": 1788129000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "WUOIZP": {
+   "msg": "1543568660004606025",
+   "end": 1788129000,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8NSPRQ": {
+   "msg": "1543568667722260502",
+   "end": 1788092642,
+   "title": "free gift",
+   "items": 1,
+   "ended": false
+  },
+  "OQ6ZB1": {
+   "msg": "1543568676215857272",
+   "end": 1788171002,
+   "title": "Grabli304's raffle\u2503Day 182",
+   "items": 2,
+   "ended": false
+  },
+  "XTENDW": {
+   "msg": "1543568683052437527",
+   "end": 1788170461,
+   "title": "What Beats Rock? #3 (Not actually rock anymore)",
+   "items": 4,
    "ended": false
   }
  },
