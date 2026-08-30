@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "2OYIM7": {
-   "msg": "1540639324121600120",
-   "end": 1787473262,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #5",
-   "items": 1,
-   "ended": true
-  },
-  "H63ROG": {
-   "msg": "1540639330442289182",
-   "end": 1787473141,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #4",
-   "items": 1,
-   "ended": true
-  },
-  "DWTNLT": {
-   "msg": "1540645258663170058",
-   "end": 1787473321,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #6",
-   "items": 1,
-   "ended": true
-  },
   "DU4SPN": {
    "msg": "1540662016321257606",
    "end": 1787478901,
@@ -7691,7 +7670,7 @@
    "end": 1788078481,
    "title": "RESERVE SHOOTER FOR PYROMAN",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YWU36Q": {
    "msg": "1543191200637517924",
@@ -8153,7 +8132,7 @@
    "end": 1788078361,
    "title": "Good luck",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MEAU68": {
    "msg": "1543357252621181050",
