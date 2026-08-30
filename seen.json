@@ -476,13 +476,6 @@
    "items": 10,
    "ended": true
   },
-  "E2BZ46": {
-   "msg": "1540986659888308254",
-   "end": 1787512021,
-   "title": "cat noise",
-   "items": 1,
-   "ended": true
-  },
   "Y64WI2": {
    "msg": "1540986666422894654",
    "end": 1787555161,
@@ -1477,13 +1470,6 @@
    "items": 1,
    "ended": true
   },
-  "1GC27D": {
-   "msg": "1541082439936385114",
-   "end": 1787513102,
-   "title": "Take it",
-   "items": 27,
-   "ended": true
-  },
   "Q1AOPY": {
    "msg": "1541082448463527956",
    "end": 1787577902,
@@ -1930,13 +1916,6 @@
    "end": 1787595542,
    "title": "I've lost everything I had (in tf2)",
    "items": 12,
-   "ended": true
-  },
-  "MNQGZI": {
-   "msg": "1541152751419924540",
-   "end": 1787512441,
-   "title": "WHYYYYYYYYYYY",
-   "items": 1,
    "ended": true
   },
   "UWUFS4": {
@@ -7810,7 +7789,7 @@
    "end": 1788116821,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "2YZGUP": {
    "msg": "1543349755202240542",
@@ -8545,6 +8524,20 @@
    "end": 1788201121,
    "title": "Very nice",
    "items": 1,
+   "ended": false
+  },
+  "CJF162": {
+   "msg": "1543704549431447715",
+   "end": 1788203700,
+   "title": "Snowfall Soundtrack #31",
+   "items": 2,
+   "ended": false
+  },
+  "DP1PXW": {
+   "msg": "1543704563050352713",
+   "end": 1788203521,
+   "title": "just some random stuff",
+   "items": 6,
    "ended": false
   }
  },
