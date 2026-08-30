@@ -406,13 +406,6 @@
    "items": 1,
    "ended": true
   },
-  "KETG87": {
-   "msg": "1540828132075114496",
-   "end": 1787474761,
-   "title": "week of rainblower!",
-   "items": 1,
-   "ended": true
-  },
   "405ZP3": {
    "msg": "1540831173746368552",
    "end": 1787518800,
@@ -7663,7 +7656,7 @@
    "end": 1788079441,
    "title": "What Beats Rock? #2",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "4TCVSJ": {
    "msg": "1543183665587298344",
@@ -8404,6 +8397,13 @@
    "msg": "1543541756799352936",
    "end": 1788165121,
    "title": "MO0KYZ",
+   "items": 1,
+   "ended": false
+  },
+  "NZ9UK4": {
+   "msg": "1543546027410329712",
+   "end": 1788165902,
+   "title": "NZ9UK4",
    "items": 1,
    "ended": false
   }
