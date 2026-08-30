@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "37R93U": {
-   "msg": "1540755776589799506",
-   "end": 1787501401,
-   "title": "I hate my immune system",
-   "items": 1,
-   "ended": true
-  },
-  "MZURO6": {
-   "msg": "1540755784806178867",
-   "end": 1787501341,
-   "title": "I Drew Ts 24",
-   "items": 1,
-   "ended": true
-  },
-  "EBJYUD": {
-   "msg": "1540755793710940220",
-   "end": 1787501041,
-   "title": "Untitled raffle",
-   "items": 4,
-   "ended": true
-  },
   "ZUAOOL": {
    "msg": "1540764197363777586",
    "end": 1787503021,
@@ -8132,7 +8111,7 @@
    "end": 1788106022,
    "title": "Untitled raffle",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "PSDEMR": {
    "msg": "1543478070172717218",
@@ -8538,6 +8517,27 @@
    "end": 1788189841,
    "title": "Weekly Noisemaker Raffle #5... or well... Until I run out of noise makers",
    "items": 1,
+   "ended": false
+  },
+  "MYKICI": {
+   "msg": "1543659237907894273",
+   "end": 1788192781,
+   "title": "Has anyone told you, you're loved and you matter, recently?",
+   "items": 10,
+   "ended": false
+  },
+  "EKKEYF": {
+   "msg": "1543659244903989368",
+   "end": 1788192661,
+   "title": "Why are there so many of these things?",
+   "items": 1,
+   "ended": false
+  },
+  "DFPDL9": {
+   "msg": "1543659253825536191",
+   "end": 1788192000,
+   "title": "Scrap.tf Birthdays - 30 August",
+   "items": 4,
    "ended": false
   }
  },
