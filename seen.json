@@ -119,62 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "ZVU6AP": {
-   "msg": "1540992581452828707",
-   "end": 1787557562,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "C6O0U2": {
-   "msg": "1540992589258297404",
-   "end": 1787557381,
-   "title": "Noise?",
-   "items": 1,
-   "ended": true
-  },
-  "EEJ224": {
-   "msg": "1540992595176587314",
-   "end": 1787557261,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "6XEBV8": {
-   "msg": "1540992600834707551",
-   "end": 1787557202,
-   "title": "\u0410 \u0437\u0430\u0447\u0435\u043c \u0432\u043e\u043e\u0431\u0449\u0435 \u043d\u0443\u0436\u043d\u0430 \u044d\u0442\u0430 \u0448\u0442\u0443\u043a\u0430",
-   "items": 3,
-   "ended": true
-  },
-  "H3Y11F": {
-   "msg": "1540992607994519573",
-   "end": 1787557082,
-   "title": "It's a noise maker apocalypse!",
-   "items": 1,
-   "ended": true
-  },
-  "0L3FL8": {
-   "msg": "1540992621801902121",
-   "end": 1787556901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "MBGN7X": {
-   "msg": "1540992627762012210",
-   "end": 1787556842,
-   "title": "500 noise makers",
-   "items": 1,
-   "ended": true
-  },
-  "FTJCTM": {
-   "msg": "1540992634049405028",
-   "end": 1787556721,
-   "title": "First raffle!",
-   "items": 1,
-   "ended": true
-  },
   "P9WJN9": {
    "msg": "1540998817741152326",
    "end": 1787559361,
@@ -207,27 +151,6 @@
    "msg": "1540998841556275270",
    "end": 1787558581,
    "title": "mario :D",
-   "items": 1,
-   "ended": true
-  },
-  "6AVOLF": {
-   "msg": "1540998847562514512",
-   "end": 1787558401,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "48U07Q": {
-   "msg": "1540998853463904308",
-   "end": 1787558161,
-   "title": "The world needs more Reindoonicorns! (#592)",
-   "items": 1,
-   "ended": true
-  },
-  "NLZ9NH": {
-   "msg": "1540998860250288249",
-   "end": 1787558161,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -1484,32 +1407,11 @@
    "items": 5,
    "ended": true
   },
-  "7ONXPU": {
-   "msg": "1541170871346143242",
-   "end": 1787557141,
-   "title": "DO YOU WANT NOISE !!",
-   "items": 2,
-   "ended": true
-  },
-  "GUCTBM": {
-   "msg": "1541170880795771002",
-   "end": 1787557141,
-   "title": "Lets make some noise!",
-   "items": 2,
-   "ended": true
-  },
   "1ZNDOP": {
    "msg": "1541170889847079073",
    "end": 1787600161,
    "title": "Noise time",
    "items": 2,
-   "ended": true
-  },
-  "JMRB58": {
-   "msg": "1541170896482472027",
-   "end": 1787556721,
-   "title": "FINAL !",
-   "items": 1,
    "ended": true
   },
   "I7FJS7": {
@@ -8363,6 +8265,55 @@
    "end": 1788246182,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "YTFULC": {
+   "msg": "1543893318251978837",
+   "end": 1788206402,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MP0HPO": {
+   "msg": "1543893324635574333",
+   "end": 1788206281,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FPBL3O": {
+   "msg": "1543893332382720030",
+   "end": 1788206161,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "7YPQMK": {
+   "msg": "1543893340787838976",
+   "end": 1788206041,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GITP37": {
+   "msg": "1543893349122056316",
+   "end": 1788205861,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "EO1ARU": {
+   "msg": "1543893357925765131",
+   "end": 1788248881,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "AUIWJT": {
+   "msg": "1543893364175274065",
+   "end": 1788248462,
+   "title": "Hello! Have a great day!",
+   "items": 3,
    "ended": false
   }
  },
