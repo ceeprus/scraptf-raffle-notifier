@@ -7705,14 +7705,14 @@
    "end": 1788142202,
    "title": "Untitled raffle",
    "items": 24,
-   "ended": false
+   "ended": true
   },
   "AXTONF": {
    "msg": "1543447871423127692",
    "end": 1788142021,
    "title": "AXTONF",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2RB3SO": {
    "msg": "1543447878603640864",
@@ -8363,7 +8363,7 @@
    "end": 1788142682,
    "title": ". . .",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "YT0Z4Q": {
    "msg": "1543757436366880889",
@@ -8510,6 +8510,13 @@
    "end": 1788226261,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "ADQ4OB": {
+   "msg": "1543810245888049163",
+   "end": 1788227941,
+   "title": "Waluigi time",
+   "items": 2,
    "ended": false
   }
  },
