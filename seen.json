@@ -119,76 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "1KLCRB": {
-   "msg": "1541007869925654568",
-   "end": 1787561221,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #7",
-   "items": 1,
-   "ended": true
-  },
-  "4FWAGY": {
-   "msg": "1541007875722444880",
-   "end": 1787560981,
-   "title": "wow",
-   "items": 1,
-   "ended": true
-  },
-  "Z15CFS": {
-   "msg": "1541007881267183679",
-   "end": 1787560801,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "IBUX9T": {
-   "msg": "1541007887365840967",
-   "end": 1787560501,
-   "title": "Take my Noise",
-   "items": 1,
-   "ended": true
-  },
-  "6UHGZ6": {
-   "msg": "1541007893497782332",
-   "end": 1787560442,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "5OH9VT": {
-   "msg": "1541007899327991848",
-   "end": 1787560321,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "W68XUT": {
-   "msg": "1541009303878762571",
-   "end": 1787561641,
-   "title": "\u041d\u0435\u0443\u0436\u0435\u043b\u0438 \u0432\u0441\u0451 \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e \u0445\u043e\u0440\u043e\u0448\u043e",
-   "items": 1,
-   "ended": true
-  },
-  "P8FFBE": {
-   "msg": "1541009311428386877",
-   "end": 1787561581,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #9",
-   "items": 1,
-   "ended": true
-  },
-  "87TVKO": {
-   "msg": "1541009319812665396",
-   "end": 1787561461,
-   "title": "Thank Mr. Mario",
-   "items": 2,
-   "ended": true
-  },
-  "5RPJVG": {
-   "msg": "1541009327081394247",
-   "end": 1787561401,
-   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #8",
-   "items": 1,
-   "ended": true
-  },
   "232OGG": {
    "msg": "1541013987334819953",
    "end": 1787563081,
@@ -292,20 +222,6 @@
    "end": 1787562121,
    "title": "I'm tipping all non-noisemaker raffles until this raffle ends as long as the raffle lasts 24 hours and the maximum entries is set to 2000 or more",
    "items": 6,
-   "ended": true
-  },
-  "YFOMTC": {
-   "msg": "1541014087444734013",
-   "end": 1787562062,
-   "title": "Third Question",
-   "items": 1,
-   "ended": true
-  },
-  "JGSA82": {
-   "msg": "1541014094558265354",
-   "end": 1787561941,
-   "title": "Best Idea for a movie",
-   "items": 2,
    "ended": true
   },
   "JUORJZ": {
@@ -1517,13 +1433,6 @@
    "end": 1787603581,
    "title": "Daily raffle until TF2 gets a major update #600",
    "items": 6,
-   "ended": true
-  },
-  "DUMMCI": {
-   "msg": "1541186748149932053",
-   "end": 1787560261,
-   "title": "Happy birthday, TF2!",
-   "items": 3,
    "ended": true
   },
   "28T4QO": {
@@ -7383,21 +7292,21 @@
    "end": 1788165782,
    "title": "music time ! !",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "MO0KYZ": {
    "msg": "1543541756799352936",
    "end": 1788165121,
    "title": "MO0KYZ",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NZ9UK4": {
    "msg": "1543546027410329712",
    "end": 1788165902,
    "title": "NZ9UK4",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6CQ7TB": {
    "msg": "1543553540352380968",
@@ -7411,7 +7320,7 @@
    "end": 1788166681,
    "title": "Window Maker?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "3NED4O": {
    "msg": "1543561125243785218",
@@ -8272,6 +8181,41 @@
    "end": 1788250441,
    "title": "A ordinary raffle",
    "items": 1,
+   "ended": false
+  },
+  "OYDWO3": {
+   "msg": "1543908430018773050",
+   "end": 1788252061,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "A5448A": {
+   "msg": "1543908437858197565",
+   "end": 1788251881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "YGLOGP": {
+   "msg": "1543908444984053781",
+   "end": 1788251642,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1R9TC8": {
+   "msg": "1543908451481030767",
+   "end": 1788251642,
+   "title": "DINOVU?",
+   "items": 1,
+   "ended": false
+  },
+  "V584Z0": {
+   "msg": "1543908462226841641",
+   "end": 1788251282,
+   "title": "free botkillers to a good home",
+   "items": 33,
    "ended": false
   }
  },
