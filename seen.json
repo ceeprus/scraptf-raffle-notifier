@@ -140,90 +140,6 @@
    "items": 6,
    "ended": false
   },
-  "DZJ6IW": {
-   "msg": "1541186729556574290",
-   "end": 1787604001,
-   "title": "STEAM COMMENTS #53",
-   "items": 1,
-   "ended": true
-  },
-  "KSHZP4": {
-   "msg": "1541186740818284590",
-   "end": 1787603581,
-   "title": "Daily raffle until TF2 gets a major update #600",
-   "items": 6,
-   "ended": true
-  },
-  "PDXAOY": {
-   "msg": "1541190500772487299",
-   "end": 1787604241,
-   "title": "So much !",
-   "items": 1,
-   "ended": true
-  },
-  "OGQUUG": {
-   "msg": "1541193618021285898",
-   "end": 1787605261,
-   "title": "Untitled raffle",
-   "items": 12,
-   "ended": true
-  },
-  "ITHW3X": {
-   "msg": "1541198014226632746",
-   "end": 1787606341,
-   "title": "My First Good MVM Drop",
-   "items": 8,
-   "ended": true
-  },
-  "JPX47K": {
-   "msg": "1541198020555837471",
-   "end": 1787606281,
-   "title": "You have to read this, it's very important.",
-   "items": 2,
-   "ended": true
-  },
-  "UNZSHU": {
-   "msg": "1541198027841085484",
-   "end": 1787605802,
-   "title": "Go make some noise",
-   "items": 1,
-   "ended": true
-  },
-  "1C6JMM": {
-   "msg": "1541198038511522044",
-   "end": 1787605621,
-   "title": "1st Raffle",
-   "items": 9,
-   "ended": true
-  },
-  "GLRA5Q": {
-   "msg": "1541201105822941224",
-   "end": 1787607181,
-   "title": "A chance to get rid of my noisemakers? Dont have to tell me twice",
-   "items": 2,
-   "ended": true
-  },
-  "9S5ZLM": {
-   "msg": "1541201118447669312",
-   "end": 1787607001,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "8MRO94": {
-   "msg": "1541205592536784896",
-   "end": 1787607902,
-   "title": "can i get a :3",
-   "items": 7,
-   "ended": true
-  },
-  "VTUAC0": {
-   "msg": "1541205598522056795",
-   "end": 1787607600,
-   "title": "checkup #99 | Team Fortress' birthday",
-   "items": 1,
-   "ended": true
-  },
   "TUTLV6": {
    "msg": "1541208540998537296",
    "end": 1787609102,
@@ -714,13 +630,6 @@
    "items": 4,
    "ended": true
   },
-  "U72VJV": {
-   "msg": "1541386802206744626",
-   "end": 1787608141,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "OKH8BL": {
    "msg": "1541393829876473896",
    "end": 1787652661,
@@ -739,13 +648,6 @@
    "msg": "1541393842610245632",
    "end": 1787652000,
    "title": "Gifted Righteous Bison #4",
-   "items": 1,
-   "ended": true
-  },
-  "IX5OO2": {
-   "msg": "1541393848771813408",
-   "end": 1787608622,
-   "title": "Untitled raffle",
    "items": 1,
    "ended": true
   },
@@ -6417,7 +6319,7 @@
    "end": 1788209101,
    "title": "Use more gun",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "B0K1OP": {
    "msg": "1543727234785747024",
@@ -6431,14 +6333,14 @@
    "end": 1788210302,
    "title": "100 hours in TF2 raffle! \u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b And some info too",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "13D1X6": {
    "msg": "1543734735438741655",
    "end": 1788211141,
    "title": "Your weekly non-official Scrap.tf news. [Week 236]",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "PKC6WH": {
    "msg": "1543742332946354327",
@@ -6459,14 +6361,14 @@
    "end": 1788213122,
    "title": "Being alive is grinding me down",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "OQPL24": {
    "msg": "1543742377984790728",
    "end": 1788212701,
    "title": "Feeling life too simple",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "ILFX7J": {
    "msg": "1543749862737186877",
@@ -6914,7 +6816,7 @@
    "end": 1788211801,
    "title": "my first raffle",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "JHNSRD": {
    "msg": "1543931058104434798",
@@ -7452,6 +7354,55 @@
    "msg": "1544074545051475978",
    "end": 1788291361,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #13",
+   "items": 1,
+   "ended": false
+  },
+  "BEHNNO": {
+   "msg": null,
+   "end": 1788299341,
+   "title": "Hale's Own Trials: Persian Persuader: Day 10",
+   "items": 1,
+   "ended": false
+  },
+  "V4C7F5": {
+   "msg": null,
+   "end": 1788297842,
+   "title": "my birthday",
+   "items": 5,
+   "ended": false
+  },
+  "UN94M3": {
+   "msg": null,
+   "end": 1788297361,
+   "title": "I AM BULLET",
+   "items": 3,
+   "ended": false
+  },
+  "GI9RWR": {
+   "msg": null,
+   "end": 1788296400,
+   "title": "checkup #106 | Horrid Internet",
+   "items": 1,
+   "ended": false
+  },
+  "71M041": {
+   "msg": null,
+   "end": 1788295141,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "MHERBG": {
+   "msg": null,
+   "end": 1788251161,
+   "title": "I need answers plz",
+   "items": 11,
+   "ended": false
+  },
+  "TIOALC": {
+   "msg": null,
+   "end": 1788294241,
+   "title": "Free Steam Music Part 1 \u2022 Microsoft Flight Simulator Suite: Themes Reimagined",
    "items": 1,
    "ended": false
   }
