@@ -119,111 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "232OGG": {
-   "msg": "1541013987334819953",
-   "end": 1787563081,
-   "title": "four lollipops",
-   "items": 4,
-   "ended": true
-  },
-  "8W11OB": {
-   "msg": "1541013993836253186",
-   "end": 1787562962,
-   "title": "You should play TF2 today!",
-   "items": 1,
-   "ended": true
-  },
-  "XEDW0Y": {
-   "msg": "1541014001423491112",
-   "end": 1787562962,
-   "title": "lollipop and candy cane",
-   "items": 2,
-   "ended": true
-  },
-  "250E0H": {
-   "msg": "1541014008524447784",
-   "end": 1787562902,
-   "title": "chocolate and candy cane",
-   "items": 2,
-   "ended": true
-  },
-  "S01BR0": {
-   "msg": "1541014015126274138",
-   "end": 1787562782,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JMYM3Q": {
-   "msg": "1541014022202073191",
-   "end": 1787562782,
-   "title": "[not] UNIQUE",
-   "items": 183,
-   "ended": true
-  },
-  "W551AR": {
-   "msg": "1541014030494339072",
-   "end": 1787562721,
-   "title": "Hi Morwanae",
-   "items": 1,
-   "ended": true
-  },
-  "JYZ6J5": {
-   "msg": "1541014037779845200",
-   "end": 1787562602,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "D6MRY2": {
-   "msg": "1541014044276822117",
-   "end": 1787562602,
-   "title": "happy tf2 birthday",
-   "items": 1,
-   "ended": true
-  },
-  "AHJSCN": {
-   "msg": "1541014051411333242",
-   "end": 1787562541,
-   "title": "I always hated noise",
-   "items": 1,
-   "ended": true
-  },
-  "H59CR0": {
-   "msg": "1541014057094479974",
-   "end": 1787562421,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JUORJZ": {
-   "msg": "1541016825926520953",
-   "end": 1787563681,
-   "title": "Is not noise",
-   "items": 1,
-   "ended": true
-  },
-  "427S0Q": {
-   "msg": "1541016832989995108",
-   "end": 1787563501,
-   "title": "omg holiday noise  maker",
-   "items": 1,
-   "ended": true
-  },
-  "XPS20I": {
-   "msg": "1541016839960666204",
-   "end": 1787563261,
-   "title": "I have a feeling",
-   "items": 1,
-   "ended": true
-  },
-  "54HP0F": {
-   "msg": "1541016846143201351",
-   "end": 1787563261,
-   "title": "lollipop and three candy canes",
-   "items": 4,
-   "ended": true
-  },
   "GE38S5": {
    "msg": "1541021670754492517",
    "end": 1787564341,
@@ -7285,7 +7180,7 @@
    "end": 1788168002,
    "title": "Today is Starchion's Birthday",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P9O2TI": {
    "msg": "1543553551375142932",
@@ -8202,6 +8097,20 @@
    "end": 1788252901,
    "title": "Special Delivery",
    "items": 20,
+   "ended": false
+  },
+  "6PCJH1": {
+   "msg": "1543915938326384800",
+   "end": 1788253981,
+   "title": "i did something very good",
+   "items": 3,
+   "ended": false
+  },
+  "J1ZBBI": {
+   "msg": "1543915947432222781",
+   "end": 1788253861,
+   "title": "(Another) Special Delivery!",
+   "items": 10,
    "ended": false
   }
  },
