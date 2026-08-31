@@ -7705,7 +7705,7 @@
    "end": 1788150782,
    "title": "Caf\u00e9 Crit-A-Coffee #1770",
    "items": 11,
-   "ended": false
+   "ended": true
   },
   "R8E35E": {
    "msg": "1543500730625695907",
@@ -8559,6 +8559,13 @@
    "end": 1788235202,
    "title": "Kiestu crafting ALL the weapons #12",
    "items": 1,
+   "ended": false
+  },
+  "TY7Z3W": {
+   "msg": "1543848034159296622",
+   "end": 1788237781,
+   "title": "12 years on this site",
+   "items": 16,
    "ended": false
   }
  },
