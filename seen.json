@@ -133,89 +133,12 @@
    "items": 1,
    "ended": false
   },
-  "R0VF28": {
-   "msg": "1541127035185795102",
-   "end": 1787589661,
-   "title": "Noisemania",
-   "items": 1,
-   "ended": true
-  },
-  "0DWGUJ": {
-   "msg": "1541127042152800276",
-   "end": 1787589541,
-   "title": "Mama Mia",
-   "items": 1,
-   "ended": true
-  },
-  "3GSTG6": {
-   "msg": "1541127048200847441",
-   "end": 1787589541,
-   "title": "Noisy",
-   "items": 1,
-   "ended": true
-  },
-  "V4IW23": {
-   "msg": "1541127053947179028",
-   "end": 1787589482,
-   "title": "Noisy",
-   "items": 1,
-   "ended": true
-  },
-  "UVUDSK": {
-   "msg": "1541127060238499931",
-   "end": 1787589361,
-   "title": "Noisy",
-   "items": 1,
-   "ended": true
-  },
-  "SQZA42": {
-   "msg": "1541127066164924526",
-   "end": 1787589241,
-   "title": "1st Raffle, admist all this spam lmao",
-   "items": 1,
-   "ended": true
-  },
-  "824MNC": {
-   "msg": "1541127072842252308",
-   "end": 1787589241,
-   "title": "Noisy",
-   "items": 1,
-   "ended": true
-  },
-  "5ZQUEC": {
-   "msg": "1541130114199457884",
-   "end": 1787590082,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0VS5H1": {
-   "msg": "1541130121669517354",
-   "end": 1787589962,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WT7CGW": {
-   "msg": "1541130132712988783",
-   "end": 1787589781,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "CVEM4M": {
    "msg": "1541133163420717146",
    "end": null,
    "title": "Completo italiano + bebida = almuerzo",
    "items": 6,
    "ended": false
-  },
-  "ITE2J3": {
-   "msg": "1541133170702032996",
-   "end": 1787590501,
-   "title": "Grooviest Tracks #793",
-   "items": 2,
-   "ended": true
   },
   "8QOCGG": {
    "msg": "1541137608510414879",
@@ -971,13 +894,6 @@
    "end": 1787632802,
    "title": "1 Winner, 1 Loser. . .",
    "items": 2,
-   "ended": true
-  },
-  "IQSZYH": {
-   "msg": "1541313380953096293",
-   "end": 1787590802,
-   "title": "Raffling Scrap Till I'm Out #1013 (Quick)",
-   "items": 1,
    "ended": true
   },
   "Q1UMEB": {
@@ -6739,21 +6655,21 @@
    "end": 1788194942,
    "title": "Let's all write a song",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "8SWPD8": {
    "msg": "1543666832903241828",
    "end": 1788194281,
    "title": "First september...",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "81CEK9": {
    "msg": "1543666840532815973",
    "end": 1788193922,
    "title": "Adriatic's scrap therapy 25",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "H5SC0P": {
    "msg": "1543666853207875714",
@@ -7767,6 +7683,48 @@
    "msg": "1544021671189418064",
    "end": 1788278162,
    "title": "Half of entire Tommy dialogue  \ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "QTSC4C": {
+   "msg": "1544029260854067321",
+   "end": 1788280862,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "4UX25S": {
+   "msg": "1544029269594865876",
+   "end": 1788280682,
+   "title": "House of Memories",
+   "items": 1,
+   "ended": false
+  },
+  "AURJYW": {
+   "msg": "1544029289077280789",
+   "end": 1788280621,
+   "title": "fire is BACK",
+   "items": 30,
+   "ended": false
+  },
+  "8X1FJF": {
+   "msg": "1544029296652198031",
+   "end": 1788280261,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XM93NQ": {
+   "msg": "1544029304730554470",
+   "end": 1788280081,
+   "title": "I Drew Ts 26",
+   "items": 1,
+   "ended": false
+  },
+  "L90NK0": {
+   "msg": "1544029312951390289",
+   "end": 1788279902,
+   "title": "We still remember you, Alec Holowka",
    "items": 1,
    "ended": false
   }
