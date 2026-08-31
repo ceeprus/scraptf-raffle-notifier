@@ -126,89 +126,12 @@
    "items": 1,
    "ended": false
   },
-  "I1EATA": {
-   "msg": "1541069706469842944",
-   "end": 1787575741,
-   "title": "i got my dream noise.",
-   "items": 16,
-   "ended": true
-  },
-  "OF9FGE": {
-   "msg": "1541069714837479475",
-   "end": 1787575501,
-   "title": "More noise...",
-   "items": 1,
-   "ended": true
-  },
-  "SVRL98": {
-   "msg": "1541069726371938334",
-   "end": 1787575441,
-   "title": "I don't know what to write",
-   "items": 1,
-   "ended": true
-  },
-  "HOEBWA": {
-   "msg": "1541069732076068865",
-   "end": 1787575261,
-   "title": "idk",
-   "items": 1,
-   "ended": true
-  },
-  "T3XWS0": {
-   "msg": "1541069738971635722",
-   "end": 1787575202,
-   "title": "fiends falling out the sky",
-   "items": 2,
-   "ended": true
-  },
-  "Q7KBX3": {
-   "msg": "1541069745439113276",
-   "end": 1787575142,
-   "title": "Grabli304's raffle\u2503Day 175",
-   "items": 2,
-   "ended": true
-  },
-  "NBU7CP": {
-   "msg": "1541069752196399116",
-   "end": 1787575081,
-   "title": "abc",
-   "items": 1,
-   "ended": true
-  },
   "4VBT4R": {
    "msg": "1541069771846586398",
    "end": null,
    "title": "I don't know what is it",
    "items": 1,
    "ended": false
-  },
-  "JH0118": {
-   "msg": "1541071655013453924",
-   "end": 1787576462,
-   "title": "Holy Mackerel",
-   "items": 1,
-   "ended": true
-  },
-  "3BIA3O": {
-   "msg": "1541071662236303391",
-   "end": 1787576400,
-   "title": "8 for 1 Sunday",
-   "items": 8,
-   "ended": true
-  },
-  "8PEF82": {
-   "msg": "1541071669173420123",
-   "end": 1787576162,
-   "title": "beautiful noise",
-   "items": 2,
-   "ended": true
-  },
-  "LK2V80": {
-   "msg": "1541071674647117875",
-   "end": 1787575981,
-   "title": "Regular raffle too",
-   "items": 3,
-   "ended": true
   },
   "VHK1IH": {
    "msg": "1541077218728615967",
@@ -6935,21 +6858,21 @@
    "end": 1788180721,
    "title": "Been playing lots of Borderlands 2",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "6RNMT5": {
    "msg": "1543606450012823604",
    "end": 1788180541,
    "title": "raffle",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "B8MKBT": {
    "msg": "1543606459143553044",
    "end": 1788180422,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V0WMGQ": {
    "msg": "1543613949264535552",
@@ -6970,7 +6893,7 @@
    "end": 1788181200,
    "title": "8 for 1 Sunday",
    "items": 8,
-   "ended": false
+   "ended": true
   },
   "RXZ19P": {
    "msg": "1543621528292302958",
@@ -7941,6 +7864,34 @@
   "6XS3LT": {
    "msg": "1543961270095716352",
    "end": 1788263522,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZAWZE2": {
+   "msg": "1543968836573724752",
+   "end": 1788266041,
+   "title": "raffle",
+   "items": 3,
+   "ended": false
+  },
+  "IQ7F0P": {
+   "msg": "1543968844857741477",
+   "end": 1788222600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "01BSZ2": {
+   "msg": "1543968852973453413",
+   "end": 1788222600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NV4T94": {
+   "msg": "1543968862180085820",
+   "end": 1788222600,
    "title": "Untitled raffle",
    "items": 1,
    "ended": false
