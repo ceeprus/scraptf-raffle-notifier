@@ -133,25 +133,11 @@
    "items": 1,
    "ended": false
   },
-  "TR2INQ": {
-   "msg": "1541110765799481466",
-   "end": 1787586061,
-   "title": "What games are you looking forward to for the fall sale",
-   "items": 6,
-   "ended": true
-  },
   "UW5SKM": {
    "msg": "1541118393003016332",
    "end": 1787587381,
    "title": "67 raffles won",
    "items": 3,
-   "ended": true
-  },
-  "YCC3NS": {
-   "msg": "1541118399919296625",
-   "end": 1787587261,
-   "title": "Scrap.tf Birthdays - 23 August",
-   "items": 2,
    "ended": true
   },
   "3GIATS": {
@@ -1454,13 +1440,6 @@
    "end": 1787670000,
    "title": "You're listening to SPICE FM (48)",
    "items": 3,
-   "ended": true
-  },
-  "BEEZTK": {
-   "msg": "1541469622220361759",
-   "end": 1787587021,
-   "title": "100% win",
-   "items": 77,
    "ended": true
   },
   "II235K": {
@@ -6746,7 +6725,7 @@
    "end": 1788191041,
    "title": "Daily Brass Beast #553",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LGLJL6": {
    "msg": "1543651736881729556",
@@ -6788,7 +6767,7 @@
    "end": 1788192000,
    "title": "Scrap.tf Birthdays - 30 August",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "QW0UYR": {
    "msg": "1543666821381619743",
@@ -7705,7 +7684,7 @@
    "end": 1788190261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JXTC1D": {
    "msg": "1544006548102062092",
@@ -7726,6 +7705,62 @@
    "end": 1788274800,
    "title": "You're listening to SPICE FM (55)",
    "items": 3,
+   "ended": false
+  },
+  "JFF4D2": {
+   "msg": "1544014132708114524",
+   "end": 1788277621,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5G9SD0": {
+   "msg": "1544014139746291732",
+   "end": 1788277442,
+   "title": "Team Graveyard: The Sniper",
+   "items": 1,
+   "ended": false
+  },
+  "NNGBBM": {
+   "msg": "1544014153210007594",
+   "end": 1788277441,
+   "title": "Been trying to come to terms with being disabled",
+   "items": 159,
+   "ended": false
+  },
+  "DF6C08": {
+   "msg": "1544014160034009178",
+   "end": 1788276661,
+   "title": "Returning to TF2 after 10 years",
+   "items": 1,
+   "ended": false
+  },
+  "IO81ME": {
+   "msg": "1544014166883311727",
+   "end": 1788276600,
+   "title": "MK Poll #13 + The Favorites of Music #293 & #294",
+   "items": 1,
+   "ended": false
+  },
+  "2WD89N": {
+   "msg": "1544014174269472868",
+   "end": 1788276481,
+   "title": "#CoolLion Sweep",
+   "items": 1,
+   "ended": false
+  },
+  "EULPX6": {
+   "msg": "1544014180909318387",
+   "end": 1788276361,
+   "title": "#CoolLion Sweep",
+   "items": 1,
+   "ended": false
+  },
+  "ZVWB7Z": {
+   "msg": "1544014187427266612",
+   "end": 1788276122,
+   "title": "#CoolLion Sweep",
+   "items": 1,
    "ended": false
   }
  },
