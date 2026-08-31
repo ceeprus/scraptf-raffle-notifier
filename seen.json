@@ -133,20 +133,6 @@
    "items": 1,
    "ended": false
   },
-  "VHK1IH": {
-   "msg": "1541077218728615967",
-   "end": 1787577241,
-   "title": "Cleaning out my backpack",
-   "items": 1,
-   "ended": true
-  },
-  "ZZU5OJ": {
-   "msg": "1541077225661669496",
-   "end": 1787577182,
-   "title": "i really need an answer",
-   "items": 1,
-   "ended": true
-  },
   "MPNKCM": {
    "msg": "1541082371758096547",
    "end": 1787579161,
@@ -180,41 +166,6 @@
    "end": 1787578441,
    "title": "Noise",
    "items": 3,
-   "ended": true
-  },
-  "LUW2TJ": {
-   "msg": "1541082412006506639",
-   "end": 1787578202,
-   "title": "epic man comeback",
-   "items": 1,
-   "ended": true
-  },
-  "DBUIC2": {
-   "msg": "1541082418927112212",
-   "end": 1787578202,
-   "title": "Noise",
-   "items": 3,
-   "ended": true
-  },
-  "NZ11L8": {
-   "msg": "1541082425583468564",
-   "end": 1787578141,
-   "title": "The pass it forward raffle! (#17)",
-   "items": 3,
-   "ended": true
-  },
-  "WM3V7O": {
-   "msg": "1541082431480926369",
-   "end": 1787577961,
-   "title": "Noise.TF2",
-   "items": 1,
-   "ended": true
-  },
-  "Q1AOPY": {
-   "msg": "1541082448463527956",
-   "end": 1787577902,
-   "title": "\u0414\u0435\u043b\u0430\u043d\u044c\u0435 \u0438\u0433\u0440\u044b #7 \u0438 #8\ud83d\udd25",
-   "items": 4,
    "ended": true
   },
   "7CBQFV": {
@@ -1146,13 +1097,6 @@
    "end": 1787622061,
    "title": "Bison",
    "items": 2,
-   "ended": true
-  },
-  "S06A12": {
-   "msg": "1541266019409207367",
-   "end": 1787578081,
-   "title": "Ham",
-   "items": 1,
    "ended": true
   },
   "VHKGAS": {
@@ -6879,14 +6823,14 @@
    "end": 1788181862,
    "title": "Got my second Australium drop from MVM at Tour No.119",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "45T3MD": {
    "msg": "1543613956302708736",
    "end": 1788181381,
    "title": "hiii guys!",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "X091MJ": {
    "msg": "1543613966213841107",
@@ -7893,6 +7837,41 @@
    "msg": "1543968862180085820",
    "end": 1788222600,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9WTCD7": {
+   "msg": "1543976340959793164",
+   "end": 1788268861,
+   "title": "\ufe0f\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "CANGHP": {
+   "msg": "1543976352980537437",
+   "end": 1788268322,
+   "title": "free",
+   "items": 7,
+   "ended": false
+  },
+  "GERCOK": {
+   "msg": "1543976360278491217",
+   "end": 1788268261,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "JLR60G": {
+   "msg": "1543976367329247252",
+   "end": 1788225002,
+   "title": "Bald monday.",
+   "items": 1,
+   "ended": false
+  },
+  "YJBJIX": {
+   "msg": "1543976375625453641",
+   "end": 1788267600,
+   "title": "You can't catch Mawile",
    "items": 1,
    "ended": false
   }
