@@ -119,88 +119,11 @@
    "items": 8,
    "ended": false
   },
-  "9O56TU": {
-   "msg": "1541050043812024340",
-   "end": 1787571541,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "7OE0ZZ": {
-   "msg": "1541050052770926702",
-   "end": 1787571361,
-   "title": "Untitled raffle",
-   "items": 8,
-   "ended": true
-  },
-  "KR93L1": {
-   "msg": "1541050059398058130",
-   "end": 1787571302,
-   "title": "\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "49QTNC": {
-   "msg": "1541050066779766825",
-   "end": 1787571181,
-   "title": "\ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "5RFROS": {
-   "msg": "1541054596699529229",
-   "end": 1787572741,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "L3AI0G": {
-   "msg": "1541054603813068810",
-   "end": 1787572621,
-   "title": "Bring The Noise!",
-   "items": 1,
-   "ended": true
-  },
-  "J713M1": {
-   "msg": "1541054613439123526",
-   "end": 1787572501,
-   "title": "We need LESS pyro mains #2 #antinoise",
-   "items": 1,
-   "ended": true
-  },
-  "F950ML": {
-   "msg": "1541054632887980032",
-   "end": 1787572501,
-   "title": "Who is Noisemaker?",
-   "items": 1,
-   "ended": true
-  },
-  "YTA8D3": {
-   "msg": "1541054642555723887",
-   "end": 1787572381,
-   "title": "Preference Survey",
-   "items": 10,
-   "ended": true
-  },
   "4L1OAN": {
    "msg": "1541059681936482365",
    "end": 1787573941,
    "title": "50 Noise Producers",
    "items": 50,
-   "ended": true
-  },
-  "4K7JLO": {
-   "msg": "1541059688773193809",
-   "end": 1787572862,
-   "title": "Untitled raffle",
-   "items": 13,
-   "ended": true
-  },
-  "HKUNQ2": {
-   "msg": "1541059694771310692",
-   "end": 1787572800,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
    "ended": true
   },
   "RKEUCU": {
@@ -7019,14 +6942,14 @@
    "end": 1788176162,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "VMNT5Z": {
    "msg": "1543598835970867240",
    "end": 1788177600,
    "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "471P8Z": {
    "msg": "1543606425584935033",
@@ -7502,21 +7425,21 @@
    "end": 1788177600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "U96XD4": {
    "msg": "1543780034890829868",
    "end": 1788177600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "Q7KX7M": {
    "msg": "1543780040662056961",
    "end": 1788177600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YQWNRX": {
    "msg": "1543780051009667212",
@@ -7971,7 +7894,7 @@
    "end": 1788176282,
    "title": "\ud83d\udc9aTake away my noisemakers#18\ud83d\udc9a",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "QJF7E1": {
    "msg": "1543946198732509184",
@@ -7999,6 +7922,13 @@
    "end": 1788260400,
    "title": "Surely you can think of something better! Like...42?",
    "items": 1,
+   "ended": false
+  },
+  "XNN7PQ": {
+   "msg": "1543953729647149156",
+   "end": 1788263042,
+   "title": "What Beats Rock? #4 (Not actually rock anymore)",
+   "items": 4,
    "ended": false
   }
  },
