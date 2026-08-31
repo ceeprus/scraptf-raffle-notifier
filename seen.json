@@ -119,27 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "Y98IXN": {
-   "msg": "1541027821990707290",
-   "end": 1787566441,
-   "title": "I am bad with titles #145",
-   "items": 1,
-   "ended": true
-  },
-  "4JIP9D": {
-   "msg": "1541027832266887249",
-   "end": 1787566141,
-   "title": "Look, Morty!",
-   "items": 51,
-   "ended": true
-  },
-  "KWEUKG": {
-   "msg": "1541031929648775198",
-   "end": 1787566682,
-   "title": "Second raffle",
-   "items": 1,
-   "ended": true
-  },
   "TIDQ25": {
    "msg": "1541036237287329863",
    "end": 1787568361,
@@ -1608,13 +1587,6 @@
    "end": 1787631602,
    "title": "Happy Birthday to My Brother",
    "items": 2,
-   "ended": true
-  },
-  "VHE1K2": {
-   "msg": "1541303727728627812",
-   "end": 1787566561,
-   "title": "Reinforced Scrap Mini-Game",
-   "items": 3,
    "ended": true
   },
   "T9JUWX": {
@@ -7145,14 +7117,14 @@
    "end": 1788171002,
    "title": "Grabli304's raffle\u2503Day 182",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "XTENDW": {
    "msg": "1543568683052437527",
    "end": 1788170461,
    "title": "What Beats Rock? #3 (Not actually rock anymore)",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "VO94EB": {
    "msg": "1543576214856536074",
@@ -8034,6 +8006,27 @@
    "end": 1788211801,
    "title": "my first raffle",
    "items": 17,
+   "ended": false
+  },
+  "JHNSRD": {
+   "msg": "1543931058104434798",
+   "end": 1788258482,
+   "title": "HAS WON!",
+   "items": 5,
+   "ended": false
+  },
+  "W6K981": {
+   "msg": "1543931064769323128",
+   "end": 1788258361,
+   "title": "Are you listening?",
+   "items": 1,
+   "ended": false
+  },
+  "T3QOY3": {
+   "msg": "1543931072557879297",
+   "end": 1788257642,
+   "title": "Grabli304's raffle\u2503Day 183",
+   "items": 2,
    "ended": false
   }
  },
