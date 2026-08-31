@@ -119,90 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "VKZSQK": {
-   "msg": "1541042548661817354",
-   "end": 1787569622,
-   "title": "Let's",
-   "items": 1,
-   "ended": true
-  },
-  "0I6BDH": {
-   "msg": "1541042554517196860",
-   "end": 1787569501,
-   "title": "Merry christmas",
-   "items": 2,
-   "ended": true
-  },
-  "J9LWHT": {
-   "msg": "1541042559990898730",
-   "end": 1787569441,
-   "title": "Noise",
-   "items": 1,
-   "ended": true
-  },
-  "ETFJUF": {
-   "msg": "1541042565971972186",
-   "end": 1787569321,
-   "title": "Daily Brass Beast #547",
-   "items": 1,
-   "ended": true
-  },
-  "EUE8L8": {
-   "msg": "1541047009232949338",
-   "end": 1787570941,
-   "title": "Ronsom 6000",
-   "items": 1,
-   "ended": true
-  },
-  "0ZH1GO": {
-   "msg": "1541047015440646274",
-   "end": 1787570641,
-   "title": "Noise",
-   "items": 1,
-   "ended": true
-  },
-  "P8C5C1": {
-   "msg": "1541047021274660894",
-   "end": 1787570582,
-   "title": "A day of",
-   "items": 1,
-   "ended": true
-  },
-  "5BR6PZ": {
-   "msg": "1541047027247349802",
-   "end": 1787569981,
-   "title": "Some  !!!",
-   "items": 1,
-   "ended": true
-  },
-  "VK6TLY": {
-   "msg": "1541047033899515911",
-   "end": 1787569922,
-   "title": "Daily raffle #354",
-   "items": 1,
-   "ended": true
-  },
-  "N1NBLT": {
-   "msg": "1541047041122238474",
-   "end": 1787569861,
-   "title": "Make",
-   "items": 1,
-   "ended": true
-  },
-  "JZ62VL": {
-   "msg": "1541047048000770078",
-   "end": 1787569802,
-   "title": "#NoiseOut",
-   "items": 1,
-   "ended": true
-  },
-  "5GMIOV": {
-   "msg": "1541047054795669585",
-   "end": 1787569741,
-   "title": "geeettttttt noised on!!",
-   "items": 27,
-   "ended": true
-  },
   "9O56TU": {
    "msg": "1541050043812024340",
    "end": 1787571541,
@@ -7089,7 +7005,7 @@
    "end": 1788174422,
    "title": "mvm high roll drop",
    "items": 26,
-   "ended": false
+   "ended": true
   },
   "2K3YY5": {
    "msg": "1543583748388290590",
@@ -7998,6 +7914,90 @@
    "msg": "1543938655658442805",
    "end": 1788258901,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "P48M8L": {
+   "msg": "1543946131783032892",
+   "end": 1788262202,
+   "title": "Question #83",
+   "items": 1,
+   "ended": false
+  },
+  "7V3ZHQ": {
+   "msg": "1543946139362005023",
+   "end": 1788262021,
+   "title": "Joining in to celebrate  daay!",
+   "items": 1,
+   "ended": false
+  },
+  "91EAKO": {
+   "msg": "1543946146647642193",
+   "end": 1788262021,
+   "title": "Question #82",
+   "items": 1,
+   "ended": false
+  },
+  "J45RHN": {
+   "msg": "1543946154843181056",
+   "end": 1788261842,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8MZ736": {
+   "msg": "1543946167778414613",
+   "end": 1788261781,
+   "title": "i dont wanna be an old man anymore",
+   "items": 10,
+   "ended": false
+  },
+  "4EIJWM": {
+   "msg": "1543946174434779156",
+   "end": 1788261662,
+   "title": "Asking for slugma chain emoticon day 14.4",
+   "items": 1,
+   "ended": false
+  },
+  "MQO13P": {
+   "msg": "1543946181367955567",
+   "end": 1788261541,
+   "title": "Bedman? Is such a cool character in gg strive",
+   "items": 1,
+   "ended": false
+  },
+  "9VGEQM": {
+   "msg": "1543946191199277067",
+   "end": 1788176282,
+   "title": "\ud83d\udc9aTake away my noisemakers#18\ud83d\udc9a",
+   "items": 50,
+   "ended": false
+  },
+  "QJF7E1": {
+   "msg": "1543946198732509184",
+   "end": 1788260581,
+   "title": "The world needs more Reindoonicorns! (#599)",
+   "items": 1,
+   "ended": false
+  },
+  "SKP4W7": {
+   "msg": "1543946211541655622",
+   "end": 1788260521,
+   "title": "How was your summer?",
+   "items": 3,
+   "ended": false
+  },
+  "WX35KE": {
+   "msg": "1543946222199508992",
+   "end": 1788260402,
+   "title": "Unw",
+   "items": 144,
+   "ended": false
+  },
+  "63K8DJ": {
+   "msg": "1543946228679704727",
+   "end": 1788260400,
+   "title": "Surely you can think of something better! Like...42?",
    "items": 1,
    "ended": false
   }
