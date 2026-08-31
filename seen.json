@@ -133,34 +133,6 @@
    "items": 1,
    "ended": false
   },
-  "UW5SKM": {
-   "msg": "1541118393003016332",
-   "end": 1787587381,
-   "title": "67 raffles won",
-   "items": 3,
-   "ended": true
-  },
-  "3GIATS": {
-   "msg": "1541122511024955414",
-   "end": 1787588281,
-   "title": "Noise maker",
-   "items": 1,
-   "ended": true
-  },
-  "MNQLLY": {
-   "msg": "1541122518218178580",
-   "end": 1787588221,
-   "title": "get away",
-   "items": 1,
-   "ended": true
-  },
-  "BS8AXR": {
-   "msg": "1541122524195065877",
-   "end": 1787588101,
-   "title": "i just wanna win a raffle :'(",
-   "items": 1,
-   "ended": true
-  },
   "R0VF28": {
    "msg": "1541127035185795102",
    "end": 1787589661,
@@ -207,13 +179,6 @@
    "msg": "1541127072842252308",
    "end": 1787589241,
    "title": "Noisy",
-   "items": 1,
-   "ended": true
-  },
-  "V17IDU": {
-   "msg": "1541127078437593159",
-   "end": 1787589002,
-   "title": "200+ Public raffles god damn!",
    "items": 1,
    "ended": true
   },
@@ -6753,14 +6718,14 @@
    "end": 1788192781,
    "title": "Has anyone told you, you're loved and you matter, recently?",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "EKKEYF": {
    "msg": "1543659244903989368",
    "end": 1788192661,
    "title": "Why are there so many of these things?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DFPDL9": {
    "msg": "1543659253825536191",
@@ -6795,7 +6760,7 @@
    "end": 1788193441,
    "title": "Wishing everyone a good mood    :D",
    "items": 7,
-   "ended": false
+   "ended": true
   },
   "0E27N9": {
    "msg": "1543681926383009894",
@@ -7760,6 +7725,48 @@
    "msg": "1544014187427266612",
    "end": 1788276122,
    "title": "#CoolLion Sweep",
+   "items": 1,
+   "ended": false
+  },
+  "7L4LC7": {
+   "msg": "1544021634699100262",
+   "end": 1788279722,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UHCGQY": {
+   "msg": "1544021641363988563",
+   "end": 1788279541,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "K57NWN": {
+   "msg": "1544021648754090146",
+   "end": 1788278400,
+   "title": "27,500 raffles entered",
+   "items": 1,
+   "ended": false
+  },
+  "IIWCKL": {
+   "msg": "1544021656043917353",
+   "end": 1788278400,
+   "title": "Scrap.tf Birthdays - 31 August",
+   "items": 3,
+   "ended": false
+  },
+  "U64TB7": {
+   "msg": "1544021663518171226",
+   "end": 1788278400,
+   "title": "Weekly  #75",
+   "items": 1,
+   "ended": false
+  },
+  "NEN6W7": {
+   "msg": "1544021671189418064",
+   "end": 1788278162,
+   "title": "Half of entire Tommy dialogue  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
    "ended": false
   }
