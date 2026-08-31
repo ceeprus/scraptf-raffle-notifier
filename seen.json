@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "9KXMM2": {
-   "msg": "1540896026053976184",
-   "end": 1787534281,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "MJHO8G": {
    "msg": "1540903620361592903",
    "end": 1787535661,
@@ -7712,7 +7705,7 @@
    "end": 1788138121,
    "title": "I finally recovered all my stolen items.",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2JSM88": {
    "msg": "1543440333772300361",
@@ -8502,6 +8495,20 @@
    "msg": "1543787668335235095",
    "end": 1788223201,
    "title": "Daily Hat #83",
+   "items": 1,
+   "ended": false
+  },
+  "ZB2I6N": {
+   "msg": "1543795124058722324",
+   "end": 1788225721,
+   "title": "my first raffle on scraptf",
+   "items": 1,
+   "ended": false
+  },
+  "ZPNB97": {
+   "msg": "1543795130329337866",
+   "end": 1788224701,
+   "title": "Battle Cats Propaganda #1378",
    "items": 1,
    "ended": false
   }
