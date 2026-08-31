@@ -119,90 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "4L4F0H": {
-   "msg": "1540979104281665576",
-   "end": 1787554800,
-   "title": "Untitled raffle",
-   "items": 20,
-   "ended": true
-  },
-  "ECZ46Q": {
-   "msg": "1540979111185358968",
-   "end": 1787554682,
-   "title": "1 BILLION NOISE MAKERS",
-   "items": 1,
-   "ended": true
-  },
-  "JUXJFY": {
-   "msg": "1540979117581934663",
-   "end": 1787554681,
-   "title": "#NoiseSweep",
-   "items": 1,
-   "ended": true
-  },
-  "7HQRXM": {
-   "msg": "1540979125341126678",
-   "end": 1787554622,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "RUHF8R": {
-   "msg": "1540979133771939871",
-   "end": 1787554501,
-   "title": "RELEASE THE NOISE MAKERS!",
-   "items": 1,
-   "ended": true
-  },
-  "BGTC8Z": {
-   "msg": "1540979140902264852",
-   "end": 1787554501,
-   "title": "Finally",
-   "items": 1,
-   "ended": true
-  },
-  "FGSB55": {
-   "msg": "1540979147864670298",
-   "end": 1787554381,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "41BCFM": {
-   "msg": "1540979155225546892",
-   "end": 1787554322,
-   "title": "Day 14 of asking for Slugma Chain emoticon",
-   "items": 13,
-   "ended": true
-  },
-  "O2GBWA": {
-   "msg": "1540979161668001862",
-   "end": 1787554261,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "8T2E0S": {
-   "msg": "1540979168412700733",
-   "end": 1787554082,
-   "title": "Technical difficulties",
-   "items": 1,
-   "ended": true
-  },
-  "Z7ZF68": {
-   "msg": "1540979174335062027",
-   "end": 1787553721,
-   "title": "I'm tipping all noise maker raffles until this raffle ends as long as the raffle lasts 24 hours and the maximum entries is set to 2000 or more",
-   "items": 1,
-   "ended": true
-  },
-  "KKUB3P": {
-   "msg": "1540979181389742080",
-   "end": 1787553181,
-   "title": "I owe everyone an apology!",
-   "items": 1,
-   "ended": true
-  },
   "RSH481": {
    "msg": "1540986622219264010",
    "end": 1787556001,
@@ -7691,7 +7607,7 @@
    "end": 1788159421,
    "title": "Hii :3 This is my 14th raffle, wow!!",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "1TMHJM": {
    "msg": "1543515845563650199",
@@ -7719,7 +7635,7 @@
    "end": 1788159600,
    "title": "can you comment random things in my steam profile? #78",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "7JS2XV": {
    "msg": "1543541749144883230",
@@ -8538,6 +8454,13 @@
    "end": 1788238322,
    "title": "My favourite FNaF 3 games...",
    "items": 4,
+   "ended": false
+  },
+  "WJ8O3I": {
+   "msg": "1543878245374759022",
+   "end": 1788245461,
+   "title": "SWITCHING UP ON ALL MY DAY ONES",
+   "items": 5,
    "ended": false
   }
  },
