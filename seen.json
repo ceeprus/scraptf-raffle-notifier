@@ -140,55 +140,6 @@
    "items": 6,
    "ended": false
   },
-  "LJE48W": {
-   "msg": "1541158721315405857",
-   "end": 1787597221,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JZ30NN": {
-   "msg": "1541158727917371583",
-   "end": 1787597101,
-   "title": "First raffles !!! \u200b\u200b\u200b\u200b\u200b\u200b\u200b",
-   "items": 1,
-   "ended": true
-  },
-  "HKPORO": {
-   "msg": "1541158734523539677",
-   "end": 1787596921,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "88UPIF": {
-   "msg": "1541158746997395567",
-   "end": 1787596501,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "8H6XGD": {
-   "msg": "1541158753058033714",
-   "end": 1787596381,
-   "title": "Beep Beep! (First Raffle)",
-   "items": 1,
-   "ended": true
-  },
-  "NP6Q7I": {
-   "msg": "1541160305479127275",
-   "end": 1787597641,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "HFB0C4": {
-   "msg": "1541164079849152512",
-   "end": 1787598000,
-   "title": "#34 Weekly dose of Polish songs",
-   "items": 1,
-   "ended": true
-  },
   "TSK4D1": {
    "msg": "1541167823269658765",
    "end": 1787599321,
@@ -6592,35 +6543,35 @@
    "end": 1788202800,
    "title": "#35 Weekly dose of Polish songs",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RMAX93": {
    "msg": "1543697034463416370",
    "end": 1788201722,
    "title": "I like slugma",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "LO5E1I": {
    "msg": "1543697042377932991",
    "end": 1788201601,
    "title": "Portal 2 freaky ahh leak CCTV Footage",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GOZRVP": {
    "msg": "1543697050674135240",
    "end": 1788201422,
    "title": "IM TIRED OF MVM",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "IQBWDU": {
    "msg": "1543697057645338829",
    "end": 1788201121,
    "title": "Very nice",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "CJF162": {
    "msg": "1543704549431447715",
@@ -7627,6 +7578,13 @@
    "msg": "1544051843473088584",
    "end": 1788286022,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "QAVQLP": {
+   "msg": "1544059431854022749",
+   "end": 1788287762,
+   "title": "My brithday,",
    "items": 1,
    "ended": false
   }
