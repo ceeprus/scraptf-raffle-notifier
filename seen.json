@@ -133,76 +133,6 @@
    "items": 1,
    "ended": false
   },
-  "AO0YNV": {
-   "msg": "1541096332150964344",
-   "end": 1787582221,
-   "title": "Oh look! Another noisemaker raffle",
-   "items": 1,
-   "ended": true
-  },
-  "MBK7R5": {
-   "msg": "1541096338744279151",
-   "end": 1787582041,
-   "title": "I have no noise makers and i must make noise.",
-   "items": 1,
-   "ended": true
-  },
-  "8HXOUC": {
-   "msg": "1541096345832656910",
-   "end": 1787581921,
-   "title": "Noise.TF3",
-   "items": 1,
-   "ended": true
-  },
-  "SXKRLK": {
-   "msg": "1541099914606674042",
-   "end": 1787583600,
-   "title": "You're listening to SPICE FM (47)",
-   "items": 5,
-   "ended": true
-  },
-  "3AT68X": {
-   "msg": "1541099926300393592",
-   "end": 1787583121,
-   "title": "ref with extra steps",
-   "items": 1,
-   "ended": true
-  },
-  "OLQOR1": {
-   "msg": "1541099935443845330",
-   "end": 1787583062,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "SUZ5SB": {
-   "msg": "1541099943572406402",
-   "end": 1787582941,
-   "title": "Latest art I wish to share",
-   "items": 4,
-   "ended": true
-  },
-  "2J0KQZ": {
-   "msg": "1541099950287364167",
-   "end": 1787582881,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "C6L6GH": {
-   "msg": "1541099963348557834",
-   "end": 1787582702,
-   "title": "getting pretty loud around here",
-   "items": 3,
-   "ended": true
-  },
-  "WXIJYT": {
-   "msg": "1541099972756377744",
-   "end": 1787582702,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "SL0I21": {
    "msg": "1541107428190330920",
    "end": 1787584621,
@@ -6774,28 +6704,28 @@
    "end": 1788187321,
    "title": "...rof elffaR yadhtriB",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "XB69V0": {
    "msg": "1543636640021479585",
    "end": 1788186902,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "6WEPBW": {
    "msg": "1543636647047069806",
    "end": 1788186841,
    "title": "Team Graveyard: The Medic",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "10I92F": {
    "msg": "1543636655221772431",
    "end": 1788186782,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BSAM87": {
    "msg": "1543644135854968922",
@@ -6823,21 +6753,21 @@
    "end": 1788188400,
    "title": "You're listening to SPICE FM (54)",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "BN8HKV": {
    "msg": "1543644176208498840",
    "end": 1788188342,
    "title": "Dedicated To A True BALLER",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "A94XSL": {
    "msg": "1543644184391716914",
    "end": 1788187921,
    "title": "A raffle dedicated to an amazing person",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "7HQEFI": {
    "msg": "1543651729139310653",
@@ -7243,7 +7173,7 @@
    "end": 1788188161,
    "title": "Raffling Scrap Till I'm Out #1020 (Lazy)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RTL02Y": {
    "msg": "1543817836005171207",
@@ -7271,7 +7201,7 @@
    "end": 1788187442,
    "title": "Untitled raffle",
    "items": 44,
-   "ended": false
+   "ended": true
   },
   "8D1GFL": {
    "msg": "1543817874689237073",
@@ -7788,6 +7718,20 @@
    "msg": "1543991486054662164",
    "end": 1788271261,
    "title": "We found information that matches your request:",
+   "items": 1,
+   "ended": false
+  },
+  "Q9ZXKO": {
+   "msg": "1543999024594550844",
+   "end": 1788273422,
+   "title": "who wants to become my friend",
+   "items": 1,
+   "ended": false
+  },
+  "2CKEBC": {
+   "msg": "1543999031531806776",
+   "end": 1788190261,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
