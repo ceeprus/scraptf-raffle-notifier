@@ -112,20 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "YCLKYI": {
-   "msg": "1540880930388975716",
-   "end": 1787530681,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "2R8NUV": {
-   "msg": "1540880937833992352",
-   "end": 1787530442,
-   "title": "Item won from megaraffle",
-   "items": 1,
-   "ended": true
-  },
   "UKX48C": {
    "msg": "1540885037145391164",
    "end": 1787531461,
@@ -1138,13 +1124,6 @@
    "msg": "1541069752196399116",
    "end": 1787575081,
    "title": "abc",
-   "items": 1,
-   "ended": true
-  },
-  "907TCX": {
-   "msg": "1541069759548756120",
-   "end": 1787531101,
-   "title": "Raffling Scrap Till I'm Out #1012 (Super late raffle)",
    "items": 1,
    "ended": true
   },
@@ -7705,7 +7684,7 @@
    "end": 1788134461,
    "title": "yeah",
    "items": 32,
-   "ended": false
+   "ended": true
   },
   "HQERZ9": {
    "msg": "1543425234990792776",
@@ -8475,6 +8454,41 @@
    "end": 1788219721,
    "title": "Asking for slugma chain emoticon day 14.3",
    "items": 1,
+   "ended": false
+  },
+  "P5XWSX": {
+   "msg": "1543780019946659881",
+   "end": 1788221162,
+   "title": "Well theres candles on the menu when im click on things so ig happy bday??",
+   "items": 4,
+   "ended": false
+  },
+  "EP8FE7": {
+   "msg": "1543780028339453992",
+   "end": 1788177600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "U96XD4": {
+   "msg": "1543780034890829868",
+   "end": 1788177600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Q7KX7M": {
+   "msg": "1543780040662056961",
+   "end": 1788177600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "YQWNRX": {
+   "msg": "1543780051009667212",
+   "end": 1788220681,
+   "title": "I messed up ;((",
+   "items": 10,
    "ended": false
   }
  },
