@@ -119,55 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "P9WJN9": {
-   "msg": "1540998817741152326",
-   "end": 1787559361,
-   "title": "i'm a noisyboi",
-   "items": 1,
-   "ended": true
-  },
-  "IXJJIM": {
-   "msg": "1540998823458119771",
-   "end": 1787559061,
-   "title": "Make a noise",
-   "items": 1,
-   "ended": true
-  },
-  "35D4A2": {
-   "msg": "1540998829225156668",
-   "end": 1787558881,
-   "title": "My english is wery well",
-   "items": 1,
-   "ended": true
-  },
-  "G4993Z": {
-   "msg": "1540998834686005301",
-   "end": 1787558701,
-   "title": "who would have thought",
-   "items": 1,
-   "ended": true
-  },
-  "MEAZB6": {
-   "msg": "1540998841556275270",
-   "end": 1787558581,
-   "title": "mario :D",
-   "items": 1,
-   "ended": true
-  },
-  "DARNBN": {
-   "msg": "1541001719448870992",
-   "end": 1787559902,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "4ENDMK": {
-   "msg": "1541001726386245734",
-   "end": 1787559902,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "1KLCRB": {
    "msg": "1541007869925654568",
    "end": 1787561221,
@@ -7901,7 +7852,7 @@
    "end": 1788164221,
    "title": "Just another Killstreak Raffle",
    "items": 13,
-   "ended": false
+   "ended": true
   },
   "HSOKKV": {
    "msg": "1543727227659755623",
@@ -8314,6 +8265,13 @@
    "end": 1788248462,
    "title": "Hello! Have a great day!",
    "items": 3,
+   "ended": false
+  },
+  "9TOR5C": {
+   "msg": "1543900831185903646",
+   "end": 1788250441,
+   "title": "A ordinary raffle",
+   "items": 1,
    "ended": false
   }
  },
