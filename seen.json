@@ -196,34 +196,6 @@
    "items": 1,
    "ended": true
   },
-  "WHUPKB": {
-   "msg": "1541014062740017153",
-   "end": 1787562361,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "SQF2BO": {
-   "msg": "1541014068876419112",
-   "end": 1787562301,
-   "title": "First one",
-   "items": 1,
-   "ended": true
-  },
-  "Q4S38G": {
-   "msg": "1541014075121602662",
-   "end": 1787562241,
-   "title": "Is noise",
-   "items": 2,
-   "ended": true
-  },
-  "OR08ZH": {
-   "msg": "1541014081551732768",
-   "end": 1787562121,
-   "title": "I'm tipping all non-noisemaker raffles until this raffle ends as long as the raffle lasts 24 hours and the maximum entries is set to 2000 or more",
-   "items": 6,
-   "ended": true
-  },
   "JUORJZ": {
    "msg": "1541016825926520953",
    "end": 1787563681,
@@ -8216,6 +8188,20 @@
    "end": 1788251282,
    "title": "free botkillers to a good home",
    "items": 33,
+   "ended": false
+  },
+  "XQ22AE": {
+   "msg": "1543909723961827408",
+   "end": 1788253321,
+   "title": "Random Street View of the day #7",
+   "items": 1,
+   "ended": false
+  },
+  "5EH8CN": {
+   "msg": "1543909733721710663",
+   "end": 1788252901,
+   "title": "Special Delivery",
+   "items": 20,
    "ended": false
   }
  },
