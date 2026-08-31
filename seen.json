@@ -119,69 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "GE38S5": {
-   "msg": "1541021670754492517",
-   "end": 1787564341,
-   "title": "Think mark, think!",
-   "items": 84,
-   "ended": true
-  },
-  "J9RLW0": {
-   "msg": "1541021684218208276",
-   "end": 1787563982,
-   "title": "Jessie",
-   "items": 48,
-   "ended": true
-  },
-  "54FMP9": {
-   "msg": "1541021690941800468",
-   "end": 1787563861,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "US3417": {
-   "msg": "1541024406279688294",
-   "end": 1787565122,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "X2SY15": {
-   "msg": "1541024413259137085",
-   "end": 1787565002,
-   "title": "I'm bad at love!",
-   "items": 1,
-   "ended": true
-  },
-  "OGHEPO": {
-   "msg": "1541024418644365333",
-   "end": 1787565002,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #96 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "H8H13O": {
-   "msg": "1541024425279758417",
-   "end": 1787564701,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #95 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "JF97AO": {
-   "msg": "1541024430543867946",
-   "end": 1787564642,
-   "title": "Rate the Heavy Loadout",
-   "items": 1,
-   "ended": true
-  },
-  "78NQAC": {
-   "msg": "1541024436201857035",
-   "end": 1787564522,
-   "title": "what r ur thoughts on the game rn",
-   "items": 21,
-   "ended": true
-  },
   "Y98IXN": {
    "msg": "1541027821990707290",
    "end": 1787566441,
@@ -194,34 +131,6 @@
    "end": 1787566141,
    "title": "Look, Morty!",
    "items": 51,
-   "ended": true
-  },
-  "WINRGW": {
-   "msg": "1541027838805938186",
-   "end": 1787565661,
-   "title": "All about balance",
-   "items": 1,
-   "ended": true
-  },
-  "Z0DLNR": {
-   "msg": "1541027845046931508",
-   "end": 1787565661,
-   "title": "gift of the day #6",
-   "items": 1,
-   "ended": true
-  },
-  "72N19B": {
-   "msg": "1541027851971854366",
-   "end": 1787565361,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #97 \ud83c\udf0a\ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "867WC9": {
-   "msg": "1541027858556784670",
-   "end": 1787565241,
-   "title": "i hate noisemakers",
-   "items": 2,
    "ended": true
   },
   "KWEUKG": {
@@ -1363,13 +1272,6 @@
    "end": 1787607181,
    "title": "A chance to get rid of my noisemakers? Dont have to tell me twice",
    "items": 2,
-   "ended": true
-  },
-  "M0S92H": {
-   "msg": "1541201111430463599",
-   "end": 1787563862,
-   "title": "Noise.TF4",
-   "items": 1,
    "ended": true
   },
   "9S5ZLM": {
@@ -7201,14 +7103,14 @@
    "end": 1788169441,
    "title": "Random Street View of the day #6",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YB2AB2": {
    "msg": "1543561142784368720",
    "end": 1788168782,
    "title": "100%",
    "items": 82,
-   "ended": false
+   "ended": true
   },
   "QKERDG": {
    "msg": "1543568641432485908",
@@ -8111,6 +8013,27 @@
    "end": 1788253861,
    "title": "(Another) Special Delivery!",
    "items": 10,
+   "ended": false
+  },
+  "84FGPS": {
+   "msg": "1543923546986905660",
+   "end": 1788256261,
+   "title": "Giving noise back",
+   "items": 1,
+   "ended": false
+  },
+  "3SMSNG": {
+   "msg": "1543923554729328670",
+   "end": 1788255001,
+   "title": "3SMSNG",
+   "items": 1,
+   "ended": false
+  },
+  "USOUKP": {
+   "msg": "1543923565760483339",
+   "end": 1788211801,
+   "title": "my first raffle",
+   "items": 17,
    "ended": false
   }
  },
