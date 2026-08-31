@@ -119,13 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "4L1OAN": {
-   "msg": "1541059681936482365",
-   "end": 1787573941,
-   "title": "50 Noise Producers",
-   "items": 50,
-   "ended": true
-  },
   "RKEUCU": {
    "msg": "1541069697997611029",
    "end": null,
@@ -182,26 +175,12 @@
    "items": 1,
    "ended": true
   },
-  "MZ5UFC": {
-   "msg": "1541069766041542716",
-   "end": 1787574181,
-   "title": "Noise",
-   "items": 1,
-   "ended": true
-  },
   "4VBT4R": {
    "msg": "1541069771846586398",
    "end": null,
    "title": "I don't know what is it",
    "items": 1,
    "ended": false
-  },
-  "87EAFF": {
-   "msg": "1541069779031425125",
-   "end": 1787574061,
-   "title": "I'M MAKING NOISE",
-   "items": 2,
-   "ended": true
   },
   "JH0118": {
    "msg": "1541071655013453924",
@@ -7929,6 +7908,41 @@
    "end": 1788263042,
    "title": "What Beats Rock? #4 (Not actually rock anymore)",
    "items": 4,
+   "ended": false
+  },
+  "YQUOKL": {
+   "msg": "1543961235869925426",
+   "end": 1788264901,
+   "title": "Nah, it must be a Spy",
+   "items": 3,
+   "ended": false
+  },
+  "PNIOCC": {
+   "msg": "1543961242710843412",
+   "end": 1788264601,
+   "title": "i can't think of a title for this raffle 33\u2122",
+   "items": 1,
+   "ended": false
+  },
+  "471YFW": {
+   "msg": "1543961250059386924",
+   "end": 1788264000,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "2YBYCG": {
+   "msg": "1543961260599812137",
+   "end": 1788263882,
+   "title": "Something about today",
+   "items": 3,
+   "ended": false
+  },
+  "6XS3LT": {
+   "msg": "1543961270095716352",
+   "end": 1788263522,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
