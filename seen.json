@@ -133,90 +133,6 @@
    "items": 1,
    "ended": false
   },
-  "MPNKCM": {
-   "msg": "1541082371758096547",
-   "end": 1787579161,
-   "title": "make some noise",
-   "items": 1,
-   "ended": true
-  },
-  "0700EK": {
-   "msg": "1541082378108149843",
-   "end": 1787579101,
-   "title": "More noise",
-   "items": 1,
-   "ended": true
-  },
-  "PBSMWC": {
-   "msg": "1541082384378757301",
-   "end": 1787579041,
-   "title": "Noys",
-   "items": 1,
-   "ended": true
-  },
-  "BIA7NC": {
-   "msg": "1541082391383375922",
-   "end": 1787578621,
-   "title": "Noise",
-   "items": 3,
-   "ended": true
-  },
-  "MWHBIS": {
-   "msg": "1541082397963976815",
-   "end": 1787578441,
-   "title": "Noise",
-   "items": 3,
-   "ended": true
-  },
-  "7CBQFV": {
-   "msg": "1541084797798060123",
-   "end": 1787579762,
-   "title": "They're gone",
-   "items": 1,
-   "ended": true
-  },
-  "99A2TP": {
-   "msg": "1541084804584439868",
-   "end": 1787579641,
-   "title": "NOISEEEEE",
-   "items": 1,
-   "ended": true
-  },
-  "89AALI": {
-   "msg": "1541084820975919166",
-   "end": 1787579641,
-   "title": "To Earn The Right To Work \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "QXSZEX": {
-   "msg": "1541084827401453688",
-   "end": 1787579461,
-   "title": "To Earn The Right To Work \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "7P1SWV": {
-   "msg": "1541084834045235281",
-   "end": 1787579401,
-   "title": "To Earn The Right To Work \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "7WJ2S0": {
-   "msg": "1541084841184067614",
-   "end": 1787579282,
-   "title": "Noice",
-   "items": 1,
-   "ended": true
-  },
-  "E89T3M": {
-   "msg": "1541084846993178787",
-   "end": 1787579221,
-   "title": "Noize",
-   "items": 1,
-   "ended": true
-  },
   "ZGB4JO": {
    "msg": "1541092308328513546",
    "end": 1787581201,
@@ -1097,13 +1013,6 @@
    "end": 1787622061,
    "title": "Bison",
    "items": 2,
-   "ended": true
-  },
-  "VHKGAS": {
-   "msg": "1541270169517817887",
-   "end": 1787580000,
-   "title": "Tune of the day #319",
-   "items": 1,
    "ended": true
   },
   "TBFSJW": {
@@ -6844,14 +6753,14 @@
    "end": 1788184261,
    "title": "1,500 Raffles Entered!!!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "1FJFN5": {
    "msg": "1543621538081673377",
    "end": 1788184141,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1521 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "QBXK0Y": {
    "msg": "1543629021718249503",
@@ -6879,14 +6788,14 @@
    "end": 1788184800,
    "title": "Happy Birthday to \ud83c\udf1f",
    "items": 20,
-   "ended": false
+   "ended": true
   },
   "MUTBI2": {
    "msg": "1543629048322727937",
    "end": 1788184800,
    "title": "It's my BIRTHDAY!!!!  pt.1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PORU5F": {
    "msg": "1543636633717309490",
@@ -7872,6 +7781,13 @@
    "msg": "1543976375625453641",
    "end": 1788267600,
    "title": "You can't catch Mawile",
+   "items": 1,
+   "ended": false
+  },
+  "ZOQ6IQ": {
+   "msg": "1543983939801190581",
+   "end": 1788199021,
+   "title": "hi again",
    "items": 1,
    "ended": false
   }
