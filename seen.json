@@ -140,55 +140,6 @@
    "items": 6,
    "ended": false
   },
-  "72KYJE": {
-   "msg": "1541149061086969887",
-   "end": 1787594642,
-   "title": "Raffling the thing",
-   "items": 1,
-   "ended": true
-  },
-  "DU7FJA": {
-   "msg": "1541149067718037536",
-   "end": 1787594642,
-   "title": "So much noise @-@",
-   "items": 3,
-   "ended": true
-  },
-  "46YQGQ": {
-   "msg": "1541152734986641478",
-   "end": 1787595661,
-   "title": "Take it",
-   "items": 1,
-   "ended": true
-  },
-  "N2ZYKY": {
-   "msg": "1541152744579145799",
-   "end": 1787595542,
-   "title": "I've lost everything I had (in tf2)",
-   "items": 12,
-   "ended": true
-  },
-  "UWUFS4": {
-   "msg": "1541152758147711026",
-   "end": 1787595061,
-   "title": "Raffling the thing",
-   "items": 1,
-   "ended": true
-  },
-  "UKJMB6": {
-   "msg": "1541152766225809510",
-   "end": 1787594941,
-   "title": "Raffling the thing",
-   "items": 1,
-   "ended": true
-  },
-  "TUJKNG": {
-   "msg": "1541152772911669279",
-   "end": 1787594821,
-   "title": "i can't think of a title for this raffle 30\u2122",
-   "items": 2,
-   "ended": true
-  },
   "LJE48W": {
    "msg": "1541158721315405857",
    "end": 1787597221,
@@ -222,13 +173,6 @@
    "end": 1787596381,
    "title": "Beep Beep! (First Raffle)",
    "items": 1,
-   "ended": true
-  },
-  "VIBUP5": {
-   "msg": "1541158759794212964",
-   "end": 1787596200,
-   "title": "I CAST KINDNESS UPON THEE THREE",
-   "items": 5,
    "ended": true
   },
   "NP6Q7I": {
@@ -1305,13 +1249,6 @@
   "5WP1Y3": {
    "msg": "1541492509618733076",
    "end": 1787675821,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "KQ70QA": {
-   "msg": "1541500021676052570",
-   "end": 1787595542,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -7677,6 +7614,20 @@
    "end": 1788282000,
    "title": "Daily raffle until TF2 gets a major update #608",
    "items": 3,
+   "ended": false
+  },
+  "3O2K2R": {
+   "msg": "1544051834388222004",
+   "end": 1788286321,
+   "title": "coollion",
+   "items": 1,
+   "ended": false
+  },
+  "FSX7CK": {
+   "msg": "1544051843473088584",
+   "end": 1788286022,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
