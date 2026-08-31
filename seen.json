@@ -119,34 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "TIDQ25": {
-   "msg": "1541036237287329863",
-   "end": 1787568361,
-   "title": "I heard you like",
-   "items": 1,
-   "ended": true
-  },
-  "ZEK46R": {
-   "msg": "1541039539001368656",
-   "end": 1787568602,
-   "title": "People who call others \"Larpers\" are so annoying",
-   "items": 1,
-   "ended": true
-  },
-  "E2AGUQ": {
-   "msg": "1541039560467812483",
-   "end": 1787568422,
-   "title": "Unable to enter Raffle",
-   "items": 2,
-   "ended": true
-  },
-  "3HQNFA": {
-   "msg": "1541039577236635719",
-   "end": 1787568422,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "VKZSQK": {
    "msg": "1541042548661817354",
    "end": 1787569622,
@@ -172,20 +144,6 @@
    "msg": "1541042565971972186",
    "end": 1787569321,
    "title": "Daily Brass Beast #547",
-   "items": 1,
-   "ended": true
-  },
-  "L1F5MV": {
-   "msg": "1541042572082946169",
-   "end": 1787569200,
-   "title": "Yeah! You should stay around and watch it grow!",
-   "items": 1,
-   "ended": true
-  },
-  "AL5ZVJ": {
-   "msg": "1541042578697224223",
-   "end": 1787569141,
-   "title": "Bucking Bronco",
    "items": 1,
    "ended": true
   },
@@ -1321,13 +1279,6 @@
    "end": 1787610721,
    "title": "Untitled raffle",
    "items": 21,
-   "ended": true
-  },
-  "LE059U": {
-   "msg": "1541216750534926348",
-   "end": 1787567521,
-   "title": "Take this. Donut want them.",
-   "items": 14,
    "ended": true
   },
   "JMUJIZ": {
@@ -7131,7 +7082,7 @@
    "end": 1788173162,
    "title": "P0PM0M",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "OUOSS7": {
    "msg": "1543583741308309514",
@@ -7145,7 +7096,7 @@
    "end": 1788174000,
    "title": "Ha! That beagle with his jokes that I...don't understand...",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "GLXT50": {
    "msg": "1543591329785847838",
@@ -8027,6 +7978,27 @@
    "end": 1788257642,
    "title": "Grabli304's raffle\u2503Day 183",
    "items": 2,
+   "ended": false
+  },
+  "QVK7YS": {
+   "msg": "1543938640416080052",
+   "end": 1788259801,
+   "title": "OMGZMF!",
+   "items": 1,
+   "ended": false
+  },
+  "UKA7UN": {
+   "msg": "1543938648834048040",
+   "end": 1788259021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2XUAXS": {
+   "msg": "1543938655658442805",
+   "end": 1788258901,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
