@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "MJHO8G": {
-   "msg": "1540903620361592903",
-   "end": 1787535661,
-   "title": "I wonder how many times I've won from Terrible Terrence's Tune of the  MvM Update. Yummers",
-   "items": 1,
-   "ended": true
-  },
   "1BMJMD": {
    "msg": "1540918711580368986",
    "end": 1787539922,
@@ -1211,13 +1204,6 @@
    "items": 3,
    "ended": true
   },
-  "SUQ9BD": {
-   "msg": "1541082404515619048",
-   "end": 1787535181,
-   "title": "Addiction",
-   "items": 50,
-   "ended": true
-  },
   "LUW2TJ": {
    "msg": "1541082412006506639",
    "end": 1787578202,
@@ -1300,13 +1286,6 @@
    "end": 1787579221,
    "title": "Noize",
    "items": 1,
-   "ended": true
-  },
-  "DXBIH1": {
-   "msg": "1541088327476973599",
-   "end": 1787536801,
-   "title": "Unclaimed Items",
-   "items": 3,
    "ended": true
   },
   "ZGB4JO": {
@@ -7712,14 +7691,14 @@
    "end": 1788140582,
    "title": "1234 raffles entered YAYAYAYAYA BABY",
    "items": 5,
-   "ended": false
+   "ended": true
   },
   "K7Y7NF": {
    "msg": "1543440341108002917",
    "end": 1788140101,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "YAWVPL": {
    "msg": "1543447863160475779",
@@ -8509,6 +8488,27 @@
    "msg": "1543795130329337866",
    "end": 1788224701,
    "title": "Battle Cats Propaganda #1378",
+   "items": 1,
+   "ended": false
+  },
+  "23NIX8": {
+   "msg": "1543802729590292561",
+   "end": 1788227281,
+   "title": "what are your favorite fruits?",
+   "items": 1,
+   "ended": false
+  },
+  "IFW1AL": {
+   "msg": "1543802738524291082",
+   "end": 1788226621,
+   "title": "someone didn't claim their poop can",
+   "items": 1,
+   "ended": false
+  },
+  "9JILO7": {
+   "msg": "1543802747164295242",
+   "end": 1788226261,
+   "title": "Untitled raffle",
    "items": 1,
    "ended": false
   }
