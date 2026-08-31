@@ -140,41 +140,6 @@
    "items": 6,
    "ended": false
   },
-  "TSK4D1": {
-   "msg": "1541167823269658765",
-   "end": 1787599321,
-   "title": "Make some noise",
-   "items": 1,
-   "ended": true
-  },
-  "ET8I82": {
-   "msg": "1541167829989072986",
-   "end": 1787599261,
-   "title": "Q&A answers",
-   "items": 1,
-   "ended": true
-  },
-  "IN5RSE": {
-   "msg": "1541167836729311272",
-   "end": 1787599082,
-   "title": "Make some noise",
-   "items": 1,
-   "ended": true
-  },
-  "2K9VGX": {
-   "msg": "1541167843410706442",
-   "end": 1787598962,
-   "title": "Make some noise",
-   "items": 1,
-   "ended": true
-  },
-  "R2M8XV": {
-   "msg": "1541167851728273498",
-   "end": 1787598722,
-   "title": "Something a Little More Refined",
-   "items": 5,
-   "ended": true
-  },
   "1ZNDOP": {
    "msg": "1541170889847079073",
    "end": 1787600161,
@@ -6578,14 +6543,14 @@
    "end": 1788203700,
    "title": "Snowfall Soundtrack #31",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "DP1PXW": {
    "msg": "1543704563050352713",
    "end": 1788203521,
    "title": "just some random stuff",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "8941H2": {
    "msg": "1543712124906373182",
@@ -6599,7 +6564,7 @@
    "end": 1788204242,
    "title": "Do you want to know something?",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "UB1W1W": {
    "msg": "1543719641174511666",
@@ -7586,6 +7551,41 @@
    "end": 1788287762,
    "title": "My brithday,",
    "items": 1,
+   "ended": false
+  },
+  "S6CR5L": {
+   "msg": "1544066923384279200",
+   "end": 1788290881,
+   "title": "Raffling a  every time I win a  #88",
+   "items": 1,
+   "ended": false
+  },
+  "2A46CX": {
+   "msg": "1544066929898291311",
+   "end": 1788290401,
+   "title": "flash games #54",
+   "items": 1,
+   "ended": false
+  },
+  "48XJFS": {
+   "msg": "1544066936453865473",
+   "end": 1788290100,
+   "title": "Snowfall Soundtrack #32",
+   "items": 2,
+   "ended": false
+  },
+  "DNUZW9": {
+   "msg": "1544066942409642108",
+   "end": 1788289741,
+   "title": "flash games #53",
+   "items": 1,
+   "ended": false
+  },
+  "5GJ1F3": {
+   "msg": "1544066949925969961",
+   "end": 1788289351,
+   "title": "flash games #52",
+   "items": 10,
    "ended": false
   }
  },
