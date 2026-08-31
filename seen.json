@@ -133,39 +133,11 @@
    "items": 1,
    "ended": false
   },
-  "SL0I21": {
-   "msg": "1541107428190330920",
-   "end": 1787584621,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "5VHZQH": {
-   "msg": "1541107434372735086",
-   "end": 1787584561,
-   "title": "\u02d2\ufe5a\u02ce\u02ca\u02d7)\u02d2\ufe5a)\u02d2\u02ce\u02ca\u02d7\ufe5a)\u02d2\ufe5a)\u02ce\u02ca\u02d7\u02d2\ufe5a)\u02ce\u02ca\u02d7",
-   "items": 1,
-   "ended": true
-  },
   "TR2INQ": {
    "msg": "1541110765799481466",
    "end": 1787586061,
    "title": "What games are you looking forward to for the fall sale",
    "items": 6,
-   "ended": true
-  },
-  "LJYNSK": {
-   "msg": "1541110781582639114",
-   "end": 1787585400,
-   "title": "MK Poll #9 + The Favorites of Music #285 & #286",
-   "items": 1,
-   "ended": true
-  },
-  "37VCU8": {
-   "msg": "1541110788658307312",
-   "end": 1787585101,
-   "title": "niceeeee",
-   "items": 3,
    "ended": true
   },
   "UW5SKM": {
@@ -6732,21 +6704,21 @@
    "end": 1788189181,
    "title": "I couldn\u2019t craft the AWP :(",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "J3SPKS": {
    "msg": "1543644142918172752",
    "end": 1788188522,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SOO06U": {
    "msg": "1543644159221702687",
    "end": 1788188462,
    "title": "IT'S SHOW TIME!!",
    "items": 17,
-   "ended": false
+   "ended": true
   },
   "LGACK4": {
    "msg": "1543644169036239008",
@@ -6795,7 +6767,7 @@
    "end": 1788189841,
    "title": "Weekly Noisemaker Raffle #5... or well... Until I run out of noise makers",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "MYKICI": {
    "msg": "1543659237907894273",
@@ -7222,7 +7194,7 @@
    "end": 1788188882,
    "title": "I'm back",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "HRAGEW": {
    "msg": "1543825367364804639",
@@ -7733,6 +7705,27 @@
    "end": 1788190261,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "JXTC1D": {
+   "msg": "1544006548102062092",
+   "end": 1788275581,
+   "title": "Today is my bday",
+   "items": 20,
+   "ended": false
+  },
+  "CDVW1M": {
+   "msg": "1544006555949867109",
+   "end": 1788275101,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "X0S3QO": {
+   "msg": "1544006568444432424",
+   "end": 1788274800,
+   "title": "You're listening to SPICE FM (55)",
+   "items": 3,
    "ended": false
   }
  },
