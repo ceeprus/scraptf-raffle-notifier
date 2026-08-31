@@ -140,27 +140,6 @@
    "items": 6,
    "ended": false
   },
-  "G760HP": {
-   "msg": "1541140497911914636",
-   "end": 1787592841,
-   "title": "NOISE NOISE NOISE",
-   "items": 2,
-   "ended": true
-  },
-  "LWRBA7": {
-   "msg": "1541145202004074606",
-   "end": 1787594102,
-   "title": "And another one",
-   "items": 1,
-   "ended": true
-  },
-  "4W4RFC": {
-   "msg": "1541145209444765837",
-   "end": 1787593321,
-   "title": "The humble noise maker:",
-   "items": 1,
-   "ended": true
-  },
   "72KYJE": {
    "msg": "1541149061086969887",
    "end": 1787594642,
@@ -6641,35 +6620,35 @@
    "end": 1788198181,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FJ2WI2": {
    "msg": "1543681933915988148",
    "end": 1788198062,
    "title": "Daily raffle until TF2 gets a major update #607",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "ANKV1V": {
    "msg": "1543681942547988696",
    "end": 1788197941,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4NZSW6": {
    "msg": "1543681949510533260",
    "end": 1788197821,
    "title": "All steam 2000-2013 games got leaked",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "6EVCMD": {
    "msg": "1543689424662167613",
    "end": 1788199141,
    "title": "Story Time #1",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "V8S4BP": {
    "msg": "1543697027160871084",
@@ -7481,7 +7460,7 @@
    "end": 1788199021,
    "title": "hi again",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TC4DBD": {
    "msg": "1543991463937966130",
