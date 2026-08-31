@@ -119,13 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "S6G7R8": {
-   "msg": "1540971526851924039",
-   "end": 1787552521,
-   "title": "Little Good Bye Gift:)",
-   "items": 13,
-   "ended": true
-  },
   "4L4F0H": {
    "msg": "1540979104281665576",
    "end": 1787554800,
@@ -2062,13 +2055,6 @@
    "msg": "1541228206529450075",
    "end": 1787613781,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "P71HU4": {
-   "msg": "1541243315716886601",
-   "end": 1787552761,
-   "title": "muahahahahaha",
    "items": 1,
    "ended": true
   },
@@ -7698,7 +7684,7 @@
    "end": 1788156661,
    "title": "ooo yeah the macho man yeah the ma-cho maN yEAH.",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "BTH33R": {
    "msg": "1543515838521409536",
