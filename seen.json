@@ -1372,20 +1372,6 @@
    "items": 1,
    "ended": true
   },
-  "5213NW": {
-   "msg": "1541103079271956630",
-   "end": 1787540701,
-   "title": "team fortress series is 30 years old",
-   "items": 5,
-   "ended": true
-  },
-  "QSAA1L": {
-   "msg": "1541107421722714163",
-   "end": 1787541541,
-   "title": "Happy Bday TF2!",
-   "items": 10,
-   "ended": true
-  },
   "SL0I21": {
    "msg": "1541107428190330920",
    "end": 1787584621,
@@ -1405,13 +1391,6 @@
    "end": 1787586061,
    "title": "What games are you looking forward to for the fall sale",
    "items": 6,
-   "ended": true
-  },
-  "CJXBYL": {
-   "msg": "1541110772485197994",
-   "end": 1787542200,
-   "title": "Tune of the day #318",
-   "items": 1,
    "ended": true
   },
   "LJYNSK": {
@@ -2161,13 +2140,6 @@
    "end": 1787618822,
    "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1514 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
    "items": 23,
-   "ended": true
-  },
-  "D9M3R0": {
-   "msg": "1541258421049761875",
-   "end": 1787541901,
-   "title": "Dragon's Sand",
-   "items": 2,
    "ended": true
   },
   "I4A2QQ": {
@@ -8125,7 +8097,7 @@
    "end": 1788146702,
    "title": "favourite song right now?",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "X7RSST": {
    "msg": "1543651751482101900",
@@ -8545,6 +8517,27 @@
    "end": 1788230101,
    "title": "Caf\u00e9 Crit-A-Coffee #1771",
    "items": 11,
+   "ended": false
+  },
+  "NLD9BD": {
+   "msg": "1543825337723396167",
+   "end": 1788233041,
+   "title": "Raffling a  every time I win a  #86",
+   "items": 1,
+   "ended": false
+  },
+  "UXRW8D": {
+   "msg": "1543825358275481650",
+   "end": 1788188882,
+   "title": "I'm back",
+   "items": 10,
+   "ended": false
+  },
+  "HRAGEW": {
+   "msg": "1543825367364804639",
+   "end": 1788231781,
+   "title": "So, how goes trading? #15",
+   "items": 2,
    "ended": false
   }
  },
