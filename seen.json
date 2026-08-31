@@ -119,83 +119,6 @@
    "items": 8,
    "ended": false
   },
-  "RSH481": {
-   "msg": "1540986622219264010",
-   "end": 1787556001,
-   "title": "cat noise 3",
-   "items": 2,
-   "ended": true
-  },
-  "UMHDPG": {
-   "msg": "1540986628242145281",
-   "end": 1787555581,
-   "title": "Attention! 3/3",
-   "items": 1,
-   "ended": true
-  },
-  "SMSLBN": {
-   "msg": "1540986634349187093",
-   "end": 1787555461,
-   "title": "cat noise 2",
-   "items": 1,
-   "ended": true
-  },
-  "U9FVH5": {
-   "msg": "1540986640116359188",
-   "end": 1787555402,
-   "title": "Noisy noisy",
-   "items": 1,
-   "ended": true
-  },
-  "FZZ56N": {
-   "msg": "1540986646386712658",
-   "end": 1787555402,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "BM5YJ5": {
-   "msg": "1540986653844185149",
-   "end": 1787555281,
-   "title": "Time to make some noise I think",
-   "items": 10,
-   "ended": true
-  },
-  "Y64WI2": {
-   "msg": "1540986666422894654",
-   "end": 1787555161,
-   "title": "There's more",
-   "items": 1,
-   "ended": true
-  },
-  "U1YOPW": {
-   "msg": "1540986673347829770",
-   "end": 1787555101,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "HDKTLW": {
-   "msg": "1540986679899324497",
-   "end": 1787554922,
-   "title": "Untitled raffle",
-   "items": 7,
-   "ended": true
-  },
-  "47H1ZS": {
-   "msg": "1540986685670690827",
-   "end": 1787554922,
-   "title": "MAKERS NOISE RAFFLE",
-   "items": 1,
-   "ended": true
-  },
-  "M736RU": {
-   "msg": "1540986692301881386",
-   "end": 1787554861,
-   "title": "Dynamite Mario Notice Me Senpapi",
-   "items": 3,
-   "ended": true
-  },
   "ZVU6AP": {
    "msg": "1540992581452828707",
    "end": 1787557562,
@@ -249,41 +172,6 @@
    "msg": "1540992634049405028",
    "end": 1787556721,
    "title": "First raffle!",
-   "items": 1,
-   "ended": true
-  },
-  "DJ9MGM": {
-   "msg": "1540992640282140695",
-   "end": 1787556482,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "CPWKZ0": {
-   "msg": "1540992646892355665",
-   "end": 1787556301,
-   "title": "Noise",
-   "items": 1,
-   "ended": true
-  },
-  "PXQBVS": {
-   "msg": "1540992653095735407",
-   "end": 1787556301,
-   "title": "Weekly Noisemaker Raffle #4... or well... Until I run out of noise makers",
-   "items": 1,
-   "ended": true
-  },
-  "WKAE30": {
-   "msg": "1540992659827462194",
-   "end": 1787556181,
-   "title": "Untitled raffle",
-   "items": 5,
-   "ended": true
-  },
-  "DWC60Y": {
-   "msg": "1540992675245727744",
-   "end": 1787556181,
-   "title": "We need LESS pyro mains #1",
    "items": 1,
    "ended": true
   },
@@ -7621,14 +7509,14 @@
    "end": 1788161342,
    "title": "Question #81",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K5Z6QZ": {
    "msg": "1543523338801123401",
    "end": 1788161162,
    "title": "Question #80",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "SIOXJA": {
    "msg": "1543523345667203173",
@@ -8461,6 +8349,20 @@
    "end": 1788245461,
    "title": "SWITCHING UP ON ALL MY DAY ONES",
    "items": 5,
+   "ended": false
+  },
+  "1139SB": {
+   "msg": "1543885755225481240",
+   "end": 1788247261,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FO0BWX": {
+   "msg": "1543885762867630131",
+   "end": 1788246182,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
