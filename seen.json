@@ -112,27 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "V83IFD": {
-   "msg": "1540933806389985280",
-   "end": 1787543341,
-   "title": "Hope everyone has a nice eep",
-   "items": 1,
-   "ended": true
-  },
-  "WHVKB1": {
-   "msg": "1540933813083836506",
-   "end": 1787543042,
-   "title": "Daily Scrap  #1",
-   "items": 1,
-   "ended": true
-  },
-  "T22NDI": {
-   "msg": "1540935629112737843",
-   "end": 1787543762,
-   "title": "A Night Out",
-   "items": 1,
-   "ended": true
-  },
   "VJCQL3": {
    "msg": "1540941345626136687",
    "end": null,
@@ -7684,7 +7663,7 @@
    "end": 1788148141,
    "title": "I NEED MORE Yakuza 0 TRACKS",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IF48MA": {
    "msg": "1543478050824392734",
@@ -7712,21 +7691,21 @@
    "end": 1788148682,
    "title": "Alone",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4OHK85": {
    "msg": "1543478085981311076",
    "end": 1788148682,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #111 \ud83c\udf0a\ud83d\udc1f",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "D6PFEF": {
    "msg": "1543478093233004575",
    "end": 1788148501,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #110 \ud83c\udf0a\ud83d\udc1f",
    "items": 6,
-   "ended": false
+   "ended": true
   },
   "TJ97YJ": {
    "msg": "1543485632205164715",
@@ -8538,6 +8517,20 @@
    "end": 1788231781,
    "title": "So, how goes trading? #15",
    "items": 2,
+   "ended": false
+  },
+  "5MSJ0B": {
+   "msg": "1543832925395615795",
+   "end": 1788234961,
+   "title": "5MSJ0B",
+   "items": 1,
+   "ended": false
+  },
+  "WVTE0M": {
+   "msg": "1543832937261170722",
+   "end": 1788233281,
+   "title": "Raffling a  every time I win a  #87",
+   "items": 1,
    "ended": false
   }
  },
