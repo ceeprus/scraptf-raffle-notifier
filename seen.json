@@ -133,27 +133,6 @@
    "items": 1,
    "ended": false
   },
-  "ZGB4JO": {
-   "msg": "1541092308328513546",
-   "end": 1787581201,
-   "title": "HAPPY BIRTHDAY TF2!!",
-   "items": 6,
-   "ended": true
-  },
-  "BFDUTD": {
-   "msg": "1541092314783682581",
-   "end": 1787581082,
-   "title": "2000 hours on this god forsaken game",
-   "items": 2,
-   "ended": true
-  },
-  "LXHCT0": {
-   "msg": "1541092323125895239",
-   "end": 1787580481,
-   "title": "Untitled raffle",
-   "items": 9,
-   "ended": true
-  },
   "AO0YNV": {
    "msg": "1541096332150964344",
    "end": 1787582221,
@@ -172,13 +151,6 @@
    "msg": "1541096345832656910",
    "end": 1787581921,
    "title": "Noise.TF3",
-   "items": 1,
-   "ended": true
-  },
-  "7AMNVV": {
-   "msg": "1541096351511617607",
-   "end": 1787581801,
-   "title": "I don't need this",
    "items": 1,
    "ended": true
   },
@@ -6767,21 +6739,21 @@
    "end": 1788186542,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "DCOJP3": {
    "msg": "1543629028571877519",
    "end": 1788185281,
    "title": "noise 408",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5XQK49": {
    "msg": "1543629035022852186",
    "end": 1788184862,
    "title": "\ufe0f\ufe0f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "TQ0WMS": {
    "msg": "1543629042274664468",
@@ -7788,6 +7760,34 @@
    "msg": "1543983939801190581",
    "end": 1788199021,
    "title": "hi again",
+   "items": 1,
+   "ended": false
+  },
+  "TC4DBD": {
+   "msg": "1543991463937966130",
+   "end": 1788272761,
+   "title": "problem",
+   "items": 1,
+   "ended": false
+  },
+  "6OKYE5": {
+   "msg": "1543991472104149064",
+   "end": 1788272041,
+   "title": "It's the end of my BIRTHDAY!!!!  pt.2",
+   "items": 1,
+   "ended": false
+  },
+  "JJROEE": {
+   "msg": "1543991479440121987",
+   "end": 1788271441,
+   "title": "#CoolLion Sweep",
+   "items": 1,
+   "ended": false
+  },
+  "DPSR5C": {
+   "msg": "1543991486054662164",
+   "end": 1788271261,
+   "title": "We found information that matches your request:",
    "items": 1,
    "ended": false
   }
