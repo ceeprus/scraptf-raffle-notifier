@@ -112,13 +112,6 @@
    "items": 2,
    "ended": false
   },
-  "KVDIJX": {
-   "msg": "1540868819088838797",
-   "end": 1787528461,
-   "title": "MvM Update Australium Vote Part 11: Demoman Secondaries",
-   "items": 3,
-   "ended": true
-  },
   "YCLKYI": {
    "msg": "1540880930388975716",
    "end": 1787530681,
@@ -131,13 +124,6 @@
    "end": 1787530442,
    "title": "Item won from megaraffle",
    "items": 1,
-   "ended": true
-  },
-  "7JSHWY": {
-   "msg": "1540880955659780146",
-   "end": 1787529181,
-   "title": "MvM Update Australium Vote Part 12: Demoman Melees",
-   "items": 3,
    "ended": true
   },
   "UKX48C": {
@@ -1061,13 +1047,6 @@
    "msg": "1541054613439123526",
    "end": 1787572501,
    "title": "We need LESS pyro mains #2 #antinoise",
-   "items": 1,
-   "ended": true
-  },
-  "1EEVNF": {
-   "msg": "1541054624574869546",
-   "end": 1787529301,
-   "title": "mariooooooooooooooooooooooooooo mariooooooooooooooooooooooooooooooooo",
    "items": 1,
    "ended": true
   },
@@ -8482,6 +8461,20 @@
    "end": 1788216961,
    "title": "qwg",
    "items": 3,
+   "ended": false
+  },
+  "8IDXC7": {
+   "msg": "1543772541573791764",
+   "end": 1788220081,
+   "title": "Hard times (Sensitive Topics)",
+   "items": 1,
+   "ended": false
+  },
+  "RQAT0R": {
+   "msg": "1543772550142627851",
+   "end": 1788219721,
+   "title": "Asking for slugma chain emoticon day 14.3",
+   "items": 1,
    "ended": false
   }
  },
