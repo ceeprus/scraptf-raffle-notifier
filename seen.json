@@ -147,62 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "6RGXMK": {
-   "msg": "1541530234992599071",
-   "end": 1787685841,
-   "title": "300 Raffle Wins",
-   "items": 1,
-   "ended": true
-  },
-  "42RI23": {
-   "msg": "1541530242202730576",
-   "end": 1787685601,
-   "title": "Weird",
-   "items": 1,
-   "ended": true
-  },
-  "GTTUJR": {
-   "msg": "1541530249450225724",
-   "end": 1787685300,
-   "title": "Snowfall Advice",
-   "items": 2,
-   "ended": true
-  },
-  "8JT6VS": {
-   "msg": "1541535530955710515",
-   "end": 1787686621,
-   "title": "I haven't made a raffle in a while",
-   "items": 8,
-   "ended": true
-  },
-  "NMTQC2": {
-   "msg": "1541551685837656075",
-   "end": 1787690761,
-   "title": "\ud83d\udc1f  Song of today   \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "IKW3ZH": {
-   "msg": "1541558295146401832",
-   "end": 1787691721,
-   "title": "Hey, it\u2019s me, it\u2019s VERITY! \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "4TTR9R": {
-   "msg": "1541558302222196857",
-   "end": 1787691600,
-   "title": "checkup #100 | The 1 hundredth entry",
-   "items": 2,
-   "ended": true
-  },
-  "CKQAD0": {
-   "msg": "1541565533462200321",
-   "end": 1787693641,
-   "title": "Kiestu crafting ALL the weapons #6",
-   "items": 1,
-   "ended": true
-  },
   "X3Y6QX": {
    "msg": "1541567992469655693",
    "end": 1787694962,
@@ -500,27 +444,6 @@
   "5AO5FJ": {
    "msg": "1541726545020723200",
    "end": 1787731561,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "Y1L9G0": {
-   "msg": "1541726551161307136",
-   "end": 1787688000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1WEFX4": {
-   "msg": "1541726557142388766",
-   "end": 1787688000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "Y0HIXI": {
-   "msg": "1541726563123601462",
-   "end": 1787688000,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -1195,13 +1118,6 @@
    "end": 1787764381,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": true
-  },
-  "7PQK8K": {
-   "msg": "1541862399483576351",
-   "end": 1787684881,
-   "title": "Got Milk?",
-   "items": 1,
    "ended": true
   },
   "2W45TI": {
@@ -6340,63 +6256,63 @@
    "end": 1788290881,
    "title": "Raffling a  every time I win a  #88",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "2A46CX": {
    "msg": "1544066929898291311",
    "end": 1788290401,
    "title": "flash games #54",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "48XJFS": {
    "msg": "1544066936453865473",
    "end": 1788290100,
    "title": "Snowfall Soundtrack #32",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "DNUZW9": {
    "msg": "1544066942409642108",
    "end": 1788289741,
    "title": "flash games #53",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5GJ1F3": {
    "msg": "1544066949925969961",
    "end": 1788289351,
    "title": "flash games #52",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "DARJ50": {
    "msg": "1544074517696090202",
    "end": 1788291482,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #15",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "5N5VGV": {
    "msg": "1544074524709097553",
    "end": 1788291421,
    "title": "Kiestu crafting ALL the weapons #13",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "PBIUZL": {
    "msg": "1544074538948628651",
    "end": 1788291421,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #14",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "8ADFX9": {
    "msg": "1544074545051475978",
    "end": 1788291361,
    "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #13",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "BEHNNO": {
    "msg": null,
@@ -7432,6 +7348,104 @@
    "end": 1788364800,
    "title": "Scrap.tf Birthdays - 1 September",
    "items": 6,
+   "ended": false
+  },
+  "JS0CMS": {
+   "msg": null,
+   "end": 1788341761,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AFKIPW": {
+   "msg": null,
+   "end": 1788384661,
+   "title": "Conscientious Objector",
+   "items": 6,
+   "ended": false
+  },
+  "8GAHUR": {
+   "msg": null,
+   "end": 1788384600,
+   "title": "checkup #107 | Red Dead Redemption 2",
+   "items": 1,
+   "ended": false
+  },
+  "9N6KNZ": {
+   "msg": null,
+   "end": 1788383882,
+   "title": "favourite board game?",
+   "items": 7,
+   "ended": false
+  },
+  "FDSTYL": {
+   "msg": null,
+   "end": 1788382741,
+   "title": "Gabe",
+   "items": 1,
+   "ended": false
+  },
+  "VONP4W": {
+   "msg": null,
+   "end": 1788382621,
+   "title": "Data Harvesting #4",
+   "items": 1,
+   "ended": false
+  },
+  "J7K0LZ": {
+   "msg": null,
+   "end": 1788381181,
+   "title": "I was stuck in Powerhouse hell for 500 years!!!",
+   "items": 5,
+   "ended": false
+  },
+  "EK9ER4": {
+   "msg": null,
+   "end": 1788381121,
+   "title": "manga",
+   "items": 3,
+   "ended": false
+  },
+  "F31R6W": {
+   "msg": null,
+   "end": 1788379922,
+   "title": "couple of birdts",
+   "items": 5,
+   "ended": false
+  },
+  "EOCLS8": {
+   "msg": null,
+   "end": 1788378061,
+   "title": "Mad Dog Tuesday #266",
+   "items": 2,
+   "ended": false
+  },
+  "23C90U": {
+   "msg": null,
+   "end": 1788377821,
+   "title": "Your weekly non-official Scrap.tf news. [Week 237]",
+   "items": 4,
+   "ended": false
+  },
+  "HVREYA": {
+   "msg": null,
+   "end": 1788376500,
+   "title": "Snowfall Soundtrack #33",
+   "items": 2,
+   "ended": false
+  },
+  "Y52EZX": {
+   "msg": null,
+   "end": 1788376131,
+   "title": "Monthly Raffle Wins (August)",
+   "items": 1,
+   "ended": false
+  },
+  "OTXMZU": {
+   "msg": null,
+   "end": 1788376021,
+   "title": "Birthday raffle",
+   "items": 32,
    "ended": false
   }
  },
