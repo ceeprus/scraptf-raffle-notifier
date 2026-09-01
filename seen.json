@@ -147,55 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "X3Y6QX": {
-   "msg": "1541567992469655693",
-   "end": 1787694962,
-   "title": "gift of the day #7",
-   "items": 1,
-   "ended": true
-  },
-  "XWXMJM": {
-   "msg": "1541580457647546499",
-   "end": 1787698081,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1SJR20": {
-   "msg": "1541583095881408716",
-   "end": 1787698622,
-   "title": "Raffling a  every time I win a  #80",
-   "items": 1,
-   "ended": true
-  },
-  "J5SEQU": {
-   "msg": "1541586743642296441",
-   "end": 1787698982,
-   "title": "Raffling a  every time I win a  #81",
-   "items": 1,
-   "ended": true
-  },
-  "DO3H7F": {
-   "msg": "1541586750806163596",
-   "end": 1787698861,
-   "title": "Burnt out",
-   "items": 1,
-   "ended": true
-  },
-  "GGIOP1": {
-   "msg": "1541586757211127858",
-   "end": 1787698800,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "WFTRKV": {
-   "msg": "1541590597448507503",
-   "end": 1787699941,
-   "title": "The Future",
-   "items": 37,
-   "ended": true
-  },
   "UHVQC0": {
    "msg": "1541598212740358246",
    "end": 1787701801,
@@ -574,13 +525,6 @@
    "items": 1,
    "ended": true
   },
-  "EXCOAT": {
-   "msg": "1541756712300584981",
-   "end": 1787696701,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "LLVWAS": {
    "msg": "1541756721515597884",
    "end": 1787739601,
@@ -665,13 +609,6 @@
    "items": 1,
    "ended": true
   },
-  "MVJ701": {
-   "msg": "1541768771616645133",
-   "end": 1787699101,
-   "title": "KA-BOOM thing",
-   "items": 1,
-   "ended": true
-  },
   "66EJGE": {
    "msg": "1541768777849372692",
    "end": 1787742181,
@@ -691,13 +628,6 @@
    "end": 1787744041,
    "title": "Business is at an all time low...",
    "items": 5,
-   "ended": true
-  },
-  "THIL70": {
-   "msg": "1541777071007596645",
-   "end": 1787700362,
-   "title": "I don't get the point of these.",
-   "items": 3,
    "ended": true
   },
   "N2AEDQ": {
@@ -7446,6 +7376,41 @@
    "end": 1788376021,
    "title": "Birthday raffle",
    "items": 32,
+   "ended": false
+  },
+  "N2AUBP": {
+   "msg": null,
+   "end": 1788391261,
+   "title": "Daily Black Boxes #160",
+   "items": 9,
+   "ended": false
+  },
+  "P7FF7M": {
+   "msg": null,
+   "end": 1788391201,
+   "title": "Daily Hat #85",
+   "items": 1,
+   "ended": false
+  },
+  "BDG119": {
+   "msg": null,
+   "end": 1788390000,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "3D4QFB": {
+   "msg": null,
+   "end": 1788388621,
+   "title": "Thank you epic man",
+   "items": 1,
+   "ended": false
+  },
+  "ERZ3A0": {
+   "msg": null,
+   "end": 1788387362,
+   "title": "Forgot this site existed lol",
+   "items": 2,
    "ended": false
   }
  },
