@@ -140,118 +140,6 @@
    "items": 6,
    "ended": false
   },
-  "TUTLV6": {
-   "msg": "1541208540998537296",
-   "end": 1787609102,
-   "title": "once in a while",
-   "items": 1,
-   "ended": true
-  },
-  "Y2NWLQ": {
-   "msg": "1541213109086191719",
-   "end": 1787609641,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0XGKKQ": {
-   "msg": "1541213115746623529",
-   "end": 1787609522,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "RQLQUB": {
-   "msg": "1541213121916571678",
-   "end": 1787609461,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GR99LY": {
-   "msg": "1541213127314768024",
-   "end": 1787609341,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "TX4ODP": {
-   "msg": "1541216735527440484",
-   "end": 1787610842,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "V0LRMN": {
-   "msg": "1541216743328972912",
-   "end": 1787610721,
-   "title": "Untitled raffle",
-   "items": 21,
-   "ended": true
-  },
-  "JMUJIZ": {
-   "msg": "1541220690043338782",
-   "end": 1787611982,
-   "title": "Stupid Baka Raffle #2",
-   "items": 2,
-   "ended": true
-  },
-  "XK79SO": {
-   "msg": "1541220696724602990",
-   "end": 1787611621,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
-  "FMZTKN": {
-   "msg": "1541220703578361886",
-   "end": 1787611441,
-   "title": "Make some noise",
-   "items": 1,
-   "ended": true
-  },
-  "YWMTU0": {
-   "msg": "1541223581135011941",
-   "end": 1787612881,
-   "title": "Raffling a  every time I win a  #79",
-   "items": 1,
-   "ended": true
-  },
-  "751E2D": {
-   "msg": "1541223590131802214",
-   "end": 1787612400,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "XLPIP6": {
-   "msg": "1541228206529450075",
-   "end": 1787613781,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "JHCYSU": {
-   "msg": "1541243322784284733",
-   "end": 1787617441,
-   "title": "Happy B-Day tf2",
-   "items": 11,
-   "ended": true
-  },
-  "PVT3XU": {
-   "msg": "1541246759869874267",
-   "end": 1787617981,
-   "title": "Spamton \u200b\u200b\u200b\u200b\u200b\u200b\u200bBlog Spamton #5",
-   "items": 1,
-   "ended": true
-  },
-  "4ZM7Z5": {
-   "msg": "1541250901023395942",
-   "end": 1787618822,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1514 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 23,
-   "ended": true
-  },
   "I4A2QQ": {
    "msg": "1541258428146516099",
    "end": 1787620861,
@@ -291,13 +179,6 @@
    "msg": "1541258459889270834",
    "end": 1787619541,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "VZGCWV": {
-   "msg": "1541258467136905238",
-   "end": 1787619482,
-   "title": "Daily Hat #78",
    "items": 1,
    "ended": true
   },
@@ -952,13 +833,6 @@
    "items": 6,
    "ended": true
   },
-  "TFZVHX": {
-   "msg": "1541522705944416338",
-   "end": 1787612101,
-   "title": "sup!",
-   "items": 10,
-   "ended": true
-  },
   "8JFT03": {
    "msg": "1541522712273625148",
    "end": 1787683981,
@@ -1097,13 +971,6 @@
    "end": 1787694962,
    "title": "gift of the day #7",
    "items": 1,
-   "ended": true
-  },
-  "9HQO19": {
-   "msg": "1541568012325359769",
-   "end": 1787615581,
-   "title": "Feed my pretties! FEED!",
-   "items": 20,
    "ended": true
   },
   "L3BSIP": {
@@ -6347,14 +6214,14 @@
    "end": 1788213602,
    "title": "1 2 3",
    "items": 50,
-   "ended": false
+   "ended": true
   },
   "B5LPAU": {
    "msg": "1543742341431427143",
    "end": 1788213600,
    "title": "checkup #105 | Something 2: The sequel",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "0AGP61": {
    "msg": "1543742355608309770",
@@ -6382,63 +6249,63 @@
    "end": 1788215581,
    "title": ". . .",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "16ECCN": {
    "msg": "1543757445682302987",
    "end": 1788215400,
    "title": "473 tips given during  Season 2026!",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "3XQSBU": {
    "msg": "1543764922012536923",
    "end": 1788218521,
    "title": "IT IS HATSUNE MIKU'S BIRTHDAY",
    "items": 2,
-   "ended": false
+   "ended": true
   },
   "PFCR3W": {
    "msg": "1543764930237571183",
    "end": 1788217918,
    "title": "#SlugmaArea51",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UHZV9Z": {
    "msg": "1543764939343401052",
    "end": 1788217200,
    "title": "A  a day",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "WC8DHQ": {
    "msg": "1543764945731068065",
    "end": 1788216961,
    "title": "qwg",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "8IDXC7": {
    "msg": "1543772541573791764",
    "end": 1788220081,
    "title": "Hard times (Sensitive Topics)",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "RQAT0R": {
    "msg": "1543772550142627851",
    "end": 1788219721,
    "title": "Asking for slugma chain emoticon day 14.3",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "P5XWSX": {
    "msg": "1543780019946659881",
    "end": 1788221162,
    "title": "Well theres candles on the menu when im click on things so ig happy bday??",
    "items": 4,
-   "ended": false
+   "ended": true
   },
   "EP8FE7": {
    "msg": "1543780028339453992",
@@ -6466,7 +6333,7 @@
    "end": 1788220681,
    "title": "I messed up ;((",
    "items": 10,
-   "ended": false
+   "ended": true
   },
   "PQODJ6": {
    "msg": "1543787651222470677",
@@ -6480,14 +6347,14 @@
    "end": 1788223321,
    "title": "Daily Black Boxes #158",
    "items": 9,
-   "ended": false
+   "ended": true
   },
   "IBPVF9": {
    "msg": "1543787668335235095",
    "end": 1788223201,
    "title": "Daily Hat #83",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "ZB2I6N": {
    "msg": "1543795124058722324",
@@ -6998,21 +6865,21 @@
    "end": 1788222600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "01BSZ2": {
    "msg": "1543968852973453413",
    "end": 1788222600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NV4T94": {
    "msg": "1543968862180085820",
    "end": 1788222600,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "9WTCD7": {
    "msg": "1543976340959793164",
@@ -7405,12 +7272,159 @@
    "title": "Free Steam Music Part 1 \u2022 Microsoft Flight Simulator Suite: Themes Reimagined",
    "items": 1,
    "ended": false
+  },
+  "8TX5MF": {
+   "msg": null,
+   "end": 1788309181,
+   "title": "How do you even get profile decorations?? (hats and such)",
+   "items": 1,
+   "ended": false
+  },
+  "CIF6L3": {
+   "msg": null,
+   "end": 1788308041,
+   "title": "\ud83c\uddea\ud83c\uddf8/\ud83c\uddec\ud83c\udde7 Random Question #38 + Cat pic #7 (Tell me a random fact about you)",
+   "items": 1,
+   "ended": false
+  },
+  "CEY5IX": {
+   "msg": null,
+   "end": 1788307801,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "GVRDPO": {
+   "msg": null,
+   "end": 1788307200,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IYTMLO": {
+   "msg": null,
+   "end": 1788306481,
+   "title": "If I have to go to work today",
+   "items": 1,
+   "ended": false
+  },
+  "84RM32": {
+   "msg": null,
+   "end": 1788305761,
+   "title": "Take These Accursed Things",
+   "items": 37,
+   "ended": false
+  },
+  "C36XPJ": {
+   "msg": null,
+   "end": 1788305761,
+   "title": "Daily Brass Beast #554",
+   "items": 1,
+   "ended": false
+  },
+  "QO6MBS": {
+   "msg": null,
+   "end": 1788305761,
+   "title": "My first raffle",
+   "items": 1,
+   "ended": false
+  },
+  "B0RUGW": {
+   "msg": null,
+   "end": 1788305641,
+   "title": "It's that time again",
+   "items": 1,
+   "ended": false
+  },
+  "K0E5UK": {
+   "msg": null,
+   "end": 1788304801,
+   "title": "haha funny",
+   "items": 1,
+   "ended": false
+  },
+  "80X1AY": {
+   "msg": null,
+   "end": 1788304741,
+   "title": "femurr",
+   "items": 5,
+   "ended": false
+  },
+  "RKRHET": {
+   "msg": null,
+   "end": 1788304621,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2KGIAA": {
+   "msg": null,
+   "end": 1788225181,
+   "title": "Quick-ish Time Event! Tipping the next 5 raffles!",
+   "items": 1,
+   "ended": false
+  },
+  "Q2RBPS": {
+   "msg": null,
+   "end": 1788304261,
+   "title": "Opinion poll",
+   "items": 10,
+   "ended": false
+  },
+  "3IQW7Q": {
+   "msg": null,
+   "end": 1788260701,
+   "title": "Killstreaks. You want it?",
+   "items": 12,
+   "ended": false
+  },
+  "C5AQLH": {
+   "msg": null,
+   "end": 1788303721,
+   "title": "This cannot be contributed to the megaraffle",
+   "items": 1,
+   "ended": false
+  },
+  "WTSMNF": {
+   "msg": null,
+   "end": 1788303600,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "1E21OX": {
+   "msg": null,
+   "end": 1788301921,
+   "title": "Graveyard Raffle (#16)",
+   "items": 1,
+   "ended": false
+  },
+  "2IZW3N": {
+   "msg": null,
+   "end": 1788301742,
+   "title": "It's just overstress from school and not eating, I swear",
+   "items": 1,
+   "ended": false
+  },
+  "1GPEAL": {
+   "msg": null,
+   "end": 1788301081,
+   "title": "and  are friends :)",
+   "items": 1,
+   "ended": false
+  },
+  "A5PK42": {
+   "msg": null,
+   "end": 1788300721,
+   "title": "Tip the fella hella smella above me",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
-  "num": 1170,
-  "end": 1788220800,
-  "msg": "1543047792602382428",
+  "num": 1171,
+  "end": 1788480000,
+  "msg": null,
   "ended": false
  }
 }
