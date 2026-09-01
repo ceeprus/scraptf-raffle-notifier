@@ -147,111 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "MEKIFE": {
-   "msg": "1541478367835070516",
-   "end": 1787673600,
-   "title": "Weekly  #74",
-   "items": 1,
-   "ended": true
-  },
-  "4DMLH3": {
-   "msg": "1541484914006818876",
-   "end": 1787674921,
-   "title": "\ud83c\udf0a \ud83d\udc1f  Best Barney (from Black Mesa) winner:",
-   "items": 1,
-   "ended": true
-  },
-  "5WP1Y3": {
-   "msg": "1541492509618733076",
-   "end": 1787675821,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NBUUYO": {
-   "msg": "1541500028840058911",
-   "end": 1787678102,
-   "title": "bleh bones",
-   "items": 2,
-   "ended": true
-  },
-  "QMKE3X": {
-   "msg": "1541500036158980237",
-   "end": 1787677921,
-   "title": "Free game! #61 - Dokimon Quest",
-   "items": 2,
-   "ended": true
-  },
-  "19QICF": {
-   "msg": "1541500043192959017",
-   "end": 1787677802,
-   "title": "well uhh",
-   "items": 4,
-   "ended": true
-  },
-  "V7RYEZ": {
-   "msg": "1541500050155511969",
-   "end": 1787677201,
-   "title": "TF2 30th Anniversary",
-   "items": 1,
-   "ended": true
-  },
-  "OJJ656": {
-   "msg": "1541500060704178227",
-   "end": 1787677200,
-   "title": "Daily raffle until TF2 gets a major update #601",
-   "items": 3,
-   "ended": true
-  },
-  "5CCMX5": {
-   "msg": "1541500072917737483",
-   "end": 1787677081,
-   "title": "take my items",
-   "items": 6,
-   "ended": true
-  },
-  "8JFT03": {
-   "msg": "1541522712273625148",
-   "end": 1787683981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "X58WZI": {
-   "msg": "1541522719798071318",
-   "end": 1787683141,
-   "title": "Bau! Bau!",
-   "items": 1,
-   "ended": true
-  },
-  "6D89A5": {
-   "msg": "1541522728333615146",
-   "end": 1787682600,
-   "title": "I CAST KINDNESS UPON THEE... NINE???",
-   "items": 9,
-   "ended": true
-  },
-  "79YFSH": {
-   "msg": "1541522736919093358",
-   "end": 1787682181,
-   "title": "ref with extra steps #2",
-   "items": 1,
-   "ended": true
-  },
-  "7IDJ9A": {
-   "msg": "1541524838210867231",
-   "end": 1787684521,
-   "title": "Since love raffles died #511",
-   "items": 3,
-   "ended": true
-  },
-  "II1PGZ": {
-   "msg": "1541524847241330779",
-   "end": 1787684341,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "6RGXMK": {
    "msg": "1541530234992599071",
    "end": 1787685841,
@@ -502,13 +397,6 @@
    "end": 1787720641,
    "title": "Old Shotguns need a new home",
    "items": 2,
-   "ended": true
-  },
-  "SX4V75": {
-   "msg": "1541696298070179841",
-   "end": 1787682301,
-   "title": "#SlugmaSleep",
-   "items": 1,
    "ended": true
   },
   "HAR9F8": {
@@ -1320,13 +1208,6 @@
    "msg": "1541862405577908421",
    "end": 1787763902,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GDQKVK": {
-   "msg": "1541867949118197850",
-   "end": 1787680502,
-   "title": "Create Raffle",
    "items": 1,
    "ended": true
   },
@@ -6340,119 +6221,119 @@
    "end": 1788279722,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UHCGQY": {
    "msg": "1544021641363988563",
    "end": 1788279541,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "K57NWN": {
    "msg": "1544021648754090146",
    "end": 1788278400,
    "title": "27,500 raffles entered",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "IIWCKL": {
    "msg": "1544021656043917353",
    "end": 1788278400,
    "title": "Scrap.tf Birthdays - 31 August",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "U64TB7": {
    "msg": "1544021663518171226",
    "end": 1788278400,
    "title": "Weekly  #75",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "NEN6W7": {
    "msg": "1544021671189418064",
    "end": 1788278162,
    "title": "Half of entire Tommy dialogue  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QTSC4C": {
    "msg": "1544029260854067321",
    "end": 1788280862,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "4UX25S": {
    "msg": "1544029269594865876",
    "end": 1788280682,
    "title": "House of Memories",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "AURJYW": {
    "msg": "1544029289077280789",
    "end": 1788280621,
    "title": "fire is BACK",
    "items": 30,
-   "ended": false
+   "ended": true
   },
   "8X1FJF": {
    "msg": "1544029296652198031",
    "end": 1788280261,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "XM93NQ": {
    "msg": "1544029304730554470",
    "end": 1788280081,
    "title": "I Drew Ts 26",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "L90NK0": {
    "msg": "1544029312951390289",
    "end": 1788279902,
    "title": "We still remember you, Alec Holowka",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "JHKDIU": {
    "msg": "1544031077629427823",
    "end": 1788282061,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "UBNGHZ": {
    "msg": "1544031085837557791",
    "end": 1788282000,
    "title": "Daily raffle until TF2 gets a major update #608",
    "items": 3,
-   "ended": false
+   "ended": true
   },
   "3O2K2R": {
    "msg": "1544051834388222004",
    "end": 1788286321,
    "title": "coollion",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "FSX7CK": {
    "msg": "1544051843473088584",
    "end": 1788286022,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "QAVQLP": {
    "msg": "1544059431854022749",
    "end": 1788287762,
    "title": "My brithday,",
    "items": 1,
-   "ended": false
+   "ended": true
   },
   "S6CR5L": {
    "msg": "1544066923384279200",
@@ -7390,6 +7271,167 @@
    "end": 1788349741,
    "title": "Untitled raffle",
    "items": 1,
+   "ended": false
+  },
+  "UUE3F3": {
+   "msg": null,
+   "end": 1788375301,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Y40AZ1": {
+   "msg": null,
+   "end": 1788375242,
+   "title": "There is nothing in the basement",
+   "items": 4,
+   "ended": false
+  },
+  "TNTTJS": {
+   "msg": null,
+   "end": 1788375122,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5X870M": {
+   "msg": null,
+   "end": 1788375001,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KPHQB8": {
+   "msg": null,
+   "end": 1788374701,
+   "title": "I've been bestowed upon with",
+   "items": 36,
+   "ended": false
+  },
+  "9HTHBD": {
+   "msg": null,
+   "end": 1788327781,
+   "title": "steak",
+   "items": 1,
+   "ended": false
+  },
+  "XI3XG0": {
+   "msg": null,
+   "end": 1788369841,
+   "title": "Heeeeelp!",
+   "items": 10,
+   "ended": false
+  },
+  "NG0ZML": {
+   "msg": null,
+   "end": 1788368881,
+   "title": "feeling generous (first raffle xD)",
+   "items": 1,
+   "ended": false
+  },
+  "CI0F73": {
+   "msg": null,
+   "end": 1788368821,
+   "title": "\ud83e\udde0\ud83e\udec0\ud83e\udec1",
+   "items": 1,
+   "ended": false
+  },
+  "IKQFU3": {
+   "msg": null,
+   "end": 1788368702,
+   "title": "\ud83e\udde0\ud83e\udec0\ud83e\udec1",
+   "items": 1,
+   "ended": false
+  },
+  "7I7KA4": {
+   "msg": null,
+   "end": 1788368581,
+   "title": "\ud83e\udde0\ud83e\udec0\ud83e\udec1",
+   "items": 1,
+   "ended": false
+  },
+  "O83BZR": {
+   "msg": null,
+   "end": 1788368521,
+   "title": "Idek anymore",
+   "items": 1,
+   "ended": false
+  },
+  "Q4O5AZ": {
+   "msg": null,
+   "end": 1788368461,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "QPRBUE": {
+   "msg": null,
+   "end": 1788368400,
+   "title": "How are things?",
+   "items": 3,
+   "ended": false
+  },
+  "SZJDOY": {
+   "msg": null,
+   "end": 1788368400,
+   "title": "Daily raffle until TF2 gets a major update #609",
+   "items": 3,
+   "ended": false
+  },
+  "OOA988": {
+   "msg": null,
+   "end": 1788302942,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "819HU7": {
+   "msg": null,
+   "end": 1788366781,
+   "title": "heavy",
+   "items": 5,
+   "ended": false
+  },
+  "P28RIW": {
+   "msg": null,
+   "end": 1788323102,
+   "title": "Killstreaks, Killstreaks, Killstreaks....",
+   "items": 12,
+   "ended": false
+  },
+  "2OCAYV": {
+   "msg": null,
+   "end": 1788365821,
+   "title": "Die Anywhere Else",
+   "items": 1,
+   "ended": false
+  },
+  "8L8PSG": {
+   "msg": null,
+   "end": 1788365161,
+   "title": "I love jack-o in guilty gear strive",
+   "items": 1,
+   "ended": false
+  },
+  "PH2JM7": {
+   "msg": null,
+   "end": 1788365042,
+   "title": "My Favorite Scout and Soldier Domination lines for each class",
+   "items": 2,
+   "ended": false
+  },
+  "9HZLZY": {
+   "msg": null,
+   "end": 1788364800,
+   "title": "!!!",
+   "items": 2,
+   "ended": false
+  },
+  "70VIUD": {
+   "msg": null,
+   "end": 1788364800,
+   "title": "Scrap.tf Birthdays - 1 September",
+   "items": 6,
    "ended": false
   }
  },
