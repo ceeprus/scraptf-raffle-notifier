@@ -147,66 +147,10 @@
    "items": 1,
    "ended": false
   },
-  "UHVQC0": {
-   "msg": "1541598212740358246",
-   "end": 1787701801,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "CUQO68": {
-   "msg": "1541598219858088007",
-   "end": 1787701441,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "RU5SRH": {
-   "msg": "1541620806587777027",
-   "end": 1787706001,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1O3R66": {
-   "msg": "1541620814896431224",
-   "end": 1787706000,
-   "title": "Reminder to eat n' drink water if ye haven't yet #274",
-   "items": 5,
-   "ended": true
-  },
-  "ZI9KQB": {
-   "msg": "1541620821855051826",
-   "end": 1787705941,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0X1331": {
-   "msg": "1541628382540996628",
-   "end": 1787708881,
-   "title": "Free game",
-   "items": 1,
-   "ended": true
-  },
-  "6NAOQ5": {
-   "msg": "1541628389545349231",
-   "end": 1787707921,
-   "title": "Daily Hat #79",
-   "items": 1,
-   "ended": true
-  },
   "WRD1AX": {
    "msg": "1541631570883117078",
    "end": 1787710022,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "36KHP7": {
-   "msg": "1541631577858117723",
-   "end": 1787709601,
-   "title": "We need more sniper main",
    "items": 1,
    "ended": true
   },
@@ -651,13 +595,6 @@
    "items": 1,
    "ended": true
   },
-  "B3BZFX": {
-   "msg": "1541786745803120732",
-   "end": 1787702581,
-   "title": "Heavy Loadout | Advice needed",
-   "items": 14,
-   "ended": true
-  },
   "82O15R": {
    "msg": "1541786755039232120",
    "end": 1787745600,
@@ -810,13 +747,6 @@
    "end": 1787751181,
    "title": "\ud83d\udc2cRandom music 1\ud83d\udc2c",
    "items": 2,
-   "ended": true
-  },
-  "LM8XG2": {
-   "msg": "1541809630584242287",
-   "end": 1787707742,
-   "title": "HERE I COME, SAN FRANCISCO!",
-   "items": 1,
    "ended": true
   },
   "ZWUNSR": {
@@ -1076,13 +1006,6 @@
    "end": 1787768461,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "632SIJ": {
-   "msg": "1541876256159834254",
-   "end": 1787702702,
-   "title": "have u guys ever gotten smth from the incinerator",
-   "items": 2,
    "ended": true
   },
   "N19V54": {
@@ -7411,6 +7334,76 @@
    "end": 1788387362,
    "title": "Forgot this site existed lol",
    "items": 2,
+   "ended": false
+  },
+  "QGQAPG": {
+   "msg": null,
+   "end": 1788400681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "7GYG27": {
+   "msg": null,
+   "end": 1788399242,
+   "title": "No one care.",
+   "items": 1,
+   "ended": false
+  },
+  "WC2WRZ": {
+   "msg": null,
+   "end": 1788398281,
+   "title": "Grabli304's raffle\u2503Day 1337694207773000",
+   "items": 1,
+   "ended": false
+  },
+  "NPW1VK": {
+   "msg": null,
+   "end": 1788355022,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "W8AASM": {
+   "msg": null,
+   "end": 1788397200,
+   "title": "Reminder to eat n' drink water if ye haven't yet #281",
+   "items": 5,
+   "ended": false
+  },
+  "HU2P2U": {
+   "msg": null,
+   "end": 1788397141,
+   "title": "Why are KS kits so expensive and why are KS fabs not sold here",
+   "items": 1,
+   "ended": false
+  },
+  "9XAT1L": {
+   "msg": null,
+   "end": 1788394021,
+   "title": "MvM Mondays",
+   "items": 1,
+   "ended": false
+  },
+  "9FT7T5": {
+   "msg": null,
+   "end": 1788393962,
+   "title": "Battle Cats Propaganda #1379",
+   "items": 1,
+   "ended": false
+  },
+  "N383FO": {
+   "msg": null,
+   "end": 1788393662,
+   "title": "Kiestu crafting ALL the weapons #14",
+   "items": 1,
+   "ended": false
+  },
+  "RGQRUZ": {
+   "msg": null,
+   "end": 1788392821,
+   "title": "I wish to share with you.",
+   "items": 1,
    "ended": false
   }
  },
