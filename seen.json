@@ -147,104 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "E17B9O": {
-   "msg": "1541854917235445810",
-   "end": 1787763600,
-   "title": "Daily raffle until TF2 gets a major update #602",
-   "items": 3,
-   "ended": true
-  },
-  "FDV78T": {
-   "msg": "1541862393012027444",
-   "end": 1787764381,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "2W45TI": {
-   "msg": "1541862405577908421",
-   "end": 1787763902,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "UTHBUY": {
-   "msg": "1541867956584058910",
-   "end": 1787765821,
-   "title": "Flowers blooms in your heart  \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "50TA2I": {
-   "msg": "1541867962624114788",
-   "end": 1787765642,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "XL8K18": {
-   "msg": "1541876249012732045",
-   "end": 1787768461,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "N19V54": {
-   "msg": "1541876262572662918",
-   "end": 1787767021,
-   "title": "The pass it forward raffle! (#18)",
-   "items": 2,
-   "ended": true
-  },
-  "357K8R": {
-   "msg": "1541885087992389703",
-   "end": 1787769722,
-   "title": "STEAM COMMENT #36",
-   "items": 1,
-   "ended": true
-  },
-  "ZB5ECC": {
-   "msg": "1541886641969307669",
-   "end": 1787770800,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "D3O553": {
-   "msg": "1541892596291346592",
-   "end": 1787772181,
-   "title": "Cars i made. Which One Is the best?",
-   "items": 1,
-   "ended": true
-  },
-  "M4FQ7S": {
-   "msg": "1541892609382027274",
-   "end": 1787772001,
-   "title": "inv clear again",
-   "items": 20,
-   "ended": true
-  },
-  "MIKVAT": {
-   "msg": "1541892616176664616",
-   "end": 1787771700,
-   "title": "Snowfall Soundtrack #30",
-   "items": 2,
-   "ended": true
-  },
-  "S0Z93J": {
-   "msg": "1541892624313745500",
-   "end": 1787771041,
-   "title": "Raffling a  every time I win a  #82",
-   "items": 1,
-   "ended": true
-  },
-  "7YRH09": {
-   "msg": "1541898289018966117",
-   "end": 1787772841,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "467R92": {
    "msg": "1541904576783851620",
    "end": 1787775182,
@@ -684,13 +586,6 @@
    "end": 1787814541,
    "title": "Question #74",
    "items": 1,
-   "ended": true
-  },
-  "DIP5U1": {
-   "msg": "1542073810461917235",
-   "end": 1787770800,
-   "title": "It is",
-   "items": 10,
    "ended": true
   },
   "0KJR36": {
@@ -7235,6 +7130,132 @@
    "msg": null,
    "end": 1788437341,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RXOS56": {
+   "msg": null,
+   "end": 1788463081,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #18",
+   "items": 1,
+   "ended": false
+  },
+  "BGRBGN": {
+   "msg": null,
+   "end": 1788462361,
+   "title": "We definitely need more medic main! \u211657",
+   "items": 6,
+   "ended": false
+  },
+  "33194T": {
+   "msg": null,
+   "end": 1788462121,
+   "title": "Raffling a noise every time I win a noise #89",
+   "items": 1,
+   "ended": false
+  },
+  "AW1T43": {
+   "msg": null,
+   "end": 1788389041,
+   "title": "A lil gift for yall",
+   "items": 23,
+   "ended": false
+  },
+  "8YHRO9": {
+   "msg": null,
+   "end": 1788460621,
+   "title": "Question #87",
+   "items": 1,
+   "ended": false
+  },
+  "M7H7LX": {
+   "msg": null,
+   "end": 1788460381,
+   "title": "Question #86",
+   "items": 1,
+   "ended": false
+  },
+  "KGS5PZ": {
+   "msg": null,
+   "end": 1788460141,
+   "title": "Question #85",
+   "items": 1,
+   "ended": false
+  },
+  "AJZDQ8": {
+   "msg": null,
+   "end": 1788459902,
+   "title": "Question #84",
+   "items": 1,
+   "ended": false
+  },
+  "FUG0NU": {
+   "msg": null,
+   "end": 1788459841,
+   "title": "Kiestu crafting ALL the weapons #15",
+   "items": 1,
+   "ended": false
+  },
+  "FVP3II": {
+   "msg": null,
+   "end": 1788457921,
+   "title": "Another Raffle? Yes",
+   "items": 4,
+   "ended": false
+  },
+  "2J415U": {
+   "msg": null,
+   "end": 1788457501,
+   "title": "Thank you Ballincat43",
+   "items": 3,
+   "ended": false
+  },
+  "F28VP9": {
+   "msg": null,
+   "end": 1788455821,
+   "title": "American Boot",
+   "items": 20,
+   "ended": false
+  },
+  "W88O66": {
+   "msg": null,
+   "end": 1788455641,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #17",
+   "items": 1,
+   "ended": false
+  },
+  "GV9KGV": {
+   "msg": null,
+   "end": 1788455462,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #16",
+   "items": 1,
+   "ended": false
+  },
+  "7E70IA": {
+   "msg": null,
+   "end": 1788454800,
+   "title": "Daily raffle until TF2 gets a major update #610",
+   "items": 3,
+   "ended": false
+  },
+  "6DTQTH": {
+   "msg": null,
+   "end": 1788454800,
+   "title": "Untitled raffle",
+   "items": 30,
+   "ended": false
+  },
+  "TNGSYO": {
+   "msg": null,
+   "end": 1788411241,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "SV43EH": {
+   "msg": null,
+   "end": 1788410581,
+   "title": "Hiii!",
    "items": 1,
    "ended": false
   }
