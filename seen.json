@@ -147,132 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "2Y563S": {
-   "msg": "1542171994261291100",
-   "end": 1787838661,
-   "title": "Team Graveyard: The Pyro",
-   "items": 1,
-   "ended": true
-  },
-  "GASE5F": {
-   "msg": "1542172000666001521",
-   "end": 1787838601,
-   "title": "\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "U9TA7C": {
-   "msg": "1542179504817049710",
-   "end": 1787839861,
-   "title": "Does the schooling system do enough to encourage students to give things a go, accept potential failures and mistakes without judgement from fellow peers and staff members?",
-   "items": 1,
-   "ended": true
-  },
-  "MRQGD1": {
-   "msg": "1542187126890831913",
-   "end": 1787842800,
-   "title": "You're listening to SPICE FM (50)",
-   "items": 6,
-   "ended": true
-  },
-  "YWBCRE": {
-   "msg": "1542187135694799010",
-   "end": 1787842681,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "QBV6TR": {
-   "msg": "1542187145928638574",
-   "end": 1787842321,
-   "title": "Ja-Orange!",
-   "items": 1,
-   "ended": true
-  },
-  "A0HK06": {
-   "msg": "1542202215337426975",
-   "end": 1787844721,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "FA44TJ": {
-   "msg": "1542202221859446907",
-   "end": 1787844421,
-   "title": "Raffle Name",
-   "items": 1,
-   "ended": true
-  },
-  "DDKQNE": {
-   "msg": "1542202231732965426",
-   "end": 1787843221,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "13LDO0": {
-   "msg": "1542202238397841408",
-   "end": 1787843161,
-   "title": "Raffling a  every time I win a  #83",
-   "items": 1,
-   "ended": true
-  },
-  "UUPPWN": {
-   "msg": "1542202244483522572",
-   "end": 1787842981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "2VK7DI": {
-   "msg": "1542202250905260032",
-   "end": 1787842861,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BN3K04": {
-   "msg": "1542209680523399198",
-   "end": 1787847661,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "SPKFIT": {
-   "msg": "1542217294116028436",
-   "end": 1787848981,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0WEZAN": {
-   "msg": "1542217307949113375",
-   "end": 1787847841,
-   "title": "Scrap.tf Birthdays - 26 August",
-   "items": 1,
-   "ended": true
-  },
-  "5HA3RZ": {
-   "msg": "1542224794077102242",
-   "end": 1787850962,
-   "title": "raffle without reason",
-   "items": 3,
-   "ended": true
-  },
-  "LO1OBH": {
-   "msg": "1542224803249913896",
-   "end": 1787850721,
-   "title": "raffle",
-   "items": 4,
-   "ended": true
-  },
-  "QNP9L8": {
-   "msg": "1542224810359128214",
-   "end": 1787849941,
-   "title": "We definitely need more medic main! \u211656",
-   "items": 6,
-   "ended": true
-  },
   "MQROFO": {
    "msg": "1542232405438369824",
    "end": 1787852761,
@@ -579,13 +453,6 @@
    "end": 1787889361,
    "title": "Locked & Loaded",
    "items": 1,
-   "ended": true
-  },
-  "RZS6P0": {
-   "msg": "1542398468834730026",
-   "end": 1787849582,
-   "title": "The Giftapults of Giving",
-   "items": 5,
    "ended": true
   },
   "33VZBX": {
@@ -7229,6 +7096,160 @@
    "end": 1788470822,
    "title": "Gifting these to new players",
    "items": 7,
+   "ended": false
+  },
+  "95JVRV": {
+   "msg": null,
+   "end": 1788541861,
+   "title": "Daily Black Boxes #161",
+   "items": 6,
+   "ended": false
+  },
+  "D018RL": {
+   "msg": null,
+   "end": 1788541741,
+   "title": "Daily Hat #86",
+   "items": 1,
+   "ended": false
+  },
+  "0JOMXL": {
+   "msg": null,
+   "end": 1788541501,
+   "title": "Yippie i graduated college",
+   "items": 1,
+   "ended": false
+  },
+  "PU3RTF": {
+   "msg": null,
+   "end": 1788541381,
+   "title": "The pass it forward raffle! (#22)",
+   "items": 5,
+   "ended": false
+  },
+  "F8UI30": {
+   "msg": null,
+   "end": 1788541202,
+   "title": "Daily Brass Beast #556",
+   "items": 1,
+   "ended": false
+  },
+  "8HTLB2": {
+   "msg": null,
+   "end": 1788541200,
+   "title": "Daily raffle until TF2 gets a major update #611",
+   "items": 3,
+   "ended": false
+  },
+  "UHMVE8": {
+   "msg": null,
+   "end": 1788539641,
+   "title": "4444",
+   "items": 1,
+   "ended": false
+  },
+  "N8SKV8": {
+   "msg": null,
+   "end": 1788539521,
+   "title": "4444",
+   "items": 1,
+   "ended": false
+  },
+  "WLEMQX": {
+   "msg": null,
+   "end": 1788539221,
+   "title": "4444",
+   "items": 1,
+   "ended": false
+  },
+  "8EKE58": {
+   "msg": null,
+   "end": 1788538562,
+   "title": "Untitled raffle",
+   "items": 5,
+   "ended": false
+  },
+  "OEVDVC": {
+   "msg": null,
+   "end": 1788538381,
+   "title": "some cool skins (?) and scraps from grandson to grandfather... and? yeah a steak",
+   "items": 6,
+   "ended": false
+  },
+  "0N8O8A": {
+   "msg": null,
+   "end": 1788538082,
+   "title": "I ruined the half-life 2 episode 2 plot despite ai's attempts to preserve it. Part 6",
+   "items": 5,
+   "ended": false
+  },
+  "GRV81D": {
+   "msg": null,
+   "end": 1788537600,
+   "title": "Scrap.tf Birthdays - 3 September",
+   "items": 3,
+   "ended": false
+  },
+  "QP9OOO": {
+   "msg": null,
+   "end": 1788492600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TUPKGB": {
+   "msg": null,
+   "end": 1788492600,
+   "title": "\ud83d\ude0e",
+   "items": 1,
+   "ended": false
+  },
+  "RP5T9L": {
+   "msg": null,
+   "end": 1788492600,
+   "title": "\ud83d\ude0f",
+   "items": 1,
+   "ended": false
+  },
+  "CDXHXN": {
+   "msg": null,
+   "end": 1788492600,
+   "title": "\ud83d\uddff",
+   "items": 1,
+   "ended": false
+  },
+  "PIA4LX": {
+   "msg": null,
+   "end": 1788534902,
+   "title": "Daily raffle until TF2 gets a major update #6698319613968139681369831968316913869136",
+   "items": 3,
+   "ended": false
+  },
+  "1ZJBPI": {
+   "msg": null,
+   "end": 1788534000,
+   "title": "You're listening to SPICE FM (58)",
+   "items": 3,
+   "ended": false
+  },
+  "21L6AX": {
+   "msg": null,
+   "end": 1788531122,
+   "title": "I did 484 awesome Epic Grabli304's Uncrafted Graveyard raffle one more time. (Not actually My first raffle anymore)",
+   "items": 1,
+   "ended": false
+  },
+  "L6VEVX": {
+   "msg": null,
+   "end": 1788530821,
+   "title": "last chance to become my friend",
+   "items": 1,
+   "ended": false
+  },
+  "RN3DQQ": {
+   "msg": null,
+   "end": 1788529981,
+   "title": "I did 484 Tours of Two cities, here are the results",
+   "items": 5,
    "ended": false
   }
  },
