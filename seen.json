@@ -147,111 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "MK9T2W": {
-   "msg": "1542534372354297856",
-   "end": 1787924639,
-   "title": "So, chapter one is out",
-   "items": 1,
-   "ended": true
-  },
-  "EAI59S": {
-   "msg": "1542541895438180425",
-   "end": 1787926381,
-   "title": "Team Graveyard: The Demoman",
-   "items": 1,
-   "ended": true
-  },
-  "YA6RDI": {
-   "msg": "1542541905894842468",
-   "end": 1787925600,
-   "title": "Untitled raffle",
-   "items": 10,
-   "ended": true
-  },
-  "4BDNAV": {
-   "msg": "1542549491268460545",
-   "end": 1787927701,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "7WJQ0V": {
-   "msg": "1542556998372036688",
-   "end": 1787929200,
-   "title": "You're listening to SPICE FM (51)",
-   "items": 3,
-   "ended": true
-  },
-  "CHVEF2": {
-   "msg": "1542557014373175360",
-   "end": 1787928781,
-   "title": "Whay do we think of neon white",
-   "items": 1,
-   "ended": true
-  },
-  "6DBCW7": {
-   "msg": "1542564590297288784",
-   "end": 1787931000,
-   "title": "MK Poll #11 + The Favorites of Music #289 & #290",
-   "items": 1,
-   "ended": true
-  },
-  "I49UX7": {
-   "msg": "1542572086063792158",
-   "end": 1787934182,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "6LWHOW": {
-   "msg": "1542572092904575108",
-   "end": 1787934061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "CJ7BB2": {
-   "msg": "1542572101225947199",
-   "end": 1787933401,
-   "title": "Random items",
-   "items": 6,
-   "ended": true
-  },
-  "HRNR9X": {
-   "msg": "1542579681059147838",
-   "end": 1787935741,
-   "title": "KS kritzkreig",
-   "items": 1,
-   "ended": true
-  },
-  "ZFM97R": {
-   "msg": "1542579693608501329",
-   "end": 1787934362,
-   "title": "Last 3 matches played, there was a cheater.",
-   "items": 1,
-   "ended": true
-  },
-  "5MJW2S": {
-   "msg": "1542581632505090100",
-   "end": 1787936641,
-   "title": "3 days...",
-   "items": 2,
-   "ended": true
-  },
-  "78E9MB": {
-   "msg": "1542587184907817084",
-   "end": 1787937301,
-   "title": "A force to be reckoned with",
-   "items": 2,
-   "ended": true
-  },
-  "CEMTXA": {
-   "msg": "1542587192407228537",
-   "end": 1787937190,
-   "title": "Daily raffle until TF2 gets a major update #604",
-   "items": 3,
-   "ended": true
-  },
   "S5JRSC": {
    "msg": "1542594779345326172",
    "end": 1787939641,
@@ -7285,6 +7180,202 @@
    "end": 1788600962,
    "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #125 \ud83c\udf0a\ud83d\udc1f",
    "items": 6,
+   "ended": false
+  },
+  "7K1V4V": {
+   "msg": null,
+   "end": 1788627600,
+   "title": "Daily raffle until TF2 gets a major update #612",
+   "items": 3,
+   "ended": false
+  },
+  "8A1UBS": {
+   "msg": null,
+   "end": 1788627600,
+   "title": "Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge. Edge.",
+   "items": 1,
+   "ended": false
+  },
+  "IR0KZL": {
+   "msg": null,
+   "end": 1788627600,
+   "title": "Guys",
+   "items": 3,
+   "ended": false
+  },
+  "G5OKYH": {
+   "msg": null,
+   "end": 1788627061,
+   "title": "You feel lucky",
+   "items": 5,
+   "ended": false
+  },
+  "6TQAOT": {
+   "msg": null,
+   "end": 1788626761,
+   "title": "Trash & Treasure\u3002",
+   "items": 40,
+   "ended": false
+  },
+  "EUO5YS": {
+   "msg": null,
+   "end": 1788626522,
+   "title": "I ruined the Team Fortress 2 timeline with bad translation. Part 2",
+   "items": 1,
+   "ended": false
+  },
+  "1PYK20": {
+   "msg": null,
+   "end": 1788582600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "B447H4": {
+   "msg": null,
+   "end": 1788582600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RRKCYP": {
+   "msg": null,
+   "end": 1788582600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KHOFBX": {
+   "msg": null,
+   "end": 1788582600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GJSQN9": {
+   "msg": null,
+   "end": 1788625621,
+   "title": "Hiding",
+   "items": 1,
+   "ended": false
+  },
+  "BKYN1O": {
+   "msg": null,
+   "end": 1788625261,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #21",
+   "items": 1,
+   "ended": false
+  },
+  "0VIFSY": {
+   "msg": null,
+   "end": 1788624961,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #20",
+   "items": 1,
+   "ended": false
+  },
+  "SPMZZ6": {
+   "msg": null,
+   "end": 1788624841,
+   "title": "the man who sold the world??",
+   "items": 1,
+   "ended": false
+  },
+  "YYZDGM": {
+   "msg": null,
+   "end": 1788624421,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #19",
+   "items": 1,
+   "ended": false
+  },
+  "NB5RC7": {
+   "msg": null,
+   "end": 1788624361,
+   "title": "Only 2 crates left",
+   "items": 4,
+   "ended": false
+  },
+  "LWCRY4": {
+   "msg": null,
+   "end": 1788624000,
+   "title": "Scrap.tf Birthdays - 4 September",
+   "items": 1,
+   "ended": false
+  },
+  "QV3R5I": {
+   "msg": null,
+   "end": 1788624000,
+   "title": "Untitled raffle",
+   "items": 4,
+   "ended": false
+  },
+  "Q3ZPGM": {
+   "msg": null,
+   "end": 1788624000,
+   "title": "Weekly  #105",
+   "items": 4,
+   "ended": false
+  },
+  "D0FM3F": {
+   "msg": null,
+   "end": 1788623221,
+   "title": "Does this raffle contain anything good?",
+   "items": 1,
+   "ended": false
+  },
+  "3TMLBO": {
+   "msg": null,
+   "end": 1788622200,
+   "title": "MK Poll #15 + The Favorites of Music #297 & #298",
+   "items": 1,
+   "ended": false
+  },
+  "SEBUXI": {
+   "msg": null,
+   "end": 1788620881,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Q0CMI8": {
+   "msg": null,
+   "end": 1788620400,
+   "title": "orokamono",
+   "items": 2,
+   "ended": false
+  },
+  "YG7VJ3": {
+   "msg": null,
+   "end": 1788620400,
+   "title": "You're listening to SPICE FM (59)",
+   "items": 3,
+   "ended": false
+  },
+  "LY62TA": {
+   "msg": null,
+   "end": 1788618362,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "S5L8NA": {
+   "msg": null,
+   "end": 1788617701,
+   "title": "People's minds and fantasy stories go wild!",
+   "items": 1,
+   "ended": false
+  },
+  "V0CD93": {
+   "msg": null,
+   "end": 1788616921,
+   "title": "What Beats Rock? #8 (Not actually rock anymore)",
+   "items": 4,
+   "ended": false
+  },
+  "BZYH3E": {
+   "msg": null,
+   "end": 1788615121,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
