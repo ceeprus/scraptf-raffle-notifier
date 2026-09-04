@@ -147,62 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "PZFA2C": {
-   "msg": "1542315382982049905",
-   "end": 1787872322,
-   "title": "Bone.",
-   "items": 1,
-   "ended": true
-  },
-  "TMK3T9": {
-   "msg": "1542315389675901039",
-   "end": 1787871600,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "77KAKX": {
-   "msg": "1542320887142031491",
-   "end": 1787874182,
-   "title": "Funny unclaimed noise",
-   "items": 1,
-   "ended": true
-  },
-  "BTBROH": {
-   "msg": "1542322990119780412",
-   "end": 1787874721,
-   "title": "eye",
-   "items": 1,
-   "ended": true
-  },
-  "Y1WKOP": {
-   "msg": "1542322997380259850",
-   "end": 1787874301,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "A4I6L1": {
-   "msg": "1542330492412493847",
-   "end": 1787875861,
-   "title": "(k)night rider",
-   "items": 1,
-   "ended": true
-  },
-  "C8B4WO": {
-   "msg": "1542330499681222781",
-   "end": 1787875861,
-   "title": "Daily Hat #81",
-   "items": 1,
-   "ended": true
-  },
-  "AMLLXP": {
-   "msg": "1542330507201749012",
-   "end": 1787875681,
-   "title": "I'm better off alone anyway.  \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
   "EWLWAY": {
    "msg": "1542360680886313071",
    "end": 1787883722,
@@ -439,13 +383,6 @@
    "end": 1787914082,
    "title": "Grabli304's raffle\u2503Day 179",
    "items": 2,
-   "ended": true
-  },
-  "YTQ21B": {
-   "msg": "1542496575513694258",
-   "end": 1787872262,
-   "title": "Why aren't the item drops untradable????",
-   "items": 1,
    "ended": true
   },
   "HC0O2Y": {
@@ -7139,11 +7076,46 @@
    "title": "I'm bored and I need friends :D",
    "items": 7,
    "ended": false
+  },
+  "18RYEB": {
+   "msg": null,
+   "end": 1788564361,
+   "title": "Battle Cats Propaganda #1380",
+   "items": 2,
+   "ended": false
+  },
+  "5FAV6N": {
+   "msg": null,
+   "end": 1788563521,
+   "title": "An overdue apology",
+   "items": 6,
+   "ended": false
+  },
+  "YYY941": {
+   "msg": null,
+   "end": 1788563221,
+   "title": "Raffling a  every time I win a  #90",
+   "items": 1,
+   "ended": false
+  },
+  "HFHD1I": {
+   "msg": null,
+   "end": 1788562800,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "8RIX1B": {
+   "msg": null,
+   "end": 1788488041,
+   "title": ". . . | #6",
+   "items": 3,
+   "ended": false
   }
  },
  "megaraffle": {
-  "num": 1171,
-  "end": 1788480000,
+  "num": 1172,
+  "end": 1788739200,
   "msg": null,
   "ended": false
  }
