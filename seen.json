@@ -147,20 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "CV2Q3X": {
-   "msg": "1542677774043451452",
-   "end": 1787959201,
-   "title": "Kiestu crafting ALL the weapons #9",
-   "items": 1,
-   "ended": true
-  },
-  "TB7HBH": {
-   "msg": "1542677782633513000",
-   "end": 1787958301,
-   "title": "Battle Cats Propaganda #1377",
-   "items": 1,
-   "ended": true
-  },
   "HTXON9": {
    "msg": "1542692869473574983",
    "end": 1787961841,
@@ -7278,6 +7264,34 @@
    "end": 1788639421,
    "title": "The pass it forward raffle! (#23)",
    "items": 5,
+   "ended": false
+  },
+  "TMZHED": {
+   "msg": null,
+   "end": 1788651601,
+   "title": "Daily Black Boxes #162",
+   "items": 10,
+   "ended": false
+  },
+  "UNFSZP": {
+   "msg": null,
+   "end": 1788649200,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "YXAB45": {
+   "msg": null,
+   "end": 1788648421,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "IVR06G": {
+   "msg": null,
+   "end": 1788645361,
+   "title": "Daily Hat #87",
+   "items": 1,
    "ended": false
   }
  },
