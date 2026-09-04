@@ -147,55 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "EWLWAY": {
-   "msg": "1542360680886313071",
-   "end": 1787883722,
-   "title": "The Best Place in the World",
-   "items": 1,
-   "ended": true
-  },
-  "RNPE2C": {
-   "msg": "1542360689883222076",
-   "end": 1787882582,
-   "title": "15000 entered",
-   "items": 10,
-   "ended": true
-  },
-  "635Y5A": {
-   "msg": "1542383366370893864",
-   "end": 1787888881,
-   "title": "Back to school.....",
-   "items": 1,
-   "ended": true
-  },
-  "WQRIN0": {
-   "msg": "1542390882874163230",
-   "end": 1787890981,
-   "title": "Bot Verification...",
-   "items": 2,
-   "ended": true
-  },
-  "BGYJ1T": {
-   "msg": "1542390893028573214",
-   "end": 1787889481,
-   "title": "Caf\u00e9 Crit-A-Coffee #1768",
-   "items": 10,
-   "ended": true
-  },
-  "QNYF6K": {
-   "msg": "1542390900058226731",
-   "end": 1787889361,
-   "title": "Locked & Loaded",
-   "items": 1,
-   "ended": true
-  },
-  "33VZBX": {
-   "msg": "1542398475071791154",
-   "end": 1787891521,
-   "title": "Good news everyone",
-   "items": 1,
-   "ended": true
-  },
   "ZY1OFU": {
    "msg": "1542405977901633627",
    "end": 1787894462,
@@ -546,13 +497,6 @@
    "items": 3,
    "ended": true
   },
-  "XUQQ7I": {
-   "msg": "1542557005774983179",
-   "end": 1787885761,
-   "title": "\u041c\u043d\u0435 \u0431\u043e\u043b\u0438\u0442 \u0433\u043e\u0440\u043b\u043e",
-   "items": 8,
-   "ended": true
-  },
   "CHVEF2": {
    "msg": "1542557014373175360",
    "end": 1787928781,
@@ -802,13 +746,6 @@
    "msg": "1542655172692549703",
    "end": 1787953322,
    "title": "\u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0433\u043e\u0432\u0430\u0440\u044e \u0441\u043f\u0430\u0441\u0438\u0431\u043e",
-   "items": 1,
-   "ended": true
-  },
-  "5JIMJT": {
-   "msg": "1542655183388151840",
-   "end": 1787888341,
-   "title": "Take MY item",
    "items": 1,
    "ended": true
   },
@@ -7110,6 +7047,167 @@
    "end": 1788488041,
    "title": ". . . | #6",
    "items": 3,
+   "ended": false
+  },
+  "G7ZC85": {
+   "msg": null,
+   "end": 1788583201,
+   "title": "Day 20 of asking for Slugma Chain emoticon",
+   "items": 30,
+   "ended": false
+  },
+  "ZJ3Z57": {
+   "msg": null,
+   "end": 1788581581,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "TCBML6": {
+   "msg": null,
+   "end": 1788537600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "903ZQE": {
+   "msg": null,
+   "end": 1788537600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1U317F": {
+   "msg": null,
+   "end": 1788537600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "IKP9LV": {
+   "msg": null,
+   "end": 1788537600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "S8XHQP": {
+   "msg": null,
+   "end": 1788580200,
+   "title": "The World To Come",
+   "items": 1,
+   "ended": false
+  },
+  "O3DSO0": {
+   "msg": null,
+   "end": 1788579721,
+   "title": "eye",
+   "items": 1,
+   "ended": false
+  },
+  "MG9SOF": {
+   "msg": null,
+   "end": 1788577922,
+   "title": "I ruined the half-life 2 episode 2 plot despite ai's attempts to preserve it. Part 7 The Finale",
+   "items": 1,
+   "ended": false
+  },
+  "P15QCJ": {
+   "msg": null,
+   "end": 1788577621,
+   "title": "My first raffle",
+   "items": 1,
+   "ended": false
+  },
+  "6UFFA9": {
+   "msg": null,
+   "end": 1788577441,
+   "title": "what is your favorite plant in 'Plants Vs. Zombies'",
+   "items": 1,
+   "ended": false
+  },
+  "MC44HP": {
+   "msg": null,
+   "end": 1788575221,
+   "title": "Hale's Own Trials: Backburner: Day 3",
+   "items": 1,
+   "ended": false
+  },
+  "20IW3E": {
+   "msg": null,
+   "end": 1788574741,
+   "title": "EVERYONE MAKE RAFFLES WITH THE  EMOJI",
+   "items": 1,
+   "ended": false
+  },
+  "SSJNIX": {
+   "msg": null,
+   "end": 1788574382,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1FIJ14": {
+   "msg": null,
+   "end": 1788574201,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ATRAIP": {
+   "msg": null,
+   "end": 1788574021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3G9B6R": {
+   "msg": null,
+   "end": 1788573841,
+   "title": "Caf\u00e9 Crit-A-Coffee #1775",
+   "items": 10,
+   "ended": false
+  },
+  "GDSKMX": {
+   "msg": null,
+   "end": 1788571621,
+   "title": "Been Sick",
+   "items": 10,
+   "ended": false
+  },
+  "8O5N8P": {
+   "msg": null,
+   "end": 1788571501,
+   "title": "Mwaaa mweeeeh",
+   "items": 3,
+   "ended": false
+  },
+  "SFCVD0": {
+   "msg": null,
+   "end": 1788570000,
+   "title": "Reminder to eat n' drink water if ye haven't yet #283",
+   "items": 5,
+   "ended": false
+  },
+  "BQJWJP": {
+   "msg": null,
+   "end": 1788569102,
+   "title": "I hate this dumb ahh umamusume",
+   "items": 5,
+   "ended": false
+  },
+  "04VR4Y": {
+   "msg": null,
+   "end": 1788568921,
+   "title": "Fear and Hunger.",
+   "items": 1,
+   "ended": false
+  },
+  "SBYF9B": {
+   "msg": null,
+   "end": 1788525601,
+   "title": "Untitled raffle",
+   "items": 2,
    "ended": false
   }
  },
