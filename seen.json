@@ -147,82 +147,12 @@
    "items": 1,
    "ended": false
   },
-  "NJ52H5": {
-   "msg": "1542874078917034095",
-   "end": 1788006421,
-   "title": "Latest raffle",
-   "items": 5,
-   "ended": true
-  },
-  "9EPQDW": {
-   "msg": "1542874086831685662",
-   "end": 1788006121,
-   "title": "Any games you think are \"unique\" in gameplay?",
-   "items": 2,
-   "ended": true
-  },
-  "C9FZZP": {
-   "msg": "1542874094653931581",
-   "end": 1788005881,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "IIH5FD": {
-   "msg": "1542874101645975663",
-   "end": 1788005341,
-   "title": "slopmaker raffle..?",
-   "items": 1,
-   "ended": true
-  },
-  "T9OCYW": {
-   "msg": "1542874116976283648",
-   "end": 1788004800,
-   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
-   "items": 1,
-   "ended": true
-  },
-  "PW3N12": {
-   "msg": "1542881656111632497",
-   "end": 1788008400,
-   "title": "The Tree That Almost Started a War",
-   "items": 1,
-   "ended": true
-  },
-  "ZSFSUK": {
-   "msg": "1542881677729202196",
-   "end": 1788006541,
-   "title": "Inventory Starter Kit",
-   "items": 14,
-   "ended": true
-  },
-  "DNSZ27": {
-   "msg": "1542889172426301450",
-   "end": 1788010202,
-   "title": "gift of the day #10",
-   "items": 1,
-   "ended": true
-  },
-  "X8B3SU": {
-   "msg": "1542889179896086588",
-   "end": 1788009481,
-   "title": "Team Graveyard: The Heavy",
-   "items": 1,
-   "ended": true
-  },
   "XLQQN8": {
    "msg": "1542896765592670291",
    "end": null,
    "title": "\"Be careful, it's my first time...\"",
    "items": 18,
    "ended": false
-  },
-  "81666T": {
-   "msg": "1542896775684431978",
-   "end": 1788010501,
-   "title": "4th australium",
-   "items": 6,
-   "ended": true
   },
   "BBXOWO": {
    "msg": "1542904279449210970",
@@ -242,13 +172,6 @@
    "msg": "1542904293294743592",
    "end": 1788012000,
    "title": "be nice to me.",
-   "items": 1,
-   "ended": true
-  },
-  "BJ1K27": {
-   "msg": "1542904302912143502",
-   "end": 1788011762,
-   "title": "Only OG's remembers.",
    "items": 1,
    "ended": true
   },
@@ -665,13 +588,6 @@
    "items": 1,
    "ended": true
   },
-  "FB8K1M": {
-   "msg": "1543160947823222795",
-   "end": 1788009841,
-   "title": "\u0420\u043e\u0437\u044b\u0433\u0440\u044b\u0448\u0438 \u043a\u0430\u043a\u0438\u0435-\u0442\u043e?  \u041c\u043e\u0436\u043d\u043e \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c",
-   "items": 6,
-   "ended": true
-  },
   "NH3PM9": {
    "msg": "1543160954014146661",
    "end": 1788073981,
@@ -712,13 +628,6 @@
    "end": 1788075601,
    "title": "Introvert",
    "items": 1,
-   "ended": true
-  },
-  "WN8CM0": {
-   "msg": "1543168590193369158",
-   "end": 1788003481,
-   "title": "My First Raffle!",
-   "items": 2,
    "ended": true
   },
   "VJ0JQ0": {
@@ -831,13 +740,6 @@
    "end": 1788088502,
    "title": "Raffle",
    "items": 1,
-   "ended": true
-  },
-  "75KKPS": {
-   "msg": "1543228931132366950",
-   "end": 1788011461,
-   "title": "I don't know",
-   "items": 2,
    "ended": true
   },
   "TMWX0M": {
@@ -7257,6 +7159,104 @@
    "end": 1788677882,
    "title": "Nothing much...",
    "items": 1,
+   "ended": false
+  },
+  "KO3D0Y": {
+   "msg": null,
+   "end": 1788701821,
+   "title": "1v9 raffle",
+   "items": 1,
+   "ended": false
+  },
+  "TVZ5D6": {
+   "msg": null,
+   "end": 1788700202,
+   "title": "1000 tips given out",
+   "items": 1,
+   "ended": false
+  },
+  "7HFOP4": {
+   "msg": null,
+   "end": 1788700141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "17YANF": {
+   "msg": null,
+   "end": 1788699600,
+   "title": "How the \"Just Cause\" Series Got Its Name",
+   "items": 2,
+   "ended": false
+  },
+  "TL9NDS": {
+   "msg": null,
+   "end": 1788699301,
+   "title": "Grabli304's raffle\u2503Day 188",
+   "items": 2,
+   "ended": false
+  },
+  "1DRIQL": {
+   "msg": null,
+   "end": 1788699242,
+   "title": "If you're not kissing your partner in public, what are you doing?",
+   "items": 1,
+   "ended": false
+  },
+  "HR01EU": {
+   "msg": null,
+   "end": 1788698641,
+   "title": "Random hat I crafted #271( real )",
+   "items": 30,
+   "ended": false
+  },
+  "3U5KRW": {
+   "msg": null,
+   "end": 1788697862,
+   "title": "Grabli304's raffle\u2503Day 188",
+   "items": 2,
+   "ended": false
+  },
+  "U1QY0F": {
+   "msg": null,
+   "end": 1788697261,
+   "title": "I really like this community so far!",
+   "items": 4,
+   "ended": false
+  },
+  "JLQFHE": {
+   "msg": null,
+   "end": 1788696241,
+   "title": "Milk",
+   "items": 1,
+   "ended": false
+  },
+  "VDLTZH": {
+   "msg": null,
+   "end": 1788696000,
+   "title": "BANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANABANANA",
+   "items": 1,
+   "ended": false
+  },
+  "7EAC52": {
+   "msg": null,
+   "end": 1788695642,
+   "title": "Special Delivery",
+   "items": 20,
+   "ended": false
+  },
+  "W16WV8": {
+   "msg": null,
+   "end": 1788694682,
+   "title": "wanna see a little 3?",
+   "items": 1,
+   "ended": false
+  },
+  "T9J3IN": {
+   "msg": null,
+   "end": 1788693842,
+   "title": "Grabli304's raffle\u2503Day 188",
+   "items": 2,
    "ended": false
   }
  },
