@@ -147,111 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "R47AJD": {
-   "msg": "1542806163748560977",
-   "end": 1787989561,
-   "title": "Noise btw [LIMITED OFFER: 100% WIN]",
-   "items": 152,
-   "ended": true
-  },
-  "50LAFU": {
-   "msg": "1542821284046700574",
-   "end": 1787993581,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BONSE3": {
-   "msg": "1542821304544137286",
-   "end": 1787993401,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "0RAR7S": {
-   "msg": "1542821313016500305",
-   "end": 1787992681,
-   "title": "What Beats Rock? #1",
-   "items": 3,
-   "ended": true
-  },
-  "6A1LRX": {
-   "msg": "1542821324093792296",
-   "end": 1787992561,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WT4R8H": {
-   "msg": "1542843879307616266",
-   "end": 1787998621,
-   "title": "Grabli304's raffle\u2503Day 180",
-   "items": 2,
-   "ended": true
-  },
-  "RP0FKB": {
-   "msg": "1542843889499643987",
-   "end": 1787998142,
-   "title": "Something about today",
-   "items": 3,
-   "ended": true
-  },
-  "WV35IN": {
-   "msg": "1542843895770128415",
-   "end": 1787997541,
-   "title": "1 chudmaker",
-   "items": 1,
-   "ended": true
-  },
-  "WEPGSX": {
-   "msg": "1542851480103555174",
-   "end": 1788000901,
-   "title": "The world needs more Reindoonicorns! (#596)",
-   "items": 1,
-   "ended": true
-  },
-  "ZXXAZH": {
-   "msg": "1542851487175020657",
-   "end": 1788000482,
-   "title": "The world needs more Reindoonicorns! (#595)",
-   "items": 1,
-   "ended": true
-  },
-  "DKKL7Z": {
-   "msg": "1542851495035404408",
-   "end": 1788000002,
-   "title": "The world needs more Reindoonicorns! (#594)",
-   "items": 1,
-   "ended": true
-  },
-  "C2GOWZ": {
-   "msg": "1542858969129943190",
-   "end": 1788001621,
-   "title": "The world needs more Reindoonicorns! (#598)",
-   "items": 1,
-   "ended": true
-  },
-  "FPXR1U": {
-   "msg": "1542858976004284478",
-   "end": 1788001261,
-   "title": "Huo-Long heater",
-   "items": 1,
-   "ended": true
-  },
-  "FM0N5B": {
-   "msg": "1542858982950182913",
-   "end": 1788001202,
-   "title": "The world needs more Reindoonicorns! (#597)",
-   "items": 1,
-   "ended": true
-  },
-  "KOHSO0": {
-   "msg": "1542858988817883167",
-   "end": 1788001200,
-   "title": "Tough teacher, huh?",
-   "items": 1,
-   "ended": true
-  },
   "NJ52H5": {
    "msg": "1542874078917034095",
    "end": 1788006421,
@@ -679,27 +574,6 @@
    "items": 1,
    "ended": true
   },
-  "9R6ZGH": {
-   "msg": "1543100559312035970",
-   "end": 1787994000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BA4O1J": {
-   "msg": "1543100565549088788",
-   "end": 1787994000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "392E76": {
-   "msg": "1543100571144421468",
-   "end": 1787994000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "56XMLZ": {
    "msg": "1543108136070815844",
    "end": 1788062101,
@@ -880,13 +754,6 @@
    "end": 1788039000,
    "title": "Untitled raffle",
    "items": 1,
-   "ended": true
-  },
-  "RN0CQW": {
-   "msg": "1543198742474133524",
-   "end": 1787998621,
-   "title": "winter",
-   "items": 15,
    "ended": true
   },
   "TNAIF8": {
@@ -7215,6 +7082,181 @@
    "end": 1788663241,
    "title": "Caf\u00e9 Crit-A-Coffee #1776",
    "items": 10,
+   "ended": false
+  },
+  "24TPA4": {
+   "msg": null,
+   "end": 1788628081,
+   "title": "join or idk what happens just do it pls",
+   "items": 6,
+   "ended": false
+  },
+  "28Y05U": {
+   "msg": null,
+   "end": 1788649681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "S3V87Q": {
+   "msg": null,
+   "end": 1788692821,
+   "title": "\ufe0f\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "BQJFBE": {
+   "msg": null,
+   "end": 1788692400,
+   "title": "Oh my gosh, she's a natural!",
+   "items": 1,
+   "ended": false
+  },
+  "XX77NU": {
+   "msg": null,
+   "end": 1788690541,
+   "title": "What my subconscious thinks TF2 Usernames are.",
+   "items": 11,
+   "ended": false
+  },
+  "BY73XG": {
+   "msg": null,
+   "end": 1788690001,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "IBR8JN": {
+   "msg": null,
+   "end": 1788689881,
+   "title": "Graveyard Raffle (#19)",
+   "items": 10,
+   "ended": false
+  },
+  "Y4QARB": {
+   "msg": null,
+   "end": 1788688981,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LZU7Y6": {
+   "msg": null,
+   "end": 1788688862,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CLI9KK": {
+   "msg": null,
+   "end": 1788688681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8LRVKD": {
+   "msg": null,
+   "end": 1788687121,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FAWIN3": {
+   "msg": null,
+   "end": 1788686821,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HP9RD5": {
+   "msg": null,
+   "end": 1788686641,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5HN122": {
+   "msg": null,
+   "end": 1788686402,
+   "title": "Hey hey hey ganggg",
+   "items": 3,
+   "ended": false
+  },
+  "ZHTX02": {
+   "msg": null,
+   "end": 1788686221,
+   "title": "The world needs more Reindoonicorns! (#600)",
+   "items": 1,
+   "ended": false
+  },
+  "LY8CLM": {
+   "msg": null,
+   "end": 1788684721,
+   "title": "Hello! Have a great day!",
+   "items": 3,
+   "ended": false
+  },
+  "XJOHWK": {
+   "msg": null,
+   "end": 1788684481,
+   "title": "epic wedding",
+   "items": 1,
+   "ended": false
+  },
+  "T5JZ45": {
+   "msg": null,
+   "end": 1788683341,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "TSPAI4": {
+   "msg": null,
+   "end": 1788639481,
+   "title": "Noisemaker raffle",
+   "items": 3,
+   "ended": false
+  },
+  "L3XRRS": {
+   "msg": null,
+   "end": 1788682502,
+   "title": "Question",
+   "items": 1,
+   "ended": false
+  },
+  "JQRE6J": {
+   "msg": null,
+   "end": 1788682502,
+   "title": "What is your favorite music, or what music do you like listening to?",
+   "items": 3,
+   "ended": false
+  },
+  "SANYGM": {
+   "msg": null,
+   "end": 1788682381,
+   "title": "Serious Question #3",
+   "items": 1,
+   "ended": false
+  },
+  "MVPMED": {
+   "msg": null,
+   "end": 1788682141,
+   "title": "I'm trying to solve TF2's mysteries with bad translation. The Administrator's goals",
+   "items": 1,
+   "ended": false
+  },
+  "KYFEW6": {
+   "msg": null,
+   "end": 1788682022,
+   "title": "bonked 3: bonked beyond belief",
+   "items": 25,
+   "ended": false
+  },
+  "JEEA33": {
+   "msg": null,
+   "end": 1788677882,
+   "title": "Nothing much...",
+   "items": 1,
    "ended": false
   }
  },
