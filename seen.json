@@ -154,41 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "KFKM7W": {
-   "msg": "1543009968691871744",
-   "end": 1788038701,
-   "title": "be slugma to me.",
-   "items": 1,
-   "ended": true
-  },
-  "ZM0KEJ": {
-   "msg": "1543009975180460052",
-   "end": 1788037200,
-   "title": "checkup #103 | Contract related question",
-   "items": 1,
-   "ended": true
-  },
-  "BUHL1D": {
-   "msg": "1543017574026186864",
-   "end": 1788039482,
-   "title": "Hey, it's me Sylvie Glitterhoofs, let's talk about my job",
-   "items": 5,
-   "ended": true
-  },
-  "6CVJ6W": {
-   "msg": "1543025050834440224",
-   "end": 1788042241,
-   "title": "MvM Update Australium Vote Part 18: Engineer Melees",
-   "items": 3,
-   "ended": true
-  },
-  "WX8UX1": {
-   "msg": "1543025061139845205",
-   "end": 1788041402,
-   "title": "MvM Update Australium Vote Part 17: Engineer Secondaries",
-   "items": 3,
-   "ended": true
-  },
   "1CZRL5": {
    "msg": "1543037217356644352",
    "end": 1788044400,
@@ -385,27 +350,6 @@
    "items": 1,
    "ended": true
   },
-  "YWU36Q": {
-   "msg": "1543191200637517924",
-   "end": 1788039000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "FY028M": {
-   "msg": "1543191207906119682",
-   "end": 1788039000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "3QZWBR": {
-   "msg": "1543191215061860496",
-   "end": 1788039000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
   "TNAIF8": {
    "msg": "1543206257689624687",
    "end": 1788085321,
@@ -460,13 +404,6 @@
    "end": 1788086041,
    "title": "im loving",
    "items": 1,
-   "ended": true
-  },
-  "EBY3LR": {
-   "msg": "1543213898935574659",
-   "end": 1788042482,
-   "title": "Another wave of Killstreak Kits",
-   "items": 13,
    "ended": true
   },
   "LK72V7": {
@@ -824,13 +761,6 @@
    "end": 1788121021,
    "title": "Untitled raffle",
    "items": 3,
-   "ended": true
-  },
-  "2DJR8R": {
-   "msg": "1543357266391212165",
-   "end": 1788040621,
-   "title": "I am bored and i want to open 2 crates what cheap crates should i open.",
-   "items": 6,
    "ended": true
   },
   "DX15KS": {
@@ -7312,6 +7242,55 @@
    "msg": null,
    "end": 1788721801,
    "title": "JAK JA KURWA KOCHAM DISCO POLO #178",
+   "items": 1,
+   "ended": false
+  },
+  "WVDBSG": {
+   "msg": null,
+   "end": 1788733321,
+   "title": "have a nice day!",
+   "items": 1,
+   "ended": false
+  },
+  "TNHR4R": {
+   "msg": null,
+   "end": 1788732841,
+   "title": "The results are in  (part 2.5/3)",
+   "items": 3,
+   "ended": false
+  },
+  "MAF356": {
+   "msg": null,
+   "end": 1788730801,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "XOV5FF": {
+   "msg": null,
+   "end": 1788730621,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "8661FC": {
+   "msg": null,
+   "end": 1788730021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "16XFSU": {
+   "msg": null,
+   "end": 1788686401,
+   "title": "another",
+   "items": 1,
+   "ended": false
+  },
+  "9SZ9E9": {
+   "msg": null,
+   "end": 1788728400,
+   "title": "checkup #111 | one",
    "items": 1,
    "ended": false
   }
