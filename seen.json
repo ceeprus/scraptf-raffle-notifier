@@ -154,69 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "5DZEHG": {
-   "msg": "1542942056224129134",
-   "end": 1788022561,
-   "title": "#slugnation updates day 14.1",
-   "items": 1,
-   "ended": true
-  },
-  "RBMDZ6": {
-   "msg": "1542942064499630212",
-   "end": 1788022561,
-   "title": "making an elephant out of a fly on the wall",
-   "items": 5,
-   "ended": true
-  },
-  "HRQGND": {
-   "msg": "1542942073903255692",
-   "end": 1788022501,
-   "title": "be mean to me.",
-   "items": 4,
-   "ended": true
-  },
-  "FSB0G7": {
-   "msg": "1542942080739836026",
-   "end": 1788021902,
-   "title": "Kiestu crafting ALL the weapons #10",
-   "items": 1,
-   "ended": true
-  },
-  "264I0U": {
-   "msg": "1542942091246706738",
-   "end": 1788021301,
-   "title": "Xpresselevator2hell\u3002",
-   "items": 80,
-   "ended": true
-  },
-  "32MAQT": {
-   "msg": "1542949560719122575",
-   "end": 1788022981,
-   "title": "hit a certain milestone",
-   "items": 20,
-   "ended": true
-  },
-  "CVAPFX": {
-   "msg": "1542949567518220288",
-   "end": 1788022800,
-   "title": "Daily raffle until TF2 gets a major update #605",
-   "items": 3,
-   "ended": true
-  },
-  "EF54QW": {
-   "msg": "1542964663329751043",
-   "end": 1788027842,
-   "title": "Daily Brass Beast #552",
-   "items": 1,
-   "ended": true
-  },
-  "SAIEYL": {
-   "msg": "1542964670804009045",
-   "end": 1788027781,
-   "title": "Guys",
-   "items": 3,
-   "ended": true
-  },
   "UXFWTE": {
    "msg": "1542972288746520607",
    "end": 1788028742,
@@ -670,13 +607,6 @@
    "end": 1788095821,
    "title": "I've made new friends.  \ud83c\udf0a \ud83d\udc1f",
    "items": 1,
-   "ended": true
-  },
-  "FDGOKX": {
-   "msg": "1543251554197315604",
-   "end": 1788023282,
-   "title": "Heyooo",
-   "items": 7,
    "ended": true
   },
   "A4BK6W": {
@@ -7285,6 +7215,83 @@
    "end": 1788702962,
    "title": "Click to add title",
    "items": 1,
+   "ended": false
+  },
+  "PT7E9J": {
+   "msg": null,
+   "end": 1788719161,
+   "title": "\"You've won 1 raffle that must be withdrawn\"",
+   "items": 1,
+   "ended": false
+  },
+  "9R875A": {
+   "msg": null,
+   "end": 1788719101,
+   "title": "Do you like music?",
+   "items": 2,
+   "ended": false
+  },
+  "LJDBYG": {
+   "msg": null,
+   "end": 1788717961,
+   "title": "Overwatch",
+   "items": 1,
+   "ended": false
+  },
+  "IHD656": {
+   "msg": null,
+   "end": 1788673861,
+   "title": "Don't you know that you're",
+   "items": 1,
+   "ended": false
+  },
+  "SHBBHZ": {
+   "msg": null,
+   "end": 1788716821,
+   "title": "Daily raffle #367",
+   "items": 1,
+   "ended": false
+  },
+  "Z60EC1": {
+   "msg": null,
+   "end": 1788672600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RHH2FP": {
+   "msg": null,
+   "end": 1788672600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5V0RL1": {
+   "msg": null,
+   "end": 1788672600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1IPN16": {
+   "msg": null,
+   "end": 1788672600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "UC9B23": {
+   "msg": null,
+   "end": 1788715261,
+   "title": "DON'T TRUST ME!!!",
+   "items": 1,
+   "ended": false
+  },
+  "RIIWC8": {
+   "msg": null,
+   "end": 1788714000,
+   "title": "Daily raffle until TF2 gets a major update #613",
+   "items": 3,
    "ended": false
   }
  },
