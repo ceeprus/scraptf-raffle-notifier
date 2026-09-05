@@ -147,34 +147,6 @@
    "items": 1,
    "ended": false
   },
-  "HTXON9": {
-   "msg": "1542692869473574983",
-   "end": 1787961841,
-   "title": "Mi tercer video de Tf2",
-   "items": 1,
-   "ended": true
-  },
-  "PYHQ5J": {
-   "msg": "1542692884065816717",
-   "end": 1787961721,
-   "title": "Birthday Raffle!",
-   "items": 11,
-   "ended": true
-  },
-  "CEWGFO": {
-   "msg": "1542700464334966895",
-   "end": 1787964121,
-   "title": "Where is your sword?",
-   "items": 1,
-   "ended": true
-  },
-  "T4ZFTU": {
-   "msg": "1542707975486185536",
-   "end": 1787965200,
-   "title": "Reminder to eat n' drink water if ye haven't yet #276",
-   "items": 5,
-   "ended": true
-  },
   "LEG6VV": {
    "msg": "1542723081083027457",
    "end": 1787970061,
@@ -434,13 +406,6 @@
    "items": 1,
    "ended": true
   },
-  "4V8S27": {
-   "msg": "1542866570798174220",
-   "end": 1787961362,
-   "title": "hi",
-   "items": 2,
-   "ended": true
-  },
   "NJ52H5": {
    "msg": "1542874078917034095",
    "end": 1788006421,
@@ -466,13 +431,6 @@
    "msg": "1542874101645975663",
    "end": 1788005341,
    "title": "slopmaker raffle..?",
-   "items": 1,
-   "ended": true
-  },
-  "UZPLFC": {
-   "msg": "1542874108625289286",
-   "end": 1787961901,
-   "title": "Cat piss",
    "items": 1,
    "ended": true
   },
@@ -749,20 +707,6 @@
    "items": 3,
    "ended": true
   },
-  "5GT33C": {
-   "msg": "1542957141881655350",
-   "end": 1787961061,
-   "title": "take that",
-   "items": 2,
-   "ended": true
-  },
-  "G0C7O4": {
-   "msg": "1542957148709986406",
-   "end": 1787960761,
-   "title": "I don't want this",
-   "items": 1,
-   "ended": true
-  },
   "EF54QW": {
    "msg": "1542964663329751043",
    "end": 1788027842,
@@ -775,13 +719,6 @@
    "end": 1788027781,
    "title": "Guys",
    "items": 3,
-   "ended": true
-  },
-  "F1N577": {
-   "msg": "1542972269826154637",
-   "end": 1787964301,
-   "title": "The Wrong Train",
-   "items": 2,
    "ended": true
   },
   "UXFWTE": {
@@ -7291,6 +7228,48 @@
    "msg": null,
    "end": 1788645361,
    "title": "Daily Hat #87",
+   "items": 1,
+   "ended": false
+  },
+  "3CNKN5": {
+   "msg": null,
+   "end": 1788656400,
+   "title": "Template",
+   "items": 3,
+   "ended": false
+  },
+  "DM019Q": {
+   "msg": null,
+   "end": 1788655200,
+   "title": "Questions have been answered",
+   "items": 1,
+   "ended": false
+  },
+  "593ZNB": {
+   "msg": null,
+   "end": 1788655200,
+   "title": "I've got the BIG 2026 version of answers right here!",
+   "items": 1,
+   "ended": false
+  },
+  "SHPFV0": {
+   "msg": null,
+   "end": 1788611941,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "IISQL5": {
+   "msg": null,
+   "end": 1788653461,
+   "title": "Question",
+   "items": 1,
+   "ended": false
+  },
+  "LT3BEJ": {
+   "msg": null,
+   "end": 1788652081,
+   "title": "I am bad with titles #146",
    "items": 1,
    "ended": false
   }
