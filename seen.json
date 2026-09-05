@@ -154,55 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "UXFWTE": {
-   "msg": "1542972288746520607",
-   "end": 1788028742,
-   "title": "Have these",
-   "items": 26,
-   "ended": true
-  },
-  "XQDCR0": {
-   "msg": "1542979787855896677",
-   "end": 1788031261,
-   "title": "Raffling a  every time I win a  #84",
-   "items": 1,
-   "ended": true
-  },
-  "8ERH9P": {
-   "msg": "1542979797502922773",
-   "end": 1788030781,
-   "title": "Something interesting!",
-   "items": 3,
-   "ended": true
-  },
-  "EQEYWC": {
-   "msg": "1542979808185684138",
-   "end": 1788030541,
-   "title": "raffle with reason",
-   "items": 2,
-   "ended": true
-  },
-  "WBSMCJ": {
-   "msg": "1542987465176912022",
-   "end": 1788032341,
-   "title": "Most Joyous Friday To You",
-   "items": 1,
-   "ended": true
-  },
-  "H5KC6Y": {
-   "msg": "1542987473779687605",
-   "end": 1788031981,
-   "title": "Raffling a  every time I win a  #85",
-   "items": 1,
-   "ended": true
-  },
-  "O3UQF2": {
-   "msg": "1542987480934907994",
-   "end": 1788031922,
-   "title": "do you have the time",
-   "items": 2,
-   "ended": true
-  },
   "KFKM7W": {
    "msg": "1543009968691871744",
    "end": 1788038701,
@@ -404,13 +355,6 @@
    "end": 1788076322,
    "title": "winter",
    "items": 50,
-   "ended": true
-  },
-  "X3W2IN": {
-   "msg": "1543168563999940638",
-   "end": 1788032821,
-   "title": "first raffle!",
-   "items": 4,
    "ended": true
   },
   "JMYNH9": {
@@ -746,13 +690,6 @@
    "msg": "1543304473655640215",
    "end": 1788107941,
    "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GAD9YI": {
-   "msg": "1543304480286711890",
-   "end": 1788035461,
-   "title": "I got 2 of this hats so you can have my extra",
    "items": 1,
    "ended": true
   },
@@ -7292,6 +7229,90 @@
    "end": 1788714000,
    "title": "Daily raffle until TF2 gets a major update #613",
    "items": 3,
+   "ended": false
+  },
+  "LQ2V9H": {
+   "msg": null,
+   "end": 1788725221,
+   "title": "Daily Black Boxes #163",
+   "items": 6,
+   "ended": false
+  },
+  "J9CS55": {
+   "msg": null,
+   "end": 1788725162,
+   "title": "Daily Hat #88",
+   "items": 1,
+   "ended": false
+  },
+  "OD259J": {
+   "msg": null,
+   "end": 1788724861,
+   "title": "\ud83c\uddea\ud83c\uddf8/\ud83c\uddec\ud83c\udde7 Random Question #40 + \ud83d\udc08\ud83d\udcf8 #8 + #9 (Have you pre ordered GTA VI?)",
+   "items": 1,
+   "ended": false
+  },
+  "LYD1RC": {
+   "msg": null,
+   "end": 1788724501,
+   "title": "THERE'S SOMETHING YOU NEED TO KNOW",
+   "items": 6,
+   "ended": false
+  },
+  "4R2QQG": {
+   "msg": null,
+   "end": 1788724021,
+   "title": "Question #91",
+   "items": 1,
+   "ended": false
+  },
+  "KL2P8U": {
+   "msg": null,
+   "end": 1788723361,
+   "title": "Question #90",
+   "items": 1,
+   "ended": false
+  },
+  "S8S9NI": {
+   "msg": null,
+   "end": 1788722882,
+   "title": "Why nobody told me we have verity emojis",
+   "items": 1,
+   "ended": false
+  },
+  "NETWEI": {
+   "msg": null,
+   "end": 1788722701,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #130 \ud83c\udf0a\ud83d\udc1f",
+   "items": 6,
+   "ended": false
+  },
+  "B1K3FF": {
+   "msg": null,
+   "end": 1788722582,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #129 \ud83c\udf0a\ud83d\udc1f",
+   "items": 6,
+   "ended": false
+  },
+  "46RVSG": {
+   "msg": null,
+   "end": 1788722282,
+   "title": "Raffling a  every time I win a  #91",
+   "items": 1,
+   "ended": false
+  },
+  "MSPV9M": {
+   "msg": null,
+   "end": 1788722282,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #128 \ud83c\udf0a\ud83d\udc1f",
+   "items": 6,
+   "ended": false
+  },
+  "M1WCDC": {
+   "msg": null,
+   "end": 1788721801,
+   "title": "JAK JA KURWA KOCHAM DISCO POLO #178",
+   "items": 1,
    "ended": false
   }
  },
