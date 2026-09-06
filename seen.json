@@ -154,69 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "N6ANBP": {
-   "msg": "1543334638871642113",
-   "end": 1788115802,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
-  "9EFYF1": {
-   "msg": "1543334648594300969",
-   "end": 1788115381,
-   "title": "JAK JA KURWA KOCHAM DISCO POLO #177",
-   "items": 1,
-   "ended": true
-  },
-  "890AVT": {
-   "msg": "1543334655074369666",
-   "end": 1788114721,
-   "title": "a bit of noise never killed anyone #45",
-   "items": 2,
-   "ended": true
-  },
-  "YJYVKB": {
-   "msg": "1543342165961211945",
-   "end": 1788116821,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
-  "2YZGUP": {
-   "msg": "1543349755202240542",
-   "end": 1788119401,
-   "title": "Gas passers",
-   "items": 49,
-   "ended": true
-  },
-  "BQVOFS": {
-   "msg": "1543349766614687804",
-   "end": 1788119401,
-   "title": "top 20 people i HATE on this website.",
-   "items": 1,
-   "ended": true
-  },
-  "VRWMM6": {
-   "msg": "1543349773615243345",
-   "end": 1788119221,
-   "title": "Kiestu crafting ALL the weapons #11",
-   "items": 1,
-   "ended": true
-  },
-  "XGXE3P": {
-   "msg": "1543349780179058748",
-   "end": 1788119101,
-   "title": "what cosmetics are you guys tryna get right now?",
-   "items": 1,
-   "ended": true
-  },
-  "MEAU68": {
-   "msg": "1543357252621181050",
-   "end": 1788121021,
-   "title": "Untitled raffle",
-   "items": 3,
-   "ended": true
-  },
   "FRGQA3": {
    "msg": "1543372354900594799",
    "end": 1788124321,
@@ -691,13 +628,6 @@
    "end": 1788191041,
    "title": "Daily Brass Beast #553",
    "items": 1,
-   "ended": true
-  },
-  "LGLJL6": {
-   "msg": "1543651736881729556",
-   "end": 1788118741,
-   "title": "i am",
-   "items": 3,
    "ended": true
   },
   "8XN3UJ": {
@@ -7180,6 +7110,118 @@
    "end": 1788796800,
    "title": "Scrap.tf Birthdays - 6 September",
    "items": 5,
+   "ended": false
+  },
+  "YO1CE4": {
+   "msg": null,
+   "end": 1788810661,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "0WQB54": {
+   "msg": null,
+   "end": 1788810481,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MT3909": {
+   "msg": null,
+   "end": 1788810362,
+   "title": "im gonna do it",
+   "items": 1,
+   "ended": false
+  },
+  "GOU0NZ": {
+   "msg": null,
+   "end": 1788810301,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MCCSWP": {
+   "msg": null,
+   "end": 1788808202,
+   "title": "The main question",
+   "items": 1,
+   "ended": false
+  },
+  "2P2P87": {
+   "msg": null,
+   "end": 1788807841,
+   "title": "Marvelous Sunday",
+   "items": 1,
+   "ended": false
+  },
+  "FK2E5Z": {
+   "msg": null,
+   "end": 1788807600,
+   "title": "#36 Weekly dose of Polish songs",
+   "items": 1,
+   "ended": false
+  },
+  "C1LL8C": {
+   "msg": null,
+   "end": 1788807600,
+   "title": "Acronyms #216",
+   "items": 3,
+   "ended": false
+  },
+  "OWOPT3": {
+   "msg": null,
+   "end": 1788764281,
+   "title": "I have a TF2 dream",
+   "items": 1,
+   "ended": false
+  },
+  "37DS4A": {
+   "msg": null,
+   "end": 1788763741,
+   "title": "Something interesting!",
+   "items": 1,
+   "ended": false
+  },
+  "21NRI9": {
+   "msg": null,
+   "end": 1788806881,
+   "title": "Second raffle",
+   "items": 1,
+   "ended": false
+  },
+  "EPUVB8": {
+   "msg": null,
+   "end": 1788806702,
+   "title": "My first raffle:)",
+   "items": 1,
+   "ended": false
+  },
+  "5MFL91": {
+   "msg": null,
+   "end": 1788763321,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "MIQGUE": {
+   "msg": null,
+   "end": 1788763202,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "RK9KNK": {
+   "msg": null,
+   "end": 1788762600,
+   "title": "\ud83e\udd23\ud83d\udc49",
+   "items": 1,
+   "ended": false
+  },
+  "DN5DOA": {
+   "msg": null,
+   "end": 1788762600,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
