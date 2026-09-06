@@ -154,104 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "6XVIEE": {
-   "msg": "1543251543799631912",
-   "end": 1788095821,
-   "title": "I've made new friends.  \ud83c\udf0a \ud83d\udc1f",
-   "items": 1,
-   "ended": true
-  },
-  "A4BK6W": {
-   "msg": "1543251565719322774",
-   "end": 1788095042,
-   "title": "Veri cool raffle",
-   "items": 10,
-   "ended": true
-  },
-  "6EFQX0": {
-   "msg": "1543251571951804416",
-   "end": 1788094800,
-   "title": "The Legendary Exploits of Bum Farto",
-   "items": 1,
-   "ended": true
-  },
-  "ON8Y4M": {
-   "msg": "1543259134265131009",
-   "end": 1788097082,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "DG0QRY": {
-   "msg": "1543259141030674463",
-   "end": 1788097022,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "5CMGEZ": {
-   "msg": "1543259148437946379",
-   "end": 1788096901,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "HHV90S": {
-   "msg": "1543266639234211912",
-   "end": 1788098882,
-   "title": "everyones help is needed",
-   "items": 4,
-   "ended": true
-  },
-  "XXR8EC": {
-   "msg": "1543274228655329430",
-   "end": 1788100441,
-   "title": "\ufe0f\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "ERH57N": {
-   "msg": "1543281781686403072",
-   "end": 1788103322,
-   "title": "stuff",
-   "items": 33,
-   "ended": true
-  },
-  "IMJ1X8": {
-   "msg": "1543281790096248912",
-   "end": 1788102000,
-   "title": "Something is coming in a day",
-   "items": 1,
-   "ended": true
-  },
-  "KISE3A": {
-   "msg": "1543281806131077230",
-   "end": 1788102000,
-   "title": "You're listening to SPICE FM (53)",
-   "items": 3,
-   "ended": true
-  },
-  "4D92KJ": {
-   "msg": "1543284705690910762",
-   "end": 1788103800,
-   "title": "MK Poll #12 + The Favorites of Music #291 & #292",
-   "items": 1,
-   "ended": true
-  },
-  "COENY3": {
-   "msg": "1543289355487944784",
-   "end": 1788105301,
-   "title": "SO MUCH NOISE",
-   "items": 50,
-   "ended": true
-  },
-  "EPIH6G": {
-   "msg": "1543296852512739339",
-   "end": 1788105600,
-   "title": "Scrap.tf Birthdays - 29 August",
-   "items": 1,
-   "ended": true
-  },
   "TVXFXK": {
    "msg": "1543304456857194660",
    "end": 1788108782,
@@ -487,13 +389,6 @@
    "msg": "1543447871423127692",
    "end": 1788142021,
    "title": "AXTONF",
-   "items": 1,
-   "ended": true
-  },
-  "2RB3SO": {
-   "msg": "1543447878603640864",
-   "end": 1788098580,
-   "title": "Raffling Scrap Till I'm Out #1019 (Tired)",
    "items": 1,
    "ended": true
   },
@@ -7200,6 +7095,104 @@
    "msg": null,
    "end": 1788771901,
    "title": "Dealing with loss",
+   "items": 1,
+   "ended": false
+  },
+  "HA0V2K": {
+   "msg": null,
+   "end": 1788795000,
+   "title": "MK Poll #16 + The Favorites of Music #299 & #300!!",
+   "items": 3,
+   "ended": false
+  },
+  "M0DF7T": {
+   "msg": null,
+   "end": 1788794701,
+   "title": "A Scrap for my thoughts #2",
+   "items": 1,
+   "ended": false
+  },
+  "BMJL36": {
+   "msg": null,
+   "end": 1788794341,
+   "title": "The Pass it Forward Raffe! (#24)",
+   "items": 12,
+   "ended": false
+  },
+  "7DPXU6": {
+   "msg": null,
+   "end": 1788794101,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Q6W6MN": {
+   "msg": null,
+   "end": 1788793200,
+   "title": "You're listening to SPICE FM (61)",
+   "items": 4,
+   "ended": false
+  },
+  "BKRC7R": {
+   "msg": null,
+   "end": 1788728042,
+   "title": "Need some space",
+   "items": 50,
+   "ended": false
+  },
+  "MKUEKD": {
+   "msg": null,
+   "end": 1788791161,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #24",
+   "items": 1,
+   "ended": false
+  },
+  "KSSABN": {
+   "msg": null,
+   "end": 1788747722,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "IB19W6": {
+   "msg": null,
+   "end": 1788790621,
+   "title": "Specialized Killstreak Bazaar Bargain Kit Fabricator #23",
+   "items": 1,
+   "ended": false
+  },
+  "0G6CZB": {
+   "msg": null,
+   "end": 1788790021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "1Z4KEP": {
+   "msg": null,
+   "end": 1788789781,
+   "title": "I WISH U LUCK",
+   "items": 1,
+   "ended": false
+  },
+  "9I7I5Q": {
+   "msg": null,
+   "end": 1788787561,
+   "title": "Told secrets til my voice was sore",
+   "items": 1,
+   "ended": false
+  },
+  "M0G5NS": {
+   "msg": null,
+   "end": 1788786000,
+   "title": "Low effort rsffle",
+   "items": 1,
+   "ended": false
+  },
+  "RUO94U": {
+   "msg": null,
+   "end": 1788785942,
+   "title": "I ruined the Team Fortress 2 timeline with bad translation. Part 4. Dell Conagher",
    "items": 1,
    "ended": false
   }
