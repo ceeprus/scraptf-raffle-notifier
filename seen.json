@@ -154,104 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "ZZ5H3W": {
-   "msg": "1543055271566385345",
-   "end": 1788049321,
-   "title": "Another #slugposting raffle",
-   "items": 1,
-   "ended": true
-  },
-  "A057V6": {
-   "msg": "1543055287819304991",
-   "end": 1788049083,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WIE8JI": {
-   "msg": "1543070372394700832",
-   "end": 1788051600,
-   "title": "Reminder to eat n' drink water if ye haven't yet #277",
-   "items": 5,
-   "ended": true
-  },
-  "44DFD8": {
-   "msg": "1543077950876942396",
-   "end": 1788055021,
-   "title": "Do you think?",
-   "items": 3,
-   "ended": true
-  },
-  "YZRBKF": {
-   "msg": "1543093051461992568",
-   "end": 1788057241,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "UJTL02": {
-   "msg": "1543100552349749269",
-   "end": 1788059700,
-   "title": "Negative Readings",
-   "items": 1,
-   "ended": true
-  },
-  "56XMLZ": {
-   "msg": "1543108136070815844",
-   "end": 1788062101,
-   "title": "Gotta love free hats",
-   "items": 60,
-   "ended": true
-  },
-  "B3V6W8": {
-   "msg": "1543108146564825158",
-   "end": 1788062041,
-   "title": "Caf\u00e9 Crit-A-Coffee #1769",
-   "items": 10,
-   "ended": true
-  },
-  "2CEV94": {
-   "msg": "1543108153896599585",
-   "end": 1788061921,
-   "title": "An Update; Inconsistent uploads (important?)",
-   "items": 1,
-   "ended": true
-  },
-  "GMILZD": {
-   "msg": "1543108161853063190",
-   "end": 1788061681,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #109 \ud83c\udf0a\ud83d\udc1f",
-   "items": 3,
-   "ended": true
-  },
-  "DAQTYI": {
-   "msg": "1543108168639455363",
-   "end": 1788060841,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #108 \ud83c\udf0a\ud83d\udc1f",
-   "items": 3,
-   "ended": true
-  },
-  "B58S00": {
-   "msg": "1543108176050659328",
-   "end": 1788060601,
-   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #107 \ud83c\udf0a\ud83d\udc1f",
-   "items": 3,
-   "ended": true
-  },
-  "FI5IQP": {
-   "msg": "1543111548619460619",
-   "end": 1788062400,
-   "title": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08Pride posting EVERYday #1520 \u26c4\ud83d\udc27\ud83c\udf83\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-   "items": 29,
-   "ended": true
-  },
-  "P6SZ30": {
-   "msg": "1543115667098566708",
-   "end": 1788062882,
-   "title": "Waluigi time",
-   "items": 2,
-   "ended": true
-  },
   "18SMH6": {
    "msg": "1543130753142096024",
    "end": 1788067021,
@@ -518,24 +420,10 @@
    "items": 4,
    "ended": true
   },
-  "9R6CFO": {
-   "msg": "1543266645823459359",
-   "end": 1788055561,
-   "title": "Raffling Scrap Till I'm Out #1018 (Super late raffle)",
-   "items": 1,
-   "ended": true
-  },
   "XXR8EC": {
    "msg": "1543274228655329430",
    "end": 1788100441,
    "title": "\ufe0f\ufe0f",
-   "items": 1,
-   "ended": true
-  },
-  "9CNQVC": {
-   "msg": "1543274235152044123",
-   "end": 1788056702,
-   "title": "1 Day....",
    "items": 1,
    "ended": true
   },
@@ -550,13 +438,6 @@
    "msg": "1543281790096248912",
    "end": 1788102000,
    "title": "Something is coming in a day",
-   "items": 1,
-   "ended": true
-  },
-  "F131J0": {
-   "msg": "1543281797725421655",
-   "end": 1788058800,
-   "title": "Tune of the day #323",
    "items": 1,
    "ended": true
   },
@@ -579,13 +460,6 @@
    "end": 1788105301,
    "title": "SO MUCH NOISE",
    "items": 50,
-   "ended": true
-  },
-  "OR0U36": {
-   "msg": "1543296844006952980",
-   "end": 1788064021,
-   "title": "Untitled raffle",
-   "items": 3,
    "ended": true
   },
   "EPIH6G": {
@@ -7285,6 +7159,83 @@
    "end": 1788735600,
    "title": "A  a day",
    "items": 1,
+   "ended": false
+  },
+  "IOCD41": {
+   "msg": null,
+   "end": 1788754981,
+   "title": "POLL TIME (1 of ???)",
+   "items": 4,
+   "ended": false
+  },
+  "DH3QDK": {
+   "msg": null,
+   "end": 1788754082,
+   "title": "Hello, my name is Epic man with epic face.",
+   "items": 1,
+   "ended": false
+  },
+  "3UY71D": {
+   "msg": null,
+   "end": 1788753300,
+   "title": "Looking Glass",
+   "items": 1,
+   "ended": false
+  },
+  "77ARWL": {
+   "msg": null,
+   "end": 1788750541,
+   "title": "Im having fun",
+   "items": 1,
+   "ended": false
+  },
+  "360SC4": {
+   "msg": null,
+   "end": 1788750181,
+   "title": "Waluigi time",
+   "items": 2,
+   "ended": false
+  },
+  "H7C3NJ": {
+   "msg": null,
+   "end": 1788750121,
+   "title": "Caf\u00e9 Crit-A-Coffee #1777",
+   "items": 11,
+   "ended": false
+  },
+  "4F7JTC": {
+   "msg": null,
+   "end": 1788683761,
+   "title": ". . . | #7",
+   "items": 2,
+   "ended": false
+  },
+  "DQ94DT": {
+   "msg": null,
+   "end": 1788745141,
+   "title": "Living so loud, you can never hear me cry",
+   "items": 3,
+   "ended": false
+  },
+  "FSUILT": {
+   "msg": null,
+   "end": 1788742921,
+   "title": "Someone didn't claim a !?",
+   "items": 1,
+   "ended": false
+  },
+  "NRK4GA": {
+   "msg": null,
+   "end": 1788742802,
+   "title": "what do you think of Lem0nat0r",
+   "items": 1,
+   "ended": false
+  },
+  "VTKOJE": {
+   "msg": null,
+   "end": 1788742800,
+   "title": "Template",
+   "items": 5,
    "ended": false
   }
  },
