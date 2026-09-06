@@ -154,90 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "18SMH6": {
-   "msg": "1543130753142096024",
-   "end": 1788067021,
-   "title": "a bit of noise never killed anyone #44",
-   "items": 2,
-   "ended": true
-  },
-  "KIO32Y": {
-   "msg": "1543138363626889287",
-   "end": 1788067922,
-   "title": "Only for grabli304",
-   "items": 126,
-   "ended": true
-  },
-  "WTA7L4": {
-   "msg": "1543145847103946903",
-   "end": 1788069961,
-   "title": "Random Street View of the day #5",
-   "items": 1,
-   "ended": true
-  },
-  "QKBVLA": {
-   "msg": "1543145859179487313",
-   "end": 1788069362,
-   "title": "crab",
-   "items": 16,
-   "ended": true
-  },
-  "74RHHJ": {
-   "msg": "1543153459250069544",
-   "end": 1788072722,
-   "title": "I got a new computer case. I felt like sharing.",
-   "items": 1,
-   "ended": true
-  },
-  "NH3PM9": {
-   "msg": "1543160954014146661",
-   "end": 1788073981,
-   "title": "Completed God of War 3 100%",
-   "items": 1,
-   "ended": true
-  },
-  "OPNDWZ": {
-   "msg": "1543160960263528488",
-   "end": 1788073382,
-   "title": "Question #79",
-   "items": 1,
-   "ended": true
-  },
-  "R7R80N": {
-   "msg": "1543168556034826353",
-   "end": 1788076322,
-   "title": "winter",
-   "items": 50,
-   "ended": true
-  },
-  "JMYNH9": {
-   "msg": "1543168576482185237",
-   "end": 1788075721,
-   "title": "Hello",
-   "items": 23,
-   "ended": true
-  },
-  "B6B3AX": {
-   "msg": "1543168583461380136",
-   "end": 1788075601,
-   "title": "Introvert",
-   "items": 1,
-   "ended": true
-  },
-  "VJ0JQ0": {
-   "msg": "1543183658762903592",
-   "end": 1788079441,
-   "title": "What Beats Rock? #2",
-   "items": 4,
-   "ended": true
-  },
-  "4TCVSJ": {
-   "msg": "1543183665587298344",
-   "end": 1788078481,
-   "title": "RESERVE SHOOTER FOR PYROMAN",
-   "items": 1,
-   "ended": true
-  },
   "TNAIF8": {
    "msg": "1543206257689624687",
    "end": 1788085321,
@@ -567,13 +483,6 @@
    "items": 2,
    "ended": true
   },
-  "2C2Y17": {
-   "msg": "1543342154825605133",
-   "end": 1788074581,
-   "title": "Some piss belts from King Tonka",
-   "items": 50,
-   "ended": true
-  },
   "YJYVKB": {
    "msg": "1543342165961211945",
    "end": 1788116821,
@@ -606,13 +515,6 @@
    "msg": "1543349780179058748",
    "end": 1788119101,
    "title": "what cosmetics are you guys tryna get right now?",
-   "items": 1,
-   "ended": true
-  },
-  "TI3KCM": {
-   "msg": "1543357245147058337",
-   "end": 1788078361,
-   "title": "Good luck",
    "items": 1,
    "ended": true
   },
@@ -712,13 +614,6 @@
    "end": 1788137941,
    "title": "Daily Black Boxes #157",
    "items": 8,
-   "ended": true
-  },
-  "HH41C4": {
-   "msg": "1543425264669827123",
-   "end": 1788071401,
-   "title": "Funny :3",
-   "items": 6,
    "ended": true
   },
   "YW6XU8": {
@@ -7236,6 +7131,132 @@
    "end": 1788742800,
    "title": "Template",
    "items": 5,
+   "ended": false
+  },
+  "EEFJG7": {
+   "msg": null,
+   "end": 1788727981,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5DT7VO": {
+   "msg": null,
+   "end": 1788727802,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "VNKNH5": {
+   "msg": null,
+   "end": 1788727681,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FONQFX": {
+   "msg": null,
+   "end": 1788727501,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9IVJ5R": {
+   "msg": null,
+   "end": 1788727201,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CT1DTJ": {
+   "msg": null,
+   "end": 1788768781,
+   "title": "What is even HAPPENING",
+   "items": 4,
+   "ended": false
+  },
+  "FYL83N": {
+   "msg": null,
+   "end": 1788767221,
+   "title": "I am a winner, and you are not!",
+   "items": 1,
+   "ended": false
+  },
+  "KWAP67": {
+   "msg": null,
+   "end": 1788765061,
+   "title": "My first ever raffle",
+   "items": 1,
+   "ended": false
+  },
+  "CDSFV7": {
+   "msg": null,
+   "end": 1788765061,
+   "title": "Guess the song by badly translated lyrics #1",
+   "items": 1,
+   "ended": false
+  },
+  "GLMN5C": {
+   "msg": null,
+   "end": 1788763501,
+   "title": "I ruined the Team Fortress 2 timeline with bad translation. Part 3. Radigan Conagher",
+   "items": 1,
+   "ended": false
+  },
+  "7LGJXK": {
+   "msg": null,
+   "end": 1788760800,
+   "title": "Today is Sunday",
+   "items": 1,
+   "ended": false
+  },
+  "AB2H3H": {
+   "msg": null,
+   "end": 1788717600,
+   "title": "\ud83e\ude84",
+   "items": 1,
+   "ended": false
+  },
+  "V6KGSJ": {
+   "msg": null,
+   "end": 1788717600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "QJEH0U": {
+   "msg": null,
+   "end": 1788717600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2ZRCAZ": {
+   "msg": null,
+   "end": 1788717600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "F3XV3J": {
+   "msg": null,
+   "end": 1788759482,
+   "title": "Silly facts about me",
+   "items": 1,
+   "ended": false
+  },
+  "7J20OH": {
+   "msg": null,
+   "end": 1788759001,
+   "title": "Day 22 of asking for Slugma Chain emoticon",
+   "items": 3,
+   "ended": false
+  },
+  "Y3OSE5": {
+   "msg": null,
+   "end": 1788757681,
+   "title": "Untitled raffle",
+   "items": 1,
    "ended": false
   }
  },
