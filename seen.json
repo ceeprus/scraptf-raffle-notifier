@@ -154,83 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "TVXFXK": {
-   "msg": "1543304456857194660",
-   "end": 1788108782,
-   "title": "hey",
-   "items": 1,
-   "ended": true
-  },
-  "LTOX02": {
-   "msg": "1543304466864808077",
-   "end": 1788108541,
-   "title": "Team Graveyard: The Engineer",
-   "items": 1,
-   "ended": true
-  },
-  "BKMGZH": {
-   "msg": "1543304473655640215",
-   "end": 1788107941,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BZNG32": {
-   "msg": "1543311951717998794",
-   "end": 1788110161,
-   "title": "definitely lost smth",
-   "items": 5,
-   "ended": true
-  },
-  "6054CN": {
-   "msg": "1543311958898507847",
-   "end": 1788109261,
-   "title": "Asking for slugma chain emoticon day 14.2",
-   "items": 1,
-   "ended": true
-  },
-  "9MFCP8": {
-   "msg": "1543311966666358924",
-   "end": 1788109200,
-   "title": "Daily raffle until TF2 gets a major update #606",
-   "items": 3,
-   "ended": true
-  },
-  "Q93DIK": {
-   "msg": "1543319536046968834",
-   "end": 1788110641,
-   "title": "is there anywhere I can get free tf2 items?",
-   "items": 1,
-   "ended": true
-  },
-  "IF8DE5": {
-   "msg": "1543327062217990335",
-   "end": 1788113822,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "UXM9C1": {
-   "msg": "1543327068073234506",
-   "end": 1788113701,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "ZBNDG5": {
-   "msg": "1543327074494845111",
-   "end": 1788113581,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "S53CSI": {
-   "msg": "1543327082229137448",
-   "end": 1788112861,
-   "title": "I have entered 6969 raffles",
-   "items": 21,
-   "ended": true
-  },
   "N6ANBP": {
    "msg": "1543334638871642113",
    "end": 1788115802,
@@ -404,13 +327,6 @@
    "end": 1788149882,
    "title": "Item won from other raffle",
    "items": 1,
-   "ended": true
-  },
-  "E5BVG5": {
-   "msg": "1543478062497136750",
-   "end": 1788106022,
-   "title": "Untitled raffle",
-   "items": 20,
    "ended": true
   },
   "PSDEMR": {
@@ -7194,6 +7110,76 @@
    "end": 1788785942,
    "title": "I ruined the Team Fortress 2 timeline with bad translation. Part 4. Dell Conagher",
    "items": 1,
+   "ended": false
+  },
+  "DV4S62": {
+   "msg": null,
+   "end": 1788805201,
+   "title": "Daily raffle #368",
+   "items": 1,
+   "ended": false
+  },
+  "UGQY7C": {
+   "msg": null,
+   "end": 1788803641,
+   "title": "someone tried to scam me breh",
+   "items": 1,
+   "ended": false
+  },
+  "4EWZ5F": {
+   "msg": null,
+   "end": 1788800462,
+   "title": "Regeneration Eventual",
+   "items": 1,
+   "ended": false
+  },
+  "HDZ88I": {
+   "msg": null,
+   "end": 1788800400,
+   "title": "Daily raffle until TF2 gets a major update #614",
+   "items": 3,
+   "ended": false
+  },
+  "JXFFFC": {
+   "msg": null,
+   "end": 1788800341,
+   "title": "Answers have arrived!",
+   "items": 1,
+   "ended": false
+  },
+  "USO4BJ": {
+   "msg": null,
+   "end": 1788799921,
+   "title": "What Beats Rock? #10 (Not actually rock anymore)",
+   "items": 4,
+   "ended": false
+  },
+  "K567D5": {
+   "msg": null,
+   "end": 1788798361,
+   "title": "Graveyard Raffle (#20)",
+   "items": 11,
+   "ended": false
+  },
+  "1WMJ9Z": {
+   "msg": null,
+   "end": 1788797941,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "IKA3QN": {
+   "msg": null,
+   "end": 1788797221,
+   "title": "Who AM (funny) I to you?",
+   "items": 1,
+   "ended": false
+  },
+  "I46O3Y": {
+   "msg": null,
+   "end": 1788796800,
+   "title": "Scrap.tf Birthdays - 6 September",
+   "items": 5,
    "ended": false
   }
  },
