@@ -154,27 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "FRGQA3": {
-   "msg": "1543372354900594799",
-   "end": 1788124321,
-   "title": "Raffle",
-   "items": 1,
-   "ended": true
-  },
-  "BWB93D": {
-   "msg": "1543372361095450674",
-   "end": 1788123600,
-   "title": "checkup #104 | Something",
-   "items": 1,
-   "ended": true
-  },
-  "2MHVJL": {
-   "msg": "1543395025952579635",
-   "end": 1788129061,
-   "title": "Blackimus has dropped a new episode of The Scratched Universe!!",
-   "items": 10,
-   "ended": true
-  },
   "PM2RO2": {
    "msg": "1543402545458712577",
    "end": 1788131041,
@@ -390,27 +369,6 @@
    "end": 1788168782,
    "title": "100%",
    "items": 82,
-   "ended": true
-  },
-  "QKERDG": {
-   "msg": "1543568641432485908",
-   "end": 1788129000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "4FWIGY": {
-   "msg": "1543568650118766713",
-   "end": 1788129000,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "WUOIZP": {
-   "msg": "1543568660004606025",
-   "end": 1788129000,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "OQ6ZB1": {
@@ -7221,6 +7179,55 @@
    "msg": null,
    "end": 1788762600,
    "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "273X52": {
+   "msg": null,
+   "end": 1788819601,
+   "title": "drawmaxxing",
+   "items": 1,
+   "ended": false
+  },
+  "EFH21S": {
+   "msg": null,
+   "end": 1788819361,
+   "title": "Weekly Noisemaker Raffle #6... or well... Until I run out of noise makers",
+   "items": 1,
+   "ended": false
+  },
+  "LMMJP6": {
+   "msg": null,
+   "end": 1788818642,
+   "title": "Feeling better!",
+   "items": 1,
+   "ended": false
+  },
+  "AJ4D67": {
+   "msg": null,
+   "end": 1788817322,
+   "title": "This Raffle was fact checked by real Combine Patriots  \ud83c\udf0a \ud83d\udc1f",
+   "items": 3,
+   "ended": false
+  },
+  "KE44TS": {
+   "msg": null,
+   "end": 1788814801,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "YNIMQ9": {
+   "msg": null,
+   "end": 1788814800,
+   "title": "checkup #112 | You know what this team needs? 1 more sniper.",
+   "items": 3,
+   "ended": false
+  },
+  "I5QURW": {
+   "msg": null,
+   "end": 1788748801,
+   "title": "meow",
    "items": 1,
    "ended": false
   }
