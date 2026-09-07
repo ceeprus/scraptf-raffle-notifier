@@ -154,27 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "PM2RO2": {
-   "msg": "1543402545458712577",
-   "end": 1788131041,
-   "title": "yapping about mvm drops",
-   "items": 8,
-   "ended": true
-  },
-  "0I1IYO": {
-   "msg": "1543402551863676959",
-   "end": 1788130800,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "SF4TPI": {
-   "msg": "1543417644492001345",
-   "end": 1788134461,
-   "title": "yeah",
-   "items": 32,
-   "ended": true
-  },
   "HQERZ9": {
    "msg": "1543425234990792776",
    "end": 1788138002,
@@ -7230,11 +7209,74 @@
    "title": "meow",
    "items": 1,
    "ended": false
+  },
+  "7P3FN6": {
+   "msg": null,
+   "end": 1788826502,
+   "title": "Who plays deltarune?",
+   "items": 6,
+   "ended": false
+  },
+  "YXG3WW": {
+   "msg": null,
+   "end": 1788826261,
+   "title": "Something interesting!",
+   "items": 1,
+   "ended": false
+  },
+  "95SLG5": {
+   "msg": null,
+   "end": 1788826201,
+   "title": "errrr hey guys",
+   "items": 2,
+   "ended": false
+  },
+  "CGFTDM": {
+   "msg": null,
+   "end": 1788826021,
+   "title": "i want broken spawn's money",
+   "items": 1,
+   "ended": false
+  },
+  "JKTLP0": {
+   "msg": null,
+   "end": 1788823621,
+   "title": "alright listen.",
+   "items": 1,
+   "ended": false
+  },
+  "T2ISLU": {
+   "msg": null,
+   "end": 1788823501,
+   "title": "#freeSoyBing",
+   "items": 1,
+   "ended": false
+  },
+  "PLMZQV": {
+   "msg": null,
+   "end": 1788822000,
+   "title": "A  a day",
+   "items": 1,
+   "ended": false
+  },
+  "UGJ2K7": {
+   "msg": null,
+   "end": 1788821642,
+   "title": "I ask YOU stuff.",
+   "items": 1,
+   "ended": false
+  },
+  "GYCNDU": {
+   "msg": null,
+   "end": 1788777361,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
   }
  },
  "megaraffle": {
-  "num": 1172,
-  "end": 1788739200,
+  "num": 1173,
+  "end": 1788998400,
   "msg": null,
   "ended": false
  }
