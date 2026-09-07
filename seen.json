@@ -154,132 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "QW0UYR": {
-   "msg": "1543666821381619743",
-   "end": 1788194942,
-   "title": "Let's all write a song",
-   "items": 2,
-   "ended": true
-  },
-  "8SWPD8": {
-   "msg": "1543666832903241828",
-   "end": 1788194281,
-   "title": "First september...",
-   "items": 3,
-   "ended": true
-  },
-  "81CEK9": {
-   "msg": "1543666840532815973",
-   "end": 1788193922,
-   "title": "Adriatic's scrap therapy 25",
-   "items": 4,
-   "ended": true
-  },
-  "H5SC0P": {
-   "msg": "1543666853207875714",
-   "end": 1788193441,
-   "title": "Wishing everyone a good mood    :D",
-   "items": 7,
-   "ended": true
-  },
-  "0E27N9": {
-   "msg": "1543681926383009894",
-   "end": 1788198181,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "FJ2WI2": {
-   "msg": "1543681933915988148",
-   "end": 1788198062,
-   "title": "Daily raffle until TF2 gets a major update #607",
-   "items": 3,
-   "ended": true
-  },
-  "ANKV1V": {
-   "msg": "1543681942547988696",
-   "end": 1788197941,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "4NZSW6": {
-   "msg": "1543681949510533260",
-   "end": 1788197821,
-   "title": "All steam 2000-2013 games got leaked",
-   "items": 3,
-   "ended": true
-  },
-  "6EVCMD": {
-   "msg": "1543689424662167613",
-   "end": 1788199141,
-   "title": "Story Time #1",
-   "items": 1,
-   "ended": true
-  },
-  "V8S4BP": {
-   "msg": "1543697027160871084",
-   "end": 1788202800,
-   "title": "#35 Weekly dose of Polish songs",
-   "items": 1,
-   "ended": true
-  },
-  "RMAX93": {
-   "msg": "1543697034463416370",
-   "end": 1788201722,
-   "title": "I like slugma",
-   "items": 1,
-   "ended": true
-  },
-  "LO5E1I": {
-   "msg": "1543697042377932991",
-   "end": 1788201601,
-   "title": "Portal 2 freaky ahh leak CCTV Footage",
-   "items": 1,
-   "ended": true
-  },
-  "GOZRVP": {
-   "msg": "1543697050674135240",
-   "end": 1788201422,
-   "title": "IM TIRED OF MVM",
-   "items": 4,
-   "ended": true
-  },
-  "IQBWDU": {
-   "msg": "1543697057645338829",
-   "end": 1788201121,
-   "title": "Very nice",
-   "items": 1,
-   "ended": true
-  },
-  "CJF162": {
-   "msg": "1543704549431447715",
-   "end": 1788203700,
-   "title": "Snowfall Soundtrack #31",
-   "items": 2,
-   "ended": true
-  },
-  "DP1PXW": {
-   "msg": "1543704563050352713",
-   "end": 1788203521,
-   "title": "just some random stuff",
-   "items": 6,
-   "ended": true
-  },
-  "8941H2": {
-   "msg": "1543712124906373182",
-   "end": 1788205321,
-   "title": "Hello",
-   "items": 4,
-   "ended": true
-  },
-  "11ZJNC": {
-   "msg": "1543712132221370478",
-   "end": 1788204242,
-   "title": "Do you want to know something?",
-   "items": 2,
-   "ended": true
-  },
   "HSOKKV": {
    "msg": "1543727227659755623",
    "end": 1788209101,
@@ -591,41 +465,6 @@
   "FO0BWX": {
    "msg": "1543885762867630131",
    "end": 1788246182,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "YTFULC": {
-   "msg": "1543893318251978837",
-   "end": 1788206402,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "MP0HPO": {
-   "msg": "1543893324635574333",
-   "end": 1788206281,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "FPBL3O": {
-   "msg": "1543893332382720030",
-   "end": 1788206161,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "7YPQMK": {
-   "msg": "1543893340787838976",
-   "end": 1788206041,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "GITP37": {
-   "msg": "1543893349122056316",
-   "end": 1788205861,
    "title": "Untitled raffle",
    "items": 1,
    "ended": true
@@ -956,13 +795,6 @@
    "msg": "1543976375625453641",
    "end": 1788267600,
    "title": "You can't catch Mawile",
-   "items": 1,
-   "ended": true
-  },
-  "ZOQ6IQ": {
-   "msg": "1543983939801190581",
-   "end": 1788199021,
-   "title": "hi again",
    "items": 1,
    "ended": true
   },
@@ -7494,6 +7326,279 @@
    "msg": null,
    "end": 1788870302,
    "title": "makernoiser",
+   "items": 1,
+   "ended": false
+  },
+  "9WIMNO": {
+   "msg": null,
+   "end": 1788896762,
+   "title": "Are we gonna make it?",
+   "items": 1,
+   "ended": false
+  },
+  "RHUCWE": {
+   "msg": null,
+   "end": 1788896641,
+   "title": "Noisemaker disposal",
+   "items": 1,
+   "ended": false
+  },
+  "L5UP08": {
+   "msg": null,
+   "end": 1788896581,
+   "title": "Noisemaker disposal",
+   "items": 1,
+   "ended": false
+  },
+  "4747D7": {
+   "msg": null,
+   "end": 1788896522,
+   "title": "Noisemaker disposal",
+   "items": 1,
+   "ended": false
+  },
+  "Z8T3SP": {
+   "msg": null,
+   "end": 1788896341,
+   "title": "Noisemaker disposal",
+   "items": 1,
+   "ended": false
+  },
+  "X7MWHB": {
+   "msg": null,
+   "end": 1788895322,
+   "title": "1 million raffle",
+   "items": 1,
+   "ended": false
+  },
+  "2EW3J1": {
+   "msg": null,
+   "end": 1788895261,
+   "title": "#1.000.000 raffle?",
+   "items": 1,
+   "ended": false
+  },
+  "Z8K26M": {
+   "msg": null,
+   "end": 1788894977,
+   "title": "we've reached 1 million raffles!",
+   "items": 1,
+   "ended": false
+  },
+  "MPKQ65": {
+   "msg": null,
+   "end": 1788894841,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HRZ2CD": {
+   "msg": null,
+   "end": 1788894601,
+   "title": "I'm using this raffle to ask questions.",
+   "items": 1,
+   "ended": false
+  },
+  "MGGAOJ": {
+   "msg": null,
+   "end": 1788850921,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "U2WLRD": {
+   "msg": null,
+   "end": 1788893761,
+   "title": "who needs noisemakers when we have warpaints",
+   "items": 1,
+   "ended": false
+  },
+  "GGF7ZD": {
+   "msg": null,
+   "end": 1788849661,
+   "title": "Unclaimed Items",
+   "items": 4,
+   "ended": false
+  },
+  "LQ00X5": {
+   "msg": null,
+   "end": 1788891721,
+   "title": "So, how goes trading? #16",
+   "items": 1,
+   "ended": false
+  },
+  "SI3ZKW": {
+   "msg": null,
+   "end": 1788891301,
+   "title": "Daily raffle #369",
+   "items": 1,
+   "ended": false
+  },
+  "ADUR5I": {
+   "msg": null,
+   "end": 1788890461,
+   "title": "Noise Maker",
+   "items": 1,
+   "ended": false
+  },
+  "XGKBDF": {
+   "msg": null,
+   "end": 1788890101,
+   "title": "bring bak rafflul win percentage!!1",
+   "items": 1,
+   "ended": false
+  },
+  "3O61SE": {
+   "msg": null,
+   "end": 1788889802,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "ZZDZ99": {
+   "msg": null,
+   "end": 1788888421,
+   "title": "Gangster Music",
+   "items": 1,
+   "ended": false
+  },
+  "8LF300": {
+   "msg": null,
+   "end": 1788888301,
+   "title": "What Beats Rock? #11 (Not actually rock anymore)",
+   "items": 4,
+   "ended": false
+  },
+  "3Z8PHK": {
+   "msg": null,
+   "end": 1788888181,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "GAVXH7": {
+   "msg": null,
+   "end": 1788888061,
+   "title": "Daily Brass Beast #558",
+   "items": 1,
+   "ended": false
+  },
+  "HGO76W": {
+   "msg": null,
+   "end": 1788888001,
+   "title": "Lion/Pootis Alliance",
+   "items": 1,
+   "ended": false
+  },
+  "GB0F3R": {
+   "msg": null,
+   "end": 1788887942,
+   "title": "Lion/Pootis Alliance",
+   "items": 1,
+   "ended": false
+  },
+  "QHFTPB": {
+   "msg": null,
+   "end": 1788887762,
+   "title": "Lion/Pootis Alliance",
+   "items": 1,
+   "ended": false
+  },
+  "O1QF8K": {
+   "msg": null,
+   "end": 1788887581,
+   "title": "Lion/Pootis Alliance",
+   "items": 1,
+   "ended": false
+  },
+  "M2OFHZ": {
+   "msg": null,
+   "end": 1788887401,
+   "title": "More fabs",
+   "items": 4,
+   "ended": false
+  },
+  "M4HIBJ": {
+   "msg": null,
+   "end": 1788886861,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "BSFA8L": {
+   "msg": null,
+   "end": 1788886800,
+   "title": "Daily raffle until TF2 gets a major update #615",
+   "items": 3,
+   "ended": false
+  },
+  "TLQM83": {
+   "msg": null,
+   "end": 1788886682,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "AKQO56": {
+   "msg": null,
+   "end": 1788886561,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LXDGXH": {
+   "msg": null,
+   "end": 1788821402,
+   "title": "im only seeing noisemaker nowadays",
+   "items": 1,
+   "ended": false
+  },
+  "UT9Z2A": {
+   "msg": null,
+   "end": 1788884402,
+   "title": "Bring the Noise!",
+   "items": 1,
+   "ended": false
+  },
+  "VDKYJZ": {
+   "msg": null,
+   "end": 1788884281,
+   "title": "This music is really good",
+   "items": 2,
+   "ended": false
+  },
+  "YB0PUI": {
+   "msg": null,
+   "end": 1788884222,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "QCEDZB": {
+   "msg": null,
+   "end": 1788883921,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HDNUMH": {
+   "msg": null,
+   "end": 1788883862,
+   "title": "Fish",
+   "items": 2,
+   "ended": false
+  },
+  "QC3HVV": {
+   "msg": null,
+   "end": 1788883802,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FYD15W": {
+   "msg": null,
+   "end": 1788840541,
+   "title": "My first raffle",
    "items": 1,
    "ended": false
   }
