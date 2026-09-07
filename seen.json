@@ -154,111 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "R8E35E": {
-   "msg": "1543500730625695907",
-   "end": 1788154141,
-   "title": "Cone Hat Cone Hat",
-   "items": 1,
-   "ended": true
-  },
-  "Q9ME3Z": {
-   "msg": "1543508238673117207",
-   "end": 1788156661,
-   "title": "ooo yeah the macho man yeah the ma-cho maN yEAH.",
-   "items": 2,
-   "ended": true
-  },
-  "BTH33R": {
-   "msg": "1543515838521409536",
-   "end": 1788159421,
-   "title": "Hii :3 This is my 14th raffle, wow!!",
-   "items": 5,
-   "ended": true
-  },
-  "HM5HMY": {
-   "msg": "1543523332564193312",
-   "end": 1788161342,
-   "title": "Question #81",
-   "items": 1,
-   "ended": true
-  },
-  "K5Z6QZ": {
-   "msg": "1543523338801123401",
-   "end": 1788161162,
-   "title": "Question #80",
-   "items": 1,
-   "ended": true
-  },
-  "SIOXJA": {
-   "msg": "1543523345667203173",
-   "end": 1788159600,
-   "title": "can you comment random things in my steam profile? #78",
-   "items": 3,
-   "ended": true
-  },
-  "7JS2XV": {
-   "msg": "1543541749144883230",
-   "end": 1788165782,
-   "title": "music time ! !",
-   "items": 2,
-   "ended": true
-  },
-  "MO0KYZ": {
-   "msg": "1543541756799352936",
-   "end": 1788165121,
-   "title": "MO0KYZ",
-   "items": 1,
-   "ended": true
-  },
-  "NZ9UK4": {
-   "msg": "1543546027410329712",
-   "end": 1788165902,
-   "title": "NZ9UK4",
-   "items": 1,
-   "ended": true
-  },
-  "6CQ7TB": {
-   "msg": "1543553540352380968",
-   "end": 1788168002,
-   "title": "Today is Starchion's Birthday",
-   "items": 1,
-   "ended": true
-  },
-  "P9O2TI": {
-   "msg": "1543553551375142932",
-   "end": 1788166681,
-   "title": "Window Maker?",
-   "items": 2,
-   "ended": true
-  },
-  "BHIYHF": {
-   "msg": "1543561132583952395",
-   "end": 1788169441,
-   "title": "Random Street View of the day #6",
-   "items": 1,
-   "ended": true
-  },
-  "YB2AB2": {
-   "msg": "1543561142784368720",
-   "end": 1788168782,
-   "title": "100%",
-   "items": 82,
-   "ended": true
-  },
-  "OQ6ZB1": {
-   "msg": "1543568676215857272",
-   "end": 1788171002,
-   "title": "Grabli304's raffle\u2503Day 182",
-   "items": 2,
-   "ended": true
-  },
-  "XTENDW": {
-   "msg": "1543568683052437527",
-   "end": 1788170461,
-   "title": "What Beats Rock? #3 (Not actually rock anymore)",
-   "items": 4,
-   "ended": true
-  },
   "VO94EB": {
    "msg": "1543576214856536074",
    "end": 1788173162,
@@ -614,13 +509,6 @@
    "end": 1788204242,
    "title": "Do you want to know something?",
    "items": 2,
-   "ended": true
-  },
-  "UB1W1W": {
-   "msg": "1543719641174511666",
-   "end": 1788164221,
-   "title": "Just another Killstreak Raffle",
-   "items": 13,
    "ended": true
   },
   "HSOKKV": {
@@ -7264,6 +7152,216 @@
    "end": 1788829200,
    "title": "Reminder to eat n' drink water if ye haven't yet #284",
    "items": 5,
+   "ended": false
+  },
+  "PLDWIZ": {
+   "msg": null,
+   "end": 1788863642,
+   "title": "Scrap.tf moment #2",
+   "items": 5,
+   "ended": false
+  },
+  "YZYXYM": {
+   "msg": null,
+   "end": 1788863522,
+   "title": "Special Delivery",
+   "items": 20,
+   "ended": false
+  },
+  "ON21LX": {
+   "msg": null,
+   "end": 1788862141,
+   "title": "Grabli304's raffle\u2503Day 190",
+   "items": 2,
+   "ended": false
+  },
+  "9OERAK": {
+   "msg": null,
+   "end": 1788861961,
+   "title": "\u0443 \u043c\u0435\u043d\u044f \u0442\u0432\u043e\u0439 \u043d\u043e\u0441\u0438\u043a  \ud83c\udf0a \ud83d\udc1f",
+   "items": 2,
+   "ended": false
+  },
+  "53P8T0": {
+   "msg": null,
+   "end": 1788861902,
+   "title": "Lactose intolerance is a love hate relationship",
+   "items": 15,
+   "ended": false
+  },
+  "RNBMPW": {
+   "msg": null,
+   "end": 1788861181,
+   "title": "Uncrafted Hat for You",
+   "items": 3,
+   "ended": false
+  },
+  "5NM8DW": {
+   "msg": null,
+   "end": 1788813961,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Z5SYWB": {
+   "msg": null,
+   "end": 1788857101,
+   "title": "Hi guys",
+   "items": 1,
+   "ended": false
+  },
+  "WWOFAT": {
+   "msg": null,
+   "end": 1788813721,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FCYKEK": {
+   "msg": null,
+   "end": 1788813602,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "NYOKR7": {
+   "msg": null,
+   "end": 1788813482,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "9135EM": {
+   "msg": null,
+   "end": 1788813302,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KSERGO": {
+   "msg": null,
+   "end": 1788856441,
+   "title": "Scrap.tf moment #1",
+   "items": 5,
+   "ended": false
+  },
+  "Y047OE": {
+   "msg": null,
+   "end": 1788855122,
+   "title": "What's the best case to invest in at the moment?",
+   "items": 1,
+   "ended": false
+  },
+  "V4PSM0": {
+   "msg": null,
+   "end": 1788853621,
+   "title": "I can't deposit tips...",
+   "items": 1,
+   "ended": false
+  },
+  "M03KCB": {
+   "msg": null,
+   "end": 1788853561,
+   "title": "The global lie",
+   "items": 3,
+   "ended": false
+  },
+  "2F166R": {
+   "msg": null,
+   "end": 1788853442,
+   "title": "what's your favorite thing to do?",
+   "items": 4,
+   "ended": false
+  },
+  "9EFZTC": {
+   "msg": null,
+   "end": 1788851942,
+   "title": "I ruined the Team Fortress 2 timeline with bad translation. Part 5. Gravel War",
+   "items": 1,
+   "ended": false
+  },
+  "O66AKY": {
+   "msg": null,
+   "end": 1788851822,
+   "title": "\ud83c\udd92 \ud83e\udd81",
+   "items": 1,
+   "ended": false
+  },
+  "PXM2J9": {
+   "msg": null,
+   "end": 1788851341,
+   "title": "Cool The Lion \ud83c\udf2c\ufe0f\ud83e\udd81",
+   "items": 1,
+   "ended": false
+  },
+  "HC2PAK": {
+   "msg": null,
+   "end": 1788851102,
+   "title": "\ud83e\uddca \u27a1\ufe0f \ud83e\udd81 \u27a1\ufe0f",
+   "items": 1,
+   "ended": false
+  },
+  "B1PI3X": {
+   "msg": null,
+   "end": 1788807600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "R9FE3T": {
+   "msg": null,
+   "end": 1788807600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "5WL64T": {
+   "msg": null,
+   "end": 1788807600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "H896VR": {
+   "msg": null,
+   "end": 1788807600,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Y9PQXS": {
+   "msg": null,
+   "end": 1788848581,
+   "title": "Day 23 of asking for Slugma Chain emoticon",
+   "items": 5,
+   "ended": false
+  },
+  "KRPTDS": {
+   "msg": null,
+   "end": 1788847621,
+   "title": "Birthday raffle.",
+   "items": 1,
+   "ended": false
+  },
+  "PJCOUW": {
+   "msg": null,
+   "end": 1788847200,
+   "title": "Today is Monday",
+   "items": 1,
+   "ended": false
+  },
+  "RT4QDE": {
+   "msg": null,
+   "end": 1788845762,
+   "title": "MvM Update Australium Vote Part 24: Sniper Melees",
+   "items": 3,
+   "ended": false
+  },
+  "7IM34R": {
+   "msg": null,
+   "end": 1788845522,
+   "title": "MvM Update Australium Vote Part 23: Sniper Secondaries",
+   "items": 3,
    "ended": false
   }
  },
