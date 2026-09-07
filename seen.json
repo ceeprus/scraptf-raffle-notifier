@@ -154,76 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "HSOKKV": {
-   "msg": "1543727227659755623",
-   "end": 1788209101,
-   "title": "Use more gun",
-   "items": 1,
-   "ended": true
-  },
-  "B0K1OP": {
-   "msg": "1543727234785747024",
-   "end": 1788208141,
-   "title": "Marvelous Sunday",
-   "items": 1,
-   "ended": true
-  },
-  "QW4HRZ": {
-   "msg": "1543731519971921920",
-   "end": 1788210302,
-   "title": "100 hours in TF2 raffle! \u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b And some info too",
-   "items": 9,
-   "ended": true
-  },
-  "13D1X6": {
-   "msg": "1543734735438741655",
-   "end": 1788211141,
-   "title": "Your weekly non-official Scrap.tf news. [Week 236]",
-   "items": 4,
-   "ended": true
-  },
-  "PKC6WH": {
-   "msg": "1543742332946354327",
-   "end": 1788213602,
-   "title": "1 2 3",
-   "items": 50,
-   "ended": true
-  },
-  "B5LPAU": {
-   "msg": "1543742341431427143",
-   "end": 1788213600,
-   "title": "checkup #105 | Something 2: The sequel",
-   "items": 1,
-   "ended": true
-  },
-  "0AGP61": {
-   "msg": "1543742355608309770",
-   "end": 1788213122,
-   "title": "Being alive is grinding me down",
-   "items": 11,
-   "ended": true
-  },
-  "OQPL24": {
-   "msg": "1543742377984790728",
-   "end": 1788212701,
-   "title": "Feeling life too simple",
-   "items": 10,
-   "ended": true
-  },
-  "YT0Z4Q": {
-   "msg": "1543757436366880889",
-   "end": 1788215581,
-   "title": ". . .",
-   "items": 3,
-   "ended": true
-  },
-  "16ECCN": {
-   "msg": "1543757445682302987",
-   "end": 1788215400,
-   "title": "473 tips given during  Season 2026!",
-   "items": 1,
-   "ended": true
-  },
   "3XQSBU": {
    "msg": "1543764922012536923",
    "end": 1788218521,
@@ -565,13 +495,6 @@
    "end": 1788255001,
    "title": "3SMSNG",
    "items": 1,
-   "ended": true
-  },
-  "USOUKP": {
-   "msg": "1543923565760483339",
-   "end": 1788211801,
-   "title": "my first raffle",
-   "items": 17,
    "ended": true
   },
   "JHNSRD": {
@@ -7600,6 +7523,139 @@
    "end": 1788840541,
    "title": "My first raffle",
    "items": 1,
+   "ended": false
+  },
+  "W04GF5": {
+   "msg": null,
+   "end": 1788864781,
+   "title": "Should I change my pfp?",
+   "items": 2,
+   "ended": false
+  },
+  "96ZDIF": {
+   "msg": null,
+   "end": 1788907622,
+   "title": "My situation",
+   "items": 1,
+   "ended": false
+  },
+  "ZX5F4V": {
+   "msg": null,
+   "end": 1788842401,
+   "title": "Raffle",
+   "items": 1,
+   "ended": false
+  },
+  "G4SV0P": {
+   "msg": null,
+   "end": 1788906301,
+   "title": "new pfp  \ud83c\udf0a \ud83d\udc1f",
+   "items": 1,
+   "ended": false
+  },
+  "UAVAQ0": {
+   "msg": null,
+   "end": 1788906121,
+   "title": "It'll be OK, Chuddy",
+   "items": 5,
+   "ended": false
+  },
+  "0IPA8J": {
+   "msg": null,
+   "end": 1788903301,
+   "title": "celebrate with piss!",
+   "items": 13,
+   "ended": false
+  },
+  "PNKDCH": {
+   "msg": null,
+   "end": 1788838501,
+   "title": "Untitled raffle",
+   "items": 2,
+   "ended": false
+  },
+  "8XJM0V": {
+   "msg": null,
+   "end": 1788902581,
+   "title": "The results are in  (part 2/3)",
+   "items": 4,
+   "ended": false
+  },
+  "44R6EK": {
+   "msg": null,
+   "end": 1788901200,
+   "title": "checkup #113 |  Pausing Contract progress",
+   "items": 1,
+   "ended": false
+  },
+  "7RTFOJ": {
+   "msg": null,
+   "end": 1788900602,
+   "title": "Graveyard Raffle (#21)",
+   "items": 15,
+   "ended": false
+  },
+  "4JQXCO": {
+   "msg": null,
+   "end": 1788900242,
+   "title": "1,000,019th raffle?",
+   "items": 1,
+   "ended": false
+  },
+  "QLQ0H4": {
+   "msg": null,
+   "end": 1788899581,
+   "title": "AAAGHHH HELP MEE",
+   "items": 1,
+   "ended": false
+  },
+  "SQP81I": {
+   "msg": null,
+   "end": 1788899101,
+   "title": "Free stuff",
+   "items": 2,
+   "ended": false
+  },
+  "BQW6NU": {
+   "msg": null,
+   "end": 1788898981,
+   "title": "1,000,012 Raffles",
+   "items": 3,
+   "ended": false
+  },
+  "E5HZIK": {
+   "msg": null,
+   "end": 1788898802,
+   "title": "what the hell is gurt",
+   "items": 1,
+   "ended": false
+  },
+  "TTVNL1": {
+   "msg": null,
+   "end": 1788898681,
+   "title": "1,000,010 Raffles",
+   "items": 3,
+   "ended": false
+  },
+  "AKNSM9": {
+   "msg": null,
+   "end": 1788898561,
+   "title": "1,000,010 Raffles",
+   "items": 3,
+   "ended": false
+  },
+  "CM3YO6": {
+   "msg": null,
+   "end": 1788898441,
+   "title": "1,000,010 Raffles",
+   "items": 3,
+   "ended": false
+  },
+  "AH4018": {
+   "msg": null,
+   "end": 1788898321,
+   "title": "Dion's Soup Kitchen with no Soup #1",
+   "items": 3,
    "ended": false
   }
  },
