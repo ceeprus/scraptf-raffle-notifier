@@ -154,125 +154,6 @@
    "items": 18,
    "ended": false
   },
-  "WJ8O3I": {
-   "msg": "1543878245374759022",
-   "end": 1788245461,
-   "title": "SWITCHING UP ON ALL MY DAY ONES",
-   "items": 5,
-   "ended": true
-  },
-  "1139SB": {
-   "msg": "1543885755225481240",
-   "end": 1788247261,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "FO0BWX": {
-   "msg": "1543885762867630131",
-   "end": 1788246182,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "EO1ARU": {
-   "msg": "1543893357925765131",
-   "end": 1788248881,
-   "title": "Untitled raffle",
-   "items": 2,
-   "ended": true
-  },
-  "AUIWJT": {
-   "msg": "1543893364175274065",
-   "end": 1788248462,
-   "title": "Hello! Have a great day!",
-   "items": 3,
-   "ended": true
-  },
-  "9TOR5C": {
-   "msg": "1543900831185903646",
-   "end": 1788250441,
-   "title": "A ordinary raffle",
-   "items": 1,
-   "ended": true
-  },
-  "OYDWO3": {
-   "msg": "1543908430018773050",
-   "end": 1788252061,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "A5448A": {
-   "msg": "1543908437858197565",
-   "end": 1788251881,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "YGLOGP": {
-   "msg": "1543908444984053781",
-   "end": 1788251642,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "1R9TC8": {
-   "msg": "1543908451481030767",
-   "end": 1788251642,
-   "title": "DINOVU?",
-   "items": 1,
-   "ended": true
-  },
-  "V584Z0": {
-   "msg": "1543908462226841641",
-   "end": 1788251282,
-   "title": "free botkillers to a good home",
-   "items": 33,
-   "ended": true
-  },
-  "XQ22AE": {
-   "msg": "1543909723961827408",
-   "end": 1788253321,
-   "title": "Random Street View of the day #7",
-   "items": 1,
-   "ended": true
-  },
-  "5EH8CN": {
-   "msg": "1543909733721710663",
-   "end": 1788252901,
-   "title": "Special Delivery",
-   "items": 20,
-   "ended": true
-  },
-  "6PCJH1": {
-   "msg": "1543915938326384800",
-   "end": 1788253981,
-   "title": "i did something very good",
-   "items": 3,
-   "ended": true
-  },
-  "J1ZBBI": {
-   "msg": "1543915947432222781",
-   "end": 1788253861,
-   "title": "(Another) Special Delivery!",
-   "items": 10,
-   "ended": true
-  },
-  "84FGPS": {
-   "msg": "1543923546986905660",
-   "end": 1788256261,
-   "title": "Giving noise back",
-   "items": 1,
-   "ended": true
-  },
-  "3SMSNG": {
-   "msg": "1543923554729328670",
-   "end": 1788255001,
-   "title": "3SMSNG",
-   "items": 1,
-   "ended": true
-  },
   "JHNSRD": {
    "msg": "1543931058104434798",
    "end": 1788258482,
@@ -7621,6 +7502,153 @@
    "end": 1788915600,
    "title": "Reminder to eat n' drink water if ye haven't yet #285",
    "items": 5,
+   "ended": false
+  },
+  "9R6752": {
+   "msg": null,
+   "end": 1788902522,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "LEMB0B": {
+   "msg": null,
+   "end": 1788944401,
+   "title": "Raffle #5",
+   "items": 1,
+   "ended": false
+  },
+  "PMDAL0": {
+   "msg": null,
+   "end": 1788942362,
+   "title": "I ruined the Team Fortress 2 timeline with bad translation. Part 6. Gray Mann",
+   "items": 1,
+   "ended": false
+  },
+  "MRET9Z": {
+   "msg": null,
+   "end": 1788875341,
+   "title": "like my video",
+   "items": 4,
+   "ended": false
+  },
+  "567XSI": {
+   "msg": null,
+   "end": 1788939602,
+   "title": "raffle",
+   "items": 4,
+   "ended": false
+  },
+  "4SXJVH": {
+   "msg": null,
+   "end": 1788939600,
+   "title": "i hate everyone",
+   "items": 1,
+   "ended": false
+  },
+  "B6OSJ8": {
+   "msg": null,
+   "end": 1788939600,
+   "title": "i love everyone",
+   "items": 1,
+   "ended": false
+  },
+  "CZE6BA": {
+   "msg": null,
+   "end": 1788938881,
+   "title": "What is slugma?????",
+   "items": 1,
+   "ended": false
+  },
+  "P223S4": {
+   "msg": null,
+   "end": 1788937801,
+   "title": "FIRST RAFFLE,!!",
+   "items": 2,
+   "ended": false
+  },
+  "ZZQKTD": {
+   "msg": null,
+   "end": 1788892682,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "3MAI7W": {
+   "msg": null,
+   "end": 1788892562,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "JKYJRL": {
+   "msg": null,
+   "end": 1788892381,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "KBWOKP": {
+   "msg": null,
+   "end": 1788892141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "HICT38": {
+   "msg": null,
+   "end": 1788892021,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "N6FUJ9": {
+   "msg": null,
+   "end": 1788934862,
+   "title": "Day 24 of asking for Slugma Chain emoticon",
+   "items": 1,
+   "ended": false
+  },
+  "4HSVVY": {
+   "msg": null,
+   "end": 1788934141,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "FDOSZ6": {
+   "msg": null,
+   "end": 1788933961,
+   "title": "Untitled raffle",
+   "items": 1,
+   "ended": false
+  },
+  "Q5L1WA": {
+   "msg": null,
+   "end": 1788933600,
+   "title": "Today is Tuesday",
+   "items": 1,
+   "ended": false
+  },
+  "7YH5U3": {
+   "msg": null,
+   "end": 1788933600,
+   "title": "Birthday",
+   "items": 7,
+   "ended": false
+  },
+  "9854WD": {
+   "msg": null,
+   "end": 1788931861,
+   "title": "POLL TIME (3 of 6)",
+   "items": 6,
+   "ended": false
+  },
+  "5XEMYL": {
+   "msg": null,
+   "end": 1788931801,
+   "title": "\ud83c\udf0a\ud83d\udc1f Getting Down To It #136 \ud83c\udf0a\ud83d\udc1f",
+   "items": 6,
    "ended": false
   }
  },
