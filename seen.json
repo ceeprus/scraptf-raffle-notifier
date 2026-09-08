@@ -154,81 +154,11 @@
    "items": 18,
    "ended": false
   },
-  "3XQSBU": {
-   "msg": "1543764922012536923",
-   "end": 1788218521,
-   "title": "IT IS HATSUNE MIKU'S BIRTHDAY",
-   "items": 2,
-   "ended": true
-  },
-  "PFCR3W": {
-   "msg": "1543764930237571183",
-   "end": 1788217918,
-   "title": "#SlugmaArea51",
-   "items": 1,
-   "ended": true
-  },
-  "UHZV9Z": {
-   "msg": "1543764939343401052",
-   "end": 1788217200,
-   "title": "A  a day",
-   "items": 1,
-   "ended": true
-  },
-  "WC8DHQ": {
-   "msg": "1543764945731068065",
-   "end": 1788216961,
-   "title": "qwg",
-   "items": 3,
-   "ended": true
-  },
-  "8IDXC7": {
-   "msg": "1543772541573791764",
-   "end": 1788220081,
-   "title": "Hard times (Sensitive Topics)",
-   "items": 1,
-   "ended": true
-  },
-  "RQAT0R": {
-   "msg": "1543772550142627851",
-   "end": 1788219721,
-   "title": "Asking for slugma chain emoticon day 14.3",
-   "items": 1,
-   "ended": true
-  },
-  "P5XWSX": {
-   "msg": "1543780019946659881",
-   "end": 1788221162,
-   "title": "Well theres candles on the menu when im click on things so ig happy bday??",
-   "items": 4,
-   "ended": true
-  },
-  "YQWNRX": {
-   "msg": "1543780051009667212",
-   "end": 1788220681,
-   "title": "I messed up ;((",
-   "items": 10,
-   "ended": true
-  },
   "PQODJ6": {
    "msg": "1543787651222470677",
    "end": 1788224400,
    "title": "Reminder to eat n' drink water if ye haven't yet #279",
    "items": 5,
-   "ended": true
-  },
-  "HS6EJJ": {
-   "msg": "1543787660357799946",
-   "end": 1788223321,
-   "title": "Daily Black Boxes #158",
-   "items": 9,
-   "ended": true
-  },
-  "IBPVF9": {
-   "msg": "1543787668335235095",
-   "end": 1788223201,
-   "title": "Daily Hat #83",
-   "items": 1,
    "ended": true
   },
   "ZB2I6N": {
@@ -663,27 +593,6 @@
    "end": 1788266041,
    "title": "raffle",
    "items": 3,
-   "ended": true
-  },
-  "IQ7F0P": {
-   "msg": "1543968844857741477",
-   "end": 1788222600,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "01BSZ2": {
-   "msg": "1543968852973453413",
-   "end": 1788222600,
-   "title": "Untitled raffle",
-   "items": 1,
-   "ended": true
-  },
-  "NV4T94": {
-   "msg": "1543968862180085820",
-   "end": 1788222600,
-   "title": "Untitled raffle",
-   "items": 1,
    "ended": true
   },
   "9WTCD7": {
@@ -7656,6 +7565,48 @@
    "end": 1788898321,
    "title": "Dion's Soup Kitchen with no Soup #1",
    "items": 3,
+   "ended": false
+  },
+  "841GJ8": {
+   "msg": null,
+   "end": 1788914161,
+   "title": "Still here!",
+   "items": 5,
+   "ended": false
+  },
+  "2T9H80": {
+   "msg": null,
+   "end": 1788913921,
+   "title": "Daily Hat #90",
+   "items": 1,
+   "ended": false
+  },
+  "HNDY2P": {
+   "msg": null,
+   "end": 1788913561,
+   "title": "Daily Black Boxes #165",
+   "items": 6,
+   "ended": false
+  },
+  "POSKXC": {
+   "msg": null,
+   "end": 1788911882,
+   "title": "the creature",
+   "items": 2,
+   "ended": false
+  },
+  "6I3G3K": {
+   "msg": null,
+   "end": 1788911041,
+   "title": "7 issues read",
+   "items": 2,
+   "ended": false
+  },
+  "86SP3B": {
+   "msg": null,
+   "end": 1788908400,
+   "title": "A  a day",
+   "items": 1,
    "ended": false
   }
  },
